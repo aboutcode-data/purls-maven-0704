@@ -1,0 +1,4 @@
+- pkg:maven/com.github.amigold.fundapter/library@1.01
+- pkg:maven/com.github.amigold.fundapter/library@1.01?classifier=sources
+- pkg:maven/com.github.amigold.fundapter/library@1.0?classifier=sources
+- pkg:maven/com.github.amigold.fundapter/library@1.0?type=aar

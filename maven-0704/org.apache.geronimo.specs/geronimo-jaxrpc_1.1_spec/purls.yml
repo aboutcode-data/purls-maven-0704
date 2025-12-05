@@ -1,0 +1,9 @@
+- pkg:maven/org.apache.geronimo.specs/geronimo-jaxrpc_1.1_spec@1.0
+- pkg:maven/org.apache.geronimo.specs/geronimo-jaxrpc_1.1_spec@1.0.1
+- pkg:maven/org.apache.geronimo.specs/geronimo-jaxrpc_1.1_spec@1.1
+- pkg:maven/org.apache.geronimo.specs/geronimo-jaxrpc_1.1_spec@1.1?classifier=sources
+- pkg:maven/org.apache.geronimo.specs/geronimo-jaxrpc_1.1_spec@2.0.0
+- pkg:maven/org.apache.geronimo.specs/geronimo-jaxrpc_1.1_spec@2.0.0?classifier=sources
+- pkg:maven/org.apache.geronimo.specs/geronimo-jaxrpc_1.1_spec@2.1
+- pkg:maven/org.apache.geronimo.specs/geronimo-jaxrpc_1.1_spec@2.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.geronimo.specs/geronimo-jaxrpc_1.1_spec@2.1?classifier=sources

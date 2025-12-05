@@ -1,0 +1,4 @@
+- pkg:maven/xfire/xfire-all@1.0-20050921.171342
+- pkg:maven/xfire/xfire-all@1.0-20051014.153305?classifier=src&type=tar.gz
+- pkg:maven/xfire/xfire-all@1.0-20051014.153332?classifier=src&type=zip
+- pkg:maven/xfire/xfire-all@1.0-M6

@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.clerezza/rdf.core@0.12-incubating
+- pkg:maven/org.apache.clerezza/rdf.core@0.12-incubating?classifier=sources
+- pkg:maven/org.apache.clerezza/rdf.core@0.13
+- pkg:maven/org.apache.clerezza/rdf.core@0.13?classifier=sources

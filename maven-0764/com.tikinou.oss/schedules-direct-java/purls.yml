@@ -1,0 +1,2 @@
+- pkg:maven/com.tikinou.oss/schedules-direct-java@1.9
+- pkg:maven/com.tikinou.oss/schedules-direct-java@1.9?classifier=sources

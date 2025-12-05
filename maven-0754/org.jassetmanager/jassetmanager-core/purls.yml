@@ -1,0 +1,2 @@
+- pkg:maven/org.jassetmanager/jassetmanager-core@0.1
+- pkg:maven/org.jassetmanager/jassetmanager-core@0.1?classifier=sources

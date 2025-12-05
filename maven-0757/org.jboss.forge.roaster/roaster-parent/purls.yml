@@ -1,0 +1,3 @@
+- pkg:maven/org.jboss.forge.roaster/roaster-parent@2.1.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.forge.roaster/roaster-parent@2.2.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.forge.roaster/roaster-parent@2.3.0.Final?classifier=source-release&type=zip

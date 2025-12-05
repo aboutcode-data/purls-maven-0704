@@ -1,0 +1,2 @@
+- pkg:maven/io.ifar.shiro-jdbi-realm/shiro-jdbi-realm@0
+- pkg:maven/io.ifar.shiro-jdbi-realm/shiro-jdbi-realm@0?classifier=sources

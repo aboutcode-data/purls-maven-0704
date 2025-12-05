@@ -1,0 +1,2 @@
+- pkg:maven/org.owasp.esapi.contrib/esapi-spring-encryptedproperties@1.0.0
+- pkg:maven/org.owasp.esapi.contrib/esapi-spring-encryptedproperties@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.lastjcl/lastjcl@1.1
+- pkg:maven/net.sf.lastjcl/lastjcl@1.1?classifier=sources

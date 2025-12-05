@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.sisu/org.eclipse.sisu.plexus.extender@0.2.0?classifier=sources
+- pkg:maven/org.eclipse.sisu/org.eclipse.sisu.plexus.extender@0.2.1?classifier=sources

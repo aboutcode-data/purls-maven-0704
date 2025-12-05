@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.xbean/xbean-spring-v2a@2.6
+- pkg:maven/org.apache.xbean/xbean-spring-v2a@2.6?classifier=sources
+- pkg:maven/org.apache.xbean/xbean-spring-v2a@2.7
+- pkg:maven/org.apache.xbean/xbean-spring-v2a@2.7?classifier=sources
+- pkg:maven/org.apache.xbean/xbean-spring-v2a@2.8
+- pkg:maven/org.apache.xbean/xbean-spring-v2a@2.8?classifier=sources

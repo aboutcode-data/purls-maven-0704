@@ -1,0 +1,2 @@
+- pkg:maven/com.googlecode.gwt-usefull-logging/gwt-usefull-logging-server@0.4
+- pkg:maven/com.googlecode.gwt-usefull-logging/gwt-usefull-logging-server@0.4?classifier=sources

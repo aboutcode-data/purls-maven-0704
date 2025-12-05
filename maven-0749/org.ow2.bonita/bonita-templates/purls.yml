@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.bonita/bonita-templates@4.0
+- pkg:maven/org.ow2.bonita/bonita-templates@4.0?classifier=sources

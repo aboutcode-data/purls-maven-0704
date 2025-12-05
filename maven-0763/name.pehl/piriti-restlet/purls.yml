@@ -1,0 +1,4 @@
+- pkg:maven/name.pehl/piriti-restlet@0.7
+- pkg:maven/name.pehl/piriti-restlet@0.7?classifier=sources
+- pkg:maven/name.pehl/piriti-restlet@0.8
+- pkg:maven/name.pehl/piriti-restlet@0.8?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.sourceforge.jregex/jregex@1.2_01
+- pkg:maven/net.sourceforge.jregex/jregex@1.2_01?classifier=sources

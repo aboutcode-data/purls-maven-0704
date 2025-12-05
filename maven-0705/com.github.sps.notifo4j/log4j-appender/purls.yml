@@ -1,0 +1,2 @@
+- pkg:maven/com.github.sps.notifo4j/log4j-appender@1.0
+- pkg:maven/com.github.sps.notifo4j/log4j-appender@1.0?classifier=sources

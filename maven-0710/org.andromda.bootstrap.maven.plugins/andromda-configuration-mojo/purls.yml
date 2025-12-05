@@ -1,0 +1,2 @@
+- pkg:maven/org.andromda.bootstrap.maven.plugins/andromda-configuration-mojo@3.2
+- pkg:maven/org.andromda.bootstrap.maven.plugins/andromda-configuration-mojo@3.3

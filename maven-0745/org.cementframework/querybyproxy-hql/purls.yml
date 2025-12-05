@@ -1,0 +1,4 @@
+- pkg:maven/org.cementframework/querybyproxy-hql@0.0.4
+- pkg:maven/org.cementframework/querybyproxy-hql@0.0.4?classifier=sources
+- pkg:maven/org.cementframework/querybyproxy-hql@0.5.3
+- pkg:maven/org.cementframework/querybyproxy-hql@0.5.3?classifier=sources

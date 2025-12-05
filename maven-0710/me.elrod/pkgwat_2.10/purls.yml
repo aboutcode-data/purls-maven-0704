@@ -1,0 +1,6 @@
+- pkg:maven/me.elrod/pkgwat_2.10@1.0.0
+- pkg:maven/me.elrod/pkgwat_2.10@1.0.0?classifier=sources
+- pkg:maven/me.elrod/pkgwat_2.10@1.0.1
+- pkg:maven/me.elrod/pkgwat_2.10@1.0.1?classifier=sources
+- pkg:maven/me.elrod/pkgwat_2.10@1.0.2
+- pkg:maven/me.elrod/pkgwat_2.10@1.0.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.h0ru5.gwt/vizgwt-sample@1.0-alpha?classifier=sources
+- pkg:maven/com.github.h0ru5.gwt/vizgwt-sample@1.0-alpha?type=war

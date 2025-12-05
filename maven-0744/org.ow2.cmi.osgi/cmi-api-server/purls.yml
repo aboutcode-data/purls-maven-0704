@@ -1,0 +1,6 @@
+- pkg:maven/org.ow2.cmi.osgi/cmi-api-server@2.0-RC8
+- pkg:maven/org.ow2.cmi.osgi/cmi-api-server@2.0-RC8?classifier=sources
+- pkg:maven/org.ow2.cmi.osgi/cmi-api-server@2.0-RC8b
+- pkg:maven/org.ow2.cmi.osgi/cmi-api-server@2.0-RC8b?classifier=sources
+- pkg:maven/org.ow2.cmi.osgi/cmi-api-server@2.0.10
+- pkg:maven/org.ow2.cmi.osgi/cmi-api-server@2.0.10?classifier=sources

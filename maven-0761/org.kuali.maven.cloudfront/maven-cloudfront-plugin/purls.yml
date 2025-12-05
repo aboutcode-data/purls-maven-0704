@@ -1,0 +1,4 @@
+- pkg:maven/org.kuali.maven.cloudfront/maven-cloudfront-plugin@1.0.14
+- pkg:maven/org.kuali.maven.cloudfront/maven-cloudfront-plugin@1.0.14?classifier=sources
+- pkg:maven/org.kuali.maven.cloudfront/maven-cloudfront-plugin@1.0.15
+- pkg:maven/org.kuali.maven.cloudfront/maven-cloudfront-plugin@1.0.15?classifier=sources

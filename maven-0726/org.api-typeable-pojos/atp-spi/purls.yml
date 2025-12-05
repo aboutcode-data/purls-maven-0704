@@ -1,0 +1,4 @@
+- pkg:maven/org.api-typeable-pojos/atp-spi@0.6
+- pkg:maven/org.api-typeable-pojos/atp-spi@0.6.1
+- pkg:maven/org.api-typeable-pojos/atp-spi@0.6.1?classifier=sources
+- pkg:maven/org.api-typeable-pojos/atp-spi@0.6?classifier=sources

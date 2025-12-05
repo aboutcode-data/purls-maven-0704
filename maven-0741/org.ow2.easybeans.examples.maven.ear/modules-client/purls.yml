@@ -1,0 +1,13 @@
+- pkg:maven/org.ow2.easybeans.examples.maven.ear/modules-client@1.2.0
+- pkg:maven/org.ow2.easybeans.examples.maven.ear/modules-client@1.2.0-M1
+- pkg:maven/org.ow2.easybeans.examples.maven.ear/modules-client@1.2.0-M1?classifier=sources
+- pkg:maven/org.ow2.easybeans.examples.maven.ear/modules-client@1.2.0-M2
+- pkg:maven/org.ow2.easybeans.examples.maven.ear/modules-client@1.2.0-M2?classifier=sources
+- pkg:maven/org.ow2.easybeans.examples.maven.ear/modules-client@1.2.0-M3
+- pkg:maven/org.ow2.easybeans.examples.maven.ear/modules-client@1.2.0-M3-JOnAS
+- pkg:maven/org.ow2.easybeans.examples.maven.ear/modules-client@1.2.0-M4
+- pkg:maven/org.ow2.easybeans.examples.maven.ear/modules-client@1.2.0-M5
+- pkg:maven/org.ow2.easybeans.examples.maven.ear/modules-client@1.2.1
+- pkg:maven/org.ow2.easybeans.examples.maven.ear/modules-client@1.2.2
+- pkg:maven/org.ow2.easybeans.examples.maven.ear/modules-client@1.2.3
+- pkg:maven/org.ow2.easybeans.examples.maven.ear/modules-client@1.2.4

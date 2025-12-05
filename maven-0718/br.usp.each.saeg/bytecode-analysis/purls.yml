@@ -1,0 +1,2 @@
+- pkg:maven/br.usp.each.saeg/bytecode-analysis@0.5.4
+- pkg:maven/br.usp.each.saeg/bytecode-analysis@0.5.4?classifier=sources

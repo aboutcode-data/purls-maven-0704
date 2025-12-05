@@ -1,0 +1,6 @@
+- pkg:maven/org.jomc.sequences/jomc-sequences-ear@1.0-alpha-1?classifier=sources
+- pkg:maven/org.jomc.sequences/jomc-sequences-ear@1.0-alpha-2?classifier=sources
+- pkg:maven/org.jomc.sequences/jomc-sequences-ear@1.0-alpha-3?classifier=sources
+- pkg:maven/org.jomc.sequences/jomc-sequences-ear@1.0-alpha-4?classifier=sources
+- pkg:maven/org.jomc.sequences/jomc-sequences-ear@1.0-beta-1?classifier=sources
+- pkg:maven/org.jomc.sequences/jomc-sequences-ear@1.0-beta-2?classifier=sources

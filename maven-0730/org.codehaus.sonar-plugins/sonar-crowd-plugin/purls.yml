@@ -1,0 +1,4 @@
+- pkg:maven/org.codehaus.sonar-plugins/sonar-crowd-plugin@0.1
+- pkg:maven/org.codehaus.sonar-plugins/sonar-crowd-plugin@0.1?classifier=sources
+- pkg:maven/org.codehaus.sonar-plugins/sonar-crowd-plugin@0.2?classifier=sources
+- pkg:maven/org.codehaus.sonar-plugins/sonar-crowd-plugin@1.0?classifier=sources

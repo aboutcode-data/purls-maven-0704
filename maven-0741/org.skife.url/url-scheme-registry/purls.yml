@@ -1,0 +1,2 @@
+- pkg:maven/org.skife.url/url-scheme-registry@0.0.1
+- pkg:maven/org.skife.url/url-scheme-registry@0.0.1?classifier=sources

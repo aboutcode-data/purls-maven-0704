@@ -1,0 +1,2 @@
+- pkg:maven/se.ugli.habanero.servlet-driver/habanero-servlet-driver-servlet@0.9.0
+- pkg:maven/se.ugli.habanero.servlet-driver/habanero-servlet-driver-servlet@0.9.0?classifier=sources

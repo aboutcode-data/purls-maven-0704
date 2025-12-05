@@ -1,0 +1,3 @@
+- pkg:maven/avalon-util/avalon-util-extension-impl@1.1
+- pkg:maven/avalon-util/avalon-util-extension-impl@1.2.0
+- pkg:maven/avalon-util/avalon-util-extension-impl@1.2.dev-0

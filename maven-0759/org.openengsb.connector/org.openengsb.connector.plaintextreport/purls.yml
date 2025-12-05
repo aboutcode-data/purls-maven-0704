@@ -1,0 +1,3 @@
+- pkg:maven/org.openengsb.connector/org.openengsb.connector.plaintextreport@2.0.0
+- pkg:maven/org.openengsb.connector/org.openengsb.connector.plaintextreport@2.0.0?classifier=sources
+- pkg:maven/org.openengsb.connector/org.openengsb.connector.plaintextreport@2.0.0?classifier=src&type=zip

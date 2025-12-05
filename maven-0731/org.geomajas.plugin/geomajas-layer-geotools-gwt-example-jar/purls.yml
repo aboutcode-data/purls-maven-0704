@@ -1,0 +1,6 @@
+- pkg:maven/org.geomajas.plugin/geomajas-layer-geotools-gwt-example-jar@1.10.0
+- pkg:maven/org.geomajas.plugin/geomajas-layer-geotools-gwt-example-jar@1.10.0?classifier=sources
+- pkg:maven/org.geomajas.plugin/geomajas-layer-geotools-gwt-example-jar@1.11.0
+- pkg:maven/org.geomajas.plugin/geomajas-layer-geotools-gwt-example-jar@1.11.0?classifier=sources
+- pkg:maven/org.geomajas.plugin/geomajas-layer-geotools-gwt-example-jar@1.11.2
+- pkg:maven/org.geomajas.plugin/geomajas-layer-geotools-gwt-example-jar@1.11.2?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.github.johnkil.android-progressfragment/progressfragment@1.3.1?classifier=sources
+- pkg:maven/com.github.johnkil.android-progressfragment/progressfragment@1.3.1?type=aar
+- pkg:maven/com.github.johnkil.android-progressfragment/progressfragment@1.3?classifier=sources
+- pkg:maven/com.github.johnkil.android-progressfragment/progressfragment@1.3?type=aar
+- pkg:maven/com.github.johnkil.android-progressfragment/progressfragment@1.4.0?classifier=sources
+- pkg:maven/com.github.johnkil.android-progressfragment/progressfragment@1.4.0?type=aar

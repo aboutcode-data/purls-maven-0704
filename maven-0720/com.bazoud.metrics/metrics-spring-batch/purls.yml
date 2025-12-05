@@ -1,0 +1,2 @@
+- pkg:maven/com.bazoud.metrics/metrics-spring-batch@1.0
+- pkg:maven/com.bazoud.metrics/metrics-spring-batch@1.0?classifier=sources

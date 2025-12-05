@@ -1,0 +1,2 @@
+- pkg:maven/org.blinkenlights.jid3/JID3@0.46
+- pkg:maven/org.blinkenlights.jid3/JID3@0.46?classifier=sources

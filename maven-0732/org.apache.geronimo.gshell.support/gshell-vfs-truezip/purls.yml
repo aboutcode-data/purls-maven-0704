@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.geronimo.gshell.support/gshell-vfs-truezip@1.0-alpha-2
+- pkg:maven/org.apache.geronimo.gshell.support/gshell-vfs-truezip@1.0-alpha-2?classifier=sources

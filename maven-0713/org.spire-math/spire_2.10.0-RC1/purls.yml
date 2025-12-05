@@ -1,0 +1,4 @@
+- pkg:maven/org.spire-math/spire_2.10.0-RC1@0.3.0-M2
+- pkg:maven/org.spire-math/spire_2.10.0-RC1@0.3.0-M2?classifier=sources
+- pkg:maven/org.spire-math/spire_2.10.0-RC1@0.3.0-M3
+- pkg:maven/org.spire-math/spire_2.10.0-RC1@0.3.0-M3?classifier=sources

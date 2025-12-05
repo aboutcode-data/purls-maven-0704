@@ -1,0 +1,2 @@
+- pkg:maven/io.trygvis.usb/cpptasks-parallel@1.0-beta-5-parallel-1-trygvis-1
+- pkg:maven/io.trygvis.usb/cpptasks-parallel@1.0-beta-5-parallel-1-trygvis-1?classifier=sources

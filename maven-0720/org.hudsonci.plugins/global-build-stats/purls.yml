@@ -1,0 +1,2 @@
+- pkg:maven/org.hudsonci.plugins/global-build-stats@1.4-h-1?classifier=sources
+- pkg:maven/org.hudsonci.plugins/global-build-stats@1.4-h-2?classifier=sources

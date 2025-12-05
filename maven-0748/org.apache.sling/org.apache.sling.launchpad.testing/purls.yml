@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad.testing@5-incubator?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad.testing@5-incubator?type=war

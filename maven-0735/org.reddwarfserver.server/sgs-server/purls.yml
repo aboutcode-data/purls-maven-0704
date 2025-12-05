@@ -1,0 +1,6 @@
+- pkg:maven/org.reddwarfserver.server/sgs-server@0.10.0
+- pkg:maven/org.reddwarfserver.server/sgs-server@0.10.0?classifier=sources
+- pkg:maven/org.reddwarfserver.server/sgs-server@0.10.1
+- pkg:maven/org.reddwarfserver.server/sgs-server@0.10.1?classifier=sources
+- pkg:maven/org.reddwarfserver.server/sgs-server@0.10.2
+- pkg:maven/org.reddwarfserver.server/sgs-server@0.10.2?classifier=sources

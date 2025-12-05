@@ -1,0 +1,2 @@
+- pkg:maven/com.aceevo.ursus/ursus-example-scala-application@0.2.13
+- pkg:maven/com.aceevo.ursus/ursus-example-scala-application@0.2.13?classifier=sources

@@ -1,0 +1,9 @@
+- pkg:maven/org.apache.xbean/xbean-spring-itests-128@2.4
+- pkg:maven/org.apache.xbean/xbean-spring-itests-128@2.4?classifier=sources
+- pkg:maven/org.apache.xbean/xbean-spring-itests-128@2.5
+- pkg:maven/org.apache.xbean/xbean-spring-itests-128@2.6
+- pkg:maven/org.apache.xbean/xbean-spring-itests-128@2.6?classifier=sources
+- pkg:maven/org.apache.xbean/xbean-spring-itests-128@2.7
+- pkg:maven/org.apache.xbean/xbean-spring-itests-128@2.7?classifier=sources
+- pkg:maven/org.apache.xbean/xbean-spring-itests-128@2.8
+- pkg:maven/org.apache.xbean/xbean-spring-itests-128@2.8?classifier=sources

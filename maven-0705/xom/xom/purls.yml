@@ -1,0 +1,11 @@
+- pkg:maven/xom/xom@1.0
+- pkg:maven/xom/xom@1.0b3
+- pkg:maven/xom/xom@1.0d21
+- pkg:maven/xom/xom@1.1
+- pkg:maven/xom/xom@1.1?classifier=sources
+- pkg:maven/xom/xom@1.1b2
+- pkg:maven/xom/xom@1.1b3
+- pkg:maven/xom/xom@1.1b5
+- pkg:maven/xom/xom@1.1d2
+- pkg:maven/xom/xom@1.2.5
+- pkg:maven/xom/xom@1.2.5?classifier=sources

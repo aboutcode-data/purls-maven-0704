@@ -1,0 +1,4 @@
+- pkg:maven/org.nakedobjects.plugins/htmlviewer-webapp@1.0-alpha-1?classifier=sources
+- pkg:maven/org.nakedobjects.plugins/htmlviewer-webapp@1.0-alpha-1?type=war
+- pkg:maven/org.nakedobjects.plugins/htmlviewer-webapp@1.0-alpha-2?classifier=sources
+- pkg:maven/org.nakedobjects.plugins/htmlviewer-webapp@1.0-alpha-2?type=war

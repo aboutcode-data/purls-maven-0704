@@ -1,0 +1,8 @@
+- pkg:maven/jp.t2v/play2.auth.test_2.10@0.10
+- pkg:maven/jp.t2v/play2.auth.test_2.10@0.10.1
+- pkg:maven/jp.t2v/play2.auth.test_2.10@0.10.1?classifier=sources
+- pkg:maven/jp.t2v/play2.auth.test_2.10@0.10?classifier=sources
+- pkg:maven/jp.t2v/play2.auth.test_2.10@0.8
+- pkg:maven/jp.t2v/play2.auth.test_2.10@0.8?classifier=sources
+- pkg:maven/jp.t2v/play2.auth.test_2.10@0.9
+- pkg:maven/jp.t2v/play2.auth.test_2.10@0.9?classifier=sources

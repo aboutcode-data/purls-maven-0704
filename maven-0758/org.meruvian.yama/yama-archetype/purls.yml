@@ -1,0 +1,2 @@
+- pkg:maven/org.meruvian.yama/yama-archetype@1.0-Beta1
+- pkg:maven/org.meruvian.yama/yama-archetype@1.0-Beta1?classifier=sources

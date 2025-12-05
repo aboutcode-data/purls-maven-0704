@@ -1,0 +1,6 @@
+- pkg:maven/org.iq80.cli/git-like-cli@0.1
+- pkg:maven/org.iq80.cli/git-like-cli@0.1?classifier=sources
+- pkg:maven/org.iq80.cli/git-like-cli@0.2
+- pkg:maven/org.iq80.cli/git-like-cli@0.2?classifier=sources
+- pkg:maven/org.iq80.cli/git-like-cli@0.3
+- pkg:maven/org.iq80.cli/git-like-cli@0.3?classifier=sources

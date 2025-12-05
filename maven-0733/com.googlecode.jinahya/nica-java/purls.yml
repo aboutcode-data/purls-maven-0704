@@ -1,0 +1,10 @@
+- pkg:maven/com.googlecode.jinahya/nica-java@1.0-alpha-1
+- pkg:maven/com.googlecode.jinahya/nica-java@1.0-alpha-10
+- pkg:maven/com.googlecode.jinahya/nica-java@1.0-alpha-10?classifier=sources
+- pkg:maven/com.googlecode.jinahya/nica-java@1.0-alpha-11
+- pkg:maven/com.googlecode.jinahya/nica-java@1.0-alpha-11?classifier=sources
+- pkg:maven/com.googlecode.jinahya/nica-java@1.0-alpha-1?classifier=sources
+- pkg:maven/com.googlecode.jinahya/nica-java@1.0-alpha-3
+- pkg:maven/com.googlecode.jinahya/nica-java@1.0-alpha-3?classifier=sources
+- pkg:maven/com.googlecode.jinahya/nica-java@1.0-alpha-8
+- pkg:maven/com.googlecode.jinahya/nica-java@1.0-alpha-8?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/org.objectweb.fractal.cecilia.examples/helloworld@1.0
+- pkg:maven/org.objectweb.fractal.cecilia.examples/helloworld@2.0-alpha-1?classifier=sources
+- pkg:maven/org.objectweb.fractal.cecilia.examples/helloworld@2.0-alpha-5?classifier=sources
+- pkg:maven/org.objectweb.fractal.cecilia.examples/helloworld@2.0-beta-1?classifier=sources
+- pkg:maven/org.objectweb.fractal.cecilia.examples/helloworld@2.0-beta-2?classifier=sources
+- pkg:maven/org.objectweb.fractal.cecilia.examples/helloworld@2.0.1?classifier=sources
+- pkg:maven/org.objectweb.fractal.cecilia.examples/helloworld@2.0.2?classifier=sources
+- pkg:maven/org.objectweb.fractal.cecilia.examples/helloworld@2.0.3?classifier=sources
+- pkg:maven/org.objectweb.fractal.cecilia.examples/helloworld@2.0?classifier=sources
+- pkg:maven/org.objectweb.fractal.cecilia.examples/helloworld@2.1.0?classifier=sources

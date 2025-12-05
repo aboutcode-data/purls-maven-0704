@@ -1,0 +1,2 @@
+- pkg:maven/de.shadowhunt.maven.plugins/package-info-maven-plugin@1.4.2
+- pkg:maven/de.shadowhunt.maven.plugins/package-info-maven-plugin@1.4.2?classifier=sources

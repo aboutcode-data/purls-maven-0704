@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-dist@0.1.0-incubating?classifier=source-release&type=zip

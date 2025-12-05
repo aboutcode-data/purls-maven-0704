@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.logging.log4j.samples/log4j-samples-flume-common@2.0-rc1
+- pkg:maven/org.apache.logging.log4j.samples/log4j-samples-flume-common@2.0-rc1?classifier=sources

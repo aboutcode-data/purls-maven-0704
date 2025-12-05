@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.clerezza/maven-jaxrs-report-plugin@0.1-incubating
+- pkg:maven/org.apache.clerezza/maven-jaxrs-report-plugin@0.1-incubating?classifier=sources

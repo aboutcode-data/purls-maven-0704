@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.geronimo.samples.javaee5/bank-util@3.0.0
+- pkg:maven/org.apache.geronimo.samples.javaee5/bank-util@3.0.0?classifier=sources

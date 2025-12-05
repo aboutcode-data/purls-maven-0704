@@ -1,0 +1,2 @@
+- pkg:maven/net.databinder/unfiltered-oauth2_2.8.2@0.6.5
+- pkg:maven/net.databinder/unfiltered-oauth2_2.8.2@0.6.5?classifier=sources

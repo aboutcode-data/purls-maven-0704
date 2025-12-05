@@ -1,0 +1,5 @@
+- pkg:maven/org.apache.felix/org.apache.felix.dependencymanager.shell@2.0.1
+- pkg:maven/org.apache.felix/org.apache.felix.dependencymanager.shell@3.0.0
+- pkg:maven/org.apache.felix/org.apache.felix.dependencymanager.shell@3.0.0?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.dependencymanager.shell@3.0.1
+- pkg:maven/org.apache.felix/org.apache.felix.dependencymanager.shell@3.0.1?classifier=sources

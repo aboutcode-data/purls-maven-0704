@@ -1,0 +1,4 @@
+- pkg:maven/com.google.android.tools/ddmlib@r10
+- pkg:maven/com.google.android.tools/ddmlib@r10?classifier=sources
+- pkg:maven/com.google.android.tools/ddmlib@r13
+- pkg:maven/com.google.android.tools/ddmlib@r13?classifier=sources

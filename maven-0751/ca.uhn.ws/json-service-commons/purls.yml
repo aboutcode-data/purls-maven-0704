@@ -1,0 +1,2 @@
+- pkg:maven/ca.uhn.ws/json-service-commons@2.1
+- pkg:maven/ca.uhn.ws/json-service-commons@2.1?classifier=sources

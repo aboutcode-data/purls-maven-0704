@@ -1,0 +1,4 @@
+- pkg:maven/org.scalikejdbc/scalikejdbc-core_2.10@2.0.0-beta2
+- pkg:maven/org.scalikejdbc/scalikejdbc-core_2.10@2.0.0-beta2?classifier=sources
+- pkg:maven/org.scalikejdbc/scalikejdbc-core_2.10@2.0.0-beta3
+- pkg:maven/org.scalikejdbc/scalikejdbc-core_2.10@2.0.0-beta3?classifier=sources

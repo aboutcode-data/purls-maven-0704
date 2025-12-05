@@ -1,0 +1,6 @@
+- pkg:maven/com.google.code.maven-play-plugin.org.eclipse.jdt/org.eclipse.jdt.core@3.6.0.v_A56
+- pkg:maven/com.google.code.maven-play-plugin.org.eclipse.jdt/org.eclipse.jdt.core@3.6.0.v_A56?classifier=sources
+- pkg:maven/com.google.code.maven-play-plugin.org.eclipse.jdt/org.eclipse.jdt.core@3.8.0.v_C03
+- pkg:maven/com.google.code.maven-play-plugin.org.eclipse.jdt/org.eclipse.jdt.core@3.8.0.v_C03?classifier=sources
+- pkg:maven/com.google.code.maven-play-plugin.org.eclipse.jdt/org.eclipse.jdt.core@3.8.0.v_C18
+- pkg:maven/com.google.code.maven-play-plugin.org.eclipse.jdt/org.eclipse.jdt.core@3.8.0.v_C18?classifier=sources

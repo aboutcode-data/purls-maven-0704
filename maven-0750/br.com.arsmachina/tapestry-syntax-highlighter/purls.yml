@@ -1,0 +1,2 @@
+- pkg:maven/br.com.arsmachina/tapestry-syntax-highlighter@0.0.1
+- pkg:maven/br.com.arsmachina/tapestry-syntax-highlighter@0.0.1?classifier=sources

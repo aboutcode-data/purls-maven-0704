@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.jetty.orbit/org.apache.jasper.glassfish@2.1.0.v201110031002?classifier=sources
+- pkg:maven/org.eclipse.jetty.orbit/org.apache.jasper.glassfish@2.2.2.v201112011158?classifier=sources

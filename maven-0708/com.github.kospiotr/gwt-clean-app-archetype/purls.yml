@@ -1,0 +1,2 @@
+- pkg:maven/com.github.kospiotr/gwt-clean-app-archetype@1.1?classifier=sources
+- pkg:maven/com.github.kospiotr/gwt-clean-app-archetype@2.6.1?classifier=sources

@@ -1,0 +1,14 @@
+- pkg:maven/org.codehaus/mvel@1.2.18-java1.4
+- pkg:maven/org.codehaus/mvel@1.2.18-java1.5
+- pkg:maven/org.codehaus/mvel@1.2.18-java1.6
+- pkg:maven/org.codehaus/mvel@1.2.19-java1.4
+- pkg:maven/org.codehaus/mvel@1.2.19-java1.5
+- pkg:maven/org.codehaus/mvel@1.2.19-java1.6
+- pkg:maven/org.codehaus/mvel@1.2.20-java1.4
+- pkg:maven/org.codehaus/mvel@1.2.20-java1.5
+- pkg:maven/org.codehaus/mvel@1.2.20-java1.6
+- pkg:maven/org.codehaus/mvel@1.2.21-java1.4
+- pkg:maven/org.codehaus/mvel@1.2.21-java1.5
+- pkg:maven/org.codehaus/mvel@1.2.21-java1.6
+- pkg:maven/org.codehaus/mvel@1.2.22-java1.4
+- pkg:maven/org.codehaus/mvel@1.2.22-java1.5

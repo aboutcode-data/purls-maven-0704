@@ -1,0 +1,8 @@
+- pkg:maven/net.sf.r4h/repository4hibernate-shared@4.1.2
+- pkg:maven/net.sf.r4h/repository4hibernate-shared@4.1.2?classifier=sources
+- pkg:maven/net.sf.r4h/repository4hibernate-shared@4.1.8.Final
+- pkg:maven/net.sf.r4h/repository4hibernate-shared@4.1.8.Final?classifier=sources
+- pkg:maven/net.sf.r4h/repository4hibernate-shared@4.1.9.Final
+- pkg:maven/net.sf.r4h/repository4hibernate-shared@4.1.9.Final?classifier=sources
+- pkg:maven/net.sf.r4h/repository4hibernate-shared@4.3.6.Final
+- pkg:maven/net.sf.r4h/repository4hibernate-shared@4.3.6.Final?classifier=sources

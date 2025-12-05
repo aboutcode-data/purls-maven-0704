@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad.app@3-incubator
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad.app@3-incubator?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad.app@5-incubator
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad.app@5-incubator?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.wesleyhome.johksoftware.resource/resource-loader-spi@2.0.0
+- pkg:maven/com.wesleyhome.johksoftware.resource/resource-loader-spi@2.0.0?classifier=sources

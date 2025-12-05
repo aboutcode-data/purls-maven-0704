@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.openejb/openejb-xfire@3.0-beta-1
+- pkg:maven/org.apache.openejb/openejb-xfire@3.0-beta-1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.dropbox.core/sdk@1.6-beta-1
+- pkg:maven/com.dropbox.core/sdk@1.6-beta-1?classifier=sources

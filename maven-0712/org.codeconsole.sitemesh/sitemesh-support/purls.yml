@@ -1,0 +1,2 @@
+- pkg:maven/org.codeconsole.sitemesh/sitemesh-support@0.1.2.RELEASE
+- pkg:maven/org.codeconsole.sitemesh/sitemesh-support@0.1.2.RELEASE?classifier=sources

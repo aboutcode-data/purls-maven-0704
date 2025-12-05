@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-api-gradle-embedded-archive@2.2.0-alpha-1
+- pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-api-gradle-embedded-archive@2.2.0-alpha-1?classifier=sources

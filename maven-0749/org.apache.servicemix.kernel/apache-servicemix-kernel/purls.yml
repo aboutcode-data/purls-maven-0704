@@ -1,0 +1,14 @@
+- pkg:maven/org.apache.servicemix.kernel/apache-servicemix-kernel@1.0-m1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.kernel/apache-servicemix-kernel@1.0-m1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.kernel/apache-servicemix-kernel@1.0-m2?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.kernel/apache-servicemix-kernel@1.0-m2?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.kernel/apache-servicemix-kernel@1.0-m3?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.kernel/apache-servicemix-kernel@1.0-m3?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.kernel/apache-servicemix-kernel@1.0.0-rc1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.kernel/apache-servicemix-kernel@1.0.0-rc1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.kernel/apache-servicemix-kernel@1.0.0-rc2?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.kernel/apache-servicemix-kernel@1.0.0-rc2?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.kernel/apache-servicemix-kernel@1.0.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.kernel/apache-servicemix-kernel@1.0.0?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.kernel/apache-servicemix-kernel@1.1.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.kernel/apache-servicemix-kernel@1.1.0?classifier=src&type=zip

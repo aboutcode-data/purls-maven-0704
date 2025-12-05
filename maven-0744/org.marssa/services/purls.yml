@@ -1,0 +1,2 @@
+- pkg:maven/org.marssa/services@0.1.0-beta-01
+- pkg:maven/org.marssa/services@0.1.0-beta-01?classifier=sources

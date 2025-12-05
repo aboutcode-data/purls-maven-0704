@@ -1,0 +1,6 @@
+- pkg:maven/com.jolira/java-gossip@0.1.0
+- pkg:maven/com.jolira/java-gossip@0.1.0?classifier=sources
+- pkg:maven/com.jolira/java-gossip@1.5.0
+- pkg:maven/com.jolira/java-gossip@1.5.0?classifier=sources
+- pkg:maven/com.jolira/java-gossip@1.5.1
+- pkg:maven/com.jolira/java-gossip@1.5.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.peachjean.mojo.pegdown/pegdown-maven-plugin@0.1.0
+- pkg:maven/net.peachjean.mojo.pegdown/pegdown-maven-plugin@0.1.0?classifier=sources

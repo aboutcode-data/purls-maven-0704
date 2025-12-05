@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.jasmine.probe/jasmine-probe-jmx-connection@1.1.1-M1
+- pkg:maven/org.ow2.jasmine.probe/jasmine-probe-jmx-connection@1.1.1-M1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/edu.washington.cs.knowitall/reverb-models@1.4.0
+- pkg:maven/edu.washington.cs.knowitall/reverb-models@1.4.0?classifier=sources

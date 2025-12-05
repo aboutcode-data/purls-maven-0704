@@ -1,0 +1,2 @@
+- pkg:maven/com.catify.bpmn/integration-spi-camel@1.1
+- pkg:maven/com.catify.bpmn/integration-spi-camel@1.1?classifier=sources

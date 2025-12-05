@@ -1,0 +1,6 @@
+- pkg:maven/com.googlecode.metridoc/metridoc-wire@0.12
+- pkg:maven/com.googlecode.metridoc/metridoc-wire@0.12?classifier=sources
+- pkg:maven/com.googlecode.metridoc/metridoc-wire@0.13
+- pkg:maven/com.googlecode.metridoc/metridoc-wire@0.13?classifier=sources
+- pkg:maven/com.googlecode.metridoc/metridoc-wire@0.14
+- pkg:maven/com.googlecode.metridoc/metridoc-wire@0.14?classifier=sources

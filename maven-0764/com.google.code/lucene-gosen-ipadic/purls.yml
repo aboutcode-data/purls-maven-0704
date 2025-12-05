@@ -1,0 +1,2 @@
+- pkg:maven/com.google.code/lucene-gosen-ipadic@1.2.1
+- pkg:maven/com.google.code/lucene-gosen-ipadic@1.2.1?classifier=sources

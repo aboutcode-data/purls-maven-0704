@@ -1,0 +1,2 @@
+- pkg:maven/org.entando.entando/entando-archetype-bundle-content@3.2.0?classifier=sources
+- pkg:maven/org.entando.entando/entando-archetype-bundle-content@4.0.0?classifier=sources

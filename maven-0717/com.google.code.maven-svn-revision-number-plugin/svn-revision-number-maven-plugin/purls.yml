@@ -1,0 +1,6 @@
+- pkg:maven/com.google.code.maven-svn-revision-number-plugin/svn-revision-number-maven-plugin@1.11
+- pkg:maven/com.google.code.maven-svn-revision-number-plugin/svn-revision-number-maven-plugin@1.11?classifier=sources
+- pkg:maven/com.google.code.maven-svn-revision-number-plugin/svn-revision-number-maven-plugin@1.12
+- pkg:maven/com.google.code.maven-svn-revision-number-plugin/svn-revision-number-maven-plugin@1.12?classifier=sources
+- pkg:maven/com.google.code.maven-svn-revision-number-plugin/svn-revision-number-maven-plugin@1.13
+- pkg:maven/com.google.code.maven-svn-revision-number-plugin/svn-revision-number-maven-plugin@1.13?classifier=sources

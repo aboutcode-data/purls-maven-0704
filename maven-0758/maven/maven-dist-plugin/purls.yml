@@ -1,0 +1,2 @@
+- pkg:maven/maven/maven-dist-plugin@1.0
+- pkg:maven/maven/maven-dist-plugin@1.7.1

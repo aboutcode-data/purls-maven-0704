@@ -1,0 +1,2 @@
+- pkg:maven/org.andromda.cartridges/andromda-webservice-cartridge@3.4
+- pkg:maven/org.andromda.cartridges/andromda-webservice-cartridge@3.4?classifier=sources

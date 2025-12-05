@@ -1,0 +1,4 @@
+- pkg:maven/de.holisticon.util.tracee.examples/tracee-examples-springmvc@0.1.0?classifier=sources
+- pkg:maven/de.holisticon.util.tracee.examples/tracee-examples-springmvc@0.1.0?type=war
+- pkg:maven/de.holisticon.util.tracee.examples/tracee-examples-springmvc@0.2.0?classifier=sources
+- pkg:maven/de.holisticon.util.tracee.examples/tracee-examples-springmvc@0.2.0?type=war

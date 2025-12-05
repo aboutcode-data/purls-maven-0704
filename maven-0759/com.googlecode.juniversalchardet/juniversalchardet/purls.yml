@@ -1,0 +1,2 @@
+- pkg:maven/com.googlecode.juniversalchardet/juniversalchardet@1.0.3
+- pkg:maven/com.googlecode.juniversalchardet/juniversalchardet@1.0.3?classifier=sources

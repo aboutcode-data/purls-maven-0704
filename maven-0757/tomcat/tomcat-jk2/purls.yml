@@ -1,0 +1,7 @@
+- pkg:maven/tomcat/tomcat-jk2@3.3.2
+- pkg:maven/tomcat/tomcat-jk2@4.1.31
+- pkg:maven/tomcat/tomcat-jk2@4.1.34
+- pkg:maven/tomcat/tomcat-jk2@4.1.36
+- pkg:maven/tomcat/tomcat-jk2@5.0.16
+- pkg:maven/tomcat/tomcat-jk2@5.0.18
+- pkg:maven/tomcat/tomcat-jk2@5.0.28

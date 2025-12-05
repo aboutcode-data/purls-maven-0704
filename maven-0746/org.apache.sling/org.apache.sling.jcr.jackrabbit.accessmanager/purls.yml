@@ -1,0 +1,8 @@
+- pkg:maven/org.apache.sling/org.apache.sling.jcr.jackrabbit.accessmanager@2.0.2-incubator
+- pkg:maven/org.apache.sling/org.apache.sling.jcr.jackrabbit.accessmanager@2.0.2-incubator?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.jcr.jackrabbit.accessmanager@2.0.4
+- pkg:maven/org.apache.sling/org.apache.sling.jcr.jackrabbit.accessmanager@2.0.4?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.jcr.jackrabbit.accessmanager@2.0.4?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.jcr.jackrabbit.accessmanager@2.1.0
+- pkg:maven/org.apache.sling/org.apache.sling.jcr.jackrabbit.accessmanager@2.1.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.jcr.jackrabbit.accessmanager@2.1.0?classifier=sources

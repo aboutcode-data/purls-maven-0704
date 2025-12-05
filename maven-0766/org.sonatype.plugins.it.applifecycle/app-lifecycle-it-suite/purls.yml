@@ -1,0 +1,2 @@
+- pkg:maven/org.sonatype.plugins.it.applifecycle/app-lifecycle-it-suite@1.0
+- pkg:maven/org.sonatype.plugins.it.applifecycle/app-lifecycle-it-suite@1.0?classifier=sources

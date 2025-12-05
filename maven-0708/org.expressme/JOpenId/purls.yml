@@ -1,0 +1,2 @@
+- pkg:maven/org.expressme/JOpenId@1.08
+- pkg:maven/org.expressme/JOpenId@1.08?classifier=sources

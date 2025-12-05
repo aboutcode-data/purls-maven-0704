@@ -1,0 +1,4 @@
+- pkg:maven/mx.bigdata.datalib/datalib@1.0
+- pkg:maven/mx.bigdata.datalib/datalib@1.0?classifier=sources
+- pkg:maven/mx.bigdata.datalib/datalib@2.0.0
+- pkg:maven/mx.bigdata.datalib/datalib@2.0.0?classifier=sources

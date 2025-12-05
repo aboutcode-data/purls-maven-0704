@@ -1,0 +1,5 @@
+- pkg:maven/mule/mule-oracle-jms-provider@1.2
+- pkg:maven/mule/mule-oracle-jms-provider@1.3-rc1
+- pkg:maven/mule/mule-oracle-jms-provider@1.3-rc2
+- pkg:maven/mule/mule-oracle-jms-provider@1.3-rc3
+- pkg:maven/mule/mule-oracle-jms-provider@1.3-rc4

@@ -1,0 +1,2 @@
+- pkg:maven/org.robolectric/android-libcore@4.3_r2.robolectric-0
+- pkg:maven/org.robolectric/android-libcore@4.3_r2.robolectric-0?classifier=sources

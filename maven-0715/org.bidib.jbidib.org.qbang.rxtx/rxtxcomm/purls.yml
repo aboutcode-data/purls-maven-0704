@@ -1,0 +1,2 @@
+- pkg:maven/org.bidib.jbidib.org.qbang.rxtx/rxtxcomm@2.2
+- pkg:maven/org.bidib.jbidib.org.qbang.rxtx/rxtxcomm@2.2?classifier=sources

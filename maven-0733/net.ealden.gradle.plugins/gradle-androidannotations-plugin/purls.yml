@@ -1,0 +1,2 @@
+- pkg:maven/net.ealden.gradle.plugins/gradle-androidannotations-plugin@0.3.0
+- pkg:maven/net.ealden.gradle.plugins/gradle-androidannotations-plugin@0.3.0?classifier=sources

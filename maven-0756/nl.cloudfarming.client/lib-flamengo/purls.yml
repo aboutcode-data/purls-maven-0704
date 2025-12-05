@@ -1,0 +1,2 @@
+- pkg:maven/nl.cloudfarming.client/lib-flamengo@5.0-NB72?classifier=sources
+- pkg:maven/nl.cloudfarming.client/lib-flamengo@5.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.github.kaitoy.sneo/giane-jetty@1.2.0?classifier=sources
+- pkg:maven/com.github.kaitoy.sneo/giane-jetty@1.2.0?type=war
+- pkg:maven/com.github.kaitoy.sneo/giane-jetty@1.2.1?classifier=sources
+- pkg:maven/com.github.kaitoy.sneo/giane-jetty@1.2.1?type=war
+- pkg:maven/com.github.kaitoy.sneo/giane-jetty@1.2.2?classifier=sources
+- pkg:maven/com.github.kaitoy.sneo/giane-jetty@1.2.2?type=war

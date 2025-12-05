@@ -1,0 +1,2 @@
+- pkg:maven/rhino/rhino@1.5R4.1
+- pkg:maven/rhino/rhino@1.5R4.1?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/com.kurento.kmf/kmf-content-protocol@1.0.0
+- pkg:maven/com.kurento.kmf/kmf-content-protocol@1.0.0?classifier=sources
+- pkg:maven/com.kurento.kmf/kmf-content-protocol@3.0.5
+- pkg:maven/com.kurento.kmf/kmf-content-protocol@3.0.5?classifier=sources
+- pkg:maven/com.kurento.kmf/kmf-content-protocol@4.1.0
+- pkg:maven/com.kurento.kmf/kmf-content-protocol@4.1.0?classifier=sources
+- pkg:maven/com.kurento.kmf/kmf-content-protocol@4.2.2
+- pkg:maven/com.kurento.kmf/kmf-content-protocol@4.2.2?classifier=sources

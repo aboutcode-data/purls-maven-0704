@@ -1,0 +1,2 @@
+- pkg:maven/org.scalamock/scalamock-core_2.10.0-M6@3.0-M3
+- pkg:maven/org.scalamock/scalamock-core_2.10.0-M6@3.0-M3?classifier=sources

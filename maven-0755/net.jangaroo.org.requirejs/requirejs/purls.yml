@@ -1,0 +1,2 @@
+- pkg:maven/net.jangaroo.org.requirejs/requirejs@2.0.1-1
+- pkg:maven/net.jangaroo.org.requirejs/requirejs@2.0.1-1?classifier=sources

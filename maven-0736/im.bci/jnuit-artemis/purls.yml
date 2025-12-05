@@ -1,0 +1,4 @@
+- pkg:maven/im.bci/jnuit-artemis@0.10
+- pkg:maven/im.bci/jnuit-artemis@0.10?classifier=sources
+- pkg:maven/im.bci/jnuit-artemis@0.9
+- pkg:maven/im.bci/jnuit-artemis@0.9?classifier=sources

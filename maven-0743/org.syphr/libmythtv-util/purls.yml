@@ -1,0 +1,2 @@
+- pkg:maven/org.syphr/libmythtv-util@0.1
+- pkg:maven/org.syphr/libmythtv-util@0.1?classifier=sources

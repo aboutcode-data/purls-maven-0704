@@ -1,0 +1,2 @@
+- pkg:maven/org.rcfaces/org.rcfaces.html@1.0Beta3
+- pkg:maven/org.rcfaces/org.rcfaces.html@1.0Beta3?classifier=sources

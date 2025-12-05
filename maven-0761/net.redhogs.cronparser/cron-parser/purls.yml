@@ -1,0 +1,12 @@
+- pkg:maven/net.redhogs.cronparser/cron-parser@1.1
+- pkg:maven/net.redhogs.cronparser/cron-parser@1.1?classifier=sources
+- pkg:maven/net.redhogs.cronparser/cron-parser@1.2
+- pkg:maven/net.redhogs.cronparser/cron-parser@1.2?classifier=sources
+- pkg:maven/net.redhogs.cronparser/cron-parser@2.0
+- pkg:maven/net.redhogs.cronparser/cron-parser@2.0?classifier=sources
+- pkg:maven/net.redhogs.cronparser/cron-parser@2.2
+- pkg:maven/net.redhogs.cronparser/cron-parser@2.2?classifier=sources
+- pkg:maven/net.redhogs.cronparser/cron-parser@2.3
+- pkg:maven/net.redhogs.cronparser/cron-parser@2.3?classifier=sources
+- pkg:maven/net.redhogs.cronparser/cron-parser@2.4
+- pkg:maven/net.redhogs.cronparser/cron-parser@2.4?classifier=sources

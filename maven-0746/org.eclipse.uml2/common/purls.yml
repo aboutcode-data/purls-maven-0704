@@ -1,0 +1,5 @@
+- pkg:maven/org.eclipse.uml2/common@1.3.0-v200706251652
+- pkg:maven/org.eclipse.uml2/common@1.8.1-v20130902-0826
+- pkg:maven/org.eclipse.uml2/common@1.8.1-v20130902-0826?classifier=sources
+- pkg:maven/org.eclipse.uml2/common@1.8.2-v20140202-2055
+- pkg:maven/org.eclipse.uml2/common@1.8.2-v20140202-2055?classifier=sources

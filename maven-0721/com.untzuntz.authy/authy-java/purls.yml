@@ -1,0 +1,2 @@
+- pkg:maven/com.untzuntz.authy/authy-java@1.0.0
+- pkg:maven/com.untzuntz.authy/authy-java@1.0.0?classifier=sources

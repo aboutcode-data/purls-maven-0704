@@ -1,0 +1,2 @@
+- pkg:maven/org.hudsonci.stapler/commons-jelly@1.1-hudson-20120704
+- pkg:maven/org.hudsonci.stapler/commons-jelly@1.1-hudson-20120704?classifier=sources

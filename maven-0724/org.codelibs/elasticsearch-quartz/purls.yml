@@ -1,0 +1,4 @@
+- pkg:maven/org.codelibs/elasticsearch-quartz@1.0.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-quartz@1.0.0?type=zip
+- pkg:maven/org.codelibs/elasticsearch-quartz@1.0.1?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-quartz@1.0.1?type=zip

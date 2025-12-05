@@ -1,0 +1,2 @@
+- pkg:maven/io.lanau.framework.modules.backend.ws/lanau-modules-backend-ws@1.0.0
+- pkg:maven/io.lanau.framework.modules.backend.ws/lanau-modules-backend-ws@1.0.0?classifier=sources

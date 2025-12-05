@@ -1,0 +1,3 @@
+- pkg:maven/de.huxhorn.lilith/de.huxhorn.lilith.3rdparty.macify@1.1
+- pkg:maven/de.huxhorn.lilith/de.huxhorn.lilith.3rdparty.macify@1.4
+- pkg:maven/de.huxhorn.lilith/de.huxhorn.lilith.3rdparty.macify@1.4?classifier=sources

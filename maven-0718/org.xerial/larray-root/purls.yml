@@ -1,0 +1,2 @@
+- pkg:maven/org.xerial/larray-root@0.2
+- pkg:maven/org.xerial/larray-root@0.2?classifier=sources

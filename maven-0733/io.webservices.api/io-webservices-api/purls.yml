@@ -1,0 +1,2 @@
+- pkg:maven/io.webservices.api/io-webservices-api@1.0
+- pkg:maven/io.webservices.api/io-webservices-api@1.0?classifier=sources

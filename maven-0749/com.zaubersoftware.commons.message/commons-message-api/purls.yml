@@ -1,0 +1,2 @@
+- pkg:maven/com.zaubersoftware.commons.message/commons-message-api@3.49
+- pkg:maven/com.zaubersoftware.commons.message/commons-message-api@3.49?classifier=sources

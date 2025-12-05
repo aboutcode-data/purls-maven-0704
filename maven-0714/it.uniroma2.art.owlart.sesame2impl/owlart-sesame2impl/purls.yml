@@ -1,0 +1,2 @@
+- pkg:maven/it.uniroma2.art.owlart.sesame2impl/owlart-sesame2impl@1.0.1
+- pkg:maven/it.uniroma2.art.owlart.sesame2impl/owlart-sesame2impl@1.0.1?classifier=sources

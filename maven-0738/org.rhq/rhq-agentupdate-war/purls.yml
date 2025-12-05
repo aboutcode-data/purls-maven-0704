@@ -1,0 +1,2 @@
+- pkg:maven/org.rhq/rhq-agentupdate-war@4.10.0?classifier=sources
+- pkg:maven/org.rhq/rhq-agentupdate-war@4.10.0?type=war

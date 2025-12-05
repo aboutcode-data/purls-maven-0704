@@ -1,0 +1,2 @@
+- pkg:maven/nz.ac.auckland.lmz/lmz-simple-spring-webhost@1.1
+- pkg:maven/nz.ac.auckland.lmz/lmz-simple-spring-webhost@1.1?classifier=sources

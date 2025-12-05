@@ -1,0 +1,4 @@
+- pkg:maven/com.badlogicgames.gdx/gdx-jnigen@0.9.9
+- pkg:maven/com.badlogicgames.gdx/gdx-jnigen@0.9.9?classifier=sources
+- pkg:maven/com.badlogicgames.gdx/gdx-jnigen@1.0.0
+- pkg:maven/com.badlogicgames.gdx/gdx-jnigen@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.danhaywood.isis.domainservice/danhaywood-isis-domainservice-excel-impl@1.4.0
+- pkg:maven/com.danhaywood.isis.domainservice/danhaywood-isis-domainservice-excel-impl@1.4.0?classifier=sources

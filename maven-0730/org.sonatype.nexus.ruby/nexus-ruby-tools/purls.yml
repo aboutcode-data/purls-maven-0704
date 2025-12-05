@@ -1,0 +1,6 @@
+- pkg:maven/org.sonatype.nexus.ruby/nexus-ruby-tools@1.0.0
+- pkg:maven/org.sonatype.nexus.ruby/nexus-ruby-tools@1.0.0?classifier=sources
+- pkg:maven/org.sonatype.nexus.ruby/nexus-ruby-tools@1.2.0
+- pkg:maven/org.sonatype.nexus.ruby/nexus-ruby-tools@1.2.0?classifier=sources
+- pkg:maven/org.sonatype.nexus.ruby/nexus-ruby-tools@2.0.0
+- pkg:maven/org.sonatype.nexus.ruby/nexus-ruby-tools@2.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.defne/defne-utility@1.0.1
+- pkg:maven/org.defne/defne-utility@1.0.1?classifier=sources

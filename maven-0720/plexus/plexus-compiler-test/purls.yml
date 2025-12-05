@@ -1,0 +1,6 @@
+- pkg:maven/plexus/plexus-compiler-test@1.2
+- pkg:maven/plexus/plexus-compiler-test@1.3
+- pkg:maven/plexus/plexus-compiler-test@1.4
+- pkg:maven/plexus/plexus-compiler-test@1.4?classifier=sources
+- pkg:maven/plexus/plexus-compiler-test@1.5
+- pkg:maven/plexus/plexus-compiler-test@1.5?classifier=sources

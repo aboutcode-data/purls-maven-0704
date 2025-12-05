@@ -1,0 +1,6 @@
+- pkg:maven/net.myrrix/myrrix-web-war@0.10?type=war
+- pkg:maven/net.myrrix/myrrix-web-war@0.11?type=war
+- pkg:maven/net.myrrix/myrrix-web-war@0.9?type=war
+- pkg:maven/net.myrrix/myrrix-web-war@1.0.0-beta-1?type=war
+- pkg:maven/net.myrrix/myrrix-web-war@1.0.0?type=war
+- pkg:maven/net.myrrix/myrrix-web-war@1.0.1?type=war

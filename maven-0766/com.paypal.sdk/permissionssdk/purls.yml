@@ -1,0 +1,10 @@
+- pkg:maven/com.paypal.sdk/permissionssdk@2.1.96
+- pkg:maven/com.paypal.sdk/permissionssdk@2.1.96?classifier=sources
+- pkg:maven/com.paypal.sdk/permissionssdk@2.2.100
+- pkg:maven/com.paypal.sdk/permissionssdk@2.2.100?classifier=sources
+- pkg:maven/com.paypal.sdk/permissionssdk@2.2.101
+- pkg:maven/com.paypal.sdk/permissionssdk@2.2.101?classifier=sources
+- pkg:maven/com.paypal.sdk/permissionssdk@2.3.106
+- pkg:maven/com.paypal.sdk/permissionssdk@2.3.106?classifier=sources
+- pkg:maven/com.paypal.sdk/permissionssdk@2.4.109
+- pkg:maven/com.paypal.sdk/permissionssdk@2.4.109?classifier=sources

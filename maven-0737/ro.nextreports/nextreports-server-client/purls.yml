@@ -1,0 +1,6 @@
+- pkg:maven/ro.nextreports/nextreports-server-client@6.2
+- pkg:maven/ro.nextreports/nextreports-server-client@6.2?classifier=sources
+- pkg:maven/ro.nextreports/nextreports-server-client@6.3
+- pkg:maven/ro.nextreports/nextreports-server-client@6.3?classifier=sources
+- pkg:maven/ro.nextreports/nextreports-server-client@7.0
+- pkg:maven/ro.nextreports/nextreports-server-client@7.0?classifier=sources

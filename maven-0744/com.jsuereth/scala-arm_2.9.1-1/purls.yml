@@ -1,0 +1,2 @@
+- pkg:maven/com.jsuereth/scala-arm_2.9.1-1@1.2
+- pkg:maven/com.jsuereth/scala-arm_2.9.1-1@1.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.databinder/dispatch-couch_2.8.2@0.7.8
+- pkg:maven/net.databinder/dispatch-couch_2.8.2@0.7.8?classifier=sources

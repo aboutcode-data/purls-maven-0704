@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.fractal.bf.examples.amazon/fractal-bf-examples-amazon-model@0.10
+- pkg:maven/org.ow2.fractal.bf.examples.amazon/fractal-bf-examples-amazon-model@0.10?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.jclouds.provider/bluelock-vcloud-vcenterprise@1.0.0
+- pkg:maven/org.jclouds.provider/bluelock-vcloud-vcenterprise@1.0.0?classifier=sources
+- pkg:maven/org.jclouds.provider/bluelock-vcloud-vcenterprise@1.1.0
+- pkg:maven/org.jclouds.provider/bluelock-vcloud-vcenterprise@1.1.0?classifier=sources
+- pkg:maven/org.jclouds.provider/bluelock-vcloud-vcenterprise@1.1.1
+- pkg:maven/org.jclouds.provider/bluelock-vcloud-vcenterprise@1.1.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/uk.co.opsb/active-collections@0.18
+- pkg:maven/uk.co.opsb/active-collections@0.18?classifier=sources

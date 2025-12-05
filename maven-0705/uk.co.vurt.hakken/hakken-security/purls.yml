@@ -1,0 +1,2 @@
+- pkg:maven/uk.co.vurt.hakken/hakken-security@1.0.0
+- pkg:maven/uk.co.vurt.hakken/hakken-security@1.0.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.jetbrains.kotlin/kotlin-stdlib-gen@0.0.1-test-deploy
+- pkg:maven/org.jetbrains.kotlin/kotlin-stdlib-gen@0.0.1-test-deploy?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-stdlib-gen@0.0.2-test-deploy
+- pkg:maven/org.jetbrains.kotlin/kotlin-stdlib-gen@0.0.2-test-deploy?classifier=sources

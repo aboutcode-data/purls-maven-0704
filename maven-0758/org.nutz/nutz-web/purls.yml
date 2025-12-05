@@ -1,0 +1,2 @@
+- pkg:maven/org.nutz/nutz-web@1.b.49
+- pkg:maven/org.nutz/nutz-web@1.b.49?classifier=sources

@@ -1,0 +1,15 @@
+- pkg:maven/org.codehaus.xsite/xsite-distribution@1.0-beta-3?classifier=src&type=zip
+- pkg:maven/org.codehaus.xsite/xsite-distribution@1.0-beta-4?classifier=src&type=zip
+- pkg:maven/org.codehaus.xsite/xsite-distribution@1.0-beta-5?classifier=src&type=zip
+- pkg:maven/org.codehaus.xsite/xsite-distribution@1.0-beta-6?classifier=src&type=zip
+- pkg:maven/org.codehaus.xsite/xsite-distribution@1.0-beta-7?classifier=src&type=zip
+- pkg:maven/org.codehaus.xsite/xsite-distribution@1.0-beta-8?classifier=src&type=zip
+- pkg:maven/org.codehaus.xsite/xsite-distribution@1.0-beta-9?classifier=src&type=zip
+- pkg:maven/org.codehaus.xsite/xsite-distribution@1.0?classifier=src&type=zip
+- pkg:maven/org.codehaus.xsite/xsite-distribution@1.1.1?classifier=src&type=zip
+- pkg:maven/org.codehaus.xsite/xsite-distribution@1.1.2?classifier=src&type=zip
+- pkg:maven/org.codehaus.xsite/xsite-distribution@1.1?classifier=src&type=zip
+- pkg:maven/org.codehaus.xsite/xsite-distribution@1.2.2?classifier=src&type=zip
+- pkg:maven/org.codehaus.xsite/xsite-distribution@1.2.3?classifier=src&type=zip
+- pkg:maven/org.codehaus.xsite/xsite-distribution@1.2?classifier=src&type=zip
+- pkg:maven/org.codehaus.xsite/xsite-distribution@1.3?classifier=src&type=zip

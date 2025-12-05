@@ -1,0 +1,2 @@
+- pkg:maven/se.natusoft.tools.codelicmgr/CodeLicenseManager-ant-task@2.1.1
+- pkg:maven/se.natusoft.tools.codelicmgr/CodeLicenseManager-ant-task@2.1.1?classifier=sources

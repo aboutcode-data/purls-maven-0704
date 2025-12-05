@@ -1,0 +1,5 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-digester@1.8_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-digester@1.8_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-digester@1.8_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-digester@1.8_4
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-digester@1.8_4?classifier=sources

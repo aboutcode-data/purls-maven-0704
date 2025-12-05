@@ -1,0 +1,12 @@
+- pkg:maven/org.jboss.errai/errai-otec@3.0.0.20130604-M1
+- pkg:maven/org.jboss.errai/errai-otec@3.0.0.20130604-M1?classifier=sources
+- pkg:maven/org.jboss.errai/errai-otec@3.0.0.20131101-M2
+- pkg:maven/org.jboss.errai/errai-otec@3.0.0.20131101-M2?classifier=sources
+- pkg:maven/org.jboss.errai/errai-otec@3.0.0.20131205-M3
+- pkg:maven/org.jboss.errai/errai-otec@3.0.0.20131205-M3?classifier=sources
+- pkg:maven/org.jboss.errai/errai-otec@3.0.0.20140214-M4
+- pkg:maven/org.jboss.errai/errai-otec@3.0.0.20140214-M4?classifier=sources
+- pkg:maven/org.jboss.errai/errai-otec@3.0.0.20140325-M5
+- pkg:maven/org.jboss.errai/errai-otec@3.0.0.20140325-M5?classifier=sources
+- pkg:maven/org.jboss.errai/errai-otec@3.0.0.CR1
+- pkg:maven/org.jboss.errai/errai-otec@3.0.0.CR1?classifier=sources

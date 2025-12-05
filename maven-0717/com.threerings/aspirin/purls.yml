@@ -1,0 +1,4 @@
+- pkg:maven/com.threerings/aspirin@1.10?classifier=sources
+- pkg:maven/com.threerings/aspirin@1.11?classifier=sources
+- pkg:maven/com.threerings/aspirin@1.13?classifier=sources
+- pkg:maven/com.threerings/aspirin@1.9?classifier=sources

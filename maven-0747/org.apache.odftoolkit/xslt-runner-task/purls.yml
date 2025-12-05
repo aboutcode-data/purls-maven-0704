@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.odftoolkit/xslt-runner-task@1.2.1-incubating
+- pkg:maven/org.apache.odftoolkit/xslt-runner-task@1.2.1-incubating?classifier=sources

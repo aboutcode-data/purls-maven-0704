@@ -1,0 +1,4 @@
+- pkg:maven/org.codehaus.sonar-plugins/sonar-build-breaker-plugin@0.1
+- pkg:maven/org.codehaus.sonar-plugins/sonar-build-breaker-plugin@0.1?classifier=sources
+- pkg:maven/org.codehaus.sonar-plugins/sonar-build-breaker-plugin@1.0?classifier=sources
+- pkg:maven/org.codehaus.sonar-plugins/sonar-build-breaker-plugin@1.1?classifier=sources

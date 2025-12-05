@@ -1,0 +1,6 @@
+- pkg:maven/edu.washington.cs.knowitall.srlie/srlie_2.9.3@1.0.0
+- pkg:maven/edu.washington.cs.knowitall.srlie/srlie_2.9.3@1.0.0-RC3
+- pkg:maven/edu.washington.cs.knowitall.srlie/srlie_2.9.3@1.0.0-RC3?classifier=sources
+- pkg:maven/edu.washington.cs.knowitall.srlie/srlie_2.9.3@1.0.0?classifier=sources
+- pkg:maven/edu.washington.cs.knowitall.srlie/srlie_2.9.3@1.0.1
+- pkg:maven/edu.washington.cs.knowitall.srlie/srlie_2.9.3@1.0.1?classifier=sources

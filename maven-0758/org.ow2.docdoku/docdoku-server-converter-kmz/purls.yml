@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.docdoku/docdoku-server-converter-kmz@1.1
+- pkg:maven/org.ow2.docdoku/docdoku-server-converter-kmz@1.1?classifier=sources

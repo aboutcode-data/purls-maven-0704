@@ -1,0 +1,2 @@
+- pkg:maven/com.googlecode.sarasvati.thirdparty.eclipse/draw2d@3.8.1
+- pkg:maven/com.googlecode.sarasvati.thirdparty.eclipse/draw2d@3.8.1?classifier=sources

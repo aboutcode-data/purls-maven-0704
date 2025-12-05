@@ -1,0 +1,2 @@
+- pkg:maven/com.elega9t/fitnesse-params@0.0.1
+- pkg:maven/com.elega9t/fitnesse-params@0.0.1?classifier=sources

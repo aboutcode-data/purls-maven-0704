@@ -1,0 +1,2 @@
+- pkg:maven/org.linuxmce/JavaDCE@0.1
+- pkg:maven/org.linuxmce/JavaDCE@0.1?classifier=sources

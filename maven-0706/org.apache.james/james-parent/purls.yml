@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.james/james-parent@1.5?classifier=source-release&type=zip
+- pkg:maven/org.apache.james/james-parent@1.6?classifier=source-release&type=zip

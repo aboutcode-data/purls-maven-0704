@@ -1,0 +1,2 @@
+- pkg:maven/io.jdev.miniprofiler/miniprofiler-core@0.3
+- pkg:maven/io.jdev.miniprofiler/miniprofiler-core@0.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.agileclick.genorm/genormous@1.6.0.jdbc4
+- pkg:maven/org.agileclick.genorm/genormous@1.6.0.jdbc4?classifier=sources

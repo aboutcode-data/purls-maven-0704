@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.servicemix.kernel.jaas/org.apache.servicemix.kernel.jaas.boot@1.0.0
+- pkg:maven/org.apache.servicemix.kernel.jaas/org.apache.servicemix.kernel.jaas.boot@1.0.0-rc1
+- pkg:maven/org.apache.servicemix.kernel.jaas/org.apache.servicemix.kernel.jaas.boot@1.0.0-rc2
+- pkg:maven/org.apache.servicemix.kernel.jaas/org.apache.servicemix.kernel.jaas.boot@1.0.0?classifier=sources
+- pkg:maven/org.apache.servicemix.kernel.jaas/org.apache.servicemix.kernel.jaas.boot@1.1.0
+- pkg:maven/org.apache.servicemix.kernel.jaas/org.apache.servicemix.kernel.jaas.boot@1.1.0?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/bcel/bcel@5.0
+- pkg:maven/bcel/bcel@5.1
+- pkg:maven/bcel/bcel@5.1?classifier=sources

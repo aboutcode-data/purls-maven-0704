@@ -1,0 +1,14 @@
+- pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e@1.0-b08?type=war
+- pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e@1.0-b09?type=war
+- pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e@1.0-b10?type=war
+- pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e@1.0-b11?type=war
+- pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e@1.0-b12?type=war
+- pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e@1.0-b13?type=war
+- pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e@1.0-b14?type=war
+- pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e@1.0-rc1?type=war
+- pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e@1.0-rc2?type=war
+- pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e@1.0-rc3?type=war
+- pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e@1.0?type=war
+- pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e@1.1?type=war
+- pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e@1.2.1?type=war
+- pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e@1.2?type=war

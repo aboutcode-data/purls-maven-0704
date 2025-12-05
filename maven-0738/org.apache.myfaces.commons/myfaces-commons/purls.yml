@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.myfaces.commons/myfaces-commons@1.1.2
+- pkg:maven/org.apache.myfaces.commons/myfaces-commons@1.1.2?classifier=sources

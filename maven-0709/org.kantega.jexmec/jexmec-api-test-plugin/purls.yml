@@ -1,0 +1,6 @@
+- pkg:maven/org.kantega.jexmec/jexmec-api-test-plugin@2.0.0rc1
+- pkg:maven/org.kantega.jexmec/jexmec-api-test-plugin@2.0.0rc1?classifier=sources
+- pkg:maven/org.kantega.jexmec/jexmec-api-test-plugin@2.0.0rc2
+- pkg:maven/org.kantega.jexmec/jexmec-api-test-plugin@2.0.0rc2?classifier=sources
+- pkg:maven/org.kantega.jexmec/jexmec-api-test-plugin@2.0.0rc3
+- pkg:maven/org.kantega.jexmec/jexmec-api-test-plugin@2.0.0rc3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.jbossts/jbossts-jopr-plugin@4.16.3.Final
+- pkg:maven/org.jboss.jbossts/jbossts-jopr-plugin@4.16.3.Final?classifier=sources

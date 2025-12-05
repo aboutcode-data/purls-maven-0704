@@ -1,0 +1,2 @@
+- pkg:maven/com.twelvemonkeys.imageio/twelvemonkeys-imageio-pdf@2.2
+- pkg:maven/com.twelvemonkeys.imageio/twelvemonkeys-imageio-pdf@2.2?classifier=sources

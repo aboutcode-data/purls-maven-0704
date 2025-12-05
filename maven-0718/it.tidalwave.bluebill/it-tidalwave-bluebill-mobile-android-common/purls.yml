@@ -1,0 +1,2 @@
+- pkg:maven/it.tidalwave.bluebill/it-tidalwave-bluebill-mobile-android-common@1.0.0
+- pkg:maven/it.tidalwave.bluebill/it-tidalwave-bluebill-mobile-android-common@1.0.0?classifier=sources

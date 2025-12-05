@@ -1,0 +1,6 @@
+- pkg:maven/nl.elucidator.patterns.builder.annotations/builder-annotations-test@1.0.0
+- pkg:maven/nl.elucidator.patterns.builder.annotations/builder-annotations-test@1.0.0?classifier=sources
+- pkg:maven/nl.elucidator.patterns.builder.annotations/builder-annotations-test@1.1.0
+- pkg:maven/nl.elucidator.patterns.builder.annotations/builder-annotations-test@1.1.0?classifier=sources
+- pkg:maven/nl.elucidator.patterns.builder.annotations/builder-annotations-test@1.1.1
+- pkg:maven/nl.elucidator.patterns.builder.annotations/builder-annotations-test@1.1.1?classifier=sources

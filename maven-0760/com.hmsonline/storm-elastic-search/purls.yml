@@ -1,0 +1,2 @@
+- pkg:maven/com.hmsonline/storm-elastic-search@0.1.0
+- pkg:maven/com.hmsonline/storm-elastic-search@0.1.0?classifier=sources

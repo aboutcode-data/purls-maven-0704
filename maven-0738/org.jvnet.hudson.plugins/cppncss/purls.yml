@@ -1,0 +1,3 @@
+- pkg:maven/org.jvnet.hudson.plugins/cppncss@1.0-beta-4?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/cppncss@1.0-beta-5?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/cppncss@1.0?classifier=sources

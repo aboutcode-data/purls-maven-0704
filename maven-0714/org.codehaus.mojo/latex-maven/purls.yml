@@ -1,0 +1,2 @@
+- pkg:maven/org.codehaus.mojo/latex-maven@1.0?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.mojo/latex-maven@1.1?classifier=source-release&type=zip

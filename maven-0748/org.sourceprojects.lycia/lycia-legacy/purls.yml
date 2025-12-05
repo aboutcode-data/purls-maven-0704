@@ -1,0 +1,8 @@
+- pkg:maven/org.sourceprojects.lycia/lycia-legacy@1.9.7
+- pkg:maven/org.sourceprojects.lycia/lycia-legacy@1.9.7?classifier=sources
+- pkg:maven/org.sourceprojects.lycia/lycia-legacy@1.9.8
+- pkg:maven/org.sourceprojects.lycia/lycia-legacy@1.9.8?classifier=sources
+- pkg:maven/org.sourceprojects.lycia/lycia-legacy@1.9.8A
+- pkg:maven/org.sourceprojects.lycia/lycia-legacy@1.9.8A?classifier=sources
+- pkg:maven/org.sourceprojects.lycia/lycia-legacy@1.9.8B
+- pkg:maven/org.sourceprojects.lycia/lycia-legacy@1.9.8B?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.memcached@1.0
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.memcached@1.01
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.memcached@1.01?classifier=sources
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.memcached@1.02
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.memcached@1.02?classifier=sources
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.memcached@1.03
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.memcached@1.03?classifier=sources
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.memcached@1.04
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.memcached@1.04?classifier=sources
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.memcached@1.0?classifier=sources

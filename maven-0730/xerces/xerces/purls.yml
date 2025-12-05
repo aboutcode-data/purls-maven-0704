@@ -1,0 +1,11 @@
+- pkg:maven/xerces/xerces@1.2.3
+- pkg:maven/xerces/xerces@1.4.0
+- pkg:maven/xerces/xerces@1.4.4
+- pkg:maven/xerces/xerces@2.0.0
+- pkg:maven/xerces/xerces@2.0.1
+- pkg:maven/xerces/xerces@2.0.2
+- pkg:maven/xerces/xerces@2.0.2?classifier=sources
+- pkg:maven/xerces/xerces@2.2.1
+- pkg:maven/xerces/xerces@2.3.0
+- pkg:maven/xerces/xerces@2.4.0
+- pkg:maven/xerces/xerces@2.4.0?classifier=sources

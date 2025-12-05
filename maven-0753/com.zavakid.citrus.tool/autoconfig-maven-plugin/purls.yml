@@ -1,0 +1,2 @@
+- pkg:maven/com.zavakid.citrus.tool/autoconfig-maven-plugin@1.1.zavakid-patch.1
+- pkg:maven/com.zavakid.citrus.tool/autoconfig-maven-plugin@1.1.zavakid-patch.1?classifier=sources

@@ -1,0 +1,12 @@
+- pkg:maven/org.jclouds.common/vcloud-common@1.0-beta-9
+- pkg:maven/org.jclouds.common/vcloud-common@1.0-beta-9?classifier=sources
+- pkg:maven/org.jclouds.common/vcloud-common@1.0-beta-9a
+- pkg:maven/org.jclouds.common/vcloud-common@1.0-beta-9a?classifier=sources
+- pkg:maven/org.jclouds.common/vcloud-common@1.0-beta-9b
+- pkg:maven/org.jclouds.common/vcloud-common@1.0-beta-9b?classifier=sources
+- pkg:maven/org.jclouds.common/vcloud-common@1.0-beta-9c
+- pkg:maven/org.jclouds.common/vcloud-common@1.0-beta-9c?classifier=sources
+- pkg:maven/org.jclouds.common/vcloud-common@1.0-beta-9d
+- pkg:maven/org.jclouds.common/vcloud-common@1.0-beta-9d?classifier=sources
+- pkg:maven/org.jclouds.common/vcloud-common@1.0.0
+- pkg:maven/org.jclouds.common/vcloud-common@1.0.0?classifier=sources

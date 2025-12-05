@@ -1,0 +1,2 @@
+- pkg:maven/org.overturetool.build/example-packager-plugin@2.0.2
+- pkg:maven/org.overturetool.build/example-packager-plugin@2.0.2?classifier=sources

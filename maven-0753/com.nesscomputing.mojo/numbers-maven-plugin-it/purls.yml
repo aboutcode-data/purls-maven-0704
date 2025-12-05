@@ -1,0 +1,2 @@
+- pkg:maven/com.nesscomputing.mojo/numbers-maven-plugin-it@2.0
+- pkg:maven/com.nesscomputing.mojo/numbers-maven-plugin-it@2.0?classifier=sources

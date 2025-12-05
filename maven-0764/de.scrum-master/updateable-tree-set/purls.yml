@@ -1,0 +1,2 @@
+- pkg:maven/de.scrum-master/updateable-tree-set@1.1
+- pkg:maven/de.scrum-master/updateable-tree-set@1.1?classifier=sources

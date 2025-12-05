@@ -1,0 +1,4 @@
+- pkg:maven/net.unicon.springframework/springframework-addons@0.1
+- pkg:maven/net.unicon.springframework/springframework-addons@0.1-pre
+- pkg:maven/net.unicon.springframework/springframework-addons@0.1-pre?classifier=sources
+- pkg:maven/net.unicon.springframework/springframework-addons@0.1?classifier=sources

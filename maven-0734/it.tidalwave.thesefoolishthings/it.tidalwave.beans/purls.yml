@@ -1,0 +1,4 @@
+- pkg:maven/it.tidalwave.thesefoolishthings/it.tidalwave.beans@1.4.10?classifier=sources
+- pkg:maven/it.tidalwave.thesefoolishthings/it.tidalwave.beans@1.4.11?classifier=sources
+- pkg:maven/it.tidalwave.thesefoolishthings/it.tidalwave.beans@1.4.8?classifier=sources
+- pkg:maven/it.tidalwave.thesefoolishthings/it.tidalwave.beans@1.4.9?classifier=sources

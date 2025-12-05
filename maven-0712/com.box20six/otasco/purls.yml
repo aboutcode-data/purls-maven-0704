@@ -1,0 +1,2 @@
+- pkg:maven/com.box20six/otasco@1.0.0
+- pkg:maven/com.box20six/otasco@1.0.0?classifier=sources

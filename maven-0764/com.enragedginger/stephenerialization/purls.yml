@@ -1,0 +1,8 @@
+- pkg:maven/com.enragedginger/stephenerialization@0.9.0
+- pkg:maven/com.enragedginger/stephenerialization@0.9.0?classifier=sources
+- pkg:maven/com.enragedginger/stephenerialization@1.0.0
+- pkg:maven/com.enragedginger/stephenerialization@1.0.0?classifier=sources
+- pkg:maven/com.enragedginger/stephenerialization@2.0.0
+- pkg:maven/com.enragedginger/stephenerialization@2.0.0?classifier=sources
+- pkg:maven/com.enragedginger/stephenerialization@3.0.0
+- pkg:maven/com.enragedginger/stephenerialization@3.0.0?classifier=sources

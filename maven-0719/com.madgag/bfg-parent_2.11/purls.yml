@@ -1,0 +1,2 @@
+- pkg:maven/com.madgag/bfg-parent_2.11@1.11.5
+- pkg:maven/com.madgag/bfg-parent_2.11@1.11.5?classifier=sources

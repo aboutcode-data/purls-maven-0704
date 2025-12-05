@@ -1,0 +1,8 @@
+- pkg:maven/com.ircclouds.irc/irc-api@1.0-0011
+- pkg:maven/com.ircclouds.irc/irc-api@1.0-0011?classifier=sources
+- pkg:maven/com.ircclouds.irc/irc-api@1.0-0012
+- pkg:maven/com.ircclouds.irc/irc-api@1.0-0012?classifier=sources
+- pkg:maven/com.ircclouds.irc/irc-api@1.0-0013
+- pkg:maven/com.ircclouds.irc/irc-api@1.0-0013?classifier=sources
+- pkg:maven/com.ircclouds.irc/irc-api@1.0-0014
+- pkg:maven/com.ircclouds.irc/irc-api@1.0-0014?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.grails/grails-web-url-mappings@2.4.0.M2
+- pkg:maven/org.grails/grails-web-url-mappings@2.4.0.M2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/it.could/webdav@0.4
+- pkg:maven/it.could/webdav@0.4?classifier=sources

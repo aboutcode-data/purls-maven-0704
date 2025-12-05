@@ -1,0 +1,4 @@
+- pkg:maven/org.xhtmlrenderer/core-renderer@R8
+- pkg:maven/org.xhtmlrenderer/core-renderer@R8?classifier=sources
+- pkg:maven/org.xhtmlrenderer/core-renderer@R8pre2
+- pkg:maven/org.xhtmlrenderer/core-renderer@R8pre2?classifier=sources

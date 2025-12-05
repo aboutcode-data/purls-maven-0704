@@ -1,0 +1,2 @@
+- pkg:maven/nl.cloudfarming.client/crop-protection-clm@1.0.12?classifier=sources
+- pkg:maven/nl.cloudfarming.client/crop-protection-clm@1.0.17?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.betfair.tornjak/monitor-overlay@3.0.0.rc1?classifier=sources
+- pkg:maven/com.betfair.tornjak/monitor-overlay@3.0.0.rc1?type=war

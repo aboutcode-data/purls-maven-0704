@@ -1,0 +1,2 @@
+- pkg:maven/com.github.harunhasdal.livecycle/process-logger@1.0
+- pkg:maven/com.github.harunhasdal.livecycle/process-logger@1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.rodionmoiseev.gradle.plugins/idea-utils@0.2
+- pkg:maven/com.github.rodionmoiseev.gradle.plugins/idea-utils@0.2?classifier=sources

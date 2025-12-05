@@ -1,0 +1,10 @@
+- pkg:maven/com.geeoz.atom/atom-test@1.0d10
+- pkg:maven/com.geeoz.atom/atom-test@1.0d10?classifier=sources
+- pkg:maven/com.geeoz.atom/atom-test@1.0d11
+- pkg:maven/com.geeoz.atom/atom-test@1.0d11?classifier=sources
+- pkg:maven/com.geeoz.atom/atom-test@1.0d12
+- pkg:maven/com.geeoz.atom/atom-test@1.0d12?classifier=sources
+- pkg:maven/com.geeoz.atom/atom-test@1.0d13
+- pkg:maven/com.geeoz.atom/atom-test@1.0d13?classifier=sources
+- pkg:maven/com.geeoz.atom/atom-test@1.0d15
+- pkg:maven/com.geeoz.atom/atom-test@1.0d15?classifier=sources

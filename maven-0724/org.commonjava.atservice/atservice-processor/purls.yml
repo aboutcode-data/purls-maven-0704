@@ -1,0 +1,2 @@
+- pkg:maven/org.commonjava.atservice/atservice-processor@0.1
+- pkg:maven/org.commonjava.atservice/atservice-processor@0.1?classifier=sources

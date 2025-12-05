@@ -1,0 +1,4 @@
+- pkg:maven/org.synyx.hera/org.synyx.hera.metadata@0.6
+- pkg:maven/org.synyx.hera/org.synyx.hera.metadata@0.6?classifier=sources
+- pkg:maven/org.synyx.hera/org.synyx.hera.metadata@0.7.0.RELEASE
+- pkg:maven/org.synyx.hera/org.synyx.hera.metadata@0.7.0.RELEASE?classifier=sources

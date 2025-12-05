@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.abdera@0.4.0-incubating_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.abdera@0.4.0-incubating_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.abdera@0.4.0-incubating_4
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.abdera@0.4.0-incubating_5
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.abdera@0.4.0-incubating_6
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.abdera@0.4.0-incubating_6?classifier=sources

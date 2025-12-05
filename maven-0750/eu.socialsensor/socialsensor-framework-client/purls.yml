@@ -1,0 +1,2 @@
+- pkg:maven/eu.socialsensor/socialsensor-framework-client@0.1
+- pkg:maven/eu.socialsensor/socialsensor-framework-client@0.1?classifier=sources

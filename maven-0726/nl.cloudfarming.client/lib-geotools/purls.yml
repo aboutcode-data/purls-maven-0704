@@ -1,0 +1,15 @@
+- pkg:maven/nl.cloudfarming.client/lib-geotools@1.0.1?classifier=sources
+- pkg:maven/nl.cloudfarming.client/lib-geotools@1.0.2?classifier=sources
+- pkg:maven/nl.cloudfarming.client/lib-geotools@1.0.3?classifier=sources
+- pkg:maven/nl.cloudfarming.client/lib-geotools@1.0.4?classifier=sources
+- pkg:maven/nl.cloudfarming.client/lib-geotools@1.0.5?classifier=sources
+- pkg:maven/nl.cloudfarming.client/lib-geotools@1.0.6?classifier=sources
+- pkg:maven/nl.cloudfarming.client/lib-geotools@1.1?classifier=sources
+- pkg:maven/nl.cloudfarming.client/lib-geotools@2.7.2.1?classifier=sources
+- pkg:maven/nl.cloudfarming.client/lib-geotools@2.7.2.2?classifier=sources
+- pkg:maven/nl.cloudfarming.client/lib-geotools@2.7.2?classifier=sources
+- pkg:maven/nl.cloudfarming.client/lib-geotools@2.7.4?classifier=sources
+- pkg:maven/nl.cloudfarming.client/lib-geotools@2.7.5-NB72?classifier=sources
+- pkg:maven/nl.cloudfarming.client/lib-geotools@2.7.5?classifier=sources
+- pkg:maven/nl.cloudfarming.client/lib-geotools@2.7.6-NB72?classifier=sources
+- pkg:maven/nl.cloudfarming.client/lib-geotools@2.7.7-NB72?classifier=sources

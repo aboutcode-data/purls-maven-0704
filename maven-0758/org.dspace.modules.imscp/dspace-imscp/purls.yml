@@ -1,0 +1,2 @@
+- pkg:maven/org.dspace.modules.imscp/dspace-imscp@1.6.0.0
+- pkg:maven/org.dspace.modules.imscp/dspace-imscp@1.6.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/br.com.ingenieux.hadoop/hive-genericmr@0.0.1
+- pkg:maven/br.com.ingenieux.hadoop/hive-genericmr@0.0.1?classifier=sources

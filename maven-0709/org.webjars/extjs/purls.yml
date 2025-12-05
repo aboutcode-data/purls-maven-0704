@@ -1,0 +1,9 @@
+- pkg:maven/org.webjars/extjs@3.4.0
+- pkg:maven/org.webjars/extjs@3.4.0?classifier=sources
+- pkg:maven/org.webjars/extjs@3.4.1.1
+- pkg:maven/org.webjars/extjs@4.1.1a
+- pkg:maven/org.webjars/extjs@4.1.1a?classifier=sources
+- pkg:maven/org.webjars/extjs@4.2.0
+- pkg:maven/org.webjars/extjs@4.2.0.663
+- pkg:maven/org.webjars/extjs@4.2.1.883
+- pkg:maven/org.webjars/extjs@4.2.1.883-1

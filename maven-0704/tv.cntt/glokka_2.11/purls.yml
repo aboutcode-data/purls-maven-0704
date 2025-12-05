@@ -1,0 +1,2 @@
+- pkg:maven/tv.cntt/glokka_2.11@1.8
+- pkg:maven/tv.cntt/glokka_2.11@1.8?classifier=sources

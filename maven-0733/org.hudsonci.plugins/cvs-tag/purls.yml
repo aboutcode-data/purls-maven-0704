@@ -1,0 +1,2 @@
+- pkg:maven/org.hudsonci.plugins/cvs-tag@1.7?classifier=sources
+- pkg:maven/org.hudsonci.plugins/cvs-tag@1.8-h-1?classifier=sources

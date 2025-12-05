@@ -1,0 +1,2 @@
+- pkg:maven/io.vertx/mod-auth-mgr@2.0.0-final
+- pkg:maven/io.vertx/mod-auth-mgr@2.0.0-final?classifier=sources

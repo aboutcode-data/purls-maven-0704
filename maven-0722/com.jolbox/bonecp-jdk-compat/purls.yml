@@ -1,0 +1,6 @@
+- pkg:maven/com.jolbox/bonecp-jdk-compat@0.8.0-rc1
+- pkg:maven/com.jolbox/bonecp-jdk-compat@0.8.0-rc1?classifier=sources
+- pkg:maven/com.jolbox/bonecp-jdk-compat@0.8.0-rc3
+- pkg:maven/com.jolbox/bonecp-jdk-compat@0.8.0-rc3?classifier=sources
+- pkg:maven/com.jolbox/bonecp-jdk-compat@0.8.0.RELEASE
+- pkg:maven/com.jolbox/bonecp-jdk-compat@0.8.0.RELEASE?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.sourceforge.queried/queried@2.7.0
+- pkg:maven/net.sourceforge.queried/queried@2.7.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.greenhalolabs/emailautocompletetextview@1.2.0?classifier=sources
+- pkg:maven/com.greenhalolabs/emailautocompletetextview@1.2.0?type=aar

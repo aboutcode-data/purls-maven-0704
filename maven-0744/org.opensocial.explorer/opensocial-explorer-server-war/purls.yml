@@ -1,0 +1,2 @@
+- pkg:maven/org.opensocial.explorer/opensocial-explorer-server-war@0.0.1?type=war
+- pkg:maven/org.opensocial.explorer/opensocial-explorer-server-war@0.0.2?type=war

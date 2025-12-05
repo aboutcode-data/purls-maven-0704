@@ -1,0 +1,2 @@
+- pkg:maven/org.sonatype.maven.shell/mvnsh-itar@0.10
+- pkg:maven/org.sonatype.maven.shell/mvnsh-itar@0.10?classifier=sources

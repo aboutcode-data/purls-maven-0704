@@ -1,0 +1,2 @@
+- pkg:maven/com.wu-man/androidfeedloader-library@0.1.1
+- pkg:maven/com.wu-man/androidfeedloader-library@0.1.1?classifier=sources

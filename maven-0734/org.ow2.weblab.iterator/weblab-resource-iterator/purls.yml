@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.weblab.iterator/weblab-resource-iterator@1.2?classifier=sources
+- pkg:maven/org.ow2.weblab.iterator/weblab-resource-iterator@1.2?type=war

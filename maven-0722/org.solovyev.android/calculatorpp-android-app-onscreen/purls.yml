@@ -1,0 +1,9 @@
+- pkg:maven/org.solovyev.android/calculatorpp-android-app-onscreen@1.5.3-b?classifier=sources
+- pkg:maven/org.solovyev.android/calculatorpp-android-app-onscreen@1.5.3?classifier=sources
+- pkg:maven/org.solovyev.android/calculatorpp-android-app-onscreen@1.6.0?classifier=sources
+- pkg:maven/org.solovyev.android/calculatorpp-android-app-onscreen@1.6.1?classifier=sources
+- pkg:maven/org.solovyev.android/calculatorpp-android-app-onscreen@1.6.2?classifier=sources
+- pkg:maven/org.solovyev.android/calculatorpp-android-app-onscreen@1.6.3-a?classifier=sources
+- pkg:maven/org.solovyev.android/calculatorpp-android-app-onscreen@1.6.3-b?classifier=sources
+- pkg:maven/org.solovyev.android/calculatorpp-android-app-onscreen@2.0.0?classifier=sources
+- pkg:maven/org.solovyev.android/calculatorpp-android-app-onscreen@2.0.1?classifier=sources

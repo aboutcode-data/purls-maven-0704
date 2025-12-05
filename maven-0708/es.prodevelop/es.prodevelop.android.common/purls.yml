@@ -1,0 +1,2 @@
+- pkg:maven/es.prodevelop/es.prodevelop.android.common@0.1
+- pkg:maven/es.prodevelop/es.prodevelop.android.common@0.1?classifier=sources

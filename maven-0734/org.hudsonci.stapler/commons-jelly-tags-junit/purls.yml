@@ -1,0 +1,2 @@
+- pkg:maven/org.hudsonci.stapler/commons-jelly-tags-junit@1.0-hudson-20120704
+- pkg:maven/org.hudsonci.stapler/commons-jelly-tags-junit@1.0-hudson-20120704?classifier=sources

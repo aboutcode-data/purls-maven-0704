@@ -1,0 +1,4 @@
+- pkg:maven/com.googlecode.jeeunit/jeeunit-example-test@0.6.0?type=war
+- pkg:maven/com.googlecode.jeeunit/jeeunit-example-test@0.7.0?type=war
+- pkg:maven/com.googlecode.jeeunit/jeeunit-example-test@0.7.1?type=war
+- pkg:maven/com.googlecode.jeeunit/jeeunit-example-test@0.8.0?type=war

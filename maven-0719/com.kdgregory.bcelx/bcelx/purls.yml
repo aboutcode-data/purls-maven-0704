@@ -1,0 +1,2 @@
+- pkg:maven/com.kdgregory.bcelx/bcelx@1.0.0
+- pkg:maven/com.kdgregory.bcelx/bcelx@1.0.0?classifier=sources

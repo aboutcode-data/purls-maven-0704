@@ -1,0 +1,2 @@
+- pkg:maven/org.jbundle.util.webapp/org-jbundle-util-webapp-site@0.9.1
+- pkg:maven/org.jbundle.util.webapp/org-jbundle-util-webapp-site@0.9.1?classifier=sources

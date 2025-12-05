@@ -1,0 +1,2 @@
+- pkg:maven/com.github.ryanbrainard/richsobjects-cache-memcached@0.2-BETA
+- pkg:maven/com.github.ryanbrainard/richsobjects-cache-memcached@0.2-BETA?classifier=sources

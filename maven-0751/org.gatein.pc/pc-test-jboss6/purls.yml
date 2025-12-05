@@ -1,0 +1,9 @@
+- pkg:maven/org.gatein.pc/pc-test-jboss6@2.3.0-Beta01
+- pkg:maven/org.gatein.pc/pc-test-jboss6@2.3.0-Beta04
+- pkg:maven/org.gatein.pc/pc-test-jboss6@2.3.0-Beta05
+- pkg:maven/org.gatein.pc/pc-test-jboss6@2.3.0-Beta06
+- pkg:maven/org.gatein.pc/pc-test-jboss6@2.3.0-Beta08
+- pkg:maven/org.gatein.pc/pc-test-jboss6@2.3.0-GA
+- pkg:maven/org.gatein.pc/pc-test-jboss6@2.3.1-Beta02
+- pkg:maven/org.gatein.pc/pc-test-jboss6@2.3.1-GA
+- pkg:maven/org.gatein.pc/pc-test-jboss6@2.3.2-GA

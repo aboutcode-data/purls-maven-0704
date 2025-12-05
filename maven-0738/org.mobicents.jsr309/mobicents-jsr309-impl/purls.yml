@@ -1,0 +1,2 @@
+- pkg:maven/org.mobicents.jsr309/mobicents-jsr309-impl@2.4.0.FINAL
+- pkg:maven/org.mobicents.jsr309/mobicents-jsr309-impl@2.4.0.FINAL?classifier=sources

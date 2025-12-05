@@ -1,0 +1,4 @@
+- pkg:maven/at.newmedialab.ldpath/ldpath-core-bundle@0.9.5
+- pkg:maven/at.newmedialab.ldpath/ldpath-core-bundle@0.9.5?classifier=sources
+- pkg:maven/at.newmedialab.ldpath/ldpath-core-bundle@0.9.7
+- pkg:maven/at.newmedialab.ldpath/ldpath-core-bundle@0.9.7?classifier=sources

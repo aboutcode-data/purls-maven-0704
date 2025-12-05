@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jcr-api@1.0_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jcr-api@1.0_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jcr-api@1.0_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jcr-api@1.0_4
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jcr-api@1.0_5
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jcr-api@1.0_5?classifier=sources

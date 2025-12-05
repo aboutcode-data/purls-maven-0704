@@ -1,0 +1,2 @@
+- pkg:maven/de.jiac.micro/microjiac-base-impl@3.0
+- pkg:maven/de.jiac.micro/microjiac-base-impl@3.0?classifier=sources

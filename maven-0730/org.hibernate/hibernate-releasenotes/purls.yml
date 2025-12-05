@@ -1,0 +1,4 @@
+- pkg:maven/org.hibernate/hibernate-releasenotes@3.3.0.CR2?classifier=sources
+- pkg:maven/org.hibernate/hibernate-releasenotes@3.3.0.GA?classifier=sources
+- pkg:maven/org.hibernate/hibernate-releasenotes@3.3.0.SP1?classifier=sources
+- pkg:maven/org.hibernate/hibernate-releasenotes@3.3.1.GA?classifier=sources

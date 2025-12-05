@@ -1,0 +1,10 @@
+- pkg:maven/org.geomajas.widget/geomajas-widget-searchandfilter-gwt-example@1.0.0-M1?classifier=sources
+- pkg:maven/org.geomajas.widget/geomajas-widget-searchandfilter-gwt-example@1.0.0-M1?type=war
+- pkg:maven/org.geomajas.widget/geomajas-widget-searchandfilter-gwt-example@1.0.0-M2?classifier=sources
+- pkg:maven/org.geomajas.widget/geomajas-widget-searchandfilter-gwt-example@1.0.0-M2?type=war
+- pkg:maven/org.geomajas.widget/geomajas-widget-searchandfilter-gwt-example@1.0.0-M3?classifier=sources
+- pkg:maven/org.geomajas.widget/geomajas-widget-searchandfilter-gwt-example@1.0.0-M3?type=war
+- pkg:maven/org.geomajas.widget/geomajas-widget-searchandfilter-gwt-example@1.0.0-M4?classifier=sources
+- pkg:maven/org.geomajas.widget/geomajas-widget-searchandfilter-gwt-example@1.0.0-M4?type=war
+- pkg:maven/org.geomajas.widget/geomajas-widget-searchandfilter-gwt-example@1.0.0-M5?classifier=sources
+- pkg:maven/org.geomajas.widget/geomajas-widget-searchandfilter-gwt-example@1.0.0-M5?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/edu.washington.cs.knowitall.srlie/openie-srl_2.10@1.0.0-RC1
+- pkg:maven/edu.washington.cs.knowitall.srlie/openie-srl_2.10@1.0.0-RC1?classifier=sources

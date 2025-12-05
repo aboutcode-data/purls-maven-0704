@@ -1,0 +1,2 @@
+- pkg:maven/com.github.taksan/skype2gmail@1.0
+- pkg:maven/com.github.taksan/skype2gmail@1.0?classifier=sources

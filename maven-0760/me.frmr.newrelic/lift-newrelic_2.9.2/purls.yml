@@ -1,0 +1,4 @@
+- pkg:maven/me.frmr.newrelic/lift-newrelic_2.9.2@1.0.0
+- pkg:maven/me.frmr.newrelic/lift-newrelic_2.9.2@1.0.0?classifier=sources
+- pkg:maven/me.frmr.newrelic/lift-newrelic_2.9.2@1.1.0
+- pkg:maven/me.frmr.newrelic/lift-newrelic_2.9.2@1.1.0?classifier=sources

@@ -1,0 +1,17 @@
+- pkg:maven/us.joshuatreesoftware/enmasse@1.0-RC18?classifier=sources
+- pkg:maven/us.joshuatreesoftware/enmasse@1.0-RC19?classifier=sources
+- pkg:maven/us.joshuatreesoftware/enmasse@1.0-RC20?classifier=sources
+- pkg:maven/us.joshuatreesoftware/enmasse@1.0-RC21?classifier=sources
+- pkg:maven/us.joshuatreesoftware/enmasse@1.0-RC22?classifier=sources
+- pkg:maven/us.joshuatreesoftware/enmasse@1.0-RC23?classifier=sources
+- pkg:maven/us.joshuatreesoftware/enmasse@1.0-RC24?classifier=sources
+- pkg:maven/us.joshuatreesoftware/enmasse@1.0-RC25?classifier=sources
+- pkg:maven/us.joshuatreesoftware/enmasse@1.0-RC26?classifier=sources
+- pkg:maven/us.joshuatreesoftware/enmasse@1.0-RC27?classifier=sources
+- pkg:maven/us.joshuatreesoftware/enmasse@1.0-RC29?classifier=sources
+- pkg:maven/us.joshuatreesoftware/enmasse@1.0-RC30?classifier=sources
+- pkg:maven/us.joshuatreesoftware/enmasse@1.0-RC31?classifier=sources
+- pkg:maven/us.joshuatreesoftware/enmasse@1.0-RC32?classifier=sources
+- pkg:maven/us.joshuatreesoftware/enmasse@1.0-RC33?classifier=sources
+- pkg:maven/us.joshuatreesoftware/enmasse@1.0-RC34?classifier=sources
+- pkg:maven/us.joshuatreesoftware/enmasse@1.0-RC35?classifier=sources

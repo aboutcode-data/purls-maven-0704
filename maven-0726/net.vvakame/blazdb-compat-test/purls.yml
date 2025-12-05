@@ -1,0 +1,2 @@
+- pkg:maven/net.vvakame/blazdb-compat-test@0.2
+- pkg:maven/net.vvakame/blazdb-compat-test@0.2?classifier=sources

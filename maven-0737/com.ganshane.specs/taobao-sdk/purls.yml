@@ -1,0 +1,2 @@
+- pkg:maven/com.ganshane.specs/taobao-sdk@20120515
+- pkg:maven/com.ganshane.specs/taobao-sdk@20120515?classifier=sources

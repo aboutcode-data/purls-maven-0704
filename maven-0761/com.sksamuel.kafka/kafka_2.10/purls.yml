@@ -1,0 +1,2 @@
+- pkg:maven/com.sksamuel.kafka/kafka_2.10@0.8.0-beta1
+- pkg:maven/com.sksamuel.kafka/kafka_2.10@0.8.0-beta1?classifier=sources

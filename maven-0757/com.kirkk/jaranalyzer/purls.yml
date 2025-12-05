@@ -1,0 +1,4 @@
+- pkg:maven/com.kirkk/jaranalyzer@0.9.3
+- pkg:maven/com.kirkk/jaranalyzer@0.9.3?classifier=sources
+- pkg:maven/com.kirkk/jaranalyzer@1.2
+- pkg:maven/com.kirkk/jaranalyzer@1.2?classifier=sources

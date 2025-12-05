@@ -1,0 +1,2 @@
+- pkg:maven/se.vgregion.oppna-program-navigation/oppna-program-navigation-core-bc-module-portlet@1.1?classifier=sources
+- pkg:maven/se.vgregion.oppna-program-navigation/oppna-program-navigation-core-bc-module-portlet@1.1?type=war

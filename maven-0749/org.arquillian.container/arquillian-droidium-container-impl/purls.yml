@@ -1,0 +1,2 @@
+- pkg:maven/org.arquillian.container/arquillian-droidium-container-impl@1.0.0.Alpha1
+- pkg:maven/org.arquillian.container/arquillian-droidium-container-impl@1.0.0.Alpha1?classifier=sources

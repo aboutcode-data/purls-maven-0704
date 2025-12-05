@@ -1,0 +1,6 @@
+- pkg:maven/org.sonatype.tycho.p2/p2-publisher@0.1.0
+- pkg:maven/org.sonatype.tycho.p2/p2-publisher@0.1.0?classifier=sources
+- pkg:maven/org.sonatype.tycho.p2/p2-publisher@0.1.2
+- pkg:maven/org.sonatype.tycho.p2/p2-publisher@0.1.2?classifier=sources
+- pkg:maven/org.sonatype.tycho.p2/p2-publisher@0.2.0
+- pkg:maven/org.sonatype.tycho.p2/p2-publisher@0.2.0?classifier=sources

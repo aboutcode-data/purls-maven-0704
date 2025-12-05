@@ -1,0 +1,4 @@
+- pkg:maven/org.specs2/specs2_2.9.2-RC2@1.8.2
+- pkg:maven/org.specs2/specs2_2.9.2-RC2@1.8.2?classifier=sources
+- pkg:maven/org.specs2/specs2_2.9.2-RC2@1.9
+- pkg:maven/org.specs2/specs2_2.9.2-RC2@1.9?classifier=sources

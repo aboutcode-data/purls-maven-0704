@@ -1,0 +1,2 @@
+- pkg:maven/net.nczonline.web/props2js@1.0.1
+- pkg:maven/net.nczonline.web/props2js@1.0.1?classifier=sources

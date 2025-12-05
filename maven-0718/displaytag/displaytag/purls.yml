@@ -1,0 +1,11 @@
+- pkg:maven/displaytag/displaytag@1.0
+- pkg:maven/displaytag/displaytag@1.0-b1
+- pkg:maven/displaytag/displaytag@1.0-b3
+- pkg:maven/displaytag/displaytag@1.0-rc1
+- pkg:maven/displaytag/displaytag@1.0?classifier=sources
+- pkg:maven/displaytag/displaytag@1.1
+- pkg:maven/displaytag/displaytag@1.1.1
+- pkg:maven/displaytag/displaytag@1.1.1?classifier=sources
+- pkg:maven/displaytag/displaytag@1.1?classifier=sources
+- pkg:maven/displaytag/displaytag@1.2
+- pkg:maven/displaytag/displaytag@1.2?classifier=sources
