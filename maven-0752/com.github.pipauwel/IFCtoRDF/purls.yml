@@ -1,0 +1,2 @@
+- pkg:maven/com.github.pipauwel/IFCtoRDF@0.1
+- pkg:maven/com.github.pipauwel/IFCtoRDF@0.1?classifier=sources

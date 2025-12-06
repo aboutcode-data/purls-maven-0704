@@ -1,3 +1,5 @@
+- pkg:maven/com.dev-smart/devsmart-swing@0.1.10
+- pkg:maven/com.dev-smart/devsmart-swing@0.1.10?classifier=sources
 - pkg:maven/com.dev-smart/devsmart-swing@0.1.3
 - pkg:maven/com.dev-smart/devsmart-swing@0.1.3?classifier=sources
 - pkg:maven/com.dev-smart/devsmart-swing@0.1.4
@@ -8,3 +10,5 @@
 - pkg:maven/com.dev-smart/devsmart-swing@0.1.6?classifier=sources
 - pkg:maven/com.dev-smart/devsmart-swing@0.1.8
 - pkg:maven/com.dev-smart/devsmart-swing@0.1.8?classifier=sources
+- pkg:maven/com.dev-smart/devsmart-swing@0.1.9
+- pkg:maven/com.dev-smart/devsmart-swing@0.1.9?classifier=sources

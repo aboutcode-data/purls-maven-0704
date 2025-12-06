@@ -34,3 +34,7 @@
 - pkg:maven/org.springframework.webflow/spring-js@2.4.4.RELEASE?classifier=sources
 - pkg:maven/org.springframework.webflow/spring-js@2.4.5.RELEASE
 - pkg:maven/org.springframework.webflow/spring-js@2.4.5.RELEASE?classifier=sources
+- pkg:maven/org.springframework.webflow/spring-js@2.4.6.RELEASE
+- pkg:maven/org.springframework.webflow/spring-js@2.4.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.webflow/spring-js@2.4.7.RELEASE
+- pkg:maven/org.springframework.webflow/spring-js@2.4.7.RELEASE?classifier=sources

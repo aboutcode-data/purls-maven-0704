@@ -24,6 +24,14 @@
 - pkg:maven/de.heikoseeberger/akka-http-upickle_2.11@1.16.0?classifier=sources
 - pkg:maven/de.heikoseeberger/akka-http-upickle_2.11@1.16.1
 - pkg:maven/de.heikoseeberger/akka-http-upickle_2.11@1.16.1?classifier=sources
+- pkg:maven/de.heikoseeberger/akka-http-upickle_2.11@1.17.0
+- pkg:maven/de.heikoseeberger/akka-http-upickle_2.11@1.17.0?classifier=sources
+- pkg:maven/de.heikoseeberger/akka-http-upickle_2.11@1.18.1
+- pkg:maven/de.heikoseeberger/akka-http-upickle_2.11@1.18.1?classifier=sources
+- pkg:maven/de.heikoseeberger/akka-http-upickle_2.11@1.19.0-M2
+- pkg:maven/de.heikoseeberger/akka-http-upickle_2.11@1.19.0-M2?classifier=sources
+- pkg:maven/de.heikoseeberger/akka-http-upickle_2.11@1.19.0-M3
+- pkg:maven/de.heikoseeberger/akka-http-upickle_2.11@1.19.0-M3?classifier=sources
 - pkg:maven/de.heikoseeberger/akka-http-upickle_2.11@1.2.0
 - pkg:maven/de.heikoseeberger/akka-http-upickle_2.11@1.2.0?classifier=sources
 - pkg:maven/de.heikoseeberger/akka-http-upickle_2.11@1.2.1

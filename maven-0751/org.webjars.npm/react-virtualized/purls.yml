@@ -6,3 +6,9 @@
 - pkg:maven/org.webjars.npm/react-virtualized@7.9.1?classifier=sources
 - pkg:maven/org.webjars.npm/react-virtualized@8.7.1
 - pkg:maven/org.webjars.npm/react-virtualized@8.7.1?classifier=sources
+- pkg:maven/org.webjars.npm/react-virtualized@9.11.1
+- pkg:maven/org.webjars.npm/react-virtualized@9.11.1?classifier=sources
+- pkg:maven/org.webjars.npm/react-virtualized@9.12.0
+- pkg:maven/org.webjars.npm/react-virtualized@9.12.0?classifier=sources
+- pkg:maven/org.webjars.npm/react-virtualized@9.8.0
+- pkg:maven/org.webjars.npm/react-virtualized@9.8.0?classifier=sources

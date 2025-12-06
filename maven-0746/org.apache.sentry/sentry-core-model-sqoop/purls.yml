@@ -1,1 +1,3 @@
 - pkg:maven/org.apache.sentry/sentry-core-model-sqoop@1.7.0
+- pkg:maven/org.apache.sentry/sentry-core-model-sqoop@1.8.0
+- pkg:maven/org.apache.sentry/sentry-core-model-sqoop@2.0.0

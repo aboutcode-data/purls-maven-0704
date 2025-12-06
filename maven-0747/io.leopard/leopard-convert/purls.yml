@@ -1,4 +1,6 @@
 - pkg:maven/io.leopard/leopard-convert@0.9.10
 - pkg:maven/io.leopard/leopard-convert@0.9.10?classifier=sources
+- pkg:maven/io.leopard/leopard-convert@0.9.11
+- pkg:maven/io.leopard/leopard-convert@0.9.11?classifier=sources
 - pkg:maven/io.leopard/leopard-convert@0.9.8
 - pkg:maven/io.leopard/leopard-convert@0.9.8?classifier=sources

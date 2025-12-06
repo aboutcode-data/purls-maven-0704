@@ -1,0 +1,2 @@
+- pkg:maven/org.openksavi.sponge/sponge-py4j@1.0.6
+- pkg:maven/org.openksavi.sponge/sponge-py4j@1.0.6?classifier=sources

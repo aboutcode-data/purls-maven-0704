@@ -6,3 +6,5 @@
 - pkg:maven/com.github.b3er.rxfirebase/firebase-auth@10.21.1?type=aar
 - pkg:maven/com.github.b3er.rxfirebase/firebase-auth@10.21.2?classifier=sources
 - pkg:maven/com.github.b3er.rxfirebase/firebase-auth@10.21.2?type=aar
+- pkg:maven/com.github.b3er.rxfirebase/firebase-auth@11.2.0?classifier=sources
+- pkg:maven/com.github.b3er.rxfirebase/firebase-auth@11.2.0?type=aar

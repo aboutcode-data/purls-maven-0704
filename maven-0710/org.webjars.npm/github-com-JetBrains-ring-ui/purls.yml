@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-JetBrains-ring-ui@0.2.33
+- pkg:maven/org.webjars.npm/github-com-JetBrains-ring-ui@0.2.33?classifier=sources

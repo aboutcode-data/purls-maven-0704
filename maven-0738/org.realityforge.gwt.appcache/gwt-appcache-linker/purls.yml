@@ -8,6 +8,10 @@
 - pkg:maven/org.realityforge.gwt.appcache/gwt-appcache-linker@0.9?classifier=sources
 - pkg:maven/org.realityforge.gwt.appcache/gwt-appcache-linker@1.0
 - pkg:maven/org.realityforge.gwt.appcache/gwt-appcache-linker@1.0.1
+- pkg:maven/org.realityforge.gwt.appcache/gwt-appcache-linker@1.0.10
+- pkg:maven/org.realityforge.gwt.appcache/gwt-appcache-linker@1.0.10?classifier=sources
+- pkg:maven/org.realityforge.gwt.appcache/gwt-appcache-linker@1.0.11
+- pkg:maven/org.realityforge.gwt.appcache/gwt-appcache-linker@1.0.11?classifier=sources
 - pkg:maven/org.realityforge.gwt.appcache/gwt-appcache-linker@1.0.1?classifier=sources
 - pkg:maven/org.realityforge.gwt.appcache/gwt-appcache-linker@1.0.2
 - pkg:maven/org.realityforge.gwt.appcache/gwt-appcache-linker@1.0.2?classifier=sources

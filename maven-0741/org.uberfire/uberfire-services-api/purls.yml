@@ -1,0 +1,2 @@
+- pkg:maven/org.uberfire/uberfire-services-api@2.2.0.Final
+- pkg:maven/org.uberfire/uberfire-services-api@2.2.0.Final?classifier=sources

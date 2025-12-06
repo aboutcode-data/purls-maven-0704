@@ -1,0 +1,5 @@
+- pkg:maven/jp.co.yahoo.dataplatform.mds/multiple-dimension-spread-legacy-maker@0.6.0
+- pkg:maven/jp.co.yahoo.dataplatform.mds/multiple-dimension-spread-legacy-maker@0.6.0?classifier=sources
+- pkg:maven/jp.co.yahoo.dataplatform.mds/multiple-dimension-spread-legacy-maker@0.6.1
+- pkg:maven/jp.co.yahoo.dataplatform.mds/multiple-dimension-spread-legacy-maker@0.6.2
+- pkg:maven/jp.co.yahoo.dataplatform.mds/multiple-dimension-spread-legacy-maker@0.6.3

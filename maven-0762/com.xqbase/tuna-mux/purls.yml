@@ -5,3 +5,6 @@
 - pkg:maven/com.xqbase/tuna-mux@0.1.2
 - pkg:maven/com.xqbase/tuna-mux@0.1.2?classifier=sources
 - pkg:maven/com.xqbase/tuna-mux@0.1.4
+- pkg:maven/com.xqbase/tuna-mux@0.1.4?classifier=sources
+- pkg:maven/com.xqbase/tuna-mux@0.1.5
+- pkg:maven/com.xqbase/tuna-mux@0.1.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.tkrs/aerospiker-core_2.12@0.5.1
+- pkg:maven/com.github.tkrs/aerospiker-core_2.12@0.5.1?classifier=sources

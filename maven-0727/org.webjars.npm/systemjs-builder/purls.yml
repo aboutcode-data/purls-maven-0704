@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/systemjs-builder@0.15.36?classifier=sources
 - pkg:maven/org.webjars.npm/systemjs-builder@0.15.7
 - pkg:maven/org.webjars.npm/systemjs-builder@0.15.7?classifier=sources
+- pkg:maven/org.webjars.npm/systemjs-builder@0.16.12
+- pkg:maven/org.webjars.npm/systemjs-builder@0.16.12?classifier=sources

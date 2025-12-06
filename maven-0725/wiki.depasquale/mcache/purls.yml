@@ -1,2 +1,8 @@
 - pkg:maven/wiki.depasquale/mcache@0.7.4?classifier=sources
 - pkg:maven/wiki.depasquale/mcache@0.7.4?type=aar
+- pkg:maven/wiki.depasquale/mcache@1.0.1?classifier=sources
+- pkg:maven/wiki.depasquale/mcache@1.0.1?type=aar
+- pkg:maven/wiki.depasquale/mcache@1.0.2?classifier=sources
+- pkg:maven/wiki.depasquale/mcache@1.0.2?type=aar
+- pkg:maven/wiki.depasquale/mcache@1.5.9?classifier=sources
+- pkg:maven/wiki.depasquale/mcache@1.5.9?type=aar

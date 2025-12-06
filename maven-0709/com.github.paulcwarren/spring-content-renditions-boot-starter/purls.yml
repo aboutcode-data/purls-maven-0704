@@ -1,0 +1,4 @@
+- pkg:maven/com.github.paulcwarren/spring-content-renditions-boot-starter@0.0.7
+- pkg:maven/com.github.paulcwarren/spring-content-renditions-boot-starter@0.0.7?classifier=sources
+- pkg:maven/com.github.paulcwarren/spring-content-renditions-boot-starter@0.0.8
+- pkg:maven/com.github.paulcwarren/spring-content-renditions-boot-starter@0.0.8?classifier=sources

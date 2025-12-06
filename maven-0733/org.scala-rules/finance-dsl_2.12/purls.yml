@@ -1,0 +1,2 @@
+- pkg:maven/org.scala-rules/finance-dsl_2.12@0.1.3
+- pkg:maven/org.scala-rules/finance-dsl_2.12@0.1.3?classifier=sources

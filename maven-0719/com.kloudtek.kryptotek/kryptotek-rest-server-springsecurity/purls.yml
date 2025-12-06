@@ -1,0 +1,8 @@
+- pkg:maven/com.kloudtek.kryptotek/kryptotek-rest-server-springsecurity@1.0.21
+- pkg:maven/com.kloudtek.kryptotek/kryptotek-rest-server-springsecurity@1.0.21?classifier=sources
+- pkg:maven/com.kloudtek.kryptotek/kryptotek-rest-server-springsecurity@1.0.22
+- pkg:maven/com.kloudtek.kryptotek/kryptotek-rest-server-springsecurity@1.0.22?classifier=sources
+- pkg:maven/com.kloudtek.kryptotek/kryptotek-rest-server-springsecurity@1.0.23
+- pkg:maven/com.kloudtek.kryptotek/kryptotek-rest-server-springsecurity@1.0.23?classifier=sources
+- pkg:maven/com.kloudtek.kryptotek/kryptotek-rest-server-springsecurity@1.0.24
+- pkg:maven/com.kloudtek.kryptotek/kryptotek-rest-server-springsecurity@1.0.24?classifier=sources

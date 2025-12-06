@@ -1,2 +1,4 @@
 - pkg:maven/jp.alessandro.android/easy-checkout-extension-rxjava@v1.0.1?classifier=sources
 - pkg:maven/jp.alessandro.android/easy-checkout-extension-rxjava@v1.0.2?classifier=sources
+- pkg:maven/jp.alessandro.android/easy-checkout-extension-rxjava@v1.0.3?classifier=sources
+- pkg:maven/jp.alessandro.android/easy-checkout-extension-rxjava@v1.0.4?classifier=sources

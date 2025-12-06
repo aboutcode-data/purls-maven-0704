@@ -1,0 +1,2 @@
+- pkg:maven/com.mobidevelop.robovm/robopods-firebase-ios-messaging@2.2.2
+- pkg:maven/com.mobidevelop.robovm/robopods-firebase-ios-messaging@2.2.2?classifier=sources

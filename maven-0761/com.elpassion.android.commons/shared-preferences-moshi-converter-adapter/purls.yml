@@ -1,0 +1,6 @@
+- pkg:maven/com.elpassion.android.commons/shared-preferences-moshi-converter-adapter@0.0.19?classifier=sources
+- pkg:maven/com.elpassion.android.commons/shared-preferences-moshi-converter-adapter@0.0.19?type=aar
+- pkg:maven/com.elpassion.android.commons/shared-preferences-moshi-converter-adapter@0.0.20?classifier=sources
+- pkg:maven/com.elpassion.android.commons/shared-preferences-moshi-converter-adapter@0.0.20?type=aar
+- pkg:maven/com.elpassion.android.commons/shared-preferences-moshi-converter-adapter@0.0.21?classifier=sources
+- pkg:maven/com.elpassion.android.commons/shared-preferences-moshi-converter-adapter@0.0.21?type=aar

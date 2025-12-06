@@ -12,3 +12,5 @@
 - pkg:maven/org.codelibs/elasticsearch-analyze-api@2.4.0?type=zip
 - pkg:maven/org.codelibs/elasticsearch-analyze-api@5.1.0?classifier=sources
 - pkg:maven/org.codelibs/elasticsearch-analyze-api@5.1.0?type=zip
+- pkg:maven/org.codelibs/elasticsearch-analyze-api@5.5.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-analyze-api@5.5.0?type=zip

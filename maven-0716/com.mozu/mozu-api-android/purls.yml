@@ -50,3 +50,4 @@
 - pkg:maven/com.mozu/mozu-api-android@1.7.18?type=aar
 - pkg:maven/com.mozu/mozu-api-android@1.7.19?type=aar
 - pkg:maven/com.mozu/mozu-api-android@1.9.0-RC1?type=aar
+- pkg:maven/com.mozu/mozu-api-android@2.0.0?type=aar

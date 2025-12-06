@@ -1,2 +1,4 @@
 - pkg:maven/com.github.luohaha/LightComm4J@0.1.3
 - pkg:maven/com.github.luohaha/LightComm4J@0.1.3?classifier=sources
+- pkg:maven/com.github.luohaha/LightComm4J@1.0.0
+- pkg:maven/com.github.luohaha/LightComm4J@1.0.0?classifier=sources

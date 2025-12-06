@@ -9,4 +9,6 @@
 - pkg:maven/com.liveperson/dropwizard-websockets@1.1.0
 - pkg:maven/com.liveperson/dropwizard-websockets@1.1.0?classifier=sources
 - pkg:maven/com.liveperson/dropwizard-websockets@1.2
+- pkg:maven/com.liveperson/dropwizard-websockets@1.2.0
+- pkg:maven/com.liveperson/dropwizard-websockets@1.2.0?classifier=sources
 - pkg:maven/com.liveperson/dropwizard-websockets@1.2?classifier=sources

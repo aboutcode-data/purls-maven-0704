@@ -1,0 +1,4 @@
+- pkg:maven/com.sqlapp/sqlapp-core-mdb@0.4.9
+- pkg:maven/com.sqlapp/sqlapp-core-mdb@0.4.9?classifier=sources
+- pkg:maven/com.sqlapp/sqlapp-core-mdb@0.8.1
+- pkg:maven/com.sqlapp/sqlapp-core-mdb@0.8.1?classifier=sources

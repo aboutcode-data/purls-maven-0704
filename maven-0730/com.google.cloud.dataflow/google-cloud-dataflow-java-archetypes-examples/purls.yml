@@ -2,3 +2,5 @@
 - pkg:maven/com.google.cloud.dataflow/google-cloud-dataflow-java-archetypes-examples@2.0.0-beta2?classifier=sources
 - pkg:maven/com.google.cloud.dataflow/google-cloud-dataflow-java-archetypes-examples@2.0.0-beta3?classifier=sources
 - pkg:maven/com.google.cloud.dataflow/google-cloud-dataflow-java-archetypes-examples@2.0.0?classifier=sources
+- pkg:maven/com.google.cloud.dataflow/google-cloud-dataflow-java-archetypes-examples@2.1.0?classifier=sources
+- pkg:maven/com.google.cloud.dataflow/google-cloud-dataflow-java-archetypes-examples@2.2.0?classifier=sources

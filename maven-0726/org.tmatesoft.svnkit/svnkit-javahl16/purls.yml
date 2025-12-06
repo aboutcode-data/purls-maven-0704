@@ -26,3 +26,5 @@
 - pkg:maven/org.tmatesoft.svnkit/svnkit-javahl16@1.8.7?classifier=sources
 - pkg:maven/org.tmatesoft.svnkit/svnkit-javahl16@1.8.9
 - pkg:maven/org.tmatesoft.svnkit/svnkit-javahl16@1.8.9?classifier=sources
+- pkg:maven/org.tmatesoft.svnkit/svnkit-javahl16@1.9.0
+- pkg:maven/org.tmatesoft.svnkit/svnkit-javahl16@1.9.0?classifier=sources

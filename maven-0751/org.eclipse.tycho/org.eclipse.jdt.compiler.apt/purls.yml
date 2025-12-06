@@ -14,3 +14,7 @@
 - pkg:maven/org.eclipse.tycho/org.eclipse.jdt.compiler.apt@1.2.0.v20150514-0146?classifier=sources
 - pkg:maven/org.eclipse.tycho/org.eclipse.jdt.compiler.apt@1.2.100.v20160418-1457
 - pkg:maven/org.eclipse.tycho/org.eclipse.jdt.compiler.apt@1.2.100.v20160418-1457?classifier=sources
+- pkg:maven/org.eclipse.tycho/org.eclipse.jdt.compiler.apt@1.3.0.v20170502-0408
+- pkg:maven/org.eclipse.tycho/org.eclipse.jdt.compiler.apt@1.3.0.v20170502-0408?classifier=sources
+- pkg:maven/org.eclipse.tycho/org.eclipse.jdt.compiler.apt@1.3.50.v20170920-0950
+- pkg:maven/org.eclipse.tycho/org.eclipse.jdt.compiler.apt@1.3.50.v20170920-0950?classifier=sources

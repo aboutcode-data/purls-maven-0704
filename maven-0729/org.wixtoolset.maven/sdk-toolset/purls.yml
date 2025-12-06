@@ -1,2 +1,4 @@
 - pkg:maven/org.wixtoolset.maven/sdk-toolset@3.10.2
+- pkg:maven/org.wixtoolset.maven/sdk-toolset@3.10.3
+- pkg:maven/org.wixtoolset.maven/sdk-toolset@3.11.0
 - pkg:maven/org.wixtoolset.maven/sdk-toolset@3.9.2

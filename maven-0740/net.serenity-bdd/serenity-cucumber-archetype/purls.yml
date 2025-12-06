@@ -9,3 +9,7 @@
 - pkg:maven/net.serenity-bdd/serenity-cucumber-archetype@1.1.38?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-cucumber-archetype@1.1.7?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-cucumber-archetype@1.2.0?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-cucumber-archetype@1.5.4?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-cucumber-archetype@1.6.9?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-cucumber-archetype@1.7.0?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-cucumber-archetype@1.8.4?classifier=sources

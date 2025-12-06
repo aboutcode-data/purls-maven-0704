@@ -1,0 +1,6 @@
+- pkg:maven/org.vishag/async-helper@1.0.0
+- pkg:maven/org.vishag/async-helper@1.0.0?classifier=sources
+- pkg:maven/org.vishag/async-helper@2.0.0
+- pkg:maven/org.vishag/async-helper@2.0.0?classifier=sources
+- pkg:maven/org.vishag/async-helper@3.0.0
+- pkg:maven/org.vishag/async-helper@3.0.0?classifier=sources

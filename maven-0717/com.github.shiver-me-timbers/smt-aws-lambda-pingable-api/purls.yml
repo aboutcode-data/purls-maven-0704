@@ -1,0 +1,4 @@
+- pkg:maven/com.github.shiver-me-timbers/smt-aws-lambda-pingable-api@1.3
+- pkg:maven/com.github.shiver-me-timbers/smt-aws-lambda-pingable-api@1.3?classifier=sources
+- pkg:maven/com.github.shiver-me-timbers/smt-aws-lambda-pingable-api@1.4
+- pkg:maven/com.github.shiver-me-timbers/smt-aws-lambda-pingable-api@1.4?classifier=sources

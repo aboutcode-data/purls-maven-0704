@@ -8,3 +8,5 @@
 - pkg:maven/com.tunnelvisionlabs/runtime-testsuite@4.6.0.3
 - pkg:maven/com.tunnelvisionlabs/runtime-testsuite@4.6.0.3?classifier=sources
 - pkg:maven/com.tunnelvisionlabs/runtime-testsuite@4.6?classifier=sources
+- pkg:maven/com.tunnelvisionlabs/runtime-testsuite@4.7
+- pkg:maven/com.tunnelvisionlabs/runtime-testsuite@4.7?classifier=sources

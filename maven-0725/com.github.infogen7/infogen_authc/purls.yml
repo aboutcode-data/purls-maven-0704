@@ -14,3 +14,7 @@
 - pkg:maven/com.github.infogen7/infogen_authc@V2.6.10R161101?classifier=sources
 - pkg:maven/com.github.infogen7/infogen_authc@V2.6.11R161118
 - pkg:maven/com.github.infogen7/infogen_authc@V2.6.11R161118?classifier=sources
+- pkg:maven/com.github.infogen7/infogen_authc@V2.7.0R171023
+- pkg:maven/com.github.infogen7/infogen_authc@V2.7.0R171023?classifier=sources
+- pkg:maven/com.github.infogen7/infogen_authc@V2.7.1R171107
+- pkg:maven/com.github.infogen7/infogen_authc@V2.7.1R171107?classifier=sources

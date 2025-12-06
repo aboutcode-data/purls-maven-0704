@@ -1,0 +1,2 @@
+- pkg:maven/io.wcm.maven/io.wcm.maven.global-build-tools-mixin@1
+- pkg:maven/io.wcm.maven/io.wcm.maven.global-build-tools-mixin@1?classifier=sources

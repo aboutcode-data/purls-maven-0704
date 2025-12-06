@@ -7,4 +7,6 @@
 - pkg:maven/com.opentext.otag.tomcat/otag-tomcat-listener@16.1?classifier=sources
 - pkg:maven/com.opentext.otag.tomcat/otag-tomcat-listener@16.2
 - pkg:maven/com.opentext.otag.tomcat/otag-tomcat-listener@16.2?classifier=sources
+- pkg:maven/com.opentext.otag.tomcat/otag-tomcat-listener@16.3.0
+- pkg:maven/com.opentext.otag.tomcat/otag-tomcat-listener@16.3.0?classifier=sources
 - pkg:maven/com.opentext.otag.tomcat/otag-tomcat-listener@16?classifier=sources

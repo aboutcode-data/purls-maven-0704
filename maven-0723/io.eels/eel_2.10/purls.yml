@@ -1,0 +1,2 @@
+- pkg:maven/io.eels/eel_2.10@1.3.0-a5
+- pkg:maven/io.eels/eel_2.10@1.3.0-a5?classifier=sources

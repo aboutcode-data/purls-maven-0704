@@ -1,0 +1,4 @@
+- pkg:maven/com.datathings/greycat-gradleplugin@10
+- pkg:maven/com.datathings/greycat-gradleplugin@10?classifier=sources
+- pkg:maven/com.datathings/greycat-gradleplugin@9
+- pkg:maven/com.datathings/greycat-gradleplugin@9?classifier=sources

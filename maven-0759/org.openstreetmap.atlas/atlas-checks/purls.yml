@@ -1,0 +1,4 @@
+- pkg:maven/org.openstreetmap.atlas/atlas-checks@4.0.0
+- pkg:maven/org.openstreetmap.atlas/atlas-checks@4.0.0?classifier=sources
+- pkg:maven/org.openstreetmap.atlas/atlas-checks@4.0.1
+- pkg:maven/org.openstreetmap.atlas/atlas-checks@4.0.1?classifier=sources

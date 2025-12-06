@@ -1,0 +1,8 @@
+- pkg:maven/io.airlift/security@0.156
+- pkg:maven/io.airlift/security@0.156?classifier=sources
+- pkg:maven/io.airlift/security@0.157
+- pkg:maven/io.airlift/security@0.157?classifier=sources
+- pkg:maven/io.airlift/security@0.158
+- pkg:maven/io.airlift/security@0.158?classifier=sources
+- pkg:maven/io.airlift/security@0.159
+- pkg:maven/io.airlift/security@0.159?classifier=sources

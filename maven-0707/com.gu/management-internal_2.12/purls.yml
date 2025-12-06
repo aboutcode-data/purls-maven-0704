@@ -1,0 +1,6 @@
+- pkg:maven/com.gu/management-internal_2.12@5.37
+- pkg:maven/com.gu/management-internal_2.12@5.37?classifier=sources
+- pkg:maven/com.gu/management-internal_2.12@5.38
+- pkg:maven/com.gu/management-internal_2.12@5.38?classifier=sources
+- pkg:maven/com.gu/management-internal_2.12@5.39
+- pkg:maven/com.gu/management-internal_2.12@5.39?classifier=sources

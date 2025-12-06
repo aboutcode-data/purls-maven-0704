@@ -1,0 +1,2 @@
+- pkg:maven/com.audienceproject/userreport@0.0.1.106?classifier=sources
+- pkg:maven/com.audienceproject/userreport@0.0.1.106?type=aar

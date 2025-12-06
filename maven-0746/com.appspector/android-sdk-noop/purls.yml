@@ -1,0 +1,2 @@
+- pkg:maven/com.appspector/android-sdk-noop@0.1.0?classifier=sources
+- pkg:maven/com.appspector/android-sdk-noop@0.1.0?type=aar

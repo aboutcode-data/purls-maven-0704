@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.bower/world-countries@1.7.2
+- pkg:maven/org.webjars.bower/world-countries@1.7.2?classifier=sources
+- pkg:maven/org.webjars.bower/world-countries@1.7.7
+- pkg:maven/org.webjars.bower/world-countries@1.7.7?classifier=sources
+- pkg:maven/org.webjars.bower/world-countries@1.8.0
+- pkg:maven/org.webjars.bower/world-countries@1.8.0?classifier=sources

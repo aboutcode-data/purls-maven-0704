@@ -1,0 +1,2 @@
+- pkg:maven/com.srotya.minuteman/rocksdb-cluster@0.0.2
+- pkg:maven/com.srotya.minuteman/rocksdb-cluster@0.0.2?classifier=sources

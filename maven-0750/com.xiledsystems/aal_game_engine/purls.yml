@@ -198,3 +198,7 @@
 - pkg:maven/com.xiledsystems/aal_game_engine@2.3.01?type=aar
 - pkg:maven/com.xiledsystems/aal_game_engine@2.3.02?classifier=sources
 - pkg:maven/com.xiledsystems/aal_game_engine@2.3.02?type=aar
+- pkg:maven/com.xiledsystems/aal_game_engine@2.4.01?classifier=sources
+- pkg:maven/com.xiledsystems/aal_game_engine@2.4.01?type=aar
+- pkg:maven/com.xiledsystems/aal_game_engine@3.0.0-rc1?classifier=sources
+- pkg:maven/com.xiledsystems/aal_game_engine@3.0.0-rc1?type=aar

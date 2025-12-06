@@ -4,3 +4,5 @@
 - pkg:maven/org.entando.entando/entando-engine@4.2.0?classifier=sources
 - pkg:maven/org.entando.entando/entando-engine@4.3.0
 - pkg:maven/org.entando.entando/entando-engine@4.3.0?classifier=sources
+- pkg:maven/org.entando.entando/entando-engine@4.3.1
+- pkg:maven/org.entando.entando/entando-engine@4.3.1?classifier=sources

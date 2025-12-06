@@ -6,3 +6,5 @@
 - pkg:maven/com.sdl.web/web-oauth-common@8.3.0-1003?classifier=sources
 - pkg:maven/com.sdl.web/web-oauth-common@8.5.0-1010
 - pkg:maven/com.sdl.web/web-oauth-common@8.5.0-1010?classifier=sources
+- pkg:maven/com.sdl.web/web-oauth-common@8.5.0-1021
+- pkg:maven/com.sdl.web/web-oauth-common@8.5.0-1021?classifier=sources

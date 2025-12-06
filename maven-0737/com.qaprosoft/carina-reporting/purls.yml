@@ -1,0 +1,4 @@
+- pkg:maven/com.qaprosoft/carina-reporting@5.2.1.30
+- pkg:maven/com.qaprosoft/carina-reporting@5.2.1.30?classifier=sources
+- pkg:maven/com.qaprosoft/carina-reporting@5.2.2.31
+- pkg:maven/com.qaprosoft/carina-reporting@5.2.2.31?classifier=sources

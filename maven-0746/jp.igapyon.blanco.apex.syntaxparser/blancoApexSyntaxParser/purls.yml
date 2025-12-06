@@ -1,0 +1,2 @@
+- pkg:maven/jp.igapyon.blanco.apex.syntaxparser/blancoApexSyntaxParser@1.2.4
+- pkg:maven/jp.igapyon.blanco.apex.syntaxparser/blancoApexSyntaxParser@1.2.4?classifier=sources

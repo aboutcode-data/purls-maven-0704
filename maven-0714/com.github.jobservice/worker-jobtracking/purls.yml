@@ -2,3 +2,7 @@
 - pkg:maven/com.github.jobservice/worker-jobtracking@2.0.0-7?classifier=sources
 - pkg:maven/com.github.jobservice/worker-jobtracking@2.1.0-57
 - pkg:maven/com.github.jobservice/worker-jobtracking@2.1.0-57?classifier=sources
+- pkg:maven/com.github.jobservice/worker-jobtracking@2.2.0-122
+- pkg:maven/com.github.jobservice/worker-jobtracking@2.2.0-122?classifier=sources
+- pkg:maven/com.github.jobservice/worker-jobtracking@2.3.0-159
+- pkg:maven/com.github.jobservice/worker-jobtracking@2.3.0-159?classifier=sources

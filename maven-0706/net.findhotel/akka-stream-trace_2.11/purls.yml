@@ -1,2 +1,6 @@
 - pkg:maven/net.findhotel/akka-stream-trace_2.11@0.3
+- pkg:maven/net.findhotel/akka-stream-trace_2.11@0.3.1
+- pkg:maven/net.findhotel/akka-stream-trace_2.11@0.3.1.1
+- pkg:maven/net.findhotel/akka-stream-trace_2.11@0.3.1.1?classifier=sources
+- pkg:maven/net.findhotel/akka-stream-trace_2.11@0.3.1?classifier=sources
 - pkg:maven/net.findhotel/akka-stream-trace_2.11@0.3?classifier=sources

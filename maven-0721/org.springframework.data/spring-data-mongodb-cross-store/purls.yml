@@ -24,6 +24,16 @@
 - pkg:maven/org.springframework.data/spring-data-mongodb-cross-store@1.10.3.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-mongodb-cross-store@1.10.4.RELEASE
 - pkg:maven/org.springframework.data/spring-data-mongodb-cross-store@1.10.4.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-mongodb-cross-store@1.10.5.RELEASE
+- pkg:maven/org.springframework.data/spring-data-mongodb-cross-store@1.10.5.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-mongodb-cross-store@1.10.6.RELEASE
+- pkg:maven/org.springframework.data/spring-data-mongodb-cross-store@1.10.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-mongodb-cross-store@1.10.7.RELEASE
+- pkg:maven/org.springframework.data/spring-data-mongodb-cross-store@1.10.7.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-mongodb-cross-store@1.10.8.RELEASE
+- pkg:maven/org.springframework.data/spring-data-mongodb-cross-store@1.10.8.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-mongodb-cross-store@1.10.9.RELEASE
+- pkg:maven/org.springframework.data/spring-data-mongodb-cross-store@1.10.9.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-mongodb-cross-store@1.2.0.RELEASE
 - pkg:maven/org.springframework.data/spring-data-mongodb-cross-store@1.2.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-mongodb-cross-store@1.2.1.RELEASE
@@ -118,3 +128,9 @@
 - pkg:maven/org.springframework.data/spring-data-mongodb-cross-store@1.9.8.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-mongodb-cross-store@1.9.9.RELEASE
 - pkg:maven/org.springframework.data/spring-data-mongodb-cross-store@1.9.9.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-mongodb-cross-store@2.0.0.RELEASE
+- pkg:maven/org.springframework.data/spring-data-mongodb-cross-store@2.0.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-mongodb-cross-store@2.0.1.RELEASE
+- pkg:maven/org.springframework.data/spring-data-mongodb-cross-store@2.0.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-mongodb-cross-store@2.0.2.RELEASE
+- pkg:maven/org.springframework.data/spring-data-mongodb-cross-store@2.0.2.RELEASE?classifier=sources

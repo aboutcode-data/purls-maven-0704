@@ -1,0 +1,3 @@
+- pkg:maven/com.gu/example-servlet-api_2.11@5.37?type=war
+- pkg:maven/com.gu/example-servlet-api_2.11@5.38?type=war
+- pkg:maven/com.gu/example-servlet-api_2.11@5.39?type=war

@@ -1,4 +1,14 @@
 - pkg:maven/org.webjars.npm/boom@0.4.2
 - pkg:maven/org.webjars.npm/boom@0.4.2?classifier=sources
+- pkg:maven/org.webjars.npm/boom@2.10.1
+- pkg:maven/org.webjars.npm/boom@2.10.1?classifier=sources
 - pkg:maven/org.webjars.npm/boom@2.9.0
 - pkg:maven/org.webjars.npm/boom@2.9.0?classifier=sources
+- pkg:maven/org.webjars.npm/boom@4.3.1
+- pkg:maven/org.webjars.npm/boom@4.3.1?classifier=sources
+- pkg:maven/org.webjars.npm/boom@5.0.0
+- pkg:maven/org.webjars.npm/boom@5.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/boom@5.2.0
+- pkg:maven/org.webjars.npm/boom@5.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/boom@6.0.0
+- pkg:maven/org.webjars.npm/boom@6.0.0?classifier=sources

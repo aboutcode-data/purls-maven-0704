@@ -1,0 +1,8 @@
+- pkg:maven/com.sap.cloud.servicesdk/odata-v2-lib@1.1.3
+- pkg:maven/com.sap.cloud.servicesdk/odata-v2-lib@1.1.3?classifier=sources
+- pkg:maven/com.sap.cloud.servicesdk/odata-v2-lib@1.10.2
+- pkg:maven/com.sap.cloud.servicesdk/odata-v2-lib@1.10.2?classifier=sources
+- pkg:maven/com.sap.cloud.servicesdk/odata-v2-lib@1.11.4
+- pkg:maven/com.sap.cloud.servicesdk/odata-v2-lib@1.11.4?classifier=sources
+- pkg:maven/com.sap.cloud.servicesdk/odata-v2-lib@1.2.1
+- pkg:maven/com.sap.cloud.servicesdk/odata-v2-lib@1.2.1?classifier=sources

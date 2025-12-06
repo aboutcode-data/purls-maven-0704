@@ -1,0 +1,10 @@
+- pkg:maven/com.codepoetics/fluvius-json@1.10
+- pkg:maven/com.codepoetics/fluvius-json@1.10?classifier=sources
+- pkg:maven/com.codepoetics/fluvius-json@1.4
+- pkg:maven/com.codepoetics/fluvius-json@1.4?classifier=sources
+- pkg:maven/com.codepoetics/fluvius-json@1.7
+- pkg:maven/com.codepoetics/fluvius-json@1.7?classifier=sources
+- pkg:maven/com.codepoetics/fluvius-json@1.8
+- pkg:maven/com.codepoetics/fluvius-json@1.8?classifier=sources
+- pkg:maven/com.codepoetics/fluvius-json@1.9
+- pkg:maven/com.codepoetics/fluvius-json@1.9?classifier=sources

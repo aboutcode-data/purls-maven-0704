@@ -1,4 +1,6 @@
 - pkg:maven/org.bitbucket.vhly/blackfire@alpha-1?classifier=sources
 - pkg:maven/org.bitbucket.vhly/blackfire@alpha-1?type=aar
+- pkg:maven/org.bitbucket.vhly/blackfire@alpha-3?classifier=sources
+- pkg:maven/org.bitbucket.vhly/blackfire@alpha-3?type=aar
 - pkg:maven/org.bitbucket.vhly/blackfire@alpha?classifier=sources
 - pkg:maven/org.bitbucket.vhly/blackfire@alpha?type=aar

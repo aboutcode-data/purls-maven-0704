@@ -1,0 +1,4 @@
+- pkg:maven/org.combinators/cls-scala_2.11@2.0.0-RC1
+- pkg:maven/org.combinators/cls-scala_2.11@2.0.0-RC1?classifier=sources
+- pkg:maven/org.combinators/cls-scala_2.11@d98368f5
+- pkg:maven/org.combinators/cls-scala_2.11@d98368f5?classifier=sources

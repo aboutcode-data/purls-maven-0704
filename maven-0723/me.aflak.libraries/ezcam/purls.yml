@@ -6,5 +6,7 @@
 - pkg:maven/me.aflak.libraries/ezcam@2.3.1?type=aar
 - pkg:maven/me.aflak.libraries/ezcam@2.3.2?classifier=sources
 - pkg:maven/me.aflak.libraries/ezcam@2.3.2?type=aar
+- pkg:maven/me.aflak.libraries/ezcam@2.3.3?classifier=sources
+- pkg:maven/me.aflak.libraries/ezcam@2.3.3?type=aar
 - pkg:maven/me.aflak.libraries/ezcam@2.3?classifier=sources
 - pkg:maven/me.aflak.libraries/ezcam@2.3?type=aar

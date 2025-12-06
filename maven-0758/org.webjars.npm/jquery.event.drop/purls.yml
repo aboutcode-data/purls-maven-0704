@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/jquery.event.drop@2.2.2
+- pkg:maven/org.webjars.npm/jquery.event.drop@2.2.2?classifier=sources

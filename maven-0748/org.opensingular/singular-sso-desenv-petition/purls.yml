@@ -20,3 +20,5 @@
 - pkg:maven/org.opensingular/singular-sso-desenv-petition@1.6.5?type=war
 - pkg:maven/org.opensingular/singular-sso-desenv-petition@1.6.6?classifier=sources
 - pkg:maven/org.opensingular/singular-sso-desenv-petition@1.6.6?type=war
+- pkg:maven/org.opensingular/singular-sso-desenv-petition@1.6.7?classifier=sources
+- pkg:maven/org.opensingular/singular-sso-desenv-petition@1.6.7?type=war

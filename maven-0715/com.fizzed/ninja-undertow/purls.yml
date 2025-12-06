@@ -16,3 +16,7 @@
 - pkg:maven/com.fizzed/ninja-undertow@5.7.0.undertow2?classifier=sources
 - pkg:maven/com.fizzed/ninja-undertow@6.0.0-undertow1
 - pkg:maven/com.fizzed/ninja-undertow@6.0.0-undertow1?classifier=sources
+- pkg:maven/com.fizzed/ninja-undertow@6.1.0-undertow1
+- pkg:maven/com.fizzed/ninja-undertow@6.1.0-undertow1?classifier=sources
+- pkg:maven/com.fizzed/ninja-undertow@6.1.0-undertow2
+- pkg:maven/com.fizzed/ninja-undertow@6.1.0-undertow2?classifier=sources

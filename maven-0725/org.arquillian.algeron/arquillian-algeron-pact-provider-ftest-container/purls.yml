@@ -4,3 +4,11 @@
 - pkg:maven/org.arquillian.algeron/arquillian-algeron-pact-provider-ftest-container@1.0.0.Alpha6
 - pkg:maven/org.arquillian.algeron/arquillian-algeron-pact-provider-ftest-container@1.0.0.Alpha6?classifier=sources
 - pkg:maven/org.arquillian.algeron/arquillian-algeron-pact-provider-ftest-container@1.0.0?classifier=sources
+- pkg:maven/org.arquillian.algeron/arquillian-algeron-pact-provider-ftest-container@1.0.1
+- pkg:maven/org.arquillian.algeron/arquillian-algeron-pact-provider-ftest-container@1.0.1?classifier=sources
+- pkg:maven/org.arquillian.algeron/arquillian-algeron-pact-provider-ftest-container@2.0.0-rc.1
+- pkg:maven/org.arquillian.algeron/arquillian-algeron-pact-provider-ftest-container@2.0.0-rc.1?classifier=sources
+- pkg:maven/org.arquillian.algeron/arquillian-algeron-pact-provider-ftest-container@2.0.0-rc.2
+- pkg:maven/org.arquillian.algeron/arquillian-algeron-pact-provider-ftest-container@2.0.0-rc.2?classifier=sources
+- pkg:maven/org.arquillian.algeron/arquillian-algeron-pact-provider-ftest-container@2.0.0-rc.3
+- pkg:maven/org.arquillian.algeron/arquillian-algeron-pact-provider-ftest-container@2.0.0-rc.3?classifier=sources

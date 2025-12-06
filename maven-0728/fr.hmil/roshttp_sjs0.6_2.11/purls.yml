@@ -12,3 +12,5 @@
 - pkg:maven/fr.hmil/roshttp_sjs0.6_2.11@2.0.1?classifier=sources
 - pkg:maven/fr.hmil/roshttp_sjs0.6_2.11@2.0.2
 - pkg:maven/fr.hmil/roshttp_sjs0.6_2.11@2.0.2?classifier=sources
+- pkg:maven/fr.hmil/roshttp_sjs0.6_2.11@2.1.0
+- pkg:maven/fr.hmil/roshttp_sjs0.6_2.11@2.1.0?classifier=sources

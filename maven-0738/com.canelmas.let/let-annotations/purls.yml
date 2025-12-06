@@ -6,3 +6,5 @@
 - pkg:maven/com.canelmas.let/let-annotations@0.1.8?classifier=sources
 - pkg:maven/com.canelmas.let/let-annotations@0.1.9
 - pkg:maven/com.canelmas.let/let-annotations@0.1.9?classifier=sources
+- pkg:maven/com.canelmas.let/let-annotations@1.0.0-beta1
+- pkg:maven/com.canelmas.let/let-annotations@1.0.0-beta1?classifier=sources

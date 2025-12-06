@@ -8,5 +8,11 @@
 - pkg:maven/org.isisaddons.module.poly/isis-module-poly-dom@1.13.0?classifier=sources
 - pkg:maven/org.isisaddons.module.poly/isis-module-poly-dom@1.14.0
 - pkg:maven/org.isisaddons.module.poly/isis-module-poly-dom@1.14.0?classifier=sources
+- pkg:maven/org.isisaddons.module.poly/isis-module-poly-dom@1.15.0
+- pkg:maven/org.isisaddons.module.poly/isis-module-poly-dom@1.15.0.1
+- pkg:maven/org.isisaddons.module.poly/isis-module-poly-dom@1.15.0.1?classifier=sources
+- pkg:maven/org.isisaddons.module.poly/isis-module-poly-dom@1.15.0?classifier=sources
+- pkg:maven/org.isisaddons.module.poly/isis-module-poly-dom@1.15.1.1
+- pkg:maven/org.isisaddons.module.poly/isis-module-poly-dom@1.15.1.1?classifier=sources
 - pkg:maven/org.isisaddons.module.poly/isis-module-poly-dom@1.9.0
 - pkg:maven/org.isisaddons.module.poly/isis-module-poly-dom@1.9.0?classifier=sources

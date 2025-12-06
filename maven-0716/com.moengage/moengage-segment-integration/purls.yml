@@ -2,3 +2,15 @@
 - pkg:maven/com.moengage/moengage-segment-integration@1.0.00?type=aar
 - pkg:maven/com.moengage/moengage-segment-integration@2.0.00?classifier=sources
 - pkg:maven/com.moengage/moengage-segment-integration@2.0.00?type=aar
+- pkg:maven/com.moengage/moengage-segment-integration@2.1.00?classifier=sources
+- pkg:maven/com.moengage/moengage-segment-integration@2.1.00?type=aar
+- pkg:maven/com.moengage/moengage-segment-integration@2.1.01?classifier=sources
+- pkg:maven/com.moengage/moengage-segment-integration@2.1.01?type=aar
+- pkg:maven/com.moengage/moengage-segment-integration@2.1.03?classifier=sources
+- pkg:maven/com.moengage/moengage-segment-integration@2.1.03?type=aar
+- pkg:maven/com.moengage/moengage-segment-integration@2.1.04?classifier=sources
+- pkg:maven/com.moengage/moengage-segment-integration@2.1.04?type=aar
+- pkg:maven/com.moengage/moengage-segment-integration@2.1.05?classifier=sources
+- pkg:maven/com.moengage/moengage-segment-integration@2.1.05?type=aar
+- pkg:maven/com.moengage/moengage-segment-integration@3.0.00?classifier=sources
+- pkg:maven/com.moengage/moengage-segment-integration@3.0.00?type=aar

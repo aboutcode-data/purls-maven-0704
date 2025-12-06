@@ -1,0 +1,2 @@
+- pkg:maven/io.earcam.utilitarian/io.earcam.utilitarian.web.jaxrs@0.0.1
+- pkg:maven/io.earcam.utilitarian/io.earcam.utilitarian.web.jaxrs@0.0.1?classifier=sources

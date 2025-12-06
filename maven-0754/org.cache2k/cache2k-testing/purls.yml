@@ -1,0 +1,2 @@
+- pkg:maven/org.cache2k/cache2k-testing@1.0.1.Final
+- pkg:maven/org.cache2k/cache2k-testing@1.0.1.Final?classifier=sources

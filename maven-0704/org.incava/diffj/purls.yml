@@ -1,0 +1,2 @@
+- pkg:maven/org.incava/diffj@1.6.2?classifier=sources
+- pkg:maven/org.incava/diffj@1.6.3?classifier=sources

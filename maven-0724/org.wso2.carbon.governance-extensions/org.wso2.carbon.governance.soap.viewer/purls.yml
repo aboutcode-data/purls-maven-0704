@@ -1,0 +1,4 @@
+- pkg:maven/org.wso2.carbon.governance-extensions/org.wso2.carbon.governance.soap.viewer@4.5.7
+- pkg:maven/org.wso2.carbon.governance-extensions/org.wso2.carbon.governance.soap.viewer@4.5.7?classifier=sources
+- pkg:maven/org.wso2.carbon.governance-extensions/org.wso2.carbon.governance.soap.viewer@4.5.8
+- pkg:maven/org.wso2.carbon.governance-extensions/org.wso2.carbon.governance.soap.viewer@4.5.8?classifier=sources

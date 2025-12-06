@@ -16,6 +16,14 @@
 - pkg:maven/org.sistcoop/openfact-services@1.0.RC21?classifier=sources
 - pkg:maven/org.sistcoop/openfact-services@1.0.RC22
 - pkg:maven/org.sistcoop/openfact-services@1.0.RC22?classifier=sources
+- pkg:maven/org.sistcoop/openfact-services@1.0.RC23
+- pkg:maven/org.sistcoop/openfact-services@1.0.RC23?classifier=sources
+- pkg:maven/org.sistcoop/openfact-services@1.0.RC24
+- pkg:maven/org.sistcoop/openfact-services@1.0.RC24?classifier=sources
+- pkg:maven/org.sistcoop/openfact-services@1.0.RC25
+- pkg:maven/org.sistcoop/openfact-services@1.0.RC25?classifier=sources
+- pkg:maven/org.sistcoop/openfact-services@1.0.RC26
+- pkg:maven/org.sistcoop/openfact-services@1.0.RC26?classifier=sources
 - pkg:maven/org.sistcoop/openfact-services@1.0.RC7
 - pkg:maven/org.sistcoop/openfact-services@1.0.RC7?classifier=sources
 - pkg:maven/org.sistcoop/openfact-services@1.0.RC8

@@ -1,0 +1,4 @@
+- pkg:maven/com.smartlogic.modelmanipulation/Semaphore-Model-Manipulation@Semaphore-4.1.0
+- pkg:maven/com.smartlogic.modelmanipulation/Semaphore-Model-Manipulation@Semaphore-4.1.0?classifier=sources
+- pkg:maven/com.smartlogic.modelmanipulation/Semaphore-Model-Manipulation@Semaphore-4.1.1
+- pkg:maven/com.smartlogic.modelmanipulation/Semaphore-Model-Manipulation@Semaphore-4.1.1?classifier=sources

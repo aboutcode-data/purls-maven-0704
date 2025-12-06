@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.vorto/projectrepository-file@0.10.0.M1
+- pkg:maven/org.eclipse.vorto/projectrepository-file@0.10.0.M1?classifier=sources

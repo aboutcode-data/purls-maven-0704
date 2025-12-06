@@ -1,2 +1,6 @@
 - pkg:maven/com.github.jhonyscamacho/bootstrap-object@1.0.0
 - pkg:maven/com.github.jhonyscamacho/bootstrap-object@1.0.0?classifier=sources
+- pkg:maven/com.github.jhonyscamacho/bootstrap-object@2.0.0
+- pkg:maven/com.github.jhonyscamacho/bootstrap-object@2.0.0?classifier=sources
+- pkg:maven/com.github.jhonyscamacho/bootstrap-object@2.1.0
+- pkg:maven/com.github.jhonyscamacho/bootstrap-object@2.1.0?classifier=sources

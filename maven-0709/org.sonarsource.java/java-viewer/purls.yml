@@ -1,0 +1,2 @@
+- pkg:maven/org.sonarsource.java/java-viewer@4.13.0.11627?classifier=sources
+- pkg:maven/org.sonarsource.java/java-viewer@4.13.0.11627?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/com.impetus.kundera.client/kundera-ethereum@3.12
+- pkg:maven/com.impetus.kundera.client/kundera-ethereum@3.12?classifier=sources

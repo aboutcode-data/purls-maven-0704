@@ -1,0 +1,6 @@
+- pkg:maven/software.hoegg.mule/mule-bundle-maven-plugin@1.0.0
+- pkg:maven/software.hoegg.mule/mule-bundle-maven-plugin@1.0.0?classifier=sources
+- pkg:maven/software.hoegg.mule/mule-bundle-maven-plugin@1.1.0
+- pkg:maven/software.hoegg.mule/mule-bundle-maven-plugin@1.1.0?classifier=sources
+- pkg:maven/software.hoegg.mule/mule-bundle-maven-plugin@1.1.1
+- pkg:maven/software.hoegg.mule/mule-bundle-maven-plugin@1.1.1?classifier=sources

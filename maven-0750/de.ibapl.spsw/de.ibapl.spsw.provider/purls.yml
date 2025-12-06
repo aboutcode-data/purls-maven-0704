@@ -1,0 +1,2 @@
+- pkg:maven/de.ibapl.spsw/de.ibapl.spsw.provider@1.0.0
+- pkg:maven/de.ibapl.spsw/de.ibapl.spsw.provider@1.0.0?classifier=sources

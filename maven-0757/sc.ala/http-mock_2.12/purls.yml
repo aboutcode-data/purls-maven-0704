@@ -1,0 +1,2 @@
+- pkg:maven/sc.ala/http-mock_2.12@0.3.4
+- pkg:maven/sc.ala/http-mock_2.12@0.3.4?classifier=sources

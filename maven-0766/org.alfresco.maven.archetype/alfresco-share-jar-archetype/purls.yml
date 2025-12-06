@@ -1,1 +1,2 @@
 - pkg:maven/org.alfresco.maven.archetype/alfresco-share-jar-archetype@3.0.0?classifier=sources
+- pkg:maven/org.alfresco.maven.archetype/alfresco-share-jar-archetype@3.0.1?classifier=sources

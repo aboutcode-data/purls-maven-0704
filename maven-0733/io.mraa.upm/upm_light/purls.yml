@@ -10,3 +10,5 @@
 - pkg:maven/io.mraa.upm/upm_light@1.1.0?classifier=sources
 - pkg:maven/io.mraa.upm/upm_light@1.2.0
 - pkg:maven/io.mraa.upm/upm_light@1.2.0?classifier=sources
+- pkg:maven/io.mraa.upm/upm_light@1.5.0
+- pkg:maven/io.mraa.upm/upm_light@1.5.0?classifier=sources

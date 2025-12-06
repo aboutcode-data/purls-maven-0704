@@ -1,2 +1,8 @@
 - pkg:maven/org.apache.hbase/hbase-spark@2.0.0-alpha-1
 - pkg:maven/org.apache.hbase/hbase-spark@2.0.0-alpha-1?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-spark@2.0.0-alpha2
+- pkg:maven/org.apache.hbase/hbase-spark@2.0.0-alpha2?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-spark@2.0.0-alpha3
+- pkg:maven/org.apache.hbase/hbase-spark@2.0.0-alpha3?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-spark@2.0.0-alpha4
+- pkg:maven/org.apache.hbase/hbase-spark@2.0.0-alpha4?classifier=sources

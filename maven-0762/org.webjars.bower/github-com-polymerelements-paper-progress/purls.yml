@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/github-com-polymerelements-paper-progress@1.0.9
 - pkg:maven/org.webjars.bower/github-com-polymerelements-paper-progress@1.0.9?classifier=sources
+- pkg:maven/org.webjars.bower/github-com-polymerelements-paper-progress@2.0.1
+- pkg:maven/org.webjars.bower/github-com-polymerelements-paper-progress@2.0.1?classifier=sources

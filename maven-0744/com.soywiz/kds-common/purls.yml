@@ -1,0 +1,6 @@
+- pkg:maven/com.soywiz/kds-common@0.1.0
+- pkg:maven/com.soywiz/kds-common@0.1.0?classifier=sources
+- pkg:maven/com.soywiz/kds-common@0.3.0
+- pkg:maven/com.soywiz/kds-common@0.3.0?classifier=sources
+- pkg:maven/com.soywiz/kds-common@0.3.1
+- pkg:maven/com.soywiz/kds-common@0.3.1?classifier=sources

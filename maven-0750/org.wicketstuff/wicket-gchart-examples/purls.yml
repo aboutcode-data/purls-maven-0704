@@ -1,0 +1,4 @@
+- pkg:maven/org.wicketstuff/wicket-gchart-examples@7.9.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicket-gchart-examples@7.9.0?type=war
+- pkg:maven/org.wicketstuff/wicket-gchart-examples@8.0.0-M8?classifier=sources
+- pkg:maven/org.wicketstuff/wicket-gchart-examples@8.0.0-M8?type=war

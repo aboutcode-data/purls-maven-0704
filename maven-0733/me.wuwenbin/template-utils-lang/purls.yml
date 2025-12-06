@@ -12,3 +12,13 @@
 - pkg:maven/me.wuwenbin/template-utils-lang@1.3.1.RELEASE?classifier=sources
 - pkg:maven/me.wuwenbin/template-utils-lang@2.0.0.RELEASE
 - pkg:maven/me.wuwenbin/template-utils-lang@2.0.0.RELEASE?classifier=sources
+- pkg:maven/me.wuwenbin/template-utils-lang@2.6.0.RELEASE
+- pkg:maven/me.wuwenbin/template-utils-lang@2.6.0.RELEASE?classifier=sources
+- pkg:maven/me.wuwenbin/template-utils-lang@2.7.0.RELEASE
+- pkg:maven/me.wuwenbin/template-utils-lang@2.7.0.RELEASE?classifier=sources
+- pkg:maven/me.wuwenbin/template-utils-lang@2.7.1.RELEASE
+- pkg:maven/me.wuwenbin/template-utils-lang@2.7.1.RELEASE?classifier=sources
+- pkg:maven/me.wuwenbin/template-utils-lang@2.7.2.RELEASE
+- pkg:maven/me.wuwenbin/template-utils-lang@2.7.2.RELEASE?classifier=sources
+- pkg:maven/me.wuwenbin/template-utils-lang@2.7.3.RELEASE
+- pkg:maven/me.wuwenbin/template-utils-lang@2.7.3.RELEASE?classifier=sources

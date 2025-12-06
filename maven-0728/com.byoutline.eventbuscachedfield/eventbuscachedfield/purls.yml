@@ -4,3 +4,7 @@
 - pkg:maven/com.byoutline.eventbuscachedfield/eventbuscachedfield@0.9.1?classifier=sources
 - pkg:maven/com.byoutline.eventbuscachedfield/eventbuscachedfield@0.9.2
 - pkg:maven/com.byoutline.eventbuscachedfield/eventbuscachedfield@0.9.2?classifier=sources
+- pkg:maven/com.byoutline.eventbuscachedfield/eventbuscachedfield@1.7.0
+- pkg:maven/com.byoutline.eventbuscachedfield/eventbuscachedfield@1.7.0-RC1
+- pkg:maven/com.byoutline.eventbuscachedfield/eventbuscachedfield@1.7.0-RC1?classifier=sources
+- pkg:maven/com.byoutline.eventbuscachedfield/eventbuscachedfield@1.7.0?classifier=sources

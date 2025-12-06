@@ -1,0 +1,6 @@
+- pkg:maven/com.tencent.angel/angel-dist@1.0.0
+- pkg:maven/com.tencent.angel/angel-dist@1.0.0-alpha
+- pkg:maven/com.tencent.angel/angel-dist@1.1.0
+- pkg:maven/com.tencent.angel/angel-dist@1.2.0
+- pkg:maven/com.tencent.angel/angel-dist@1.2.1
+- pkg:maven/com.tencent.angel/angel-dist@1.3.0

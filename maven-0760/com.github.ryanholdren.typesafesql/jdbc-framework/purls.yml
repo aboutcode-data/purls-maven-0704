@@ -1,0 +1,4 @@
+- pkg:maven/com.github.ryanholdren.typesafesql/jdbc-framework@2017-07-09
+- pkg:maven/com.github.ryanholdren.typesafesql/jdbc-framework@2017-07-09?classifier=sources
+- pkg:maven/com.github.ryanholdren.typesafesql/jdbc-framework@2017-07-12
+- pkg:maven/com.github.ryanholdren.typesafesql/jdbc-framework@2017-07-12?classifier=sources

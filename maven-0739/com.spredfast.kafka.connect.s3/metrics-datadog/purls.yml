@@ -2,3 +2,5 @@
 - pkg:maven/com.spredfast.kafka.connect.s3/metrics-datadog@0.3.3?classifier=sources
 - pkg:maven/com.spredfast.kafka.connect.s3/metrics-datadog@0.3.4
 - pkg:maven/com.spredfast.kafka.connect.s3/metrics-datadog@0.3.4?classifier=sources
+- pkg:maven/com.spredfast.kafka.connect.s3/metrics-datadog@0.4.0
+- pkg:maven/com.spredfast.kafka.connect.s3/metrics-datadog@0.4.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/edu.cnu.cs/gooey@1.0.0
 - pkg:maven/edu.cnu.cs/gooey@1.0.0?classifier=sources
+- pkg:maven/edu.cnu.cs/gooey@1.8.0
+- pkg:maven/edu.cnu.cs/gooey@1.8.0?classifier=sources

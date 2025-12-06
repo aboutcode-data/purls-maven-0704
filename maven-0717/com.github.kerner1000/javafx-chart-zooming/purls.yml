@@ -1,0 +1,4 @@
+- pkg:maven/com.github.kerner1000/javafx-chart-zooming@0.0.6
+- pkg:maven/com.github.kerner1000/javafx-chart-zooming@0.0.6?classifier=sources
+- pkg:maven/com.github.kerner1000/javafx-chart-zooming@0.0.8
+- pkg:maven/com.github.kerner1000/javafx-chart-zooming@0.0.8?classifier=sources

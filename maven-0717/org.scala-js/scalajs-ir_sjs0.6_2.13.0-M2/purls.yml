@@ -1,0 +1,8 @@
+- pkg:maven/org.scala-js/scalajs-ir_sjs0.6_2.13.0-M2@0.6.18
+- pkg:maven/org.scala-js/scalajs-ir_sjs0.6_2.13.0-M2@0.6.18?classifier=sources
+- pkg:maven/org.scala-js/scalajs-ir_sjs0.6_2.13.0-M2@0.6.19
+- pkg:maven/org.scala-js/scalajs-ir_sjs0.6_2.13.0-M2@0.6.19?classifier=sources
+- pkg:maven/org.scala-js/scalajs-ir_sjs0.6_2.13.0-M2@0.6.20
+- pkg:maven/org.scala-js/scalajs-ir_sjs0.6_2.13.0-M2@0.6.20?classifier=sources
+- pkg:maven/org.scala-js/scalajs-ir_sjs0.6_2.13.0-M2@0.6.21
+- pkg:maven/org.scala-js/scalajs-ir_sjs0.6_2.13.0-M2@0.6.21?classifier=sources

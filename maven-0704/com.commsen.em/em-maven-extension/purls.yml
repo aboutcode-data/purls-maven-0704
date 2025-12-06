@@ -1,0 +1,4 @@
+- pkg:maven/com.commsen.em/em-maven-extension@0.1.0
+- pkg:maven/com.commsen.em/em-maven-extension@0.1.0?classifier=sources
+- pkg:maven/com.commsen.em/em-maven-extension@0.2.0
+- pkg:maven/com.commsen.em/em-maven-extension@0.2.0?classifier=sources

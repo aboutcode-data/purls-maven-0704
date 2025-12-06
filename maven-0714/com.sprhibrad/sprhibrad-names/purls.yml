@@ -1,0 +1,2 @@
+- pkg:maven/com.sprhibrad/sprhibrad-names@1.0.0
+- pkg:maven/com.sprhibrad/sprhibrad-names@1.0.0?classifier=sources

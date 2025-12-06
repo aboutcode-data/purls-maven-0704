@@ -1,2 +1,4 @@
 - pkg:maven/io.getlime.security/powerauth-java-cmd-lib@0.15.0
 - pkg:maven/io.getlime.security/powerauth-java-cmd-lib@0.15.0?classifier=sources
+- pkg:maven/io.getlime.security/powerauth-java-cmd-lib@0.17.0
+- pkg:maven/io.getlime.security/powerauth-java-cmd-lib@0.17.0?classifier=sources

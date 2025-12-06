@@ -26,3 +26,5 @@
 - pkg:maven/org.apache.cxf.xjcplugins.tests/cxf-xjc-dv-test@3.0.5?classifier=sources
 - pkg:maven/org.apache.cxf.xjcplugins.tests/cxf-xjc-dv-test@3.1.0
 - pkg:maven/org.apache.cxf.xjcplugins.tests/cxf-xjc-dv-test@3.1.0?classifier=sources
+- pkg:maven/org.apache.cxf.xjcplugins.tests/cxf-xjc-dv-test@3.2.0
+- pkg:maven/org.apache.cxf.xjcplugins.tests/cxf-xjc-dv-test@3.2.0?classifier=sources

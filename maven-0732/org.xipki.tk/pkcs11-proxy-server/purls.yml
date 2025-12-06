@@ -1,0 +1,2 @@
+- pkg:maven/org.xipki.tk/pkcs11-proxy-server@2.3.0
+- pkg:maven/org.xipki.tk/pkcs11-proxy-server@2.3.0?classifier=sources

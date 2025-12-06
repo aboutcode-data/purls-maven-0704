@@ -1,0 +1,2 @@
+- pkg:maven/net.fnothaft/hadoop-bam@7.9.1
+- pkg:maven/net.fnothaft/hadoop-bam@7.9.1?classifier=sources

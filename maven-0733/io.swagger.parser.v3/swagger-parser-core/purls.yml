@@ -1,0 +1,2 @@
+- pkg:maven/io.swagger.parser.v3/swagger-parser-core@2.0.0-rc2
+- pkg:maven/io.swagger.parser.v3/swagger-parser-core@2.0.0-rc2?classifier=sources

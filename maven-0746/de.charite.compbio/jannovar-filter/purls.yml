@@ -8,3 +8,5 @@
 - pkg:maven/de.charite.compbio/jannovar-filter@0.21?classifier=sources
 - pkg:maven/de.charite.compbio/jannovar-filter@0.22
 - pkg:maven/de.charite.compbio/jannovar-filter@0.22?classifier=sources
+- pkg:maven/de.charite.compbio/jannovar-filter@0.23
+- pkg:maven/de.charite.compbio/jannovar-filter@0.23?classifier=sources

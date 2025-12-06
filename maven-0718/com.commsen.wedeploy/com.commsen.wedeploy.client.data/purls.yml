@@ -1,0 +1,4 @@
+- pkg:maven/com.commsen.wedeploy/com.commsen.wedeploy.client.data@0.1.0
+- pkg:maven/com.commsen.wedeploy/com.commsen.wedeploy.client.data@0.1.0?classifier=sources
+- pkg:maven/com.commsen.wedeploy/com.commsen.wedeploy.client.data@1.0.0
+- pkg:maven/com.commsen.wedeploy/com.commsen.wedeploy.client.data@1.0.0?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/org.jfree/jfreechart@1.0.18?classifier=sources
 - pkg:maven/org.jfree/jfreechart@1.0.19
 - pkg:maven/org.jfree/jfreechart@1.0.19?classifier=sources
+- pkg:maven/org.jfree/jfreechart@1.5.0
+- pkg:maven/org.jfree/jfreechart@1.5.0?classifier=sources

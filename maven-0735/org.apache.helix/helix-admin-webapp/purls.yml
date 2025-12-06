@@ -14,6 +14,10 @@
 - pkg:maven/org.apache.helix/helix-admin-webapp@0.6.6?classifier=sources
 - pkg:maven/org.apache.helix/helix-admin-webapp@0.6.7
 - pkg:maven/org.apache.helix/helix-admin-webapp@0.6.7?classifier=sources
+- pkg:maven/org.apache.helix/helix-admin-webapp@0.6.8
+- pkg:maven/org.apache.helix/helix-admin-webapp@0.6.8?classifier=sources
+- pkg:maven/org.apache.helix/helix-admin-webapp@0.6.9
+- pkg:maven/org.apache.helix/helix-admin-webapp@0.6.9?classifier=sources
 - pkg:maven/org.apache.helix/helix-admin-webapp@0.7.0-incubating
 - pkg:maven/org.apache.helix/helix-admin-webapp@0.7.0-incubating?classifier=sources
 - pkg:maven/org.apache.helix/helix-admin-webapp@0.7.1

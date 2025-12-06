@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/easy-autocomplete@1.3.5
+- pkg:maven/org.webjars.npm/easy-autocomplete@1.3.5?classifier=sources

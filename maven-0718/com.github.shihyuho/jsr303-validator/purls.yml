@@ -1,0 +1,4 @@
+- pkg:maven/com.github.shihyuho/jsr303-validator@1.0
+- pkg:maven/com.github.shihyuho/jsr303-validator@1.0.0
+- pkg:maven/com.github.shihyuho/jsr303-validator@1.0.0?classifier=sources
+- pkg:maven/com.github.shihyuho/jsr303-validator@1.0?classifier=sources

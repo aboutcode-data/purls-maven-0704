@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/persistent-hash-trie@0.4.2
+- pkg:maven/org.webjars.npm/persistent-hash-trie@0.4.2?classifier=sources

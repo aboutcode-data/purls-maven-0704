@@ -18,6 +18,10 @@
 - pkg:maven/org.apidesign.bck2brwsr/javaquery.api@0.18?classifier=sources
 - pkg:maven/org.apidesign.bck2brwsr/javaquery.api@0.19
 - pkg:maven/org.apidesign.bck2brwsr/javaquery.api@0.19?classifier=sources
+- pkg:maven/org.apidesign.bck2brwsr/javaquery.api@0.20
+- pkg:maven/org.apidesign.bck2brwsr/javaquery.api@0.20?classifier=sources
+- pkg:maven/org.apidesign.bck2brwsr/javaquery.api@0.21
+- pkg:maven/org.apidesign.bck2brwsr/javaquery.api@0.21?classifier=sources
 - pkg:maven/org.apidesign.bck2brwsr/javaquery.api@0.4
 - pkg:maven/org.apidesign.bck2brwsr/javaquery.api@0.4?classifier=sources
 - pkg:maven/org.apidesign.bck2brwsr/javaquery.api@0.5

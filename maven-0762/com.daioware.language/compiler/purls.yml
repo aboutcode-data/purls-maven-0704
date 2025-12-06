@@ -1,0 +1,2 @@
+- pkg:maven/com.daioware.language/compiler@1.0.0-RELEASE
+- pkg:maven/com.daioware.language/compiler@1.0.0-RELEASE?classifier=sources

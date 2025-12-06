@@ -34,3 +34,11 @@
 - pkg:maven/com.aliyun.openservices/ons-client@1.2.7.Final?classifier=sources
 - pkg:maven/com.aliyun.openservices/ons-client@1.3.2.Final
 - pkg:maven/com.aliyun.openservices/ons-client@1.3.2.Final?classifier=sources
+- pkg:maven/com.aliyun.openservices/ons-client@1.6.0.Final
+- pkg:maven/com.aliyun.openservices/ons-client@1.6.0.Final?classifier=sources
+- pkg:maven/com.aliyun.openservices/ons-client@1.6.1.Final
+- pkg:maven/com.aliyun.openservices/ons-client@1.6.1.Final?classifier=sources
+- pkg:maven/com.aliyun.openservices/ons-client@1.7.0.Final
+- pkg:maven/com.aliyun.openservices/ons-client@1.7.0.Final?classifier=sources
+- pkg:maven/com.aliyun.openservices/ons-client@1.7.1.Final
+- pkg:maven/com.aliyun.openservices/ons-client@1.7.1.Final?classifier=sources

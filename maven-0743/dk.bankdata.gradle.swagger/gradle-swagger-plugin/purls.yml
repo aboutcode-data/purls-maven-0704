@@ -1,0 +1,2 @@
+- pkg:maven/dk.bankdata.gradle.swagger/gradle-swagger-plugin@1.0.0
+- pkg:maven/dk.bankdata.gradle.swagger/gradle-swagger-plugin@1.0.0?classifier=sources

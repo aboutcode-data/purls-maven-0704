@@ -1,2 +1,10 @@
 - pkg:maven/com.io7m.junreachable/com.io7m.junreachable.documentation@1.0.3?classifier=sources
 - pkg:maven/com.io7m.junreachable/com.io7m.junreachable.documentation@1.0.3?type=zip
+- pkg:maven/com.io7m.junreachable/com.io7m.junreachable.documentation@2.0.0-beta0002?classifier=sources
+- pkg:maven/com.io7m.junreachable/com.io7m.junreachable.documentation@2.0.0-beta0002?type=zip
+- pkg:maven/com.io7m.junreachable/com.io7m.junreachable.documentation@2.0.0-beta0003?classifier=sources
+- pkg:maven/com.io7m.junreachable/com.io7m.junreachable.documentation@2.0.0-beta0003?type=zip
+- pkg:maven/com.io7m.junreachable/com.io7m.junreachable.documentation@2.0.0-beta0004?classifier=sources
+- pkg:maven/com.io7m.junreachable/com.io7m.junreachable.documentation@2.0.0-beta0004?type=zip
+- pkg:maven/com.io7m.junreachable/com.io7m.junreachable.documentation@2.0.0?classifier=sources
+- pkg:maven/com.io7m.junreachable/com.io7m.junreachable.documentation@2.0.0?type=zip

@@ -1,0 +1,2 @@
+- pkg:maven/com.netflix.spectator/spectator-ext-log4j1.md@0.57.0
+- pkg:maven/com.netflix.spectator/spectator-ext-log4j1.md@0.57.0?classifier=sources

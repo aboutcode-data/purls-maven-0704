@@ -1,2 +1,5 @@
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt@3.12.2
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt@3.12.3
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt@3.13.0
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt@3.13.1
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt@3.13.2

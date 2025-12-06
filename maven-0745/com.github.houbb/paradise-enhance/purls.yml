@@ -1,0 +1,2 @@
+- pkg:maven/com.github.houbb/paradise-enhance@1.1.1
+- pkg:maven/com.github.houbb/paradise-enhance@1.1.1?classifier=sources

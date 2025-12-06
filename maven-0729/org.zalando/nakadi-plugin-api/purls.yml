@@ -10,3 +10,7 @@
 - pkg:maven/org.zalando/nakadi-plugin-api@1.0.4?classifier=sources
 - pkg:maven/org.zalando/nakadi-plugin-api@1.0.5
 - pkg:maven/org.zalando/nakadi-plugin-api@1.0.5?classifier=sources
+- pkg:maven/org.zalando/nakadi-plugin-api@1.1.0
+- pkg:maven/org.zalando/nakadi-plugin-api@1.1.0?classifier=sources
+- pkg:maven/org.zalando/nakadi-plugin-api@2.0.0
+- pkg:maven/org.zalando/nakadi-plugin-api@2.0.0?classifier=sources

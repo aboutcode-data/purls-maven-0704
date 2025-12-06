@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.weld.vertx/weld-vertx-doc@1.2.0.Final
+- pkg:maven/org.jboss.weld.vertx/weld-vertx-doc@1.2.0.Final?classifier=sources

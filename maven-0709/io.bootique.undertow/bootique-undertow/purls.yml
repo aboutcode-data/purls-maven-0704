@@ -1,2 +1,6 @@
+- pkg:maven/io.bootique.undertow/bootique-undertow@0.24
+- pkg:maven/io.bootique.undertow/bootique-undertow@0.24?classifier=sources
 - pkg:maven/io.bootique.undertow/bootique-undertow@0.3
 - pkg:maven/io.bootique.undertow/bootique-undertow@0.3?classifier=sources
+- pkg:maven/io.bootique.undertow/bootique-undertow@0.4
+- pkg:maven/io.bootique.undertow/bootique-undertow@0.4?classifier=sources

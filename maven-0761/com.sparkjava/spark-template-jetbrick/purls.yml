@@ -2,3 +2,5 @@
 - pkg:maven/com.sparkjava/spark-template-jetbrick@2.3?classifier=sources
 - pkg:maven/com.sparkjava/spark-template-jetbrick@2.5.5
 - pkg:maven/com.sparkjava/spark-template-jetbrick@2.5.5?classifier=sources
+- pkg:maven/com.sparkjava/spark-template-jetbrick@2.7.1
+- pkg:maven/com.sparkjava/spark-template-jetbrick@2.7.1?classifier=sources

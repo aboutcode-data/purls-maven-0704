@@ -1,0 +1,2 @@
+- pkg:maven/com.onelogin/onelogin-aws-assume-role-cli@1.0.0
+- pkg:maven/com.onelogin/onelogin-aws-assume-role-cli@1.0.0?classifier=sources

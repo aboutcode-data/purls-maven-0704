@@ -1,0 +1,6 @@
+- pkg:maven/biz.ostw/fsi@0.0.0
+- pkg:maven/biz.ostw/fsi@0.0.0?classifier=sources
+- pkg:maven/biz.ostw/fsi@1.0.0
+- pkg:maven/biz.ostw/fsi@1.0.0?classifier=sources
+- pkg:maven/biz.ostw/fsi@1.0.1
+- pkg:maven/biz.ostw/fsi@1.0.1?classifier=sources

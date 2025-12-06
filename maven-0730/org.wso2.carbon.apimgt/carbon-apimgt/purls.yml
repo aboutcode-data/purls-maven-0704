@@ -1,0 +1,4 @@
+- pkg:maven/org.wso2.carbon.apimgt/carbon-apimgt@6.1.113?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.apimgt/carbon-apimgt@6.1.114?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.apimgt/carbon-apimgt@6.1.115?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.apimgt/carbon-apimgt@6.1.116?classifier=source-release&type=zip

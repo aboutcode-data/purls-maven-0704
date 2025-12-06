@@ -8,3 +8,5 @@
 - pkg:maven/org.rjung.util/launchpad@0.4?classifier=sources
 - pkg:maven/org.rjung.util/launchpad@0.5
 - pkg:maven/org.rjung.util/launchpad@0.5?classifier=sources
+- pkg:maven/org.rjung.util/launchpad@1.0
+- pkg:maven/org.rjung.util/launchpad@1.0?classifier=sources

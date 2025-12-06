@@ -1,0 +1,2 @@
+- pkg:maven/com.github.gino0631/pac-core@1.0
+- pkg:maven/com.github.gino0631/pac-core@1.0?classifier=sources

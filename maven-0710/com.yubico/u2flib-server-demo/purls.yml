@@ -8,3 +8,5 @@
 - pkg:maven/com.yubico/u2flib-server-demo@0.15.0?classifier=sources
 - pkg:maven/com.yubico/u2flib-server-demo@0.16.0
 - pkg:maven/com.yubico/u2flib-server-demo@0.16.0?classifier=sources
+- pkg:maven/com.yubico/u2flib-server-demo@0.18.0?classifier=sources
+- pkg:maven/com.yubico/u2flib-server-demo@0.18.1?classifier=sources

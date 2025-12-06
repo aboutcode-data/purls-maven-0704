@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.identity.cloud/org.wso2.carbon.identity.cloud.claim.migrator@3.0.21
+- pkg:maven/org.wso2.carbon.identity.cloud/org.wso2.carbon.identity.cloud.claim.migrator@3.0.21?classifier=sources

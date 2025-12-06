@@ -20,3 +20,9 @@
 - pkg:maven/org.webjars.bower/bootswatch-dist@3.3.6-superhero?classifier=sources
 - pkg:maven/org.webjars.bower/bootswatch-dist@3.3.6-yeti
 - pkg:maven/org.webjars.bower/bootswatch-dist@3.3.6-yeti?classifier=sources
+- pkg:maven/org.webjars.bower/bootswatch-dist@3.3.7-cerulean
+- pkg:maven/org.webjars.bower/bootswatch-dist@3.3.7-cerulean?classifier=sources
+- pkg:maven/org.webjars.bower/bootswatch-dist@3.3.7-cosmo
+- pkg:maven/org.webjars.bower/bootswatch-dist@3.3.7-cosmo?classifier=sources
+- pkg:maven/org.webjars.bower/bootswatch-dist@3.3.7-journal
+- pkg:maven/org.webjars.bower/bootswatch-dist@3.3.7-journal?classifier=sources

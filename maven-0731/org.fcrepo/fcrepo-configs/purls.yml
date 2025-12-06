@@ -40,3 +40,5 @@
 - pkg:maven/org.fcrepo/fcrepo-configs@4.7.2?classifier=sources
 - pkg:maven/org.fcrepo/fcrepo-configs@4.7.3
 - pkg:maven/org.fcrepo/fcrepo-configs@4.7.3?classifier=sources
+- pkg:maven/org.fcrepo/fcrepo-configs@4.7.4
+- pkg:maven/org.fcrepo/fcrepo-configs@4.7.4?classifier=sources

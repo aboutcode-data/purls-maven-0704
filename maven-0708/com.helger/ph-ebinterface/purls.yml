@@ -24,3 +24,7 @@
 - pkg:maven/com.helger/ph-ebinterface@5.1.1?classifier=sources
 - pkg:maven/com.helger/ph-ebinterface@5.1.2
 - pkg:maven/com.helger/ph-ebinterface@5.1.2?classifier=sources
+- pkg:maven/com.helger/ph-ebinterface@6.0.0-b1
+- pkg:maven/com.helger/ph-ebinterface@6.0.0-b1?classifier=sources
+- pkg:maven/com.helger/ph-ebinterface@6.0.0-b2
+- pkg:maven/com.helger/ph-ebinterface@6.0.0-b2?classifier=sources

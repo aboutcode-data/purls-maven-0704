@@ -1,0 +1,10 @@
+- pkg:maven/org.bitbucket.sunicorns/secretunicorns-spark_2.11@spark_2.1.1-1.0
+- pkg:maven/org.bitbucket.sunicorns/secretunicorns-spark_2.11@spark_2.1.1-1.0?classifier=sources
+- pkg:maven/org.bitbucket.sunicorns/secretunicorns-spark_2.11@spark_2.1.1-4.0
+- pkg:maven/org.bitbucket.sunicorns/secretunicorns-spark_2.11@spark_2.1.1-4.0?classifier=sources
+- pkg:maven/org.bitbucket.sunicorns/secretunicorns-spark_2.11@spark_2.2.0-1.0
+- pkg:maven/org.bitbucket.sunicorns/secretunicorns-spark_2.11@spark_2.2.0-1.0?classifier=sources
+- pkg:maven/org.bitbucket.sunicorns/secretunicorns-spark_2.11@spark_2.2.0-3.0
+- pkg:maven/org.bitbucket.sunicorns/secretunicorns-spark_2.11@spark_2.2.0-3.0?classifier=sources
+- pkg:maven/org.bitbucket.sunicorns/secretunicorns-spark_2.11@spark_2.2.0-4.0
+- pkg:maven/org.bitbucket.sunicorns/secretunicorns-spark_2.11@spark_2.2.0-4.0?classifier=sources

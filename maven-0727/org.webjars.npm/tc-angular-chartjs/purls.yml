@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/tc-angular-chartjs@1.0.16
 - pkg:maven/org.webjars.npm/tc-angular-chartjs@1.0.16?classifier=sources
+- pkg:maven/org.webjars.npm/tc-angular-chartjs@2.1.4
+- pkg:maven/org.webjars.npm/tc-angular-chartjs@2.1.4?classifier=sources

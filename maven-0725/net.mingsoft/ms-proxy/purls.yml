@@ -1,2 +1,4 @@
 - pkg:maven/net.mingsoft/ms-proxy@1.0.0
 - pkg:maven/net.mingsoft/ms-proxy@1.0.0?classifier=sources
+- pkg:maven/net.mingsoft/ms-proxy@1.0.1-SNAPSHO
+- pkg:maven/net.mingsoft/ms-proxy@1.0.1-SNAPSHO?classifier=sources

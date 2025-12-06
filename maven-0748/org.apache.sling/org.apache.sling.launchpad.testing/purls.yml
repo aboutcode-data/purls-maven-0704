@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.sling/org.apache.sling.launchpad.testing@5-incubator?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.launchpad.testing@5-incubator?type=war
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad.testing@9?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad.testing@9?classifier=sources

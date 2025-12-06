@@ -1,0 +1,2 @@
+- pkg:maven/com.surenpi.autotest/autotest.datasource.excel@1.0.0-20170706
+- pkg:maven/com.surenpi.autotest/autotest.datasource.excel@1.0.0-20170706?classifier=sources

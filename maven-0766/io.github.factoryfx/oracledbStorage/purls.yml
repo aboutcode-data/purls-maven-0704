@@ -1,0 +1,2 @@
+- pkg:maven/io.github.factoryfx/oracledbStorage@0.5.2
+- pkg:maven/io.github.factoryfx/oracledbStorage@0.5.2?classifier=sources

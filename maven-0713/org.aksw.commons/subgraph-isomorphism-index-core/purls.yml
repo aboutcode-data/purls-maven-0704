@@ -1,0 +1,4 @@
+- pkg:maven/org.aksw.commons/subgraph-isomorphism-index-core@1.0.0
+- pkg:maven/org.aksw.commons/subgraph-isomorphism-index-core@1.0.0?classifier=sources
+- pkg:maven/org.aksw.commons/subgraph-isomorphism-index-core@1.0.1
+- pkg:maven/org.aksw.commons/subgraph-isomorphism-index-core@1.0.1?classifier=sources

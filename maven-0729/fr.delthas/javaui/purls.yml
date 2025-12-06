@@ -1,0 +1,12 @@
+- pkg:maven/fr.delthas/javaui@1.0.7
+- pkg:maven/fr.delthas/javaui@1.0.7?classifier=sources
+- pkg:maven/fr.delthas/javaui@1.0.8
+- pkg:maven/fr.delthas/javaui@1.0.8?classifier=sources
+- pkg:maven/fr.delthas/javaui@2.0.0
+- pkg:maven/fr.delthas/javaui@2.0.0?classifier=sources
+- pkg:maven/fr.delthas/javaui@2.0.1
+- pkg:maven/fr.delthas/javaui@2.0.1?classifier=sources
+- pkg:maven/fr.delthas/javaui@2.0.2
+- pkg:maven/fr.delthas/javaui@2.0.2?classifier=sources
+- pkg:maven/fr.delthas/javaui@2.0.3
+- pkg:maven/fr.delthas/javaui@2.0.3?classifier=sources

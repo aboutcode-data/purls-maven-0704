@@ -1,0 +1,4 @@
+- pkg:maven/org.scala-js/scalajs-env-nodejs_2.11@1.0.0-M1
+- pkg:maven/org.scala-js/scalajs-env-nodejs_2.11@1.0.0-M1?classifier=sources
+- pkg:maven/org.scala-js/scalajs-env-nodejs_2.11@1.0.0-M2
+- pkg:maven/org.scala-js/scalajs-env-nodejs_2.11@1.0.0-M2?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.json4s/json4s-scalaz_2.13.0-M2@3.5.3
+- pkg:maven/org.json4s/json4s-scalaz_2.13.0-M2@3.5.3?classifier=sources
+- pkg:maven/org.json4s/json4s-scalaz_2.13.0-M2@3.6.0-M1
+- pkg:maven/org.json4s/json4s-scalaz_2.13.0-M2@3.6.0-M1?classifier=sources
+- pkg:maven/org.json4s/json4s-scalaz_2.13.0-M2@3.6.0-M2
+- pkg:maven/org.json4s/json4s-scalaz_2.13.0-M2@3.6.0-M2?classifier=sources

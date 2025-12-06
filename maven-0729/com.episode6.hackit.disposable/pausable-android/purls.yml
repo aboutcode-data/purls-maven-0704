@@ -1,0 +1,2 @@
+- pkg:maven/com.episode6.hackit.disposable/pausable-android@0.0.7?classifier=sources
+- pkg:maven/com.episode6.hackit.disposable/pausable-android@0.0.7?type=aar

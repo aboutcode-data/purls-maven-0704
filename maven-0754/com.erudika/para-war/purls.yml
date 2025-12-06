@@ -1,2 +1,12 @@
 - pkg:maven/com.erudika/para-war@1.24.4?type=war
 - pkg:maven/com.erudika/para-war@1.24.5?type=war
+- pkg:maven/com.erudika/para-war@1.25.0?type=war
+- pkg:maven/com.erudika/para-war@1.25.1?type=war
+- pkg:maven/com.erudika/para-war@1.25.2?type=war
+- pkg:maven/com.erudika/para-war@1.25.3?type=war
+- pkg:maven/com.erudika/para-war@1.25.4?type=war
+- pkg:maven/com.erudika/para-war@1.25.5?type=war
+- pkg:maven/com.erudika/para-war@1.26.0?type=war
+- pkg:maven/com.erudika/para-war@1.26.1?type=war
+- pkg:maven/com.erudika/para-war@1.26.2?type=war
+- pkg:maven/com.erudika/para-war@1.27.0?type=war

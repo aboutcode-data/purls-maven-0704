@@ -6,3 +6,7 @@
 - pkg:maven/sk.upjs/jpaz2@1.0.2?classifier=sources
 - pkg:maven/sk.upjs/jpaz2@1.0.3
 - pkg:maven/sk.upjs/jpaz2@1.0.3?classifier=sources
+- pkg:maven/sk.upjs/jpaz2@1.1.0
+- pkg:maven/sk.upjs/jpaz2@1.1.0?classifier=sources
+- pkg:maven/sk.upjs/jpaz2@1.1.1
+- pkg:maven/sk.upjs/jpaz2@1.1.1?classifier=sources

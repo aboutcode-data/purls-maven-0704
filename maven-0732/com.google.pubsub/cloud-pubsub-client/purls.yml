@@ -2,3 +2,5 @@
 - pkg:maven/com.google.pubsub/cloud-pubsub-client@0.1-EXPERIMENTAL?classifier=sources
 - pkg:maven/com.google.pubsub/cloud-pubsub-client@0.2-EXPERIMENTAL
 - pkg:maven/com.google.pubsub/cloud-pubsub-client@0.2-EXPERIMENTAL?classifier=sources
+- pkg:maven/com.google.pubsub/cloud-pubsub-client@0.2.1-EXPERIMENTAL
+- pkg:maven/com.google.pubsub/cloud-pubsub-client@0.2.1-EXPERIMENTAL?classifier=sources

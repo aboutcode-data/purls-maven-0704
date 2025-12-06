@@ -1,0 +1,2 @@
+- pkg:maven/org.mule.runtime/mule-module-spring-security@4.0.0-BETA.4
+- pkg:maven/org.mule.runtime/mule-module-spring-security@4.0.0-BETA.4?classifier=sources

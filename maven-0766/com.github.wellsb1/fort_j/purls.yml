@@ -1,0 +1,4 @@
+- pkg:maven/com.github.wellsb1/fort_j@0.0.1
+- pkg:maven/com.github.wellsb1/fort_j@0.0.1-test
+- pkg:maven/com.github.wellsb1/fort_j@0.0.1-test?classifier=sources
+- pkg:maven/com.github.wellsb1/fort_j@0.0.1?classifier=sources
