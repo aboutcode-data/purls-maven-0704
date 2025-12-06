@@ -1,0 +1,16 @@
+- pkg:maven/com.fizzed/ninja-undertow@5.3.1.undertow1
+- pkg:maven/com.fizzed/ninja-undertow@5.3.1.undertow1?classifier=sources
+- pkg:maven/com.fizzed/ninja-undertow@5.3.1.undertow2
+- pkg:maven/com.fizzed/ninja-undertow@5.3.1.undertow2?classifier=sources
+- pkg:maven/com.fizzed/ninja-undertow@5.4.0.undertow1
+- pkg:maven/com.fizzed/ninja-undertow@5.4.0.undertow1?classifier=sources
+- pkg:maven/com.fizzed/ninja-undertow@5.5.0.undertow1
+- pkg:maven/com.fizzed/ninja-undertow@5.5.0.undertow1?classifier=sources
+- pkg:maven/com.fizzed/ninja-undertow@5.5.0.undertow2
+- pkg:maven/com.fizzed/ninja-undertow@5.5.0.undertow2?classifier=sources
+- pkg:maven/com.fizzed/ninja-undertow@5.6.0.undertow1
+- pkg:maven/com.fizzed/ninja-undertow@5.6.0.undertow1?classifier=sources
+- pkg:maven/com.fizzed/ninja-undertow@5.7.0.undertow1
+- pkg:maven/com.fizzed/ninja-undertow@5.7.0.undertow1?classifier=sources
+- pkg:maven/com.fizzed/ninja-undertow@5.7.0.undertow2
+- pkg:maven/com.fizzed/ninja-undertow@5.7.0.undertow2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.json4s/json4s-ast_sjs0.6_2.11@4.0.0-M1
+- pkg:maven/org.json4s/json4s-ast_sjs0.6_2.11@4.0.0-M1?classifier=sources

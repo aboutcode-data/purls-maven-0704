@@ -1,3 +1,5 @@
+- pkg:maven/gr.skroutz/elasticsearch-skroutz-greekstemmer@0.0.10?classifier=sources
+- pkg:maven/gr.skroutz/elasticsearch-skroutz-greekstemmer@0.0.12?classifier=sources
 - pkg:maven/gr.skroutz/elasticsearch-skroutz-greekstemmer@0.0.2?classifier=sources
 - pkg:maven/gr.skroutz/elasticsearch-skroutz-greekstemmer@0.0.3?classifier=sources
 - pkg:maven/gr.skroutz/elasticsearch-skroutz-greekstemmer@0.0.4?classifier=sources

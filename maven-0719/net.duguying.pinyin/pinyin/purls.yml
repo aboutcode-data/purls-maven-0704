@@ -1,0 +1,4 @@
+- pkg:maven/net.duguying.pinyin/pinyin@0.0.0
+- pkg:maven/net.duguying.pinyin/pinyin@0.0.0?classifier=sources
+- pkg:maven/net.duguying.pinyin/pinyin@0.0.1
+- pkg:maven/net.duguying.pinyin/pinyin@0.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.allurefw.report/allure1-plugin@2.0-M1
+- pkg:maven/org.allurefw.report/allure1-plugin@2.0-M1?classifier=sources

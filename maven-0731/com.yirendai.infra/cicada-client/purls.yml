@@ -1,0 +1,2 @@
+- pkg:maven/com.yirendai.infra/cicada-client@2.0.1
+- pkg:maven/com.yirendai.infra/cicada-client@2.0.1?classifier=sources

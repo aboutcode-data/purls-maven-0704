@@ -1,0 +1,6 @@
+- pkg:maven/com.indix/util-core_2.11@0.1.15
+- pkg:maven/com.indix/util-core_2.11@0.1.15?classifier=sources
+- pkg:maven/com.indix/util-core_2.11@0.1.22
+- pkg:maven/com.indix/util-core_2.11@0.1.22?classifier=sources
+- pkg:maven/com.indix/util-core_2.11@0.1.23
+- pkg:maven/com.indix/util-core_2.11@0.1.23?classifier=sources

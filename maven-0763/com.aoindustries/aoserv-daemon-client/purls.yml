@@ -1,0 +1,2 @@
+- pkg:maven/com.aoindustries/aoserv-daemon-client@1.77.0
+- pkg:maven/com.aoindustries/aoserv-daemon-client@1.77.0?classifier=sources

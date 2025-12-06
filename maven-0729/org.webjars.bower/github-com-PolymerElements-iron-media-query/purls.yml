@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bower/github-com-PolymerElements-iron-media-query@1.0.0
+- pkg:maven/org.webjars.bower/github-com-PolymerElements-iron-media-query@1.0.0?classifier=sources
+- pkg:maven/org.webjars.bower/github-com-PolymerElements-iron-media-query@1.0.7
+- pkg:maven/org.webjars.bower/github-com-PolymerElements-iron-media-query@1.0.7?classifier=sources

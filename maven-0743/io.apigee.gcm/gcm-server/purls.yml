@@ -1,0 +1,4 @@
+- pkg:maven/io.apigee.gcm/gcm-server@1.0.0
+- pkg:maven/io.apigee.gcm/gcm-server@1.0.0?classifier=sources
+- pkg:maven/io.apigee.gcm/gcm-server@1.0.1
+- pkg:maven/io.apigee.gcm/gcm-server@1.0.1?classifier=sources

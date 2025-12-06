@@ -1,0 +1,4 @@
+- pkg:maven/com.github.123avi/pushy@0.8
+- pkg:maven/com.github.123avi/pushy@0.8.1
+- pkg:maven/com.github.123avi/pushy@0.8.1?classifier=sources
+- pkg:maven/com.github.123avi/pushy@0.8?classifier=sources

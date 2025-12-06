@@ -1,0 +1,2 @@
+- pkg:maven/org.cthul.api4j/api4j-core@1.0
+- pkg:maven/org.cthul.api4j/api4j-core@1.0?classifier=sources

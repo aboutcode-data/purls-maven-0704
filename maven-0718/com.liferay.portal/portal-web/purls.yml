@@ -21,3 +21,5 @@
 - pkg:maven/com.liferay.portal/portal-web@6.2.1?type=war
 - pkg:maven/com.liferay.portal/portal-web@6.2.2?type=war
 - pkg:maven/com.liferay.portal/portal-web@6.2.3?type=war
+- pkg:maven/com.liferay.portal/portal-web@6.2.4?type=war
+- pkg:maven/com.liferay.portal/portal-web@6.2.5?type=war

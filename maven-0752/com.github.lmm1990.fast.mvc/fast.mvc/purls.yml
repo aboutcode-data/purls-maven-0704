@@ -1,0 +1,4 @@
+- pkg:maven/com.github.lmm1990.fast.mvc/fast.mvc@1.0
+- pkg:maven/com.github.lmm1990.fast.mvc/fast.mvc@1.0?classifier=sources
+- pkg:maven/com.github.lmm1990.fast.mvc/fast.mvc@1.1
+- pkg:maven/com.github.lmm1990.fast.mvc/fast.mvc@1.1?classifier=sources

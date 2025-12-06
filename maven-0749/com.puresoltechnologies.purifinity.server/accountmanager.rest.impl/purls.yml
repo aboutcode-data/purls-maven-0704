@@ -1,0 +1,4 @@
+- pkg:maven/com.puresoltechnologies.purifinity.server/accountmanager.rest.impl@0.4.0?classifier=sources
+- pkg:maven/com.puresoltechnologies.purifinity.server/accountmanager.rest.impl@0.4.0?type=war
+- pkg:maven/com.puresoltechnologies.purifinity.server/accountmanager.rest.impl@0.4.1?classifier=sources
+- pkg:maven/com.puresoltechnologies.purifinity.server/accountmanager.rest.impl@0.4.1?type=war

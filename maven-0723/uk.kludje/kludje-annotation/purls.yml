@@ -10,3 +10,7 @@
 - pkg:maven/uk.kludje/kludje-annotation@0.5?classifier=sources
 - pkg:maven/uk.kludje/kludje-annotation@0.6
 - pkg:maven/uk.kludje/kludje-annotation@0.6?classifier=sources
+- pkg:maven/uk.kludje/kludje-annotation@0.7
+- pkg:maven/uk.kludje/kludje-annotation@0.7?classifier=sources
+- pkg:maven/uk.kludje/kludje-annotation@0.8
+- pkg:maven/uk.kludje/kludje-annotation@0.8?classifier=sources

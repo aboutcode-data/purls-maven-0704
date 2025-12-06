@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/d3-plugins-dist@3.2.0
+- pkg:maven/org.webjars.npm/d3-plugins-dist@3.2.0?classifier=sources

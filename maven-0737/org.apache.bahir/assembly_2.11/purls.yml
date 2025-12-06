@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.bahir/assembly_2.11@2.0.0-preview?classifier=src&type=tar.gz
+- pkg:maven/org.apache.bahir/assembly_2.11@2.0.0-preview?classifier=src&type=zip
+- pkg:maven/org.apache.bahir/assembly_2.11@2.0.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.bahir/assembly_2.11@2.0.0?classifier=src&type=zip

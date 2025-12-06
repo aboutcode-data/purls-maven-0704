@@ -1,1 +1,2 @@
 - pkg:maven/org.typelevel/scala-dist@2.11.7
+- pkg:maven/org.typelevel/scala-dist@2.11.8

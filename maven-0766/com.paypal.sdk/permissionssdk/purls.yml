@@ -10,3 +10,5 @@
 - pkg:maven/com.paypal.sdk/permissionssdk@2.4.109?classifier=sources
 - pkg:maven/com.paypal.sdk/permissionssdk@2.5.109
 - pkg:maven/com.paypal.sdk/permissionssdk@2.5.109?classifier=sources
+- pkg:maven/com.paypal.sdk/permissionssdk@2.6.109
+- pkg:maven/com.paypal.sdk/permissionssdk@2.6.109?classifier=sources

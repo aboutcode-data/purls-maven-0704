@@ -1,0 +1,6 @@
+- pkg:maven/io.brooklyn.clocker/brooklyn-clocker-extras@1.1.0
+- pkg:maven/io.brooklyn.clocker/brooklyn-clocker-extras@1.1.0?classifier=sources
+- pkg:maven/io.brooklyn.clocker/brooklyn-clocker-extras@1.1.1
+- pkg:maven/io.brooklyn.clocker/brooklyn-clocker-extras@1.1.1?classifier=sources
+- pkg:maven/io.brooklyn.clocker/brooklyn-clocker-extras@1.2.0
+- pkg:maven/io.brooklyn.clocker/brooklyn-clocker-extras@1.2.0?classifier=sources

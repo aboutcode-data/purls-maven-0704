@@ -1,0 +1,2 @@
+- pkg:maven/com.comcast.video.dawg/dawg-house@2.0.1?classifier=sources
+- pkg:maven/com.comcast.video.dawg/dawg-house@2.0.1?type=war

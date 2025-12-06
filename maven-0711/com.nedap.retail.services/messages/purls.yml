@@ -4,3 +4,15 @@
 - pkg:maven/com.nedap.retail.services/messages@1.36?classifier=sources
 - pkg:maven/com.nedap.retail.services/messages@1.37
 - pkg:maven/com.nedap.retail.services/messages@1.37?classifier=sources
+- pkg:maven/com.nedap.retail.services/messages@1.38
+- pkg:maven/com.nedap.retail.services/messages@1.38?classifier=sources
+- pkg:maven/com.nedap.retail.services/messages@1.39
+- pkg:maven/com.nedap.retail.services/messages@1.39?classifier=sources
+- pkg:maven/com.nedap.retail.services/messages@1.40
+- pkg:maven/com.nedap.retail.services/messages@1.40?classifier=sources
+- pkg:maven/com.nedap.retail.services/messages@1.41
+- pkg:maven/com.nedap.retail.services/messages@1.41?classifier=sources
+- pkg:maven/com.nedap.retail.services/messages@1.43
+- pkg:maven/com.nedap.retail.services/messages@1.43?classifier=sources
+- pkg:maven/com.nedap.retail.services/messages@1.44
+- pkg:maven/com.nedap.retail.services/messages@1.44?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.arakhne.afc.ui/awt@11.0?classifier=sources
 - pkg:maven/org.arakhne.afc.ui/awt@12.0
 - pkg:maven/org.arakhne.afc.ui/awt@12.0?classifier=sources
+- pkg:maven/org.arakhne.afc.ui/awt@13.0
+- pkg:maven/org.arakhne.afc.ui/awt@13.0?classifier=sources

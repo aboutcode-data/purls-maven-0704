@@ -1,3 +1,4 @@
 - pkg:maven/org.webjars/diff@1.0.7
 - pkg:maven/org.webjars/diff@1.0.8
 - pkg:maven/org.webjars/diff@1.2.1
+- pkg:maven/org.webjars/diff@3.0.0

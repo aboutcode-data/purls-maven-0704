@@ -1,0 +1,4 @@
+- pkg:maven/br.com.objectos.auto/annotations@0.8.0
+- pkg:maven/br.com.objectos.auto/annotations@0.8.0?classifier=sources
+- pkg:maven/br.com.objectos.auto/annotations@0.9.0
+- pkg:maven/br.com.objectos.auto/annotations@0.9.0?classifier=sources

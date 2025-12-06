@@ -5,3 +5,4 @@
 - pkg:maven/com.helpshift/android-en-lib@3.9.0?classifier=sources
 - pkg:maven/com.helpshift/android-en-lib@3.9.1?classifier=sources
 - pkg:maven/com.helpshift/android-en-lib@4.1.1-support?classifier=sources
+- pkg:maven/com.helpshift/android-en-lib@4.2.0-support?classifier=sources

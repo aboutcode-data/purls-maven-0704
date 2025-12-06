@@ -18,6 +18,16 @@
 - pkg:maven/de.sciss/scalacolliderugens-gen_2.10@1.13.3?classifier=sources
 - pkg:maven/de.sciss/scalacolliderugens-gen_2.10@1.13.4
 - pkg:maven/de.sciss/scalacolliderugens-gen_2.10@1.13.4?classifier=sources
+- pkg:maven/de.sciss/scalacolliderugens-gen_2.10@1.14.0
+- pkg:maven/de.sciss/scalacolliderugens-gen_2.10@1.14.0?classifier=sources
+- pkg:maven/de.sciss/scalacolliderugens-gen_2.10@1.14.1
+- pkg:maven/de.sciss/scalacolliderugens-gen_2.10@1.14.1?classifier=sources
+- pkg:maven/de.sciss/scalacolliderugens-gen_2.10@1.15.0
+- pkg:maven/de.sciss/scalacolliderugens-gen_2.10@1.15.0?classifier=sources
+- pkg:maven/de.sciss/scalacolliderugens-gen_2.10@1.15.1
+- pkg:maven/de.sciss/scalacolliderugens-gen_2.10@1.15.1?classifier=sources
+- pkg:maven/de.sciss/scalacolliderugens-gen_2.10@1.15.2
+- pkg:maven/de.sciss/scalacolliderugens-gen_2.10@1.15.2?classifier=sources
 - pkg:maven/de.sciss/scalacolliderugens-gen_2.10@1.7.0
 - pkg:maven/de.sciss/scalacolliderugens-gen_2.10@1.7.0?classifier=sources
 - pkg:maven/de.sciss/scalacolliderugens-gen_2.10@1.7.2

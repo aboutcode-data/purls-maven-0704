@@ -34,3 +34,5 @@
 - pkg:maven/org.roboguice/roboguice@3.0a-experimental?classifier=sources
 - pkg:maven/org.roboguice/roboguice@3.0b-experimental
 - pkg:maven/org.roboguice/roboguice@3.0b-experimental?classifier=sources
+- pkg:maven/org.roboguice/roboguice@4.0.0
+- pkg:maven/org.roboguice/roboguice@4.0.0?classifier=sources

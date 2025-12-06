@@ -24,3 +24,5 @@
 - pkg:maven/de.taimos/spring-dao-mongo@2.3?classifier=sources
 - pkg:maven/de.taimos/spring-dao-mongo@2.4
 - pkg:maven/de.taimos/spring-dao-mongo@2.4?classifier=sources
+- pkg:maven/de.taimos/spring-dao-mongo@2.5
+- pkg:maven/de.taimos/spring-dao-mongo@2.5?classifier=sources

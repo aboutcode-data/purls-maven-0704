@@ -1,0 +1,6 @@
+- pkg:maven/org.realityforge.glassfish.patcher/glassfish-domain-patcher@0.1
+- pkg:maven/org.realityforge.glassfish.patcher/glassfish-domain-patcher@0.1?classifier=sources
+- pkg:maven/org.realityforge.glassfish.patcher/glassfish-domain-patcher@0.2
+- pkg:maven/org.realityforge.glassfish.patcher/glassfish-domain-patcher@0.2?classifier=sources
+- pkg:maven/org.realityforge.glassfish.patcher/glassfish-domain-patcher@0.3
+- pkg:maven/org.realityforge.glassfish.patcher/glassfish-domain-patcher@0.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.michaelevans/aftermath-annotations@0.3.1
+- pkg:maven/org.michaelevans/aftermath-annotations@0.3.1?classifier=sources

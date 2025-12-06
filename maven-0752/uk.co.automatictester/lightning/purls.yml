@@ -4,3 +4,17 @@
 - pkg:maven/uk.co.automatictester/lightning@0.9.0?classifier=sources
 - pkg:maven/uk.co.automatictester/lightning@1.0.0
 - pkg:maven/uk.co.automatictester/lightning@1.0.0?classifier=sources
+- pkg:maven/uk.co.automatictester/lightning@1.1.0
+- pkg:maven/uk.co.automatictester/lightning@1.1.0?classifier=sources
+- pkg:maven/uk.co.automatictester/lightning@2.0.0
+- pkg:maven/uk.co.automatictester/lightning@2.0.0?classifier=sources
+- pkg:maven/uk.co.automatictester/lightning@2.1.0
+- pkg:maven/uk.co.automatictester/lightning@2.1.0?classifier=sources
+- pkg:maven/uk.co.automatictester/lightning@3.0.0
+- pkg:maven/uk.co.automatictester/lightning@3.0.0?classifier=sources
+- pkg:maven/uk.co.automatictester/lightning@4.0.0
+- pkg:maven/uk.co.automatictester/lightning@4.0.0?classifier=sources
+- pkg:maven/uk.co.automatictester/lightning@5.0.0
+- pkg:maven/uk.co.automatictester/lightning@5.0.0?classifier=sources
+- pkg:maven/uk.co.automatictester/lightning@5.1.0
+- pkg:maven/uk.co.automatictester/lightning@5.1.0?classifier=sources

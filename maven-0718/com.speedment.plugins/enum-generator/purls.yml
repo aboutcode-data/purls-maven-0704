@@ -1,0 +1,4 @@
+- pkg:maven/com.speedment.plugins/enum-generator@3.0.0-EA
+- pkg:maven/com.speedment.plugins/enum-generator@3.0.0-EA2
+- pkg:maven/com.speedment.plugins/enum-generator@3.0.0-EA2?classifier=sources
+- pkg:maven/com.speedment.plugins/enum-generator@3.0.0-EA?classifier=sources

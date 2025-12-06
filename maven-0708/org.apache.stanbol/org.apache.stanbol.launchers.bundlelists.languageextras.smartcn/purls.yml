@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.stanbol/org.apache.stanbol.launchers.bundlelists.languageextras.smartcn@0.12.0?classifier=sources
+- pkg:maven/org.apache.stanbol/org.apache.stanbol.launchers.bundlelists.languageextras.smartcn@1.0.0?classifier=sources

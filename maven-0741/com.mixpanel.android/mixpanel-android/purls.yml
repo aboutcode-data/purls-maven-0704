@@ -17,3 +17,10 @@
 - pkg:maven/com.mixpanel.android/mixpanel-android@4.7.0-RC1?type=aar
 - pkg:maven/com.mixpanel.android/mixpanel-android@4.7.0-RC2?type=aar
 - pkg:maven/com.mixpanel.android/mixpanel-android@4.7.0?type=aar
+- pkg:maven/com.mixpanel.android/mixpanel-android@4.8.0?type=aar
+- pkg:maven/com.mixpanel.android/mixpanel-android@4.8.5?type=aar
+- pkg:maven/com.mixpanel.android/mixpanel-android@4.8.6?type=aar
+- pkg:maven/com.mixpanel.android/mixpanel-android@4.8.7?type=aar
+- pkg:maven/com.mixpanel.android/mixpanel-android@4.9.0?type=aar
+- pkg:maven/com.mixpanel.android/mixpanel-android@4.9.1?type=aar
+- pkg:maven/com.mixpanel.android/mixpanel-android@4.9.2?type=aar

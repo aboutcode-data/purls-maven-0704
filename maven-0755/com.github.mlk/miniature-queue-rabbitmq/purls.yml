@@ -1,0 +1,2 @@
+- pkg:maven/com.github.mlk/miniature-queue-rabbitmq@0.0.1
+- pkg:maven/com.github.mlk/miniature-queue-rabbitmq@0.0.1?classifier=sources

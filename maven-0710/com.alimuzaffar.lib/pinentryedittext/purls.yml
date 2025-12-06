@@ -1,0 +1,2 @@
+- pkg:maven/com.alimuzaffar.lib/pinentryedittext@1.0?classifier=sources
+- pkg:maven/com.alimuzaffar.lib/pinentryedittext@1.0?type=aar

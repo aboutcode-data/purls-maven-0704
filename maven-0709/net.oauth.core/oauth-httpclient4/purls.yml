@@ -1,0 +1,2 @@
+- pkg:maven/net.oauth.core/oauth-httpclient4@20090913
+- pkg:maven/net.oauth.core/oauth-httpclient4@20090913?classifier=sources

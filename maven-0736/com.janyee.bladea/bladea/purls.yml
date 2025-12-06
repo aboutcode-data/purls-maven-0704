@@ -1,0 +1,2 @@
+- pkg:maven/com.janyee.bladea/bladea@1.1.8?classifier=sources
+- pkg:maven/com.janyee.bladea/bladea@1.1.8?type=aar

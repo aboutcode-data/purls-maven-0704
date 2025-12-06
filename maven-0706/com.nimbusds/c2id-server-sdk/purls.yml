@@ -19,6 +19,8 @@
 - pkg:maven/com.nimbusds/c2id-server-sdk@3.0.1?classifier=sources
 - pkg:maven/com.nimbusds/c2id-server-sdk@3.0?classifier=sources
 - pkg:maven/com.nimbusds/c2id-server-sdk@3.1
+- pkg:maven/com.nimbusds/c2id-server-sdk@3.10
+- pkg:maven/com.nimbusds/c2id-server-sdk@3.10?classifier=sources
 - pkg:maven/com.nimbusds/c2id-server-sdk@3.1?classifier=sources
 - pkg:maven/com.nimbusds/c2id-server-sdk@3.2
 - pkg:maven/com.nimbusds/c2id-server-sdk@3.2?classifier=sources
@@ -30,3 +32,9 @@
 - pkg:maven/com.nimbusds/c2id-server-sdk@3.5?classifier=sources
 - pkg:maven/com.nimbusds/c2id-server-sdk@3.6
 - pkg:maven/com.nimbusds/c2id-server-sdk@3.6?classifier=sources
+- pkg:maven/com.nimbusds/c2id-server-sdk@3.7
+- pkg:maven/com.nimbusds/c2id-server-sdk@3.7?classifier=sources
+- pkg:maven/com.nimbusds/c2id-server-sdk@3.8
+- pkg:maven/com.nimbusds/c2id-server-sdk@3.8?classifier=sources
+- pkg:maven/com.nimbusds/c2id-server-sdk@3.9
+- pkg:maven/com.nimbusds/c2id-server-sdk@3.9?classifier=sources

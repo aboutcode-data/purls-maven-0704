@@ -1,0 +1,2 @@
+- pkg:maven/io.probedock.maven.plugins/probedock-uuid-maven-plugin@0.0.1
+- pkg:maven/io.probedock.maven.plugins/probedock-uuid-maven-plugin@0.0.1?classifier=sources

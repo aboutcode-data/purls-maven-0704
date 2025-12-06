@@ -1,0 +1,2 @@
+- pkg:maven/org.scodec/scodec-scalaz_2.12.0-M3@1.2.0a
+- pkg:maven/org.scodec/scodec-scalaz_2.12.0-M3@1.2.0a?classifier=sources

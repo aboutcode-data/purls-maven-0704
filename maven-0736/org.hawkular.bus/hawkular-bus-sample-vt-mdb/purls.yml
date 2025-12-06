@@ -34,3 +34,5 @@
 - pkg:maven/org.hawkular.bus/hawkular-bus-sample-vt-mdb@0.7.1.Final?type=war
 - pkg:maven/org.hawkular.bus/hawkular-bus-sample-vt-mdb@0.7.2.Final?classifier=sources
 - pkg:maven/org.hawkular.bus/hawkular-bus-sample-vt-mdb@0.7.2.Final?type=war
+- pkg:maven/org.hawkular.bus/hawkular-bus-sample-vt-mdb@0.7.3.Final?classifier=sources
+- pkg:maven/org.hawkular.bus/hawkular-bus-sample-vt-mdb@0.7.3.Final?type=war

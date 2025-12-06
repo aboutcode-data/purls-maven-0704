@@ -30,3 +30,17 @@
 - pkg:maven/com.squareup.okhttp/benchmarks@2.4.0?classifier=sources
 - pkg:maven/com.squareup.okhttp/benchmarks@2.5.0
 - pkg:maven/com.squareup.okhttp/benchmarks@2.5.0?classifier=sources
+- pkg:maven/com.squareup.okhttp/benchmarks@2.6.0
+- pkg:maven/com.squareup.okhttp/benchmarks@2.6.0?classifier=sources
+- pkg:maven/com.squareup.okhttp/benchmarks@2.7.0
+- pkg:maven/com.squareup.okhttp/benchmarks@2.7.0?classifier=sources
+- pkg:maven/com.squareup.okhttp/benchmarks@2.7.1
+- pkg:maven/com.squareup.okhttp/benchmarks@2.7.1?classifier=sources
+- pkg:maven/com.squareup.okhttp/benchmarks@2.7.2
+- pkg:maven/com.squareup.okhttp/benchmarks@2.7.2?classifier=sources
+- pkg:maven/com.squareup.okhttp/benchmarks@2.7.3
+- pkg:maven/com.squareup.okhttp/benchmarks@2.7.3?classifier=sources
+- pkg:maven/com.squareup.okhttp/benchmarks@2.7.4
+- pkg:maven/com.squareup.okhttp/benchmarks@2.7.4?classifier=sources
+- pkg:maven/com.squareup.okhttp/benchmarks@2.7.5
+- pkg:maven/com.squareup.okhttp/benchmarks@2.7.5?classifier=sources

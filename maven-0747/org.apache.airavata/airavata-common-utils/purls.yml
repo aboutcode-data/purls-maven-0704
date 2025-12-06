@@ -8,6 +8,8 @@
 - pkg:maven/org.apache.airavata/airavata-common-utils@0.13?classifier=sources
 - pkg:maven/org.apache.airavata/airavata-common-utils@0.14
 - pkg:maven/org.apache.airavata/airavata-common-utils@0.14?classifier=sources
+- pkg:maven/org.apache.airavata/airavata-common-utils@0.15
+- pkg:maven/org.apache.airavata/airavata-common-utils@0.15?classifier=sources
 - pkg:maven/org.apache.airavata/airavata-common-utils@0.3-incubating
 - pkg:maven/org.apache.airavata/airavata-common-utils@0.3-incubating?classifier=sources
 - pkg:maven/org.apache.airavata/airavata-common-utils@0.4-incubating

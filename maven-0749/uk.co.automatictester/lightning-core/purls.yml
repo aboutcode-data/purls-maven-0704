@@ -1,0 +1,2 @@
+- pkg:maven/uk.co.automatictester/lightning-core@5.2.0
+- pkg:maven/uk.co.automatictester/lightning-core@5.2.0?classifier=sources

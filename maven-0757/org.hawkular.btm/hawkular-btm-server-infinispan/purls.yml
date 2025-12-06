@@ -1,0 +1,4 @@
+- pkg:maven/org.hawkular.btm/hawkular-btm-server-infinispan@0.7.4.Final
+- pkg:maven/org.hawkular.btm/hawkular-btm-server-infinispan@0.7.4.Final?classifier=sources
+- pkg:maven/org.hawkular.btm/hawkular-btm-server-infinispan@0.8.0.Final
+- pkg:maven/org.hawkular.btm/hawkular-btm-server-infinispan@0.8.0.Final?classifier=sources

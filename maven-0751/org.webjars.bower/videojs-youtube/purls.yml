@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/videojs-youtube@1.2.12
 - pkg:maven/org.webjars.bower/videojs-youtube@1.2.12?classifier=sources
+- pkg:maven/org.webjars.bower/videojs-youtube@2.0.8
+- pkg:maven/org.webjars.bower/videojs-youtube@2.0.8?classifier=sources

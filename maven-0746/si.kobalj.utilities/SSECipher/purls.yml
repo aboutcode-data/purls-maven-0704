@@ -1,0 +1,2 @@
+- pkg:maven/si.kobalj.utilities/SSECipher@1.0.0
+- pkg:maven/si.kobalj.utilities/SSECipher@1.0.0?classifier=sources

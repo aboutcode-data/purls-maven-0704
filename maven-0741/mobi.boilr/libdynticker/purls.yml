@@ -1,0 +1,2 @@
+- pkg:maven/mobi.boilr/libdynticker@0.6.0
+- pkg:maven/mobi.boilr/libdynticker@0.6.0?classifier=sources

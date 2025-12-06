@@ -1,0 +1,2 @@
+- pkg:maven/com.moengage/moengage-segment-integration@1.0.00?classifier=sources
+- pkg:maven/com.moengage/moengage-segment-integration@1.0.00?type=aar

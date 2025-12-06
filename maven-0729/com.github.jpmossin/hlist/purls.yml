@@ -1,0 +1,6 @@
+- pkg:maven/com.github.jpmossin/hlist@0.1.0
+- pkg:maven/com.github.jpmossin/hlist@0.1.0?classifier=sources
+- pkg:maven/com.github.jpmossin/hlist@0.2.0
+- pkg:maven/com.github.jpmossin/hlist@0.2.0?classifier=sources
+- pkg:maven/com.github.jpmossin/hlist@1.0.0
+- pkg:maven/com.github.jpmossin/hlist@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.cognifide.qa.bb/bobcat-archetype-bdd@0.9.2?classifier=sources
+- pkg:maven/com.cognifide.qa.bb/bobcat-archetype-bdd@1.0.0?classifier=sources

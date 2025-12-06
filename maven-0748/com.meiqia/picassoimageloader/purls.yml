@@ -1,0 +1,2 @@
+- pkg:maven/com.meiqia/picassoimageloader@1.0.0?classifier=sources
+- pkg:maven/com.meiqia/picassoimageloader@1.0.0?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/org.opencms/org.opencms.apollo.template.webform@10.0.1
+- pkg:maven/org.opencms/org.opencms.apollo.template.webform@10.0.1?classifier=sources

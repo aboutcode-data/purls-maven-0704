@@ -1,0 +1,2 @@
+- pkg:maven/net.fortytwo.stream/stream42-core@1.1
+- pkg:maven/net.fortytwo.stream/stream42-core@1.1?classifier=sources

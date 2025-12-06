@@ -48,3 +48,17 @@
 - pkg:maven/org.kohsuke.stapler/stapler-jruby@1.236?classifier=sources
 - pkg:maven/org.kohsuke.stapler/stapler-jruby@1.237
 - pkg:maven/org.kohsuke.stapler/stapler-jruby@1.237?classifier=sources
+- pkg:maven/org.kohsuke.stapler/stapler-jruby@1.238
+- pkg:maven/org.kohsuke.stapler/stapler-jruby@1.238?classifier=sources
+- pkg:maven/org.kohsuke.stapler/stapler-jruby@1.239
+- pkg:maven/org.kohsuke.stapler/stapler-jruby@1.239?classifier=sources
+- pkg:maven/org.kohsuke.stapler/stapler-jruby@1.240
+- pkg:maven/org.kohsuke.stapler/stapler-jruby@1.240?classifier=sources
+- pkg:maven/org.kohsuke.stapler/stapler-jruby@1.241
+- pkg:maven/org.kohsuke.stapler/stapler-jruby@1.241?classifier=sources
+- pkg:maven/org.kohsuke.stapler/stapler-jruby@1.242
+- pkg:maven/org.kohsuke.stapler/stapler-jruby@1.242?classifier=sources
+- pkg:maven/org.kohsuke.stapler/stapler-jruby@1.243
+- pkg:maven/org.kohsuke.stapler/stapler-jruby@1.243?classifier=sources
+- pkg:maven/org.kohsuke.stapler/stapler-jruby@1.244
+- pkg:maven/org.kohsuke.stapler/stapler-jruby@1.244?classifier=sources

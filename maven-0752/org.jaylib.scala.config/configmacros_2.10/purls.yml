@@ -8,3 +8,5 @@
 - pkg:maven/org.jaylib.scala.config/configmacros_2.10@1.0.3?classifier=sources
 - pkg:maven/org.jaylib.scala.config/configmacros_2.10@1.0.4
 - pkg:maven/org.jaylib.scala.config/configmacros_2.10@1.0.4?classifier=sources
+- pkg:maven/org.jaylib.scala.config/configmacros_2.10@1.2.0
+- pkg:maven/org.jaylib.scala.config/configmacros_2.10@1.2.0?classifier=sources

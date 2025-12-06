@@ -1,0 +1,2 @@
+- pkg:maven/br.gov.serpro/apigateway.apigov-java-sdk@0.0.1
+- pkg:maven/br.gov.serpro/apigateway.apigov-java-sdk@0.0.1?classifier=sources

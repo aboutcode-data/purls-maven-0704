@@ -1,0 +1,2 @@
+- pkg:maven/de.chandre.admin-tools/admin-tools-core-security@1.0.1
+- pkg:maven/de.chandre.admin-tools/admin-tools-core-security@1.0.1?classifier=sources

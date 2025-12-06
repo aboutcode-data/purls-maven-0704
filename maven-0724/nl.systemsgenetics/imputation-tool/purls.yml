@@ -2,3 +2,5 @@
 - pkg:maven/nl.systemsgenetics/imputation-tool@1.0.2?classifier=sources
 - pkg:maven/nl.systemsgenetics/imputation-tool@1.0.3
 - pkg:maven/nl.systemsgenetics/imputation-tool@1.0.3?classifier=sources
+- pkg:maven/nl.systemsgenetics/imputation-tool@1.0.4
+- pkg:maven/nl.systemsgenetics/imputation-tool@1.0.4?classifier=sources

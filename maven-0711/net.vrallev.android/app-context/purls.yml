@@ -1,0 +1,2 @@
+- pkg:maven/net.vrallev.android/app-context@1.0.0?classifier=sources
+- pkg:maven/net.vrallev.android/app-context@1.0.0?type=aar

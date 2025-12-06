@@ -1,0 +1,2 @@
+- pkg:maven/io.taig.android/toolbelt-play-services_2.11@0.5.7?classifier=sources
+- pkg:maven/io.taig.android/toolbelt-play-services_2.11@0.5.7?type=aar

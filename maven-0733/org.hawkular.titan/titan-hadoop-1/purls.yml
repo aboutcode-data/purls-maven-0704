@@ -1,0 +1,2 @@
+- pkg:maven/org.hawkular.titan/titan-hadoop-1@0.5.4-jboss-1
+- pkg:maven/org.hawkular.titan/titan-hadoop-1@0.5.4-jboss-1?classifier=sources

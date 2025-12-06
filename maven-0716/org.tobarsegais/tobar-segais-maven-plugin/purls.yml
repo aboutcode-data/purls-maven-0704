@@ -8,6 +8,8 @@
 - pkg:maven/org.tobarsegais/tobar-segais-maven-plugin@1.14?classifier=sources
 - pkg:maven/org.tobarsegais/tobar-segais-maven-plugin@1.15
 - pkg:maven/org.tobarsegais/tobar-segais-maven-plugin@1.15?classifier=sources
+- pkg:maven/org.tobarsegais/tobar-segais-maven-plugin@1.16
+- pkg:maven/org.tobarsegais/tobar-segais-maven-plugin@1.16?classifier=sources
 - pkg:maven/org.tobarsegais/tobar-segais-maven-plugin@1.5
 - pkg:maven/org.tobarsegais/tobar-segais-maven-plugin@1.5.1
 - pkg:maven/org.tobarsegais/tobar-segais-maven-plugin@1.5.1?classifier=sources

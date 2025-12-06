@@ -1,0 +1,6 @@
+- pkg:maven/io.snappydata/snappy-dunits@0.1.0-PREVIEW
+- pkg:maven/io.snappydata/snappy-dunits@0.1.0-PREVIEW?classifier=sources
+- pkg:maven/io.snappydata/snappy-dunits@0.2.0-PREVIEW
+- pkg:maven/io.snappydata/snappy-dunits@0.2.0-PREVIEW?classifier=sources
+- pkg:maven/io.snappydata/snappy-dunits@0.2.1-PREVIEW
+- pkg:maven/io.snappydata/snappy-dunits@0.2.1-PREVIEW?classifier=sources

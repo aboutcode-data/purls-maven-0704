@@ -10,3 +10,5 @@
 - pkg:maven/com.wefika/horizontal-picker@1.0.1?type=aar
 - pkg:maven/com.wefika/horizontal-picker@1.1.0?classifier=sources
 - pkg:maven/com.wefika/horizontal-picker@1.1.0?type=aar
+- pkg:maven/com.wefika/horizontal-picker@1.1.1?classifier=sources
+- pkg:maven/com.wefika/horizontal-picker@1.1.1?type=aar

@@ -1,0 +1,4 @@
+- pkg:maven/com.linkedin.pegasus/multipart-mime@5.0.19
+- pkg:maven/com.linkedin.pegasus/multipart-mime@5.0.19?classifier=sources
+- pkg:maven/com.linkedin.pegasus/multipart-mime@6.0.12
+- pkg:maven/com.linkedin.pegasus/multipart-mime@6.0.12?classifier=sources

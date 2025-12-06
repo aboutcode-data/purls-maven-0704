@@ -4,3 +4,7 @@
 - pkg:maven/com.tupilabs/testng-parser@0.2?classifier=sources
 - pkg:maven/com.tupilabs/testng-parser@0.3
 - pkg:maven/com.tupilabs/testng-parser@0.3?classifier=sources
+- pkg:maven/com.tupilabs/testng-parser@0.4
+- pkg:maven/com.tupilabs/testng-parser@0.4?classifier=sources
+- pkg:maven/com.tupilabs/testng-parser@0.5
+- pkg:maven/com.tupilabs/testng-parser@0.5?classifier=sources

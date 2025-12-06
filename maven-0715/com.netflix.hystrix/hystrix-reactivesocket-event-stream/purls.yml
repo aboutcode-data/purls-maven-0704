@@ -1,0 +1,2 @@
+- pkg:maven/com.netflix.hystrix/hystrix-reactivesocket-event-stream@1.5.4
+- pkg:maven/com.netflix.hystrix/hystrix-reactivesocket-event-stream@1.5.4?classifier=sources

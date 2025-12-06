@@ -1,2 +1,14 @@
 - pkg:maven/in.clouthink.daas/daas-we@1.0.0
 - pkg:maven/in.clouthink.daas/daas-we@1.0.0?classifier=sources
+- pkg:maven/in.clouthink.daas/daas-we@1.2.0
+- pkg:maven/in.clouthink.daas/daas-we@1.2.0?classifier=sources
+- pkg:maven/in.clouthink.daas/daas-we@2.0.0
+- pkg:maven/in.clouthink.daas/daas-we@2.0.0?classifier=sources
+- pkg:maven/in.clouthink.daas/daas-we@2.0.1
+- pkg:maven/in.clouthink.daas/daas-we@2.0.1?classifier=sources
+- pkg:maven/in.clouthink.daas/daas-we@2.0.2
+- pkg:maven/in.clouthink.daas/daas-we@2.0.2?classifier=sources
+- pkg:maven/in.clouthink.daas/daas-we@2.1.0
+- pkg:maven/in.clouthink.daas/daas-we@2.1.0?classifier=sources
+- pkg:maven/in.clouthink.daas/daas-we@2.1.1
+- pkg:maven/in.clouthink.daas/daas-we@2.1.1?classifier=sources

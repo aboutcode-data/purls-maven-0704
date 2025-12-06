@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.lens/apache-lens@2.1.0-beta-incubating?classifier=source-release&type=zip
 - pkg:maven/org.apache.lens/apache-lens@2.2.0-beta-incubating?classifier=source-release&type=zip
 - pkg:maven/org.apache.lens/apache-lens@2.3.0-beta?classifier=source-release&type=zip
+- pkg:maven/org.apache.lens/apache-lens@2.4.0-beta?classifier=source-release&type=zip
+- pkg:maven/org.apache.lens/apache-lens@2.5.0-beta?classifier=source-release&type=zip

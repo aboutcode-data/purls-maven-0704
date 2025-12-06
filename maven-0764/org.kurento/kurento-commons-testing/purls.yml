@@ -4,3 +4,4 @@
 - pkg:maven/org.kurento/kurento-commons-testing@5.1.0
 - pkg:maven/org.kurento/kurento-commons-testing@6.0.0
 - pkg:maven/org.kurento/kurento-commons-testing@6.1.0
+- pkg:maven/org.kurento/kurento-commons-testing@6.2.0

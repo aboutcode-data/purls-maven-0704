@@ -6,3 +6,7 @@
 - pkg:maven/fr.pilato.elasticsearch/elasticsearch-beyonder@1.5.0?classifier=sources
 - pkg:maven/fr.pilato.elasticsearch/elasticsearch-beyonder@2.0.0
 - pkg:maven/fr.pilato.elasticsearch/elasticsearch-beyonder@2.0.0?classifier=sources
+- pkg:maven/fr.pilato.elasticsearch/elasticsearch-beyonder@2.1.0
+- pkg:maven/fr.pilato.elasticsearch/elasticsearch-beyonder@2.1.0?classifier=sources
+- pkg:maven/fr.pilato.elasticsearch/elasticsearch-beyonder@2.2.0
+- pkg:maven/fr.pilato.elasticsearch/elasticsearch-beyonder@2.2.0?classifier=sources

@@ -10,3 +10,11 @@
 - pkg:maven/com.helger/ph-oton-connect@6.0.0?classifier=sources
 - pkg:maven/com.helger/ph-oton-connect@6.1.0
 - pkg:maven/com.helger/ph-oton-connect@6.1.0?classifier=sources
+- pkg:maven/com.helger/ph-oton-connect@6.2.0
+- pkg:maven/com.helger/ph-oton-connect@6.2.0?classifier=sources
+- pkg:maven/com.helger/ph-oton-connect@7.0.0-b1
+- pkg:maven/com.helger/ph-oton-connect@7.0.0-b1?classifier=sources
+- pkg:maven/com.helger/ph-oton-connect@7.0.0-b2
+- pkg:maven/com.helger/ph-oton-connect@7.0.0-b2?classifier=sources
+- pkg:maven/com.helger/ph-oton-connect@7.0.0-b3
+- pkg:maven/com.helger/ph-oton-connect@7.0.0-b3?classifier=sources

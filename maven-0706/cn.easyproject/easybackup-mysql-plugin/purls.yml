@@ -1,0 +1,10 @@
+- pkg:maven/cn.easyproject/easybackup-mysql-plugin@1.1.0-RELEASE
+- pkg:maven/cn.easyproject/easybackup-mysql-plugin@1.1.0-RELEASE?classifier=sources
+- pkg:maven/cn.easyproject/easybackup-mysql-plugin@2.2.0-RELEASE
+- pkg:maven/cn.easyproject/easybackup-mysql-plugin@2.2.0-RELEASE?classifier=sources
+- pkg:maven/cn.easyproject/easybackup-mysql-plugin@3.0.0-RELEASE
+- pkg:maven/cn.easyproject/easybackup-mysql-plugin@3.0.0-RELEASE?classifier=sources
+- pkg:maven/cn.easyproject/easybackup-mysql-plugin@3.1.0-RELEASE
+- pkg:maven/cn.easyproject/easybackup-mysql-plugin@3.1.0-RELEASE?classifier=sources
+- pkg:maven/cn.easyproject/easybackup-mysql-plugin@3.2.0-RELEASE
+- pkg:maven/cn.easyproject/easybackup-mysql-plugin@3.2.0-RELEASE?classifier=sources

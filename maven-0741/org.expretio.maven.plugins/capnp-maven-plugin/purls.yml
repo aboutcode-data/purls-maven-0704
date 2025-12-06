@@ -1,0 +1,2 @@
+- pkg:maven/org.expretio.maven.plugins/capnp-maven-plugin@1.0
+- pkg:maven/org.expretio.maven.plugins/capnp-maven-plugin@1.0?classifier=sources

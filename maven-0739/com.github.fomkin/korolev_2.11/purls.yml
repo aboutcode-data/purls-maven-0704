@@ -1,0 +1,10 @@
+- pkg:maven/com.github.fomkin/korolev_2.11@0.0.1-PRE
+- pkg:maven/com.github.fomkin/korolev_2.11@0.0.1-PRE?classifier=sources
+- pkg:maven/com.github.fomkin/korolev_2.11@0.0.2-PRE
+- pkg:maven/com.github.fomkin/korolev_2.11@0.0.2-PRE?classifier=sources
+- pkg:maven/com.github.fomkin/korolev_2.11@0.0.3-PRE
+- pkg:maven/com.github.fomkin/korolev_2.11@0.0.3-PRE?classifier=sources
+- pkg:maven/com.github.fomkin/korolev_2.11@0.0.4-PRE
+- pkg:maven/com.github.fomkin/korolev_2.11@0.0.4-PRE?classifier=sources
+- pkg:maven/com.github.fomkin/korolev_2.11@0.0.5-PRE
+- pkg:maven/com.github.fomkin/korolev_2.11@0.0.5-PRE?classifier=sources

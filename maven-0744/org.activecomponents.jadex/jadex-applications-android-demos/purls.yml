@@ -1,0 +1,4 @@
+- pkg:maven/org.activecomponents.jadex/jadex-applications-android-demos@3.0.0-RC16?classifier=sources
+- pkg:maven/org.activecomponents.jadex/jadex-applications-android-demos@3.0.0-RC51?classifier=sources
+- pkg:maven/org.activecomponents.jadex/jadex-applications-android-demos@3.0.0-RC63?classifier=sources
+- pkg:maven/org.activecomponents.jadex/jadex-applications-android-demos@3.0.0-RC80?classifier=sources

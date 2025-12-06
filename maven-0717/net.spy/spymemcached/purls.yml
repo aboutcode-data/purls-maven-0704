@@ -30,6 +30,8 @@
 - pkg:maven/net.spy/spymemcached@2.11.7?classifier=sources
 - pkg:maven/net.spy/spymemcached@2.12.0
 - pkg:maven/net.spy/spymemcached@2.12.0?classifier=sources
+- pkg:maven/net.spy/spymemcached@2.12.1
+- pkg:maven/net.spy/spymemcached@2.12.1?classifier=sources
 - pkg:maven/net.spy/spymemcached@2.9.0
 - pkg:maven/net.spy/spymemcached@2.9.0?classifier=sources
 - pkg:maven/net.spy/spymemcached@2.9.1

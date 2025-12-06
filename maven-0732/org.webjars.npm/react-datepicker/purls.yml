@@ -2,3 +2,11 @@
 - pkg:maven/org.webjars.npm/react-datepicker@0.11.3?classifier=sources
 - pkg:maven/org.webjars.npm/react-datepicker@0.12.0
 - pkg:maven/org.webjars.npm/react-datepicker@0.12.0?classifier=sources
+- pkg:maven/org.webjars.npm/react-datepicker@0.15.2
+- pkg:maven/org.webjars.npm/react-datepicker@0.15.2?classifier=sources
+- pkg:maven/org.webjars.npm/react-datepicker@0.23.2
+- pkg:maven/org.webjars.npm/react-datepicker@0.23.2?classifier=sources
+- pkg:maven/org.webjars.npm/react-datepicker@0.28.0
+- pkg:maven/org.webjars.npm/react-datepicker@0.28.0?classifier=sources
+- pkg:maven/org.webjars.npm/react-datepicker@0.28.1
+- pkg:maven/org.webjars.npm/react-datepicker@0.28.1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.smallmind/web-jwt@2.4.6
+- pkg:maven/org.smallmind/web-jwt@2.4.6?classifier=sources
+- pkg:maven/org.smallmind/web-jwt@2.4.7
+- pkg:maven/org.smallmind/web-jwt@2.4.7?classifier=sources
+- pkg:maven/org.smallmind/web-jwt@2.4.8
+- pkg:maven/org.smallmind/web-jwt@2.4.8?classifier=sources

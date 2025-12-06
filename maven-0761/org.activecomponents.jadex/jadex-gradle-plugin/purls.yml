@@ -1,0 +1,6 @@
+- pkg:maven/org.activecomponents.jadex/jadex-gradle-plugin@3.0.0-RC63
+- pkg:maven/org.activecomponents.jadex/jadex-gradle-plugin@3.0.0-RC63?classifier=sources
+- pkg:maven/org.activecomponents.jadex/jadex-gradle-plugin@3.0.0-RC68
+- pkg:maven/org.activecomponents.jadex/jadex-gradle-plugin@3.0.0-RC68?classifier=sources
+- pkg:maven/org.activecomponents.jadex/jadex-gradle-plugin@3.0.0-RC80
+- pkg:maven/org.activecomponents.jadex/jadex-gradle-plugin@3.0.0-RC80?classifier=sources

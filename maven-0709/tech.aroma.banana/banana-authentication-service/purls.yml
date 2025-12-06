@@ -1,0 +1,2 @@
+- pkg:maven/tech.aroma.banana/banana-authentication-service@1.1
+- pkg:maven/tech.aroma.banana/banana-authentication-service@1.1?classifier=sources

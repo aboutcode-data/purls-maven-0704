@@ -1,0 +1,4 @@
+- pkg:maven/se.lth.immun/MSFragmentationProtocol@0.3.0
+- pkg:maven/se.lth.immun/MSFragmentationProtocol@0.3.0?classifier=sources
+- pkg:maven/se.lth.immun/MSFragmentationProtocol@0.5.2
+- pkg:maven/se.lth.immun/MSFragmentationProtocol@0.5.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.bignerdranch.android/simple-item-decoration@1.0.0?classifier=sources
+- pkg:maven/com.bignerdranch.android/simple-item-decoration@1.0.0?type=aar

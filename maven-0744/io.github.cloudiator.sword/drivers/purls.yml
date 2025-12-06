@@ -1,0 +1,2 @@
+- pkg:maven/io.github.cloudiator.sword/drivers@0.1.0
+- pkg:maven/io.github.cloudiator.sword/drivers@0.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.ojbc.bundles.adapters/n-dex-submission-service-mock-adapter@2.0.0
+- pkg:maven/org.ojbc.bundles.adapters/n-dex-submission-service-mock-adapter@2.0.0?classifier=sources

@@ -6,3 +6,7 @@
 - pkg:maven/com.gluonhq/charm-down-android@0.0.3?classifier=sources
 - pkg:maven/com.gluonhq/charm-down-android@1.0.0
 - pkg:maven/com.gluonhq/charm-down-android@1.0.0?classifier=sources
+- pkg:maven/com.gluonhq/charm-down-android@2.0.0
+- pkg:maven/com.gluonhq/charm-down-android@2.0.0?classifier=sources
+- pkg:maven/com.gluonhq/charm-down-android@2.0.1
+- pkg:maven/com.gluonhq/charm-down-android@2.0.1?classifier=sources

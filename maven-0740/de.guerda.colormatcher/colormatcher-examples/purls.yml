@@ -1,0 +1,2 @@
+- pkg:maven/de.guerda.colormatcher/colormatcher-examples@0.0.6
+- pkg:maven/de.guerda.colormatcher/colormatcher-examples@0.0.6?classifier=sources

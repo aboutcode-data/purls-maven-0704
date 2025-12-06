@@ -1,0 +1,2 @@
+- pkg:maven/io.fruitful.binding/binding-image@0.1?classifier=sources
+- pkg:maven/io.fruitful.binding/binding-image@0.1?type=aar

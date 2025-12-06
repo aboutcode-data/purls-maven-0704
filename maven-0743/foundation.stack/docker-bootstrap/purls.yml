@@ -1,0 +1,4 @@
+- pkg:maven/foundation.stack/docker-bootstrap@0.1.0
+- pkg:maven/foundation.stack/docker-bootstrap@0.1.0?classifier=sources
+- pkg:maven/foundation.stack/docker-bootstrap@0.1.1
+- pkg:maven/foundation.stack/docker-bootstrap@0.1.1?classifier=sources

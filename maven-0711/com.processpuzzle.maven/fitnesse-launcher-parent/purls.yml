@@ -1,0 +1,2 @@
+- pkg:maven/com.processpuzzle.maven/fitnesse-launcher-parent@1.6.0?classifier=src&type=tar.gz
+- pkg:maven/com.processpuzzle.maven/fitnesse-launcher-parent@1.6.0?classifier=src&type=zip

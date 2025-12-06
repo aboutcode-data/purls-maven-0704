@@ -1,0 +1,2 @@
+- pkg:maven/io.undertow.js/undertow-js-trimou@1.1.0.Beta1
+- pkg:maven/io.undertow.js/undertow-js-trimou@1.1.0.Beta1?classifier=sources

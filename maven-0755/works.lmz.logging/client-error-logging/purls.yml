@@ -1,0 +1,2 @@
+- pkg:maven/works.lmz.logging/client-error-logging@1.1
+- pkg:maven/works.lmz.logging/client-error-logging@1.1?classifier=sources

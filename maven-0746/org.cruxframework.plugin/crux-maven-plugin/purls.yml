@@ -1,0 +1,6 @@
+- pkg:maven/org.cruxframework.plugin/crux-maven-plugin@5.4.0
+- pkg:maven/org.cruxframework.plugin/crux-maven-plugin@5.4.0?classifier=sources
+- pkg:maven/org.cruxframework.plugin/crux-maven-plugin@5.4.1
+- pkg:maven/org.cruxframework.plugin/crux-maven-plugin@5.4.1?classifier=sources
+- pkg:maven/org.cruxframework.plugin/crux-maven-plugin@5.5-RC1
+- pkg:maven/org.cruxframework.plugin/crux-maven-plugin@5.5-RC1?classifier=sources

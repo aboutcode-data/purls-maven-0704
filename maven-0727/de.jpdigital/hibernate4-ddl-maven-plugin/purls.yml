@@ -1,2 +1,6 @@
+- pkg:maven/de.jpdigital/hibernate4-ddl-maven-plugin@1.0.0
 - pkg:maven/de.jpdigital/hibernate4-ddl-maven-plugin@1.0.0-beta.1
 - pkg:maven/de.jpdigital/hibernate4-ddl-maven-plugin@1.0.0-beta.1?classifier=sources
+- pkg:maven/de.jpdigital/hibernate4-ddl-maven-plugin@1.0.0-beta.2
+- pkg:maven/de.jpdigital/hibernate4-ddl-maven-plugin@1.0.0-beta.2?classifier=sources
+- pkg:maven/de.jpdigital/hibernate4-ddl-maven-plugin@1.0.0?classifier=sources

@@ -10,6 +10,8 @@
 - pkg:maven/org.statefulj.framework/statefulj-framework-binders-jersey@1.0.10?classifier=sources
 - pkg:maven/org.statefulj.framework/statefulj-framework-binders-jersey@1.0.11
 - pkg:maven/org.statefulj.framework/statefulj-framework-binders-jersey@1.0.11?classifier=sources
+- pkg:maven/org.statefulj.framework/statefulj-framework-binders-jersey@1.0.12
+- pkg:maven/org.statefulj.framework/statefulj-framework-binders-jersey@1.0.12?classifier=sources
 - pkg:maven/org.statefulj.framework/statefulj-framework-binders-jersey@1.0.1?classifier=sources
 - pkg:maven/org.statefulj.framework/statefulj-framework-binders-jersey@1.0.2
 - pkg:maven/org.statefulj.framework/statefulj-framework-binders-jersey@1.0.2?classifier=sources
@@ -30,3 +32,9 @@
 - pkg:maven/org.statefulj.framework/statefulj-framework-binders-jersey@1.0.9
 - pkg:maven/org.statefulj.framework/statefulj-framework-binders-jersey@1.0.9?classifier=sources
 - pkg:maven/org.statefulj.framework/statefulj-framework-binders-jersey@1.0?classifier=sources
+- pkg:maven/org.statefulj.framework/statefulj-framework-binders-jersey@2.0
+- pkg:maven/org.statefulj.framework/statefulj-framework-binders-jersey@2.0?classifier=sources
+- pkg:maven/org.statefulj.framework/statefulj-framework-binders-jersey@2.1
+- pkg:maven/org.statefulj.framework/statefulj-framework-binders-jersey@2.1?classifier=sources
+- pkg:maven/org.statefulj.framework/statefulj-framework-binders-jersey@3.0
+- pkg:maven/org.statefulj.framework/statefulj-framework-binders-jersey@3.0?classifier=sources

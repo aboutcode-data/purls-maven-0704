@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.forge.furnace.container/guice-api@1.0.0.Alpha1
+- pkg:maven/org.jboss.forge.furnace.container/guice-api@1.0.0.Alpha1?classifier=sources

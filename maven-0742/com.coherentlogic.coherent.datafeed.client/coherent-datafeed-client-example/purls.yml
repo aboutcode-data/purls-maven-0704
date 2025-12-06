@@ -1,0 +1,4 @@
+- pkg:maven/com.coherentlogic.coherent.datafeed.client/coherent-datafeed-client-example@1.0.6-RELEASE
+- pkg:maven/com.coherentlogic.coherent.datafeed.client/coherent-datafeed-client-example@1.0.6-RELEASE?classifier=sources
+- pkg:maven/com.coherentlogic.coherent.datafeed.client/coherent-datafeed-client-example@1.0.7-RELEASE
+- pkg:maven/com.coherentlogic.coherent.datafeed.client/coherent-datafeed-client-example@1.0.7-RELEASE?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.91tec/appShelf@2.1.2?classifier=sources
+- pkg:maven/com.91tec/appShelf@2.1.2?type=aar

@@ -5,3 +5,4 @@
 - pkg:maven/org.openl.rules.demo/org.openl.demo.webservice@5.11.4?type=war
 - pkg:maven/org.openl.rules.demo/org.openl.demo.webservice@5.11.5?type=war
 - pkg:maven/org.openl.rules.demo/org.openl.demo.webservice@5.11.6?type=war
+- pkg:maven/org.openl.rules.demo/org.openl.demo.webservice@5.11.7?type=war

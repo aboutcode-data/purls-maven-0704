@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.jserial/io7m-jserial-documentation@0.1.0?classifier=sources
+- pkg:maven/com.io7m.jserial/io7m-jserial-documentation@0.1.0?type=zip

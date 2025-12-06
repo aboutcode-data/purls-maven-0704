@@ -1,0 +1,2 @@
+- pkg:maven/nl.yannickl88/natural-language@1.0.0
+- pkg:maven/nl.yannickl88/natural-language@1.0.0?classifier=sources

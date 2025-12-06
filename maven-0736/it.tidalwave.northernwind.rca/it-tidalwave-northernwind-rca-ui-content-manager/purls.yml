@@ -2,6 +2,14 @@
 - pkg:maven/it.tidalwave.northernwind.rca/it-tidalwave-northernwind-rca-ui-content-manager@1.1-ALPHA-10?classifier=sources
 - pkg:maven/it.tidalwave.northernwind.rca/it-tidalwave-northernwind-rca-ui-content-manager@1.1-ALPHA-11
 - pkg:maven/it.tidalwave.northernwind.rca/it-tidalwave-northernwind-rca-ui-content-manager@1.1-ALPHA-11?classifier=sources
+- pkg:maven/it.tidalwave.northernwind.rca/it-tidalwave-northernwind-rca-ui-content-manager@1.1-ALPHA-12
+- pkg:maven/it.tidalwave.northernwind.rca/it-tidalwave-northernwind-rca-ui-content-manager@1.1-ALPHA-12?classifier=sources
+- pkg:maven/it.tidalwave.northernwind.rca/it-tidalwave-northernwind-rca-ui-content-manager@1.1-ALPHA-13
+- pkg:maven/it.tidalwave.northernwind.rca/it-tidalwave-northernwind-rca-ui-content-manager@1.1-ALPHA-13?classifier=sources
+- pkg:maven/it.tidalwave.northernwind.rca/it-tidalwave-northernwind-rca-ui-content-manager@1.1-ALPHA-14
+- pkg:maven/it.tidalwave.northernwind.rca/it-tidalwave-northernwind-rca-ui-content-manager@1.1-ALPHA-14?classifier=sources
+- pkg:maven/it.tidalwave.northernwind.rca/it-tidalwave-northernwind-rca-ui-content-manager@1.1-ALPHA-15
+- pkg:maven/it.tidalwave.northernwind.rca/it-tidalwave-northernwind-rca-ui-content-manager@1.1-ALPHA-15?classifier=sources
 - pkg:maven/it.tidalwave.northernwind.rca/it-tidalwave-northernwind-rca-ui-content-manager@1.1-ALPHA-6
 - pkg:maven/it.tidalwave.northernwind.rca/it-tidalwave-northernwind-rca-ui-content-manager@1.1-ALPHA-6?classifier=sources
 - pkg:maven/it.tidalwave.northernwind.rca/it-tidalwave-northernwind-rca-ui-content-manager@1.1-ALPHA-7

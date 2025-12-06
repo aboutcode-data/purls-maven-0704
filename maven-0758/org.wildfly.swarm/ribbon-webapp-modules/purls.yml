@@ -1,0 +1,2 @@
+- pkg:maven/org.wildfly.swarm/ribbon-webapp-modules@1.0.0.Alpha6
+- pkg:maven/org.wildfly.swarm/ribbon-webapp-modules@1.0.0.Alpha6?classifier=sources

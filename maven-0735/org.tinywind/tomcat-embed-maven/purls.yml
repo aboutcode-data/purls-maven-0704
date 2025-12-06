@@ -1,0 +1,2 @@
+- pkg:maven/org.tinywind/tomcat-embed-maven@8.5.2
+- pkg:maven/org.tinywind/tomcat-embed-maven@8.5.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.drools/drools-docs@7.0.0.Beta2?classifier=sources
+- pkg:maven/org.drools/drools-docs@7.0.0.Beta2?type=zip

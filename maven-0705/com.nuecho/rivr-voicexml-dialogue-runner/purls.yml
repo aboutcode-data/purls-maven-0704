@@ -12,3 +12,5 @@
 - pkg:maven/com.nuecho/rivr-voicexml-dialogue-runner@1.0.5?type=war
 - pkg:maven/com.nuecho/rivr-voicexml-dialogue-runner@1.0.6?classifier=sources
 - pkg:maven/com.nuecho/rivr-voicexml-dialogue-runner@1.0.6?type=war
+- pkg:maven/com.nuecho/rivr-voicexml-dialogue-runner@1.0.7?classifier=sources
+- pkg:maven/com.nuecho/rivr-voicexml-dialogue-runner@1.0.7?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/ws.l10n/l10n-rest-client@1.0.0
+- pkg:maven/ws.l10n/l10n-rest-client@1.0.0?classifier=sources

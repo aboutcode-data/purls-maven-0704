@@ -1,4 +1,6 @@
 - pkg:maven/org.webjars.bower/angular-google-chart@0.0.11
 - pkg:maven/org.webjars.bower/angular-google-chart@0.0.11?classifier=sources
+- pkg:maven/org.webjars.bower/angular-google-chart@0.1.0
 - pkg:maven/org.webjars.bower/angular-google-chart@0.1.0-beta.2
 - pkg:maven/org.webjars.bower/angular-google-chart@0.1.0-beta.2?classifier=sources
+- pkg:maven/org.webjars.bower/angular-google-chart@0.1.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/net.s_mach/string_2.11@1.0.0?classifier=sources
 - pkg:maven/net.s_mach/string_2.11@1.0.1
 - pkg:maven/net.s_mach/string_2.11@1.0.1?classifier=sources
+- pkg:maven/net.s_mach/string_2.11@1.1.1
+- pkg:maven/net.s_mach/string_2.11@1.1.1?classifier=sources

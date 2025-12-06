@@ -1,0 +1,10 @@
+- pkg:maven/org.gebish/geb-test-common@0.13.0
+- pkg:maven/org.gebish/geb-test-common@0.13.0?classifier=sources
+- pkg:maven/org.gebish/geb-test-common@0.13.1
+- pkg:maven/org.gebish/geb-test-common@0.13.1?classifier=sources
+- pkg:maven/org.gebish/geb-test-common@1.0
+- pkg:maven/org.gebish/geb-test-common@1.0-rc-1
+- pkg:maven/org.gebish/geb-test-common@1.0-rc-1?classifier=sources
+- pkg:maven/org.gebish/geb-test-common@1.0-rc-2
+- pkg:maven/org.gebish/geb-test-common@1.0-rc-2?classifier=sources
+- pkg:maven/org.gebish/geb-test-common@1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.onosproject/atomix@1.0.0.onos
+- pkg:maven/org.onosproject/atomix@1.0.0.onos?classifier=sources

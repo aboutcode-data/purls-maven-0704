@@ -1,0 +1,2 @@
+- pkg:maven/org.hbasene/hadoop-core@0.20.2-with-200-826
+- pkg:maven/org.hbasene/hadoop-core@0.20.2-with-200-826?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.agilemicroservices/agilemicroservices-orm@1.0
+- pkg:maven/org.agilemicroservices/agilemicroservices-orm@1.0?classifier=sources

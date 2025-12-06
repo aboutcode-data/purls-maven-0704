@@ -1,0 +1,2 @@
+- pkg:maven/com.github.bdeneuter/lejos-ev3-api@0.9.1-beta
+- pkg:maven/com.github.bdeneuter/lejos-ev3-api@0.9.1-beta?classifier=sources

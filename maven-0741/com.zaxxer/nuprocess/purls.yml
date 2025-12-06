@@ -20,3 +20,5 @@
 - pkg:maven/com.zaxxer/nuprocess@1.0.3?classifier=sources
 - pkg:maven/com.zaxxer/nuprocess@1.0.4
 - pkg:maven/com.zaxxer/nuprocess@1.0.4?classifier=sources
+- pkg:maven/com.zaxxer/nuprocess@1.1.0
+- pkg:maven/com.zaxxer/nuprocess@1.1.0?classifier=sources

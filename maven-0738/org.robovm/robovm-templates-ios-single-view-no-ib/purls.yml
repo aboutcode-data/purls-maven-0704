@@ -1,0 +1,3 @@
+- pkg:maven/org.robovm/robovm-templates-ios-single-view-no-ib@1.12.0?classifier=sources
+- pkg:maven/org.robovm/robovm-templates-ios-single-view-no-ib@1.13.0?classifier=sources
+- pkg:maven/org.robovm/robovm-templates-ios-single-view-no-ib@1.14.0?classifier=sources

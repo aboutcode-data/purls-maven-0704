@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/nouislider-angular@2.6.2
+- pkg:maven/org.webjars.npm/nouislider-angular@2.6.2?classifier=sources

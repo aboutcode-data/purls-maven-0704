@@ -1,0 +1,5 @@
+- pkg:maven/uk.org.retep.microkernel.web/jersey@10.1
+- pkg:maven/uk.org.retep.microkernel.web/jersey@10.1?classifier=sources
+- pkg:maven/uk.org.retep.microkernel.web/jersey@9.10
+- pkg:maven/uk.org.retep.microkernel.web/jersey@9.11
+- pkg:maven/uk.org.retep.microkernel.web/jersey@9.11?classifier=sources

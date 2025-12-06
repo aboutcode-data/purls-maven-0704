@@ -1,0 +1,2 @@
+- pkg:maven/com.twitter.common/dynamic-host-set@0.0.56
+- pkg:maven/com.twitter.common/dynamic-host-set@0.0.56?classifier=sources

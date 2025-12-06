@@ -1,0 +1,2 @@
+- pkg:maven/org.asynchttpclient/async-http-client-example@2.0.16
+- pkg:maven/org.asynchttpclient/async-http-client-example@2.0.16?classifier=sources

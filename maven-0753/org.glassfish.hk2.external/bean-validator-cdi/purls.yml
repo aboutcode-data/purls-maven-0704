@@ -68,6 +68,7 @@
 - pkg:maven/org.glassfish.hk2.external/bean-validator-cdi@2.3.0-b10
 - pkg:maven/org.glassfish.hk2.external/bean-validator-cdi@2.3.0-b10?classifier=sources
 - pkg:maven/org.glassfish.hk2.external/bean-validator-cdi@2.3.0?classifier=sources
+- pkg:maven/org.glassfish.hk2.external/bean-validator-cdi@2.4.0
 - pkg:maven/org.glassfish.hk2.external/bean-validator-cdi@2.4.0-b01
 - pkg:maven/org.glassfish.hk2.external/bean-validator-cdi@2.4.0-b01?classifier=sources
 - pkg:maven/org.glassfish.hk2.external/bean-validator-cdi@2.4.0-b02
@@ -132,3 +133,18 @@
 - pkg:maven/org.glassfish.hk2.external/bean-validator-cdi@2.4.0-b32?classifier=sources
 - pkg:maven/org.glassfish.hk2.external/bean-validator-cdi@2.4.0-b33
 - pkg:maven/org.glassfish.hk2.external/bean-validator-cdi@2.4.0-b33?classifier=sources
+- pkg:maven/org.glassfish.hk2.external/bean-validator-cdi@2.4.0-b34
+- pkg:maven/org.glassfish.hk2.external/bean-validator-cdi@2.4.0-b34?classifier=sources
+- pkg:maven/org.glassfish.hk2.external/bean-validator-cdi@2.4.0?classifier=sources
+- pkg:maven/org.glassfish.hk2.external/bean-validator-cdi@2.5.0-b01
+- pkg:maven/org.glassfish.hk2.external/bean-validator-cdi@2.5.0-b01?classifier=sources
+- pkg:maven/org.glassfish.hk2.external/bean-validator-cdi@2.5.0-b02
+- pkg:maven/org.glassfish.hk2.external/bean-validator-cdi@2.5.0-b02?classifier=sources
+- pkg:maven/org.glassfish.hk2.external/bean-validator-cdi@2.5.0-b03
+- pkg:maven/org.glassfish.hk2.external/bean-validator-cdi@2.5.0-b03?classifier=sources
+- pkg:maven/org.glassfish.hk2.external/bean-validator-cdi@2.5.0-b04
+- pkg:maven/org.glassfish.hk2.external/bean-validator-cdi@2.5.0-b04?classifier=sources
+- pkg:maven/org.glassfish.hk2.external/bean-validator-cdi@2.5.0-b05
+- pkg:maven/org.glassfish.hk2.external/bean-validator-cdi@2.5.0-b05?classifier=sources
+- pkg:maven/org.glassfish.hk2.external/bean-validator-cdi@2.5.0-b06
+- pkg:maven/org.glassfish.hk2.external/bean-validator-cdi@2.5.0-b06?classifier=sources

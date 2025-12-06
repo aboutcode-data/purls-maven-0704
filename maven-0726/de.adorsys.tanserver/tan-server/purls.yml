@@ -1,0 +1,6 @@
+- pkg:maven/de.adorsys.tanserver/tan-server@0.10?classifier=sources
+- pkg:maven/de.adorsys.tanserver/tan-server@0.10?type=war
+- pkg:maven/de.adorsys.tanserver/tan-server@0.11?classifier=sources
+- pkg:maven/de.adorsys.tanserver/tan-server@0.11?type=war
+- pkg:maven/de.adorsys.tanserver/tan-server@0.12?classifier=sources
+- pkg:maven/de.adorsys.tanserver/tan-server@0.12?type=war

@@ -4,3 +4,9 @@
 - pkg:maven/org.thymeleaf.extras/thymeleaf-extras-springsecurity4@3.0.0.ALPHA03?classifier=sources
 - pkg:maven/org.thymeleaf.extras/thymeleaf-extras-springsecurity4@3.0.0.BETA01
 - pkg:maven/org.thymeleaf.extras/thymeleaf-extras-springsecurity4@3.0.0.BETA01?classifier=sources
+- pkg:maven/org.thymeleaf.extras/thymeleaf-extras-springsecurity4@3.0.0.BETA02
+- pkg:maven/org.thymeleaf.extras/thymeleaf-extras-springsecurity4@3.0.0.BETA02?classifier=sources
+- pkg:maven/org.thymeleaf.extras/thymeleaf-extras-springsecurity4@3.0.0.BETA03
+- pkg:maven/org.thymeleaf.extras/thymeleaf-extras-springsecurity4@3.0.0.BETA03?classifier=sources
+- pkg:maven/org.thymeleaf.extras/thymeleaf-extras-springsecurity4@3.0.0.RELEASE
+- pkg:maven/org.thymeleaf.extras/thymeleaf-extras-springsecurity4@3.0.0.RELEASE?classifier=sources

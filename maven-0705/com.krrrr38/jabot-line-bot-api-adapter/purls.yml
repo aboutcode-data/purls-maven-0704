@@ -1,0 +1,2 @@
+- pkg:maven/com.krrrr38/jabot-line-bot-api-adapter@0.2.0
+- pkg:maven/com.krrrr38/jabot-line-bot-api-adapter@0.2.0?classifier=sources

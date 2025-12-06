@@ -80,3 +80,5 @@
 - pkg:maven/com.jetdrone/yoke@2.0.8?classifier=sources
 - pkg:maven/com.jetdrone/yoke@2.0.9
 - pkg:maven/com.jetdrone/yoke@2.0.9?classifier=sources
+- pkg:maven/com.jetdrone/yoke@3.0.0
+- pkg:maven/com.jetdrone/yoke@3.0.0?classifier=sources

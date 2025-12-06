@@ -1,0 +1,4 @@
+- pkg:maven/au.com.mountain-pass/hyperstate-core@1
+- pkg:maven/au.com.mountain-pass/hyperstate-core@10
+- pkg:maven/au.com.mountain-pass/hyperstate-core@10?classifier=sources
+- pkg:maven/au.com.mountain-pass/hyperstate-core@1?classifier=sources

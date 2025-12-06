@@ -24,3 +24,15 @@
 - pkg:maven/cn.hiroz/uninstallfeedback-lib@1.1.8?type=aar
 - pkg:maven/cn.hiroz/uninstallfeedback-lib@1.1.9?classifier=sources
 - pkg:maven/cn.hiroz/uninstallfeedback-lib@1.1.9?type=aar
+- pkg:maven/cn.hiroz/uninstallfeedback-lib@1.2.0?classifier=sources
+- pkg:maven/cn.hiroz/uninstallfeedback-lib@1.2.0?type=aar
+- pkg:maven/cn.hiroz/uninstallfeedback-lib@1.2.1?classifier=sources
+- pkg:maven/cn.hiroz/uninstallfeedback-lib@1.2.1?type=aar
+- pkg:maven/cn.hiroz/uninstallfeedback-lib@1.2.2?classifier=sources
+- pkg:maven/cn.hiroz/uninstallfeedback-lib@1.2.2?type=aar
+- pkg:maven/cn.hiroz/uninstallfeedback-lib@1.2.3?classifier=sources
+- pkg:maven/cn.hiroz/uninstallfeedback-lib@1.2.3?type=aar
+- pkg:maven/cn.hiroz/uninstallfeedback-lib@1.2.4?classifier=sources
+- pkg:maven/cn.hiroz/uninstallfeedback-lib@1.2.4?type=aar
+- pkg:maven/cn.hiroz/uninstallfeedback-lib@1.2.5?classifier=sources
+- pkg:maven/cn.hiroz/uninstallfeedback-lib@1.2.5?type=aar

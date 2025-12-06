@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/types__react-router-redux@4.0.27
+- pkg:maven/org.webjars.npm/types__react-router-redux@4.0.27?classifier=sources
+- pkg:maven/org.webjars.npm/types__react-router-redux@4.0.28
+- pkg:maven/org.webjars.npm/types__react-router-redux@4.0.28?classifier=sources

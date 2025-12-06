@@ -1,0 +1,2 @@
+- pkg:maven/com.be-hase.output-capture/output-capture@0.0.1
+- pkg:maven/com.be-hase.output-capture/output-capture@0.0.1?classifier=sources

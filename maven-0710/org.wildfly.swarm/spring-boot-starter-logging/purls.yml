@@ -1,0 +1,2 @@
+- pkg:maven/org.wildfly.swarm/spring-boot-starter-logging@1.0.0.Alpha1
+- pkg:maven/org.wildfly.swarm/spring-boot-starter-logging@1.0.0.Alpha2

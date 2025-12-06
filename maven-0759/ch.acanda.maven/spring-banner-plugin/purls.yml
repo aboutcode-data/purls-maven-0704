@@ -1,0 +1,2 @@
+- pkg:maven/ch.acanda.maven/spring-banner-plugin@0.1
+- pkg:maven/ch.acanda.maven/spring-banner-plugin@0.1?classifier=sources

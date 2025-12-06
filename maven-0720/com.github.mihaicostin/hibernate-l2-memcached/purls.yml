@@ -1,2 +1,6 @@
 - pkg:maven/com.github.mihaicostin/hibernate-l2-memcached@1.0.0
 - pkg:maven/com.github.mihaicostin/hibernate-l2-memcached@1.0.0?classifier=sources
+- pkg:maven/com.github.mihaicostin/hibernate-l2-memcached@1.1.0
+- pkg:maven/com.github.mihaicostin/hibernate-l2-memcached@1.1.0?classifier=sources
+- pkg:maven/com.github.mihaicostin/hibernate-l2-memcached@5.2.1.0
+- pkg:maven/com.github.mihaicostin/hibernate-l2-memcached@5.2.1.0?classifier=sources

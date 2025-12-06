@@ -1,0 +1,4 @@
+- pkg:maven/be.selckin.swu/swu-base@4.0
+- pkg:maven/be.selckin.swu/swu-base@4.0?classifier=sources
+- pkg:maven/be.selckin.swu/swu-base@4.2
+- pkg:maven/be.selckin.swu/swu-base@4.2?classifier=sources

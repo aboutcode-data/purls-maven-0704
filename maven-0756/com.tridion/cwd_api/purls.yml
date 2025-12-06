@@ -1,0 +1,2 @@
+- pkg:maven/com.tridion/cwd_api@8.1.1-1014
+- pkg:maven/com.tridion/cwd_api@8.1.1-1014?classifier=sources

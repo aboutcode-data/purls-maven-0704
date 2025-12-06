@@ -1,0 +1,1 @@
+- pkg:maven/org.sonarsource.python/sonar-python-plugin@1.6?classifier=sources

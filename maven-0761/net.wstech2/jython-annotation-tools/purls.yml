@@ -1,0 +1,2 @@
+- pkg:maven/net.wstech2/jython-annotation-tools@0.9.0
+- pkg:maven/net.wstech2/jython-annotation-tools@0.9.0?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/org.scala-js/scalajs-js-envs-test-kit_2.10@0.6.10
+- pkg:maven/org.scala-js/scalajs-js-envs-test-kit_2.10@0.6.10?classifier=sources
+- pkg:maven/org.scala-js/scalajs-js-envs-test-kit_2.10@0.6.11
+- pkg:maven/org.scala-js/scalajs-js-envs-test-kit_2.10@0.6.11?classifier=sources
+- pkg:maven/org.scala-js/scalajs-js-envs-test-kit_2.10@0.6.12
+- pkg:maven/org.scala-js/scalajs-js-envs-test-kit_2.10@0.6.12?classifier=sources
+- pkg:maven/org.scala-js/scalajs-js-envs-test-kit_2.10@0.6.9
+- pkg:maven/org.scala-js/scalajs-js-envs-test-kit_2.10@0.6.9?classifier=sources

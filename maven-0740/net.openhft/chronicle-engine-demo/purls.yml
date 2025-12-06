@@ -1,0 +1,2 @@
+- pkg:maven/net.openhft/chronicle-engine-demo@1.8.0
+- pkg:maven/net.openhft/chronicle-engine-demo@1.8.0?classifier=sources

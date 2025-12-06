@@ -1,2 +1,4 @@
 - pkg:maven/org.ow2.petals/petals-tools-commons-parent@3.2.2.1?classifier=source-release&type=zip
 - pkg:maven/org.ow2.petals/petals-tools-commons-parent@3.2.3?classifier=source-release&type=zip
+- pkg:maven/org.ow2.petals/petals-tools-commons-parent@3.2.4?classifier=source-release&type=zip
+- pkg:maven/org.ow2.petals/petals-tools-commons-parent@3.2.5?classifier=source-release&type=zip

@@ -1,4 +1,12 @@
 - pkg:maven/de.alpharogroup/wicket-tooltipster@6.18.0
 - pkg:maven/de.alpharogroup/wicket-tooltipster@6.18.0?classifier=sources
+- pkg:maven/de.alpharogroup/wicket-tooltipster@6.21.0
+- pkg:maven/de.alpharogroup/wicket-tooltipster@6.21.0?classifier=sources
 - pkg:maven/de.alpharogroup/wicket-tooltipster@7.0.0
 - pkg:maven/de.alpharogroup/wicket-tooltipster@7.0.0?classifier=sources
+- pkg:maven/de.alpharogroup/wicket-tooltipster@7.1.0
+- pkg:maven/de.alpharogroup/wicket-tooltipster@7.1.0?classifier=sources
+- pkg:maven/de.alpharogroup/wicket-tooltipster@7.3.0
+- pkg:maven/de.alpharogroup/wicket-tooltipster@7.3.0?classifier=sources
+- pkg:maven/de.alpharogroup/wicket-tooltipster@7.4.0
+- pkg:maven/de.alpharogroup/wicket-tooltipster@7.4.0?classifier=sources

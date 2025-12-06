@@ -2,3 +2,11 @@
 - pkg:maven/com.mapzen.android/speakerbox@1.0.0?classifier=sources
 - pkg:maven/com.mapzen.android/speakerbox@1.1.0
 - pkg:maven/com.mapzen.android/speakerbox@1.1.0?classifier=sources
+- pkg:maven/com.mapzen.android/speakerbox@1.2.0
+- pkg:maven/com.mapzen.android/speakerbox@1.2.0?classifier=sources
+- pkg:maven/com.mapzen.android/speakerbox@1.3.0
+- pkg:maven/com.mapzen.android/speakerbox@1.3.0?classifier=sources
+- pkg:maven/com.mapzen.android/speakerbox@1.4.0
+- pkg:maven/com.mapzen.android/speakerbox@1.4.0?classifier=sources
+- pkg:maven/com.mapzen.android/speakerbox@1.4.1?classifier=sources
+- pkg:maven/com.mapzen.android/speakerbox@1.4.1?type=aar

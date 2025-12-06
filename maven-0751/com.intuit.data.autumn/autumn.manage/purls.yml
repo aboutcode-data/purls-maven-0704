@@ -1,0 +1,10 @@
+- pkg:maven/com.intuit.data.autumn/autumn.manage@1.0.20160513005034
+- pkg:maven/com.intuit.data.autumn/autumn.manage@1.0.20160513005034?classifier=sources
+- pkg:maven/com.intuit.data.autumn/autumn.manage@1.0.20160515121534
+- pkg:maven/com.intuit.data.autumn/autumn.manage@1.0.20160515121534?classifier=sources
+- pkg:maven/com.intuit.data.autumn/autumn.manage@1.0.20160515205816
+- pkg:maven/com.intuit.data.autumn/autumn.manage@1.0.20160515205816?classifier=sources
+- pkg:maven/com.intuit.data.autumn/autumn.manage@1.0.20160606082444
+- pkg:maven/com.intuit.data.autumn/autumn.manage@1.0.20160606082444?classifier=sources
+- pkg:maven/com.intuit.data.autumn/autumn.manage@1.0.20160606213425
+- pkg:maven/com.intuit.data.autumn/autumn.manage@1.0.20160606213425?classifier=sources

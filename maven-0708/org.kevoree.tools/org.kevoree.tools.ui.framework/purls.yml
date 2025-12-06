@@ -142,3 +142,9 @@
 - pkg:maven/org.kevoree.tools/org.kevoree.tools.ui.framework@5.2.7?classifier=sources
 - pkg:maven/org.kevoree.tools/org.kevoree.tools.ui.framework@5.2.8
 - pkg:maven/org.kevoree.tools/org.kevoree.tools.ui.framework@5.2.8?classifier=sources
+- pkg:maven/org.kevoree.tools/org.kevoree.tools.ui.framework@5.3.0
+- pkg:maven/org.kevoree.tools/org.kevoree.tools.ui.framework@5.3.0?classifier=sources
+- pkg:maven/org.kevoree.tools/org.kevoree.tools.ui.framework@5.3.1
+- pkg:maven/org.kevoree.tools/org.kevoree.tools.ui.framework@5.3.1?classifier=sources
+- pkg:maven/org.kevoree.tools/org.kevoree.tools.ui.framework@5.3.2
+- pkg:maven/org.kevoree.tools/org.kevoree.tools.ui.framework@5.3.2?classifier=sources

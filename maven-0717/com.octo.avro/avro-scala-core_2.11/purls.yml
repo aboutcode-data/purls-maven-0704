@@ -1,0 +1,2 @@
+- pkg:maven/com.octo.avro/avro-scala-core_2.11@0.9.7
+- pkg:maven/com.octo.avro/avro-scala-core_2.11@0.9.7?classifier=sources

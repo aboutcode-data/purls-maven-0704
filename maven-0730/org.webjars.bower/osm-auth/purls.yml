@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/osm-auth@0.2.8
+- pkg:maven/org.webjars.bower/osm-auth@0.2.8?classifier=sources

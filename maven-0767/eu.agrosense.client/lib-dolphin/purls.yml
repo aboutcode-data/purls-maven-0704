@@ -6,3 +6,4 @@
 - pkg:maven/eu.agrosense.client/lib-dolphin@0.8.3-NB72?classifier=sources
 - pkg:maven/eu.agrosense.client/lib-dolphin@0.8.3-NB80?classifier=sources
 - pkg:maven/eu.agrosense.client/lib-dolphin@0.8.4-NB80?classifier=sources
+- pkg:maven/eu.agrosense.client/lib-dolphin@1.0-RC1-NB80?classifier=sources

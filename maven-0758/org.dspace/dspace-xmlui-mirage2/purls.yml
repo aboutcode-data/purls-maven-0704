@@ -6,3 +6,8 @@
 - pkg:maven/org.dspace/dspace-xmlui-mirage2@5.2?type=war
 - pkg:maven/org.dspace/dspace-xmlui-mirage2@5.3?type=war
 - pkg:maven/org.dspace/dspace-xmlui-mirage2@5.4?type=war
+- pkg:maven/org.dspace/dspace-xmlui-mirage2@5.5?type=war
+- pkg:maven/org.dspace/dspace-xmlui-mirage2@5.6?type=war
+- pkg:maven/org.dspace/dspace-xmlui-mirage2@6.0-rc1?type=war
+- pkg:maven/org.dspace/dspace-xmlui-mirage2@6.0-rc2?type=war
+- pkg:maven/org.dspace/dspace-xmlui-mirage2@6.0-rc3?type=war

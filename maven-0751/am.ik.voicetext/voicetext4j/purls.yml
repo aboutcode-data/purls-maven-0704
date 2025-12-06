@@ -6,3 +6,5 @@
 - pkg:maven/am.ik.voicetext/voicetext4j@0.12.0?classifier=sources
 - pkg:maven/am.ik.voicetext/voicetext4j@0.9.0
 - pkg:maven/am.ik.voicetext/voicetext4j@0.9.0?classifier=sources
+- pkg:maven/am.ik.voicetext/voicetext4j@1.0.0
+- pkg:maven/am.ik.voicetext/voicetext4j@1.0.0?classifier=sources

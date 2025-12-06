@@ -1,0 +1,4 @@
+- pkg:maven/com.codecommit/shims-scalaz_2.11@0.1-daa4b3e
+- pkg:maven/com.codecommit/shims-scalaz_2.11@0.1-daa4b3e?classifier=sources
+- pkg:maven/com.codecommit/shims-scalaz_2.11@0.1-df9cd73
+- pkg:maven/com.codecommit/shims-scalaz_2.11@0.1-df9cd73?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/de.huxhorn.sulky/de.huxhorn.sulky.tasks@0.9.8?classifier=sources
 - pkg:maven/de.huxhorn.sulky/de.huxhorn.sulky.tasks@0.9.9
 - pkg:maven/de.huxhorn.sulky/de.huxhorn.sulky.tasks@0.9.9?classifier=sources
+- pkg:maven/de.huxhorn.sulky/de.huxhorn.sulky.tasks@8.0.0
+- pkg:maven/de.huxhorn.sulky/de.huxhorn.sulky.tasks@8.0.0?classifier=sources

@@ -9,6 +9,8 @@
 - pkg:maven/com.datastax.cassandra/cassandra-driver-dse@2.0.10?classifier=sources
 - pkg:maven/com.datastax.cassandra/cassandra-driver-dse@2.0.11
 - pkg:maven/com.datastax.cassandra/cassandra-driver-dse@2.0.11?classifier=sources
+- pkg:maven/com.datastax.cassandra/cassandra-driver-dse@2.0.12
+- pkg:maven/com.datastax.cassandra/cassandra-driver-dse@2.0.12?classifier=sources
 - pkg:maven/com.datastax.cassandra/cassandra-driver-dse@2.0.1?classifier=sources
 - pkg:maven/com.datastax.cassandra/cassandra-driver-dse@2.0.2
 - pkg:maven/com.datastax.cassandra/cassandra-driver-dse@2.0.2?classifier=sources
@@ -54,6 +56,8 @@
 - pkg:maven/com.datastax.cassandra/cassandra-driver-dse@2.1.7?classifier=sources
 - pkg:maven/com.datastax.cassandra/cassandra-driver-dse@2.1.8
 - pkg:maven/com.datastax.cassandra/cassandra-driver-dse@2.1.8?classifier=sources
+- pkg:maven/com.datastax.cassandra/cassandra-driver-dse@2.1.9
+- pkg:maven/com.datastax.cassandra/cassandra-driver-dse@2.1.9?classifier=sources
 - pkg:maven/com.datastax.cassandra/cassandra-driver-dse@2.2.0-rc1
 - pkg:maven/com.datastax.cassandra/cassandra-driver-dse@2.2.0-rc1?classifier=sources
 - pkg:maven/com.datastax.cassandra/cassandra-driver-dse@2.2.0-rc2
@@ -68,3 +72,9 @@
 - pkg:maven/com.datastax.cassandra/cassandra-driver-dse@3.0.0-alpha3?classifier=sources
 - pkg:maven/com.datastax.cassandra/cassandra-driver-dse@3.0.0-alpha4
 - pkg:maven/com.datastax.cassandra/cassandra-driver-dse@3.0.0-alpha4?classifier=sources
+- pkg:maven/com.datastax.cassandra/cassandra-driver-dse@3.0.0-alpha5
+- pkg:maven/com.datastax.cassandra/cassandra-driver-dse@3.0.0-alpha5?classifier=sources
+- pkg:maven/com.datastax.cassandra/cassandra-driver-dse@3.0.0-beta1
+- pkg:maven/com.datastax.cassandra/cassandra-driver-dse@3.0.0-beta1?classifier=sources
+- pkg:maven/com.datastax.cassandra/cassandra-driver-dse@3.0.0-rc1
+- pkg:maven/com.datastax.cassandra/cassandra-driver-dse@3.0.0-rc1?classifier=sources

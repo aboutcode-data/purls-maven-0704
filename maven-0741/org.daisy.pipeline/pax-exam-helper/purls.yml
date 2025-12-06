@@ -4,3 +4,7 @@
 - pkg:maven/org.daisy.pipeline/pax-exam-helper@1.9.1
 - pkg:maven/org.daisy.pipeline/pax-exam-helper@1.9.1?classifier=sources
 - pkg:maven/org.daisy.pipeline/pax-exam-helper@1.9?classifier=sources
+- pkg:maven/org.daisy.pipeline/pax-exam-helper@2.0.0
+- pkg:maven/org.daisy.pipeline/pax-exam-helper@2.0.0?classifier=sources
+- pkg:maven/org.daisy.pipeline/pax-exam-helper@2.1.0
+- pkg:maven/org.daisy.pipeline/pax-exam-helper@2.1.0?classifier=sources

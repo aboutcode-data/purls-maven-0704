@@ -1,0 +1,2 @@
+- pkg:maven/org.mobicents.shrinkwrap.container/shrinkwrap-container-restcomm@1.0.2
+- pkg:maven/org.mobicents.shrinkwrap.container/shrinkwrap-container-restcomm@1.0.2?classifier=sources

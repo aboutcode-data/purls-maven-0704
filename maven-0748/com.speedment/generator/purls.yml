@@ -1,0 +1,2 @@
+- pkg:maven/com.speedment/generator@3.0.0-EA
+- pkg:maven/com.speedment/generator@3.0.0-EA?classifier=sources

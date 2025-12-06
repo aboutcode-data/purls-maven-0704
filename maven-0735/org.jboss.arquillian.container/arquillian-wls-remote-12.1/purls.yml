@@ -3,3 +3,4 @@
 - pkg:maven/org.jboss.arquillian.container/arquillian-wls-remote-12.1@1.0.0.Alpha3
 - pkg:maven/org.jboss.arquillian.container/arquillian-wls-remote-12.1@1.0.0.Alpha3?classifier=sources
 - pkg:maven/org.jboss.arquillian.container/arquillian-wls-remote-12.1@1.0.0.Final
+- pkg:maven/org.jboss.arquillian.container/arquillian-wls-remote-12.1@1.0.1.Final

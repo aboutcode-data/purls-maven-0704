@@ -1,2 +1,6 @@
 - pkg:maven/uk.co.seanotoole/qwery@1.0.0
 - pkg:maven/uk.co.seanotoole/qwery@1.0.0?classifier=sources
+- pkg:maven/uk.co.seanotoole/qwery@1.1.0
+- pkg:maven/uk.co.seanotoole/qwery@1.1.0?classifier=sources
+- pkg:maven/uk.co.seanotoole/qwery@1.1.1
+- pkg:maven/uk.co.seanotoole/qwery@1.1.1?classifier=sources
