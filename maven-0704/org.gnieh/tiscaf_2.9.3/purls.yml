@@ -1,2 +1,4 @@
 - pkg:maven/org.gnieh/tiscaf_2.9.3@0.8
 - pkg:maven/org.gnieh/tiscaf_2.9.3@0.8?classifier=sources
+- pkg:maven/org.gnieh/tiscaf_2.9.3@0.9
+- pkg:maven/org.gnieh/tiscaf_2.9.3@0.9?classifier=sources

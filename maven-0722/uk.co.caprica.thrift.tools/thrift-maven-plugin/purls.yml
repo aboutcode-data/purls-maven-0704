@@ -1,0 +1,2 @@
+- pkg:maven/uk.co.caprica.thrift.tools/thrift-maven-plugin@1.0.0
+- pkg:maven/uk.co.caprica.thrift.tools/thrift-maven-plugin@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/it.thomasjohansen.launcher/tomcat-launcher@1.2
+- pkg:maven/it.thomasjohansen.launcher/tomcat-launcher@1.2?classifier=sources

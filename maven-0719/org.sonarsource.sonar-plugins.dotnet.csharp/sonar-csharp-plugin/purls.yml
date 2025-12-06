@@ -1,0 +1,1 @@
+- pkg:maven/org.sonarsource.sonar-plugins.dotnet.csharp/sonar-csharp-plugin@4.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.vx68k.hudson.plugin/google-login-plugin@1.0?classifier=sources
+- pkg:maven/org.vx68k.hudson.plugin/google-login-plugin@2.0?classifier=sources

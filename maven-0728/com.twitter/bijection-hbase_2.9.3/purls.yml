@@ -8,3 +8,5 @@
 - pkg:maven/com.twitter/bijection-hbase_2.9.3@0.6.1?classifier=sources
 - pkg:maven/com.twitter/bijection-hbase_2.9.3@0.6.2
 - pkg:maven/com.twitter/bijection-hbase_2.9.3@0.6.2?classifier=sources
+- pkg:maven/com.twitter/bijection-hbase_2.9.3@0.6.3
+- pkg:maven/com.twitter/bijection-hbase_2.9.3@0.6.3?classifier=sources

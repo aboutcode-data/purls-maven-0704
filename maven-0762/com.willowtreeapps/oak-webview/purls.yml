@@ -1,0 +1,2 @@
+- pkg:maven/com.willowtreeapps/oak-webview@1.4.0?classifier=sources
+- pkg:maven/com.willowtreeapps/oak-webview@1.4.0?type=aar

@@ -38,3 +38,9 @@
 - pkg:maven/org.metawidget.modules.swing/metawidget-grouplayout@3.7?classifier=sources
 - pkg:maven/org.metawidget.modules.swing/metawidget-grouplayout@3.8
 - pkg:maven/org.metawidget.modules.swing/metawidget-grouplayout@3.8?classifier=sources
+- pkg:maven/org.metawidget.modules.swing/metawidget-grouplayout@3.9
+- pkg:maven/org.metawidget.modules.swing/metawidget-grouplayout@3.9?classifier=sources
+- pkg:maven/org.metawidget.modules.swing/metawidget-grouplayout@4.0
+- pkg:maven/org.metawidget.modules.swing/metawidget-grouplayout@4.0?classifier=sources
+- pkg:maven/org.metawidget.modules.swing/metawidget-grouplayout@4.1
+- pkg:maven/org.metawidget.modules.swing/metawidget-grouplayout@4.1?classifier=sources

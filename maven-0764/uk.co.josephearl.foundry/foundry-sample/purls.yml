@@ -1,0 +1,2 @@
+- pkg:maven/uk.co.josephearl.foundry/foundry-sample@1.0.2?classifier=sources
+- pkg:maven/uk.co.josephearl.foundry/foundry-sample@1.0.3?classifier=sources

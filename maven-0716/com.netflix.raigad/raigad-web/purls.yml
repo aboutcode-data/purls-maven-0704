@@ -1,0 +1,6 @@
+- pkg:maven/com.netflix.raigad/raigad-web@132.0.2?classifier=sources
+- pkg:maven/com.netflix.raigad/raigad-web@132.0.2?type=war
+- pkg:maven/com.netflix.raigad/raigad-web@132.0.3?classifier=sources
+- pkg:maven/com.netflix.raigad/raigad-web@132.0.3?type=war
+- pkg:maven/com.netflix.raigad/raigad-web@150.0.0?classifier=sources
+- pkg:maven/com.netflix.raigad/raigad-web@150.0.0?type=war

@@ -4,3 +4,13 @@
 - pkg:maven/com.goldmansachs/gs-collections-testutils@4.2.0?classifier=sources
 - pkg:maven/com.goldmansachs/gs-collections-testutils@5.0.0
 - pkg:maven/com.goldmansachs/gs-collections-testutils@5.0.0?classifier=sources
+- pkg:maven/com.goldmansachs/gs-collections-testutils@5.1.0
+- pkg:maven/com.goldmansachs/gs-collections-testutils@5.1.0?classifier=sources
+- pkg:maven/com.goldmansachs/gs-collections-testutils@6.0.0
+- pkg:maven/com.goldmansachs/gs-collections-testutils@6.0.0?classifier=sources
+- pkg:maven/com.goldmansachs/gs-collections-testutils@6.1.0
+- pkg:maven/com.goldmansachs/gs-collections-testutils@6.1.0?classifier=sources
+- pkg:maven/com.goldmansachs/gs-collections-testutils@6.2.0
+- pkg:maven/com.goldmansachs/gs-collections-testutils@6.2.0?classifier=sources
+- pkg:maven/com.goldmansachs/gs-collections-testutils@7.0.0
+- pkg:maven/com.goldmansachs/gs-collections-testutils@7.0.0?classifier=sources

@@ -1,2 +1,8 @@
+- pkg:maven/edu.ucar/grib@4.5.3
+- pkg:maven/edu.ucar/grib@4.5.3?classifier=sources
+- pkg:maven/edu.ucar/grib@4.5.4
+- pkg:maven/edu.ucar/grib@4.5.4?classifier=sources
+- pkg:maven/edu.ucar/grib@4.5.5
+- pkg:maven/edu.ucar/grib@4.5.5?classifier=sources
 - pkg:maven/edu.ucar/grib@8.0.29
 - pkg:maven/edu.ucar/grib@8.0.29?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.androbit/brainslug-jdbc@0.12
+- pkg:maven/de.androbit/brainslug-jdbc@0.12?classifier=sources

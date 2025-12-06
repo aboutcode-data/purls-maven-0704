@@ -1,0 +1,4 @@
+- pkg:maven/com.googlecode.web-commons/web-common-dao@1.0.0
+- pkg:maven/com.googlecode.web-commons/web-common-dao@1.0.0?classifier=sources
+- pkg:maven/com.googlecode.web-commons/web-common-dao@1.0.1
+- pkg:maven/com.googlecode.web-commons/web-common-dao@1.0.1?classifier=sources

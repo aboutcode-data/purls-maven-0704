@@ -1,0 +1,2 @@
+- pkg:maven/no.difi.commons/commons-datahotel@0.9.0
+- pkg:maven/no.difi.commons/commons-datahotel@0.9.0?classifier=sources

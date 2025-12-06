@@ -1,0 +1,2 @@
+- pkg:maven/net.rgielen/struts1filter@1.0.0
+- pkg:maven/net.rgielen/struts1filter@1.0.0?classifier=sources

@@ -10,3 +10,9 @@
 - pkg:maven/org.eclipse.birt.runtime/org.eclipse.emf@2.6.0.v20130610-0406?classifier=sources
 - pkg:maven/org.eclipse.birt.runtime/org.eclipse.emf@2.6.0.v20130902-0605
 - pkg:maven/org.eclipse.birt.runtime/org.eclipse.emf@2.6.0.v20130902-0605?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.emf@2.6.0.v20140519-0339
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.emf@2.6.0.v20140519-0339?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.emf@2.6.0.v20140901-1055
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.emf@2.6.0.v20140901-1055?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.emf@2.6.0.v20150123-0452
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.emf@2.6.0.v20150123-0452?classifier=sources

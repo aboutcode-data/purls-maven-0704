@@ -42,6 +42,8 @@
 - pkg:maven/org.mortbay.jetty/jetty-jmx-ws@7.6.14.v20131031?type=war
 - pkg:maven/org.mortbay.jetty/jetty-jmx-ws@7.6.15.v20140411?classifier=sources
 - pkg:maven/org.mortbay.jetty/jetty-jmx-ws@7.6.15.v20140411?type=war
+- pkg:maven/org.mortbay.jetty/jetty-jmx-ws@7.6.16.v20140903?classifier=sources
+- pkg:maven/org.mortbay.jetty/jetty-jmx-ws@7.6.16.v20140903?type=war
 - pkg:maven/org.mortbay.jetty/jetty-jmx-ws@7.6.2.v20120308?classifier=sources
 - pkg:maven/org.mortbay.jetty/jetty-jmx-ws@7.6.2.v20120308?type=war
 - pkg:maven/org.mortbay.jetty/jetty-jmx-ws@7.6.3.v20120416?classifier=sources
@@ -96,6 +98,8 @@
 - pkg:maven/org.mortbay.jetty/jetty-jmx-ws@8.1.14.v20131031?type=war
 - pkg:maven/org.mortbay.jetty/jetty-jmx-ws@8.1.15.v20140411?classifier=sources
 - pkg:maven/org.mortbay.jetty/jetty-jmx-ws@8.1.15.v20140411?type=war
+- pkg:maven/org.mortbay.jetty/jetty-jmx-ws@8.1.16.v20140903?classifier=sources
+- pkg:maven/org.mortbay.jetty/jetty-jmx-ws@8.1.16.v20140903?type=war
 - pkg:maven/org.mortbay.jetty/jetty-jmx-ws@8.1.2.v20120308?classifier=sources
 - pkg:maven/org.mortbay.jetty/jetty-jmx-ws@8.1.2.v20120308?type=war
 - pkg:maven/org.mortbay.jetty/jetty-jmx-ws@8.1.3.v20120416?classifier=sources

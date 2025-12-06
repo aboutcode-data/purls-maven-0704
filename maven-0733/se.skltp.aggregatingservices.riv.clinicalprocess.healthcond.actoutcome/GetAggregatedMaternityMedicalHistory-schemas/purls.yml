@@ -1,0 +1,4 @@
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.actoutcome/GetAggregatedMaternityMedicalHistory-schemas@1.0.2
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.actoutcome/GetAggregatedMaternityMedicalHistory-schemas@1.0.2?classifier=sources
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.actoutcome/GetAggregatedMaternityMedicalHistory-schemas@1.0.3
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.actoutcome/GetAggregatedMaternityMedicalHistory-schemas@1.0.3?classifier=sources

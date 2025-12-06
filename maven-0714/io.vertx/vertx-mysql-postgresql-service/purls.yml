@@ -1,0 +1,2 @@
+- pkg:maven/io.vertx/vertx-mysql-postgresql-service@3.0.0-milestone4
+- pkg:maven/io.vertx/vertx-mysql-postgresql-service@3.0.0-milestone4?classifier=sources

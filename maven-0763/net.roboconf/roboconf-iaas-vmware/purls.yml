@@ -1,0 +1,2 @@
+- pkg:maven/net.roboconf/roboconf-iaas-vmware@0.1
+- pkg:maven/net.roboconf/roboconf-iaas-vmware@0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.jmxtrans/jmxtrans-examples@251
+- pkg:maven/org.jmxtrans/jmxtrans-examples@251?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/se.mithlond.codestyle/mithlond-codestyle-reactor@1.0.0?classifier=source-release&type=zip
+- pkg:maven/se.mithlond.codestyle/mithlond-codestyle-reactor@1.1.0?classifier=source-release&type=zip
+- pkg:maven/se.mithlond.codestyle/mithlond-codestyle-reactor@1.2.1?classifier=source-release&type=zip

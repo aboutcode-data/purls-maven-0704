@@ -1,0 +1,2 @@
+- pkg:maven/io.github.stackableregiments/cas-authentication_2.11@0.2.0
+- pkg:maven/io.github.stackableregiments/cas-authentication_2.11@0.2.0?classifier=sources

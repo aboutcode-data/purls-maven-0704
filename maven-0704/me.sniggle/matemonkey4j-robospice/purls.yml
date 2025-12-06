@@ -1,0 +1,2 @@
+- pkg:maven/me.sniggle/matemonkey4j-robospice@0.0.1
+- pkg:maven/me.sniggle/matemonkey4j-robospice@0.0.1?classifier=sources

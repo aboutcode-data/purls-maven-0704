@@ -1,0 +1,2 @@
+- pkg:maven/org.allenai.openregex/openregex-scala_2.10@1.1.3
+- pkg:maven/org.allenai.openregex/openregex-scala_2.10@1.1.3?classifier=sources

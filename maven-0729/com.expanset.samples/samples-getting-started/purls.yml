@@ -1,0 +1,2 @@
+- pkg:maven/com.expanset.samples/samples-getting-started@1.0.0
+- pkg:maven/com.expanset.samples/samples-getting-started@1.0.0?classifier=sources

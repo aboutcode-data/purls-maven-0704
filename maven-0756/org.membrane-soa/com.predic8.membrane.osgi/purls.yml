@@ -1,0 +1,2 @@
+- pkg:maven/org.membrane-soa/com.predic8.membrane.osgi@4.1.0
+- pkg:maven/org.membrane-soa/com.predic8.membrane.osgi@4.1.0?classifier=sources

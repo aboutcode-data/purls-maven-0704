@@ -1,0 +1,16 @@
+- pkg:maven/in.srain.cube/cube-sdk@1.0.21?classifier=sources
+- pkg:maven/in.srain.cube/cube-sdk@1.0.22?classifier=sources
+- pkg:maven/in.srain.cube/cube-sdk@1.0.23?classifier=sources
+- pkg:maven/in.srain.cube/cube-sdk@1.0.25?classifier=sources
+- pkg:maven/in.srain.cube/cube-sdk@1.0.34?classifier=sources
+- pkg:maven/in.srain.cube/cube-sdk@1.0.39?classifier=sources
+- pkg:maven/in.srain.cube/cube-sdk@1.0.39?type=aar
+- pkg:maven/in.srain.cube/cube-sdk@1.0.40?classifier=sources
+- pkg:maven/in.srain.cube/cube-sdk@1.0.42.1?classifier=sources
+- pkg:maven/in.srain.cube/cube-sdk@1.0.42?classifier=sources
+- pkg:maven/in.srain.cube/cube-sdk@1.0.44.34?classifier=sources
+- pkg:maven/in.srain.cube/cube-sdk@1.0.44.35?classifier=sources
+- pkg:maven/in.srain.cube/cube-sdk@1.0.44.36?classifier=sources
+- pkg:maven/in.srain.cube/cube-sdk@1.0.44.37?classifier=sources
+- pkg:maven/in.srain.cube/cube-sdk@1.0.44.38?classifier=sources
+- pkg:maven/in.srain.cube/cube-sdk@1.0.44?classifier=sources

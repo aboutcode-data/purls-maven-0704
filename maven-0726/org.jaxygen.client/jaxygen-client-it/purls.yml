@@ -1,0 +1,2 @@
+- pkg:maven/org.jaxygen.client/jaxygen-client-it@1.0.3
+- pkg:maven/org.jaxygen.client/jaxygen-client-it@1.0.3?classifier=sources

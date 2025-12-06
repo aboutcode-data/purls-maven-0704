@@ -1,0 +1,2 @@
+- pkg:maven/net.glxn.qrgen/core@2.0
+- pkg:maven/net.glxn.qrgen/core@2.0?classifier=sources

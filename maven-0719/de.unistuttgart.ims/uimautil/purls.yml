@@ -1,0 +1,2 @@
+- pkg:maven/de.unistuttgart.ims/uimautil@0.2
+- pkg:maven/de.unistuttgart.ims/uimautil@0.2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/sntp@0.2.4
+- pkg:maven/org.webjars.npm/sntp@0.2.4?classifier=sources
+- pkg:maven/org.webjars.npm/sntp@1.0.9
+- pkg:maven/org.webjars.npm/sntp@1.0.9?classifier=sources

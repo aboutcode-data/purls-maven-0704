@@ -1,0 +1,2 @@
+- pkg:maven/org.apache-extras.camel-extra/camel-extra-itest-karaf@2.13.4
+- pkg:maven/org.apache-extras.camel-extra/camel-extra-itest-karaf@2.13.4?classifier=sources

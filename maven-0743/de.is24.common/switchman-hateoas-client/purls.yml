@@ -1,0 +1,2 @@
+- pkg:maven/de.is24.common/switchman-hateoas-client@1.0
+- pkg:maven/de.is24.common/switchman-hateoas-client@1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.scalatest/scalatest-flatspec_2.11@3.0.0-SNAP13
+- pkg:maven/org.scalatest/scalatest-flatspec_2.11@3.0.0-SNAP13?classifier=sources

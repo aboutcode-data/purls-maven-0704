@@ -1,0 +1,2 @@
+- pkg:maven/com.bq.oss.corbel/eworker-api@1.20.0
+- pkg:maven/com.bq.oss.corbel/eworker-api@1.20.0?classifier=sources

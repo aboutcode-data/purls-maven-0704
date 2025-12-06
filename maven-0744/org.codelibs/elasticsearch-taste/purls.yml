@@ -1,0 +1,10 @@
+- pkg:maven/org.codelibs/elasticsearch-taste@0.1.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-taste@0.1.0?type=zip
+- pkg:maven/org.codelibs/elasticsearch-taste@0.2.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-taste@0.2.0?type=zip
+- pkg:maven/org.codelibs/elasticsearch-taste@0.3.1?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-taste@0.3.1?type=zip
+- pkg:maven/org.codelibs/elasticsearch-taste@0.4.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-taste@0.4.0?type=zip
+- pkg:maven/org.codelibs/elasticsearch-taste@1.5.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-taste@1.5.0?type=zip

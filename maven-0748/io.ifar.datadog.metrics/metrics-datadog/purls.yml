@@ -1,0 +1,2 @@
+- pkg:maven/io.ifar.datadog.metrics/metrics-datadog@0
+- pkg:maven/io.ifar.datadog.metrics/metrics-datadog@0?classifier=sources

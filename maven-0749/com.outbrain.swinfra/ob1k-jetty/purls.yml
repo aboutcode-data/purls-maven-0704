@@ -1,0 +1,2 @@
+- pkg:maven/com.outbrain.swinfra/ob1k-jetty@0.122
+- pkg:maven/com.outbrain.swinfra/ob1k-jetty@0.122?classifier=sources

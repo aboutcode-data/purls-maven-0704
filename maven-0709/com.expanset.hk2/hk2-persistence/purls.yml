@@ -1,0 +1,4 @@
+- pkg:maven/com.expanset.hk2/hk2-persistence@1.0.0
+- pkg:maven/com.expanset.hk2/hk2-persistence@1.0.0?classifier=sources
+- pkg:maven/com.expanset.hk2/hk2-persistence@1.0.1
+- pkg:maven/com.expanset.hk2/hk2-persistence@1.0.1?classifier=sources

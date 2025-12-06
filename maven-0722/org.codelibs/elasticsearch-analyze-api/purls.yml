@@ -1,0 +1,2 @@
+- pkg:maven/org.codelibs/elasticsearch-analyze-api@1.5.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-analyze-api@1.5.0?type=zip

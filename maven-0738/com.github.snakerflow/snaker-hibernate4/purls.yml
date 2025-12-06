@@ -1,0 +1,4 @@
+- pkg:maven/com.github.snakerflow/snaker-hibernate4@2.5.0
+- pkg:maven/com.github.snakerflow/snaker-hibernate4@2.5.0?classifier=sources
+- pkg:maven/com.github.snakerflow/snaker-hibernate4@2.5.1
+- pkg:maven/com.github.snakerflow/snaker-hibernate4@2.5.1?classifier=sources

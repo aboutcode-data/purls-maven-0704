@@ -1,0 +1,2 @@
+- pkg:maven/org.kuali.ole/ole-reports@1.6.2?classifier=sources
+- pkg:maven/org.kuali.ole/ole-reports@1.6.2?type=war

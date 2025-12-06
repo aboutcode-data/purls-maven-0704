@@ -1,2 +1,4 @@
 - pkg:maven/ru.yandex.cocaine/cocaine-core@0.11.0.0
 - pkg:maven/ru.yandex.cocaine/cocaine-core@0.11.0.0?classifier=sources
+- pkg:maven/ru.yandex.cocaine/cocaine-core@0.11.1.0
+- pkg:maven/ru.yandex.cocaine/cocaine-core@0.11.1.0?classifier=sources

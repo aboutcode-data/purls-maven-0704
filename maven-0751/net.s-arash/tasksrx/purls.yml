@@ -1,0 +1,4 @@
+- pkg:maven/net.s-arash/tasksrx@0.1.0-beta01
+- pkg:maven/net.s-arash/tasksrx@0.1.0-beta01?classifier=sources
+- pkg:maven/net.s-arash/tasksrx@0.2.0
+- pkg:maven/net.s-arash/tasksrx@0.2.0?classifier=sources

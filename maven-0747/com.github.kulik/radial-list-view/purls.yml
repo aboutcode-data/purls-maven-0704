@@ -1,0 +1,2 @@
+- pkg:maven/com.github.kulik/radial-list-view@0.2?classifier=sources
+- pkg:maven/com.github.kulik/radial-list-view@0.2?type=aar

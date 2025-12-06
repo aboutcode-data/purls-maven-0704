@@ -10,3 +10,5 @@
 - pkg:maven/edu.washington.cs.knowitall.chunkedextractor/chunkedextractor_2.10@1.0.7?classifier=sources
 - pkg:maven/edu.washington.cs.knowitall.chunkedextractor/chunkedextractor_2.10@1.0.8
 - pkg:maven/edu.washington.cs.knowitall.chunkedextractor/chunkedextractor_2.10@1.0.8?classifier=sources
+- pkg:maven/edu.washington.cs.knowitall.chunkedextractor/chunkedextractor_2.10@1.0.9
+- pkg:maven/edu.washington.cs.knowitall.chunkedextractor/chunkedextractor_2.10@1.0.9?classifier=sources

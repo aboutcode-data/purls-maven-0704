@@ -1,0 +1,7 @@
+- pkg:maven/org.rhq.metrics/rhq-metrics-rest-test@0.1.0.20140602-M1
+- pkg:maven/org.rhq.metrics/rhq-metrics-rest-test@0.2.0.20140626-M2
+- pkg:maven/org.rhq.metrics/rhq-metrics-rest-test@0.2.1.20140710-M2
+- pkg:maven/org.rhq.metrics/rhq-metrics-rest-test@0.2.2.20140726-M3
+- pkg:maven/org.rhq.metrics/rhq-metrics-rest-test@0.2.3.20141020-M4
+- pkg:maven/org.rhq.metrics/rhq-metrics-rest-test@0.2.4
+- pkg:maven/org.rhq.metrics/rhq-metrics-rest-test@0.2.5

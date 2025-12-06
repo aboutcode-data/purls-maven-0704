@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bower/jquery.easy-pie-chart@2.1.4
+- pkg:maven/org.webjars.bower/jquery.easy-pie-chart@2.1.4?classifier=sources
+- pkg:maven/org.webjars.bower/jquery.easy-pie-chart@2.1.6
+- pkg:maven/org.webjars.bower/jquery.easy-pie-chart@2.1.6?classifier=sources

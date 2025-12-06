@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/urijs@1.16.1
+- pkg:maven/org.webjars.bower/urijs@1.16.1?classifier=sources

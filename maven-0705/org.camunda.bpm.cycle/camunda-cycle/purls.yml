@@ -1,0 +1,4 @@
+- pkg:maven/org.camunda.bpm.cycle/camunda-cycle@3.0.0?classifier=sources
+- pkg:maven/org.camunda.bpm.cycle/camunda-cycle@3.0.0?type=war
+- pkg:maven/org.camunda.bpm.cycle/camunda-cycle@3.1.0?classifier=sources
+- pkg:maven/org.camunda.bpm.cycle/camunda-cycle@3.1.0?type=war

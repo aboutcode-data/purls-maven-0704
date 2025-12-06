@@ -1,0 +1,6 @@
+- pkg:maven/de.escalon.hypermedia/hydra-core@0.1.0
+- pkg:maven/de.escalon.hypermedia/hydra-core@0.1.0?classifier=sources
+- pkg:maven/de.escalon.hypermedia/hydra-core@0.2.0-alpha1
+- pkg:maven/de.escalon.hypermedia/hydra-core@0.2.0-alpha1?classifier=sources
+- pkg:maven/de.escalon.hypermedia/hydra-core@0.2.0-alpha2
+- pkg:maven/de.escalon.hypermedia/hydra-core@0.2.0-alpha2?classifier=sources

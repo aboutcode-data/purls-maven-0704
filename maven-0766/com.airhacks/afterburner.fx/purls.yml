@@ -16,3 +16,11 @@
 - pkg:maven/com.airhacks/afterburner.fx@1.4.4
 - pkg:maven/com.airhacks/afterburner.fx@1.4.4?classifier=sources
 - pkg:maven/com.airhacks/afterburner.fx@1.4?classifier=sources
+- pkg:maven/com.airhacks/afterburner.fx@1.5.1
+- pkg:maven/com.airhacks/afterburner.fx@1.5.1?classifier=sources
+- pkg:maven/com.airhacks/afterburner.fx@1.6.0
+- pkg:maven/com.airhacks/afterburner.fx@1.6.0?classifier=sources
+- pkg:maven/com.airhacks/afterburner.fx@1.6.1
+- pkg:maven/com.airhacks/afterburner.fx@1.6.1?classifier=sources
+- pkg:maven/com.airhacks/afterburner.fx@1.6.2
+- pkg:maven/com.airhacks/afterburner.fx@1.6.2?classifier=sources

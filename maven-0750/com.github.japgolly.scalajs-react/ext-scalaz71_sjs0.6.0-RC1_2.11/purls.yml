@@ -1,0 +1,2 @@
+- pkg:maven/com.github.japgolly.scalajs-react/ext-scalaz71_sjs0.6.0-RC1_2.11@0.7.2-RC1
+- pkg:maven/com.github.japgolly.scalajs-react/ext-scalaz71_sjs0.6.0-RC1_2.11@0.7.2-RC1?classifier=sources

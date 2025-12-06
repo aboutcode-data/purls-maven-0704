@@ -1,0 +1,4 @@
+- pkg:maven/com.noorq.casser/casser-core@1.0.0
+- pkg:maven/com.noorq.casser/casser-core@1.0.0?classifier=sources
+- pkg:maven/com.noorq.casser/casser-core@1.1.0_2.11
+- pkg:maven/com.noorq.casser/casser-core@1.1.0_2.11?classifier=sources

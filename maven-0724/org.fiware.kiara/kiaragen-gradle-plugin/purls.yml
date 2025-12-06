@@ -1,0 +1,2 @@
+- pkg:maven/org.fiware.kiara/kiaragen-gradle-plugin@0.1.0
+- pkg:maven/org.fiware.kiara/kiaragen-gradle-plugin@0.1.0?classifier=sources

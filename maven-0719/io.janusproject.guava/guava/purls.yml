@@ -1,0 +1,6 @@
+- pkg:maven/io.janusproject.guava/guava@17.0
+- pkg:maven/io.janusproject.guava/guava@17.0.2
+- pkg:maven/io.janusproject.guava/guava@17.0.2?classifier=sources
+- pkg:maven/io.janusproject.guava/guava@17.0?classifier=sources
+- pkg:maven/io.janusproject.guava/guava@19.0.0
+- pkg:maven/io.janusproject.guava/guava@19.0.0?classifier=sources

@@ -1,0 +1,14 @@
+- pkg:maven/de.pfabulist.lindwurm/memoryfs@0.26.2.45
+- pkg:maven/de.pfabulist.lindwurm/memoryfs@0.26.2.45?classifier=sources
+- pkg:maven/de.pfabulist.lindwurm/memoryfs@0.27.0.48
+- pkg:maven/de.pfabulist.lindwurm/memoryfs@0.27.0.48?classifier=sources
+- pkg:maven/de.pfabulist.lindwurm/memoryfs@0.27.1.51
+- pkg:maven/de.pfabulist.lindwurm/memoryfs@0.27.1.51?classifier=sources
+- pkg:maven/de.pfabulist.lindwurm/memoryfs@0.27.2
+- pkg:maven/de.pfabulist.lindwurm/memoryfs@0.27.2?classifier=sources
+- pkg:maven/de.pfabulist.lindwurm/memoryfs@0.28.3
+- pkg:maven/de.pfabulist.lindwurm/memoryfs@0.28.3?classifier=sources
+- pkg:maven/de.pfabulist.lindwurm/memoryfs@0.28.4
+- pkg:maven/de.pfabulist.lindwurm/memoryfs@0.28.4?classifier=sources
+- pkg:maven/de.pfabulist.lindwurm/memoryfs@0.29
+- pkg:maven/de.pfabulist.lindwurm/memoryfs@0.29?classifier=sources

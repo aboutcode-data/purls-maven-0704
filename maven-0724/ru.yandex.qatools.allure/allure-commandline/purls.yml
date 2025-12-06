@@ -1,0 +1,7 @@
+- pkg:maven/ru.yandex.qatools.allure/allure-commandline@1.4.17?classifier=sources
+- pkg:maven/ru.yandex.qatools.allure/allure-commandline@1.4.18
+- pkg:maven/ru.yandex.qatools.allure/allure-commandline@1.4.18?classifier=sources
+- pkg:maven/ru.yandex.qatools.allure/allure-commandline@1.4.19
+- pkg:maven/ru.yandex.qatools.allure/allure-commandline@1.4.19?classifier=sources
+- pkg:maven/ru.yandex.qatools.allure/allure-commandline@1.5.0-RC1
+- pkg:maven/ru.yandex.qatools.allure/allure-commandline@1.5.0-RC1?classifier=sources

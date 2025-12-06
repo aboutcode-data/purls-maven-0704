@@ -1,0 +1,4 @@
+- pkg:maven/com.github.fujaba/NetworkParser@4.2.253
+- pkg:maven/com.github.fujaba/NetworkParser@4.2.253?classifier=sources
+- pkg:maven/com.github.fujaba/NetworkParser@4.2.274
+- pkg:maven/com.github.fujaba/NetworkParser@4.2.274?classifier=sources

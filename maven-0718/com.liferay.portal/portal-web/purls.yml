@@ -17,4 +17,7 @@
 - pkg:maven/com.liferay.portal/portal-web@6.2.0-RC3?type=war
 - pkg:maven/com.liferay.portal/portal-web@6.2.0-RC4?type=war
 - pkg:maven/com.liferay.portal/portal-web@6.2.0-RC5?type=war
+- pkg:maven/com.liferay.portal/portal-web@6.2.0-ga1?type=war
 - pkg:maven/com.liferay.portal/portal-web@6.2.1?type=war
+- pkg:maven/com.liferay.portal/portal-web@6.2.2?type=war
+- pkg:maven/com.liferay.portal/portal-web@6.2.3?type=war

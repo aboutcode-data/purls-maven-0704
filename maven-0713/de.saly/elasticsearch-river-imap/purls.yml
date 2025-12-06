@@ -1,0 +1,4 @@
+- pkg:maven/de.saly/elasticsearch-river-imap@0.8
+- pkg:maven/de.saly/elasticsearch-river-imap@0.8.5?classifier=sources
+- pkg:maven/de.saly/elasticsearch-river-imap@0.8.5?type=zip
+- pkg:maven/de.saly/elasticsearch-river-imap@0.8?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/de.androbit/brainslug-maven-plugin-example@0.18
+- pkg:maven/de.androbit/brainslug-maven-plugin-example@0.18?classifier=sources
+- pkg:maven/de.androbit/brainslug-maven-plugin-example@0.19
+- pkg:maven/de.androbit/brainslug-maven-plugin-example@0.19?classifier=sources
+- pkg:maven/de.androbit/brainslug-maven-plugin-example@0.20
+- pkg:maven/de.androbit/brainslug-maven-plugin-example@0.20?classifier=sources
+- pkg:maven/de.androbit/brainslug-maven-plugin-example@0.21
+- pkg:maven/de.androbit/brainslug-maven-plugin-example@0.21?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/angular-emoji-filter@0.0.2
+- pkg:maven/org.webjars.bower/angular-emoji-filter@0.0.2?classifier=sources

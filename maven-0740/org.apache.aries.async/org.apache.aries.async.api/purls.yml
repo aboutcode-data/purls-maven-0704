@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.aries.async/org.apache.aries.async.api@1.0.1
+- pkg:maven/org.apache.aries.async/org.apache.aries.async.api@1.0.1?classifier=sources

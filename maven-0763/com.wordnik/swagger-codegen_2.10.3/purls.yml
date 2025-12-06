@@ -1,0 +1,2 @@
+- pkg:maven/com.wordnik/swagger-codegen_2.10.3@2.0.17
+- pkg:maven/com.wordnik/swagger-codegen_2.10.3@2.0.17?classifier=sources

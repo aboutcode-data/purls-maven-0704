@@ -1,0 +1,2 @@
+- pkg:maven/org.symqle/symqle@1.0-670
+- pkg:maven/org.symqle/symqle@1.0-670?classifier=sources

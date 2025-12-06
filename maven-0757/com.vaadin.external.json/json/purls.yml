@@ -1,0 +1,2 @@
+- pkg:maven/com.vaadin.external.json/json@0.0.20080701
+- pkg:maven/com.vaadin.external.json/json@0.0.20080701?classifier=sources

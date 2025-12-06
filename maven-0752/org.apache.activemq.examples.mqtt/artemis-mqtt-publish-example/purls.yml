@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.activemq.examples.mqtt/artemis-mqtt-publish-example@1.1.0
+- pkg:maven/org.apache.activemq.examples.mqtt/artemis-mqtt-publish-example@1.1.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.cvogt/slick-mongo-light_2.11@0.1
+- pkg:maven/org.cvogt/slick-mongo-light_2.11@0.1?classifier=sources
+- pkg:maven/org.cvogt/slick-mongo-light_2.11@0.2
+- pkg:maven/org.cvogt/slick-mongo-light_2.11@0.2.1
+- pkg:maven/org.cvogt/slick-mongo-light_2.11@0.2.1?classifier=sources
+- pkg:maven/org.cvogt/slick-mongo-light_2.11@0.2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.graphaware.neo4j/server@2.3.0.35
+- pkg:maven/com.graphaware.neo4j/server@2.3.0.35?classifier=sources
+- pkg:maven/com.graphaware.neo4j/server@2.3.1.35
+- pkg:maven/com.graphaware.neo4j/server@2.3.1.35?classifier=sources

@@ -10,3 +10,7 @@
 - pkg:maven/de.grundid.osmtools/osm-tools-ra@1.0.M6?classifier=sources
 - pkg:maven/de.grundid.osmtools/osm-tools-ra@1.0.M7
 - pkg:maven/de.grundid.osmtools/osm-tools-ra@1.0.M7?classifier=sources
+- pkg:maven/de.grundid.osmtools/osm-tools-ra@1.1
+- pkg:maven/de.grundid.osmtools/osm-tools-ra@1.1.1
+- pkg:maven/de.grundid.osmtools/osm-tools-ra@1.1.1?classifier=sources
+- pkg:maven/de.grundid.osmtools/osm-tools-ra@1.1?classifier=sources

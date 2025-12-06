@@ -1,0 +1,2 @@
+- pkg:maven/it.sephiroth.android.library.fork.listviewanimations/listviewanimations-library-core@2.6.1?classifier=sources
+- pkg:maven/it.sephiroth.android.library.fork.listviewanimations/listviewanimations-library-core@2.6.1?type=aar

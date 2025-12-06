@@ -7,4 +7,16 @@
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.memcached@1.03?classifier=sources
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.memcached@1.04
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.memcached@1.04?classifier=sources
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.memcached@1.05.0
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.memcached@1.05.0?classifier=sources
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.memcached@1.05.1
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.memcached@1.05.1?classifier=sources
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.memcached@1.05.2
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.memcached@1.05.2?classifier=sources
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.memcached@1.05.3
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.memcached@1.05.3?classifier=sources
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.memcached@1.06.1
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.memcached@1.06.1?classifier=sources
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.memcached@1.06.2
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.memcached@1.06.2?classifier=sources
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.memcached@1.0?classifier=sources

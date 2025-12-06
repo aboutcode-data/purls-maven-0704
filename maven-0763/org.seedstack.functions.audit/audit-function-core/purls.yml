@@ -1,0 +1,2 @@
+- pkg:maven/org.seedstack.functions.audit/audit-function-core@2.0.0
+- pkg:maven/org.seedstack.functions.audit/audit-function-core@2.0.0?classifier=sources

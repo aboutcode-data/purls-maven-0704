@@ -4,3 +4,4 @@
 - pkg:maven/org.nhind/config-ui@1.1?type=war
 - pkg:maven/org.nhind/config-ui@1.2?type=war
 - pkg:maven/org.nhind/config-ui@1.3?type=war
+- pkg:maven/org.nhind/config-ui@2.0?type=war

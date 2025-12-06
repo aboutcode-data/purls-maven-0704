@@ -26,3 +26,9 @@
 - pkg:maven/no.found.elasticsearch/elasticsearch-transport-module@0.8.7-0.90.3?classifier=sources
 - pkg:maven/no.found.elasticsearch/elasticsearch-transport-module@0.8.7-1.0.0
 - pkg:maven/no.found.elasticsearch/elasticsearch-transport-module@0.8.7-1.0.0?classifier=sources
+- pkg:maven/no.found.elasticsearch/elasticsearch-transport-module@0.8.7-1.2.0
+- pkg:maven/no.found.elasticsearch/elasticsearch-transport-module@0.8.7-1.2.0?classifier=sources
+- pkg:maven/no.found.elasticsearch/elasticsearch-transport-module@0.8.8-1.4.0
+- pkg:maven/no.found.elasticsearch/elasticsearch-transport-module@0.8.8-1.4.0?classifier=sources
+- pkg:maven/no.found.elasticsearch/elasticsearch-transport-module@0.8.9-1.4.0
+- pkg:maven/no.found.elasticsearch/elasticsearch-transport-module@0.8.9-1.4.0?classifier=sources

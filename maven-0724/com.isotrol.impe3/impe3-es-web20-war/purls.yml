@@ -1,0 +1,8 @@
+- pkg:maven/com.isotrol.impe3/impe3-es-web20-war@3.0.0?classifier=sources
+- pkg:maven/com.isotrol.impe3/impe3-es-web20-war@3.0.0?type=war
+- pkg:maven/com.isotrol.impe3/impe3-es-web20-war@3.0.3?classifier=sources
+- pkg:maven/com.isotrol.impe3/impe3-es-web20-war@3.0.3?type=war
+- pkg:maven/com.isotrol.impe3/impe3-es-web20-war@3.0.4?classifier=sources
+- pkg:maven/com.isotrol.impe3/impe3-es-web20-war@3.0.4?type=war
+- pkg:maven/com.isotrol.impe3/impe3-es-web20-war@3.0.5?classifier=sources
+- pkg:maven/com.isotrol.impe3/impe3-es-web20-war@3.0.5?type=war

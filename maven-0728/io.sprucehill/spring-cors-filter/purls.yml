@@ -1,0 +1,2 @@
+- pkg:maven/io.sprucehill/spring-cors-filter@1.0.0
+- pkg:maven/io.sprucehill/spring-cors-filter@1.0.0?classifier=sources

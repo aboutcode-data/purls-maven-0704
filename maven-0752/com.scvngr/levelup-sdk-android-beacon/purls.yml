@@ -1,0 +1,2 @@
+- pkg:maven/com.scvngr/levelup-sdk-android-beacon@2.6.0?classifier=sources
+- pkg:maven/com.scvngr/levelup-sdk-android-beacon@2.6.0?type=aar

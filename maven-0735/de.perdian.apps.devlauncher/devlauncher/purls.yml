@@ -22,3 +22,5 @@
 - pkg:maven/de.perdian.apps.devlauncher/devlauncher@3.2.0?classifier=sources
 - pkg:maven/de.perdian.apps.devlauncher/devlauncher@3.2.1
 - pkg:maven/de.perdian.apps.devlauncher/devlauncher@3.2.1?classifier=sources
+- pkg:maven/de.perdian.apps.devlauncher/devlauncher@4.0.0
+- pkg:maven/de.perdian.apps.devlauncher/devlauncher@4.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.gnode/nix-linux-x86_64@1.0
+- pkg:maven/org.gnode/nix-linux-x86_64@1.0?classifier=sources

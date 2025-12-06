@@ -1,0 +1,12 @@
+- pkg:maven/org.rapidoid/rapidoid-insights@4.1.0
+- pkg:maven/org.rapidoid/rapidoid-insights@4.1.0?classifier=sources
+- pkg:maven/org.rapidoid/rapidoid-insights@4.2.0
+- pkg:maven/org.rapidoid/rapidoid-insights@4.2.0?classifier=sources
+- pkg:maven/org.rapidoid/rapidoid-insights@4.3.0
+- pkg:maven/org.rapidoid/rapidoid-insights@4.3.0?classifier=sources
+- pkg:maven/org.rapidoid/rapidoid-insights@4.4.0
+- pkg:maven/org.rapidoid/rapidoid-insights@4.4.0?classifier=sources
+- pkg:maven/org.rapidoid/rapidoid-insights@5.0.0
+- pkg:maven/org.rapidoid/rapidoid-insights@5.0.0?classifier=sources
+- pkg:maven/org.rapidoid/rapidoid-insights@5.0.1
+- pkg:maven/org.rapidoid/rapidoid-insights@5.0.1?classifier=sources

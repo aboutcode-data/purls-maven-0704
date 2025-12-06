@@ -1,0 +1,12 @@
+- pkg:maven/io.apptik.comm/jus-jjson@0.6.0
+- pkg:maven/io.apptik.comm/jus-jjson@0.6.0?classifier=sources
+- pkg:maven/io.apptik.comm/jus-jjson@0.6.0a
+- pkg:maven/io.apptik.comm/jus-jjson@0.6.0a?classifier=sources
+- pkg:maven/io.apptik.comm/jus-jjson@0.6.0beta
+- pkg:maven/io.apptik.comm/jus-jjson@0.6.0beta?classifier=sources
+- pkg:maven/io.apptik.comm/jus-jjson@0.6.1
+- pkg:maven/io.apptik.comm/jus-jjson@0.6.1?classifier=sources
+- pkg:maven/io.apptik.comm/jus-jjson@0.6.2
+- pkg:maven/io.apptik.comm/jus-jjson@0.6.2?classifier=sources
+- pkg:maven/io.apptik.comm/jus-jjson@0.6.3
+- pkg:maven/io.apptik.comm/jus-jjson@0.6.3?classifier=sources

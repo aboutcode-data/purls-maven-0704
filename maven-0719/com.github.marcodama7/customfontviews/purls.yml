@@ -1,0 +1,2 @@
+- pkg:maven/com.github.marcodama7/customfontviews@1.0?classifier=sources
+- pkg:maven/com.github.marcodama7/customfontviews@1.0?type=aar

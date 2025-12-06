@@ -1,0 +1,2 @@
+- pkg:maven/eu.socialsensor/sentiment-analysis@0.1
+- pkg:maven/eu.socialsensor/sentiment-analysis@0.1?classifier=sources

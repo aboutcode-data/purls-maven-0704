@@ -1,0 +1,4 @@
+- pkg:maven/at.chrl/chrl-callbacks@1.0.0
+- pkg:maven/at.chrl/chrl-callbacks@1.0.0?classifier=sources
+- pkg:maven/at.chrl/chrl-callbacks@1.1.0
+- pkg:maven/at.chrl/chrl-callbacks@1.1.0?classifier=sources

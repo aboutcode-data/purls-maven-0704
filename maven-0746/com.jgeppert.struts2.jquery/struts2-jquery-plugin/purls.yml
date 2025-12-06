@@ -60,3 +60,5 @@
 - pkg:maven/com.jgeppert.struts2.jquery/struts2-jquery-plugin@3.6.1?classifier=sources
 - pkg:maven/com.jgeppert.struts2.jquery/struts2-jquery-plugin@3.7.0
 - pkg:maven/com.jgeppert.struts2.jquery/struts2-jquery-plugin@3.7.0?classifier=sources
+- pkg:maven/com.jgeppert.struts2.jquery/struts2-jquery-plugin@3.7.1
+- pkg:maven/com.jgeppert.struts2.jquery/struts2-jquery-plugin@3.7.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.open-esb.external.hulp/i18n@3.0.0
+- pkg:maven/net.open-esb.external.hulp/i18n@3.0.0?classifier=sources

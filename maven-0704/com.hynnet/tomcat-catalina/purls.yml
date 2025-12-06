@@ -1,0 +1,4 @@
+- pkg:maven/com.hynnet/tomcat-catalina@7.0.23
+- pkg:maven/com.hynnet/tomcat-catalina@7.0.23?classifier=sources
+- pkg:maven/com.hynnet/tomcat-catalina@8.0.11
+- pkg:maven/com.hynnet/tomcat-catalina@8.0.11?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.scalatags/scalatags_sjs0.5.0-RC1_2.10@0.3.0-RC1
+- pkg:maven/com.scalatags/scalatags_sjs0.5.0-RC1_2.10@0.3.0-RC1?classifier=sources

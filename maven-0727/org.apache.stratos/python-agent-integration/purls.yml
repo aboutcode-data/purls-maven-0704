@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.stratos/python-agent-integration@4.1.2
+- pkg:maven/org.apache.stratos/python-agent-integration@4.1.2?classifier=sources

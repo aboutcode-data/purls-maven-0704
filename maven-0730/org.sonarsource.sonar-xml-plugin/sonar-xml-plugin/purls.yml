@@ -1,0 +1,1 @@
+- pkg:maven/org.sonarsource.sonar-xml-plugin/sonar-xml-plugin@1.3?classifier=sources

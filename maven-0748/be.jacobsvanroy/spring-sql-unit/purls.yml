@@ -1,0 +1,4 @@
+- pkg:maven/be.jacobsvanroy/spring-sql-unit@0.7
+- pkg:maven/be.jacobsvanroy/spring-sql-unit@0.7?classifier=sources
+- pkg:maven/be.jacobsvanroy/spring-sql-unit@0.8
+- pkg:maven/be.jacobsvanroy/spring-sql-unit@0.8?classifier=sources

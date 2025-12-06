@@ -1,0 +1,2 @@
+- pkg:maven/com.github.wolf480pl.maven-plugins/template-maven-plugin@1.0.1
+- pkg:maven/com.github.wolf480pl.maven-plugins/template-maven-plugin@1.0.1?classifier=sources

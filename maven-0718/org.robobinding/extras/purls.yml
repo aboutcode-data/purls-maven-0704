@@ -1,0 +1,2 @@
+- pkg:maven/org.robobinding/extras@0.8.11
+- pkg:maven/org.robobinding/extras@0.8.11?classifier=sources

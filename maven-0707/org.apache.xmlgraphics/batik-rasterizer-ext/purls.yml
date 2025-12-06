@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.xmlgraphics/batik-rasterizer-ext@1.7
+- pkg:maven/org.apache.xmlgraphics/batik-rasterizer-ext@1.8

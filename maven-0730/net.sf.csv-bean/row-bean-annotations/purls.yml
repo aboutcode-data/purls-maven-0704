@@ -1,0 +1,4 @@
+- pkg:maven/net.sf.csv-bean/row-bean-annotations@1.0.0
+- pkg:maven/net.sf.csv-bean/row-bean-annotations@1.0.0?classifier=sources
+- pkg:maven/net.sf.csv-bean/row-bean-annotations@1.1.0
+- pkg:maven/net.sf.csv-bean/row-bean-annotations@1.1.0?classifier=sources

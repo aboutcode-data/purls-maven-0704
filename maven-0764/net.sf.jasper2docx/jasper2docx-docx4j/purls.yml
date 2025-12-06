@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.jasper2docx/jasper2docx-docx4j@1.1.0
+- pkg:maven/net.sf.jasper2docx/jasper2docx-docx4j@1.1.0?classifier=sources

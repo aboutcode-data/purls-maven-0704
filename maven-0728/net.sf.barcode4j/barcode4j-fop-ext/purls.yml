@@ -1,2 +1,4 @@
 - pkg:maven/net.sf.barcode4j/barcode4j-fop-ext@2.0
 - pkg:maven/net.sf.barcode4j/barcode4j-fop-ext@2.0?classifier=sources
+- pkg:maven/net.sf.barcode4j/barcode4j-fop-ext@2.1
+- pkg:maven/net.sf.barcode4j/barcode4j-fop-ext@2.1?classifier=sources

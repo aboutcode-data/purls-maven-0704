@@ -1,0 +1,6 @@
+- pkg:maven/com.kohlschutter.junixsocket/junixsocket-native-common@2.0
+- pkg:maven/com.kohlschutter.junixsocket/junixsocket-native-common@2.0.2
+- pkg:maven/com.kohlschutter.junixsocket/junixsocket-native-common@2.0.2?classifier=sources
+- pkg:maven/com.kohlschutter.junixsocket/junixsocket-native-common@2.0.4
+- pkg:maven/com.kohlschutter.junixsocket/junixsocket-native-common@2.0.4?classifier=sources
+- pkg:maven/com.kohlschutter.junixsocket/junixsocket-native-common@2.0?classifier=sources

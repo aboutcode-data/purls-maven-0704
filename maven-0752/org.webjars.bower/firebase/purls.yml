@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/firebase@2.2.7
+- pkg:maven/org.webjars.bower/firebase@2.2.7?classifier=sources

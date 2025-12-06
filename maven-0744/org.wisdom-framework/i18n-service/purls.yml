@@ -1,1 +1,13 @@
 - pkg:maven/org.wisdom-framework/i18n-service@0.4?classifier=sources
+- pkg:maven/org.wisdom-framework/i18n-service@0.5.1?classifier=sources
+- pkg:maven/org.wisdom-framework/i18n-service@0.5?classifier=sources
+- pkg:maven/org.wisdom-framework/i18n-service@0.6.1?classifier=sources
+- pkg:maven/org.wisdom-framework/i18n-service@0.6.2?classifier=sources
+- pkg:maven/org.wisdom-framework/i18n-service@0.6.3?classifier=sources
+- pkg:maven/org.wisdom-framework/i18n-service@0.6.4?classifier=sources
+- pkg:maven/org.wisdom-framework/i18n-service@0.6.5?classifier=sources
+- pkg:maven/org.wisdom-framework/i18n-service@0.6?classifier=sources
+- pkg:maven/org.wisdom-framework/i18n-service@0.7.0?classifier=sources
+- pkg:maven/org.wisdom-framework/i18n-service@0.8.0?classifier=sources
+- pkg:maven/org.wisdom-framework/i18n-service@0.9.0?classifier=sources
+- pkg:maven/org.wisdom-framework/i18n-service@0.9.1?classifier=sources

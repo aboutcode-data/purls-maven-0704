@@ -1,0 +1,2 @@
+- pkg:maven/org.uqbar-project/uqbar-class-descriptor@1.3.2
+- pkg:maven/org.uqbar-project/uqbar-class-descriptor@1.3.2?classifier=sources

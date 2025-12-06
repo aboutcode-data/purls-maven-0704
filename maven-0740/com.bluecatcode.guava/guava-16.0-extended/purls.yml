@@ -1,0 +1,2 @@
+- pkg:maven/com.bluecatcode.guava/guava-16.0-extended@1.0.1
+- pkg:maven/com.bluecatcode.guava/guava-16.0-extended@1.0.1?classifier=sources

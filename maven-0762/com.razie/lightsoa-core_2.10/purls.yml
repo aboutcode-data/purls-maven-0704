@@ -1,0 +1,2 @@
+- pkg:maven/com.razie/lightsoa-core_2.10@0.6.7
+- pkg:maven/com.razie/lightsoa-core_2.10@0.6.7?classifier=sources

@@ -12,5 +12,11 @@
 - pkg:maven/org.neo4j.doc/neo4j-cypherdoc@2.0.1?classifier=sources
 - pkg:maven/org.neo4j.doc/neo4j-cypherdoc@2.0.2
 - pkg:maven/org.neo4j.doc/neo4j-cypherdoc@2.0.2?classifier=sources
+- pkg:maven/org.neo4j.doc/neo4j-cypherdoc@2.0.3
+- pkg:maven/org.neo4j.doc/neo4j-cypherdoc@2.0.3?classifier=sources
+- pkg:maven/org.neo4j.doc/neo4j-cypherdoc@2.0.4
+- pkg:maven/org.neo4j.doc/neo4j-cypherdoc@2.0.4?classifier=sources
+- pkg:maven/org.neo4j.doc/neo4j-cypherdoc@2.0.5
+- pkg:maven/org.neo4j.doc/neo4j-cypherdoc@2.0.5?classifier=sources
 - pkg:maven/org.neo4j.doc/neo4j-cypherdoc@2.1.0-M01
 - pkg:maven/org.neo4j.doc/neo4j-cypherdoc@2.1.0-M01?classifier=sources

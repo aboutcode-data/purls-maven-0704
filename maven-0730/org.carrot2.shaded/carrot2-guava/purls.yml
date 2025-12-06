@@ -1,0 +1,2 @@
+- pkg:maven/org.carrot2.shaded/carrot2-guava@18.0
+- pkg:maven/org.carrot2.shaded/carrot2-guava@18.0?classifier=sources

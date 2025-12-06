@@ -1,0 +1,2 @@
+- pkg:maven/fi.seco/hfst@1.1
+- pkg:maven/fi.seco/hfst@1.1?classifier=sources

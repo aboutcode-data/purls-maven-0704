@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/jquery-i18n-properties@1.2.0
+- pkg:maven/org.webjars.bower/jquery-i18n-properties@1.2.0?classifier=sources

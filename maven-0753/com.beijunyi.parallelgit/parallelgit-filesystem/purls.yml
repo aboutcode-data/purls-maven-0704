@@ -1,0 +1,2 @@
+- pkg:maven/com.beijunyi.parallelgit/parallelgit-filesystem@0.9.3
+- pkg:maven/com.beijunyi.parallelgit/parallelgit-filesystem@0.9.3?classifier=sources

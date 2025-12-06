@@ -1,0 +1,4 @@
+- pkg:maven/jp.t2v/play2-auth-social_2.10@0.14.0
+- pkg:maven/jp.t2v/play2-auth-social_2.10@0.14.0?classifier=sources
+- pkg:maven/jp.t2v/play2-auth-social_2.10@0.14.1
+- pkg:maven/jp.t2v/play2-auth-social_2.10@0.14.1?classifier=sources

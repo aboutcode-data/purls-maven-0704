@@ -1,0 +1,2 @@
+- pkg:maven/org.activiti/spring-boot-starter-basic@5.17.0
+- pkg:maven/org.activiti/spring-boot-starter-basic@5.17.0?classifier=sources

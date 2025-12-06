@@ -1,0 +1,5 @@
+- pkg:maven/org.webjars/jstransform@10.1.0
+- pkg:maven/org.webjars/jstransform@5.0.0
+- pkg:maven/org.webjars/jstransform@6.0.1
+- pkg:maven/org.webjars/jstransform@6.3.2
+- pkg:maven/org.webjars/jstransform@7.0.0

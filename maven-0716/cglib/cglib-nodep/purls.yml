@@ -10,3 +10,5 @@
 - pkg:maven/cglib/cglib-nodep@3.0?classifier=sources
 - pkg:maven/cglib/cglib-nodep@3.1
 - pkg:maven/cglib/cglib-nodep@3.1?classifier=sources
+- pkg:maven/cglib/cglib-nodep@3.2.0
+- pkg:maven/cglib/cglib-nodep@3.2.0?classifier=sources

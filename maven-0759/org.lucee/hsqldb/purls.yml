@@ -1,0 +1,2 @@
+- pkg:maven/org.lucee/hsqldb@1.8.0.10
+- pkg:maven/org.lucee/hsqldb@2.3.3

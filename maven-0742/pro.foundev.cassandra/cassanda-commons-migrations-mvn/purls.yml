@@ -1,0 +1,2 @@
+- pkg:maven/pro.foundev.cassandra/cassanda-commons-migrations-mvn@0.2.1-STAGING
+- pkg:maven/pro.foundev.cassandra/cassanda-commons-migrations-mvn@0.2.1-STAGING?classifier=sources

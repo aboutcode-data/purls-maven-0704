@@ -8,3 +8,5 @@
 - pkg:maven/com.yakaz.elasticsearch.plugins/elasticsearch-analysis-combo@1.4.0?type=zip
 - pkg:maven/com.yakaz.elasticsearch.plugins/elasticsearch-analysis-combo@1.5.0?classifier=sources
 - pkg:maven/com.yakaz.elasticsearch.plugins/elasticsearch-analysis-combo@1.5.0?type=zip
+- pkg:maven/com.yakaz.elasticsearch.plugins/elasticsearch-analysis-combo@1.5.1?classifier=sources
+- pkg:maven/com.yakaz.elasticsearch.plugins/elasticsearch-analysis-combo@1.5.1?type=zip

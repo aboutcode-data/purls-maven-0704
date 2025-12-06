@@ -1,0 +1,4 @@
+- pkg:maven/fr.jcgay.snp4j/snp4j@0.2
+- pkg:maven/fr.jcgay.snp4j/snp4j@0.2?classifier=sources
+- pkg:maven/fr.jcgay.snp4j/snp4j@0.3
+- pkg:maven/fr.jcgay.snp4j/snp4j@0.3?classifier=sources

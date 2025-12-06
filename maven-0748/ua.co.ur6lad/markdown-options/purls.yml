@@ -1,0 +1,4 @@
+- pkg:maven/ua.co.ur6lad/markdown-options@1.0.3
+- pkg:maven/ua.co.ur6lad/markdown-options@1.0.3?classifier=sources
+- pkg:maven/ua.co.ur6lad/markdown-options@1.0.4
+- pkg:maven/ua.co.ur6lad/markdown-options@1.0.4?classifier=sources

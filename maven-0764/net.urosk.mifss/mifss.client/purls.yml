@@ -1,0 +1,4 @@
+- pkg:maven/net.urosk.mifss/mifss.client@0.2.3
+- pkg:maven/net.urosk.mifss/mifss.client@0.2.3?classifier=sources
+- pkg:maven/net.urosk.mifss/mifss.client@0.2.4
+- pkg:maven/net.urosk.mifss/mifss.client@0.2.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.rollenholt/Pear@1.0.4
+- pkg:maven/io.github.rollenholt/Pear@1.0.4?classifier=sources

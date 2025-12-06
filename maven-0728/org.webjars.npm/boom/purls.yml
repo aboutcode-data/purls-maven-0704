@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/boom@0.4.2
+- pkg:maven/org.webjars.npm/boom@0.4.2?classifier=sources
+- pkg:maven/org.webjars.npm/boom@2.9.0
+- pkg:maven/org.webjars.npm/boom@2.9.0?classifier=sources

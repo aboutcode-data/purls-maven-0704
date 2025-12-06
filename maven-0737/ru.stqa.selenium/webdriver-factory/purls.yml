@@ -2,3 +2,13 @@
 - pkg:maven/ru.stqa.selenium/webdriver-factory@1.0?classifier=sources
 - pkg:maven/ru.stqa.selenium/webdriver-factory@1.1.41
 - pkg:maven/ru.stqa.selenium/webdriver-factory@1.1.41?classifier=sources
+- pkg:maven/ru.stqa.selenium/webdriver-factory@1.1.42
+- pkg:maven/ru.stqa.selenium/webdriver-factory@1.1.42?classifier=sources
+- pkg:maven/ru.stqa.selenium/webdriver-factory@1.1.43
+- pkg:maven/ru.stqa.selenium/webdriver-factory@1.1.43?classifier=sources
+- pkg:maven/ru.stqa.selenium/webdriver-factory@1.1.45
+- pkg:maven/ru.stqa.selenium/webdriver-factory@1.1.45?classifier=sources
+- pkg:maven/ru.stqa.selenium/webdriver-factory@1.1.46
+- pkg:maven/ru.stqa.selenium/webdriver-factory@1.1.46?classifier=sources
+- pkg:maven/ru.stqa.selenium/webdriver-factory@1.1.47
+- pkg:maven/ru.stqa.selenium/webdriver-factory@1.1.47?classifier=sources

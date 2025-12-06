@@ -1,0 +1,2 @@
+- pkg:maven/net.rgielen/com4j-office2010-word@1.0.1
+- pkg:maven/net.rgielen/com4j-office2010-word@1.0.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.sterodium/file-extension-client@0.2
+- pkg:maven/io.sterodium/file-extension-client@0.2?classifier=sources
+- pkg:maven/io.sterodium/file-extension-client@0.5
+- pkg:maven/io.sterodium/file-extension-client@0.5?classifier=sources

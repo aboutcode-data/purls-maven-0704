@@ -1,0 +1,2 @@
+- pkg:maven/de.mhus.lib/mhu-lib-jms@3.2.8
+- pkg:maven/de.mhus.lib/mhu-lib-jms@3.2.8?classifier=sources

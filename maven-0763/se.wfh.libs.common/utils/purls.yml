@@ -1,0 +1,12 @@
+- pkg:maven/se.wfh.libs.common/utils@0.13
+- pkg:maven/se.wfh.libs.common/utils@0.13?classifier=sources
+- pkg:maven/se.wfh.libs.common/utils@0.14
+- pkg:maven/se.wfh.libs.common/utils@0.14?classifier=sources
+- pkg:maven/se.wfh.libs.common/utils@0.15
+- pkg:maven/se.wfh.libs.common/utils@0.15.1
+- pkg:maven/se.wfh.libs.common/utils@0.15.1?classifier=sources
+- pkg:maven/se.wfh.libs.common/utils@0.15?classifier=sources
+- pkg:maven/se.wfh.libs.common/utils@0.16
+- pkg:maven/se.wfh.libs.common/utils@0.16?classifier=sources
+- pkg:maven/se.wfh.libs.common/utils@0.17
+- pkg:maven/se.wfh.libs.common/utils@0.17?classifier=sources

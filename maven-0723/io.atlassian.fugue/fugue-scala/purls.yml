@@ -1,0 +1,2 @@
+- pkg:maven/io.atlassian.fugue/fugue-scala@3.0.0
+- pkg:maven/io.atlassian.fugue/fugue-scala@3.0.0?classifier=sources

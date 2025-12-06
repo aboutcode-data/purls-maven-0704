@@ -1,0 +1,2 @@
+- pkg:maven/com.gu/json-zipper-play_2.10@0.2
+- pkg:maven/com.gu/json-zipper-play_2.10@0.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/eu.zacheusz.jolt/jolt-date@1.0.0
+- pkg:maven/eu.zacheusz.jolt/jolt-date@1.0.0?classifier=sources

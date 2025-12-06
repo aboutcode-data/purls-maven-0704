@@ -1,0 +1,4 @@
+- pkg:maven/com.wda.sdbc/sqlserver-java7_2.10@0.10
+- pkg:maven/com.wda.sdbc/sqlserver-java7_2.10@0.10?classifier=sources
+- pkg:maven/com.wda.sdbc/sqlserver-java7_2.10@0.9
+- pkg:maven/com.wda.sdbc/sqlserver-java7_2.10@0.9?classifier=sources

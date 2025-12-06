@@ -1,0 +1,2 @@
+- pkg:maven/de.saly/elasticsearch-importer-imap@0.9-beta?classifier=sources
+- pkg:maven/de.saly/elasticsearch-importer-imap@0.9-beta?type=zip

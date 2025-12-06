@@ -1,0 +1,6 @@
+- pkg:maven/com.github.javaparser/javaparser-testing@2.0.0
+- pkg:maven/com.github.javaparser/javaparser-testing@2.1.0
+- pkg:maven/com.github.javaparser/javaparser-testing@2.2.0
+- pkg:maven/com.github.javaparser/javaparser-testing@2.2.1
+- pkg:maven/com.github.javaparser/javaparser-testing@2.2.2
+- pkg:maven/com.github.javaparser/javaparser-testing@2.3.0

@@ -1,0 +1,4 @@
+- pkg:maven/com.getbase.android.schema/library@0.6
+- pkg:maven/com.getbase.android.schema/library@0.6?classifier=sources
+- pkg:maven/com.getbase.android.schema/library@0.7?classifier=sources
+- pkg:maven/com.getbase.android.schema/library@0.7?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.flink/flink-shaded-hadoop2@0.10.0
+- pkg:maven/org.apache.flink/flink-shaded-hadoop2@0.10.0?classifier=sources

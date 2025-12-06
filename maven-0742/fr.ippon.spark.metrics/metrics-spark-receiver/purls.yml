@@ -1,0 +1,2 @@
+- pkg:maven/fr.ippon.spark.metrics/metrics-spark-receiver@1.1
+- pkg:maven/fr.ippon.spark.metrics/metrics-spark-receiver@1.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.adedayo.intellij.sdk/gradle-tooling-extension-impl@142.1
+- pkg:maven/com.github.adedayo.intellij.sdk/gradle-tooling-extension-impl@142.1?classifier=sources

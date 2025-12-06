@@ -12,3 +12,5 @@
 - pkg:maven/com.wordnik.swagger/swagger-async-httpclient_2.10@0.2.0?classifier=sources
 - pkg:maven/com.wordnik.swagger/swagger-async-httpclient_2.10@0.2.1
 - pkg:maven/com.wordnik.swagger/swagger-async-httpclient_2.10@0.2.1?classifier=sources
+- pkg:maven/com.wordnik.swagger/swagger-async-httpclient_2.10@0.3.5
+- pkg:maven/com.wordnik.swagger/swagger-async-httpclient_2.10@0.3.5?classifier=sources

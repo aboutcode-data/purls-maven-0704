@@ -1,0 +1,2 @@
+- pkg:maven/com.rhythm.louie.swagr/swagr-service@2.0-beta
+- pkg:maven/com.rhythm.louie.swagr/swagr-service@2.0-beta?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.netaporter/spray-json_2.11@1.2.7-NAP
+- pkg:maven/com.netaporter/spray-json_2.11@1.2.7-NAP?classifier=sources

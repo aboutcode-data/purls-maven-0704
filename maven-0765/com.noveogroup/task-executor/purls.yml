@@ -1,0 +1,2 @@
+- pkg:maven/com.noveogroup/task-executor@0.6.2
+- pkg:maven/com.noveogroup/task-executor@0.6.2?classifier=sources

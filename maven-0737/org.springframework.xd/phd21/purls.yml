@@ -1,0 +1,3 @@
+- pkg:maven/org.springframework.xd/phd21@1.0.3.RELEASE
+- pkg:maven/org.springframework.xd/phd21@1.0.3.RELEASE?classifier=sources
+- pkg:maven/org.springframework.xd/phd21@1.0.4.RELEASE

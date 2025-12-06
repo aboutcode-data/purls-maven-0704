@@ -1,0 +1,2 @@
+- pkg:maven/com.linkedin.pegasus/r2-core@2.6.0
+- pkg:maven/com.linkedin.pegasus/r2-core@2.6.0?classifier=sources

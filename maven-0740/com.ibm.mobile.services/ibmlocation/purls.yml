@@ -1,0 +1,4 @@
+- pkg:maven/com.ibm.mobile.services/ibmlocation@0.4.0
+- pkg:maven/com.ibm.mobile.services/ibmlocation@0.4.0?classifier=sources
+- pkg:maven/com.ibm.mobile.services/ibmlocation@0.9.0.20140707-1250
+- pkg:maven/com.ibm.mobile.services/ibmlocation@0.9.0.20140707-1250?classifier=sources

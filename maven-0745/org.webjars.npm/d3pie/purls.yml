@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/d3pie@0.1.9
+- pkg:maven/org.webjars.npm/d3pie@0.1.9?classifier=sources

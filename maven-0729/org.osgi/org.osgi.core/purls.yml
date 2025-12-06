@@ -9,3 +9,5 @@
 - pkg:maven/org.osgi/org.osgi.core@4.3.1?classifier=sources
 - pkg:maven/org.osgi/org.osgi.core@5.0.0
 - pkg:maven/org.osgi/org.osgi.core@5.0.0?classifier=sources
+- pkg:maven/org.osgi/org.osgi.core@6.0.0
+- pkg:maven/org.osgi/org.osgi.core@6.0.0?classifier=sources

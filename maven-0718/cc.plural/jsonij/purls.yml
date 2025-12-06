@@ -16,3 +16,5 @@
 - pkg:maven/cc.plural/jsonij@0.2.8?classifier=sources
 - pkg:maven/cc.plural/jsonij@0.3.0
 - pkg:maven/cc.plural/jsonij@0.3.0?classifier=sources
+- pkg:maven/cc.plural/jsonij@0.3.1
+- pkg:maven/cc.plural/jsonij@0.3.1?classifier=sources

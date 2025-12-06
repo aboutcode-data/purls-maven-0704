@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/google-code-prettify@1.0.4
+- pkg:maven/org.webjars.bower/google-code-prettify@1.0.4?classifier=sources

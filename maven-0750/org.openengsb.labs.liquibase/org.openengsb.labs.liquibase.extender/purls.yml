@@ -1,2 +1,8 @@
 - pkg:maven/org.openengsb.labs.liquibase/org.openengsb.labs.liquibase.extender@0.1.0
 - pkg:maven/org.openengsb.labs.liquibase/org.openengsb.labs.liquibase.extender@0.1.0?classifier=sources
+- pkg:maven/org.openengsb.labs.liquibase/org.openengsb.labs.liquibase.extender@0.1.1
+- pkg:maven/org.openengsb.labs.liquibase/org.openengsb.labs.liquibase.extender@0.1.1?classifier=sources
+- pkg:maven/org.openengsb.labs.liquibase/org.openengsb.labs.liquibase.extender@0.2.0
+- pkg:maven/org.openengsb.labs.liquibase/org.openengsb.labs.liquibase.extender@0.2.0?classifier=sources
+- pkg:maven/org.openengsb.labs.liquibase/org.openengsb.labs.liquibase.extender@0.3.0
+- pkg:maven/org.openengsb.labs.liquibase/org.openengsb.labs.liquibase.extender@0.3.0?classifier=sources

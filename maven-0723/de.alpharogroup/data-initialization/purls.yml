@@ -1,0 +1,8 @@
+- pkg:maven/de.alpharogroup/data-initialization@3.1.0
+- pkg:maven/de.alpharogroup/data-initialization@3.1.0?classifier=sources
+- pkg:maven/de.alpharogroup/data-initialization@3.2.0
+- pkg:maven/de.alpharogroup/data-initialization@3.2.0?classifier=sources
+- pkg:maven/de.alpharogroup/data-initialization@3.3.0
+- pkg:maven/de.alpharogroup/data-initialization@3.3.0?classifier=sources
+- pkg:maven/de.alpharogroup/data-initialization@3.4.0
+- pkg:maven/de.alpharogroup/data-initialization@3.4.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.jameswald.skinnylatte/common@1.1-r2?classifier=sources
+- pkg:maven/com.jameswald.skinnylatte/common@1.1-r2?type=aar

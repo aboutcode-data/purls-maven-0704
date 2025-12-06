@@ -1,3 +1,5 @@
+- pkg:maven/com.legsem.legstar/legstar-coxbrt@1.5.10
+- pkg:maven/com.legsem.legstar/legstar-coxbrt@1.5.10?classifier=sources
 - pkg:maven/com.legsem.legstar/legstar-coxbrt@1.5.2
 - pkg:maven/com.legsem.legstar/legstar-coxbrt@1.5.2?classifier=sources
 - pkg:maven/com.legsem.legstar/legstar-coxbrt@1.5.3
@@ -14,3 +16,5 @@
 - pkg:maven/com.legsem.legstar/legstar-coxbrt@1.5.8?classifier=sources
 - pkg:maven/com.legsem.legstar/legstar-coxbrt@1.5.9
 - pkg:maven/com.legsem.legstar/legstar-coxbrt@1.5.9?classifier=sources
+- pkg:maven/com.legsem.legstar/legstar-coxbrt@1.6.0
+- pkg:maven/com.legsem.legstar/legstar-coxbrt@1.6.0?classifier=sources

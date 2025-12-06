@@ -1,0 +1,2 @@
+- pkg:maven/org.kaazing/gateway.client.java.api@5.0.0.8
+- pkg:maven/org.kaazing/gateway.client.java.api@5.0.0.8?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.jakewharton.rxbinding/rxbinding-leanback-v17@0.3.0?classifier=sources
+- pkg:maven/com.jakewharton.rxbinding/rxbinding-leanback-v17@0.3.0?type=aar

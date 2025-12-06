@@ -27,3 +27,11 @@
 - pkg:maven/javax.el/javax.el-api@3.0-b08?classifier=sources
 - pkg:maven/javax.el/javax.el-api@3.0.0
 - pkg:maven/javax.el/javax.el-api@3.0.0?classifier=sources
+- pkg:maven/javax.el/javax.el-api@3.0.1-b01
+- pkg:maven/javax.el/javax.el-api@3.0.1-b01?classifier=sources
+- pkg:maven/javax.el/javax.el-api@3.0.1-b02
+- pkg:maven/javax.el/javax.el-api@3.0.1-b02?classifier=sources
+- pkg:maven/javax.el/javax.el-api@3.0.1-b03
+- pkg:maven/javax.el/javax.el-api@3.0.1-b03?classifier=sources
+- pkg:maven/javax.el/javax.el-api@3.0.1-b04
+- pkg:maven/javax.el/javax.el-api@3.0.1-b04?classifier=sources

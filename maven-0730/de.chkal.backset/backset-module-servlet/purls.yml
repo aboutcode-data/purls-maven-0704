@@ -1,0 +1,2 @@
+- pkg:maven/de.chkal.backset/backset-module-servlet@1.0.0.Alpha1
+- pkg:maven/de.chkal.backset/backset-module-servlet@1.0.0.Alpha1?classifier=sources

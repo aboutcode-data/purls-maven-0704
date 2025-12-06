@@ -18,3 +18,17 @@
 - pkg:maven/org.clojure/core.async@0.1.295.0-9ea6ef-alpha?classifier=sources
 - pkg:maven/org.clojure/core.async@0.1.298.0-2a82a1-alpha
 - pkg:maven/org.clojure/core.async@0.1.298.0-2a82a1-alpha?classifier=sources
+- pkg:maven/org.clojure/core.async@0.1.301.0-deb34a-alpha
+- pkg:maven/org.clojure/core.async@0.1.301.0-deb34a-alpha?classifier=sources
+- pkg:maven/org.clojure/core.async@0.1.303.0-886421-alpha
+- pkg:maven/org.clojure/core.async@0.1.303.0-886421-alpha?classifier=sources
+- pkg:maven/org.clojure/core.async@0.1.319.0-6b1aca-alpha
+- pkg:maven/org.clojure/core.async@0.1.319.0-6b1aca-alpha?classifier=sources
+- pkg:maven/org.clojure/core.async@0.1.338.0-5c5012-alpha
+- pkg:maven/org.clojure/core.async@0.1.338.0-5c5012-alpha?classifier=sources
+- pkg:maven/org.clojure/core.async@0.1.346.0-17112a-alpha
+- pkg:maven/org.clojure/core.async@0.1.346.0-17112a-alpha?classifier=sources
+- pkg:maven/org.clojure/core.async@0.2.371
+- pkg:maven/org.clojure/core.async@0.2.371?classifier=sources
+- pkg:maven/org.clojure/core.async@0.2.374
+- pkg:maven/org.clojure/core.async@0.2.374?classifier=sources

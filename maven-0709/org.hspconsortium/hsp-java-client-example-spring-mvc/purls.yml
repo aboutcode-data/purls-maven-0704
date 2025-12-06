@@ -1,0 +1,2 @@
+- pkg:maven/org.hspconsortium/hsp-java-client-example-spring-mvc@0.8?classifier=sources
+- pkg:maven/org.hspconsortium/hsp-java-client-example-spring-mvc@0.8?type=war

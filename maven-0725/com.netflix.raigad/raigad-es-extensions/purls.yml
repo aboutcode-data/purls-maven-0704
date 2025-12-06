@@ -1,0 +1,6 @@
+- pkg:maven/com.netflix.raigad/raigad-es-extensions@132.0.2
+- pkg:maven/com.netflix.raigad/raigad-es-extensions@132.0.2?classifier=sources
+- pkg:maven/com.netflix.raigad/raigad-es-extensions@132.0.3
+- pkg:maven/com.netflix.raigad/raigad-es-extensions@132.0.3?classifier=sources
+- pkg:maven/com.netflix.raigad/raigad-es-extensions@150.0.0
+- pkg:maven/com.netflix.raigad/raigad-es-extensions@150.0.0?classifier=sources

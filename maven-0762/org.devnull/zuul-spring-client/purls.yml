@@ -13,4 +13,8 @@
 - pkg:maven/org.devnull/zuul-spring-client@1.4.1?classifier=sources
 - pkg:maven/org.devnull/zuul-spring-client@1.4?classifier=sources
 - pkg:maven/org.devnull/zuul-spring-client@1.5
+- pkg:maven/org.devnull/zuul-spring-client@1.5.1
+- pkg:maven/org.devnull/zuul-spring-client@1.5.1?classifier=sources
 - pkg:maven/org.devnull/zuul-spring-client@1.5?classifier=sources
+- pkg:maven/org.devnull/zuul-spring-client@1.6.0.M1
+- pkg:maven/org.devnull/zuul-spring-client@1.6.0.M1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.mayocat.shop/mayocat-shop-billing-internal@0.40.0
+- pkg:maven/org.mayocat.shop/mayocat-shop-billing-internal@0.40.0?classifier=sources

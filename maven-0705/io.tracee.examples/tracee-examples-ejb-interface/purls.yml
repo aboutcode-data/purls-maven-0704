@@ -1,0 +1,2 @@
+- pkg:maven/io.tracee.examples/tracee-examples-ejb-interface@0.3.0
+- pkg:maven/io.tracee.examples/tracee-examples-ejb-interface@0.3.0?classifier=sources

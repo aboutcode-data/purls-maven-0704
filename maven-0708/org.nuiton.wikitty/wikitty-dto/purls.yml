@@ -1,0 +1,6 @@
+- pkg:maven/org.nuiton.wikitty/wikitty-dto@3.12
+- pkg:maven/org.nuiton.wikitty/wikitty-dto@3.12.1
+- pkg:maven/org.nuiton.wikitty/wikitty-dto@3.12.1?classifier=sources
+- pkg:maven/org.nuiton.wikitty/wikitty-dto@3.12?classifier=sources
+- pkg:maven/org.nuiton.wikitty/wikitty-dto@3.13
+- pkg:maven/org.nuiton.wikitty/wikitty-dto@3.13?classifier=sources

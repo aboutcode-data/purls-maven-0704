@@ -1,0 +1,2 @@
+- pkg:maven/cn.featherfly/bccs-api@3.0.1
+- pkg:maven/cn.featherfly/bccs-api@3.0.1?classifier=sources

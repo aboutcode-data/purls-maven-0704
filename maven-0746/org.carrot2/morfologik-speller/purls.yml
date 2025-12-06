@@ -1,3 +1,5 @@
+- pkg:maven/org.carrot2/morfologik-speller@1.10.0
+- pkg:maven/org.carrot2/morfologik-speller@1.10.0?classifier=sources
 - pkg:maven/org.carrot2/morfologik-speller@1.5.3
 - pkg:maven/org.carrot2/morfologik-speller@1.5.3?classifier=sources
 - pkg:maven/org.carrot2/morfologik-speller@1.5.4
@@ -22,3 +24,7 @@
 - pkg:maven/org.carrot2/morfologik-speller@1.8.3?classifier=sources
 - pkg:maven/org.carrot2/morfologik-speller@1.9.0
 - pkg:maven/org.carrot2/morfologik-speller@1.9.0?classifier=sources
+- pkg:maven/org.carrot2/morfologik-speller@2.0.0
+- pkg:maven/org.carrot2/morfologik-speller@2.0.0?classifier=sources
+- pkg:maven/org.carrot2/morfologik-speller@2.0.1
+- pkg:maven/org.carrot2/morfologik-speller@2.0.1?classifier=sources

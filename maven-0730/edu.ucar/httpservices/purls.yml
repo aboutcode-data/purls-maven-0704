@@ -1,0 +1,4 @@
+- pkg:maven/edu.ucar/httpservices@4.5.4
+- pkg:maven/edu.ucar/httpservices@4.5.4?classifier=sources
+- pkg:maven/edu.ucar/httpservices@4.5.5
+- pkg:maven/edu.ucar/httpservices@4.5.5?classifier=sources

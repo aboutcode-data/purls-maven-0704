@@ -1,0 +1,2 @@
+- pkg:maven/br.com.esec.icpm/security-helper@1.2.5
+- pkg:maven/br.com.esec.icpm/security-helper@1.2.5?classifier=sources

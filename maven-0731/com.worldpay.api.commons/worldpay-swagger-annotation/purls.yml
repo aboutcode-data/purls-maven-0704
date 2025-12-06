@@ -1,0 +1,2 @@
+- pkg:maven/com.worldpay.api.commons/worldpay-swagger-annotation@0.0.3
+- pkg:maven/com.worldpay.api.commons/worldpay-swagger-annotation@0.0.3?classifier=sources

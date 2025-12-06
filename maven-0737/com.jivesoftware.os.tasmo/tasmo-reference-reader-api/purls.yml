@@ -1,0 +1,2 @@
+- pkg:maven/com.jivesoftware.os.tasmo/tasmo-reference-reader-api@0.44
+- pkg:maven/com.jivesoftware.os.tasmo/tasmo-reference-reader-api@0.44?classifier=sources

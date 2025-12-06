@@ -1,0 +1,2 @@
+- pkg:maven/io.ingenieux/sqoopeizer@0.0.2
+- pkg:maven/io.ingenieux/sqoopeizer@0.0.2?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.openyelp/jsonrpc@1.02
+- pkg:maven/com.openyelp/jsonrpc@1.02?classifier=sources
+- pkg:maven/com.openyelp/jsonrpc@1.03
+- pkg:maven/com.openyelp/jsonrpc@1.03?classifier=sources
+- pkg:maven/com.openyelp/jsonrpc@1.04
+- pkg:maven/com.openyelp/jsonrpc@1.04?classifier=sources

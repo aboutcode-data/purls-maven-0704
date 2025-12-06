@@ -1,0 +1,2 @@
+- pkg:maven/com.yayandroid/CustomTabsFragment@1.0?classifier=sources
+- pkg:maven/com.yayandroid/CustomTabsFragment@1.0?type=aar

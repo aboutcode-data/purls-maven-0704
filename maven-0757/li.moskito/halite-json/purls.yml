@@ -1,0 +1,5 @@
+- pkg:maven/li.moskito/halite-json@0.0.13
+- pkg:maven/li.moskito/halite-json@0.0.15
+- pkg:maven/li.moskito/halite-json@0.0.15?classifier=sources
+- pkg:maven/li.moskito/halite-json@0.1.0
+- pkg:maven/li.moskito/halite-json@0.1.0?classifier=sources

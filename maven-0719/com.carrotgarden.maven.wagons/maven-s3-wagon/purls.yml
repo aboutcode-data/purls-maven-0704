@@ -1,0 +1,2 @@
+- pkg:maven/com.carrotgarden.maven.wagons/maven-s3-wagon@1.2.2-rev001
+- pkg:maven/com.carrotgarden.maven.wagons/maven-s3-wagon@1.2.2-rev001?classifier=sources

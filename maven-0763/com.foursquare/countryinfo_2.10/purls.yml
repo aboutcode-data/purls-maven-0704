@@ -1,0 +1,12 @@
+- pkg:maven/com.foursquare/countryinfo_2.10@0.84.6
+- pkg:maven/com.foursquare/countryinfo_2.10@0.84.6?classifier=sources
+- pkg:maven/com.foursquare/countryinfo_2.10@0.84.7
+- pkg:maven/com.foursquare/countryinfo_2.10@0.84.7?classifier=sources
+- pkg:maven/com.foursquare/countryinfo_2.10@0.84.8
+- pkg:maven/com.foursquare/countryinfo_2.10@0.84.8?classifier=sources
+- pkg:maven/com.foursquare/countryinfo_2.10@0.84.9
+- pkg:maven/com.foursquare/countryinfo_2.10@0.84.9?classifier=sources
+- pkg:maven/com.foursquare/countryinfo_2.10@0.90.1
+- pkg:maven/com.foursquare/countryinfo_2.10@0.90.1-dblackman
+- pkg:maven/com.foursquare/countryinfo_2.10@0.90.1-dblackman?classifier=sources
+- pkg:maven/com.foursquare/countryinfo_2.10@0.90.1?classifier=sources

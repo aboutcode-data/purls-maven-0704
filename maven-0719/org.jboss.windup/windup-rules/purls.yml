@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.windup/windup-rules@0.7.0
+- pkg:maven/org.jboss.windup/windup-rules@0.7.0?classifier=sources

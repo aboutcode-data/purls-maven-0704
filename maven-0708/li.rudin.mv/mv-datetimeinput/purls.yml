@@ -2,3 +2,5 @@
 - pkg:maven/li.rudin.mv/mv-datetimeinput@1.3?classifier=sources
 - pkg:maven/li.rudin.mv/mv-datetimeinput@1.4
 - pkg:maven/li.rudin.mv/mv-datetimeinput@1.4?classifier=sources
+- pkg:maven/li.rudin.mv/mv-datetimeinput@1.5
+- pkg:maven/li.rudin.mv/mv-datetimeinput@1.5?classifier=sources

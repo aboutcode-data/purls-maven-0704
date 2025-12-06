@@ -1,0 +1,2 @@
+- pkg:maven/com.github.rubiconprojectmobile/rfmsdk-android@3.1.2
+- pkg:maven/com.github.rubiconprojectmobile/rfmsdk-android@3.1.2?classifier=sources

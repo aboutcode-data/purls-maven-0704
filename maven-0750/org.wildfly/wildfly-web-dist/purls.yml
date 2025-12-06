@@ -1,0 +1,5 @@
+- pkg:maven/org.wildfly/wildfly-web-dist@10.0.0.Alpha1?type=zip
+- pkg:maven/org.wildfly/wildfly-web-dist@9.0.0.Alpha1?type=zip
+- pkg:maven/org.wildfly/wildfly-web-dist@9.0.0.Beta1?type=zip
+- pkg:maven/org.wildfly/wildfly-web-dist@9.0.0.Beta2?type=zip
+- pkg:maven/org.wildfly/wildfly-web-dist@9.0.0.CR1?type=zip

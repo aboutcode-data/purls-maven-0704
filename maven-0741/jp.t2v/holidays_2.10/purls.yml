@@ -1,2 +1,4 @@
 - pkg:maven/jp.t2v/holidays_2.10@2.0
 - pkg:maven/jp.t2v/holidays_2.10@2.0?classifier=sources
+- pkg:maven/jp.t2v/holidays_2.10@3.0
+- pkg:maven/jp.t2v/holidays_2.10@3.0?classifier=sources

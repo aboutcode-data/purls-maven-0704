@@ -1,0 +1,2 @@
+- pkg:maven/com.boundary/high-scale-lib@1.0.6
+- pkg:maven/com.boundary/high-scale-lib@1.0.6?classifier=sources

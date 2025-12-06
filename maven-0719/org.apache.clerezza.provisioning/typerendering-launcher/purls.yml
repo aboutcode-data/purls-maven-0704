@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.clerezza.provisioning/typerendering-launcher@0.1
+- pkg:maven/org.apache.clerezza.provisioning/typerendering-launcher@0.1?classifier=sources
+- pkg:maven/org.apache.clerezza.provisioning/typerendering-launcher@1.0.0
+- pkg:maven/org.apache.clerezza.provisioning/typerendering-launcher@1.0.0?classifier=sources

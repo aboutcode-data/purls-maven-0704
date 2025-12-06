@@ -1,0 +1,4 @@
+- pkg:maven/net.ltgt.dagger/bullet@0.1
+- pkg:maven/net.ltgt.dagger/bullet@0.1?classifier=sources
+- pkg:maven/net.ltgt.dagger/bullet@0.20
+- pkg:maven/net.ltgt.dagger/bullet@0.20?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.sviperll/easycli4j@0.17
+- pkg:maven/com.github.sviperll/easycli4j@0.17?classifier=sources

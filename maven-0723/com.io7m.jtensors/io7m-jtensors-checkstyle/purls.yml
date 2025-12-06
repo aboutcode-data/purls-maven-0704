@@ -1,0 +1,4 @@
+- pkg:maven/com.io7m.jtensors/io7m-jtensors-checkstyle@6.0.2
+- pkg:maven/com.io7m.jtensors/io7m-jtensors-checkstyle@6.0.2?classifier=sources
+- pkg:maven/com.io7m.jtensors/io7m-jtensors-checkstyle@7.0.0-beta0004
+- pkg:maven/com.io7m.jtensors/io7m-jtensors-checkstyle@7.0.0-beta0004?classifier=sources

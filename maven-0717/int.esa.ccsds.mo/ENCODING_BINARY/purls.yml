@@ -1,0 +1,10 @@
+- pkg:maven/int.esa.ccsds.mo/ENCODING_BINARY@1.0
+- pkg:maven/int.esa.ccsds.mo/ENCODING_BINARY@1.0.1
+- pkg:maven/int.esa.ccsds.mo/ENCODING_BINARY@1.0.1-FC
+- pkg:maven/int.esa.ccsds.mo/ENCODING_BINARY@1.0.1-FC?classifier=sources
+- pkg:maven/int.esa.ccsds.mo/ENCODING_BINARY@1.0.1?classifier=sources
+- pkg:maven/int.esa.ccsds.mo/ENCODING_BINARY@1.0.2
+- pkg:maven/int.esa.ccsds.mo/ENCODING_BINARY@1.0.2?classifier=sources
+- pkg:maven/int.esa.ccsds.mo/ENCODING_BINARY@1.0.3
+- pkg:maven/int.esa.ccsds.mo/ENCODING_BINARY@1.0.3?classifier=sources
+- pkg:maven/int.esa.ccsds.mo/ENCODING_BINARY@1.0?classifier=sources

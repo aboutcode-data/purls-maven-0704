@@ -1,0 +1,4 @@
+- pkg:maven/org.javalite/git-info-maven-plugin@1.4.10
+- pkg:maven/org.javalite/git-info-maven-plugin@1.4.10?classifier=sources
+- pkg:maven/org.javalite/git-info-maven-plugin@1.4.11
+- pkg:maven/org.javalite/git-info-maven-plugin@1.4.11?classifier=sources

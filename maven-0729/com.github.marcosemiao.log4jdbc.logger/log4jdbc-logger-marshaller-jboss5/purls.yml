@@ -1,0 +1,2 @@
+- pkg:maven/com.github.marcosemiao.log4jdbc.logger/log4jdbc-logger-marshaller-jboss5@0.0.1
+- pkg:maven/com.github.marcosemiao.log4jdbc.logger/log4jdbc-logger-marshaller-jboss5@0.0.1?classifier=sources

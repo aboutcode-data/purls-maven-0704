@@ -1,3 +1,5 @@
+- pkg:maven/org.robolectric.gradle/gradle-android-test-plugin@0.10.0
+- pkg:maven/org.robolectric.gradle/gradle-android-test-plugin@0.10.0?classifier=sources
 - pkg:maven/org.robolectric.gradle/gradle-android-test-plugin@0.9.1
 - pkg:maven/org.robolectric.gradle/gradle-android-test-plugin@0.9.1?classifier=sources
 - pkg:maven/org.robolectric.gradle/gradle-android-test-plugin@0.9.2

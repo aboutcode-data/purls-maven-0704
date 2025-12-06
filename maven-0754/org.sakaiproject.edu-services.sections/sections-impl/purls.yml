@@ -22,3 +22,13 @@
 - pkg:maven/org.sakaiproject.edu-services.sections/sections-impl@1.2.2?classifier=sources
 - pkg:maven/org.sakaiproject.edu-services.sections/sections-impl@1.2.3
 - pkg:maven/org.sakaiproject.edu-services.sections/sections-impl@1.2.3?classifier=sources
+- pkg:maven/org.sakaiproject.edu-services.sections/sections-impl@10.0
+- pkg:maven/org.sakaiproject.edu-services.sections/sections-impl@10.0?classifier=sources
+- pkg:maven/org.sakaiproject.edu-services.sections/sections-impl@10.1
+- pkg:maven/org.sakaiproject.edu-services.sections/sections-impl@10.1?classifier=sources
+- pkg:maven/org.sakaiproject.edu-services.sections/sections-impl@10.2
+- pkg:maven/org.sakaiproject.edu-services.sections/sections-impl@10.2?classifier=sources
+- pkg:maven/org.sakaiproject.edu-services.sections/sections-impl@10.3
+- pkg:maven/org.sakaiproject.edu-services.sections/sections-impl@10.3?classifier=sources
+- pkg:maven/org.sakaiproject.edu-services.sections/sections-impl@10.4
+- pkg:maven/org.sakaiproject.edu-services.sections/sections-impl@10.4?classifier=sources

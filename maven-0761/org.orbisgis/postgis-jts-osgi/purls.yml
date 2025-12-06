@@ -1,0 +1,2 @@
+- pkg:maven/org.orbisgis/postgis-jts-osgi@5.0.1
+- pkg:maven/org.orbisgis/postgis-jts-osgi@5.0.1?classifier=sources

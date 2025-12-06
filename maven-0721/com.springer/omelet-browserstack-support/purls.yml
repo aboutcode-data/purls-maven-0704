@@ -1,0 +1,2 @@
+- pkg:maven/com.springer/omelet-browserstack-support@1.0.0
+- pkg:maven/com.springer/omelet-browserstack-support@1.0.0?classifier=sources

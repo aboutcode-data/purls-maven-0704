@@ -1,0 +1,2 @@
+- pkg:maven/com.github.dweidenfeld/xml-event-limit-generator@1.0.1
+- pkg:maven/com.github.dweidenfeld/xml-event-limit-generator@1.0.1?classifier=sources

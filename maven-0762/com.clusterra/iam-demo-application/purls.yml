@@ -1,0 +1,2 @@
+- pkg:maven/com.clusterra/iam-demo-application@1.0.3.RELEASE
+- pkg:maven/com.clusterra/iam-demo-application@1.0.3.RELEASE?classifier=sources

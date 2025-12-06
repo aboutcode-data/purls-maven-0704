@@ -1,0 +1,2 @@
+- pkg:maven/com.tzavellas/sse-guice_2.11@0.7.2
+- pkg:maven/com.tzavellas/sse-guice_2.11@0.7.2?classifier=sources

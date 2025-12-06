@@ -1,0 +1,2 @@
+- pkg:maven/com.jivesoftware.os.jive.utils/base@0.93
+- pkg:maven/com.jivesoftware.os.jive.utils/base@0.93?classifier=sources

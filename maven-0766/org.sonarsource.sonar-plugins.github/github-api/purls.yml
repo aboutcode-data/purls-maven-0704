@@ -1,0 +1,2 @@
+- pkg:maven/org.sonarsource.sonar-plugins.github/github-api@1.0.1
+- pkg:maven/org.sonarsource.sonar-plugins.github/github-api@1.0.1?classifier=sources

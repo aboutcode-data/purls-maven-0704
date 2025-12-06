@@ -1,0 +1,6 @@
+- pkg:maven/com.netflix.feign/feign-example-github@7.0.0
+- pkg:maven/com.netflix.feign/feign-example-github@7.0.0?classifier=sources
+- pkg:maven/com.netflix.feign/feign-example-github@7.1.0
+- pkg:maven/com.netflix.feign/feign-example-github@7.1.0?classifier=sources
+- pkg:maven/com.netflix.feign/feign-example-github@8.0.0-rc.1
+- pkg:maven/com.netflix.feign/feign-example-github@8.0.0-rc.1?classifier=sources

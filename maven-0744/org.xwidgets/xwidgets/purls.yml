@@ -1,0 +1,6 @@
+- pkg:maven/org.xwidgets/xwidgets@0.1.Alpha1
+- pkg:maven/org.xwidgets/xwidgets@0.1.Alpha1?classifier=sources
+- pkg:maven/org.xwidgets/xwidgets@0.1.Alpha2
+- pkg:maven/org.xwidgets/xwidgets@0.1.Alpha2?classifier=sources
+- pkg:maven/org.xwidgets/xwidgets@0.1.Alpha3
+- pkg:maven/org.xwidgets/xwidgets@0.1.Alpha3?classifier=sources

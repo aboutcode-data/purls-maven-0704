@@ -1,0 +1,2 @@
+- pkg:maven/br.com.objectos/way-auto-builder@1.18.0
+- pkg:maven/br.com.objectos/way-auto-builder@1.18.0?classifier=sources

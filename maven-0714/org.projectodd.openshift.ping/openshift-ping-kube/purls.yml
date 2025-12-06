@@ -1,0 +1,2 @@
+- pkg:maven/org.projectodd.openshift.ping/openshift-ping-kube@1.0.0.Beta5-swarm-1
+- pkg:maven/org.projectodd.openshift.ping/openshift-ping-kube@1.0.0.Beta5-swarm-1?classifier=sources

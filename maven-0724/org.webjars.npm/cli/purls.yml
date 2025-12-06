@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/cli@0.7.1
+- pkg:maven/org.webjars.npm/cli@0.7.1?classifier=sources

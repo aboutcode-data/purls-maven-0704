@@ -1,0 +1,4 @@
+- pkg:maven/com.lge.developer/qpair-apis@1.0.0
+- pkg:maven/com.lge.developer/qpair-apis@1.0.0?classifier=sources
+- pkg:maven/com.lge.developer/qpair-apis@2.0.0
+- pkg:maven/com.lge.developer/qpair-apis@2.0.0?classifier=sources

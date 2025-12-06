@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.airavata/app-catalog-cpi@0.13
+- pkg:maven/org.apache.airavata/app-catalog-cpi@0.13?classifier=sources
+- pkg:maven/org.apache.airavata/app-catalog-cpi@0.14
+- pkg:maven/org.apache.airavata/app-catalog-cpi@0.14?classifier=sources

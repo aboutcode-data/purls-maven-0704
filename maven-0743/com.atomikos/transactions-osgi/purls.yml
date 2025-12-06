@@ -14,3 +14,5 @@
 - pkg:maven/com.atomikos/transactions-osgi@3.9.2?classifier=sources
 - pkg:maven/com.atomikos/transactions-osgi@3.9.3
 - pkg:maven/com.atomikos/transactions-osgi@3.9.3?classifier=sources
+- pkg:maven/com.atomikos/transactions-osgi@4.0.0M4
+- pkg:maven/com.atomikos/transactions-osgi@4.0.0M4?classifier=sources

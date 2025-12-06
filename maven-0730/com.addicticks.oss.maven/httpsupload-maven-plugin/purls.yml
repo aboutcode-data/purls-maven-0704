@@ -1,0 +1,6 @@
+- pkg:maven/com.addicticks.oss.maven/httpsupload-maven-plugin@0.9.2
+- pkg:maven/com.addicticks.oss.maven/httpsupload-maven-plugin@0.9.2?classifier=sources
+- pkg:maven/com.addicticks.oss.maven/httpsupload-maven-plugin@1.0.0
+- pkg:maven/com.addicticks.oss.maven/httpsupload-maven-plugin@1.0.0?classifier=sources
+- pkg:maven/com.addicticks.oss.maven/httpsupload-maven-plugin@1.1.0
+- pkg:maven/com.addicticks.oss.maven/httpsupload-maven-plugin@1.1.0?classifier=sources

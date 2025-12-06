@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.odftoolkit/xslt-runner@1.2.1-incubating
 - pkg:maven/org.apache.odftoolkit/xslt-runner@1.2.1-incubating?classifier=sources
+- pkg:maven/org.apache.odftoolkit/xslt-runner@1.2.3-incubating
+- pkg:maven/org.apache.odftoolkit/xslt-runner@1.2.3-incubating?classifier=sources

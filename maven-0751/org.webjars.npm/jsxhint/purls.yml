@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/jsxhint@0.15.1
+- pkg:maven/org.webjars.npm/jsxhint@0.15.1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.carewebframework/org.carewebframework.rpms.ui.core@1.1.0
+- pkg:maven/org.carewebframework/org.carewebframework.rpms.ui.core@1.1.0?classifier=sources
+- pkg:maven/org.carewebframework/org.carewebframework.rpms.ui.core@1.1.1
+- pkg:maven/org.carewebframework/org.carewebframework.rpms.ui.core@1.1.1?classifier=sources
+- pkg:maven/org.carewebframework/org.carewebframework.rpms.ui.core@1.2.1
+- pkg:maven/org.carewebframework/org.carewebframework.rpms.ui.core@1.2.1?classifier=sources

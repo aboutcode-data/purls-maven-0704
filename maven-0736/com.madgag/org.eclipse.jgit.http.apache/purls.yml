@@ -1,0 +1,4 @@
+- pkg:maven/com.madgag/org.eclipse.jgit.http.apache@3.4.0.1.0-UNOFFICIAL-ROBERTO-RELEASE
+- pkg:maven/com.madgag/org.eclipse.jgit.http.apache@3.4.0.1.0-UNOFFICIAL-ROBERTO-RELEASE?classifier=sources
+- pkg:maven/com.madgag/org.eclipse.jgit.http.apache@3.4.0.1.1-UNOFFICIAL-ROBERTO-RELEASE
+- pkg:maven/com.madgag/org.eclipse.jgit.http.apache@3.4.0.1.1-UNOFFICIAL-ROBERTO-RELEASE?classifier=sources

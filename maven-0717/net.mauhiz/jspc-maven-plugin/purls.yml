@@ -1,0 +1,4 @@
+- pkg:maven/net.mauhiz/jspc-maven-plugin@7.0.54
+- pkg:maven/net.mauhiz/jspc-maven-plugin@7.0.54?classifier=sources
+- pkg:maven/net.mauhiz/jspc-maven-plugin@7.0.61
+- pkg:maven/net.mauhiz/jspc-maven-plugin@7.0.61?classifier=sources

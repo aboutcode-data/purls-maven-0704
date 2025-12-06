@@ -1,0 +1,4 @@
+- pkg:maven/org.nd4j/jcurand-osx@6.0
+- pkg:maven/org.nd4j/jcurand-osx@6.0?classifier=sources
+- pkg:maven/org.nd4j/jcurand-osx@6.5
+- pkg:maven/org.nd4j/jcurand-osx@6.5?classifier=sources

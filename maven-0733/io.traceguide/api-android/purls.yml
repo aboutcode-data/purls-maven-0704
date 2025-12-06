@@ -1,0 +1,7 @@
+- pkg:maven/io.traceguide/api-android@0.0.1?type=aar
+- pkg:maven/io.traceguide/api-android@0.0.2?type=aar
+- pkg:maven/io.traceguide/api-android@0.0.3?type=aar
+- pkg:maven/io.traceguide/api-android@0.0.4?type=aar
+- pkg:maven/io.traceguide/api-android@0.0.5?type=aar
+- pkg:maven/io.traceguide/api-android@1.0.1?type=aar
+- pkg:maven/io.traceguide/api-android@1.0.2?type=aar

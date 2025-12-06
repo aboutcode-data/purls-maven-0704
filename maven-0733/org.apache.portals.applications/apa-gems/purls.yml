@@ -3,3 +3,6 @@
 - pkg:maven/org.apache.portals.applications/apa-gems@1.1
 - pkg:maven/org.apache.portals.applications/apa-gems@1.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.portals.applications/apa-gems@1.1?classifier=sources
+- pkg:maven/org.apache.portals.applications/apa-gems@1.2
+- pkg:maven/org.apache.portals.applications/apa-gems@1.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.portals.applications/apa-gems@1.2?classifier=sources
