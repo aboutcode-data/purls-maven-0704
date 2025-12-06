@@ -35,6 +35,16 @@
 - pkg:maven/com.alexecollins.docker/docker-java-orchestration-plugin-boot2docker@2.11.19?classifier=sources
 - pkg:maven/com.alexecollins.docker/docker-java-orchestration-plugin-boot2docker@2.11.1?classifier=sources
 - pkg:maven/com.alexecollins.docker/docker-java-orchestration-plugin-boot2docker@2.11.2
+- pkg:maven/com.alexecollins.docker/docker-java-orchestration-plugin-boot2docker@2.11.24
+- pkg:maven/com.alexecollins.docker/docker-java-orchestration-plugin-boot2docker@2.11.24?classifier=sources
+- pkg:maven/com.alexecollins.docker/docker-java-orchestration-plugin-boot2docker@2.11.25
+- pkg:maven/com.alexecollins.docker/docker-java-orchestration-plugin-boot2docker@2.11.25?classifier=sources
+- pkg:maven/com.alexecollins.docker/docker-java-orchestration-plugin-boot2docker@2.11.26
+- pkg:maven/com.alexecollins.docker/docker-java-orchestration-plugin-boot2docker@2.11.26?classifier=sources
+- pkg:maven/com.alexecollins.docker/docker-java-orchestration-plugin-boot2docker@2.11.27
+- pkg:maven/com.alexecollins.docker/docker-java-orchestration-plugin-boot2docker@2.11.27?classifier=sources
+- pkg:maven/com.alexecollins.docker/docker-java-orchestration-plugin-boot2docker@2.11.28
+- pkg:maven/com.alexecollins.docker/docker-java-orchestration-plugin-boot2docker@2.11.28?classifier=sources
 - pkg:maven/com.alexecollins.docker/docker-java-orchestration-plugin-boot2docker@2.11.2?classifier=sources
 - pkg:maven/com.alexecollins.docker/docker-java-orchestration-plugin-boot2docker@2.11.3
 - pkg:maven/com.alexecollins.docker/docker-java-orchestration-plugin-boot2docker@2.11.3?classifier=sources

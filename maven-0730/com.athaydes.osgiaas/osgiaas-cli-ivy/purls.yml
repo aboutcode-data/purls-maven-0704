@@ -1,0 +1,4 @@
+- pkg:maven/com.athaydes.osgiaas/osgiaas-cli-ivy@0.6
+- pkg:maven/com.athaydes.osgiaas/osgiaas-cli-ivy@0.6?classifier=sources
+- pkg:maven/com.athaydes.osgiaas/osgiaas-cli-ivy@0.7
+- pkg:maven/com.athaydes.osgiaas/osgiaas-cli-ivy@0.7?classifier=sources

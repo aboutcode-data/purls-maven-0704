@@ -2,3 +2,7 @@
 - pkg:maven/com.sdl.web/xo-client-compatible@8.1.1?classifier=sources
 - pkg:maven/com.sdl.web/xo-client-compatible@8.2.0
 - pkg:maven/com.sdl.web/xo-client-compatible@8.2.0?classifier=sources
+- pkg:maven/com.sdl.web/xo-client-compatible@8.3.0
+- pkg:maven/com.sdl.web/xo-client-compatible@8.3.0?classifier=sources
+- pkg:maven/com.sdl.web/xo-client-compatible@8.5.0
+- pkg:maven/com.sdl.web/xo-client-compatible@8.5.0?classifier=sources

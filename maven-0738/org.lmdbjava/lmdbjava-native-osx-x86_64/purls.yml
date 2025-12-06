@@ -4,3 +4,7 @@
 - pkg:maven/org.lmdbjava/lmdbjava-native-osx-x86_64@0.9.18-2?classifier=sources
 - pkg:maven/org.lmdbjava/lmdbjava-native-osx-x86_64@0.9.18-3
 - pkg:maven/org.lmdbjava/lmdbjava-native-osx-x86_64@0.9.18-3?classifier=sources
+- pkg:maven/org.lmdbjava/lmdbjava-native-osx-x86_64@0.9.19-1
+- pkg:maven/org.lmdbjava/lmdbjava-native-osx-x86_64@0.9.19-1?classifier=sources
+- pkg:maven/org.lmdbjava/lmdbjava-native-osx-x86_64@0.9.20-2
+- pkg:maven/org.lmdbjava/lmdbjava-native-osx-x86_64@0.9.20-2?classifier=sources

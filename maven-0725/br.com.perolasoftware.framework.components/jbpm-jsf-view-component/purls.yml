@@ -1,0 +1,2 @@
+- pkg:maven/br.com.perolasoftware.framework.components/jbpm-jsf-view-component@0.0.5
+- pkg:maven/br.com.perolasoftware.framework.components/jbpm-jsf-view-component@0.0.5?classifier=sources

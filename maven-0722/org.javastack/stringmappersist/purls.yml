@@ -1,0 +1,2 @@
+- pkg:maven/org.javastack/stringmappersist@1.0.0
+- pkg:maven/org.javastack/stringmappersist@1.0.0?classifier=sources

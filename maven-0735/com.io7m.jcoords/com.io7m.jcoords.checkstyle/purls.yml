@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.jcoords/com.io7m.jcoords.checkstyle@0.2.0
+- pkg:maven/com.io7m.jcoords/com.io7m.jcoords.checkstyle@0.2.0?classifier=sources

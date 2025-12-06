@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/cuid@1.2.4
+- pkg:maven/org.webjars.npm/cuid@1.2.4?classifier=sources

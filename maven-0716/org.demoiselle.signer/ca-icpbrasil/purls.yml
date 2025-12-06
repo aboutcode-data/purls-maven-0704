@@ -1,0 +1,2 @@
+- pkg:maven/org.demoiselle.signer/ca-icpbrasil@2.0.0-BETA1
+- pkg:maven/org.demoiselle.signer/ca-icpbrasil@2.0.0-BETA1?classifier=sources

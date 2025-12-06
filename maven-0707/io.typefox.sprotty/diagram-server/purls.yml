@@ -1,0 +1,2 @@
+- pkg:maven/io.typefox.sprotty/diagram-server@0.1.0
+- pkg:maven/io.typefox.sprotty/diagram-server@0.1.0?classifier=sources

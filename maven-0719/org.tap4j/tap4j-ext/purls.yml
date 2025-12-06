@@ -22,3 +22,5 @@
 - pkg:maven/org.tap4j/tap4j-ext@4.1?classifier=sources
 - pkg:maven/org.tap4j/tap4j-ext@4.2.0
 - pkg:maven/org.tap4j/tap4j-ext@4.2.0?classifier=sources
+- pkg:maven/org.tap4j/tap4j-ext@4.2.1
+- pkg:maven/org.tap4j/tap4j-ext@4.2.1?classifier=sources

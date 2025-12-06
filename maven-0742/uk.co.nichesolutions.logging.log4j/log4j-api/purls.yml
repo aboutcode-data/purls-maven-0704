@@ -1,0 +1,2 @@
+- pkg:maven/uk.co.nichesolutions.logging.log4j/log4j-api@2.6.3-CUSTOM
+- pkg:maven/uk.co.nichesolutions.logging.log4j/log4j-api@2.6.3-CUSTOM?classifier=sources

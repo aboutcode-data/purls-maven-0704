@@ -12,3 +12,5 @@
 - pkg:maven/com.savoirtech.aetos/features@3.0.8.2?classifier=sources
 - pkg:maven/com.savoirtech.aetos/features@4.0.4.0
 - pkg:maven/com.savoirtech.aetos/features@4.0.4.0?classifier=sources
+- pkg:maven/com.savoirtech.aetos/features@4.1.1.0
+- pkg:maven/com.savoirtech.aetos/features@4.1.1.0?classifier=sources

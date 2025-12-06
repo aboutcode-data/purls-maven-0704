@@ -1,0 +1,8 @@
+- pkg:maven/uk.co.omega-prime/btreemap@1.0.0
+- pkg:maven/uk.co.omega-prime/btreemap@1.0.0-5%2Bg5d6f07c
+- pkg:maven/uk.co.omega-prime/btreemap@1.0.0-5%2Bg5d6f07c?classifier=sources
+- pkg:maven/uk.co.omega-prime/btreemap@1.0.0?classifier=sources
+- pkg:maven/uk.co.omega-prime/btreemap@1.0.1
+- pkg:maven/uk.co.omega-prime/btreemap@1.0.1?classifier=sources
+- pkg:maven/uk.co.omega-prime/btreemap@1.1.0
+- pkg:maven/uk.co.omega-prime/btreemap@1.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.orienteer.wicket-bpmn-io/wicket-bpmn-io@1.0
+- pkg:maven/org.orienteer.wicket-bpmn-io/wicket-bpmn-io@1.0?classifier=sources

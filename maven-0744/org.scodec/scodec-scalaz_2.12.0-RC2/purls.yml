@@ -1,0 +1,4 @@
+- pkg:maven/org.scodec/scodec-scalaz_2.12.0-RC2@1.4.0
+- pkg:maven/org.scodec/scodec-scalaz_2.12.0-RC2@1.4.0?classifier=sources
+- pkg:maven/org.scodec/scodec-scalaz_2.12.0-RC2@1.4.0a
+- pkg:maven/org.scodec/scodec-scalaz_2.12.0-RC2@1.4.0a?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.atnos/eff-cats-monix_sjs0.6_2.12@2.0.0-RC25
+- pkg:maven/org.atnos/eff-cats-monix_sjs0.6_2.12@2.0.0-RC25?classifier=sources
+- pkg:maven/org.atnos/eff-cats-monix_sjs0.6_2.12@2.0.0-RC26
+- pkg:maven/org.atnos/eff-cats-monix_sjs0.6_2.12@2.0.0-RC26?classifier=sources

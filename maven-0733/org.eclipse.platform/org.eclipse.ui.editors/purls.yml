@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.editors@3.10.1
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.editors@3.10.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/im.yanchen/krb5-auth-passwd_2.11@1.0
+- pkg:maven/im.yanchen/krb5-auth-passwd_2.11@1.0?classifier=sources

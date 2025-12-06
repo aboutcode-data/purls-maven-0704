@@ -1,0 +1,2 @@
+- pkg:maven/org.wildfly.camel/example-camel-jms-tx@4.7.0?classifier=sources
+- pkg:maven/org.wildfly.camel/example-camel-jms-tx@4.7.0?type=war

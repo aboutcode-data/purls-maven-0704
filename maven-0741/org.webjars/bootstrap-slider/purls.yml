@@ -2,3 +2,4 @@
 - pkg:maven/org.webjars/bootstrap-slider@4.0.8
 - pkg:maven/org.webjars/bootstrap-slider@4.8.3
 - pkg:maven/org.webjars/bootstrap-slider@5.3.1
+- pkg:maven/org.webjars/bootstrap-slider@9.7.3

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/slidebars@2.0.2
+- pkg:maven/org.webjars.bower/slidebars@2.0.2?classifier=sources

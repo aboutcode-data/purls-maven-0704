@@ -1,0 +1,2 @@
+- pkg:maven/org.osgi/osgi.enroute.stackexchange.pagedown.webresource@1.1.1
+- pkg:maven/org.osgi/osgi.enroute.stackexchange.pagedown.webresource@1.1.1?classifier=sources

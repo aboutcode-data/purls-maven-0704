@@ -1,0 +1,2 @@
+- pkg:maven/cn.dreampie/resty-httpclient@1.3.0.RELEASE
+- pkg:maven/cn.dreampie/resty-httpclient@1.3.0.RELEASE?classifier=sources

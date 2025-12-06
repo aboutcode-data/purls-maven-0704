@@ -1,0 +1,2 @@
+- pkg:maven/fr.psug.avro/avro-lenses_2.10@0.1.0
+- pkg:maven/fr.psug.avro/avro-lenses_2.10@0.1.0?classifier=sources

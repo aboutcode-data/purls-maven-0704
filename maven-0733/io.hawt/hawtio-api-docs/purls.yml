@@ -42,4 +42,9 @@
 - pkg:maven/io.hawt/hawtio-api-docs@1.4.63?type=war
 - pkg:maven/io.hawt/hawtio-api-docs@1.4.64?type=war
 - pkg:maven/io.hawt/hawtio-api-docs@1.4.65?type=war
+- pkg:maven/io.hawt/hawtio-api-docs@1.4.66?type=war
+- pkg:maven/io.hawt/hawtio-api-docs@1.4.67?type=war
+- pkg:maven/io.hawt/hawtio-api-docs@1.4.68?type=war
+- pkg:maven/io.hawt/hawtio-api-docs@1.5.0?type=war
+- pkg:maven/io.hawt/hawtio-api-docs@1.5.1?type=war
 - pkg:maven/io.hawt/hawtio-api-docs@2.0.0?type=war

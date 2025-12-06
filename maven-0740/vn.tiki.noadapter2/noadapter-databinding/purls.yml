@@ -1,0 +1,2 @@
+- pkg:maven/vn.tiki.noadapter2/noadapter-databinding@2.0.1?classifier=sources
+- pkg:maven/vn.tiki.noadapter2/noadapter-databinding@2.0.1?type=aar

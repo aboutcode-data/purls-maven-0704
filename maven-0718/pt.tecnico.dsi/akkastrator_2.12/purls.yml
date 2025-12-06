@@ -1,0 +1,2 @@
+- pkg:maven/pt.tecnico.dsi/akkastrator_2.12@0.8.0
+- pkg:maven/pt.tecnico.dsi/akkastrator_2.12@0.8.0?classifier=sources

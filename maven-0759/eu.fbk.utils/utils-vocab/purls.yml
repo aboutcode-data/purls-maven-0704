@@ -1,2 +1,4 @@
 - pkg:maven/eu.fbk.utils/utils-vocab@2.0
 - pkg:maven/eu.fbk.utils/utils-vocab@2.0?classifier=sources
+- pkg:maven/eu.fbk.utils/utils-vocab@3.0
+- pkg:maven/eu.fbk.utils/utils-vocab@3.0?classifier=sources

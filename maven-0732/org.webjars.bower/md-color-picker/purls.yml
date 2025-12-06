@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/md-color-picker@0.2.6
 - pkg:maven/org.webjars.bower/md-color-picker@0.2.6?classifier=sources
+- pkg:maven/org.webjars.bower/md-color-picker@1.0.0-pre-alpha.3
+- pkg:maven/org.webjars.bower/md-color-picker@1.0.0-pre-alpha.3?classifier=sources

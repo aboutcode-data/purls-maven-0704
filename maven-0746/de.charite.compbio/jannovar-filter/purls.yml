@@ -4,3 +4,7 @@
 - pkg:maven/de.charite.compbio/jannovar-filter@0.15?classifier=sources
 - pkg:maven/de.charite.compbio/jannovar-filter@0.16
 - pkg:maven/de.charite.compbio/jannovar-filter@0.16?classifier=sources
+- pkg:maven/de.charite.compbio/jannovar-filter@0.21
+- pkg:maven/de.charite.compbio/jannovar-filter@0.21?classifier=sources
+- pkg:maven/de.charite.compbio/jannovar-filter@0.22
+- pkg:maven/de.charite.compbio/jannovar-filter@0.22?classifier=sources

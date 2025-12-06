@@ -79,3 +79,5 @@
 - pkg:maven/org.nuiton/nuiton-validator@3.0-rc-2?classifier=sources
 - pkg:maven/org.nuiton/nuiton-validator@3.0.1
 - pkg:maven/org.nuiton/nuiton-validator@3.0?classifier=sources
+- pkg:maven/org.nuiton/nuiton-validator@3.1
+- pkg:maven/org.nuiton/nuiton-validator@3.1?classifier=sources

@@ -14,3 +14,7 @@
 - pkg:maven/se.jguru.nazgul.core.algorithms.tree.model/nazgul-core-algorithms-tree-model@2.0.0?classifier=sources
 - pkg:maven/se.jguru.nazgul.core.algorithms.tree.model/nazgul-core-algorithms-tree-model@2.1.0
 - pkg:maven/se.jguru.nazgul.core.algorithms.tree.model/nazgul-core-algorithms-tree-model@2.1.0?classifier=sources
+- pkg:maven/se.jguru.nazgul.core.algorithms.tree.model/nazgul-core-algorithms-tree-model@2.2.0
+- pkg:maven/se.jguru.nazgul.core.algorithms.tree.model/nazgul-core-algorithms-tree-model@2.2.0?classifier=sources
+- pkg:maven/se.jguru.nazgul.core.algorithms.tree.model/nazgul-core-algorithms-tree-model@3.0.0
+- pkg:maven/se.jguru.nazgul.core.algorithms.tree.model/nazgul-core-algorithms-tree-model@3.0.0?classifier=sources

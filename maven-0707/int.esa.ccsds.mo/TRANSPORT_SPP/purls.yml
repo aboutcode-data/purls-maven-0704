@@ -1,0 +1,2 @@
+- pkg:maven/int.esa.ccsds.mo/TRANSPORT_SPP@1.0
+- pkg:maven/int.esa.ccsds.mo/TRANSPORT_SPP@1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.get-coursier/coursier-extra_2.11@1.0.0-RC3
+- pkg:maven/io.get-coursier/coursier-extra_2.11@1.0.0-RC3?classifier=sources

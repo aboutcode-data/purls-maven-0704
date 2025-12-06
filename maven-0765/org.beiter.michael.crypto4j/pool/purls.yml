@@ -1,0 +1,2 @@
+- pkg:maven/org.beiter.michael.crypto4j/pool@1.0
+- pkg:maven/org.beiter.michael.crypto4j/pool@1.0?classifier=sources

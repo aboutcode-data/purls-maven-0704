@@ -2,3 +2,5 @@
 - pkg:maven/net.stickycode.stereotype/sticky-stereotype-component@2.1?classifier=sources
 - pkg:maven/net.stickycode.stereotype/sticky-stereotype-component@2.2
 - pkg:maven/net.stickycode.stereotype/sticky-stereotype-component@2.2?classifier=sources
+- pkg:maven/net.stickycode.stereotype/sticky-stereotype-component@3.1
+- pkg:maven/net.stickycode.stereotype/sticky-stereotype-component@3.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.cedarsoft/roach-motel@8.2.0
+- pkg:maven/com.cedarsoft/roach-motel@8.2.0?classifier=sources

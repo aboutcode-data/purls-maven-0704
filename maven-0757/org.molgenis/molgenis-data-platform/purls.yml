@@ -1,0 +1,16 @@
+- pkg:maven/org.molgenis/molgenis-data-platform@2.0.0
+- pkg:maven/org.molgenis/molgenis-data-platform@2.0.0?classifier=sources
+- pkg:maven/org.molgenis/molgenis-data-platform@2.0.1
+- pkg:maven/org.molgenis/molgenis-data-platform@2.0.1?classifier=sources
+- pkg:maven/org.molgenis/molgenis-data-platform@2.1.0
+- pkg:maven/org.molgenis/molgenis-data-platform@2.1.0?classifier=sources
+- pkg:maven/org.molgenis/molgenis-data-platform@3.0.0
+- pkg:maven/org.molgenis/molgenis-data-platform@3.0.0?classifier=sources
+- pkg:maven/org.molgenis/molgenis-data-platform@3.0.1
+- pkg:maven/org.molgenis/molgenis-data-platform@3.0.1?classifier=sources
+- pkg:maven/org.molgenis/molgenis-data-platform@3.0.2
+- pkg:maven/org.molgenis/molgenis-data-platform@3.0.2?classifier=sources
+- pkg:maven/org.molgenis/molgenis-data-platform@4.0.0
+- pkg:maven/org.molgenis/molgenis-data-platform@4.0.0?classifier=sources
+- pkg:maven/org.molgenis/molgenis-data-platform@4.1.0
+- pkg:maven/org.molgenis/molgenis-data-platform@4.1.0?classifier=sources

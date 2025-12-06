@@ -1,0 +1,9 @@
+- pkg:maven/org.jboss.as/patch-gen@2.0.1.Alpha1?classifier=sources
+- pkg:maven/org.jboss.as/patch-gen@2.0.1.Alpha2?classifier=sources
+- pkg:maven/org.jboss.as/patch-gen@2.0.1.Alpha2?type=zip
+- pkg:maven/org.jboss.as/patch-gen@2.0.1.Alpha3?classifier=sources
+- pkg:maven/org.jboss.as/patch-gen@2.0.1.Alpha3?type=zip
+- pkg:maven/org.jboss.as/patch-gen@2.0.1.Alpha4?classifier=sources
+- pkg:maven/org.jboss.as/patch-gen@2.0.1.Alpha4?type=zip
+- pkg:maven/org.jboss.as/patch-gen@2.0.1.Alpha5?classifier=sources
+- pkg:maven/org.jboss.as/patch-gen@2.0.1.Alpha5?type=zip

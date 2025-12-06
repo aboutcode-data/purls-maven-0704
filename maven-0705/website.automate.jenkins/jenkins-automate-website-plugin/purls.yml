@@ -4,3 +4,4 @@
 - pkg:maven/website.automate.jenkins/jenkins-automate-website-plugin@0.6.0?classifier=sources
 - pkg:maven/website.automate.jenkins/jenkins-automate-website-plugin@0.7.0?classifier=sources
 - pkg:maven/website.automate.jenkins/jenkins-automate-website-plugin@1.0.0?classifier=sources
+- pkg:maven/website.automate.jenkins/jenkins-automate-website-plugin@1.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/fi.linuxbox.upcloud/groovy-upcloud-json-jackson@0.0.4
+- pkg:maven/fi.linuxbox.upcloud/groovy-upcloud-json-jackson@0.0.4?classifier=sources

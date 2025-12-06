@@ -3,3 +3,6 @@
 - pkg:maven/org.jboss.spec/jboss-javaee-7.0@1.0.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.spec/jboss-javaee-7.0@1.0.1.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.spec/jboss-javaee-7.0@1.0.3.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.spec/jboss-javaee-7.0@1.0.4.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.spec/jboss-javaee-7.0@1.1.0.Beta1?classifier=source-release&type=zip
+- pkg:maven/org.jboss.spec/jboss-javaee-7.0@1.1.0.Final?classifier=source-release&type=zip

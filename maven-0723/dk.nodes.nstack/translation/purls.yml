@@ -6,3 +6,5 @@
 - pkg:maven/dk.nodes.nstack/translation@0.35
 - pkg:maven/dk.nodes.nstack/translation@0.35?classifier=sources
 - pkg:maven/dk.nodes.nstack/translation@0.3?classifier=sources
+- pkg:maven/dk.nodes.nstack/translation@0.5
+- pkg:maven/dk.nodes.nstack/translation@0.5?classifier=sources

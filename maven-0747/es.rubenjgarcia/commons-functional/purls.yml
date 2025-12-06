@@ -1,0 +1,4 @@
+- pkg:maven/es.rubenjgarcia/commons-functional@0.1.0
+- pkg:maven/es.rubenjgarcia/commons-functional@0.1.0?classifier=sources
+- pkg:maven/es.rubenjgarcia/commons-functional@0.2.0
+- pkg:maven/es.rubenjgarcia/commons-functional@0.2.0?classifier=sources

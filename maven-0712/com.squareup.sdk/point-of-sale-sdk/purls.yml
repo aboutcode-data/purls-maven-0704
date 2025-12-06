@@ -1,0 +1,4 @@
+- pkg:maven/com.squareup.sdk/point-of-sale-sdk@2.0-alpha?classifier=sources
+- pkg:maven/com.squareup.sdk/point-of-sale-sdk@2.0-alpha?type=aar
+- pkg:maven/com.squareup.sdk/point-of-sale-sdk@2.0?classifier=sources
+- pkg:maven/com.squareup.sdk/point-of-sale-sdk@2.0?type=aar

@@ -19,3 +19,5 @@
 - pkg:maven/org.graylog/graylog-plugin-archetype@2.1.0-rc.1?classifier=sources
 - pkg:maven/org.graylog/graylog-plugin-archetype@2.1.0?classifier=sources
 - pkg:maven/org.graylog/graylog-plugin-archetype@2.1.1?classifier=sources
+- pkg:maven/org.graylog/graylog-plugin-archetype@2.1.2?classifier=sources
+- pkg:maven/org.graylog/graylog-plugin-archetype@2.2.0-alpha.1?classifier=sources

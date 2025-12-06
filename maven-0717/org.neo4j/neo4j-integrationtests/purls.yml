@@ -1,0 +1,8 @@
+- pkg:maven/org.neo4j/neo4j-integrationtests@2.3.11
+- pkg:maven/org.neo4j/neo4j-integrationtests@2.3.11?classifier=sources
+- pkg:maven/org.neo4j/neo4j-integrationtests@3.1.5
+- pkg:maven/org.neo4j/neo4j-integrationtests@3.1.5?classifier=sources
+- pkg:maven/org.neo4j/neo4j-integrationtests@3.2.1
+- pkg:maven/org.neo4j/neo4j-integrationtests@3.2.1?classifier=sources
+- pkg:maven/org.neo4j/neo4j-integrationtests@3.3.0-alpha01
+- pkg:maven/org.neo4j/neo4j-integrationtests@3.3.0-alpha01?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.paissad.tools.reqcoco.maven/reqcoco-maven-plugin@1.0.0
+- pkg:maven/net.paissad.tools.reqcoco.maven/reqcoco-maven-plugin@1.0.0?classifier=sources

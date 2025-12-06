@@ -1,3 +1,7 @@
+- pkg:maven/org.webjars.npm/es6-shim@0.22.0
+- pkg:maven/org.webjars.npm/es6-shim@0.22.0?classifier=sources
+- pkg:maven/org.webjars.npm/es6-shim@0.22.2
+- pkg:maven/org.webjars.npm/es6-shim@0.22.2?classifier=sources
 - pkg:maven/org.webjars.npm/es6-shim@0.33.13
 - pkg:maven/org.webjars.npm/es6-shim@0.33.13?classifier=sources
 - pkg:maven/org.webjars.npm/es6-shim@0.33.3
@@ -12,3 +16,5 @@
 - pkg:maven/org.webjars.npm/es6-shim@0.35.0?classifier=sources
 - pkg:maven/org.webjars.npm/es6-shim@0.35.1
 - pkg:maven/org.webjars.npm/es6-shim@0.35.1?classifier=sources
+- pkg:maven/org.webjars.npm/es6-shim@0.35.3
+- pkg:maven/org.webjars.npm/es6-shim@0.35.3?classifier=sources

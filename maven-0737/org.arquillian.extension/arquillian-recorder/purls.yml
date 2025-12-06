@@ -12,3 +12,5 @@
 - pkg:maven/org.arquillian.extension/arquillian-recorder@1.1.1.Final?classifier=source-release&type=zip
 - pkg:maven/org.arquillian.extension/arquillian-recorder@1.1.2.Final?classifier=source-release&type=zip
 - pkg:maven/org.arquillian.extension/arquillian-recorder@1.1.4.Final?classifier=source-release&type=zip
+- pkg:maven/org.arquillian.extension/arquillian-recorder@1.1.5.Final?classifier=source-release&type=zip
+- pkg:maven/org.arquillian.extension/arquillian-recorder@1.1.6.Final?classifier=source-release&type=zip

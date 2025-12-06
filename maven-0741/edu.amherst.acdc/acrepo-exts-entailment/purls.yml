@@ -1,0 +1,2 @@
+- pkg:maven/edu.amherst.acdc/acrepo-exts-entailment@1.1.0
+- pkg:maven/edu.amherst.acdc/acrepo-exts-entailment@1.1.0?classifier=sources

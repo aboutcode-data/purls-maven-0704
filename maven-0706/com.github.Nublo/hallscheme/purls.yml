@@ -2,3 +2,5 @@
 - pkg:maven/com.github.Nublo/hallscheme@1.0.0?type=aar
 - pkg:maven/com.github.Nublo/hallscheme@1.1.0?classifier=sources
 - pkg:maven/com.github.Nublo/hallscheme@1.1.0?type=aar
+- pkg:maven/com.github.Nublo/hallscheme@1.1.1?classifier=sources
+- pkg:maven/com.github.Nublo/hallscheme@1.1.1?type=aar

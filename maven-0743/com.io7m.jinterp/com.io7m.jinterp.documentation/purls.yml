@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.jinterp/com.io7m.jinterp.documentation@1.0.2?classifier=sources
+- pkg:maven/com.io7m.jinterp/com.io7m.jinterp.documentation@1.0.2?type=zip

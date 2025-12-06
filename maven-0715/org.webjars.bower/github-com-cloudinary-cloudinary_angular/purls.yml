@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bower/github-com-cloudinary-cloudinary_angular@0.1.1
+- pkg:maven/org.webjars.bower/github-com-cloudinary-cloudinary_angular@0.1.1?classifier=sources
+- pkg:maven/org.webjars.bower/github-com-cloudinary-cloudinary_angular@1.0.0
+- pkg:maven/org.webjars.bower/github-com-cloudinary-cloudinary_angular@1.0.0?classifier=sources

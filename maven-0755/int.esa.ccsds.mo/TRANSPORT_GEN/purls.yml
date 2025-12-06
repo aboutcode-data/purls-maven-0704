@@ -9,4 +9,6 @@
 - pkg:maven/int.esa.ccsds.mo/TRANSPORT_GEN@1.1.2?classifier=sources
 - pkg:maven/int.esa.ccsds.mo/TRANSPORT_GEN@1.1.3
 - pkg:maven/int.esa.ccsds.mo/TRANSPORT_GEN@1.1.3?classifier=sources
+- pkg:maven/int.esa.ccsds.mo/TRANSPORT_GEN@1.1.4
+- pkg:maven/int.esa.ccsds.mo/TRANSPORT_GEN@1.1.4?classifier=sources
 - pkg:maven/int.esa.ccsds.mo/TRANSPORT_GEN@1.1?classifier=sources

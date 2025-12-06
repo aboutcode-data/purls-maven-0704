@@ -1,0 +1,2 @@
+- pkg:maven/org.auroboros/signal-z_2.11@0.1.0
+- pkg:maven/org.auroboros/signal-z_2.11@0.1.0?classifier=sources

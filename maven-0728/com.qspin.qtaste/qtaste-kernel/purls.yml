@@ -10,3 +10,5 @@
 - pkg:maven/com.qspin.qtaste/qtaste-kernel@2.2.2?classifier=sources
 - pkg:maven/com.qspin.qtaste/qtaste-kernel@2.3.0
 - pkg:maven/com.qspin.qtaste/qtaste-kernel@2.3.0?classifier=sources
+- pkg:maven/com.qspin.qtaste/qtaste-kernel@3.0.0
+- pkg:maven/com.qspin.qtaste/qtaste-kernel@3.0.0?classifier=sources

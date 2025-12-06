@@ -4,3 +4,9 @@
 - pkg:maven/org.seedstack.addons.spring/spring-bridge-batch@2.2.0?classifier=sources
 - pkg:maven/org.seedstack.addons.spring/spring-bridge-batch@2.2.1
 - pkg:maven/org.seedstack.addons.spring/spring-bridge-batch@2.2.1?classifier=sources
+- pkg:maven/org.seedstack.addons.spring/spring-bridge-batch@3.0.0
+- pkg:maven/org.seedstack.addons.spring/spring-bridge-batch@3.0.0?classifier=sources
+- pkg:maven/org.seedstack.addons.spring/spring-bridge-batch@3.0.1
+- pkg:maven/org.seedstack.addons.spring/spring-bridge-batch@3.0.1?classifier=sources
+- pkg:maven/org.seedstack.addons.spring/spring-bridge-batch@3.1.0
+- pkg:maven/org.seedstack.addons.spring/spring-bridge-batch@3.1.0?classifier=sources

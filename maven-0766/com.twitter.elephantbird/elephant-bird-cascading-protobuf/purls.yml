@@ -10,5 +10,7 @@
 - pkg:maven/com.twitter.elephantbird/elephant-bird-cascading-protobuf@4.14-RC4
 - pkg:maven/com.twitter.elephantbird/elephant-bird-cascading-protobuf@4.14-RC4?classifier=sources
 - pkg:maven/com.twitter.elephantbird/elephant-bird-cascading-protobuf@4.14?classifier=sources
+- pkg:maven/com.twitter.elephantbird/elephant-bird-cascading-protobuf@4.15
 - pkg:maven/com.twitter.elephantbird/elephant-bird-cascading-protobuf@4.15-RC1
 - pkg:maven/com.twitter.elephantbird/elephant-bird-cascading-protobuf@4.15-RC1?classifier=sources
+- pkg:maven/com.twitter.elephantbird/elephant-bird-cascading-protobuf@4.15?classifier=sources

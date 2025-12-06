@@ -1,0 +1,2 @@
+- pkg:maven/co.mailtarget/midtrans-snap-client@1.0
+- pkg:maven/co.mailtarget/midtrans-snap-client@1.0?classifier=sources

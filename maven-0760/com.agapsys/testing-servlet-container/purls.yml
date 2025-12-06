@@ -1,0 +1,4 @@
+- pkg:maven/com.agapsys/testing-servlet-container@0.1.0-20170322
+- pkg:maven/com.agapsys/testing-servlet-container@0.1.0-20170322?classifier=sources
+- pkg:maven/com.agapsys/testing-servlet-container@0.1.0-20170513
+- pkg:maven/com.agapsys/testing-servlet-container@0.1.0-20170513?classifier=sources

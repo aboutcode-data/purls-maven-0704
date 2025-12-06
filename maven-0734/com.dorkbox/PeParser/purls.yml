@@ -1,5 +1,7 @@
 - pkg:maven/com.dorkbox/PeParser@1.1
 - pkg:maven/com.dorkbox/PeParser@1.1?classifier=sources
+- pkg:maven/com.dorkbox/PeParser@2.10
+- pkg:maven/com.dorkbox/PeParser@2.10?classifier=sources
 - pkg:maven/com.dorkbox/PeParser@2.2
 - pkg:maven/com.dorkbox/PeParser@2.2?classifier=sources
 - pkg:maven/com.dorkbox/PeParser@2.4
@@ -10,3 +12,7 @@
 - pkg:maven/com.dorkbox/PeParser@2.6?classifier=sources
 - pkg:maven/com.dorkbox/PeParser@2.7
 - pkg:maven/com.dorkbox/PeParser@2.7?classifier=sources
+- pkg:maven/com.dorkbox/PeParser@2.8
+- pkg:maven/com.dorkbox/PeParser@2.8?classifier=sources
+- pkg:maven/com.dorkbox/PeParser@2.9
+- pkg:maven/com.dorkbox/PeParser@2.9?classifier=sources

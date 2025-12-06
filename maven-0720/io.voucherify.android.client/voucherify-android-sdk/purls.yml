@@ -1,0 +1,2 @@
+- pkg:maven/io.voucherify.android.client/voucherify-android-sdk@1.0.0?classifier=sources
+- pkg:maven/io.voucherify.android.client/voucherify-android-sdk@1.0.0?type=aar

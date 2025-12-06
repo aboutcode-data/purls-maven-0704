@@ -18,3 +18,4 @@
 - pkg:maven/org.powermock/powermock-module-test-easymock-junit4-legacy@1.6.3
 - pkg:maven/org.powermock/powermock-module-test-easymock-junit4-legacy@1.6.4
 - pkg:maven/org.powermock/powermock-module-test-easymock-junit4-legacy@1.6.5
+- pkg:maven/org.powermock/powermock-module-test-easymock-junit4-legacy@1.6.6

@@ -11,4 +11,6 @@
 - pkg:maven/tv.cntt/glokka_2.11@2.3
 - pkg:maven/tv.cntt/glokka_2.11@2.3?classifier=sources
 - pkg:maven/tv.cntt/glokka_2.11@2.4
+- pkg:maven/tv.cntt/glokka_2.11@2.4.0
+- pkg:maven/tv.cntt/glokka_2.11@2.4.0?classifier=sources
 - pkg:maven/tv.cntt/glokka_2.11@2.4?classifier=sources

@@ -1,1 +1,3 @@
 - pkg:maven/org.jaxygen/jaxygen-apibrowser-style-simple@1.0.3?type=war
+- pkg:maven/org.jaxygen/jaxygen-apibrowser-style-simple@1.0.5?type=war
+- pkg:maven/org.jaxygen/jaxygen-apibrowser-style-simple@1.0.7?type=war

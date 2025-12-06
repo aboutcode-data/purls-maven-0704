@@ -1,0 +1,6 @@
+- pkg:maven/org.jboss.weld.vertx/weld-vertx-probe@1.0.0.CR4
+- pkg:maven/org.jboss.weld.vertx/weld-vertx-probe@1.0.0.CR4?classifier=sources
+- pkg:maven/org.jboss.weld.vertx/weld-vertx-probe@1.0.0.CR5
+- pkg:maven/org.jboss.weld.vertx/weld-vertx-probe@1.0.0.CR5?classifier=sources
+- pkg:maven/org.jboss.weld.vertx/weld-vertx-probe@1.0.0.CR6
+- pkg:maven/org.jboss.weld.vertx/weld-vertx-probe@1.0.0.CR6?classifier=sources

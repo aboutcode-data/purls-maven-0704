@@ -1,0 +1,2 @@
+- pkg:maven/com.github.yaoakeji/hibatis@1.4.26
+- pkg:maven/com.github.yaoakeji/hibatis@1.4.26?classifier=sources

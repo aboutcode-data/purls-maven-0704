@@ -4,3 +4,7 @@
 - pkg:maven/eu.optique-project/r2rml-api-owlapi-bridge@0.2?classifier=sources
 - pkg:maven/eu.optique-project/r2rml-api-owlapi-bridge@0.3.0
 - pkg:maven/eu.optique-project/r2rml-api-owlapi-bridge@0.3.0?classifier=sources
+- pkg:maven/eu.optique-project/r2rml-api-owlapi-bridge@0.3.1
+- pkg:maven/eu.optique-project/r2rml-api-owlapi-bridge@0.3.1?classifier=sources
+- pkg:maven/eu.optique-project/r2rml-api-owlapi-bridge@0.4.0
+- pkg:maven/eu.optique-project/r2rml-api-owlapi-bridge@0.4.0?classifier=sources

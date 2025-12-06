@@ -8,3 +8,5 @@
 - pkg:maven/net.sourceforge.ctakesresources/ctakes-resources-rxnorm-hsqldb-2011ab@3.2.1.1
 - pkg:maven/net.sourceforge.ctakesresources/ctakes-resources-rxnorm-hsqldb-2011ab@3.2.1.1?classifier=sources
 - pkg:maven/net.sourceforge.ctakesresources/ctakes-resources-rxnorm-hsqldb-2011ab@3.2.1?classifier=sources
+- pkg:maven/net.sourceforge.ctakesresources/ctakes-resources-rxnorm-hsqldb-2011ab@4.0.0
+- pkg:maven/net.sourceforge.ctakesresources/ctakes-resources-rxnorm-hsqldb-2011ab@4.0.0?classifier=sources

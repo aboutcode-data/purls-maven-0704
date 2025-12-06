@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.workbench@3.108.2
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.workbench@3.108.2?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.workbench@3.108.3
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.workbench@3.108.3?classifier=sources

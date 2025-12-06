@@ -1,0 +1,2 @@
+- pkg:maven/org.stagemonitor/stagemonitor-tracing@0.80.0.RC1
+- pkg:maven/org.stagemonitor/stagemonitor-tracing@0.80.0.RC1?classifier=sources

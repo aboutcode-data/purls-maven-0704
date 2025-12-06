@@ -2,3 +2,7 @@
 - pkg:maven/com.datamountaineer/kafka-testkit@0.1?classifier=sources
 - pkg:maven/com.datamountaineer/kafka-testkit@0.2
 - pkg:maven/com.datamountaineer/kafka-testkit@0.2?classifier=sources
+- pkg:maven/com.datamountaineer/kafka-testkit@0.4
+- pkg:maven/com.datamountaineer/kafka-testkit@0.4?classifier=sources
+- pkg:maven/com.datamountaineer/kafka-testkit@0.5
+- pkg:maven/com.datamountaineer/kafka-testkit@0.5?classifier=sources

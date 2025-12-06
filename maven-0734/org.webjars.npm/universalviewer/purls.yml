@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.npm/universalviewer@1.6.14
+- pkg:maven/org.webjars.npm/universalviewer@1.6.14?classifier=sources
+- pkg:maven/org.webjars.npm/universalviewer@2.0.0
+- pkg:maven/org.webjars.npm/universalviewer@2.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/universalviewer@2.0.1
+- pkg:maven/org.webjars.npm/universalviewer@2.0.1?classifier=sources

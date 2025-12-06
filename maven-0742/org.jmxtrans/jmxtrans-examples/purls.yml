@@ -10,3 +10,15 @@
 - pkg:maven/org.jmxtrans/jmxtrans-examples@256?classifier=sources
 - pkg:maven/org.jmxtrans/jmxtrans-examples@259
 - pkg:maven/org.jmxtrans/jmxtrans-examples@259?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-examples@260
+- pkg:maven/org.jmxtrans/jmxtrans-examples@260?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-examples@261
+- pkg:maven/org.jmxtrans/jmxtrans-examples@261?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-examples@262
+- pkg:maven/org.jmxtrans/jmxtrans-examples@262?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-examples@263
+- pkg:maven/org.jmxtrans/jmxtrans-examples@263?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-examples@264
+- pkg:maven/org.jmxtrans/jmxtrans-examples@264?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-examples@265
+- pkg:maven/org.jmxtrans/jmxtrans-examples@265?classifier=sources

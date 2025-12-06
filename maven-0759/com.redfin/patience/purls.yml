@@ -1,0 +1,12 @@
+- pkg:maven/com.redfin/patience@0.1.0-beta
+- pkg:maven/com.redfin/patience@0.1.0-beta?classifier=sources
+- pkg:maven/com.redfin/patience@0.1.1-beta
+- pkg:maven/com.redfin/patience@0.1.1-beta?classifier=sources
+- pkg:maven/com.redfin/patience@0.2.0-beta
+- pkg:maven/com.redfin/patience@0.2.0-beta?classifier=sources
+- pkg:maven/com.redfin/patience@0.2.1-beta
+- pkg:maven/com.redfin/patience@0.2.1-beta?classifier=sources
+- pkg:maven/com.redfin/patience@0.3.0-beta
+- pkg:maven/com.redfin/patience@0.3.0-beta?classifier=sources
+- pkg:maven/com.redfin/patience@1.0.0
+- pkg:maven/com.redfin/patience@1.0.0?classifier=sources

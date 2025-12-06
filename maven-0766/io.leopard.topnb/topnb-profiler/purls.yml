@@ -2,6 +2,8 @@
 - pkg:maven/io.leopard.topnb/topnb-profiler@0.0.1?classifier=sources
 - pkg:maven/io.leopard.topnb/topnb-profiler@0.0.2
 - pkg:maven/io.leopard.topnb/topnb-profiler@0.0.2?classifier=sources
+- pkg:maven/io.leopard.topnb/topnb-profiler@0.9.10
+- pkg:maven/io.leopard.topnb/topnb-profiler@0.9.10?classifier=sources
 - pkg:maven/io.leopard.topnb/topnb-profiler@0.9.4
 - pkg:maven/io.leopard.topnb/topnb-profiler@0.9.4?classifier=sources
 - pkg:maven/io.leopard.topnb/topnb-profiler@0.9.6

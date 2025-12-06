@@ -1,4 +1,8 @@
 - pkg:maven/org.kevoree.mwg.plugins/rocksdb@1
+- pkg:maven/org.kevoree.mwg.plugins/rocksdb@10
+- pkg:maven/org.kevoree.mwg.plugins/rocksdb@10?classifier=sources
+- pkg:maven/org.kevoree.mwg.plugins/rocksdb@11
+- pkg:maven/org.kevoree.mwg.plugins/rocksdb@11?classifier=sources
 - pkg:maven/org.kevoree.mwg.plugins/rocksdb@1?classifier=sources
 - pkg:maven/org.kevoree.mwg.plugins/rocksdb@2
 - pkg:maven/org.kevoree.mwg.plugins/rocksdb@2?classifier=sources

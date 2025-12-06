@@ -1,0 +1,2 @@
+- pkg:maven/io.druid.extensions.contrib/ambari-metrics-emitter@0.10.0
+- pkg:maven/io.druid.extensions.contrib/ambari-metrics-emitter@0.10.0?classifier=sources

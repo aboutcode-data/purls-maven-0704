@@ -1,0 +1,2 @@
+- pkg:maven/com.moengage/moe-push-baidu@1.0.00?classifier=sources
+- pkg:maven/com.moengage/moe-push-baidu@1.0.00?type=aar

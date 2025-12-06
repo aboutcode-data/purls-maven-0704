@@ -2,3 +2,5 @@
 - pkg:maven/org.sonatype.nexus.assemblies/nexus-system-feature@3.0.0-b2016011501?classifier=sources
 - pkg:maven/org.sonatype.nexus.assemblies/nexus-system-feature@3.0.1-01?classifier=sources
 - pkg:maven/org.sonatype.nexus.assemblies/nexus-system-feature@3.0.2-02?classifier=sources
+- pkg:maven/org.sonatype.nexus.assemblies/nexus-system-feature@3.1.0-04?classifier=sources
+- pkg:maven/org.sonatype.nexus.assemblies/nexus-system-feature@3.2.0-01?classifier=sources

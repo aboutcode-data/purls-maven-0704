@@ -1,0 +1,2 @@
+- pkg:maven/com.linecorp.armeria/armeria-spring-boot-starter-shaded@0.46.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-spring-boot-starter-shaded@0.47.0?classifier=sources

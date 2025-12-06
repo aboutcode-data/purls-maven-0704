@@ -1,0 +1,2 @@
+- pkg:maven/com.flextrade.jfixture/jfixture-scala@0.0.1
+- pkg:maven/com.flextrade.jfixture/jfixture-scala@0.0.1?classifier=sources

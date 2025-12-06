@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.launching@3.8.101
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.launching@3.8.101?classifier=sources

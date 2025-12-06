@@ -8,3 +8,5 @@
 - pkg:maven/net.stickycode.mockwire/sticky-mockwire-guice3@1.6?classifier=sources
 - pkg:maven/net.stickycode.mockwire/sticky-mockwire-guice3@2.6
 - pkg:maven/net.stickycode.mockwire/sticky-mockwire-guice3@2.6?classifier=sources
+- pkg:maven/net.stickycode.mockwire/sticky-mockwire-guice3@3.4
+- pkg:maven/net.stickycode.mockwire/sticky-mockwire-guice3@3.4?classifier=sources

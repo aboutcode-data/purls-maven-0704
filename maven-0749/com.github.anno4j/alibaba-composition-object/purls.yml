@@ -23,6 +23,10 @@
 - pkg:maven/com.github.anno4j/alibaba-composition-object@2.0.1
 - pkg:maven/com.github.anno4j/alibaba-composition-object@2.0.1?classifier=sources
 - pkg:maven/com.github.anno4j/alibaba-composition-object@2.2.0
+- pkg:maven/com.github.anno4j/alibaba-composition-object@2.2.0.MICO
+- pkg:maven/com.github.anno4j/alibaba-composition-object@2.2.0.MICO?classifier=sources
 - pkg:maven/com.github.anno4j/alibaba-composition-object@2.2.0?classifier=sources
+- pkg:maven/com.github.anno4j/alibaba-composition-object@2.2.1.MICO
+- pkg:maven/com.github.anno4j/alibaba-composition-object@2.2.1.MICO?classifier=sources
 - pkg:maven/com.github.anno4j/alibaba-composition-object@2.3.0
 - pkg:maven/com.github.anno4j/alibaba-composition-object@2.3.0?classifier=sources

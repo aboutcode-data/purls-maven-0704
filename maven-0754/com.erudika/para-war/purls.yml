@@ -1,0 +1,2 @@
+- pkg:maven/com.erudika/para-war@1.24.4?type=war
+- pkg:maven/com.erudika/para-war@1.24.5?type=war

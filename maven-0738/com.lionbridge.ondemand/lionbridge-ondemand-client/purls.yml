@@ -1,0 +1,2 @@
+- pkg:maven/com.lionbridge.ondemand/lionbridge-ondemand-client@1.0.0
+- pkg:maven/com.lionbridge.ondemand/lionbridge-ondemand-client@1.0.0?classifier=sources

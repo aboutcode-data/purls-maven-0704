@@ -1,0 +1,4 @@
+- pkg:maven/com.agapsys/jpa-utils@0.1.0-20170330
+- pkg:maven/com.agapsys/jpa-utils@0.1.0-20170330?classifier=sources
+- pkg:maven/com.agapsys/jpa-utils@0.1.0-20170527
+- pkg:maven/com.agapsys/jpa-utils@0.1.0-20170527?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.att.ajsc/sdk-camunda-archetype@7.6.2-00-oss?classifier=sources
+- pkg:maven/com.att.ajsc/sdk-camunda-archetype@7.6.2-00?classifier=sources

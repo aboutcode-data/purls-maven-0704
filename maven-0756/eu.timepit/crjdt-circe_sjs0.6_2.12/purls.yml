@@ -1,0 +1,4 @@
+- pkg:maven/eu.timepit/crjdt-circe_sjs0.6_2.12@0.0.6
+- pkg:maven/eu.timepit/crjdt-circe_sjs0.6_2.12@0.0.6?classifier=sources
+- pkg:maven/eu.timepit/crjdt-circe_sjs0.6_2.12@0.0.7
+- pkg:maven/eu.timepit/crjdt-circe_sjs0.6_2.12@0.0.7?classifier=sources

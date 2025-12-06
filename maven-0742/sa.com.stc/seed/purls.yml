@@ -1,0 +1,4 @@
+- pkg:maven/sa.com.stc/seed@%221.0.0?classifier=sources
+- pkg:maven/sa.com.stc/seed@%221.0.0?type=aar
+- pkg:maven/sa.com.stc/seed@1.0.0?classifier=sources
+- pkg:maven/sa.com.stc/seed@1.0.0?type=aar

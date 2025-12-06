@@ -24,3 +24,5 @@
 - pkg:maven/net.hamnaberg.rest/json-collection@4.0.0?classifier=sources
 - pkg:maven/net.hamnaberg.rest/json-collection@5.0.0
 - pkg:maven/net.hamnaberg.rest/json-collection@5.0.0?classifier=sources
+- pkg:maven/net.hamnaberg.rest/json-collection@6.0.0
+- pkg:maven/net.hamnaberg.rest/json-collection@6.0.0?classifier=sources

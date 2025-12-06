@@ -2,6 +2,8 @@
 - pkg:maven/com.github.stephanenicolas.ormgap/ormgap-ormlite-extension@1.0.10?classifier=sources
 - pkg:maven/com.github.stephanenicolas.ormgap/ormgap-ormlite-extension@1.0.11
 - pkg:maven/com.github.stephanenicolas.ormgap/ormgap-ormlite-extension@1.0.11?classifier=sources
+- pkg:maven/com.github.stephanenicolas.ormgap/ormgap-ormlite-extension@1.0.12
+- pkg:maven/com.github.stephanenicolas.ormgap/ormgap-ormlite-extension@1.0.12?classifier=sources
 - pkg:maven/com.github.stephanenicolas.ormgap/ormgap-ormlite-extension@1.0.2
 - pkg:maven/com.github.stephanenicolas.ormgap/ormgap-ormlite-extension@1.0.2?classifier=sources
 - pkg:maven/com.github.stephanenicolas.ormgap/ormgap-ormlite-extension@1.0.3

@@ -1,0 +1,2 @@
+- pkg:maven/com.google.cloud.tools.login/plugins-login-common@0.1.0
+- pkg:maven/com.google.cloud.tools.login/plugins-login-common@0.1.0?classifier=sources

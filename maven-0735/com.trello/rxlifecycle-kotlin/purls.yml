@@ -8,3 +8,5 @@
 - pkg:maven/com.trello/rxlifecycle-kotlin@0.7.0?type=aar
 - pkg:maven/com.trello/rxlifecycle-kotlin@0.8.0?classifier=sources
 - pkg:maven/com.trello/rxlifecycle-kotlin@0.8.0?type=aar
+- pkg:maven/com.trello/rxlifecycle-kotlin@1.0?classifier=sources
+- pkg:maven/com.trello/rxlifecycle-kotlin@1.0?type=aar

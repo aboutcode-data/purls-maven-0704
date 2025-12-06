@@ -1,0 +1,2 @@
+- pkg:maven/org.oiue.services/org.oiue.service.file.upload@1.0.0
+- pkg:maven/org.oiue.services/org.oiue.service.file.upload@1.0.0?classifier=sources

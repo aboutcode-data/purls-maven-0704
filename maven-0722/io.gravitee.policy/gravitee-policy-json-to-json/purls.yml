@@ -1,0 +1,4 @@
+- pkg:maven/io.gravitee.policy/gravitee-policy-json-to-json@1.0.0?classifier=sources
+- pkg:maven/io.gravitee.policy/gravitee-policy-json-to-json@1.0.0?type=zip
+- pkg:maven/io.gravitee.policy/gravitee-policy-json-to-json@1.1.0?classifier=sources
+- pkg:maven/io.gravitee.policy/gravitee-policy-json-to-json@1.1.0?type=zip

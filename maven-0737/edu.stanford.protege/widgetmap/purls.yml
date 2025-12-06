@@ -1,2 +1,4 @@
 - pkg:maven/edu.stanford.protege/widgetmap@1.0.0
 - pkg:maven/edu.stanford.protege/widgetmap@1.0.0?classifier=sources
+- pkg:maven/edu.stanford.protege/widgetmap@2.0.0
+- pkg:maven/edu.stanford.protege/widgetmap@2.0.0?classifier=sources

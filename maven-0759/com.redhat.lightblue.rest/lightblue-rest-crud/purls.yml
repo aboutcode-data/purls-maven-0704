@@ -26,6 +26,16 @@
 - pkg:maven/com.redhat.lightblue.rest/lightblue-rest-crud@2.11.0?type=war
 - pkg:maven/com.redhat.lightblue.rest/lightblue-rest-crud@2.12.0?classifier=sources
 - pkg:maven/com.redhat.lightblue.rest/lightblue-rest-crud@2.12.0?type=war
+- pkg:maven/com.redhat.lightblue.rest/lightblue-rest-crud@2.13.0?classifier=sources
+- pkg:maven/com.redhat.lightblue.rest/lightblue-rest-crud@2.13.0?type=war
+- pkg:maven/com.redhat.lightblue.rest/lightblue-rest-crud@2.14.0?classifier=sources
+- pkg:maven/com.redhat.lightblue.rest/lightblue-rest-crud@2.14.0?type=war
+- pkg:maven/com.redhat.lightblue.rest/lightblue-rest-crud@2.16.0?classifier=sources
+- pkg:maven/com.redhat.lightblue.rest/lightblue-rest-crud@2.16.0?type=war
+- pkg:maven/com.redhat.lightblue.rest/lightblue-rest-crud@2.17.0?classifier=sources
+- pkg:maven/com.redhat.lightblue.rest/lightblue-rest-crud@2.17.0?type=war
+- pkg:maven/com.redhat.lightblue.rest/lightblue-rest-crud@2.18.0?classifier=sources
+- pkg:maven/com.redhat.lightblue.rest/lightblue-rest-crud@2.18.0?type=war
 - pkg:maven/com.redhat.lightblue.rest/lightblue-rest-crud@2.3.0?classifier=sources
 - pkg:maven/com.redhat.lightblue.rest/lightblue-rest-crud@2.3.0?type=war
 - pkg:maven/com.redhat.lightblue.rest/lightblue-rest-crud@2.4.0?classifier=sources

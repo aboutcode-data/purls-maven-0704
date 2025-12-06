@@ -1,0 +1,4 @@
+- pkg:maven/com.thoughtworks.feature/factory_sjs0.6_2.11@2.0.0-RC5
+- pkg:maven/com.thoughtworks.feature/factory_sjs0.6_2.11@2.0.0-RC5?classifier=sources
+- pkg:maven/com.thoughtworks.feature/factory_sjs0.6_2.11@2.0.0-RC6
+- pkg:maven/com.thoughtworks.feature/factory_sjs0.6_2.11@2.0.0-RC6?classifier=sources

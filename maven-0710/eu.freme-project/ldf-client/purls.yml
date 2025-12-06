@@ -1,0 +1,2 @@
+- pkg:maven/eu.freme-project/ldf-client@0.1
+- pkg:maven/eu.freme-project/ldf-client@0.1?classifier=sources

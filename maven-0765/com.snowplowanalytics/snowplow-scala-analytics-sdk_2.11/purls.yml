@@ -1,0 +1,4 @@
+- pkg:maven/com.snowplowanalytics/snowplow-scala-analytics-sdk_2.11@0.2.0
+- pkg:maven/com.snowplowanalytics/snowplow-scala-analytics-sdk_2.11@0.2.0-M5
+- pkg:maven/com.snowplowanalytics/snowplow-scala-analytics-sdk_2.11@0.2.0-M5?classifier=sources
+- pkg:maven/com.snowplowanalytics/snowplow-scala-analytics-sdk_2.11@0.2.0?classifier=sources

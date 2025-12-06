@@ -1,0 +1,4 @@
+- pkg:maven/cat.ereza/logcatreporter@1.0.0?classifier=sources
+- pkg:maven/cat.ereza/logcatreporter@1.0.0?type=aar
+- pkg:maven/cat.ereza/logcatreporter@1.1.0?classifier=sources
+- pkg:maven/cat.ereza/logcatreporter@1.1.0?type=aar

@@ -11,4 +11,6 @@
 - pkg:maven/int.esa.ccsds.mo/ENCODING_BINARY@1.0.3?classifier=sources
 - pkg:maven/int.esa.ccsds.mo/ENCODING_BINARY@1.0.4
 - pkg:maven/int.esa.ccsds.mo/ENCODING_BINARY@1.0.4?classifier=sources
+- pkg:maven/int.esa.ccsds.mo/ENCODING_BINARY@1.0.5
+- pkg:maven/int.esa.ccsds.mo/ENCODING_BINARY@1.0.5?classifier=sources
 - pkg:maven/int.esa.ccsds.mo/ENCODING_BINARY@1.0?classifier=sources

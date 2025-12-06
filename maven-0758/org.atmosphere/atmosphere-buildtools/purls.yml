@@ -14,6 +14,12 @@
 - pkg:maven/org.atmosphere/atmosphere-buildtools@2.4.1.7?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-buildtools@2.4.1.8
 - pkg:maven/org.atmosphere/atmosphere-buildtools@2.4.1.8?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-buildtools@2.4.10
+- pkg:maven/org.atmosphere/atmosphere-buildtools@2.4.10?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-buildtools@2.4.11
+- pkg:maven/org.atmosphere/atmosphere-buildtools@2.4.11?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-buildtools@2.4.12
+- pkg:maven/org.atmosphere/atmosphere-buildtools@2.4.12?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-buildtools@2.4.2
 - pkg:maven/org.atmosphere/atmosphere-buildtools@2.4.2?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-buildtools@2.4.3
@@ -26,3 +32,9 @@
 - pkg:maven/org.atmosphere/atmosphere-buildtools@2.4.6?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-buildtools@2.4.7
 - pkg:maven/org.atmosphere/atmosphere-buildtools@2.4.7?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-buildtools@2.4.8
+- pkg:maven/org.atmosphere/atmosphere-buildtools@2.4.8?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-buildtools@2.4.9
+- pkg:maven/org.atmosphere/atmosphere-buildtools@2.4.9?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-buildtools@3.0.0-alpha1
+- pkg:maven/org.atmosphere/atmosphere-buildtools@3.0.0-alpha1?classifier=sources

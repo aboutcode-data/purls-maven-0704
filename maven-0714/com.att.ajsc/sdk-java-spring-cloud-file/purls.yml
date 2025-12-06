@@ -1,0 +1,4 @@
+- pkg:maven/com.att.ajsc/sdk-java-spring-cloud-file@0.0.10
+- pkg:maven/com.att.ajsc/sdk-java-spring-cloud-file@0.0.10-oss
+- pkg:maven/com.att.ajsc/sdk-java-spring-cloud-file@0.0.10-oss?classifier=sources
+- pkg:maven/com.att.ajsc/sdk-java-spring-cloud-file@0.0.10?classifier=sources

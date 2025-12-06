@@ -9,3 +9,4 @@
 - pkg:maven/net.serenity-bdd/serenity-jbehave-archetype@1.1.36?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-jbehave-archetype@1.1.38?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-jbehave-archetype@1.1.7?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-jbehave-archetype@1.2.0?classifier=sources

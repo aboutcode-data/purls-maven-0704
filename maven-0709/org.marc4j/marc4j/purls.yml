@@ -1,0 +1,4 @@
+- pkg:maven/org.marc4j/marc4j@2.7.3
+- pkg:maven/org.marc4j/marc4j@2.7.3?classifier=sources
+- pkg:maven/org.marc4j/marc4j@2.8.0
+- pkg:maven/org.marc4j/marc4j@2.8.0?classifier=sources

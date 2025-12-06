@@ -1,2 +1,8 @@
 - pkg:maven/com.github.snowdream.gvi/lib@0.2
 - pkg:maven/com.github.snowdream.gvi/lib@0.2?classifier=sources
+- pkg:maven/com.github.snowdream.gvi/lib@0.5
+- pkg:maven/com.github.snowdream.gvi/lib@0.5?classifier=sources
+- pkg:maven/com.github.snowdream.gvi/lib@0.6
+- pkg:maven/com.github.snowdream.gvi/lib@0.6?classifier=sources
+- pkg:maven/com.github.snowdream.gvi/lib@0.7
+- pkg:maven/com.github.snowdream.gvi/lib@0.7?classifier=sources

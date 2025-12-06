@@ -1,2 +1,4 @@
 - pkg:maven/org.cogroo/cogroo-gc@4.0.0
 - pkg:maven/org.cogroo/cogroo-gc@4.0.0?classifier=sources
+- pkg:maven/org.cogroo/cogroo-gc@4.2.0
+- pkg:maven/org.cogroo/cogroo-gc@4.2.0?classifier=sources

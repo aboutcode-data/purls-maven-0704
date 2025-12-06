@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/bennu@17.3.0
+- pkg:maven/org.webjars.npm/bennu@17.3.0?classifier=sources

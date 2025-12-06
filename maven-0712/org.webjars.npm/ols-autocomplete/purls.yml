@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/ols-autocomplete@0.0.2
+- pkg:maven/org.webjars.npm/ols-autocomplete@0.0.2?classifier=sources
+- pkg:maven/org.webjars.npm/ols-autocomplete@0.0.4
+- pkg:maven/org.webjars.npm/ols-autocomplete@0.0.4?classifier=sources

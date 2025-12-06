@@ -1,0 +1,4 @@
+- pkg:maven/com.enragedginger/akka-quartz-scheduler_2.12@1.6.0-akka-2.4.x
+- pkg:maven/com.enragedginger/akka-quartz-scheduler_2.12@1.6.0-akka-2.4.x?classifier=sources
+- pkg:maven/com.enragedginger/akka-quartz-scheduler_2.12@1.6.1-akka-2.5.x
+- pkg:maven/com.enragedginger/akka-quartz-scheduler_2.12@1.6.1-akka-2.5.x?classifier=sources

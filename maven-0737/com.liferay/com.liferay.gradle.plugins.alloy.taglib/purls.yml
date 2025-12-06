@@ -5,3 +5,5 @@
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.alloy.taglib@1.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.alloy.taglib@1.0.3
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.alloy.taglib@1.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.alloy.taglib@2.0.0
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.alloy.taglib@2.0.0?classifier=sources

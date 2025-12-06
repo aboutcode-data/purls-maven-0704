@@ -1,0 +1,2 @@
+- pkg:maven/org.fcrepo/fcrepo-webapp-plus@4.7.2?classifier=sources
+- pkg:maven/org.fcrepo/fcrepo-webapp-plus@4.7.2?type=war

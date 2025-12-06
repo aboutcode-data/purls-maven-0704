@@ -1,0 +1,6 @@
+- pkg:maven/com.adform/bitmap-dsl_2.10@0.4.3
+- pkg:maven/com.adform/bitmap-dsl_2.10@0.4.3?classifier=sources
+- pkg:maven/com.adform/bitmap-dsl_2.10@0.4.6
+- pkg:maven/com.adform/bitmap-dsl_2.10@0.4.6?classifier=sources
+- pkg:maven/com.adform/bitmap-dsl_2.10@0.4.7
+- pkg:maven/com.adform/bitmap-dsl_2.10@0.4.7?classifier=sources

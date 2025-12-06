@@ -1,0 +1,2 @@
+- pkg:maven/com.typesafe.akka/akka-typed-testkit_2.12@2.5.2
+- pkg:maven/com.typesafe.akka/akka-typed-testkit_2.12@2.5.2?classifier=sources

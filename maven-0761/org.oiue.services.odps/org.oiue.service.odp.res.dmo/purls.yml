@@ -1,0 +1,2 @@
+- pkg:maven/org.oiue.services.odps/org.oiue.service.odp.res.dmo@1.0.0
+- pkg:maven/org.oiue.services.odps/org.oiue.service.odp.res.dmo@1.0.0?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/io.kusanagi/katana-sdk-java7@1.0.0?classifier=sources
+- pkg:maven/io.kusanagi/katana-sdk-java7@1.0?classifier=sources
+- pkg:maven/io.kusanagi/katana-sdk-java7@1.1.0?classifier=sources

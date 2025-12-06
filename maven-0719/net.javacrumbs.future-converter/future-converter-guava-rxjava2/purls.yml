@@ -1,0 +1,2 @@
+- pkg:maven/net.javacrumbs.future-converter/future-converter-guava-rxjava2@1.1.0
+- pkg:maven/net.javacrumbs.future-converter/future-converter-guava-rxjava2@1.1.0?classifier=sources

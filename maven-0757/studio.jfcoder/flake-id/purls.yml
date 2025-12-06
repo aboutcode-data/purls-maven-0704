@@ -1,0 +1,2 @@
+- pkg:maven/studio.jfcoder/flake-id@0.0.2
+- pkg:maven/studio.jfcoder/flake-id@0.0.2?classifier=sources

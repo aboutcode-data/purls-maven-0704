@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/blueprintjs__datetime@1.0.1
+- pkg:maven/org.webjars.npm/blueprintjs__datetime@1.0.1?classifier=sources

@@ -20,6 +20,8 @@
 - pkg:maven/com.nimbusds/c2id-server-sdk@3.0?classifier=sources
 - pkg:maven/com.nimbusds/c2id-server-sdk@3.1
 - pkg:maven/com.nimbusds/c2id-server-sdk@3.10
+- pkg:maven/com.nimbusds/c2id-server-sdk@3.10.1
+- pkg:maven/com.nimbusds/c2id-server-sdk@3.10.1?classifier=sources
 - pkg:maven/com.nimbusds/c2id-server-sdk@3.10?classifier=sources
 - pkg:maven/com.nimbusds/c2id-server-sdk@3.1?classifier=sources
 - pkg:maven/com.nimbusds/c2id-server-sdk@3.2

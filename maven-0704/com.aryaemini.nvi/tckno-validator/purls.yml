@@ -1,2 +1,4 @@
 - pkg:maven/com.aryaemini.nvi/tckno-validator@1.0
 - pkg:maven/com.aryaemini.nvi/tckno-validator@1.0?classifier=sources
+- pkg:maven/com.aryaemini.nvi/tckno-validator@1.1
+- pkg:maven/com.aryaemini.nvi/tckno-validator@1.1?classifier=sources

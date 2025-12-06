@@ -1,0 +1,6 @@
+- pkg:maven/me.wuwenbin/template-utils-json@1.0.0
+- pkg:maven/me.wuwenbin/template-utils-json@1.0.0?classifier=sources
+- pkg:maven/me.wuwenbin/template-utils-json@1.2.0.RELEASE
+- pkg:maven/me.wuwenbin/template-utils-json@1.2.0.RELEASE?classifier=sources
+- pkg:maven/me.wuwenbin/template-utils-json@1.2.1.RELEASE
+- pkg:maven/me.wuwenbin/template-utils-json@1.2.1.RELEASE?classifier=sources

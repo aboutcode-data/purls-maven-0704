@@ -15,3 +15,4 @@
 - pkg:maven/org.webjars/extjs@5.1.0
 - pkg:maven/org.webjars/extjs@5.1.1
 - pkg:maven/org.webjars/extjs@6.0.0
+- pkg:maven/org.webjars/extjs@6.2.0

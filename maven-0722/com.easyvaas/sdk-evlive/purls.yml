@@ -1,0 +1,2 @@
+- pkg:maven/com.easyvaas/sdk-evlive@1.0.18?classifier=sources
+- pkg:maven/com.easyvaas/sdk-evlive@1.0.18?type=aar

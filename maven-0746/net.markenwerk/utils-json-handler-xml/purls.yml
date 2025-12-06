@@ -2,3 +2,5 @@
 - pkg:maven/net.markenwerk/utils-json-handler-xml@1.0.0?classifier=sources
 - pkg:maven/net.markenwerk/utils-json-handler-xml@2.0.0
 - pkg:maven/net.markenwerk/utils-json-handler-xml@2.0.0?classifier=sources
+- pkg:maven/net.markenwerk/utils-json-handler-xml@2.0.1
+- pkg:maven/net.markenwerk/utils-json-handler-xml@2.0.1?classifier=sources

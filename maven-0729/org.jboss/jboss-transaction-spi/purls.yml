@@ -16,12 +16,16 @@
 - pkg:maven/org.jboss/jboss-transaction-spi@7.1.0.Final?classifier=sources
 - pkg:maven/org.jboss/jboss-transaction-spi@7.1.0.SP1
 - pkg:maven/org.jboss/jboss-transaction-spi@7.1.0.SP1?classifier=sources
+- pkg:maven/org.jboss/jboss-transaction-spi@7.1.0.SP2
+- pkg:maven/org.jboss/jboss-transaction-spi@7.1.0.SP2?classifier=sources
 - pkg:maven/org.jboss/jboss-transaction-spi@7.1.1.Final
 - pkg:maven/org.jboss/jboss-transaction-spi@7.1.1.Final?classifier=sources
 - pkg:maven/org.jboss/jboss-transaction-spi@7.2.0.Final
 - pkg:maven/org.jboss/jboss-transaction-spi@7.2.0.Final?classifier=sources
 - pkg:maven/org.jboss/jboss-transaction-spi@7.3.0.Final
 - pkg:maven/org.jboss/jboss-transaction-spi@7.3.0.Final?classifier=sources
+- pkg:maven/org.jboss/jboss-transaction-spi@7.3.0.SP1
+- pkg:maven/org.jboss/jboss-transaction-spi@7.3.0.SP1?classifier=sources
 - pkg:maven/org.jboss/jboss-transaction-spi@7.3.1.Final
 - pkg:maven/org.jboss/jboss-transaction-spi@7.3.1.Final?classifier=sources
 - pkg:maven/org.jboss/jboss-transaction-spi@7.3.2.Final
@@ -34,3 +38,9 @@
 - pkg:maven/org.jboss/jboss-transaction-spi@7.4.0.Final?classifier=sources
 - pkg:maven/org.jboss/jboss-transaction-spi@7.5.0.Final
 - pkg:maven/org.jboss/jboss-transaction-spi@7.5.0.Final?classifier=sources
+- pkg:maven/org.jboss/jboss-transaction-spi@7.5.1.Final
+- pkg:maven/org.jboss/jboss-transaction-spi@7.5.1.Final?classifier=sources
+- pkg:maven/org.jboss/jboss-transaction-spi@7.5.2.Final
+- pkg:maven/org.jboss/jboss-transaction-spi@7.5.2.Final?classifier=sources
+- pkg:maven/org.jboss/jboss-transaction-spi@7.6.0.Final
+- pkg:maven/org.jboss/jboss-transaction-spi@7.6.0.Final?classifier=sources

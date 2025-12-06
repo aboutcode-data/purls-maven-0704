@@ -30,3 +30,5 @@
 - pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-server-fileshare@0.9.0?type=war
 - pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-server-fileshare@1.0.0?classifier=sources
 - pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-server-fileshare@1.0.0?type=war
+- pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-server-fileshare@1.1.0?classifier=sources
+- pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-server-fileshare@1.1.0?type=war

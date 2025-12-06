@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/num2fraction@1.2.2
+- pkg:maven/org.webjars.npm/num2fraction@1.2.2?classifier=sources

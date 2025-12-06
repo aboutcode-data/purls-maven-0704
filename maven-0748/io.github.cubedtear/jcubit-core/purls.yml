@@ -4,3 +4,9 @@
 - pkg:maven/io.github.cubedtear/jcubit-core@6.1.0?classifier=sources
 - pkg:maven/io.github.cubedtear/jcubit-core@7.0.0
 - pkg:maven/io.github.cubedtear/jcubit-core@7.0.0?classifier=sources
+- pkg:maven/io.github.cubedtear/jcubit-core@7.1.0
+- pkg:maven/io.github.cubedtear/jcubit-core@7.1.0?classifier=sources
+- pkg:maven/io.github.cubedtear/jcubit-core@7.1.1
+- pkg:maven/io.github.cubedtear/jcubit-core@7.1.1?classifier=sources
+- pkg:maven/io.github.cubedtear/jcubit-core@8.0.0
+- pkg:maven/io.github.cubedtear/jcubit-core@8.0.0?classifier=sources

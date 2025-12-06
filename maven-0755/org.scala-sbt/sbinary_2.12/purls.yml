@@ -1,0 +1,2 @@
+- pkg:maven/org.scala-sbt/sbinary_2.12@0.4.4
+- pkg:maven/org.scala-sbt/sbinary_2.12@0.4.4?classifier=sources

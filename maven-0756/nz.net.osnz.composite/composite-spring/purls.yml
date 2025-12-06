@@ -17,3 +17,6 @@
 - pkg:maven/nz.net.osnz.composite/composite-spring@4.2.2
 - pkg:maven/nz.net.osnz.composite/composite-spring@4.2.6
 - pkg:maven/nz.net.osnz.composite/composite-spring@4.3.0
+- pkg:maven/nz.net.osnz.composite/composite-spring@4.3.1
+- pkg:maven/nz.net.osnz.composite/composite-spring@4.3.7
+- pkg:maven/nz.net.osnz.composite/composite-spring@4.3.8

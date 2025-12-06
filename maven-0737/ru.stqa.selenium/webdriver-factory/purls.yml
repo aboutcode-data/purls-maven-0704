@@ -24,3 +24,5 @@
 - pkg:maven/ru.stqa.selenium/webdriver-factory@2.1?classifier=sources
 - pkg:maven/ru.stqa.selenium/webdriver-factory@3.0
 - pkg:maven/ru.stqa.selenium/webdriver-factory@3.0?classifier=sources
+- pkg:maven/ru.stqa.selenium/webdriver-factory@4.0
+- pkg:maven/ru.stqa.selenium/webdriver-factory@4.0?classifier=sources

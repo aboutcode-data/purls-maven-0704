@@ -28,3 +28,7 @@
 - pkg:maven/org.apache.james.protocols/protocols-smtp@1.6.2?classifier=sources
 - pkg:maven/org.apache.james.protocols/protocols-smtp@1.6.3
 - pkg:maven/org.apache.james.protocols/protocols-smtp@1.6.3?classifier=sources
+- pkg:maven/org.apache.james.protocols/protocols-smtp@3.0.0-RC1
+- pkg:maven/org.apache.james.protocols/protocols-smtp@3.0.0-RC1?classifier=sources
+- pkg:maven/org.apache.james.protocols/protocols-smtp@3.0.0-beta5
+- pkg:maven/org.apache.james.protocols/protocols-smtp@3.0.0-beta5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.sfuhrm/saphir-hash-jca@3.0.3
+- pkg:maven/de.sfuhrm/saphir-hash-jca@3.0.3?classifier=sources

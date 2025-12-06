@@ -24,3 +24,9 @@
 - pkg:maven/info.freelibrary/freelib-utils@0.6.0?classifier=sources
 - pkg:maven/info.freelibrary/freelib-utils@0.7.0
 - pkg:maven/info.freelibrary/freelib-utils@0.7.0?classifier=sources
+- pkg:maven/info.freelibrary/freelib-utils@0.7.1
+- pkg:maven/info.freelibrary/freelib-utils@0.7.1?classifier=sources
+- pkg:maven/info.freelibrary/freelib-utils@0.8.0
+- pkg:maven/info.freelibrary/freelib-utils@0.8.0?classifier=sources
+- pkg:maven/info.freelibrary/freelib-utils@0.8.1
+- pkg:maven/info.freelibrary/freelib-utils@0.8.1?classifier=sources

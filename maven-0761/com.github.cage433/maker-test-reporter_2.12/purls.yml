@@ -1,0 +1,10 @@
+- pkg:maven/com.github.cage433/maker-test-reporter_2.12@0.39
+- pkg:maven/com.github.cage433/maker-test-reporter_2.12@0.39?classifier=sources
+- pkg:maven/com.github.cage433/maker-test-reporter_2.12@0.42
+- pkg:maven/com.github.cage433/maker-test-reporter_2.12@0.42?classifier=sources
+- pkg:maven/com.github.cage433/maker-test-reporter_2.12@0.43
+- pkg:maven/com.github.cage433/maker-test-reporter_2.12@0.43?classifier=sources
+- pkg:maven/com.github.cage433/maker-test-reporter_2.12@0.44
+- pkg:maven/com.github.cage433/maker-test-reporter_2.12@0.44?classifier=sources
+- pkg:maven/com.github.cage433/maker-test-reporter_2.12@0.45
+- pkg:maven/com.github.cage433/maker-test-reporter_2.12@0.45?classifier=sources

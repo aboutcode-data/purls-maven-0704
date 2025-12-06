@@ -1,0 +1,2 @@
+- pkg:maven/io.opentracing.contrib/asynchttpclient-opentracing@0.1.0
+- pkg:maven/io.opentracing.contrib/asynchttpclient-opentracing@0.1.0?classifier=sources

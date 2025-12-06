@@ -1,2 +1,6 @@
 - pkg:maven/io.github.soc/scala-java-time_2.10@2.0.0-M3
 - pkg:maven/io.github.soc/scala-java-time_2.10@2.0.0-M3?classifier=sources
+- pkg:maven/io.github.soc/scala-java-time_2.10@2.0.0-M4
+- pkg:maven/io.github.soc/scala-java-time_2.10@2.0.0-M4?classifier=sources
+- pkg:maven/io.github.soc/scala-java-time_2.10@2.0.0-M5
+- pkg:maven/io.github.soc/scala-java-time_2.10@2.0.0-M5?classifier=sources

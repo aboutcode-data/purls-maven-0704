@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-cytoscape-cytoscape-js-navigator@1.1.3
+- pkg:maven/org.webjars.npm/github-com-cytoscape-cytoscape-js-navigator@1.1.3?classifier=sources

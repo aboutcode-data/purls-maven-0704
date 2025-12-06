@@ -1,1 +1,2 @@
 - pkg:maven/org.sonarsource.sslr/sslr-tests@1.21
+- pkg:maven/org.sonarsource.sslr/sslr-tests@1.22

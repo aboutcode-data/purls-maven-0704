@@ -1,0 +1,6 @@
+- pkg:maven/ru.send-to.gwt/EventBus@2.8.0.0
+- pkg:maven/ru.send-to.gwt/EventBus@2.8.0.0?classifier=sources
+- pkg:maven/ru.send-to.gwt/EventBus@2.8.0.1
+- pkg:maven/ru.send-to.gwt/EventBus@2.8.0.1?classifier=sources
+- pkg:maven/ru.send-to.gwt/EventBus@2.8.1.0
+- pkg:maven/ru.send-to.gwt/EventBus@2.8.1.0?classifier=sources

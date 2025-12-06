@@ -4,3 +4,5 @@
 - pkg:maven/com.github.fomkin/korolev-example_2.11@0.0.4-PRE?classifier=sources
 - pkg:maven/com.github.fomkin/korolev-example_2.11@0.0.5-PRE
 - pkg:maven/com.github.fomkin/korolev-example_2.11@0.0.5-PRE?classifier=sources
+- pkg:maven/com.github.fomkin/korolev-example_2.11@0.0.6
+- pkg:maven/com.github.fomkin/korolev-example_2.11@0.0.6?classifier=sources

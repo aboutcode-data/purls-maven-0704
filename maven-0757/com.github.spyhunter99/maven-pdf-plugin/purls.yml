@@ -1,0 +1,2 @@
+- pkg:maven/com.github.spyhunter99/maven-pdf-plugin@1.5.0.1
+- pkg:maven/com.github.spyhunter99/maven-pdf-plugin@1.5.0.1?classifier=sources

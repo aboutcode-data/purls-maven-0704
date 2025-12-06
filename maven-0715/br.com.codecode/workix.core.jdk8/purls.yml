@@ -1,0 +1,2 @@
+- pkg:maven/br.com.codecode/workix.core.jdk8@0.0.1
+- pkg:maven/br.com.codecode/workix.core.jdk8@0.0.1?classifier=sources

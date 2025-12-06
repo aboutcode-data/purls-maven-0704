@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-yahoo-pure@0.6.2
+- pkg:maven/org.webjars.npm/github-com-yahoo-pure@0.6.2?classifier=sources

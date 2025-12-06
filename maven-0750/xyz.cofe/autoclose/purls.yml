@@ -1,0 +1,2 @@
+- pkg:maven/xyz.cofe/autoclose@0.1
+- pkg:maven/xyz.cofe/autoclose@0.1?classifier=sources

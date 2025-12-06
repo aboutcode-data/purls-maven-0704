@@ -10,3 +10,7 @@
 - pkg:maven/org.apache.kylin/kylin-tool@1.5.4.1
 - pkg:maven/org.apache.kylin/kylin-tool@1.5.4.1?classifier=sources
 - pkg:maven/org.apache.kylin/kylin-tool@1.5.4?classifier=sources
+- pkg:maven/org.apache.kylin/kylin-tool@1.6.0
+- pkg:maven/org.apache.kylin/kylin-tool@1.6.0?classifier=sources
+- pkg:maven/org.apache.kylin/kylin-tool@2.0.0
+- pkg:maven/org.apache.kylin/kylin-tool@2.0.0?classifier=sources

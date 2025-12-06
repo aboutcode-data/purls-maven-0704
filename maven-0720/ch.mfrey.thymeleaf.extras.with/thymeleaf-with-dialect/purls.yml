@@ -2,3 +2,5 @@
 - pkg:maven/ch.mfrey.thymeleaf.extras.with/thymeleaf-with-dialect@2.0.0?classifier=sources
 - pkg:maven/ch.mfrey.thymeleaf.extras.with/thymeleaf-with-dialect@3.0.0
 - pkg:maven/ch.mfrey.thymeleaf.extras.with/thymeleaf-with-dialect@3.0.0?classifier=sources
+- pkg:maven/ch.mfrey.thymeleaf.extras.with/thymeleaf-with-dialect@3.0.1
+- pkg:maven/ch.mfrey.thymeleaf.extras.with/thymeleaf-with-dialect@3.0.1?classifier=sources

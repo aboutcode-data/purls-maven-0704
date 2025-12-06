@@ -12,3 +12,11 @@
 - pkg:maven/com.joliciel.talismane/talismane-en@2.6.2b?classifier=sources
 - pkg:maven/com.joliciel.talismane/talismane-en@3.0.0b
 - pkg:maven/com.joliciel.talismane/talismane-en@3.0.0b?classifier=sources
+- pkg:maven/com.joliciel.talismane/talismane-en@3.0.1
+- pkg:maven/com.joliciel.talismane/talismane-en@3.0.1?classifier=sources
+- pkg:maven/com.joliciel.talismane/talismane-en@3.0.3
+- pkg:maven/com.joliciel.talismane/talismane-en@3.0.3?classifier=sources
+- pkg:maven/com.joliciel.talismane/talismane-en@3.0.4
+- pkg:maven/com.joliciel.talismane/talismane-en@3.0.4?classifier=sources
+- pkg:maven/com.joliciel.talismane/talismane-en@3.0.5
+- pkg:maven/com.joliciel.talismane/talismane-en@3.0.5?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/com.nexmo/verify@2.0.0?type=aar
 - pkg:maven/com.nexmo/verify@3.0.0?classifier=sources
 - pkg:maven/com.nexmo/verify@3.0.0?type=aar
+- pkg:maven/com.nexmo/verify@4.0.0?classifier=sources
+- pkg:maven/com.nexmo/verify@4.0.0?type=aar

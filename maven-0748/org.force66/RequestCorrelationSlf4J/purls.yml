@@ -1,2 +1,4 @@
 - pkg:maven/org.force66/RequestCorrelationSlf4J@1.0.0-rc1
 - pkg:maven/org.force66/RequestCorrelationSlf4J@1.0.0-rc1?classifier=sources
+- pkg:maven/org.force66/RequestCorrelationSlf4J@1.0.0-rc2
+- pkg:maven/org.force66/RequestCorrelationSlf4J@1.0.0-rc2?classifier=sources

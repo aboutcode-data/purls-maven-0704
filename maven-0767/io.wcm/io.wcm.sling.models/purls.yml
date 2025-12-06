@@ -8,3 +8,7 @@
 - pkg:maven/io.wcm/io.wcm.sling.models@1.2.0?classifier=sources
 - pkg:maven/io.wcm/io.wcm.sling.models@1.2.2
 - pkg:maven/io.wcm/io.wcm.sling.models@1.2.2?classifier=sources
+- pkg:maven/io.wcm/io.wcm.sling.models@1.3.0
+- pkg:maven/io.wcm/io.wcm.sling.models@1.3.0?classifier=sources
+- pkg:maven/io.wcm/io.wcm.sling.models@1.4.0
+- pkg:maven/io.wcm/io.wcm.sling.models@1.4.0?classifier=sources

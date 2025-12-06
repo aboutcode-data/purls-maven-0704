@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.commons/commons-jcs-dist@2.0-beta-1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.commons/commons-jcs-dist@2.0-beta-1?classifier=src&type=zip
+- pkg:maven/org.apache.commons/commons-jcs-dist@2.0-beta-2?classifier=src&type=tar.gz
+- pkg:maven/org.apache.commons/commons-jcs-dist@2.0-beta-2?classifier=src&type=zip

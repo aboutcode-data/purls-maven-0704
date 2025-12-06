@@ -56,3 +56,9 @@
 - pkg:maven/net.orfjackal.retrolambda/retrolambda@2.2.0?classifier=sources
 - pkg:maven/net.orfjackal.retrolambda/retrolambda@2.3.0
 - pkg:maven/net.orfjackal.retrolambda/retrolambda@2.3.0?classifier=sources
+- pkg:maven/net.orfjackal.retrolambda/retrolambda@2.4.0
+- pkg:maven/net.orfjackal.retrolambda/retrolambda@2.4.0?classifier=sources
+- pkg:maven/net.orfjackal.retrolambda/retrolambda@2.5.0
+- pkg:maven/net.orfjackal.retrolambda/retrolambda@2.5.0?classifier=sources
+- pkg:maven/net.orfjackal.retrolambda/retrolambda@2.5.1
+- pkg:maven/net.orfjackal.retrolambda/retrolambda@2.5.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/cz.datalite.zk-dl/DLDevelopmentKit@1.4.5
+- pkg:maven/cz.datalite.zk-dl/DLDevelopmentKit@1.4.5.9
+- pkg:maven/cz.datalite.zk-dl/DLDevelopmentKit@1.4.5.9?classifier=sources
+- pkg:maven/cz.datalite.zk-dl/DLDevelopmentKit@1.4.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/angular-plupload@0.1.6
+- pkg:maven/org.webjars.bower/angular-plupload@0.1.6?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/cc.redberry/libdivide4j@1.0
+- pkg:maven/cc.redberry/libdivide4j@1.0?classifier=sources

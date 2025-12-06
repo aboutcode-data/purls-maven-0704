@@ -1,0 +1,2 @@
+- pkg:maven/cc.dot/dotEngine-java-sdk@0.1.0
+- pkg:maven/cc.dot/dotEngine-java-sdk@0.1.0?classifier=sources

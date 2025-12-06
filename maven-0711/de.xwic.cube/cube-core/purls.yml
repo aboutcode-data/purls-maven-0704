@@ -9,6 +9,10 @@
 - pkg:maven/de.xwic.cube/cube-core@5.2.12?classifier=sources
 - pkg:maven/de.xwic.cube/cube-core@5.2.13
 - pkg:maven/de.xwic.cube/cube-core@5.2.13?classifier=sources
+- pkg:maven/de.xwic.cube/cube-core@5.2.14
+- pkg:maven/de.xwic.cube/cube-core@5.2.14?classifier=sources
+- pkg:maven/de.xwic.cube/cube-core@5.2.15
+- pkg:maven/de.xwic.cube/cube-core@5.2.15?classifier=sources
 - pkg:maven/de.xwic.cube/cube-core@5.2.1?classifier=sources
 - pkg:maven/de.xwic.cube/cube-core@5.2.2
 - pkg:maven/de.xwic.cube/cube-core@5.2.2?classifier=sources
@@ -26,3 +30,9 @@
 - pkg:maven/de.xwic.cube/cube-core@5.2.8?classifier=sources
 - pkg:maven/de.xwic.cube/cube-core@5.2.9
 - pkg:maven/de.xwic.cube/cube-core@5.2.9?classifier=sources
+- pkg:maven/de.xwic.cube/cube-core@5.3.0
+- pkg:maven/de.xwic.cube/cube-core@5.3.0.1
+- pkg:maven/de.xwic.cube/cube-core@5.3.0.1?classifier=sources
+- pkg:maven/de.xwic.cube/cube-core@5.3.0?classifier=sources
+- pkg:maven/de.xwic.cube/cube-core@5.3.1
+- pkg:maven/de.xwic.cube/cube-core@5.3.1?classifier=sources

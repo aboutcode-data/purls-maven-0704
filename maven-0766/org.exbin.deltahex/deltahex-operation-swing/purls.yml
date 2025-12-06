@@ -1,0 +1,2 @@
+- pkg:maven/org.exbin.deltahex/deltahex-operation-swing@0.1.2
+- pkg:maven/org.exbin.deltahex/deltahex-operation-swing@0.1.2?classifier=sources

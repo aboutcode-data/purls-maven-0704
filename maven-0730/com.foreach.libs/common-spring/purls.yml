@@ -2,3 +2,5 @@
 - pkg:maven/com.foreach.libs/common-spring@0.12?classifier=sources
 - pkg:maven/com.foreach.libs/common-spring@1.0
 - pkg:maven/com.foreach.libs/common-spring@1.0?classifier=sources
+- pkg:maven/com.foreach.libs/common-spring@1.1
+- pkg:maven/com.foreach.libs/common-spring@1.1?classifier=sources
