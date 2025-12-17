@@ -1,0 +1,12 @@
+- pkg:maven/com.networknt/tram-test@1.5.27
+- pkg:maven/com.networknt/tram-test@1.5.27?classifier=sources
+- pkg:maven/com.networknt/tram-test@1.5.28
+- pkg:maven/com.networknt/tram-test@1.5.28?classifier=sources
+- pkg:maven/com.networknt/tram-test@1.5.29
+- pkg:maven/com.networknt/tram-test@1.5.29?classifier=sources
+- pkg:maven/com.networknt/tram-test@1.5.30
+- pkg:maven/com.networknt/tram-test@1.5.30?classifier=sources
+- pkg:maven/com.networknt/tram-test@1.5.31
+- pkg:maven/com.networknt/tram-test@1.5.31?classifier=sources
+- pkg:maven/com.networknt/tram-test@1.5.32
+- pkg:maven/com.networknt/tram-test@1.5.32?classifier=sources

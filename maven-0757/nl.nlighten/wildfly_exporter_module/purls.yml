@@ -1,1 +1,2 @@
 - pkg:maven/nl.nlighten/wildfly_exporter_module@0.0.2
+- pkg:maven/nl.nlighten/wildfly_exporter_module@0.0.4

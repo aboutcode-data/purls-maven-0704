@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure.sql.v2014_04_01/azure-mgmt-sql@1.0.0-beta
+- pkg:maven/com.microsoft.azure.sql.v2014_04_01/azure-mgmt-sql@1.0.0-beta?classifier=sources

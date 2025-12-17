@@ -1,0 +1,2 @@
+- pkg:maven/de.telekom.test/bdd-web-app@1.2
+- pkg:maven/de.telekom.test/bdd-web-app@1.2?classifier=sources

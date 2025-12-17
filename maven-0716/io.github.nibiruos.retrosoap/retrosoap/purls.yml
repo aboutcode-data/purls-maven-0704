@@ -1,0 +1,2 @@
+- pkg:maven/io.github.nibiruos.retrosoap/retrosoap@1.0.0
+- pkg:maven/io.github.nibiruos.retrosoap/retrosoap@1.0.0?classifier=sources

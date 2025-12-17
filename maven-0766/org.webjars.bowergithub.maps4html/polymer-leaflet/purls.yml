@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bowergithub.maps4html/polymer-leaflet@0.2.0-Polymer-Leaflet
 - pkg:maven/org.webjars.bowergithub.maps4html/polymer-leaflet@0.2.0-Polymer-Leaflet?classifier=sources
+- pkg:maven/org.webjars.bowergithub.maps4html/polymer-leaflet@0.2.1-Polymer-Leaflet
+- pkg:maven/org.webjars.bowergithub.maps4html/polymer-leaflet@0.2.1-Polymer-Leaflet?classifier=sources

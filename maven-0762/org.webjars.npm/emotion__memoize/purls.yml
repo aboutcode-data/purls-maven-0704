@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/emotion__memoize@0.6.5?classifier=sources
 - pkg:maven/org.webjars.npm/emotion__memoize@0.6.6
 - pkg:maven/org.webjars.npm/emotion__memoize@0.6.6?classifier=sources
+- pkg:maven/org.webjars.npm/emotion__memoize@0.7.1
+- pkg:maven/org.webjars.npm/emotion__memoize@0.7.1?classifier=sources

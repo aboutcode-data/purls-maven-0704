@@ -1,6 +1,10 @@
 - pkg:maven/info.laht/yaj-rpc@0.1
 - pkg:maven/info.laht/yaj-rpc@0.10.0
 - pkg:maven/info.laht/yaj-rpc@0.10.0?classifier=sources
+- pkg:maven/info.laht/yaj-rpc@0.10.1
+- pkg:maven/info.laht/yaj-rpc@0.10.1?classifier=sources
+- pkg:maven/info.laht/yaj-rpc@0.10.2
+- pkg:maven/info.laht/yaj-rpc@0.10.2?classifier=sources
 - pkg:maven/info.laht/yaj-rpc@0.1?classifier=sources
 - pkg:maven/info.laht/yaj-rpc@0.2
 - pkg:maven/info.laht/yaj-rpc@0.2?classifier=sources

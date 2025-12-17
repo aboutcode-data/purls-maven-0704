@@ -1,0 +1,4 @@
+- pkg:maven/com.gojek/config@0.2.3
+- pkg:maven/com.gojek/config@0.2.5
+- pkg:maven/com.gojek/config@0.2.6
+- pkg:maven/com.gojek/config@0.2.6?classifier=sources

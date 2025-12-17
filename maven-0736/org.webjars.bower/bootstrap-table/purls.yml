@@ -4,6 +4,14 @@
 - pkg:maven/org.webjars.bower/bootstrap-table@1.11.0?classifier=sources
 - pkg:maven/org.webjars.bower/bootstrap-table@1.11.1
 - pkg:maven/org.webjars.bower/bootstrap-table@1.11.1?classifier=sources
+- pkg:maven/org.webjars.bower/bootstrap-table@1.13.1
+- pkg:maven/org.webjars.bower/bootstrap-table@1.13.1?classifier=sources
+- pkg:maven/org.webjars.bower/bootstrap-table@1.13.2
+- pkg:maven/org.webjars.bower/bootstrap-table@1.13.2?classifier=sources
+- pkg:maven/org.webjars.bower/bootstrap-table@1.13.4
+- pkg:maven/org.webjars.bower/bootstrap-table@1.13.4?classifier=sources
+- pkg:maven/org.webjars.bower/bootstrap-table@1.14.1
+- pkg:maven/org.webjars.bower/bootstrap-table@1.14.1?classifier=sources
 - pkg:maven/org.webjars.bower/bootstrap-table@1.2.3
 - pkg:maven/org.webjars.bower/bootstrap-table@1.2.3?classifier=sources
 - pkg:maven/org.webjars.bower/bootstrap-table@1.2.4

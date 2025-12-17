@@ -4,5 +4,11 @@
 - pkg:maven/fr.iscpif.gridscale/ipfsexample_2.12@2.11?classifier=sources
 - pkg:maven/fr.iscpif.gridscale/ipfsexample_2.12@2.12
 - pkg:maven/fr.iscpif.gridscale/ipfsexample_2.12@2.12?classifier=sources
+- pkg:maven/fr.iscpif.gridscale/ipfsexample_2.12@2.13
+- pkg:maven/fr.iscpif.gridscale/ipfsexample_2.12@2.13?classifier=sources
+- pkg:maven/fr.iscpif.gridscale/ipfsexample_2.12@2.14
+- pkg:maven/fr.iscpif.gridscale/ipfsexample_2.12@2.14?classifier=sources
+- pkg:maven/fr.iscpif.gridscale/ipfsexample_2.12@2.15
+- pkg:maven/fr.iscpif.gridscale/ipfsexample_2.12@2.15?classifier=sources
 - pkg:maven/fr.iscpif.gridscale/ipfsexample_2.12@2.9
 - pkg:maven/fr.iscpif.gridscale/ipfsexample_2.12@2.9?classifier=sources

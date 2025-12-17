@@ -1,0 +1,2 @@
+- pkg:maven/io.github.raghav-chandra/json-matcher@1.0.0
+- pkg:maven/io.github.raghav-chandra/json-matcher@1.0.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.sippnex.landscape/landscape-utils@1.0.0
+- pkg:maven/com.sippnex.landscape/landscape-utils@1.0.0?classifier=sources
+- pkg:maven/com.sippnex.landscape/landscape-utils@1.1.1
+- pkg:maven/com.sippnex.landscape/landscape-utils@1.1.1?classifier=sources

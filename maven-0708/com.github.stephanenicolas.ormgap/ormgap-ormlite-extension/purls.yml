@@ -32,3 +32,5 @@
 - pkg:maven/com.github.stephanenicolas.ormgap/ormgap-ormlite-extension@3.0.3?classifier=sources
 - pkg:maven/com.github.stephanenicolas.ormgap/ormgap-ormlite-extension@3.0.4
 - pkg:maven/com.github.stephanenicolas.ormgap/ormgap-ormlite-extension@3.0.4?classifier=sources
+- pkg:maven/com.github.stephanenicolas.ormgap/ormgap-ormlite-extension@3.0.5
+- pkg:maven/com.github.stephanenicolas.ormgap/ormgap-ormlite-extension@3.0.5?classifier=sources

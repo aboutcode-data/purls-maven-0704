@@ -8,3 +8,5 @@
 - pkg:maven/com.sdl.web/web-ambient-api@8.5.0-1010?classifier=sources
 - pkg:maven/com.sdl.web/web-ambient-api@8.5.0-1021
 - pkg:maven/com.sdl.web/web-ambient-api@8.5.0-1021?classifier=sources
+- pkg:maven/com.sdl.web/web-ambient-api@8.5.0-1050
+- pkg:maven/com.sdl.web/web-ambient-api@8.5.0-1050?classifier=sources

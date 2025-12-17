@@ -1,0 +1,4 @@
+- pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-pkcs12@2.3.0?classifier=sources
+- pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-pkcs12@2.3.0?type=zip
+- pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-pkcs12@2.4.0?classifier=sources
+- pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-pkcs12@2.4.0?type=zip

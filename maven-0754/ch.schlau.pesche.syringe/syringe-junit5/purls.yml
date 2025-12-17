@@ -1,0 +1,2 @@
+- pkg:maven/ch.schlau.pesche.syringe/syringe-junit5@0.1.0
+- pkg:maven/ch.schlau.pesche.syringe/syringe-junit5@0.1.0?classifier=sources

@@ -41,3 +41,5 @@
 - pkg:maven/org.apache.juddi/juddi-core@3.3.4?classifier=sources
 - pkg:maven/org.apache.juddi/juddi-core@3.3.5
 - pkg:maven/org.apache.juddi/juddi-core@3.3.5?classifier=sources
+- pkg:maven/org.apache.juddi/juddi-core@3.3.6
+- pkg:maven/org.apache.juddi/juddi-core@3.3.6?classifier=sources

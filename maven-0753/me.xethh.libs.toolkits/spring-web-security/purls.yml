@@ -1,0 +1,8 @@
+- pkg:maven/me.xethh.libs.toolkits/spring-web-security@1.0-RELEASE
+- pkg:maven/me.xethh.libs.toolkits/spring-web-security@1.0-RELEASE?classifier=sources
+- pkg:maven/me.xethh.libs.toolkits/spring-web-security@1.2-RELEASE
+- pkg:maven/me.xethh.libs.toolkits/spring-web-security@1.2-RELEASE?classifier=sources
+- pkg:maven/me.xethh.libs.toolkits/spring-web-security@1.4-RELEASE
+- pkg:maven/me.xethh.libs.toolkits/spring-web-security@1.4-RELEASE?classifier=sources
+- pkg:maven/me.xethh.libs.toolkits/spring-web-security@1.4.2-RELEASE
+- pkg:maven/me.xethh.libs.toolkits/spring-web-security@1.4.2-RELEASE?classifier=sources

@@ -34,6 +34,8 @@
 - pkg:maven/com.commercetools.sunrise/sbt-tasks_2.11@0.24.1?classifier=sources
 - pkg:maven/com.commercetools.sunrise/sbt-tasks_2.11@0.24.2
 - pkg:maven/com.commercetools.sunrise/sbt-tasks_2.11@0.24.2?classifier=sources
+- pkg:maven/com.commercetools.sunrise/sbt-tasks_2.11@0.25.0
+- pkg:maven/com.commercetools.sunrise/sbt-tasks_2.11@0.25.0?classifier=sources
 - pkg:maven/com.commercetools.sunrise/sbt-tasks_2.11@0.7.0
 - pkg:maven/com.commercetools.sunrise/sbt-tasks_2.11@0.7.0?classifier=sources
 - pkg:maven/com.commercetools.sunrise/sbt-tasks_2.11@0.8.0

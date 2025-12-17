@@ -1,0 +1,6 @@
+- pkg:maven/com.cognitect.aws/cur@668.2.364.0
+- pkg:maven/com.cognitect.aws/cur@668.2.364.0?classifier=sources
+- pkg:maven/com.cognitect.aws/cur@697.2.391.0
+- pkg:maven/com.cognitect.aws/cur@697.2.391.0?classifier=sources
+- pkg:maven/com.cognitect.aws/cur@711.2.411.0
+- pkg:maven/com.cognitect.aws/cur@711.2.411.0?classifier=sources

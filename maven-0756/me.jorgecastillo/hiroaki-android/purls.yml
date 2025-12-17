@@ -14,3 +14,6 @@
 - pkg:maven/me.jorgecastillo/hiroaki-android@0.0.7?type=aar
 - pkg:maven/me.jorgecastillo/hiroaki-android@0.0.8?classifier=sources
 - pkg:maven/me.jorgecastillo/hiroaki-android@0.0.8?type=aar
+- pkg:maven/me.jorgecastillo/hiroaki-android@0.0.9?classifier=sources
+- pkg:maven/me.jorgecastillo/hiroaki-android@0.1.0?classifier=sources
+- pkg:maven/me.jorgecastillo/hiroaki-android@0.1.0?type=aar

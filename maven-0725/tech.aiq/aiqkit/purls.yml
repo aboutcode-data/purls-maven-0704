@@ -1,2 +1,6 @@
+- pkg:maven/tech.aiq/aiqkit@0.9.10?type=aar
 - pkg:maven/tech.aiq/aiqkit@0.9.4?type=aar
 - pkg:maven/tech.aiq/aiqkit@0.9.6?type=aar
+- pkg:maven/tech.aiq/aiqkit@0.9.7?type=aar
+- pkg:maven/tech.aiq/aiqkit@0.9.8?type=aar
+- pkg:maven/tech.aiq/aiqkit@0.9.9?type=aar

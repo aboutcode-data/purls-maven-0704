@@ -6,3 +6,7 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.editors@3.11.100?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.editors@3.11.200
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.editors@3.11.200?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.editors@3.11.300
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.editors@3.11.300?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.editors@3.11.400
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.editors@3.11.400?classifier=sources

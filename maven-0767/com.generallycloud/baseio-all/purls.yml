@@ -28,3 +28,7 @@
 - pkg:maven/com.generallycloud/baseio-all@3.2.7.RELEASE?classifier=sources
 - pkg:maven/com.generallycloud/baseio-all@3.2.8.RELEASE
 - pkg:maven/com.generallycloud/baseio-all@3.2.8.RELEASE?classifier=sources
+- pkg:maven/com.generallycloud/baseio-all@3.2.9-BETA-1
+- pkg:maven/com.generallycloud/baseio-all@3.2.9-BETA-1?classifier=sources
+- pkg:maven/com.generallycloud/baseio-all@3.2.9-BETA-2
+- pkg:maven/com.generallycloud/baseio-all@3.2.9-BETA-2?classifier=sources

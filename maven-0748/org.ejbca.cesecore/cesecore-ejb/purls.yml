@@ -2,3 +2,5 @@
 - pkg:maven/org.ejbca.cesecore/cesecore-ejb@6.4.1?classifier=sources
 - pkg:maven/org.ejbca.cesecore/cesecore-ejb@6.8.0
 - pkg:maven/org.ejbca.cesecore/cesecore-ejb@6.8.0?classifier=sources
+- pkg:maven/org.ejbca.cesecore/cesecore-ejb@7.0.0.1
+- pkg:maven/org.ejbca.cesecore/cesecore-ejb@7.0.0.1?classifier=sources

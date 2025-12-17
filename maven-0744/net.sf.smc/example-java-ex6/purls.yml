@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.smc/example-java-ex6@7.0.0
+- pkg:maven/net.sf.smc/example-java-ex6@7.0.0?classifier=sources

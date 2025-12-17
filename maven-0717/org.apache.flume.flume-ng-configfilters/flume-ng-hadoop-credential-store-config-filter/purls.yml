@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.flume.flume-ng-configfilters/flume-ng-hadoop-credential-store-config-filter@1.9.0
+- pkg:maven/org.apache.flume.flume-ng-configfilters/flume-ng-hadoop-credential-store-config-filter@1.9.0?classifier=sources

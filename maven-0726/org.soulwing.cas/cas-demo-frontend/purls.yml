@@ -2,3 +2,5 @@
 - pkg:maven/org.soulwing.cas/cas-demo-frontend@1.0.5?type=war
 - pkg:maven/org.soulwing.cas/cas-demo-frontend@1.0.6?classifier=sources
 - pkg:maven/org.soulwing.cas/cas-demo-frontend@1.0.6?type=war
+- pkg:maven/org.soulwing.cas/cas-demo-frontend@2.0.2?classifier=sources
+- pkg:maven/org.soulwing.cas/cas-demo-frontend@2.0.2?type=war

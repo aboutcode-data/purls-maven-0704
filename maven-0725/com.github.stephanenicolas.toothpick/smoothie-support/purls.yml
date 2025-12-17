@@ -1,0 +1,4 @@
+- pkg:maven/com.github.stephanenicolas.toothpick/smoothie-support@2.0.0?classifier=sources
+- pkg:maven/com.github.stephanenicolas.toothpick/smoothie-support@2.0.0?type=aar
+- pkg:maven/com.github.stephanenicolas.toothpick/smoothie-support@2.1.0?classifier=sources
+- pkg:maven/com.github.stephanenicolas.toothpick/smoothie-support@2.1.0?type=aar

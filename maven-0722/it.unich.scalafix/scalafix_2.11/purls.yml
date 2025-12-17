@@ -4,3 +4,5 @@
 - pkg:maven/it.unich.scalafix/scalafix_2.11@0.5.2?classifier=sources
 - pkg:maven/it.unich.scalafix/scalafix_2.11@0.6.0
 - pkg:maven/it.unich.scalafix/scalafix_2.11@0.6.0?classifier=sources
+- pkg:maven/it.unich.scalafix/scalafix_2.11@0.7.0
+- pkg:maven/it.unich.scalafix/scalafix_2.11@0.7.0?classifier=sources

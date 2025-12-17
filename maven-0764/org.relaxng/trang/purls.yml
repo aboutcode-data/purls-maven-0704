@@ -1,0 +1,4 @@
+- pkg:maven/org.relaxng/trang@20181204
+- pkg:maven/org.relaxng/trang@20181204?classifier=sources
+- pkg:maven/org.relaxng/trang@20181222
+- pkg:maven/org.relaxng/trang@20181222?classifier=sources

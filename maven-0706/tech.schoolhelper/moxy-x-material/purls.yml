@@ -1,0 +1,4 @@
+- pkg:maven/tech.schoolhelper/moxy-x-material@1.6.0-beta
+- pkg:maven/tech.schoolhelper/moxy-x-material@1.6.0-beta?classifier=sources
+- pkg:maven/tech.schoolhelper/moxy-x-material@1.7.0
+- pkg:maven/tech.schoolhelper/moxy-x-material@1.7.0?classifier=sources

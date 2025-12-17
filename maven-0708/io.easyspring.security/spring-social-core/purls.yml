@@ -1,0 +1,4 @@
+- pkg:maven/io.easyspring.security/spring-social-core@1.0.0-RELEASE
+- pkg:maven/io.easyspring.security/spring-social-core@1.0.0-RELEASE?classifier=sources
+- pkg:maven/io.easyspring.security/spring-social-core@1.0.1-RELEASE
+- pkg:maven/io.easyspring.security/spring-social-core@1.0.1-RELEASE?classifier=sources

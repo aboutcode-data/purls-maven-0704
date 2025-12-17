@@ -3,6 +3,7 @@
 - pkg:maven/org.javalite/activeweb-lessc-integration-test@1.14
 - pkg:maven/org.javalite/activeweb-lessc-integration-test@1.15
 - pkg:maven/org.javalite/activeweb-lessc-integration-test@1.15.j7
+- pkg:maven/org.javalite/activeweb-lessc-integration-test@1.16.j7
 - pkg:maven/org.javalite/activeweb-lessc-integration-test@2.0
 - pkg:maven/org.javalite/activeweb-lessc-integration-test@2.1
 - pkg:maven/org.javalite/activeweb-lessc-integration-test@2.2

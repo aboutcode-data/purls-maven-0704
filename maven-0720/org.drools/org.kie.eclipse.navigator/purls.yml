@@ -30,6 +30,12 @@
 - pkg:maven/org.drools/org.kie.eclipse.navigator@7.11.0.Final?classifier=sources
 - pkg:maven/org.drools/org.kie.eclipse.navigator@7.12.0.Final?classifier=sources
 - pkg:maven/org.drools/org.kie.eclipse.navigator@7.13.0.Final?classifier=sources
+- pkg:maven/org.drools/org.kie.eclipse.navigator@7.14.0.Final?classifier=sources
+- pkg:maven/org.drools/org.kie.eclipse.navigator@7.15.0.Final?classifier=sources
+- pkg:maven/org.drools/org.kie.eclipse.navigator@7.16.0.Final?classifier=sources
+- pkg:maven/org.drools/org.kie.eclipse.navigator@7.17.0.Final?classifier=sources
+- pkg:maven/org.drools/org.kie.eclipse.navigator@7.18.0.Final?classifier=sources
+- pkg:maven/org.drools/org.kie.eclipse.navigator@7.19.0.Final?classifier=sources
 - pkg:maven/org.drools/org.kie.eclipse.navigator@7.2.0.Final?classifier=sources
 - pkg:maven/org.drools/org.kie.eclipse.navigator@7.3.0.Final?classifier=sources
 - pkg:maven/org.drools/org.kie.eclipse.navigator@7.4.0.Final?classifier=sources

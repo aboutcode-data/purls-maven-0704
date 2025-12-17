@@ -92,3 +92,9 @@
 - pkg:maven/org.duracloud/irodsstorageprovider@4.4.6?classifier=sources
 - pkg:maven/org.duracloud/irodsstorageprovider@5.0.0
 - pkg:maven/org.duracloud/irodsstorageprovider@5.0.0?classifier=sources
+- pkg:maven/org.duracloud/irodsstorageprovider@5.1.0
+- pkg:maven/org.duracloud/irodsstorageprovider@5.1.0?classifier=sources
+- pkg:maven/org.duracloud/irodsstorageprovider@6.0.0
+- pkg:maven/org.duracloud/irodsstorageprovider@6.0.0?classifier=sources
+- pkg:maven/org.duracloud/irodsstorageprovider@6.0.1
+- pkg:maven/org.duracloud/irodsstorageprovider@6.0.1?classifier=sources

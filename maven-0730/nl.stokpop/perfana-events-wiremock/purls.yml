@@ -1,0 +1,2 @@
+- pkg:maven/nl.stokpop/perfana-events-wiremock@0.0.1
+- pkg:maven/nl.stokpop/perfana-events-wiremock@0.0.1?classifier=sources

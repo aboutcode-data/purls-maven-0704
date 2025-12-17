@@ -26,3 +26,11 @@
 - pkg:maven/com.thoughtworks.binding/fxml_sjs0.6_2.10@11.2.0?classifier=sources
 - pkg:maven/com.thoughtworks.binding/fxml_sjs0.6_2.10@11.3.0
 - pkg:maven/com.thoughtworks.binding/fxml_sjs0.6_2.10@11.3.0?classifier=sources
+- pkg:maven/com.thoughtworks.binding/fxml_sjs0.6_2.10@11.3.1
+- pkg:maven/com.thoughtworks.binding/fxml_sjs0.6_2.10@11.3.1?classifier=sources
+- pkg:maven/com.thoughtworks.binding/fxml_sjs0.6_2.10@11.4.0
+- pkg:maven/com.thoughtworks.binding/fxml_sjs0.6_2.10@11.4.0?classifier=sources
+- pkg:maven/com.thoughtworks.binding/fxml_sjs0.6_2.10@11.5.0
+- pkg:maven/com.thoughtworks.binding/fxml_sjs0.6_2.10@11.5.0?classifier=sources
+- pkg:maven/com.thoughtworks.binding/fxml_sjs0.6_2.10@11.6.0
+- pkg:maven/com.thoughtworks.binding/fxml_sjs0.6_2.10@11.6.0?classifier=sources

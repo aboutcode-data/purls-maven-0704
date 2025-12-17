@@ -24,3 +24,9 @@
 - pkg:maven/org.openksavi.sponge/sponge-py4j@1.4.2?classifier=sources
 - pkg:maven/org.openksavi.sponge/sponge-py4j@1.5.0
 - pkg:maven/org.openksavi.sponge/sponge-py4j@1.5.0?classifier=sources
+- pkg:maven/org.openksavi.sponge/sponge-py4j@1.6.0
+- pkg:maven/org.openksavi.sponge/sponge-py4j@1.6.0?classifier=sources
+- pkg:maven/org.openksavi.sponge/sponge-py4j@1.7.0
+- pkg:maven/org.openksavi.sponge/sponge-py4j@1.7.0?classifier=sources
+- pkg:maven/org.openksavi.sponge/sponge-py4j@1.8.0
+- pkg:maven/org.openksavi.sponge/sponge-py4j@1.8.0?classifier=sources

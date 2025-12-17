@@ -7,3 +7,5 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-services-group-all@3.2.6
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-services-group-all@3.2.7
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-services-group-all@3.2.8
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-services-group-all@3.3.0
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-services-group-all@3.3.1

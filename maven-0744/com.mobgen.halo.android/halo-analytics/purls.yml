@@ -12,3 +12,5 @@
 - pkg:maven/com.mobgen.halo.android/halo-analytics@2.5.3?type=aar
 - pkg:maven/com.mobgen.halo.android/halo-analytics@2.5.4?classifier=sources
 - pkg:maven/com.mobgen.halo.android/halo-analytics@2.5.4?type=aar
+- pkg:maven/com.mobgen.halo.android/halo-analytics@2.7.0?classifier=sources
+- pkg:maven/com.mobgen.halo.android/halo-analytics@2.7.0?type=aar

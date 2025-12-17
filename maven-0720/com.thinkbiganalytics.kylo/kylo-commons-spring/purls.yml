@@ -1,0 +1,2 @@
+- pkg:maven/com.thinkbiganalytics.kylo/kylo-commons-spring@0.10.0
+- pkg:maven/com.thinkbiganalytics.kylo/kylo-commons-spring@0.10.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.extension.siddhi.io.googlepubsub/siddhi-io-googlepubsub@1.0.0
+- pkg:maven/org.wso2.extension.siddhi.io.googlepubsub/siddhi-io-googlepubsub@1.0.0?classifier=sources

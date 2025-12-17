@@ -1,0 +1,4 @@
+- pkg:maven/de.lars-sh/utils-annotations@0.9.0
+- pkg:maven/de.lars-sh/utils-annotations@0.9.0?classifier=sources
+- pkg:maven/de.lars-sh/utils-annotations@0.9.1
+- pkg:maven/de.lars-sh/utils-annotations@0.9.1?classifier=sources

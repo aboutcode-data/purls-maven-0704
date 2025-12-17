@@ -1,0 +1,2 @@
+- pkg:maven/cn.ucloud/ucloud-sdk-java-umem@0.8.0-release
+- pkg:maven/cn.ucloud/ucloud-sdk-java-umem@0.8.0-release?classifier=sources

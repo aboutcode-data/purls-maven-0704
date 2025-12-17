@@ -1,0 +1,2 @@
+- pkg:maven/it.xabaras.android.espresso/recyclerview-child-actions@1.0?classifier=sources
+- pkg:maven/it.xabaras.android.espresso/recyclerview-child-actions@1.0?type=aar

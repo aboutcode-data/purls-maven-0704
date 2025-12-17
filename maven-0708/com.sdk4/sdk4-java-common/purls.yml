@@ -1,0 +1,2 @@
+- pkg:maven/com.sdk4/sdk4-java-common@0.0.1-build20181117
+- pkg:maven/com.sdk4/sdk4-java-common@0.0.1-build20181117?classifier=sources

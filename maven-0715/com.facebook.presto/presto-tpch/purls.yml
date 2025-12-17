@@ -124,6 +124,10 @@
 - pkg:maven/com.facebook.presto/presto-tpch@0.211?classifier=sources
 - pkg:maven/com.facebook.presto/presto-tpch@0.212?classifier=sources
 - pkg:maven/com.facebook.presto/presto-tpch@0.213?classifier=sources
+- pkg:maven/com.facebook.presto/presto-tpch@0.214?classifier=sources
+- pkg:maven/com.facebook.presto/presto-tpch@0.215?classifier=sources
+- pkg:maven/com.facebook.presto/presto-tpch@0.216?classifier=sources
+- pkg:maven/com.facebook.presto/presto-tpch@0.217?classifier=sources
 - pkg:maven/com.facebook.presto/presto-tpch@0.60?classifier=sources
 - pkg:maven/com.facebook.presto/presto-tpch@0.61?classifier=sources
 - pkg:maven/com.facebook.presto/presto-tpch@0.62?classifier=sources

@@ -5,3 +5,7 @@
 - pkg:maven/com.datomic/client-pro@0.8.17
 - pkg:maven/com.datomic/client-pro@0.8.20
 - pkg:maven/com.datomic/client-pro@0.8.23
+- pkg:maven/com.datomic/client-pro@0.8.25
+- pkg:maven/com.datomic/client-pro@0.8.26
+- pkg:maven/com.datomic/client-pro@0.8.27
+- pkg:maven/com.datomic/client-pro@0.8.28

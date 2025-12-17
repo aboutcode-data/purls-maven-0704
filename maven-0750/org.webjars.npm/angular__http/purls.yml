@@ -41,6 +41,8 @@
 - pkg:maven/org.webjars.npm/angular__http@2.3.1
 - pkg:maven/org.webjars.npm/angular__http@2.3.1?classifier=sources
 - pkg:maven/org.webjars.npm/angular__http@2.4.1
+- pkg:maven/org.webjars.npm/angular__http@2.4.10
+- pkg:maven/org.webjars.npm/angular__http@2.4.10?classifier=sources
 - pkg:maven/org.webjars.npm/angular__http@2.4.1?classifier=sources
 - pkg:maven/org.webjars.npm/angular__http@2.4.2
 - pkg:maven/org.webjars.npm/angular__http@2.4.2?classifier=sources
@@ -108,3 +110,5 @@
 - pkg:maven/org.webjars.npm/angular__http@6.1.4?classifier=sources
 - pkg:maven/org.webjars.npm/angular__http@6.1.9
 - pkg:maven/org.webjars.npm/angular__http@6.1.9?classifier=sources
+- pkg:maven/org.webjars.npm/angular__http@7.0.0-rc.1
+- pkg:maven/org.webjars.npm/angular__http@7.0.0-rc.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.facebook.presto/presto-benchto-queries@0.213
 - pkg:maven/com.facebook.presto/presto-benchto-queries@0.213?classifier=sources
+- pkg:maven/com.facebook.presto/presto-benchto-queries@0.214
+- pkg:maven/com.facebook.presto/presto-benchto-queries@0.214?classifier=sources

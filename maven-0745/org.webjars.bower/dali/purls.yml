@@ -26,3 +26,5 @@
 - pkg:maven/org.webjars.bower/dali@1.4.0?classifier=sources
 - pkg:maven/org.webjars.bower/dali@2.0.0
 - pkg:maven/org.webjars.bower/dali@2.0.0?classifier=sources
+- pkg:maven/org.webjars.bower/dali@2.1.0
+- pkg:maven/org.webjars.bower/dali@2.1.0?classifier=sources

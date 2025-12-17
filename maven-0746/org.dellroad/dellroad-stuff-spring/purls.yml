@@ -20,3 +20,5 @@
 - pkg:maven/org.dellroad/dellroad-stuff-spring@2.2.3?classifier=sources
 - pkg:maven/org.dellroad/dellroad-stuff-spring@2.3.0
 - pkg:maven/org.dellroad/dellroad-stuff-spring@2.3.0?classifier=sources
+- pkg:maven/org.dellroad/dellroad-stuff-spring@2.4.0
+- pkg:maven/org.dellroad/dellroad-stuff-spring@2.4.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba.blink/flink-metrics-prometheus@1.5.1
+- pkg:maven/com.alibaba.blink/flink-metrics-prometheus@1.5.1?classifier=sources

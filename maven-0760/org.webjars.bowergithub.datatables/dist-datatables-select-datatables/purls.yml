@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.bowergithub.datatables/dist-datatables-select-datatables@1.2.3
+- pkg:maven/org.webjars.bowergithub.datatables/dist-datatables-select-datatables@1.2.3?classifier=sources
+- pkg:maven/org.webjars.bowergithub.datatables/dist-datatables-select-datatables@1.2.6
+- pkg:maven/org.webjars.bowergithub.datatables/dist-datatables-select-datatables@1.2.6?classifier=sources
+- pkg:maven/org.webjars.bowergithub.datatables/dist-datatables-select-datatables@1.2.7
+- pkg:maven/org.webjars.bowergithub.datatables/dist-datatables-select-datatables@1.2.7?classifier=sources

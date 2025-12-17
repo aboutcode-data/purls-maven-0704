@@ -1,0 +1,4 @@
+- pkg:maven/nl.demon.shadowland.freedumbytes.maven.dependencies/tomcat-utils@5.0.0
+- pkg:maven/nl.demon.shadowland.freedumbytes.maven.dependencies/tomcat-utils@5.0.0?classifier=sources
+- pkg:maven/nl.demon.shadowland.freedumbytes.maven.dependencies/tomcat-utils@5.0.1
+- pkg:maven/nl.demon.shadowland.freedumbytes.maven.dependencies/tomcat-utils@5.0.1?classifier=sources

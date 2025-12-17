@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/vega-encode@2.0.8
 - pkg:maven/org.webjars.npm/vega-encode@2.0.8?classifier=sources
+- pkg:maven/org.webjars.npm/vega-encode@3.2.2
+- pkg:maven/org.webjars.npm/vega-encode@3.2.2?classifier=sources

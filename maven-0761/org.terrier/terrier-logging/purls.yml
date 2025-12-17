@@ -1,1 +1,2 @@
 - pkg:maven/org.terrier/terrier-logging@5.0
+- pkg:maven/org.terrier/terrier-logging@5.1

@@ -1,5 +1,17 @@
 - pkg:maven/org.uberfire/uberfire-services-api@2.10.0.Final
 - pkg:maven/org.uberfire/uberfire-services-api@2.10.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-services-api@2.11.0.Final
+- pkg:maven/org.uberfire/uberfire-services-api@2.11.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-services-api@2.12.0.Final
+- pkg:maven/org.uberfire/uberfire-services-api@2.12.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-services-api@2.13.0.Final
+- pkg:maven/org.uberfire/uberfire-services-api@2.13.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-services-api@2.14.0.Final
+- pkg:maven/org.uberfire/uberfire-services-api@2.14.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-services-api@2.15.0.Final
+- pkg:maven/org.uberfire/uberfire-services-api@2.15.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-services-api@2.16.0.Final
+- pkg:maven/org.uberfire/uberfire-services-api@2.16.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-services-api@2.2.0.Final
 - pkg:maven/org.uberfire/uberfire-services-api@2.2.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-services-api@2.3.0.Final

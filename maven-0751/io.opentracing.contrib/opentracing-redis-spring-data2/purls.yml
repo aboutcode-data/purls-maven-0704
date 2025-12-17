@@ -1,0 +1,2 @@
+- pkg:maven/io.opentracing.contrib/opentracing-redis-spring-data2@0.0.16
+- pkg:maven/io.opentracing.contrib/opentracing-redis-spring-data2@0.0.16?classifier=sources

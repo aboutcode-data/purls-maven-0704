@@ -2,3 +2,5 @@
 - pkg:maven/com.io7m.jranges/com.io7m.jranges.core@2.0.4?classifier=sources
 - pkg:maven/com.io7m.jranges/com.io7m.jranges.core@3.0.0
 - pkg:maven/com.io7m.jranges/com.io7m.jranges.core@3.0.0?classifier=sources
+- pkg:maven/com.io7m.jranges/com.io7m.jranges.core@4.0.0
+- pkg:maven/com.io7m.jranges/com.io7m.jranges.core@4.0.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.osgi/osgi.promise@6.0.0?classifier=sources
 - pkg:maven/org.osgi/osgi.promise@7.0.0
 - pkg:maven/org.osgi/osgi.promise@7.0.0?classifier=sources
+- pkg:maven/org.osgi/osgi.promise@7.0.1
+- pkg:maven/org.osgi/osgi.promise@7.0.1?classifier=sources

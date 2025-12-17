@@ -34,3 +34,9 @@
 - pkg:maven/net.authorize/anet-java-sdk@1.9.7?classifier=sources
 - pkg:maven/net.authorize/anet-java-sdk@1.9.8
 - pkg:maven/net.authorize/anet-java-sdk@1.9.8?classifier=sources
+- pkg:maven/net.authorize/anet-java-sdk@1.9.9
+- pkg:maven/net.authorize/anet-java-sdk@1.9.9?classifier=sources
+- pkg:maven/net.authorize/anet-java-sdk@2.0.0
+- pkg:maven/net.authorize/anet-java-sdk@2.0.0?classifier=sources
+- pkg:maven/net.authorize/anet-java-sdk@2.0.1
+- pkg:maven/net.authorize/anet-java-sdk@2.0.1?classifier=sources

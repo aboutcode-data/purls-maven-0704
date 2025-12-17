@@ -24,6 +24,8 @@
 - pkg:maven/org.wicketstuff/wicket-mount-core@6.26.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicket-mount-core@6.28.0
 - pkg:maven/org.wicketstuff/wicket-mount-core@6.28.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicket-mount-core@6.30.0
+- pkg:maven/org.wicketstuff/wicket-mount-core@6.30.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicket-mount-core@7.0.0
 - pkg:maven/org.wicketstuff/wicket-mount-core@7.0.0-M3
 - pkg:maven/org.wicketstuff/wicket-mount-core@7.0.0-M3?classifier=sources
@@ -38,6 +40,10 @@
 - pkg:maven/org.wicketstuff/wicket-mount-core@7.1.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicket-mount-core@7.10.0
 - pkg:maven/org.wicketstuff/wicket-mount-core@7.10.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicket-mount-core@7.11.0
+- pkg:maven/org.wicketstuff/wicket-mount-core@7.11.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicket-mount-core@7.12.0
+- pkg:maven/org.wicketstuff/wicket-mount-core@7.12.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicket-mount-core@7.2.0
 - pkg:maven/org.wicketstuff/wicket-mount-core@7.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicket-mount-core@7.3.0
@@ -78,3 +84,7 @@
 - pkg:maven/org.wicketstuff/wicket-mount-core@8.0.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicket-mount-core@8.1.0
 - pkg:maven/org.wicketstuff/wicket-mount-core@8.1.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicket-mount-core@8.2.0
+- pkg:maven/org.wicketstuff/wicket-mount-core@8.2.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicket-mount-core@8.3.0
+- pkg:maven/org.wicketstuff/wicket-mount-core@8.3.0?classifier=sources

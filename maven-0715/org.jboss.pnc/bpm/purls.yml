@@ -22,3 +22,6 @@
 - pkg:maven/org.jboss.pnc/bpm@1.3.4?classifier=sources
 - pkg:maven/org.jboss.pnc/bpm@1.4.0?classifier=sources
 - pkg:maven/org.jboss.pnc/bpm@1.4.1?classifier=sources
+- pkg:maven/org.jboss.pnc/bpm@1.4.2?classifier=sources
+- pkg:maven/org.jboss.pnc/bpm@1.4.3?classifier=sources
+- pkg:maven/org.jboss.pnc/bpm@1.4.4?classifier=sources

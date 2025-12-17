@@ -1,0 +1,4 @@
+- pkg:maven/io.prestosql.orc/orc-protobuf@8
+- pkg:maven/io.prestosql.orc/orc-protobuf@8?classifier=sources
+- pkg:maven/io.prestosql.orc/orc-protobuf@9
+- pkg:maven/io.prestosql.orc/orc-protobuf@9?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.almasb/fxgl-test@11.1-beta
+- pkg:maven/com.github.almasb/fxgl-test@11.1-beta?classifier=sources

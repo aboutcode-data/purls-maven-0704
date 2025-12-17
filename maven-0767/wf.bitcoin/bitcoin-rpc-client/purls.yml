@@ -1,0 +1,2 @@
+- pkg:maven/wf.bitcoin/bitcoin-rpc-client@1.1.0
+- pkg:maven/wf.bitcoin/bitcoin-rpc-client@1.1.0?classifier=sources

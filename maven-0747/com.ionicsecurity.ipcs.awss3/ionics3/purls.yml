@@ -1,0 +1,2 @@
+- pkg:maven/com.ionicsecurity.ipcs.awss3/ionics3@0.9.0
+- pkg:maven/com.ionicsecurity.ipcs.awss3/ionics3@0.9.0?classifier=sources

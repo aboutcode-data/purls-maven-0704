@@ -1,0 +1,2 @@
+- pkg:maven/fi.metatavu.feign/feign-uma@1.0.1
+- pkg:maven/fi.metatavu.feign/feign-uma@1.0.1?classifier=sources

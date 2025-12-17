@@ -1,3 +1,9 @@
+- pkg:maven/org.infinispan/infinispan-javadoc-embedded@10.0.0.Alpha1
+- pkg:maven/org.infinispan/infinispan-javadoc-embedded@10.0.0.Alpha2
+- pkg:maven/org.infinispan/infinispan-javadoc-embedded@10.0.0.Alpha3
+- pkg:maven/org.infinispan/infinispan-javadoc-embedded@10.0.0.Beta1
+- pkg:maven/org.infinispan/infinispan-javadoc-embedded@10.0.0.Beta2
+- pkg:maven/org.infinispan/infinispan-javadoc-embedded@10.0.0.Beta3
 - pkg:maven/org.infinispan/infinispan-javadoc-embedded@9.0.0.Beta1
 - pkg:maven/org.infinispan/infinispan-javadoc-embedded@9.0.0.Beta1?classifier=sources
 - pkg:maven/org.infinispan/infinispan-javadoc-embedded@9.3.0.Alpha1
@@ -16,6 +22,10 @@
 - pkg:maven/org.infinispan/infinispan-javadoc-embedded@9.3.3.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-javadoc-embedded@9.3.4.Final
 - pkg:maven/org.infinispan/infinispan-javadoc-embedded@9.3.4.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-javadoc-embedded@9.3.5.Final
+- pkg:maven/org.infinispan/infinispan-javadoc-embedded@9.3.5.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-javadoc-embedded@9.3.6.Final
+- pkg:maven/org.infinispan/infinispan-javadoc-embedded@9.3.6.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-javadoc-embedded@9.4.0.Alpha1
 - pkg:maven/org.infinispan/infinispan-javadoc-embedded@9.4.0.Alpha1?classifier=sources
 - pkg:maven/org.infinispan/infinispan-javadoc-embedded@9.4.0.Beta1
@@ -28,3 +38,13 @@
 - pkg:maven/org.infinispan/infinispan-javadoc-embedded@9.4.0.CR3?classifier=sources
 - pkg:maven/org.infinispan/infinispan-javadoc-embedded@9.4.0.Final
 - pkg:maven/org.infinispan/infinispan-javadoc-embedded@9.4.1.Final
+- pkg:maven/org.infinispan/infinispan-javadoc-embedded@9.4.10.Final
+- pkg:maven/org.infinispan/infinispan-javadoc-embedded@9.4.11.Final
+- pkg:maven/org.infinispan/infinispan-javadoc-embedded@9.4.2.Final
+- pkg:maven/org.infinispan/infinispan-javadoc-embedded@9.4.3.Final
+- pkg:maven/org.infinispan/infinispan-javadoc-embedded@9.4.4.Final
+- pkg:maven/org.infinispan/infinispan-javadoc-embedded@9.4.5.Final
+- pkg:maven/org.infinispan/infinispan-javadoc-embedded@9.4.6.Final
+- pkg:maven/org.infinispan/infinispan-javadoc-embedded@9.4.7.Final
+- pkg:maven/org.infinispan/infinispan-javadoc-embedded@9.4.8.Final
+- pkg:maven/org.infinispan/infinispan-javadoc-embedded@9.4.9.Final

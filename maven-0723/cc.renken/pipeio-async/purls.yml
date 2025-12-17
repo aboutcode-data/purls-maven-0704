@@ -4,3 +4,5 @@
 - pkg:maven/cc.renken/pipeio-async@1.0.1?classifier=sources
 - pkg:maven/cc.renken/pipeio-async@1.1.0
 - pkg:maven/cc.renken/pipeio-async@1.1.0?classifier=sources
+- pkg:maven/cc.renken/pipeio-async@2.0.0
+- pkg:maven/cc.renken/pipeio-async@2.0.0?classifier=sources

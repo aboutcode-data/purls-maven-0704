@@ -4,3 +4,5 @@
 - pkg:maven/de.rwth.i2/attestor-benchmark-helper@0.3.5-SEFM2018?classifier=sources
 - pkg:maven/de.rwth.i2/attestor-benchmark-helper@0.3.8
 - pkg:maven/de.rwth.i2/attestor-benchmark-helper@0.3.8?classifier=sources
+- pkg:maven/de.rwth.i2/attestor-benchmark-helper@0.4.0
+- pkg:maven/de.rwth.i2/attestor-benchmark-helper@0.4.0?classifier=sources

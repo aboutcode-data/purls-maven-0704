@@ -13,3 +13,5 @@
 - pkg:maven/org.aksw.jena-sparql-api/jena-sparql-api-vocabs@3.7.0-1
 - pkg:maven/org.aksw.jena-sparql-api/jena-sparql-api-vocabs@3.7.0-2
 - pkg:maven/org.aksw.jena-sparql-api/jena-sparql-api-vocabs@3.7.0-3
+- pkg:maven/org.aksw.jena-sparql-api/jena-sparql-api-vocabs@3.9.0-1
+- pkg:maven/org.aksw.jena-sparql-api/jena-sparql-api-vocabs@3.9.0-1?classifier=sources

@@ -6,3 +6,11 @@
 - pkg:maven/com.androidhuman.rxfirebase2/firebase-firestore-kotlin@17.0.4.0?type=aar
 - pkg:maven/com.androidhuman.rxfirebase2/firebase-firestore-kotlin@17.1.0.0?classifier=sources
 - pkg:maven/com.androidhuman.rxfirebase2/firebase-firestore-kotlin@17.1.0.0?type=aar
+- pkg:maven/com.androidhuman.rxfirebase2/firebase-firestore-kotlin@17.1.1.0?classifier=sources
+- pkg:maven/com.androidhuman.rxfirebase2/firebase-firestore-kotlin@17.1.1.0?type=aar
+- pkg:maven/com.androidhuman.rxfirebase2/firebase-firestore-kotlin@17.1.2.0?classifier=sources
+- pkg:maven/com.androidhuman.rxfirebase2/firebase-firestore-kotlin@17.1.2.0?type=aar
+- pkg:maven/com.androidhuman.rxfirebase2/firebase-firestore-kotlin@17.1.4.0?classifier=sources
+- pkg:maven/com.androidhuman.rxfirebase2/firebase-firestore-kotlin@17.1.4.0?type=aar
+- pkg:maven/com.androidhuman.rxfirebase2/firebase-firestore-kotlin@17.1.5.0?classifier=sources
+- pkg:maven/com.androidhuman.rxfirebase2/firebase-firestore-kotlin@17.1.5.0?type=aar

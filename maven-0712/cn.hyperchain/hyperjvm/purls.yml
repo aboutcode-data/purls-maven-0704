@@ -1,0 +1,2 @@
+- pkg:maven/cn.hyperchain/hyperjvm@1.5.11
+- pkg:maven/cn.hyperchain/hyperjvm@1.5.11?classifier=sources

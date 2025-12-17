@@ -1,0 +1,4 @@
+- pkg:maven/org.codingmatters.value.objects/cdm-value-objects-maven-plugin@1.0.0
+- pkg:maven/org.codingmatters.value.objects/cdm-value-objects-maven-plugin@1.0.0?classifier=sources
+- pkg:maven/org.codingmatters.value.objects/cdm-value-objects-maven-plugin@1.1.0
+- pkg:maven/org.codingmatters.value.objects/cdm-value-objects-maven-plugin@1.1.0?classifier=sources

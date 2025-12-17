@@ -12,3 +12,5 @@
 - pkg:maven/com.cedarsoft/roach-motel@8.5.0?classifier=sources
 - pkg:maven/com.cedarsoft/roach-motel@8.5.1
 - pkg:maven/com.cedarsoft/roach-motel@8.5.1?classifier=sources
+- pkg:maven/com.cedarsoft/roach-motel@8.7.0
+- pkg:maven/com.cedarsoft/roach-motel@8.7.0?classifier=sources

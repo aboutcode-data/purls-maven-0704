@@ -1,0 +1,4 @@
+- pkg:maven/com.github.xuwei-k/play2scalaz_2.13.0-M5@0.5.2
+- pkg:maven/com.github.xuwei-k/play2scalaz_2.13.0-M5@0.5.2?classifier=sources
+- pkg:maven/com.github.xuwei-k/play2scalaz_2.13.0-M5@0.6.0
+- pkg:maven/com.github.xuwei-k/play2scalaz_2.13.0-M5@0.6.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.petitviolet/cached-edatetime_2.11@0.3.0
+- pkg:maven/net.petitviolet/cached-edatetime_2.11@0.3.0?classifier=sources

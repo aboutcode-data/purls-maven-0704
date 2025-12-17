@@ -2,3 +2,5 @@
 - pkg:maven/nz.ac.waikato.cms.weka/scatterPlot3D@1.0.3?classifier=sources
 - pkg:maven/nz.ac.waikato.cms.weka/scatterPlot3D@1.0.4
 - pkg:maven/nz.ac.waikato.cms.weka/scatterPlot3D@1.0.4?classifier=sources
+- pkg:maven/nz.ac.waikato.cms.weka/scatterPlot3D@1.0.7
+- pkg:maven/nz.ac.waikato.cms.weka/scatterPlot3D@1.0.7?classifier=sources

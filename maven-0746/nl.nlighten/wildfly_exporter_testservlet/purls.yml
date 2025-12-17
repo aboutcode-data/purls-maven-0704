@@ -2,3 +2,5 @@
 - pkg:maven/nl.nlighten/wildfly_exporter_testservlet@0.0.1?type=war
 - pkg:maven/nl.nlighten/wildfly_exporter_testservlet@0.0.2?classifier=sources
 - pkg:maven/nl.nlighten/wildfly_exporter_testservlet@0.0.2?type=war
+- pkg:maven/nl.nlighten/wildfly_exporter_testservlet@0.0.4?classifier=sources
+- pkg:maven/nl.nlighten/wildfly_exporter_testservlet@0.0.4?type=war

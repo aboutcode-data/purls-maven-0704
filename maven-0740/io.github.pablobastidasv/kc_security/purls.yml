@@ -1,0 +1,6 @@
+- pkg:maven/io.github.pablobastidasv/kc_security@1.4
+- pkg:maven/io.github.pablobastidasv/kc_security@1.4?classifier=sources
+- pkg:maven/io.github.pablobastidasv/kc_security@2.0.0
+- pkg:maven/io.github.pablobastidasv/kc_security@2.0.0?classifier=sources
+- pkg:maven/io.github.pablobastidasv/kc_security@2.0.1
+- pkg:maven/io.github.pablobastidasv/kc_security@2.0.1?classifier=sources

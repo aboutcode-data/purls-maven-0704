@@ -1,0 +1,2 @@
+- pkg:maven/ru.noties.markwon/image-okhttp@3.0.0?classifier=sources
+- pkg:maven/ru.noties.markwon/image-okhttp@3.0.0?type=aar

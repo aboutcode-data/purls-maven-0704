@@ -1,2 +1,6 @@
 - pkg:maven/de.alpharogroup/poi-worker@3.17
 - pkg:maven/de.alpharogroup/poi-worker@3.17?classifier=sources
+- pkg:maven/de.alpharogroup/poi-worker@4
+- pkg:maven/de.alpharogroup/poi-worker@4.0.1
+- pkg:maven/de.alpharogroup/poi-worker@4.0.1?classifier=sources
+- pkg:maven/de.alpharogroup/poi-worker@4?classifier=sources

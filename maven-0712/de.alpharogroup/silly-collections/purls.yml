@@ -57,6 +57,8 @@
 - pkg:maven/de.alpharogroup/silly-collections@4.34.1?classifier=sources
 - pkg:maven/de.alpharogroup/silly-collections@4.34?classifier=sources
 - pkg:maven/de.alpharogroup/silly-collections@4.35
+- pkg:maven/de.alpharogroup/silly-collections@4.35.1
+- pkg:maven/de.alpharogroup/silly-collections@4.35.1?classifier=sources
 - pkg:maven/de.alpharogroup/silly-collections@4.35?classifier=sources
 - pkg:maven/de.alpharogroup/silly-collections@4.4.0
 - pkg:maven/de.alpharogroup/silly-collections@4.4.0?classifier=sources
@@ -68,3 +70,7 @@
 - pkg:maven/de.alpharogroup/silly-collections@4.8.0?classifier=sources
 - pkg:maven/de.alpharogroup/silly-collections@4.9.0
 - pkg:maven/de.alpharogroup/silly-collections@4.9.0?classifier=sources
+- pkg:maven/de.alpharogroup/silly-collections@5
+- pkg:maven/de.alpharogroup/silly-collections@5.1
+- pkg:maven/de.alpharogroup/silly-collections@5.1?classifier=sources
+- pkg:maven/de.alpharogroup/silly-collections@5?classifier=sources

@@ -1,3 +1,4 @@
+- pkg:maven/org.neo4j/neo4j-cypher-logical-plans-3.5@3.5.0
 - pkg:maven/org.neo4j/neo4j-cypher-logical-plans-3.5@3.5.0-alpha01
 - pkg:maven/org.neo4j/neo4j-cypher-logical-plans-3.5@3.5.0-alpha01?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cypher-logical-plans-3.5@3.5.0-alpha02
@@ -22,3 +23,12 @@
 - pkg:maven/org.neo4j/neo4j-cypher-logical-plans-3.5@3.5.0-beta02?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cypher-logical-plans-3.5@3.5.0-beta03
 - pkg:maven/org.neo4j/neo4j-cypher-logical-plans-3.5@3.5.0-beta03?classifier=sources
+- pkg:maven/org.neo4j/neo4j-cypher-logical-plans-3.5@3.5.0-rc01
+- pkg:maven/org.neo4j/neo4j-cypher-logical-plans-3.5@3.5.0-rc01?classifier=sources
+- pkg:maven/org.neo4j/neo4j-cypher-logical-plans-3.5@3.5.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-cypher-logical-plans-3.5@3.5.1
+- pkg:maven/org.neo4j/neo4j-cypher-logical-plans-3.5@3.5.1?classifier=sources
+- pkg:maven/org.neo4j/neo4j-cypher-logical-plans-3.5@3.5.2
+- pkg:maven/org.neo4j/neo4j-cypher-logical-plans-3.5@3.5.2?classifier=sources
+- pkg:maven/org.neo4j/neo4j-cypher-logical-plans-3.5@3.5.3
+- pkg:maven/org.neo4j/neo4j-cypher-logical-plans-3.5@3.5.3?classifier=sources

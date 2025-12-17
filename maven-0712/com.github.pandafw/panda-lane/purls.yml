@@ -1,0 +1,2 @@
+- pkg:maven/com.github.pandafw/panda-lane@1.2.0
+- pkg:maven/com.github.pandafw/panda-lane@1.2.0?classifier=sources

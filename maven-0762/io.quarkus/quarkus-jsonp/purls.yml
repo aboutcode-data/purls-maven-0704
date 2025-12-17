@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkus/quarkus-jsonp@0.12.0
+- pkg:maven/io.quarkus/quarkus-jsonp@0.12.0?classifier=sources

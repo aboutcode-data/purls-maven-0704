@@ -48,3 +48,7 @@
 - pkg:maven/io.gravitee.am.gateway/gravitee-am-gateway-service@2.0.4?classifier=sources
 - pkg:maven/io.gravitee.am.gateway/gravitee-am-gateway-service@2.0.5
 - pkg:maven/io.gravitee.am.gateway/gravitee-am-gateway-service@2.0.5?classifier=sources
+- pkg:maven/io.gravitee.am.gateway/gravitee-am-gateway-service@2.1.0
+- pkg:maven/io.gravitee.am.gateway/gravitee-am-gateway-service@2.1.0?classifier=sources
+- pkg:maven/io.gravitee.am.gateway/gravitee-am-gateway-service@2.1.1
+- pkg:maven/io.gravitee.am.gateway/gravitee-am-gateway-service@2.1.1?classifier=sources

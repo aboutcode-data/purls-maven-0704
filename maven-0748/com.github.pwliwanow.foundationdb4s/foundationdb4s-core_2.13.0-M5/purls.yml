@@ -1,0 +1,2 @@
+- pkg:maven/com.github.pwliwanow.foundationdb4s/foundationdb4s-core_2.13.0-M5@0.8.0
+- pkg:maven/com.github.pwliwanow.foundationdb4s/foundationdb4s-core_2.13.0-M5@0.8.0?classifier=sources

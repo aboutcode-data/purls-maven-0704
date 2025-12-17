@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bowergithub.isaacs/node-lru-cache@2.7.3
+- pkg:maven/org.webjars.bowergithub.isaacs/node-lru-cache@2.7.3?classifier=sources

@@ -2,3 +2,7 @@
 - pkg:maven/org.webjars.npm/polished@1.9.2?classifier=sources
 - pkg:maven/org.webjars.npm/polished@2.0.3
 - pkg:maven/org.webjars.npm/polished@2.0.3?classifier=sources
+- pkg:maven/org.webjars.npm/polished@2.3.3
+- pkg:maven/org.webjars.npm/polished@2.3.3?classifier=sources
+- pkg:maven/org.webjars.npm/polished@3.0.4
+- pkg:maven/org.webjars.npm/polished@3.0.4?classifier=sources

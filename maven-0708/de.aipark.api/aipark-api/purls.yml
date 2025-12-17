@@ -14,3 +14,13 @@
 - pkg:maven/de.aipark.api/aipark-api@27.2?classifier=sources
 - pkg:maven/de.aipark.api/aipark-api@27.4
 - pkg:maven/de.aipark.api/aipark-api@27.4?classifier=sources
+- pkg:maven/de.aipark.api/aipark-api@28.32
+- pkg:maven/de.aipark.api/aipark-api@28.32?classifier=sources
+- pkg:maven/de.aipark.api/aipark-api@30.02
+- pkg:maven/de.aipark.api/aipark-api@30.02?classifier=sources
+- pkg:maven/de.aipark.api/aipark-api@30.03
+- pkg:maven/de.aipark.api/aipark-api@30.03?classifier=sources
+- pkg:maven/de.aipark.api/aipark-api@30.05
+- pkg:maven/de.aipark.api/aipark-api@30.05?classifier=sources
+- pkg:maven/de.aipark.api/aipark-api@30.06
+- pkg:maven/de.aipark.api/aipark-api@30.06?classifier=sources

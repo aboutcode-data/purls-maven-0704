@@ -3,3 +3,4 @@
 - pkg:maven/org.bytedeco.javacpp-presets/libfreenect2-platform@0.2.0-1.4.1
 - pkg:maven/org.bytedeco.javacpp-presets/libfreenect2-platform@0.2.0-1.4.2
 - pkg:maven/org.bytedeco.javacpp-presets/libfreenect2-platform@0.2.0-1.4.3
+- pkg:maven/org.bytedeco.javacpp-presets/libfreenect2-platform@0.2.0-1.4.4

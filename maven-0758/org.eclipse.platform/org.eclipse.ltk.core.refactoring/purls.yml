@@ -1,3 +1,5 @@
+- pkg:maven/org.eclipse.platform/org.eclipse.ltk.core.refactoring@3.10.0
+- pkg:maven/org.eclipse.platform/org.eclipse.ltk.core.refactoring@3.10.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ltk.core.refactoring@3.7.0
 - pkg:maven/org.eclipse.platform/org.eclipse.ltk.core.refactoring@3.7.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ltk.core.refactoring@3.8.0
@@ -6,3 +8,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.ltk.core.refactoring@3.9.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ltk.core.refactoring@3.9.100
 - pkg:maven/org.eclipse.platform/org.eclipse.ltk.core.refactoring@3.9.100?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.ltk.core.refactoring@3.9.200
+- pkg:maven/org.eclipse.platform/org.eclipse.ltk.core.refactoring@3.9.200?classifier=sources

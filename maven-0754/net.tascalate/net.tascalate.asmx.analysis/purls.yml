@@ -1,0 +1,4 @@
+- pkg:maven/net.tascalate/net.tascalate.asmx.analysis@7.0.0
+- pkg:maven/net.tascalate/net.tascalate.asmx.analysis@7.0.0?classifier=sources
+- pkg:maven/net.tascalate/net.tascalate.asmx.analysis@7.0.1
+- pkg:maven/net.tascalate/net.tascalate.asmx.analysis@7.0.1?classifier=sources

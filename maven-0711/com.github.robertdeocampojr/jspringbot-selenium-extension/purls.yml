@@ -1,5 +1,15 @@
 - pkg:maven/com.github.robertdeocampojr/jspringbot-selenium-extension@1.0
 - pkg:maven/com.github.robertdeocampojr/jspringbot-selenium-extension@1.0?classifier=sources
+- pkg:maven/com.github.robertdeocampojr/jspringbot-selenium-extension@2.10
+- pkg:maven/com.github.robertdeocampojr/jspringbot-selenium-extension@2.10?classifier=sources
+- pkg:maven/com.github.robertdeocampojr/jspringbot-selenium-extension@2.13
+- pkg:maven/com.github.robertdeocampojr/jspringbot-selenium-extension@2.13?classifier=sources
+- pkg:maven/com.github.robertdeocampojr/jspringbot-selenium-extension@2.14
+- pkg:maven/com.github.robertdeocampojr/jspringbot-selenium-extension@2.14?classifier=sources
+- pkg:maven/com.github.robertdeocampojr/jspringbot-selenium-extension@2.15
+- pkg:maven/com.github.robertdeocampojr/jspringbot-selenium-extension@2.15?classifier=sources
+- pkg:maven/com.github.robertdeocampojr/jspringbot-selenium-extension@2.16
+- pkg:maven/com.github.robertdeocampojr/jspringbot-selenium-extension@2.16?classifier=sources
 - pkg:maven/com.github.robertdeocampojr/jspringbot-selenium-extension@2.2
 - pkg:maven/com.github.robertdeocampojr/jspringbot-selenium-extension@2.2?classifier=sources
 - pkg:maven/com.github.robertdeocampojr/jspringbot-selenium-extension@2.3

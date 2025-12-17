@@ -1,0 +1,4 @@
+- pkg:maven/com.aliyun/aliyun-java-sdk-dms-enterprise@1.0.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-dms-enterprise@1.0.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-dms-enterprise@1.1.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-dms-enterprise@1.1.0?classifier=sources

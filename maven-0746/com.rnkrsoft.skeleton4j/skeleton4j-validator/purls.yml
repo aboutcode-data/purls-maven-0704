@@ -1,0 +1,2 @@
+- pkg:maven/com.rnkrsoft.skeleton4j/skeleton4j-validator@1.0.1
+- pkg:maven/com.rnkrsoft.skeleton4j/skeleton4j-validator@1.0.1?classifier=sources

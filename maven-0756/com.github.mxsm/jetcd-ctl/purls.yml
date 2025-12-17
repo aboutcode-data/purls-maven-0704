@@ -1,0 +1,2 @@
+- pkg:maven/com.github.mxsm/jetcd-ctl@0.3.7
+- pkg:maven/com.github.mxsm/jetcd-ctl@0.3.7?classifier=sources

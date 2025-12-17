@@ -14,3 +14,5 @@
 - pkg:maven/com.centit.framework/centit-persistence-mybatis@1.1.1808?classifier=sources
 - pkg:maven/com.centit.framework/centit-persistence-mybatis@1.1.1809
 - pkg:maven/com.centit.framework/centit-persistence-mybatis@1.1.1809?classifier=sources
+- pkg:maven/com.centit.framework/centit-persistence-mybatis@1.1.1812
+- pkg:maven/com.centit.framework/centit-persistence-mybatis@1.1.1812?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.micronaut.configuration/micronaut-micrometer-registry-cloudwatch@1.1.0.RC2
+- pkg:maven/io.micronaut.configuration/micronaut-micrometer-registry-cloudwatch@1.1.0.RC2?classifier=sources

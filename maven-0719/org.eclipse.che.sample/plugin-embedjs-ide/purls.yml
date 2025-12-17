@@ -2,3 +2,9 @@
 - pkg:maven/org.eclipse.che.sample/plugin-embedjs-ide@6.11.0?classifier=sources
 - pkg:maven/org.eclipse.che.sample/plugin-embedjs-ide@6.12.0?classifier=sources
 - pkg:maven/org.eclipse.che.sample/plugin-embedjs-ide@6.13.0?classifier=sources
+- pkg:maven/org.eclipse.che.sample/plugin-embedjs-ide@6.14.0?classifier=sources
+- pkg:maven/org.eclipse.che.sample/plugin-embedjs-ide@6.15.0?classifier=sources
+- pkg:maven/org.eclipse.che.sample/plugin-embedjs-ide@6.16.0?classifier=sources
+- pkg:maven/org.eclipse.che.sample/plugin-embedjs-ide@6.17.0?classifier=sources
+- pkg:maven/org.eclipse.che.sample/plugin-embedjs-ide@6.18.0?classifier=sources
+- pkg:maven/org.eclipse.che.sample/plugin-embedjs-ide@6.19.0?classifier=sources

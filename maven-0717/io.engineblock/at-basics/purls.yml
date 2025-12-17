@@ -298,3 +298,11 @@
 - pkg:maven/io.engineblock/at-basics@2.0.99
 - pkg:maven/io.engineblock/at-basics@2.0.99?classifier=sources
 - pkg:maven/io.engineblock/at-basics@2.0.9?classifier=sources
+- pkg:maven/io.engineblock/at-basics@2.11.01
+- pkg:maven/io.engineblock/at-basics@2.11.01?classifier=sources
+- pkg:maven/io.engineblock/at-basics@2.11.02
+- pkg:maven/io.engineblock/at-basics@2.11.02?classifier=sources
+- pkg:maven/io.engineblock/at-basics@2.11.03
+- pkg:maven/io.engineblock/at-basics@2.11.03?classifier=sources
+- pkg:maven/io.engineblock/at-basics@2.11.04
+- pkg:maven/io.engineblock/at-basics@2.11.04?classifier=sources

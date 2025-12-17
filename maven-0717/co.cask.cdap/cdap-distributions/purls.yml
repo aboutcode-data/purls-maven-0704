@@ -53,5 +53,8 @@
 - pkg:maven/co.cask.cdap/cdap-distributions@4.3.2
 - pkg:maven/co.cask.cdap/cdap-distributions@4.3.3
 - pkg:maven/co.cask.cdap/cdap-distributions@4.3.4
+- pkg:maven/co.cask.cdap/cdap-distributions@4.3.5
 - pkg:maven/co.cask.cdap/cdap-distributions@5.0.0
 - pkg:maven/co.cask.cdap/cdap-distributions@5.1.0
+- pkg:maven/co.cask.cdap/cdap-distributions@5.1.1
+- pkg:maven/co.cask.cdap/cdap-distributions@5.1.2

@@ -1,0 +1,2 @@
+- pkg:maven/cn.com.thinkit.cloud/microservice-common-util@0.0.4
+- pkg:maven/cn.com.thinkit.cloud/microservice-common-util@0.0.4?classifier=sources

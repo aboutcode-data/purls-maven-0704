@@ -1,2 +1,4 @@
 - pkg:maven/tk.yaxin/xexcel@0.0.1-Releases
 - pkg:maven/tk.yaxin/xexcel@0.0.1-Releases?classifier=sources
+- pkg:maven/tk.yaxin/xexcel@1.0.0-Releases
+- pkg:maven/tk.yaxin/xexcel@1.0.0-Releases?classifier=sources

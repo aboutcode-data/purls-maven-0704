@@ -42,3 +42,7 @@
 - pkg:maven/global.namespace.neuron-di/neuron-di-guice-scala_2.12@5.7.0?classifier=sources
 - pkg:maven/global.namespace.neuron-di/neuron-di-guice-scala_2.12@5.8.0
 - pkg:maven/global.namespace.neuron-di/neuron-di-guice-scala_2.12@5.8.0?classifier=sources
+- pkg:maven/global.namespace.neuron-di/neuron-di-guice-scala_2.12@6.0.0
+- pkg:maven/global.namespace.neuron-di/neuron-di-guice-scala_2.12@6.0.0?classifier=sources
+- pkg:maven/global.namespace.neuron-di/neuron-di-guice-scala_2.12@6.0.1
+- pkg:maven/global.namespace.neuron-di/neuron-di-guice-scala_2.12@6.0.1?classifier=sources

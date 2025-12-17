@@ -1,2 +1,10 @@
 - pkg:maven/com.charlyghislain.authenticator/example-app@1.0.0?classifier=sources
 - pkg:maven/com.charlyghislain.authenticator/example-app@1.0.0?type=war
+- pkg:maven/com.charlyghislain.authenticator/example-app@1.0.1?classifier=sources
+- pkg:maven/com.charlyghislain.authenticator/example-app@1.0.1?type=war
+- pkg:maven/com.charlyghislain.authenticator/example-app@1.0.3?classifier=sources
+- pkg:maven/com.charlyghislain.authenticator/example-app@1.0.3?type=war
+- pkg:maven/com.charlyghislain.authenticator/example-app@1.0.4?classifier=sources
+- pkg:maven/com.charlyghislain.authenticator/example-app@1.0.4?type=war
+- pkg:maven/com.charlyghislain.authenticator/example-app@1.0.6?classifier=sources
+- pkg:maven/com.charlyghislain.authenticator/example-app@1.0.6?type=war

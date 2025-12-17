@@ -2,3 +2,5 @@
 - pkg:maven/ca.pjer/hydra-client-resttemplate@0.1.0?classifier=sources
 - pkg:maven/ca.pjer/hydra-client-resttemplate@1.0.0-beta.9-8555973
 - pkg:maven/ca.pjer/hydra-client-resttemplate@1.0.0-beta.9-8555973?classifier=sources
+- pkg:maven/ca.pjer/hydra-client-resttemplate@1.0.1-beta.9-8555973
+- pkg:maven/ca.pjer/hydra-client-resttemplate@1.0.1-beta.9-8555973?classifier=sources

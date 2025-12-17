@@ -1,0 +1,2 @@
+- pkg:maven/co.botanalytics/java-sdk-rbm@1.0.0
+- pkg:maven/co.botanalytics/java-sdk-rbm@1.0.0?classifier=sources

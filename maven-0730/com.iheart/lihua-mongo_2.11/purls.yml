@@ -16,6 +16,10 @@
 - pkg:maven/com.iheart/lihua-mongo_2.11@0.11.4?classifier=sources
 - pkg:maven/com.iheart/lihua-mongo_2.11@0.12
 - pkg:maven/com.iheart/lihua-mongo_2.11@0.12?classifier=sources
+- pkg:maven/com.iheart/lihua-mongo_2.11@0.13
+- pkg:maven/com.iheart/lihua-mongo_2.11@0.13?classifier=sources
+- pkg:maven/com.iheart/lihua-mongo_2.11@0.14
+- pkg:maven/com.iheart/lihua-mongo_2.11@0.14?classifier=sources
 - pkg:maven/com.iheart/lihua-mongo_2.11@0.2.0
 - pkg:maven/com.iheart/lihua-mongo_2.11@0.2.0?classifier=sources
 - pkg:maven/com.iheart/lihua-mongo_2.11@0.2.1

@@ -40,6 +40,7 @@
 - pkg:maven/org.webpieces/http2to1_1-client@1.9.126?classifier=sources
 - pkg:maven/org.webpieces/http2to1_1-client@1.9.127
 - pkg:maven/org.webpieces/http2to1_1-client@1.9.127?classifier=sources
+- pkg:maven/org.webpieces/http2to1_1-client@1.9.130
 - pkg:maven/org.webpieces/http2to1_1-client@1.9.72
 - pkg:maven/org.webpieces/http2to1_1-client@1.9.72?classifier=sources
 - pkg:maven/org.webpieces/http2to1_1-client@1.9.73

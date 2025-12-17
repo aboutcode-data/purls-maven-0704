@@ -1,0 +1,2 @@
+- pkg:maven/org.smartrplace.sim/resource-simulation-examples@0.0.2
+- pkg:maven/org.smartrplace.sim/resource-simulation-examples@0.0.2?classifier=sources

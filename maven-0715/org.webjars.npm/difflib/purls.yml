@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/difflib@0.2.4
+- pkg:maven/org.webjars.npm/difflib@0.2.4?classifier=sources

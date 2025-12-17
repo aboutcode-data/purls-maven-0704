@@ -1,0 +1,1 @@
+- pkg:maven/io.qameta.allure.plugins/xunit-xml-plugin@2.10.0?classifier=sources

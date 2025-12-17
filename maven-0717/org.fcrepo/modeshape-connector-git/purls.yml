@@ -1,0 +1,2 @@
+- pkg:maven/org.fcrepo/modeshape-connector-git@5.4.1.fcr
+- pkg:maven/org.fcrepo/modeshape-connector-git@5.4.1.fcr?classifier=sources

@@ -22,9 +22,17 @@
 - pkg:maven/org.eclipse.hono/hono-service-device-registry@0.7-M2
 - pkg:maven/org.eclipse.hono/hono-service-device-registry@0.7-M2?classifier=sources
 - pkg:maven/org.eclipse.hono/hono-service-device-registry@0.7?classifier=sources
+- pkg:maven/org.eclipse.hono/hono-service-device-registry@0.8
 - pkg:maven/org.eclipse.hono/hono-service-device-registry@0.8-M1
 - pkg:maven/org.eclipse.hono/hono-service-device-registry@0.8-M1?classifier=sources
 - pkg:maven/org.eclipse.hono/hono-service-device-registry@0.8-M1_1
 - pkg:maven/org.eclipse.hono/hono-service-device-registry@0.8-M1_1?classifier=sources
 - pkg:maven/org.eclipse.hono/hono-service-device-registry@0.8-M2
 - pkg:maven/org.eclipse.hono/hono-service-device-registry@0.8-M2?classifier=sources
+- pkg:maven/org.eclipse.hono/hono-service-device-registry@0.8?classifier=sources
+- pkg:maven/org.eclipse.hono/hono-service-device-registry@0.9
+- pkg:maven/org.eclipse.hono/hono-service-device-registry@0.9-M1
+- pkg:maven/org.eclipse.hono/hono-service-device-registry@0.9-M1?classifier=sources
+- pkg:maven/org.eclipse.hono/hono-service-device-registry@0.9-M2
+- pkg:maven/org.eclipse.hono/hono-service-device-registry@0.9-M2?classifier=sources
+- pkg:maven/org.eclipse.hono/hono-service-device-registry@0.9?classifier=sources

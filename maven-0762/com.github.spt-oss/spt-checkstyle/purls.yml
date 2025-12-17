@@ -1,2 +1,4 @@
 - pkg:maven/com.github.spt-oss/spt-checkstyle@8.12.0
 - pkg:maven/com.github.spt-oss/spt-checkstyle@8.12.0?classifier=sources
+- pkg:maven/com.github.spt-oss/spt-checkstyle@8.15.0
+- pkg:maven/com.github.spt-oss/spt-checkstyle@8.15.0?classifier=sources

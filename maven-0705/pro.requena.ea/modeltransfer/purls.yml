@@ -1,0 +1,8 @@
+- pkg:maven/pro.requena.ea/modeltransfer@0.1
+- pkg:maven/pro.requena.ea/modeltransfer@0.1?classifier=sources
+- pkg:maven/pro.requena.ea/modeltransfer@0.9
+- pkg:maven/pro.requena.ea/modeltransfer@0.9?classifier=sources
+- pkg:maven/pro.requena.ea/modeltransfer@1.0
+- pkg:maven/pro.requena.ea/modeltransfer@1.0?classifier=sources
+- pkg:maven/pro.requena.ea/modeltransfer@1.1
+- pkg:maven/pro.requena.ea/modeltransfer@1.1?classifier=sources

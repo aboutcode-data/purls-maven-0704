@@ -1,1 +1,2 @@
 - pkg:maven/org.fujion.webjars/webjar-corejs@2.5.7
+- pkg:maven/org.fujion.webjars/webjar-corejs@2.6.4

@@ -1,0 +1,4 @@
+- pkg:maven/biz.turnonline.ecosystem/turnonline-account-steward-client@0.10
+- pkg:maven/biz.turnonline.ecosystem/turnonline-account-steward-client@0.10?classifier=sources
+- pkg:maven/biz.turnonline.ecosystem/turnonline-account-steward-client@0.9
+- pkg:maven/biz.turnonline.ecosystem/turnonline-account-steward-client@0.9?classifier=sources

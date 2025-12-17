@@ -1,2 +1,4 @@
 - pkg:maven/io.github.maropu/lljvm-benchmark@0.1.0-EXPERIMENTAL
 - pkg:maven/io.github.maropu/lljvm-benchmark@0.1.0-EXPERIMENTAL?classifier=sources
+- pkg:maven/io.github.maropu/lljvm-benchmark@0.2.0-EXPERIMENTAL
+- pkg:maven/io.github.maropu/lljvm-benchmark@0.2.0-EXPERIMENTAL?classifier=sources

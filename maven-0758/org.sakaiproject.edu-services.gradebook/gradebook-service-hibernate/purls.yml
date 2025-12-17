@@ -56,3 +56,7 @@
 - pkg:maven/org.sakaiproject.edu-services.gradebook/gradebook-service-hibernate@12.3?classifier=sources
 - pkg:maven/org.sakaiproject.edu-services.gradebook/gradebook-service-hibernate@12.4
 - pkg:maven/org.sakaiproject.edu-services.gradebook/gradebook-service-hibernate@12.4?classifier=sources
+- pkg:maven/org.sakaiproject.edu-services.gradebook/gradebook-service-hibernate@12.5
+- pkg:maven/org.sakaiproject.edu-services.gradebook/gradebook-service-hibernate@12.5?classifier=sources
+- pkg:maven/org.sakaiproject.edu-services.gradebook/gradebook-service-hibernate@12.6
+- pkg:maven/org.sakaiproject.edu-services.gradebook/gradebook-service-hibernate@12.6?classifier=sources

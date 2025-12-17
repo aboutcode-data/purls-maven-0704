@@ -4,3 +4,13 @@
 - pkg:maven/io.helidon.serviceconfiguration/helidon-serviceconfiguration-hikaricp-localhost@0.10.4?classifier=sources
 - pkg:maven/io.helidon.serviceconfiguration/helidon-serviceconfiguration-hikaricp-localhost@0.10.5
 - pkg:maven/io.helidon.serviceconfiguration/helidon-serviceconfiguration-hikaricp-localhost@0.10.5?classifier=sources
+- pkg:maven/io.helidon.serviceconfiguration/helidon-serviceconfiguration-hikaricp-localhost@0.11.0
+- pkg:maven/io.helidon.serviceconfiguration/helidon-serviceconfiguration-hikaricp-localhost@0.11.0?classifier=sources
+- pkg:maven/io.helidon.serviceconfiguration/helidon-serviceconfiguration-hikaricp-localhost@0.11.1
+- pkg:maven/io.helidon.serviceconfiguration/helidon-serviceconfiguration-hikaricp-localhost@0.11.1?classifier=sources
+- pkg:maven/io.helidon.serviceconfiguration/helidon-serviceconfiguration-hikaricp-localhost@1.0.0
+- pkg:maven/io.helidon.serviceconfiguration/helidon-serviceconfiguration-hikaricp-localhost@1.0.0?classifier=sources
+- pkg:maven/io.helidon.serviceconfiguration/helidon-serviceconfiguration-hikaricp-localhost@1.0.1
+- pkg:maven/io.helidon.serviceconfiguration/helidon-serviceconfiguration-hikaricp-localhost@1.0.1?classifier=sources
+- pkg:maven/io.helidon.serviceconfiguration/helidon-serviceconfiguration-hikaricp-localhost@1.0.2
+- pkg:maven/io.helidon.serviceconfiguration/helidon-serviceconfiguration-hikaricp-localhost@1.0.2?classifier=sources

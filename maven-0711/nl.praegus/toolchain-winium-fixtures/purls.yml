@@ -1,0 +1,2 @@
+- pkg:maven/nl.praegus/toolchain-winium-fixtures@1.0
+- pkg:maven/nl.praegus/toolchain-winium-fixtures@1.0?classifier=sources

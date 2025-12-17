@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/github-com-enyo-dropzone@3.10.2
 - pkg:maven/org.webjars.npm/github-com-enyo-dropzone@3.10.2?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-enyo-dropzone@5.5.0
+- pkg:maven/org.webjars.npm/github-com-enyo-dropzone@5.5.0?classifier=sources

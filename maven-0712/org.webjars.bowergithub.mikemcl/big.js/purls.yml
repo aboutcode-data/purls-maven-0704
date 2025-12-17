@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bowergithub.mikemcl/big.js@5.1.2
 - pkg:maven/org.webjars.bowergithub.mikemcl/big.js@5.1.2?classifier=sources
+- pkg:maven/org.webjars.bowergithub.mikemcl/big.js@5.2.2
+- pkg:maven/org.webjars.bowergithub.mikemcl/big.js@5.2.2?classifier=sources

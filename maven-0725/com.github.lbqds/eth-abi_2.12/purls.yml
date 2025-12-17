@@ -1,0 +1,2 @@
+- pkg:maven/com.github.lbqds/eth-abi_2.12@0.1
+- pkg:maven/com.github.lbqds/eth-abi_2.12@0.1?classifier=sources

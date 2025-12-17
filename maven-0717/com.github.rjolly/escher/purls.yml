@@ -1,0 +1,2 @@
+- pkg:maven/com.github.rjolly/escher@0.3
+- pkg:maven/com.github.rjolly/escher@0.3?classifier=sources

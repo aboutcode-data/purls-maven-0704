@@ -191,6 +191,10 @@
 - pkg:maven/org.http4s/http4s-server-metrics_2.11@0.18.20?classifier=sources
 - pkg:maven/org.http4s/http4s-server-metrics_2.11@0.18.21
 - pkg:maven/org.http4s/http4s-server-metrics_2.11@0.18.21?classifier=sources
+- pkg:maven/org.http4s/http4s-server-metrics_2.11@0.18.22
+- pkg:maven/org.http4s/http4s-server-metrics_2.11@0.18.22?classifier=sources
+- pkg:maven/org.http4s/http4s-server-metrics_2.11@0.18.23
+- pkg:maven/org.http4s/http4s-server-metrics_2.11@0.18.23?classifier=sources
 - pkg:maven/org.http4s/http4s-server-metrics_2.11@0.18.2?classifier=sources
 - pkg:maven/org.http4s/http4s-server-metrics_2.11@0.18.3
 - pkg:maven/org.http4s/http4s-server-metrics_2.11@0.18.3?classifier=sources

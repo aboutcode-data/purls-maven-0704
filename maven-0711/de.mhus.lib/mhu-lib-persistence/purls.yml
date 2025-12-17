@@ -24,3 +24,7 @@
 - pkg:maven/de.mhus.lib/mhu-lib-persistence@3.3.6?classifier=sources
 - pkg:maven/de.mhus.lib/mhu-lib-persistence@3.3.7
 - pkg:maven/de.mhus.lib/mhu-lib-persistence@3.3.7?classifier=sources
+- pkg:maven/de.mhus.lib/mhu-lib-persistence@3.4.0
+- pkg:maven/de.mhus.lib/mhu-lib-persistence@3.4.0?classifier=sources
+- pkg:maven/de.mhus.lib/mhu-lib-persistence@3.5.0
+- pkg:maven/de.mhus.lib/mhu-lib-persistence@3.5.0?classifier=sources

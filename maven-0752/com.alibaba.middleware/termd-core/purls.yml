@@ -2,3 +2,9 @@
 - pkg:maven/com.alibaba.middleware/termd-core@1.1.5?classifier=sources
 - pkg:maven/com.alibaba.middleware/termd-core@1.1.6
 - pkg:maven/com.alibaba.middleware/termd-core@1.1.6?classifier=sources
+- pkg:maven/com.alibaba.middleware/termd-core@1.1.7
+- pkg:maven/com.alibaba.middleware/termd-core@1.1.7.1
+- pkg:maven/com.alibaba.middleware/termd-core@1.1.7.1?classifier=sources
+- pkg:maven/com.alibaba.middleware/termd-core@1.1.7.2
+- pkg:maven/com.alibaba.middleware/termd-core@1.1.7.2?classifier=sources
+- pkg:maven/com.alibaba.middleware/termd-core@1.1.7?classifier=sources

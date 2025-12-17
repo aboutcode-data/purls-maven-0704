@@ -4,3 +4,5 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-alidns@2.0.1?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-alidns@2.0.6
 - pkg:maven/com.aliyun/aliyun-java-sdk-alidns@2.0.6?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-alidns@2.0.7
+- pkg:maven/com.aliyun/aliyun-java-sdk-alidns@2.0.7?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.zhangquanli/wx-spring-boot-starter-platform@0.0.1
+- pkg:maven/com.github.zhangquanli/wx-spring-boot-starter-platform@0.0.1?classifier=sources

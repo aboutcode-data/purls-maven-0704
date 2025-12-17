@@ -1,0 +1,2 @@
+- pkg:maven/org.jeecf/jeecf-module-common@1.5.0-RELEASE
+- pkg:maven/org.jeecf/jeecf-module-common@1.5.0-RELEASE?classifier=sources

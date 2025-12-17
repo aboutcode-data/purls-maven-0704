@@ -46,6 +46,10 @@
 - pkg:maven/com.google.api-client/google-api-client@1.25.0?classifier=sources
 - pkg:maven/com.google.api-client/google-api-client@1.26.0
 - pkg:maven/com.google.api-client/google-api-client@1.26.0?classifier=sources
+- pkg:maven/com.google.api-client/google-api-client@1.27.0
+- pkg:maven/com.google.api-client/google-api-client@1.27.0?classifier=sources
+- pkg:maven/com.google.api-client/google-api-client@1.28.0
+- pkg:maven/com.google.api-client/google-api-client@1.28.0?classifier=sources
 - pkg:maven/com.google.api-client/google-api-client@1.5.0-beta
 - pkg:maven/com.google.api-client/google-api-client@1.5.0-beta?classifier=sources
 - pkg:maven/com.google.api-client/google-api-client@1.5.1-beta

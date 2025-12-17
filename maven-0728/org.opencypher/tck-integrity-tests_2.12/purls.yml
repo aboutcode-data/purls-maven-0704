@@ -1,0 +1,2 @@
+- pkg:maven/org.opencypher/tck-integrity-tests_2.12@1.0.0-M13
+- pkg:maven/org.opencypher/tck-integrity-tests_2.12@1.0.0-M13?classifier=sources

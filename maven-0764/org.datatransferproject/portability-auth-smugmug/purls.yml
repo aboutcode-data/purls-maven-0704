@@ -1,0 +1,2 @@
+- pkg:maven/org.datatransferproject/portability-auth-smugmug@0.1.8
+- pkg:maven/org.datatransferproject/portability-auth-smugmug@0.1.8?classifier=sources

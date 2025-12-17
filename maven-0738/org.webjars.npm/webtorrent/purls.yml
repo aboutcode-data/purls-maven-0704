@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/webtorrent@0.103.0
+- pkg:maven/org.webjars.npm/webtorrent@0.103.0?classifier=sources

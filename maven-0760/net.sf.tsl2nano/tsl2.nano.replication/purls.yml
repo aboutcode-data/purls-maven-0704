@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.tsl2nano/tsl2.nano.replication@2.2.1
+- pkg:maven/net.sf.tsl2nano/tsl2.nano.replication@2.2.1?classifier=sources

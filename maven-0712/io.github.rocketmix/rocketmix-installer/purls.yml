@@ -1,0 +1,14 @@
+- pkg:maven/io.github.rocketmix/rocketmix-installer@1.0.15
+- pkg:maven/io.github.rocketmix/rocketmix-installer@1.0.15?classifier=sources
+- pkg:maven/io.github.rocketmix/rocketmix-installer@1.0.17
+- pkg:maven/io.github.rocketmix/rocketmix-installer@1.0.17?classifier=sources
+- pkg:maven/io.github.rocketmix/rocketmix-installer@1.0.21
+- pkg:maven/io.github.rocketmix/rocketmix-installer@1.0.21?classifier=sources
+- pkg:maven/io.github.rocketmix/rocketmix-installer@1.0.22
+- pkg:maven/io.github.rocketmix/rocketmix-installer@1.0.22?classifier=sources
+- pkg:maven/io.github.rocketmix/rocketmix-installer@1.0.23
+- pkg:maven/io.github.rocketmix/rocketmix-installer@1.0.23?classifier=sources
+- pkg:maven/io.github.rocketmix/rocketmix-installer@1.0.24
+- pkg:maven/io.github.rocketmix/rocketmix-installer@1.0.24?classifier=sources
+- pkg:maven/io.github.rocketmix/rocketmix-installer@1.0.26
+- pkg:maven/io.github.rocketmix/rocketmix-installer@1.0.26?classifier=sources

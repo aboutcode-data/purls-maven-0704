@@ -18,6 +18,8 @@
 - pkg:maven/org.webjars.npm/quasar-framework@0.17.16?classifier=sources
 - pkg:maven/org.webjars.npm/quasar-framework@0.17.17
 - pkg:maven/org.webjars.npm/quasar-framework@0.17.17?classifier=sources
+- pkg:maven/org.webjars.npm/quasar-framework@0.17.19
+- pkg:maven/org.webjars.npm/quasar-framework@0.17.19?classifier=sources
 - pkg:maven/org.webjars.npm/quasar-framework@0.17.4
 - pkg:maven/org.webjars.npm/quasar-framework@0.17.4?classifier=sources
 - pkg:maven/org.webjars.npm/quasar-framework@0.17.5
