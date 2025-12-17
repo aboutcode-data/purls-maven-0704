@@ -23,3 +23,4 @@
 - pkg:maven/org.apache.isis.core/isis@1.7.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.isis.core/isis@1.8.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.isis.core/isis@1.9.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.isis.core/isis@2.0.0-M1?classifier=source-release&type=zip

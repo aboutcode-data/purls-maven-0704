@@ -1,0 +1,4 @@
+- pkg:maven/net.corda/corda-blob-inspector@3.2-corda
+- pkg:maven/net.corda/corda-blob-inspector@3.2-corda?classifier=sources
+- pkg:maven/net.corda/corda-blob-inspector@3.2.1847-corda
+- pkg:maven/net.corda/corda-blob-inspector@3.2.1847-corda?classifier=sources

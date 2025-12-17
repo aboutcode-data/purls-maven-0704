@@ -1,0 +1,6 @@
+- pkg:maven/software.amazon.awscdk/appstream@0.15.0
+- pkg:maven/software.amazon.awscdk/appstream@0.15.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/appstream@0.15.1
+- pkg:maven/software.amazon.awscdk/appstream@0.15.1?classifier=sources
+- pkg:maven/software.amazon.awscdk/appstream@0.15.2
+- pkg:maven/software.amazon.awscdk/appstream@0.15.2?classifier=sources

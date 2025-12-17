@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/liquor-tree@0.2.32
+- pkg:maven/org.webjars.npm/liquor-tree@0.2.32?classifier=sources
+- pkg:maven/org.webjars.npm/liquor-tree@1.0.1
+- pkg:maven/org.webjars.npm/liquor-tree@1.0.1?classifier=sources

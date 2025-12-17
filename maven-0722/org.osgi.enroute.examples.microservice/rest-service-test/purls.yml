@@ -1,0 +1,2 @@
+- pkg:maven/org.osgi.enroute.examples.microservice/rest-service-test@0.0.1
+- pkg:maven/org.osgi.enroute.examples.microservice/rest-service-test@0.0.1?classifier=sources

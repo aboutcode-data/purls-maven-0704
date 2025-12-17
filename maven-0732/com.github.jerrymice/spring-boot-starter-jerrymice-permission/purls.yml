@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jerrymice/spring-boot-starter-jerrymice-permission@1.0.0.beta1
+- pkg:maven/com.github.jerrymice/spring-boot-starter-jerrymice-permission@1.0.0.beta1?classifier=sources

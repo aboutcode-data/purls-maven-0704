@@ -2,5 +2,7 @@
 - pkg:maven/org.webjars.bowergithub.fortawesome/font-awesome@4.3.0?classifier=sources
 - pkg:maven/org.webjars.bowergithub.fortawesome/font-awesome@4.4.0
 - pkg:maven/org.webjars.bowergithub.fortawesome/font-awesome@4.4.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.fortawesome/font-awesome@4.6.3
+- pkg:maven/org.webjars.bowergithub.fortawesome/font-awesome@4.6.3?classifier=sources
 - pkg:maven/org.webjars.bowergithub.fortawesome/font-awesome@4.7.0
 - pkg:maven/org.webjars.bowergithub.fortawesome/font-awesome@4.7.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.milyn.edi.unedifact/d17b-binding@1.7.1.0
+- pkg:maven/org.milyn.edi.unedifact/d17b-binding@1.7.1.0?classifier=sources

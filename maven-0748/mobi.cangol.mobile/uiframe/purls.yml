@@ -6,6 +6,8 @@
 - pkg:maven/mobi.cangol.mobile/uiframe@1.0.33?type=aar
 - pkg:maven/mobi.cangol.mobile/uiframe@1.0.3?classifier=sources
 - pkg:maven/mobi.cangol.mobile/uiframe@1.0.3?type=aar
+- pkg:maven/mobi.cangol.mobile/uiframe@1.0.66?classifier=sources
+- pkg:maven/mobi.cangol.mobile/uiframe@1.0.66?type=aar
 - pkg:maven/mobi.cangol.mobile/uiframe@1.0.8?classifier=sources
 - pkg:maven/mobi.cangol.mobile/uiframe@1.0.8?type=aar
 - pkg:maven/mobi.cangol.mobile/uiframe@1.0.9?classifier=sources

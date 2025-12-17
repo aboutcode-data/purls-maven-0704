@@ -60,3 +60,13 @@
 - pkg:maven/org.terasoluna.gfw/terasoluna-gfw-validator@5.4.1.RELEASE?classifier=sources
 - pkg:maven/org.terasoluna.gfw/terasoluna-gfw-validator@5.5.0.RC1
 - pkg:maven/org.terasoluna.gfw/terasoluna-gfw-validator@5.5.0.RC1?classifier=sources
+- pkg:maven/org.terasoluna.gfw/terasoluna-gfw-validator@5.5.0.RC2
+- pkg:maven/org.terasoluna.gfw/terasoluna-gfw-validator@5.5.0.RC2?classifier=sources
+- pkg:maven/org.terasoluna.gfw/terasoluna-gfw-validator@5.5.0.RC3
+- pkg:maven/org.terasoluna.gfw/terasoluna-gfw-validator@5.5.0.RC3?classifier=sources
+- pkg:maven/org.terasoluna.gfw/terasoluna-gfw-validator@5.5.0.RC4
+- pkg:maven/org.terasoluna.gfw/terasoluna-gfw-validator@5.5.0.RC4?classifier=sources
+- pkg:maven/org.terasoluna.gfw/terasoluna-gfw-validator@5.5.0.RC5
+- pkg:maven/org.terasoluna.gfw/terasoluna-gfw-validator@5.5.0.RC5?classifier=sources
+- pkg:maven/org.terasoluna.gfw/terasoluna-gfw-validator@5.5.0.RC6
+- pkg:maven/org.terasoluna.gfw/terasoluna-gfw-validator@5.5.0.RC6?classifier=sources

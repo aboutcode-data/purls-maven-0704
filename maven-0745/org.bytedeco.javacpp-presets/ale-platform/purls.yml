@@ -1,3 +1,5 @@
 - pkg:maven/org.bytedeco.javacpp-presets/ale-platform@0.6.0-1.4
 - pkg:maven/org.bytedeco.javacpp-presets/ale-platform@0.6.0-1.4.1
+- pkg:maven/org.bytedeco.javacpp-presets/ale-platform@0.6.0-1.4.2
+- pkg:maven/org.bytedeco.javacpp-presets/ale-platform@0.6.0-1.4.3
 - pkg:maven/org.bytedeco.javacpp-presets/ale-platform@20170702-5c7dfa5-1.3

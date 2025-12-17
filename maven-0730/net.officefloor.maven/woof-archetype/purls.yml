@@ -13,3 +13,6 @@
 - pkg:maven/net.officefloor.maven/woof-archetype@2.7.0?classifier=sources
 - pkg:maven/net.officefloor.maven/woof-archetype@2.8.0?classifier=sources
 - pkg:maven/net.officefloor.maven/woof-archetype@2.9.0?classifier=sources
+- pkg:maven/net.officefloor.maven/woof-archetype@3.0.0?classifier=sources
+- pkg:maven/net.officefloor.maven/woof-archetype@3.1.0?classifier=sources
+- pkg:maven/net.officefloor.maven/woof-archetype@3.2.0?classifier=sources

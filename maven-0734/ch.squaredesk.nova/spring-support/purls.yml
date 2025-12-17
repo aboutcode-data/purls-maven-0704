@@ -4,3 +4,11 @@
 - pkg:maven/ch.squaredesk.nova/spring-support@4.0.0-beta-2?classifier=sources
 - pkg:maven/ch.squaredesk.nova/spring-support@5.0.0
 - pkg:maven/ch.squaredesk.nova/spring-support@5.0.0?classifier=sources
+- pkg:maven/ch.squaredesk.nova/spring-support@5.2.0
+- pkg:maven/ch.squaredesk.nova/spring-support@5.2.0?classifier=sources
+- pkg:maven/ch.squaredesk.nova/spring-support@5.3.0
+- pkg:maven/ch.squaredesk.nova/spring-support@5.3.0?classifier=sources
+- pkg:maven/ch.squaredesk.nova/spring-support@6.0.0
+- pkg:maven/ch.squaredesk.nova/spring-support@6.0.0?classifier=sources
+- pkg:maven/ch.squaredesk.nova/spring-support@7.0.0
+- pkg:maven/ch.squaredesk.nova/spring-support@7.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/me.shib.java.lib/sample-java-lib-maven@0.0.1
+- pkg:maven/me.shib.java.lib/sample-java-lib-maven@0.0.1?classifier=sources

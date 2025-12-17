@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/types__slick-carousel@1.5.26
+- pkg:maven/org.webjars.npm/types__slick-carousel@1.5.26?classifier=sources
 - pkg:maven/org.webjars.npm/types__slick-carousel@1.6.32
 - pkg:maven/org.webjars.npm/types__slick-carousel@1.6.32?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.munerf.modelmapper-spring-boot-starter/modelmapper-spring-boot-starter@0.0.1
+- pkg:maven/com.github.munerf.modelmapper-spring-boot-starter/modelmapper-spring-boot-starter@0.0.1?classifier=sources

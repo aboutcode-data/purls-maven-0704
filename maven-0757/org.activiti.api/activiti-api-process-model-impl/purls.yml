@@ -1,0 +1,2 @@
+- pkg:maven/org.activiti.api/activiti-api-process-model-impl@7.0.0.Beta2
+- pkg:maven/org.activiti.api/activiti-api-process-model-impl@7.0.0.Beta2?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/de.mkammerer/argon2-jvm-nolibs@2.3?classifier=sources
 - pkg:maven/de.mkammerer/argon2-jvm-nolibs@2.4
 - pkg:maven/de.mkammerer/argon2-jvm-nolibs@2.4?classifier=sources
+- pkg:maven/de.mkammerer/argon2-jvm-nolibs@2.5
+- pkg:maven/de.mkammerer/argon2-jvm-nolibs@2.5?classifier=sources

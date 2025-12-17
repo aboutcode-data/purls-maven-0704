@@ -14,3 +14,5 @@
 - pkg:maven/com.antwerkz.critter/critter-core@2.1.1?classifier=sources
 - pkg:maven/com.antwerkz.critter/critter-core@3.0.0
 - pkg:maven/com.antwerkz.critter/critter-core@3.0.0?classifier=sources
+- pkg:maven/com.antwerkz.critter/critter-core@3.0.1
+- pkg:maven/com.antwerkz.critter/critter-core@3.0.1?classifier=sources

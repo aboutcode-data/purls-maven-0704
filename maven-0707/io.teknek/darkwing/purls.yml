@@ -1,0 +1,2 @@
+- pkg:maven/io.teknek/darkwing@0.0.0
+- pkg:maven/io.teknek/darkwing@0.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.wizzie.normalizer/service@0.6.2
+- pkg:maven/io.wizzie.normalizer/service@0.6.2?classifier=sources

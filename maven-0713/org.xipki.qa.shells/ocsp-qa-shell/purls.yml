@@ -1,0 +1,2 @@
+- pkg:maven/org.xipki.qa.shells/ocsp-qa-shell@4.0.0
+- pkg:maven/org.xipki.qa.shells/ocsp-qa-shell@4.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bowergithub.jonschlinkert/global-modules@0.2.3
+- pkg:maven/org.webjars.bowergithub.jonschlinkert/global-modules@0.2.3?classifier=sources

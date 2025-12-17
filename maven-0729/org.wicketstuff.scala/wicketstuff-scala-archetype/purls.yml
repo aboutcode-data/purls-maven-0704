@@ -70,3 +70,4 @@
 - pkg:maven/org.wicketstuff.scala/wicketstuff-scala-archetype@8.0.0-M8?classifier=sources
 - pkg:maven/org.wicketstuff.scala/wicketstuff-scala-archetype@8.0.0-M9?classifier=sources
 - pkg:maven/org.wicketstuff.scala/wicketstuff-scala-archetype@8.0.0?classifier=sources
+- pkg:maven/org.wicketstuff.scala/wicketstuff-scala-archetype@8.1.0?classifier=sources

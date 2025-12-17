@@ -1,0 +1,4 @@
+- pkg:maven/com.github.hazard4j/swagger4jsonrpc@0.0.1.RELEASE
+- pkg:maven/com.github.hazard4j/swagger4jsonrpc@0.0.1.RELEASE?classifier=sources
+- pkg:maven/com.github.hazard4j/swagger4jsonrpc@0.0.2
+- pkg:maven/com.github.hazard4j/swagger4jsonrpc@0.0.2?classifier=sources

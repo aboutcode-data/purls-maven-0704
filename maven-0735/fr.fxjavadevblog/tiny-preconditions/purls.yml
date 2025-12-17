@@ -1,0 +1,2 @@
+- pkg:maven/fr.fxjavadevblog/tiny-preconditions@1.0.8
+- pkg:maven/fr.fxjavadevblog/tiny-preconditions@1.0.8?classifier=sources

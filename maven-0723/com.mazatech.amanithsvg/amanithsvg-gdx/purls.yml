@@ -1,0 +1,4 @@
+- pkg:maven/com.mazatech.amanithsvg/amanithsvg-gdx@1.9.8
+- pkg:maven/com.mazatech.amanithsvg/amanithsvg-gdx@1.9.8?classifier=sources
+- pkg:maven/com.mazatech.amanithsvg/amanithsvg-gdx@1.9.9
+- pkg:maven/com.mazatech.amanithsvg/amanithsvg-gdx@1.9.9?classifier=sources

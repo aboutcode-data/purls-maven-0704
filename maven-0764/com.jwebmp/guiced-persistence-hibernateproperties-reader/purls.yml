@@ -1,0 +1,4 @@
+- pkg:maven/com.jwebmp/guiced-persistence-hibernateproperties-reader@0.59.0.14
+- pkg:maven/com.jwebmp/guiced-persistence-hibernateproperties-reader@0.59.0.14?classifier=sources
+- pkg:maven/com.jwebmp/guiced-persistence-hibernateproperties-reader@0.60.0.1
+- pkg:maven/com.jwebmp/guiced-persistence-hibernateproperties-reader@0.60.0.1?classifier=sources

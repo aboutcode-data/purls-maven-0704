@@ -7,3 +7,4 @@
 - pkg:maven/com.tencent.angel/angel-dist@1.4.0
 - pkg:maven/com.tencent.angel/angel-dist@1.5.0
 - pkg:maven/com.tencent.angel/angel-dist@1.5.1
+- pkg:maven/com.tencent.angel/angel-dist@2.0.0-alpha

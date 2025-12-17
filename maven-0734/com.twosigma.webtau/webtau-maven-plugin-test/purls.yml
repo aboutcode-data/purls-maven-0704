@@ -1,0 +1,7 @@
+- pkg:maven/com.twosigma.webtau/webtau-maven-plugin-test@0.25
+- pkg:maven/com.twosigma.webtau/webtau-maven-plugin-test@0.27
+- pkg:maven/com.twosigma.webtau/webtau-maven-plugin-test@0.28
+- pkg:maven/com.twosigma.webtau/webtau-maven-plugin-test@0.29
+- pkg:maven/com.twosigma.webtau/webtau-maven-plugin-test@0.30
+- pkg:maven/com.twosigma.webtau/webtau-maven-plugin-test@0.31
+- pkg:maven/com.twosigma.webtau/webtau-maven-plugin-test@1.0

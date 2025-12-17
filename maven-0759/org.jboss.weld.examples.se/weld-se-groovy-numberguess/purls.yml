@@ -58,6 +58,8 @@
 - pkg:maven/org.jboss.weld.examples.se/weld-se-groovy-numberguess@2.4.6.Final?classifier=sources
 - pkg:maven/org.jboss.weld.examples.se/weld-se-groovy-numberguess@2.4.7.Final
 - pkg:maven/org.jboss.weld.examples.se/weld-se-groovy-numberguess@2.4.7.Final?classifier=sources
+- pkg:maven/org.jboss.weld.examples.se/weld-se-groovy-numberguess@2.4.8.Final
+- pkg:maven/org.jboss.weld.examples.se/weld-se-groovy-numberguess@2.4.8.Final?classifier=sources
 - pkg:maven/org.jboss.weld.examples.se/weld-se-groovy-numberguess@3.0.0.Alpha10
 - pkg:maven/org.jboss.weld.examples.se/weld-se-groovy-numberguess@3.0.0.Alpha10?classifier=sources
 - pkg:maven/org.jboss.weld.examples.se/weld-se-groovy-numberguess@3.0.0.Alpha11
@@ -102,3 +104,5 @@
 - pkg:maven/org.jboss.weld.examples.se/weld-se-groovy-numberguess@3.0.3.Final?classifier=sources
 - pkg:maven/org.jboss.weld.examples.se/weld-se-groovy-numberguess@3.0.4.Final
 - pkg:maven/org.jboss.weld.examples.se/weld-se-groovy-numberguess@3.0.4.Final?classifier=sources
+- pkg:maven/org.jboss.weld.examples.se/weld-se-groovy-numberguess@3.0.5.Final
+- pkg:maven/org.jboss.weld.examples.se/weld-se-groovy-numberguess@3.0.5.Final?classifier=sources

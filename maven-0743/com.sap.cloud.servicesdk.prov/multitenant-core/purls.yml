@@ -1,0 +1,2 @@
+- pkg:maven/com.sap.cloud.servicesdk.prov/multitenant-core@1.23.0
+- pkg:maven/com.sap.cloud.servicesdk.prov/multitenant-core@1.23.0?classifier=sources

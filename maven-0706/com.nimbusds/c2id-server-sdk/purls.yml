@@ -76,3 +76,5 @@
 - pkg:maven/com.nimbusds/c2id-server-sdk@3.8?classifier=sources
 - pkg:maven/com.nimbusds/c2id-server-sdk@3.9
 - pkg:maven/com.nimbusds/c2id-server-sdk@3.9?classifier=sources
+- pkg:maven/com.nimbusds/c2id-server-sdk@4.0
+- pkg:maven/com.nimbusds/c2id-server-sdk@4.0?classifier=sources

@@ -11,3 +11,8 @@
 - pkg:maven/org.wso2.carbon/javax.cache.wso2@4.4.29
 - pkg:maven/org.wso2.carbon/javax.cache.wso2@4.4.30
 - pkg:maven/org.wso2.carbon/javax.cache.wso2@4.4.31
+- pkg:maven/org.wso2.carbon/javax.cache.wso2@4.4.32
+- pkg:maven/org.wso2.carbon/javax.cache.wso2@4.4.33
+- pkg:maven/org.wso2.carbon/javax.cache.wso2@4.4.34
+- pkg:maven/org.wso2.carbon/javax.cache.wso2@4.4.35
+- pkg:maven/org.wso2.carbon/javax.cache.wso2@4.4.36

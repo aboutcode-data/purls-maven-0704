@@ -68,6 +68,8 @@
 - pkg:maven/org.ops4j.pax.exam/pax-exam-extender-service@4.10.0?classifier=sources
 - pkg:maven/org.ops4j.pax.exam/pax-exam-extender-service@4.11.0
 - pkg:maven/org.ops4j.pax.exam/pax-exam-extender-service@4.11.0?classifier=sources
+- pkg:maven/org.ops4j.pax.exam/pax-exam-extender-service@4.12.0
+- pkg:maven/org.ops4j.pax.exam/pax-exam-extender-service@4.12.0?classifier=sources
 - pkg:maven/org.ops4j.pax.exam/pax-exam-extender-service@4.2.0
 - pkg:maven/org.ops4j.pax.exam/pax-exam-extender-service@4.2.0?classifier=sources
 - pkg:maven/org.ops4j.pax.exam/pax-exam-extender-service@4.3.0

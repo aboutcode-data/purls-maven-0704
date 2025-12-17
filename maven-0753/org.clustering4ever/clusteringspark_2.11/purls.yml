@@ -1,0 +1,6 @@
+- pkg:maven/org.clustering4ever/clusteringspark_2.11@0.6.30
+- pkg:maven/org.clustering4ever/clusteringspark_2.11@0.6.30?classifier=sources
+- pkg:maven/org.clustering4ever/clusteringspark_2.11@0.7.0
+- pkg:maven/org.clustering4ever/clusteringspark_2.11@0.7.0?classifier=sources
+- pkg:maven/org.clustering4ever/clusteringspark_2.11@0.7.1
+- pkg:maven/org.clustering4ever/clusteringspark_2.11@0.7.1?classifier=sources

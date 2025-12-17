@@ -1,4 +1,5 @@
 - pkg:maven/com.wedeploy/com.wedeploy.android@0.1.0?classifier=sources
 - pkg:maven/com.wedeploy/com.wedeploy.android@1.0.0?classifier=sources
 - pkg:maven/com.wedeploy/com.wedeploy.android@1.1.0?classifier=sources
+- pkg:maven/com.wedeploy/com.wedeploy.android@1.2.0?classifier=sources
 - pkg:maven/com.wedeploy/com.wedeploy.android@beta-20170505?classifier=sources

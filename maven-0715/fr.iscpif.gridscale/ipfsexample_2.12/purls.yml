@@ -1,0 +1,8 @@
+- pkg:maven/fr.iscpif.gridscale/ipfsexample_2.12@2.10
+- pkg:maven/fr.iscpif.gridscale/ipfsexample_2.12@2.10?classifier=sources
+- pkg:maven/fr.iscpif.gridscale/ipfsexample_2.12@2.11
+- pkg:maven/fr.iscpif.gridscale/ipfsexample_2.12@2.11?classifier=sources
+- pkg:maven/fr.iscpif.gridscale/ipfsexample_2.12@2.12
+- pkg:maven/fr.iscpif.gridscale/ipfsexample_2.12@2.12?classifier=sources
+- pkg:maven/fr.iscpif.gridscale/ipfsexample_2.12@2.9
+- pkg:maven/fr.iscpif.gridscale/ipfsexample_2.12@2.9?classifier=sources

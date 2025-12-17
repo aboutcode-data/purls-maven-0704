@@ -1,0 +1,2 @@
+- pkg:maven/com.github.daniel-shuy/kafka-protobuf-serde@1.0.0
+- pkg:maven/com.github.daniel-shuy/kafka-protobuf-serde@1.0.0?classifier=sources

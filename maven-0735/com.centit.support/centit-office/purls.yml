@@ -5,6 +5,12 @@
 - pkg:maven/com.centit.support/centit-office@2.2.1804?classifier=sources
 - pkg:maven/com.centit.support/centit-office@2.2.1805
 - pkg:maven/com.centit.support/centit-office@2.2.1805?classifier=sources
+- pkg:maven/com.centit.support/centit-office@2.2.1806
+- pkg:maven/com.centit.support/centit-office@2.2.1806?classifier=sources
+- pkg:maven/com.centit.support/centit-office@2.2.1808
+- pkg:maven/com.centit.support/centit-office@2.2.1808?classifier=sources
+- pkg:maven/com.centit.support/centit-office@2.2.1809
+- pkg:maven/com.centit.support/centit-office@2.2.1809?classifier=sources
 - pkg:maven/com.centit.support/centit-office@2.2.1?classifier=sources
 - pkg:maven/com.centit.support/centit-office@2.2.2
 - pkg:maven/com.centit.support/centit-office@2.2.2?classifier=sources

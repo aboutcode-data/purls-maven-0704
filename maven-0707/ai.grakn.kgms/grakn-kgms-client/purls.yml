@@ -1,0 +1,2 @@
+- pkg:maven/ai.grakn.kgms/grakn-kgms-client@1.2.0
+- pkg:maven/ai.grakn.kgms/grakn-kgms-client@1.2.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/graphql-import@0.1.9
 - pkg:maven/org.webjars.npm/graphql-import@0.1.9?classifier=sources
+- pkg:maven/org.webjars.npm/graphql-import@0.4.5
+- pkg:maven/org.webjars.npm/graphql-import@0.4.5?classifier=sources

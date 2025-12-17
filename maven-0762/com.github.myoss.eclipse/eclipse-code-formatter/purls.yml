@@ -1,0 +1,4 @@
+- pkg:maven/com.github.myoss.eclipse/eclipse-code-formatter@17.3.132.637.0.Eclipse_4.7
+- pkg:maven/com.github.myoss.eclipse/eclipse-code-formatter@17.3.132.637.0.Eclipse_4.7?classifier=sources
+- pkg:maven/com.github.myoss.eclipse/eclipse-code-formatter@18.0.132.637.0-Eclipse_4.7.3a
+- pkg:maven/com.github.myoss.eclipse/eclipse-code-formatter@18.0.132.637.0-Eclipse_4.7.3a?classifier=sources

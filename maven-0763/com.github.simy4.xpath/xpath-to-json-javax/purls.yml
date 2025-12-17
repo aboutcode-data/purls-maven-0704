@@ -1,0 +1,2 @@
+- pkg:maven/com.github.simy4.xpath/xpath-to-json-javax@2.0.0
+- pkg:maven/com.github.simy4.xpath/xpath-to-json-javax@2.0.0?classifier=sources

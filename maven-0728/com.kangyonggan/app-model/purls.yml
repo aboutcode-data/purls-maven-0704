@@ -1,4 +1,6 @@
 - pkg:maven/com.kangyonggan/app-model@1.0.0
+- pkg:maven/com.kangyonggan/app-model@1.0.0.RELEASE
+- pkg:maven/com.kangyonggan/app-model@1.0.0.RELEASE?classifier=sources
 - pkg:maven/com.kangyonggan/app-model@1.0.0?classifier=sources
 - pkg:maven/com.kangyonggan/app-model@1.0.1
 - pkg:maven/com.kangyonggan/app-model@1.0.1?classifier=sources

@@ -2,6 +2,10 @@
 - pkg:maven/com.netflix.ndbench/ndbench-evcache-plugins@0.3.10?classifier=sources
 - pkg:maven/com.netflix.ndbench/ndbench-evcache-plugins@0.3.11
 - pkg:maven/com.netflix.ndbench/ndbench-evcache-plugins@0.3.11?classifier=sources
+- pkg:maven/com.netflix.ndbench/ndbench-evcache-plugins@0.3.12
+- pkg:maven/com.netflix.ndbench/ndbench-evcache-plugins@0.3.12?classifier=sources
+- pkg:maven/com.netflix.ndbench/ndbench-evcache-plugins@0.3.13
+- pkg:maven/com.netflix.ndbench/ndbench-evcache-plugins@0.3.13?classifier=sources
 - pkg:maven/com.netflix.ndbench/ndbench-evcache-plugins@0.3.7
 - pkg:maven/com.netflix.ndbench/ndbench-evcache-plugins@0.3.7?classifier=sources
 - pkg:maven/com.netflix.ndbench/ndbench-evcache-plugins@0.3.8

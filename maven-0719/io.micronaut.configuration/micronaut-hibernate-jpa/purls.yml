@@ -1,0 +1,4 @@
+- pkg:maven/io.micronaut.configuration/micronaut-hibernate-jpa@1.0.0
+- pkg:maven/io.micronaut.configuration/micronaut-hibernate-jpa@1.0.0.RC3
+- pkg:maven/io.micronaut.configuration/micronaut-hibernate-jpa@1.0.0.RC3?classifier=sources
+- pkg:maven/io.micronaut.configuration/micronaut-hibernate-jpa@1.0.0?classifier=sources

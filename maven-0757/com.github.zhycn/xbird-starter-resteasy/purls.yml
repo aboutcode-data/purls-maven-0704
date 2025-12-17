@@ -1,2 +1,8 @@
 - pkg:maven/com.github.zhycn/xbird-starter-resteasy@2.1.0
 - pkg:maven/com.github.zhycn/xbird-starter-resteasy@2.1.0?classifier=sources
+- pkg:maven/com.github.zhycn/xbird-starter-resteasy@2.2.0
+- pkg:maven/com.github.zhycn/xbird-starter-resteasy@2.2.0?classifier=sources
+- pkg:maven/com.github.zhycn/xbird-starter-resteasy@2.3.0
+- pkg:maven/com.github.zhycn/xbird-starter-resteasy@2.3.0?classifier=sources
+- pkg:maven/com.github.zhycn/xbird-starter-resteasy@Better.SR1
+- pkg:maven/com.github.zhycn/xbird-starter-resteasy@Better.SR1?classifier=sources

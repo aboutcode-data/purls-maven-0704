@@ -92,3 +92,5 @@
 - pkg:maven/uk.ac.ebi.ena.sequence/embl-api-validator@1.1.209?classifier=sources
 - pkg:maven/uk.ac.ebi.ena.sequence/embl-api-validator@1.1.210
 - pkg:maven/uk.ac.ebi.ena.sequence/embl-api-validator@1.1.210?classifier=sources
+- pkg:maven/uk.ac.ebi.ena.sequence/embl-api-validator@1.1.265
+- pkg:maven/uk.ac.ebi.ena.sequence/embl-api-validator@1.1.265?classifier=sources

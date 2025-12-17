@@ -28,3 +28,5 @@
 - pkg:maven/net.aequologica.neo/geppaequo-web@0.5.1?type=war
 - pkg:maven/net.aequologica.neo/geppaequo-web@0.5.2?classifier=sources
 - pkg:maven/net.aequologica.neo/geppaequo-web@0.5.2?type=war
+- pkg:maven/net.aequologica.neo/geppaequo-web@0.5.3?classifier=sources
+- pkg:maven/net.aequologica.neo/geppaequo-web@0.5.3?type=war

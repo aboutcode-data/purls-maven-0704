@@ -1,2 +1,3 @@
 - pkg:maven/com.inductiveautomation.ignitionsdk/opc-ua-driver-archetype@1.0.2?classifier=sources
 - pkg:maven/com.inductiveautomation.ignitionsdk/opc-ua-driver-archetype@1.0.3?classifier=sources
+- pkg:maven/com.inductiveautomation.ignitionsdk/opc-ua-driver-archetype@1.1.0?classifier=sources

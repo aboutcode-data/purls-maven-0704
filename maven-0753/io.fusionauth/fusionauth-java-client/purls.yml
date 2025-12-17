@@ -1,0 +1,2 @@
+- pkg:maven/io.fusionauth/fusionauth-java-client@1.0.11
+- pkg:maven/io.fusionauth/fusionauth-java-client@1.0.11?classifier=sources

@@ -68,3 +68,11 @@
 - pkg:maven/io.minio/minio@4.0.0?classifier=sources
 - pkg:maven/io.minio/minio@4.0.1
 - pkg:maven/io.minio/minio@4.0.1?classifier=sources
+- pkg:maven/io.minio/minio@4.0.2
+- pkg:maven/io.minio/minio@4.0.2?classifier=sources
+- pkg:maven/io.minio/minio@5.0.0
+- pkg:maven/io.minio/minio@5.0.0?classifier=sources
+- pkg:maven/io.minio/minio@5.0.1
+- pkg:maven/io.minio/minio@5.0.1?classifier=sources
+- pkg:maven/io.minio/minio@5.0.2
+- pkg:maven/io.minio/minio@5.0.2?classifier=sources

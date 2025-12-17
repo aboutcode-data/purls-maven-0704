@@ -28,3 +28,13 @@
 - pkg:maven/io.airlift/security@0.169?classifier=sources
 - pkg:maven/io.airlift/security@0.170
 - pkg:maven/io.airlift/security@0.170?classifier=sources
+- pkg:maven/io.airlift/security@0.171
+- pkg:maven/io.airlift/security@0.171?classifier=sources
+- pkg:maven/io.airlift/security@0.172
+- pkg:maven/io.airlift/security@0.172?classifier=sources
+- pkg:maven/io.airlift/security@0.173
+- pkg:maven/io.airlift/security@0.173?classifier=sources
+- pkg:maven/io.airlift/security@0.174
+- pkg:maven/io.airlift/security@0.174?classifier=sources
+- pkg:maven/io.airlift/security@0.175
+- pkg:maven/io.airlift/security@0.175?classifier=sources

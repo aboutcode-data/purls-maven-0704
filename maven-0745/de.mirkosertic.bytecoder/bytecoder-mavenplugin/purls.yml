@@ -6,3 +6,5 @@
 - pkg:maven/de.mirkosertic.bytecoder/bytecoder-mavenplugin@2018-02-01?classifier=sources
 - pkg:maven/de.mirkosertic.bytecoder/bytecoder-mavenplugin@2018-04-10
 - pkg:maven/de.mirkosertic.bytecoder/bytecoder-mavenplugin@2018-04-10?classifier=sources
+- pkg:maven/de.mirkosertic.bytecoder/bytecoder-mavenplugin@2018-11-06
+- pkg:maven/de.mirkosertic.bytecoder/bytecoder-mavenplugin@2018-11-06?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/org.jfxtras/jfxtras-icalendaragenda@10.0-r1
+- pkg:maven/org.jfxtras/jfxtras-icalendaragenda@10.0-r1?classifier=sources
 - pkg:maven/org.jfxtras/jfxtras-icalendaragenda@8.0-r6
 - pkg:maven/org.jfxtras/jfxtras-icalendaragenda@8.0-r6?classifier=sources
 - pkg:maven/org.jfxtras/jfxtras-icalendaragenda@9.0-r1

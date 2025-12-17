@@ -1,0 +1,4 @@
+- pkg:maven/com.thoughtworks.dsl/task_sjs0.6_2.12@1.0.0-RC12
+- pkg:maven/com.thoughtworks.dsl/task_sjs0.6_2.12@1.0.0-RC12?classifier=sources
+- pkg:maven/com.thoughtworks.dsl/task_sjs0.6_2.12@1.0.0-RC13
+- pkg:maven/com.thoughtworks.dsl/task_sjs0.6_2.12@1.0.0-RC13?classifier=sources

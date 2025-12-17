@@ -1,0 +1,2 @@
+- pkg:maven/com.weirddev/scalalock-mongo_2.12@1.0.4
+- pkg:maven/com.weirddev/scalalock-mongo_2.12@1.0.4?classifier=sources

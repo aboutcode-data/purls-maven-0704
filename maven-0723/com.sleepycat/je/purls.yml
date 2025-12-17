@@ -1,3 +1,7 @@
+- pkg:maven/com.sleepycat/je@18.1.11
+- pkg:maven/com.sleepycat/je@18.1.11?classifier=sources
+- pkg:maven/com.sleepycat/je@18.3.1
+- pkg:maven/com.sleepycat/je@18.3.1?classifier=sources
 - pkg:maven/com.sleepycat/je@4.0.92
 - pkg:maven/com.sleepycat/je@4.0.92?classifier=sources
 - pkg:maven/com.sleepycat/je@5.0.73

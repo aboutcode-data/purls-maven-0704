@@ -1,0 +1,6 @@
+- pkg:maven/info.hupel.afp/afp-2018@2.0.20180816
+- pkg:maven/info.hupel.afp/afp-2018@2.0.20180816?classifier=sources
+- pkg:maven/info.hupel.afp/afp-2018@2.0.20180911
+- pkg:maven/info.hupel.afp/afp-2018@2.0.20180911?classifier=sources
+- pkg:maven/info.hupel.afp/afp-2018@2.0.20181002
+- pkg:maven/info.hupel.afp/afp-2018@2.0.20181002?classifier=sources

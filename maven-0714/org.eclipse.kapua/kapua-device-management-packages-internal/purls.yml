@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.kapua/kapua-device-management-packages-internal@1.0.0
+- pkg:maven/org.eclipse.kapua/kapua-device-management-packages-internal@1.0.0?classifier=sources

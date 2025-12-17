@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.polymerelements/paper-radio-button@1.4.0
+- pkg:maven/org.webjars.bowergithub.polymerelements/paper-radio-button@1.4.0?classifier=sources
 - pkg:maven/org.webjars.bowergithub.polymerelements/paper-radio-button@2.1.0
 - pkg:maven/org.webjars.bowergithub.polymerelements/paper-radio-button@2.1.0?classifier=sources

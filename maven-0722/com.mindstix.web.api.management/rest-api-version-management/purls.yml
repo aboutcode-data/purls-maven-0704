@@ -1,0 +1,2 @@
+- pkg:maven/com.mindstix.web.api.management/rest-api-version-management@0.0.1-RELEASE
+- pkg:maven/com.mindstix.web.api.management/rest-api-version-management@0.0.1-RELEASE?classifier=sources

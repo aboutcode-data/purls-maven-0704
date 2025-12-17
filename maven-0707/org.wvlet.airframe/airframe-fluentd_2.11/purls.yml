@@ -1,0 +1,6 @@
+- pkg:maven/org.wvlet.airframe/airframe-fluentd_2.11@0.71
+- pkg:maven/org.wvlet.airframe/airframe-fluentd_2.11@0.71?classifier=sources
+- pkg:maven/org.wvlet.airframe/airframe-fluentd_2.11@0.72
+- pkg:maven/org.wvlet.airframe/airframe-fluentd_2.11@0.72?classifier=sources
+- pkg:maven/org.wvlet.airframe/airframe-fluentd_2.11@0.73
+- pkg:maven/org.wvlet.airframe/airframe-fluentd_2.11@0.73?classifier=sources

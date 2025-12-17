@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/github-com-auth0-lock@11.7.2
+- pkg:maven/org.webjars.bower/github-com-auth0-lock@11.7.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.shardingsphere/sharding-orchestration-reg-api@3.0.0
+- pkg:maven/io.shardingsphere/sharding-orchestration-reg-api@3.0.0?classifier=sources

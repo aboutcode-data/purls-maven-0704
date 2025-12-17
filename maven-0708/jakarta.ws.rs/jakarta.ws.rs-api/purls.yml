@@ -1,0 +1,2 @@
+- pkg:maven/jakarta.ws.rs/jakarta.ws.rs-api@2.1.2
+- pkg:maven/jakarta.ws.rs/jakarta.ws.rs-api@2.1.2?classifier=sources

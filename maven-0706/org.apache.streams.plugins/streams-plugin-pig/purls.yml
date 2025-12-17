@@ -2,3 +2,4 @@
 - pkg:maven/org.apache.streams.plugins/streams-plugin-pig@0.4.1-incubating
 - pkg:maven/org.apache.streams.plugins/streams-plugin-pig@0.5-incubating
 - pkg:maven/org.apache.streams.plugins/streams-plugin-pig@0.5.1
+- pkg:maven/org.apache.streams.plugins/streams-plugin-pig@0.6.0

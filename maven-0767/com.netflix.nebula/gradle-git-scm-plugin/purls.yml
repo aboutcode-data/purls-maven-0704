@@ -10,3 +10,11 @@
 - pkg:maven/com.netflix.nebula/gradle-git-scm-plugin@2.0.1?classifier=sources
 - pkg:maven/com.netflix.nebula/gradle-git-scm-plugin@3.0.1
 - pkg:maven/com.netflix.nebula/gradle-git-scm-plugin@3.0.1?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-git-scm-plugin@4.0.0
+- pkg:maven/com.netflix.nebula/gradle-git-scm-plugin@4.0.0?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-git-scm-plugin@4.0.1
+- pkg:maven/com.netflix.nebula/gradle-git-scm-plugin@4.0.1?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-git-scm-plugin@4.1.0
+- pkg:maven/com.netflix.nebula/gradle-git-scm-plugin@4.1.0?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-git-scm-plugin@4.1.1
+- pkg:maven/com.netflix.nebula/gradle-git-scm-plugin@4.1.1?classifier=sources

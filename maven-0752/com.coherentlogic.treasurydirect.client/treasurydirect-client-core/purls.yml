@@ -2,3 +2,7 @@
 - pkg:maven/com.coherentlogic.treasurydirect.client/treasurydirect-client-core@0.8.5-RELEASE?classifier=sources
 - pkg:maven/com.coherentlogic.treasurydirect.client/treasurydirect-client-core@0.8.6-RELEASE
 - pkg:maven/com.coherentlogic.treasurydirect.client/treasurydirect-client-core@0.8.6-RELEASE?classifier=sources
+- pkg:maven/com.coherentlogic.treasurydirect.client/treasurydirect-client-core@2.0.2.1-RELEASE
+- pkg:maven/com.coherentlogic.treasurydirect.client/treasurydirect-client-core@2.0.2.1-RELEASE?classifier=sources
+- pkg:maven/com.coherentlogic.treasurydirect.client/treasurydirect-client-core@2.0.3-RELEASE
+- pkg:maven/com.coherentlogic.treasurydirect.client/treasurydirect-client-core@2.0.3-RELEASE?classifier=sources

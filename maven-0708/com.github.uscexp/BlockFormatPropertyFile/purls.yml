@@ -1,2 +1,4 @@
 - pkg:maven/com.github.uscexp/BlockFormatPropertyFile@0.1.0-Beta
 - pkg:maven/com.github.uscexp/BlockFormatPropertyFile@0.1.0-Beta?classifier=sources
+- pkg:maven/com.github.uscexp/BlockFormatPropertyFile@0.2.0-Beta
+- pkg:maven/com.github.uscexp/BlockFormatPropertyFile@0.2.0-Beta?classifier=sources

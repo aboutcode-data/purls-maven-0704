@@ -1,4 +1,6 @@
 - pkg:maven/net.jtownson/swakka_2.12@0.5
 - pkg:maven/net.jtownson/swakka_2.12@0.51
 - pkg:maven/net.jtownson/swakka_2.12@0.51?classifier=sources
+- pkg:maven/net.jtownson/swakka_2.12@0.52
+- pkg:maven/net.jtownson/swakka_2.12@0.52?classifier=sources
 - pkg:maven/net.jtownson/swakka_2.12@0.5?classifier=sources

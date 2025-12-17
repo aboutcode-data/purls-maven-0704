@@ -1,0 +1,2 @@
+- pkg:maven/club.zhcs/distributed-job-admin@1.0
+- pkg:maven/club.zhcs/distributed-job-admin@1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.kubukoz/catsdupa4s-core_2.12@0.0.2
+- pkg:maven/com.kubukoz/catsdupa4s-core_2.12@0.0.2?classifier=sources

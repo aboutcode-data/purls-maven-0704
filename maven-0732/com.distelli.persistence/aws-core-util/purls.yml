@@ -74,3 +74,15 @@
 - pkg:maven/com.distelli.persistence/aws-core-util@3.6.3?classifier=sources
 - pkg:maven/com.distelli.persistence/aws-core-util@3.6.4
 - pkg:maven/com.distelli.persistence/aws-core-util@3.6.4?classifier=sources
+- pkg:maven/com.distelli.persistence/aws-core-util@3.6.5
+- pkg:maven/com.distelli.persistence/aws-core-util@3.6.5?classifier=sources
+- pkg:maven/com.distelli.persistence/aws-core-util@3.7.0
+- pkg:maven/com.distelli.persistence/aws-core-util@3.7.0?classifier=sources
+- pkg:maven/com.distelli.persistence/aws-core-util@3.8.0
+- pkg:maven/com.distelli.persistence/aws-core-util@3.8.0?classifier=sources
+- pkg:maven/com.distelli.persistence/aws-core-util@3.8.1
+- pkg:maven/com.distelli.persistence/aws-core-util@3.8.1?classifier=sources
+- pkg:maven/com.distelli.persistence/aws-core-util@3.8.2
+- pkg:maven/com.distelli.persistence/aws-core-util@3.8.2?classifier=sources
+- pkg:maven/com.distelli.persistence/aws-core-util@3.8.3
+- pkg:maven/com.distelli.persistence/aws-core-util@3.8.3?classifier=sources

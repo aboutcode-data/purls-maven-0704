@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.okapi.connectors/okapi-connector-bifile@0.36
+- pkg:maven/net.sf.okapi.connectors/okapi-connector-bifile@0.36?classifier=sources

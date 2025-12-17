@@ -1,0 +1,2 @@
+- pkg:maven/org.infinispan.archetypes/store-archetype@1.0.23
+- pkg:maven/org.infinispan.archetypes/store-archetype@1.0.23?classifier=sources

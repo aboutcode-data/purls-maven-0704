@@ -1,0 +1,2 @@
+- pkg:maven/org.activiti.cloud.modeling/activiti-cloud-services-org-rest@7.0.0.Beta2
+- pkg:maven/org.activiti.cloud.modeling/activiti-cloud-services-org-rest@7.0.0.Beta2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/github-com-fsx950223-chartjs-web-components@1.5.0
+- pkg:maven/org.webjars.npm/github-com-fsx950223-chartjs-web-components@1.5.0?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-fsx950223-chartjs-web-components@2.0.0
+- pkg:maven/org.webjars.npm/github-com-fsx950223-chartjs-web-components@2.0.0?classifier=sources

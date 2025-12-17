@@ -4,3 +4,5 @@
 - pkg:maven/com.github.uscexp/jDotNotation@1.1.0?classifier=sources
 - pkg:maven/com.github.uscexp/jDotNotation@1.2.0-Beta
 - pkg:maven/com.github.uscexp/jDotNotation@1.2.0-Beta?classifier=sources
+- pkg:maven/com.github.uscexp/jDotNotation@1.3.0-Beta
+- pkg:maven/com.github.uscexp/jDotNotation@1.3.0-Beta?classifier=sources

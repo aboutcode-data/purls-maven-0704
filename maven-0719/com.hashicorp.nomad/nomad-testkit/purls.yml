@@ -10,3 +10,5 @@
 - pkg:maven/com.hashicorp.nomad/nomad-testkit@0.7.0.2
 - pkg:maven/com.hashicorp.nomad/nomad-testkit@0.7.0.2?classifier=sources
 - pkg:maven/com.hashicorp.nomad/nomad-testkit@0.7.0?classifier=sources
+- pkg:maven/com.hashicorp.nomad/nomad-testkit@0.7.1
+- pkg:maven/com.hashicorp.nomad/nomad-testkit@0.7.1?classifier=sources

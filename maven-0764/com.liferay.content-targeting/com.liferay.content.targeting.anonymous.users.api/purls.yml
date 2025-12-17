@@ -3,3 +3,6 @@
 - pkg:maven/com.liferay.content-targeting/com.liferay.content.targeting.anonymous.users.api@2.0.1?classifier=sources
 - pkg:maven/com.liferay.content-targeting/com.liferay.content.targeting.anonymous.users.api@2.0.2
 - pkg:maven/com.liferay.content-targeting/com.liferay.content.targeting.anonymous.users.api@2.0.2?classifier=sources
+- pkg:maven/com.liferay.content-targeting/com.liferay.content.targeting.anonymous.users.api@3.0.0
+- pkg:maven/com.liferay.content-targeting/com.liferay.content.targeting.anonymous.users.api@3.0.0?classifier=sources
+- pkg:maven/com.liferay.content-targeting/com.liferay.content.targeting.anonymous.users.api@3.0.0?classifier=sources-commercial

@@ -14,3 +14,5 @@
 - pkg:maven/com.daioware/commons@3.1.0-RELEASE?classifier=sources
 - pkg:maven/com.daioware/commons@3.2.0-RELEASE
 - pkg:maven/com.daioware/commons@3.2.0-RELEASE?classifier=sources
+- pkg:maven/com.daioware/commons@3.2.1-RELEASE
+- pkg:maven/com.daioware/commons@3.2.1-RELEASE?classifier=sources

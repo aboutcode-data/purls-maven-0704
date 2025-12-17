@@ -1,0 +1,2 @@
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-cloud@1.0.11
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-cloud@1.0.11?classifier=sources

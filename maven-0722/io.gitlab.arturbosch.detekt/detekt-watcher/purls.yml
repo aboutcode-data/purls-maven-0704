@@ -1,0 +1,4 @@
+- pkg:maven/io.gitlab.arturbosch.detekt/detekt-watcher@1.0.0-RC10
+- pkg:maven/io.gitlab.arturbosch.detekt/detekt-watcher@1.0.0-RC10?classifier=sources
+- pkg:maven/io.gitlab.arturbosch.detekt/detekt-watcher@1.0.0.RC9.2
+- pkg:maven/io.gitlab.arturbosch.detekt/detekt-watcher@1.0.0.RC9.2?classifier=sources

@@ -15,3 +15,10 @@
 - pkg:maven/org.jboss.pnc/bpm@1.2.0?classifier=sources
 - pkg:maven/org.jboss.pnc/bpm@1.2.1?classifier=sources
 - pkg:maven/org.jboss.pnc/bpm@1.2.2?classifier=sources
+- pkg:maven/org.jboss.pnc/bpm@1.3.0?classifier=sources
+- pkg:maven/org.jboss.pnc/bpm@1.3.1?classifier=sources
+- pkg:maven/org.jboss.pnc/bpm@1.3.2?classifier=sources
+- pkg:maven/org.jboss.pnc/bpm@1.3.3?classifier=sources
+- pkg:maven/org.jboss.pnc/bpm@1.3.4?classifier=sources
+- pkg:maven/org.jboss.pnc/bpm@1.4.0?classifier=sources
+- pkg:maven/org.jboss.pnc/bpm@1.4.1?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/org.arakhne.afc.advanced/attributes@13.0?classifier=sources
 - pkg:maven/org.arakhne.afc.advanced/attributes@14.0
 - pkg:maven/org.arakhne.afc.advanced/attributes@14.0?classifier=sources
+- pkg:maven/org.arakhne.afc.advanced/attributes@15.0
+- pkg:maven/org.arakhne.afc.advanced/attributes@15.0?classifier=sources

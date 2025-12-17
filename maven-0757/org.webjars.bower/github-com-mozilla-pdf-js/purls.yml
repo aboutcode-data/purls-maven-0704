@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/github-com-mozilla-pdf-js@2.0.550
+- pkg:maven/org.webjars.bower/github-com-mozilla-pdf-js@2.0.550?classifier=sources

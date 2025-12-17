@@ -1,0 +1,11 @@
+- pkg:maven/org.wso2.am.microgw/micro-gateway-parent@2.5.0-aplha?classifier=source-release&type=zip
+- pkg:maven/org.wso2.am.microgw/micro-gateway-parent@2.5.0-beta?classifier=source-release&type=zip
+- pkg:maven/org.wso2.am.microgw/micro-gateway-parent@2.5.0-m1?classifier=source-release&type=zip
+- pkg:maven/org.wso2.am.microgw/micro-gateway-parent@2.5.0-update1?classifier=source-release&type=zip
+- pkg:maven/org.wso2.am.microgw/micro-gateway-parent@2.5.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.am.microgw/micro-gateway-parent@2.5.1?classifier=source-release&type=zip
+- pkg:maven/org.wso2.am.microgw/micro-gateway-parent@2.6.0-alpha?classifier=source-release&type=zip
+- pkg:maven/org.wso2.am.microgw/micro-gateway-parent@2.6.0-beta?classifier=source-release&type=zip
+- pkg:maven/org.wso2.am.microgw/micro-gateway-parent@2.6.0-rc1?classifier=source-release&type=zip
+- pkg:maven/org.wso2.am.microgw/micro-gateway-parent@2.6.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.am.microgw/micro-gateway-parent@3.0.0-m2?classifier=source-release&type=zip

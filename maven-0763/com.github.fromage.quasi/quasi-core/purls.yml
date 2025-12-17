@@ -1,0 +1,2 @@
+- pkg:maven/com.github.fromage.quasi/quasi-core@0.7.10
+- pkg:maven/com.github.fromage.quasi/quasi-core@0.7.10?classifier=sources

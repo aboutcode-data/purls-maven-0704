@@ -1,0 +1,4 @@
+- pkg:maven/de.it-tw/log4j2-extras@1.0
+- pkg:maven/de.it-tw/log4j2-extras@1.0?classifier=sources
+- pkg:maven/de.it-tw/log4j2-extras@1.1
+- pkg:maven/de.it-tw/log4j2-extras@1.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.lyca.xslt/lyca-xslt@0.9.5
+- pkg:maven/de.lyca.xslt/lyca-xslt@0.9.5?classifier=sources

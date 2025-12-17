@@ -1,0 +1,2 @@
+- pkg:maven/io.konig/konig-gcp-deploy-maven-plugin@2.0.0
+- pkg:maven/io.konig/konig-gcp-deploy-maven-plugin@2.0.0?classifier=sources

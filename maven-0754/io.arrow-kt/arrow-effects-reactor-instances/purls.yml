@@ -1,0 +1,2 @@
+- pkg:maven/io.arrow-kt/arrow-effects-reactor-instances@0.8.0
+- pkg:maven/io.arrow-kt/arrow-effects-reactor-instances@0.8.0?classifier=sources

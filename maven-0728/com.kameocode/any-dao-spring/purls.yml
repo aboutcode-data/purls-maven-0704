@@ -1,0 +1,2 @@
+- pkg:maven/com.kameocode/any-dao-spring@1.0.2
+- pkg:maven/com.kameocode/any-dao-spring@1.0.2?classifier=sources

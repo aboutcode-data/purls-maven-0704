@@ -1,2 +1,4 @@
 - pkg:maven/org.openclover/clover-aspectj-compiler@1.0.0
 - pkg:maven/org.openclover/clover-aspectj-compiler@1.0.0?classifier=sources
+- pkg:maven/org.openclover/clover-aspectj-compiler@1.0.1
+- pkg:maven/org.openclover/clover-aspectj-compiler@1.0.1?classifier=sources

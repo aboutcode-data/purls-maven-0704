@@ -1,2 +1,6 @@
 - pkg:maven/com.elo7.nightfall/nightfall-riposte@2.0.0
 - pkg:maven/com.elo7.nightfall/nightfall-riposte@2.0.0?classifier=sources
+- pkg:maven/com.elo7.nightfall/nightfall-riposte@2.1.0
+- pkg:maven/com.elo7.nightfall/nightfall-riposte@2.1.0?classifier=sources
+- pkg:maven/com.elo7.nightfall/nightfall-riposte@2.1.1
+- pkg:maven/com.elo7.nightfall/nightfall-riposte@2.1.1?classifier=sources

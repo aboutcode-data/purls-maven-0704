@@ -1,1 +1,10 @@
 - pkg:maven/systems.manifold/manifold-ext-producer-sample-test@0.12-alpha
+- pkg:maven/systems.manifold/manifold-ext-producer-sample-test@0.19-alpha
+- pkg:maven/systems.manifold/manifold-ext-producer-sample-test@0.20-alpha
+- pkg:maven/systems.manifold/manifold-ext-producer-sample-test@0.21-alpha
+- pkg:maven/systems.manifold/manifold-ext-producer-sample-test@0.22-alpha
+- pkg:maven/systems.manifold/manifold-ext-producer-sample-test@0.23-alpha
+- pkg:maven/systems.manifold/manifold-ext-producer-sample-test@0.24-alpha
+- pkg:maven/systems.manifold/manifold-ext-producer-sample-test@0.25-alpha
+- pkg:maven/systems.manifold/manifold-ext-producer-sample-test@0.26-alpha
+- pkg:maven/systems.manifold/manifold-ext-producer-sample-test@0.27-alpha

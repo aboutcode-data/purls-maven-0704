@@ -18,3 +18,5 @@
 - pkg:maven/org.jresearch.commons.base.resources/org.jresearch.commons.base.resources.test@1.0.44?classifier=sources
 - pkg:maven/org.jresearch.commons.base.resources/org.jresearch.commons.base.resources.test@1.0.45
 - pkg:maven/org.jresearch.commons.base.resources/org.jresearch.commons.base.resources.test@1.0.45?classifier=sources
+- pkg:maven/org.jresearch.commons.base.resources/org.jresearch.commons.base.resources.test@1.0.46
+- pkg:maven/org.jresearch.commons.base.resources/org.jresearch.commons.base.resources.test@1.0.46?classifier=sources

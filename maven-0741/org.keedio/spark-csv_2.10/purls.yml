@@ -1,0 +1,2 @@
+- pkg:maven/org.keedio/spark-csv_2.10@1.5.3
+- pkg:maven/org.keedio/spark-csv_2.10@1.5.3?classifier=sources

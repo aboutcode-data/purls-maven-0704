@@ -2,3 +2,7 @@
 - pkg:maven/com.powsybl/powsybl-math@1.0.0?classifier=sources
 - pkg:maven/com.powsybl/powsybl-math@1.1.0
 - pkg:maven/com.powsybl/powsybl-math@1.1.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-math@2.0.0
+- pkg:maven/com.powsybl/powsybl-math@2.0.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-math@2.1.0
+- pkg:maven/com.powsybl/powsybl-math@2.1.0?classifier=sources

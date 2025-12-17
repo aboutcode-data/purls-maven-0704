@@ -1,0 +1,2 @@
+- pkg:maven/com.kinja/macrame-play_2.12@1.1.2-play-2.6.x
+- pkg:maven/com.kinja/macrame-play_2.12@1.1.2-play-2.6.x?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.ibissource/ibis-adapterframework-tibco@7.0-RC3
+- pkg:maven/org.ibissource/ibis-adapterframework-tibco@7.0-RC3?classifier=sources
+- pkg:maven/org.ibissource/ibis-adapterframework-tibco@7.1
+- pkg:maven/org.ibissource/ibis-adapterframework-tibco@7.1-B3
+- pkg:maven/org.ibissource/ibis-adapterframework-tibco@7.1-B3?classifier=sources
+- pkg:maven/org.ibissource/ibis-adapterframework-tibco@7.1?classifier=sources

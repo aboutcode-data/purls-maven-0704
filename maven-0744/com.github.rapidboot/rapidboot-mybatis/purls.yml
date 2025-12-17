@@ -1,0 +1,4 @@
+- pkg:maven/com.github.rapidboot/rapidboot-mybatis@0.9
+- pkg:maven/com.github.rapidboot/rapidboot-mybatis@0.9?classifier=sources
+- pkg:maven/com.github.rapidboot/rapidboot-mybatis@1.0
+- pkg:maven/com.github.rapidboot/rapidboot-mybatis@1.0?classifier=sources

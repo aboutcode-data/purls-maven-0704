@@ -6,5 +6,15 @@
 - pkg:maven/org.codehaus.groovy/groovy-datetime@2.5.0-rc-3
 - pkg:maven/org.codehaus.groovy/groovy-datetime@2.5.0-rc-3?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-datetime@2.5.0?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-datetime@2.5.1
+- pkg:maven/org.codehaus.groovy/groovy-datetime@2.5.1?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-datetime@2.5.2
+- pkg:maven/org.codehaus.groovy/groovy-datetime@2.5.2?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-datetime@2.5.3
+- pkg:maven/org.codehaus.groovy/groovy-datetime@2.5.3?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-datetime@2.6.0-alpha-4
+- pkg:maven/org.codehaus.groovy/groovy-datetime@2.6.0-alpha-4?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-datetime@3.0.0-alpha-2
 - pkg:maven/org.codehaus.groovy/groovy-datetime@3.0.0-alpha-2?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-datetime@3.0.0-alpha-3
+- pkg:maven/org.codehaus.groovy/groovy-datetime@3.0.0-alpha-3?classifier=sources

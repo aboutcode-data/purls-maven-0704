@@ -1,0 +1,4 @@
+- pkg:maven/edu.cornell.ncrn.ced2ar/ced2ar3-services-core@0.0.0
+- pkg:maven/edu.cornell.ncrn.ced2ar/ced2ar3-services-core@0.0.0?classifier=sources
+- pkg:maven/edu.cornell.ncrn.ced2ar/ced2ar3-services-core@0.0.1
+- pkg:maven/edu.cornell.ncrn.ced2ar/ced2ar3-services-core@0.0.1?classifier=sources

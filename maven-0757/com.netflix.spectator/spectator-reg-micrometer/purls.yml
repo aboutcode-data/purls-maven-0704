@@ -1,0 +1,2 @@
+- pkg:maven/com.netflix.spectator/spectator-reg-micrometer@0.80.0
+- pkg:maven/com.netflix.spectator/spectator-reg-micrometer@0.80.0?classifier=sources

@@ -56,3 +56,6 @@
 - pkg:maven/org.ninjaframework/ninja-servlet-jpa-blog-archetype@6.2.0?classifier=sources
 - pkg:maven/org.ninjaframework/ninja-servlet-jpa-blog-archetype@6.2.1?classifier=sources
 - pkg:maven/org.ninjaframework/ninja-servlet-jpa-blog-archetype@6.2.2?classifier=sources
+- pkg:maven/org.ninjaframework/ninja-servlet-jpa-blog-archetype@6.3.0?classifier=sources
+- pkg:maven/org.ninjaframework/ninja-servlet-jpa-blog-archetype@6.4.0?classifier=sources
+- pkg:maven/org.ninjaframework/ninja-servlet-jpa-blog-archetype@6.4.1?classifier=sources

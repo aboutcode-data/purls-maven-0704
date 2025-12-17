@@ -40,6 +40,12 @@
 - pkg:maven/com.liferay/com.liferay.push.notifications.service@1.0.23
 - pkg:maven/com.liferay/com.liferay.push.notifications.service@1.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.push.notifications.service@1.0.23?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.push.notifications.service@1.0.24
+- pkg:maven/com.liferay/com.liferay.push.notifications.service@1.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.push.notifications.service@1.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.push.notifications.service@1.0.25
+- pkg:maven/com.liferay/com.liferay.push.notifications.service@1.0.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.push.notifications.service@1.0.25?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.push.notifications.service@1.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.push.notifications.service@1.0.3
 - pkg:maven/com.liferay/com.liferay.push.notifications.service@1.0.3?classifier=sources
@@ -55,3 +61,12 @@
 - pkg:maven/com.liferay/com.liferay.push.notifications.service@1.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.push.notifications.service@1.0.9
 - pkg:maven/com.liferay/com.liferay.push.notifications.service@1.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.push.notifications.service@2.0.0
+- pkg:maven/com.liferay/com.liferay.push.notifications.service@2.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.push.notifications.service@2.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.push.notifications.service@2.0.2
+- pkg:maven/com.liferay/com.liferay.push.notifications.service@2.0.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.push.notifications.service@2.0.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.push.notifications.service@2.0.3
+- pkg:maven/com.liferay/com.liferay.push.notifications.service@2.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.push.notifications.service@2.0.3?classifier=sources-commercial

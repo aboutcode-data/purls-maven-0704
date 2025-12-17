@@ -26,3 +26,9 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-domain@3.4.0?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-domain@3.5.0
 - pkg:maven/com.aliyun/aliyun-java-sdk-domain@3.5.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-domain@3.6.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-domain@3.6.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-domain@3.9.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-domain@3.9.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-domain@3.9.1
+- pkg:maven/com.aliyun/aliyun-java-sdk-domain@3.9.1?classifier=sources

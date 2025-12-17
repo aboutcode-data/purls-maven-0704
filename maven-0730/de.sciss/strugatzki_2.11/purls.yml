@@ -16,6 +16,8 @@
 - pkg:maven/de.sciss/strugatzki_2.11@2.16.0?classifier=sources
 - pkg:maven/de.sciss/strugatzki_2.11@2.17.0
 - pkg:maven/de.sciss/strugatzki_2.11@2.17.0?classifier=sources
+- pkg:maven/de.sciss/strugatzki_2.11@2.18.0
+- pkg:maven/de.sciss/strugatzki_2.11@2.18.0?classifier=sources
 - pkg:maven/de.sciss/strugatzki_2.11@2.4.1
 - pkg:maven/de.sciss/strugatzki_2.11@2.4.1?classifier=sources
 - pkg:maven/de.sciss/strugatzki_2.11@2.5.0

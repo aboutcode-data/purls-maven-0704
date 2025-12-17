@@ -1,0 +1,6 @@
+- pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@1.0.0
+- pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@1.0.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@1.0.1
+- pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@1.0.1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@1.1.0
+- pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@1.1.0?classifier=sources

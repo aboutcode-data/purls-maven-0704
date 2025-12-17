@@ -1,4 +1,6 @@
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs@1.0.10
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs@1.0.10?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs@1.0.22
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs@1.0.22?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs@1.0.9
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs@1.0.9?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.environments-maven-plugin/environments-maven-plugin@1.0.0
+- pkg:maven/net.sf.environments-maven-plugin/environments-maven-plugin@1.0.0?classifier=sources

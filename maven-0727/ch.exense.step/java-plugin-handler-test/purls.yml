@@ -1,0 +1,2 @@
+- pkg:maven/ch.exense.step/java-plugin-handler-test@3.8.0
+- pkg:maven/ch.exense.step/java-plugin-handler-test@3.8.0?classifier=sources

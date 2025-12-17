@@ -1,2 +1,4 @@
 - pkg:maven/org.arakhne.afc.core/mathtree@14.0
 - pkg:maven/org.arakhne.afc.core/mathtree@14.0?classifier=sources
+- pkg:maven/org.arakhne.afc.core/mathtree@15.0
+- pkg:maven/org.arakhne.afc.core/mathtree@15.0?classifier=sources

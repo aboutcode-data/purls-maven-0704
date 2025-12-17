@@ -6,3 +6,7 @@
 - pkg:maven/org.openehealth.ipf.platform-camel/ipf-platform-camel-ihe-fhir-stu3-test@3.4.3
 - pkg:maven/org.openehealth.ipf.platform-camel/ipf-platform-camel-ihe-fhir-stu3-test@3.5-20180302
 - pkg:maven/org.openehealth.ipf.platform-camel/ipf-platform-camel-ihe-fhir-stu3-test@3.5.0
+- pkg:maven/org.openehealth.ipf.platform-camel/ipf-platform-camel-ihe-fhir-stu3-test@3.5.1
+- pkg:maven/org.openehealth.ipf.platform-camel/ipf-platform-camel-ihe-fhir-stu3-test@3.5.2
+- pkg:maven/org.openehealth.ipf.platform-camel/ipf-platform-camel-ihe-fhir-stu3-test@3.5.3
+- pkg:maven/org.openehealth.ipf.platform-camel/ipf-platform-camel-ihe-fhir-stu3-test@3.6-20181019

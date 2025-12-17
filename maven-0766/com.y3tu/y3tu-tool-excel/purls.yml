@@ -1,0 +1,7 @@
+- pkg:maven/com.y3tu/y3tu-tool-excel@0.0.1.RELEASE
+- pkg:maven/com.y3tu/y3tu-tool-excel@0.0.2.RELEASE
+- pkg:maven/com.y3tu/y3tu-tool-excel@0.0.2.RELEASE?classifier=sources
+- pkg:maven/com.y3tu/y3tu-tool-excel@1.0
+- pkg:maven/com.y3tu/y3tu-tool-excel@1.0?classifier=sources
+- pkg:maven/com.y3tu/y3tu-tool-excel@1.1
+- pkg:maven/com.y3tu/y3tu-tool-excel@1.1?classifier=sources

@@ -12,3 +12,7 @@
 - pkg:maven/com.siemens.ct.exi/exificient@0.9.7?classifier=sources
 - pkg:maven/com.siemens.ct.exi/exificient@1.0.0
 - pkg:maven/com.siemens.ct.exi/exificient@1.0.0?classifier=sources
+- pkg:maven/com.siemens.ct.exi/exificient@1.0.1
+- pkg:maven/com.siemens.ct.exi/exificient@1.0.1?classifier=sources
+- pkg:maven/com.siemens.ct.exi/exificient@1.0.4
+- pkg:maven/com.siemens.ct.exi/exificient@1.0.4?classifier=sources

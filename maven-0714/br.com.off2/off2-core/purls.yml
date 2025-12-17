@@ -2,3 +2,13 @@
 - pkg:maven/br.com.off2/off2-core@0.0.1?type=aar
 - pkg:maven/br.com.off2/off2-core@0.0.2?classifier=sources
 - pkg:maven/br.com.off2/off2-core@0.0.2?type=aar
+- pkg:maven/br.com.off2/off2-core@0.0.3?classifier=sources
+- pkg:maven/br.com.off2/off2-core@0.0.3?type=aar
+- pkg:maven/br.com.off2/off2-core@0.0.4?classifier=sources
+- pkg:maven/br.com.off2/off2-core@0.0.4?type=aar
+- pkg:maven/br.com.off2/off2-core@0.0.5?classifier=sources
+- pkg:maven/br.com.off2/off2-core@0.0.5?type=aar
+- pkg:maven/br.com.off2/off2-core@0.0.6?classifier=sources
+- pkg:maven/br.com.off2/off2-core@0.0.6?type=aar
+- pkg:maven/br.com.off2/off2-core@0.0.7?classifier=sources
+- pkg:maven/br.com.off2/off2-core@0.0.7?type=aar

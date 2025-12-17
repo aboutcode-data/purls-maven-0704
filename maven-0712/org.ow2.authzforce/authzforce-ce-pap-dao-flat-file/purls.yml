@@ -1,3 +1,5 @@
+- pkg:maven/org.ow2.authzforce/authzforce-ce-pap-dao-flat-file@10.0.0
+- pkg:maven/org.ow2.authzforce/authzforce-ce-pap-dao-flat-file@10.0.0?classifier=sources
 - pkg:maven/org.ow2.authzforce/authzforce-ce-pap-dao-flat-file@4.0.0
 - pkg:maven/org.ow2.authzforce/authzforce-ce-pap-dao-flat-file@4.0.0?classifier=sources
 - pkg:maven/org.ow2.authzforce/authzforce-ce-pap-dao-flat-file@5.0.0

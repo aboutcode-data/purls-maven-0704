@@ -1,0 +1,2 @@
+- pkg:maven/org.imca-cat.maven/profile-activation-advanced@0.1.0
+- pkg:maven/org.imca-cat.maven/profile-activation-advanced@0.1.0?classifier=sources

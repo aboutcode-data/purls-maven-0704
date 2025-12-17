@@ -23,3 +23,6 @@
 - pkg:maven/org.ow2.easywsdl/easywsdl-wsdl@2.6.2
 - pkg:maven/org.ow2.easywsdl/easywsdl-wsdl@2.6.2?classifier=source-release&type=zip
 - pkg:maven/org.ow2.easywsdl/easywsdl-wsdl@2.6.2?classifier=sources
+- pkg:maven/org.ow2.easywsdl/easywsdl-wsdl@2.7.0
+- pkg:maven/org.ow2.easywsdl/easywsdl-wsdl@2.7.0?classifier=source-release&type=zip
+- pkg:maven/org.ow2.easywsdl/easywsdl-wsdl@2.7.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.github.BaicProject/BAICSdk@0.0.1-RELEASE
+- pkg:maven/com.github.BaicProject/BAICSdk@0.0.1-RELEASE?classifier=sources
+- pkg:maven/com.github.BaicProject/BAICSdk@1.0
+- pkg:maven/com.github.BaicProject/BAICSdk@1.0?classifier=sources

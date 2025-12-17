@@ -46,3 +46,5 @@
 - pkg:maven/io.taig/communicator-request_2.11@3.4.0?classifier=sources
 - pkg:maven/io.taig/communicator-request_2.11@3.5.0
 - pkg:maven/io.taig/communicator-request_2.11@3.5.0?classifier=sources
+- pkg:maven/io.taig/communicator-request_2.11@3.5.1
+- pkg:maven/io.taig/communicator-request_2.11@3.5.1?classifier=sources

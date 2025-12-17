@@ -1,0 +1,2 @@
+- pkg:maven/com.ionic/ionic-sdk-dpapi@2.3.0
+- pkg:maven/com.ionic/ionic-sdk-dpapi@2.3.0?classifier=sources

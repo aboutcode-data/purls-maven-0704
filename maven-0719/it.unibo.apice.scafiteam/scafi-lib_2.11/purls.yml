@@ -1,2 +1,6 @@
+- pkg:maven/it.unibo.apice.scafiteam/scafi-lib_2.11@0.1.0%2B195-72ae81ba
+- pkg:maven/it.unibo.apice.scafiteam/scafi-lib_2.11@0.1.0%2B195-72ae81ba?classifier=sources
 - pkg:maven/it.unibo.apice.scafiteam/scafi-lib_2.11@0.3.0
 - pkg:maven/it.unibo.apice.scafiteam/scafi-lib_2.11@0.3.0?classifier=sources
+- pkg:maven/it.unibo.apice.scafiteam/scafi-lib_2.11@0.3.1
+- pkg:maven/it.unibo.apice.scafiteam/scafi-lib_2.11@0.3.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/edu.umich.it.tl/lti-utils@1.7
+- pkg:maven/edu.umich.it.tl/lti-utils@1.7?classifier=sources

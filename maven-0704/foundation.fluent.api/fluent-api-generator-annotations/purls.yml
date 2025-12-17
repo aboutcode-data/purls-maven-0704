@@ -1,0 +1,6 @@
+- pkg:maven/foundation.fluent.api/fluent-api-generator-annotations@1.3
+- pkg:maven/foundation.fluent.api/fluent-api-generator-annotations@1.3?classifier=sources
+- pkg:maven/foundation.fluent.api/fluent-api-generator-annotations@1.4
+- pkg:maven/foundation.fluent.api/fluent-api-generator-annotations@1.4?classifier=sources
+- pkg:maven/foundation.fluent.api/fluent-api-generator-annotations@2.0
+- pkg:maven/foundation.fluent.api/fluent-api-generator-annotations@2.0?classifier=sources

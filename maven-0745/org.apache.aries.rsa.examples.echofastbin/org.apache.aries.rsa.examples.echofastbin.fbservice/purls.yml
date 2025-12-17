@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.aries.rsa.examples.echofastbin/org.apache.aries.rsa.examples.echofastbin.fbservice@1.12.0
 - pkg:maven/org.apache.aries.rsa.examples.echofastbin/org.apache.aries.rsa.examples.echofastbin.fbservice@1.12.0?classifier=sources
+- pkg:maven/org.apache.aries.rsa.examples.echofastbin/org.apache.aries.rsa.examples.echofastbin.fbservice@1.13.0
+- pkg:maven/org.apache.aries.rsa.examples.echofastbin/org.apache.aries.rsa.examples.echofastbin.fbservice@1.13.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.gitee.gtman/dust-service-db@2.0.20180720
+- pkg:maven/com.gitee.gtman/dust-service-db@2.0.20180720?classifier=sources

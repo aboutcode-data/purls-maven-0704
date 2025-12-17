@@ -1,0 +1,2 @@
+- pkg:maven/com.linkedin.azkaban/azkaban-spi@3.50.3
+- pkg:maven/com.linkedin.azkaban/azkaban-spi@3.50.3?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.bowergithub.axians/axians-time@0.2.1?classifier=sources
 - pkg:maven/org.webjars.bowergithub.axians/axians-time@0.2.2
 - pkg:maven/org.webjars.bowergithub.axians/axians-time@0.2.2?classifier=sources
+- pkg:maven/org.webjars.bowergithub.axians/axians-time@1.0.0
+- pkg:maven/org.webjars.bowergithub.axians/axians-time@1.0.0?classifier=sources

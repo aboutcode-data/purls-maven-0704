@@ -1,0 +1,4 @@
+- pkg:maven/com.expedia.apiary/apiary-metastore-metrics@0.2.0
+- pkg:maven/com.expedia.apiary/apiary-metastore-metrics@0.2.0?classifier=sources
+- pkg:maven/com.expedia.apiary/apiary-metastore-metrics@1.0.0
+- pkg:maven/com.expedia.apiary/apiary-metastore-metrics@1.0.0?classifier=sources

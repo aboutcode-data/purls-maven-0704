@@ -1,0 +1,2 @@
+- pkg:maven/org.scodec/testkit_2.10@1.10.4
+- pkg:maven/org.scodec/testkit_2.10@1.10.4?classifier=sources

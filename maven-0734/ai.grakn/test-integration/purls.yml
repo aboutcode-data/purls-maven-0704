@@ -3,3 +3,5 @@
 - pkg:maven/ai.grakn/test-integration@0.17.1
 - pkg:maven/ai.grakn/test-integration@0.18.0
 - pkg:maven/ai.grakn/test-integration@1.0.0
+- pkg:maven/ai.grakn/test-integration@1.4.1
+- pkg:maven/ai.grakn/test-integration@v1.1.0-226-g847ecff2d8e26f249422247d7665fe15f07b1744

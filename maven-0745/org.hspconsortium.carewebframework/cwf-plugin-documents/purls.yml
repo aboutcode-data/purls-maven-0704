@@ -8,3 +8,5 @@
 - pkg:maven/org.hspconsortium.carewebframework/cwf-plugin-documents@2.0.1?classifier=sources
 - pkg:maven/org.hspconsortium.carewebframework/cwf-plugin-documents@3.0.0-RC1
 - pkg:maven/org.hspconsortium.carewebframework/cwf-plugin-documents@3.0.0-RC1?classifier=sources
+- pkg:maven/org.hspconsortium.carewebframework/cwf-plugin-documents@3.0.0-RC4
+- pkg:maven/org.hspconsortium.carewebframework/cwf-plugin-documents@3.0.0-RC4?classifier=sources

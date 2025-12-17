@@ -1,0 +1,2 @@
+- pkg:maven/io.wizzie.enricher/base@0.5.2
+- pkg:maven/io.wizzie.enricher/base@0.5.2?classifier=sources

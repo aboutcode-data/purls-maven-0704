@@ -1,0 +1,6 @@
+- pkg:maven/cn.home1/logback-example@0.0.8.OSS
+- pkg:maven/cn.home1/logback-example@0.0.8.OSS?classifier=sources
+- pkg:maven/cn.home1/logback-example@0.0.9.OSS
+- pkg:maven/cn.home1/logback-example@0.0.9.OSS?classifier=sources
+- pkg:maven/cn.home1/logback-example@0.1.1
+- pkg:maven/cn.home1/logback-example@0.1.1?classifier=sources

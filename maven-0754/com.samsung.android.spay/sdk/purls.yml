@@ -1,0 +1,3 @@
+- pkg:maven/com.samsung.android.spay/sdk@2.4.00?classifier=sources
+- pkg:maven/com.samsung.android.spay/sdk@2.5.00?classifier=sources
+- pkg:maven/com.samsung.android.spay/sdk@2.5.01?classifier=sources

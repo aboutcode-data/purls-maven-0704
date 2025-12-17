@@ -60,3 +60,5 @@
 - pkg:maven/net.itarray/automotion@2.1.0-rc3
 - pkg:maven/net.itarray/automotion@2.1.0-rc3?classifier=sources
 - pkg:maven/net.itarray/automotion@2.1.0?classifier=sources
+- pkg:maven/net.itarray/automotion@2.1.1
+- pkg:maven/net.itarray/automotion@2.1.1?classifier=sources

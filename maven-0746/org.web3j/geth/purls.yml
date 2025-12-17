@@ -28,3 +28,9 @@
 - pkg:maven/org.web3j/geth@3.3.1?classifier=sources
 - pkg:maven/org.web3j/geth@3.4.0
 - pkg:maven/org.web3j/geth@3.4.0?classifier=sources
+- pkg:maven/org.web3j/geth@3.5.0
+- pkg:maven/org.web3j/geth@3.5.0?classifier=sources
+- pkg:maven/org.web3j/geth@3.6.0
+- pkg:maven/org.web3j/geth@3.6.0?classifier=sources
+- pkg:maven/org.web3j/geth@4.0.0-alpha-1
+- pkg:maven/org.web3j/geth@4.0.0-alpha-1?classifier=sources

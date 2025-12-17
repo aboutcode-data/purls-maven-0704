@@ -1,0 +1,4 @@
+- pkg:maven/jp.co.ap-com/spring-oauth2-serializable@0.0.1
+- pkg:maven/jp.co.ap-com/spring-oauth2-serializable@0.0.1?classifier=sources
+- pkg:maven/jp.co.ap-com/spring-oauth2-serializable@0.0.2
+- pkg:maven/jp.co.ap-com/spring-oauth2-serializable@0.0.2?classifier=sources
