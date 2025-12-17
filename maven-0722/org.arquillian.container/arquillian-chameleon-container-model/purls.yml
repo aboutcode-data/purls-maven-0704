@@ -4,3 +4,7 @@
 - pkg:maven/org.arquillian.container/arquillian-chameleon-container-model@1.0.0.Beta2?classifier=sources
 - pkg:maven/org.arquillian.container/arquillian-chameleon-container-model@1.0.0.Beta3
 - pkg:maven/org.arquillian.container/arquillian-chameleon-container-model@1.0.0.Beta3?classifier=sources
+- pkg:maven/org.arquillian.container/arquillian-chameleon-container-model@1.0.0.CR1
+- pkg:maven/org.arquillian.container/arquillian-chameleon-container-model@1.0.0.CR1?classifier=sources
+- pkg:maven/org.arquillian.container/arquillian-chameleon-container-model@1.0.0.CR2
+- pkg:maven/org.arquillian.container/arquillian-chameleon-container-model@1.0.0.CR2?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/com.github.mfathi91/jconunit@1.0.0
+- pkg:maven/com.github.mfathi91/jconunit@1.0.0?classifier=sources
+- pkg:maven/com.github.mfathi91/jconunit@1.1.0
+- pkg:maven/com.github.mfathi91/jconunit@1.1.0?classifier=sources
+- pkg:maven/com.github.mfathi91/jconunit@2.1.0
+- pkg:maven/com.github.mfathi91/jconunit@2.1.0?classifier=sources
+- pkg:maven/com.github.mfathi91/jconunit@3.0.0
+- pkg:maven/com.github.mfathi91/jconunit@3.0.0?classifier=sources

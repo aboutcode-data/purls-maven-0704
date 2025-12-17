@@ -1,0 +1,2 @@
+- pkg:maven/be.wegenenverkeer/atomium-play26_2.11@1.3.0
+- pkg:maven/be.wegenenverkeer/atomium-play26_2.11@1.3.0?classifier=sources

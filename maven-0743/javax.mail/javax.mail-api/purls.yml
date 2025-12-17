@@ -36,3 +36,5 @@
 - pkg:maven/javax.mail/javax.mail-api@1.6.0-rc2
 - pkg:maven/javax.mail/javax.mail-api@1.6.0-rc2?classifier=sources
 - pkg:maven/javax.mail/javax.mail-api@1.6.0?classifier=sources
+- pkg:maven/javax.mail/javax.mail-api@1.6.1
+- pkg:maven/javax.mail/javax.mail-api@1.6.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.skywalking/apm-collector-boot@5.0.0-alpha
+- pkg:maven/org.apache.skywalking/apm-collector-boot@5.0.0-beta

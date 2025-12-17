@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.fezvrasta/popper.js@1.14.2
+- pkg:maven/org.webjars.bowergithub.fezvrasta/popper.js@1.14.2?classifier=sources
+- pkg:maven/org.webjars.bowergithub.fezvrasta/popper.js@1.14.3
+- pkg:maven/org.webjars.bowergithub.fezvrasta/popper.js@1.14.3?classifier=sources

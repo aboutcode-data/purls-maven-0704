@@ -66,6 +66,8 @@
 - pkg:maven/org.beangle.security/beangle-security-blueprint@3.5.2?classifier=sources
 - pkg:maven/org.beangle.security/beangle-security-blueprint@3.5.3
 - pkg:maven/org.beangle.security/beangle-security-blueprint@3.5.3?classifier=sources
+- pkg:maven/org.beangle.security/beangle-security-blueprint@3.6.0.M2
+- pkg:maven/org.beangle.security/beangle-security-blueprint@3.6.0.M2?classifier=sources
 - pkg:maven/org.beangle.security/beangle-security-blueprint@4.0.2
 - pkg:maven/org.beangle.security/beangle-security-blueprint@4.0.2?classifier=sources
 - pkg:maven/org.beangle.security/beangle-security-blueprint@4.0.3

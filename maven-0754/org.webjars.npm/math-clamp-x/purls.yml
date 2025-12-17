@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/math-clamp-x@1.2.0
+- pkg:maven/org.webjars.npm/math-clamp-x@1.2.0?classifier=sources

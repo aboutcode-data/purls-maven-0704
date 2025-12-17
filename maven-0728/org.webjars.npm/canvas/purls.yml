@@ -2,5 +2,7 @@
 - pkg:maven/org.webjars.npm/canvas@1.4.0?classifier=sources
 - pkg:maven/org.webjars.npm/canvas@1.6.6
 - pkg:maven/org.webjars.npm/canvas@1.6.6?classifier=sources
+- pkg:maven/org.webjars.npm/canvas@1.6.8
+- pkg:maven/org.webjars.npm/canvas@1.6.8?classifier=sources
 - pkg:maven/org.webjars.npm/canvas@2.0.0-alpha.1
 - pkg:maven/org.webjars.npm/canvas@2.0.0-alpha.1?classifier=sources

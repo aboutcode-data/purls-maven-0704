@@ -52,6 +52,16 @@
 - pkg:maven/com.adjust.sdk/adjust-android@4.11.4?classifier=sources
 - pkg:maven/com.adjust.sdk/adjust-android@4.12.0
 - pkg:maven/com.adjust.sdk/adjust-android@4.12.0?classifier=sources
+- pkg:maven/com.adjust.sdk/adjust-android@4.12.1
+- pkg:maven/com.adjust.sdk/adjust-android@4.12.1?classifier=sources
+- pkg:maven/com.adjust.sdk/adjust-android@4.12.2
+- pkg:maven/com.adjust.sdk/adjust-android@4.12.2?classifier=sources
+- pkg:maven/com.adjust.sdk/adjust-android@4.12.3
+- pkg:maven/com.adjust.sdk/adjust-android@4.12.3?classifier=sources
+- pkg:maven/com.adjust.sdk/adjust-android@4.12.4
+- pkg:maven/com.adjust.sdk/adjust-android@4.12.4?classifier=sources
+- pkg:maven/com.adjust.sdk/adjust-android@4.13.0
+- pkg:maven/com.adjust.sdk/adjust-android@4.13.0?classifier=sources
 - pkg:maven/com.adjust.sdk/adjust-android@4.2.0
 - pkg:maven/com.adjust.sdk/adjust-android@4.2.0?classifier=sources
 - pkg:maven/com.adjust.sdk/adjust-android@4.2.1

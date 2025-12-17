@@ -22,3 +22,5 @@
 - pkg:maven/com.flipkart/hbase-object-mapper@1.7?classifier=sources
 - pkg:maven/com.flipkart/hbase-object-mapper@1.8
 - pkg:maven/com.flipkart/hbase-object-mapper@1.8?classifier=sources
+- pkg:maven/com.flipkart/hbase-object-mapper@1.9
+- pkg:maven/com.flipkart/hbase-object-mapper@1.9?classifier=sources

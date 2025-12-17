@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jinahya/json-java-retrotranslated@20180130
+- pkg:maven/com.github.jinahya/json-java-retrotranslated@20180130?classifier=sources

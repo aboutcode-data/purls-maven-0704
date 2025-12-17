@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.taverna/apache-taverna-parent@2-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.taverna/apache-taverna-parent@3-incubating?classifier=source-release&type=zip

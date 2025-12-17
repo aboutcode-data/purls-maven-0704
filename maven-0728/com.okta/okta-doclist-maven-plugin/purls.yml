@@ -1,0 +1,2 @@
+- pkg:maven/com.okta/okta-doclist-maven-plugin@4
+- pkg:maven/com.okta/okta-doclist-maven-plugin@4?classifier=sources

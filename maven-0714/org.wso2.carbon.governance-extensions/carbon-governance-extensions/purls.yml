@@ -1,2 +1,5 @@
+- pkg:maven/org.wso2.carbon.governance-extensions/carbon-governance-extensions@4.5.10?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.governance-extensions/carbon-governance-extensions@4.5.11?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.governance-extensions/carbon-governance-extensions@4.5.7?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.governance-extensions/carbon-governance-extensions@4.5.8?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.governance-extensions/carbon-governance-extensions@4.5.9?classifier=source-release&type=zip

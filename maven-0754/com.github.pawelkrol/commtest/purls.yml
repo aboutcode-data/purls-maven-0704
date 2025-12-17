@@ -1,2 +1,6 @@
 - pkg:maven/com.github.pawelkrol/commtest@0.01
 - pkg:maven/com.github.pawelkrol/commtest@0.01?classifier=sources
+- pkg:maven/com.github.pawelkrol/commtest@0.02
+- pkg:maven/com.github.pawelkrol/commtest@0.02?classifier=sources
+- pkg:maven/com.github.pawelkrol/commtest@0.03
+- pkg:maven/com.github.pawelkrol/commtest@0.03?classifier=sources

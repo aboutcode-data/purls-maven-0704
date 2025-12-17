@@ -1,0 +1,2 @@
+- pkg:maven/de.ameto/client@0.1.2
+- pkg:maven/de.ameto/client@0.1.2?classifier=sources

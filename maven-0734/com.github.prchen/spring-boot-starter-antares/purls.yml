@@ -1,0 +1,2 @@
+- pkg:maven/com.github.prchen/spring-boot-starter-antares@0.0.1
+- pkg:maven/com.github.prchen/spring-boot-starter-antares@0.0.1?classifier=sources

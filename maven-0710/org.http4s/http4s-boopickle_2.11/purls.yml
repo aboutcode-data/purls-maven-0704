@@ -1,0 +1,4 @@
+- pkg:maven/org.http4s/http4s-boopickle_2.11@0.18.11
+- pkg:maven/org.http4s/http4s-boopickle_2.11@0.18.11?classifier=sources
+- pkg:maven/org.http4s/http4s-boopickle_2.11@0.18.12
+- pkg:maven/org.http4s/http4s-boopickle_2.11@0.18.12?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/ua-device-detector@1.0.1
+- pkg:maven/org.webjars.bower/ua-device-detector@1.0.1?classifier=sources

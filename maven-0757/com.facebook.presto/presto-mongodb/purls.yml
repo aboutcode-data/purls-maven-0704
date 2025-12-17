@@ -48,3 +48,15 @@
 - pkg:maven/com.facebook.presto/presto-mongodb@0.189?classifier=sources
 - pkg:maven/com.facebook.presto/presto-mongodb@0.190?classifier=sources
 - pkg:maven/com.facebook.presto/presto-mongodb@0.191?classifier=sources
+- pkg:maven/com.facebook.presto/presto-mongodb@0.192?classifier=sources
+- pkg:maven/com.facebook.presto/presto-mongodb@0.193?classifier=sources
+- pkg:maven/com.facebook.presto/presto-mongodb@0.194?classifier=sources
+- pkg:maven/com.facebook.presto/presto-mongodb@0.195?classifier=sources
+- pkg:maven/com.facebook.presto/presto-mongodb@0.196?classifier=sources
+- pkg:maven/com.facebook.presto/presto-mongodb@0.197?classifier=sources
+- pkg:maven/com.facebook.presto/presto-mongodb@0.198?classifier=sources
+- pkg:maven/com.facebook.presto/presto-mongodb@0.199?classifier=sources
+- pkg:maven/com.facebook.presto/presto-mongodb@0.200?classifier=sources
+- pkg:maven/com.facebook.presto/presto-mongodb@0.201?classifier=sources
+- pkg:maven/com.facebook.presto/presto-mongodb@0.202?classifier=sources
+- pkg:maven/com.facebook.presto/presto-mongodb@0.203?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/online.terrageo.gjson/terrageo-gjson@1.0.0
+- pkg:maven/online.terrageo.gjson/terrageo-gjson@1.0.0?classifier=sources
+- pkg:maven/online.terrageo.gjson/terrageo-gjson@1.0.1
+- pkg:maven/online.terrageo.gjson/terrageo-gjson@1.0.1?classifier=sources

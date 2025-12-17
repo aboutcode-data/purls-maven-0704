@@ -1,0 +1,10 @@
+- pkg:maven/ch.epfl.scala/profiledb_2.12@1.0.0
+- pkg:maven/ch.epfl.scala/profiledb_2.12@1.0.0?classifier=sources
+- pkg:maven/ch.epfl.scala/profiledb_2.12@3f7f7927
+- pkg:maven/ch.epfl.scala/profiledb_2.12@3f7f7927?classifier=sources
+- pkg:maven/ch.epfl.scala/profiledb_2.12@49ef8beb
+- pkg:maven/ch.epfl.scala/profiledb_2.12@49ef8beb?classifier=sources
+- pkg:maven/ch.epfl.scala/profiledb_2.12@6cac8b23
+- pkg:maven/ch.epfl.scala/profiledb_2.12@6cac8b23?classifier=sources
+- pkg:maven/ch.epfl.scala/profiledb_2.12@e1994e1e
+- pkg:maven/ch.epfl.scala/profiledb_2.12@e1994e1e?classifier=sources

@@ -4,3 +4,7 @@
 - pkg:maven/org.webjars.npm/dateformat@1.0.12?classifier=sources
 - pkg:maven/org.webjars.npm/dateformat@1.0.8
 - pkg:maven/org.webjars.npm/dateformat@1.0.8?classifier=sources
+- pkg:maven/org.webjars.npm/dateformat@2.2.0
+- pkg:maven/org.webjars.npm/dateformat@2.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/dateformat@3.0.3
+- pkg:maven/org.webjars.npm/dateformat@3.0.3?classifier=sources

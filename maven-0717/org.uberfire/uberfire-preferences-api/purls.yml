@@ -36,3 +36,7 @@
 - pkg:maven/org.uberfire/uberfire-preferences-api@1.4.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-preferences-api@2.2.0.Final
 - pkg:maven/org.uberfire/uberfire-preferences-api@2.2.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-preferences-api@2.3.0.Final
+- pkg:maven/org.uberfire/uberfire-preferences-api@2.3.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-preferences-api@2.4.0.Final
+- pkg:maven/org.uberfire/uberfire-preferences-api@2.4.0.Final?classifier=sources

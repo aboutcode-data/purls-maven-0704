@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/store@1.3.20
 - pkg:maven/org.webjars.npm/store@1.3.20?classifier=sources
+- pkg:maven/org.webjars.npm/store@2.0.12
+- pkg:maven/org.webjars.npm/store@2.0.12?classifier=sources

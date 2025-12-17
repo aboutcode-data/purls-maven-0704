@@ -12,5 +12,7 @@
 - pkg:maven/org.webjars.bower/angular-datatables@0.5.4?classifier=sources
 - pkg:maven/org.webjars.bower/angular-datatables@0.5.5
 - pkg:maven/org.webjars.bower/angular-datatables@0.5.5?classifier=sources
+- pkg:maven/org.webjars.bower/angular-datatables@0.5.6
+- pkg:maven/org.webjars.bower/angular-datatables@0.5.6?classifier=sources
 - pkg:maven/org.webjars.bower/angular-datatables@0.6.2
 - pkg:maven/org.webjars.bower/angular-datatables@0.6.2?classifier=sources

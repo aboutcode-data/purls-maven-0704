@@ -11,3 +11,7 @@
 - pkg:maven/com.microsoft.azure/azure-storage-spring-boot-starter@0.1.8
 - pkg:maven/com.microsoft.azure/azure-storage-spring-boot-starter@0.1.9
 - pkg:maven/com.microsoft.azure/azure-storage-spring-boot-starter@0.2.0
+- pkg:maven/com.microsoft.azure/azure-storage-spring-boot-starter@0.2.3
+- pkg:maven/com.microsoft.azure/azure-storage-spring-boot-starter@2.0.0
+- pkg:maven/com.microsoft.azure/azure-storage-spring-boot-starter@2.0.1
+- pkg:maven/com.microsoft.azure/azure-storage-spring-boot-starter@2.0.2

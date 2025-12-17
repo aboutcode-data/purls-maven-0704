@@ -1,0 +1,10 @@
+- pkg:maven/com.sendinblue/sib-api-v3-sdk@1.0.0
+- pkg:maven/com.sendinblue/sib-api-v3-sdk@1.0.0?classifier=sources
+- pkg:maven/com.sendinblue/sib-api-v3-sdk@1.0.1
+- pkg:maven/com.sendinblue/sib-api-v3-sdk@1.0.1?classifier=sources
+- pkg:maven/com.sendinblue/sib-api-v3-sdk@2.0.0
+- pkg:maven/com.sendinblue/sib-api-v3-sdk@2.0.0?classifier=sources
+- pkg:maven/com.sendinblue/sib-api-v3-sdk@2.0.1
+- pkg:maven/com.sendinblue/sib-api-v3-sdk@2.0.1?classifier=sources
+- pkg:maven/com.sendinblue/sib-api-v3-sdk@3.0.0
+- pkg:maven/com.sendinblue/sib-api-v3-sdk@3.0.0?classifier=sources

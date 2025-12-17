@@ -30,3 +30,15 @@
 - pkg:maven/org.flywaydb/flyway-maven-plugin@5.0.2?classifier=sources
 - pkg:maven/org.flywaydb/flyway-maven-plugin@5.0.3
 - pkg:maven/org.flywaydb/flyway-maven-plugin@5.0.3?classifier=sources
+- pkg:maven/org.flywaydb/flyway-maven-plugin@5.0.4
+- pkg:maven/org.flywaydb/flyway-maven-plugin@5.0.4?classifier=sources
+- pkg:maven/org.flywaydb/flyway-maven-plugin@5.0.5
+- pkg:maven/org.flywaydb/flyway-maven-plugin@5.0.5?classifier=sources
+- pkg:maven/org.flywaydb/flyway-maven-plugin@5.0.6
+- pkg:maven/org.flywaydb/flyway-maven-plugin@5.0.6?classifier=sources
+- pkg:maven/org.flywaydb/flyway-maven-plugin@5.0.7
+- pkg:maven/org.flywaydb/flyway-maven-plugin@5.0.7?classifier=sources
+- pkg:maven/org.flywaydb/flyway-maven-plugin@5.1.0
+- pkg:maven/org.flywaydb/flyway-maven-plugin@5.1.0?classifier=sources
+- pkg:maven/org.flywaydb/flyway-maven-plugin@5.1.1
+- pkg:maven/org.flywaydb/flyway-maven-plugin@5.1.1?classifier=sources

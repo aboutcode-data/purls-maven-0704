@@ -2,3 +2,5 @@
 - pkg:maven/io.klerch/alexa-skills-kit-tester-java@0.1.0?classifier=sources
 - pkg:maven/io.klerch/alexa-skills-kit-tester-java@1.0.0
 - pkg:maven/io.klerch/alexa-skills-kit-tester-java@1.0.0?classifier=sources
+- pkg:maven/io.klerch/alexa-skills-kit-tester-java@1.1.0
+- pkg:maven/io.klerch/alexa-skills-kit-tester-java@1.1.0?classifier=sources

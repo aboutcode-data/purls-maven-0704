@@ -1,2 +1,6 @@
 - pkg:maven/io.typefox.sprotty/xtext-diagram@0.2.0
 - pkg:maven/io.typefox.sprotty/xtext-diagram@0.2.0?classifier=sources
+- pkg:maven/io.typefox.sprotty/xtext-diagram@0.3.0
+- pkg:maven/io.typefox.sprotty/xtext-diagram@0.3.0?classifier=sources
+- pkg:maven/io.typefox.sprotty/xtext-diagram@0.4.0
+- pkg:maven/io.typefox.sprotty/xtext-diagram@0.4.0?classifier=sources

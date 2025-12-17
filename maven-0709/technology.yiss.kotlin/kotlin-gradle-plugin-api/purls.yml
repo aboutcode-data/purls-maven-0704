@@ -1,0 +1,2 @@
+- pkg:maven/technology.yiss.kotlin/kotlin-gradle-plugin-api@1.2.41
+- pkg:maven/technology.yiss.kotlin/kotlin-gradle-plugin-api@1.2.41?classifier=sources

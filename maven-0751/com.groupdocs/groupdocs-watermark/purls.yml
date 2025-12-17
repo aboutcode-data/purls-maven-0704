@@ -1,0 +1,2 @@
+- pkg:maven/com.groupdocs/groupdocs-watermark@18.2?classifier=sources
+- pkg:maven/com.groupdocs/groupdocs-watermark@18.3?classifier=sources

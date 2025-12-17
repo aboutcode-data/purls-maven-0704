@@ -1,2 +1,6 @@
 - pkg:maven/edu.umn.biomedicus/biomedicus-measures@1.0.0
 - pkg:maven/edu.umn.biomedicus/biomedicus-measures@1.0.0?classifier=sources
+- pkg:maven/edu.umn.biomedicus/biomedicus-measures@2.0.0
+- pkg:maven/edu.umn.biomedicus/biomedicus-measures@2.0.0?classifier=sources
+- pkg:maven/edu.umn.biomedicus/biomedicus-measures@2.0.1
+- pkg:maven/edu.umn.biomedicus/biomedicus-measures@2.0.1?classifier=sources

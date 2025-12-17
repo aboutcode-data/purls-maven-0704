@@ -12,3 +12,7 @@
 - pkg:maven/net.i2p.client/mstreaming@0.9.31?classifier=sources
 - pkg:maven/net.i2p.client/mstreaming@0.9.32
 - pkg:maven/net.i2p.client/mstreaming@0.9.32?classifier=sources
+- pkg:maven/net.i2p.client/mstreaming@0.9.33
+- pkg:maven/net.i2p.client/mstreaming@0.9.33?classifier=sources
+- pkg:maven/net.i2p.client/mstreaming@0.9.34
+- pkg:maven/net.i2p.client/mstreaming@0.9.34?classifier=sources

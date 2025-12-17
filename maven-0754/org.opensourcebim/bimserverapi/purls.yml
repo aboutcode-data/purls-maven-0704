@@ -30,6 +30,10 @@
 - pkg:maven/org.opensourcebim/bimserverapi@0.0.134
 - pkg:maven/org.opensourcebim/bimserverapi@0.0.135
 - pkg:maven/org.opensourcebim/bimserverapi@0.0.136
+- pkg:maven/org.opensourcebim/bimserverapi@0.0.137
+- pkg:maven/org.opensourcebim/bimserverapi@0.0.138
+- pkg:maven/org.opensourcebim/bimserverapi@0.0.139
+- pkg:maven/org.opensourcebim/bimserverapi@0.0.140
 - pkg:maven/org.opensourcebim/bimserverapi@0.0.70
 - pkg:maven/org.opensourcebim/bimserverapi@0.0.71
 - pkg:maven/org.opensourcebim/bimserverapi@0.0.72

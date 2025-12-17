@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/github-com-angular-ui-ui-validate@1.1.1
+- pkg:maven/org.webjars.npm/github-com-angular-ui-ui-validate@1.1.1?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-angular-ui-ui-validate@1.2.3
+- pkg:maven/org.webjars.npm/github-com-angular-ui-ui-validate@1.2.3?classifier=sources

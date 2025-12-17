@@ -70,6 +70,10 @@
 - pkg:maven/org.jmockit/jmockit@1.36?classifier=sources
 - pkg:maven/org.jmockit/jmockit@1.37
 - pkg:maven/org.jmockit/jmockit@1.37?classifier=sources
+- pkg:maven/org.jmockit/jmockit@1.38
+- pkg:maven/org.jmockit/jmockit@1.38?classifier=sources
+- pkg:maven/org.jmockit/jmockit@1.39
+- pkg:maven/org.jmockit/jmockit@1.39?classifier=sources
 - pkg:maven/org.jmockit/jmockit@1.8
 - pkg:maven/org.jmockit/jmockit@1.8?classifier=sources
 - pkg:maven/org.jmockit/jmockit@1.9

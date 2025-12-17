@@ -18,3 +18,5 @@
 - pkg:maven/org.webjars.bower/angular-xeditable@0.7.0?classifier=sources
 - pkg:maven/org.webjars.bower/angular-xeditable@0.7.1
 - pkg:maven/org.webjars.bower/angular-xeditable@0.7.1?classifier=sources
+- pkg:maven/org.webjars.bower/angular-xeditable@0.8.1
+- pkg:maven/org.webjars.bower/angular-xeditable@0.8.1?classifier=sources

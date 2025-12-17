@@ -4,3 +4,7 @@
 - pkg:maven/com.gu/management_2.12@5.38?classifier=sources
 - pkg:maven/com.gu/management_2.12@5.39
 - pkg:maven/com.gu/management_2.12@5.39?classifier=sources
+- pkg:maven/com.gu/management_2.12@5.40
+- pkg:maven/com.gu/management_2.12@5.40?classifier=sources
+- pkg:maven/com.gu/management_2.12@5.41
+- pkg:maven/com.gu/management_2.12@5.41?classifier=sources

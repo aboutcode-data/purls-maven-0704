@@ -1,0 +1,10 @@
+- pkg:maven/org.n52.arctic-sea/svalbard-json-common@3.0.0
+- pkg:maven/org.n52.arctic-sea/svalbard-json-common@3.0.0?classifier=sources
+- pkg:maven/org.n52.arctic-sea/svalbard-json-common@3.1.0
+- pkg:maven/org.n52.arctic-sea/svalbard-json-common@3.1.0?classifier=sources
+- pkg:maven/org.n52.arctic-sea/svalbard-json-common@4.0.0
+- pkg:maven/org.n52.arctic-sea/svalbard-json-common@4.0.0?classifier=sources
+- pkg:maven/org.n52.arctic-sea/svalbard-json-common@4.1.0
+- pkg:maven/org.n52.arctic-sea/svalbard-json-common@4.1.0?classifier=sources
+- pkg:maven/org.n52.arctic-sea/svalbard-json-common@5.0.0
+- pkg:maven/org.n52.arctic-sea/svalbard-json-common@5.0.0?classifier=sources

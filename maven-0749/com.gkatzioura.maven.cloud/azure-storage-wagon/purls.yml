@@ -1,0 +1,2 @@
+- pkg:maven/com.gkatzioura.maven.cloud/azure-storage-wagon@1.0
+- pkg:maven/com.gkatzioura.maven.cloud/azure-storage-wagon@1.0?classifier=sources

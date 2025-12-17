@@ -1,0 +1,12 @@
+- pkg:maven/com.codacy/codacy-metrics-scala-seed_2.12@0.1.121
+- pkg:maven/com.codacy/codacy-metrics-scala-seed_2.12@0.1.121?classifier=sources
+- pkg:maven/com.codacy/codacy-metrics-scala-seed_2.12@0.1.133
+- pkg:maven/com.codacy/codacy-metrics-scala-seed_2.12@0.1.133?classifier=sources
+- pkg:maven/com.codacy/codacy-metrics-scala-seed_2.12@0.1.149
+- pkg:maven/com.codacy/codacy-metrics-scala-seed_2.12@0.1.149?classifier=sources
+- pkg:maven/com.codacy/codacy-metrics-scala-seed_2.12@0.1.160
+- pkg:maven/com.codacy/codacy-metrics-scala-seed_2.12@0.1.160?classifier=sources
+- pkg:maven/com.codacy/codacy-metrics-scala-seed_2.12@0.1.171
+- pkg:maven/com.codacy/codacy-metrics-scala-seed_2.12@0.1.171?classifier=sources
+- pkg:maven/com.codacy/codacy-metrics-scala-seed_2.12@0.1.197
+- pkg:maven/com.codacy/codacy-metrics-scala-seed_2.12@0.1.197?classifier=sources

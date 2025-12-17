@@ -8,3 +8,9 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-converter@3.0.0?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-converter@3.1.0
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-converter@3.1.0?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-converter@3.2.0
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-converter@3.2.0?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-converter@3.3.0
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-converter@3.3.0?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-converter@3.4.0
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-converter@3.4.0?classifier=sources

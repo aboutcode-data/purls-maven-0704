@@ -2,3 +2,4 @@
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.deployment.parent@5.1.8?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.deployment.parent@5.1.9?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.deployment.parent@5.2.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.deployment.parent@5.2.1?classifier=source-release&type=zip

@@ -1,0 +1,4 @@
+- pkg:maven/org.iot-dsa/dslink-core-v2@0.21.0
+- pkg:maven/org.iot-dsa/dslink-core-v2@0.21.0?classifier=sources
+- pkg:maven/org.iot-dsa/dslink-core-v2@0.26.0
+- pkg:maven/org.iot-dsa/dslink-core-v2@0.26.0?classifier=sources

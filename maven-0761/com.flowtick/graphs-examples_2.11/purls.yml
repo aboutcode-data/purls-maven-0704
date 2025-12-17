@@ -1,0 +1,2 @@
+- pkg:maven/com.flowtick/graphs-examples_2.11@0.1.11
+- pkg:maven/com.flowtick/graphs-examples_2.11@0.1.11?classifier=sources

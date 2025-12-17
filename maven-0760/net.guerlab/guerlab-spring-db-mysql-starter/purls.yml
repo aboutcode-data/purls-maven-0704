@@ -1,0 +1,4 @@
+- pkg:maven/net.guerlab/guerlab-spring-db-mysql-starter@0.1.0
+- pkg:maven/net.guerlab/guerlab-spring-db-mysql-starter@0.1.0?classifier=sources
+- pkg:maven/net.guerlab/guerlab-spring-db-mysql-starter@0.1.1
+- pkg:maven/net.guerlab/guerlab-spring-db-mysql-starter@0.1.1?classifier=sources

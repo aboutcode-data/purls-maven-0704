@@ -1,0 +1,6 @@
+- pkg:maven/com.github.terran4j/terran4j-commons-hedis@1.0.0.RELEASE
+- pkg:maven/com.github.terran4j/terran4j-commons-hedis@1.0.0.RELEASE?classifier=sources
+- pkg:maven/com.github.terran4j/terran4j-commons-hedis@1.0.2
+- pkg:maven/com.github.terran4j/terran4j-commons-hedis@1.0.2?classifier=sources
+- pkg:maven/com.github.terran4j/terran4j-commons-hedis@Virgo.0.1
+- pkg:maven/com.github.terran4j/terran4j-commons-hedis@Virgo.0.1?classifier=sources

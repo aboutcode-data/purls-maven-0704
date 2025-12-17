@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba.boot/dubbo-spring-boot-actuator@0.1.0
+- pkg:maven/com.alibaba.boot/dubbo-spring-boot-actuator@0.1.0?classifier=sources

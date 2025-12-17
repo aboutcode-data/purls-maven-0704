@@ -1,0 +1,2 @@
+- pkg:maven/com.ycframe/yc.frame.plugin.rcache@0.1.1
+- pkg:maven/com.ycframe/yc.frame.plugin.rcache@0.1.1?classifier=sources

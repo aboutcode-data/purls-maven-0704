@@ -1,0 +1,2 @@
+- pkg:maven/com.processpuzzle/processpuzzle-microservice-seed-services@0.1.1?classifier=sources
+- pkg:maven/com.processpuzzle/processpuzzle-microservice-seed-services@0.1.1?type=zip

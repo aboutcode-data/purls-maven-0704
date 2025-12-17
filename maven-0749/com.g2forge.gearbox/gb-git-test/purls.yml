@@ -1,0 +1,2 @@
+- pkg:maven/com.g2forge.gearbox/gb-git-test@0.0.2
+- pkg:maven/com.g2forge.gearbox/gb-git-test@0.0.2?classifier=sources

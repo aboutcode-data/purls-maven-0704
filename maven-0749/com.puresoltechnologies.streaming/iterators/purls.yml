@@ -2,3 +2,9 @@
 - pkg:maven/com.puresoltechnologies.streaming/iterators@0.2.0?classifier=sources
 - pkg:maven/com.puresoltechnologies.streaming/iterators@0.3.0
 - pkg:maven/com.puresoltechnologies.streaming/iterators@0.3.0?classifier=sources
+- pkg:maven/com.puresoltechnologies.streaming/iterators@1.0.0
+- pkg:maven/com.puresoltechnologies.streaming/iterators@1.0.0?classifier=sources
+- pkg:maven/com.puresoltechnologies.streaming/iterators@1.0.1
+- pkg:maven/com.puresoltechnologies.streaming/iterators@1.0.1?classifier=sources
+- pkg:maven/com.puresoltechnologies.streaming/iterators@1.1.0
+- pkg:maven/com.puresoltechnologies.streaming/iterators@1.1.0?classifier=sources

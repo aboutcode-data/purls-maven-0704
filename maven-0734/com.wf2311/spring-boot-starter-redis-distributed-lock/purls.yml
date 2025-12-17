@@ -1,0 +1,2 @@
+- pkg:maven/com.wf2311/spring-boot-starter-redis-distributed-lock@1.0.0
+- pkg:maven/com.wf2311/spring-boot-starter-redis-distributed-lock@1.0.0?classifier=sources

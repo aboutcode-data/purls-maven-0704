@@ -4,3 +4,7 @@
 - pkg:maven/org.webjars.npm/isobject@1.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/isobject@2.0.0
 - pkg:maven/org.webjars.npm/isobject@2.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/isobject@2.1.0
+- pkg:maven/org.webjars.npm/isobject@2.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/isobject@3.0.1
+- pkg:maven/org.webjars.npm/isobject@3.0.1?classifier=sources

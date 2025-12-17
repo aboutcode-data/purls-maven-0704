@@ -1,5 +1,7 @@
 - pkg:maven/net.anwiba.commons.swing.icons/org.gnome.gnome-icons@1.0.24
 - pkg:maven/net.anwiba.commons.swing.icons/org.gnome.gnome-icons@1.0.24?classifier=sources
+- pkg:maven/net.anwiba.commons.swing.icons/org.gnome.gnome-icons@3.12.0-1.0.126
+- pkg:maven/net.anwiba.commons.swing.icons/org.gnome.gnome-icons@3.12.0-1.0.126?classifier=sources
 - pkg:maven/net.anwiba.commons.swing.icons/org.gnome.gnome-icons@3.12.0-1.0.25
 - pkg:maven/net.anwiba.commons.swing.icons/org.gnome.gnome-icons@3.12.0-1.0.25?classifier=sources
 - pkg:maven/net.anwiba.commons.swing.icons/org.gnome.gnome-icons@3.12.0-1.0.48

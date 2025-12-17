@@ -1,2 +1,16 @@
 - pkg:maven/com.daioware/commons@1.0.0-RELEASE
 - pkg:maven/com.daioware/commons@1.0.0-RELEASE?classifier=sources
+- pkg:maven/com.daioware/commons@2.0.1-RELEASE
+- pkg:maven/com.daioware/commons@2.0.1-RELEASE?classifier=sources
+- pkg:maven/com.daioware/commons@3.0.0-RELEASE
+- pkg:maven/com.daioware/commons@3.0.0-RELEASE?classifier=sources
+- pkg:maven/com.daioware/commons@3.0.1-RELEASE
+- pkg:maven/com.daioware/commons@3.0.1-RELEASE?classifier=sources
+- pkg:maven/com.daioware/commons@3.0.2-RELEASE
+- pkg:maven/com.daioware/commons@3.0.2-RELEASE?classifier=sources
+- pkg:maven/com.daioware/commons@3.0.3-RELEASE
+- pkg:maven/com.daioware/commons@3.0.3-RELEASE?classifier=sources
+- pkg:maven/com.daioware/commons@3.1.0-RELEASE
+- pkg:maven/com.daioware/commons@3.1.0-RELEASE?classifier=sources
+- pkg:maven/com.daioware/commons@3.2.0-RELEASE
+- pkg:maven/com.daioware/commons@3.2.0-RELEASE?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/me.shib.java.tools/jira-bugs-buddy@0.0.1
+- pkg:maven/me.shib.java.tools/jira-bugs-buddy@0.0.1?classifier=sources

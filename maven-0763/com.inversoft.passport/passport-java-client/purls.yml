@@ -10,3 +10,9 @@
 - pkg:maven/com.inversoft.passport/passport-java-client@1.16.0?classifier=sources
 - pkg:maven/com.inversoft.passport/passport-java-client@1.16.1
 - pkg:maven/com.inversoft.passport/passport-java-client@1.16.1?classifier=sources
+- pkg:maven/com.inversoft.passport/passport-java-client@1.17.0
+- pkg:maven/com.inversoft.passport/passport-java-client@1.17.0?classifier=sources
+- pkg:maven/com.inversoft.passport/passport-java-client@1.20.0
+- pkg:maven/com.inversoft.passport/passport-java-client@1.20.0?classifier=sources
+- pkg:maven/com.inversoft.passport/passport-java-client@1.21.0
+- pkg:maven/com.inversoft.passport/passport-java-client@1.21.0?classifier=sources

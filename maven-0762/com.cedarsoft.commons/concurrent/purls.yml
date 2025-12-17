@@ -98,3 +98,7 @@
 - pkg:maven/com.cedarsoft.commons/concurrent@8.3.1?classifier=sources
 - pkg:maven/com.cedarsoft.commons/concurrent@8.4.0
 - pkg:maven/com.cedarsoft.commons/concurrent@8.4.0?classifier=sources
+- pkg:maven/com.cedarsoft.commons/concurrent@8.5.0
+- pkg:maven/com.cedarsoft.commons/concurrent@8.5.0?classifier=sources
+- pkg:maven/com.cedarsoft.commons/concurrent@8.5.1
+- pkg:maven/com.cedarsoft.commons/concurrent@8.5.1?classifier=sources

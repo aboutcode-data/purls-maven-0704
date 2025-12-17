@@ -1,0 +1,4 @@
+- pkg:maven/org.xhtmlrenderer/flying-saucer-pdf-openpdf@9.1.11
+- pkg:maven/org.xhtmlrenderer/flying-saucer-pdf-openpdf@9.1.11?classifier=sources
+- pkg:maven/org.xhtmlrenderer/flying-saucer-pdf-openpdf@9.1.12
+- pkg:maven/org.xhtmlrenderer/flying-saucer-pdf-openpdf@9.1.12?classifier=sources

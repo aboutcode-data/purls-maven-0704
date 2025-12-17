@@ -1,0 +1,4 @@
+- pkg:maven/com.gsralex/gdata-bean@1.06
+- pkg:maven/com.gsralex/gdata-bean@1.06?classifier=sources
+- pkg:maven/com.gsralex/gdata-bean@1.07
+- pkg:maven/com.gsralex/gdata-bean@1.07?classifier=sources

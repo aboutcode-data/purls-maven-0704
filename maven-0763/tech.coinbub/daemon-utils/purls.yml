@@ -1,0 +1,2 @@
+- pkg:maven/tech.coinbub/daemon-utils@1.0.0
+- pkg:maven/tech.coinbub/daemon-utils@1.0.0?classifier=sources

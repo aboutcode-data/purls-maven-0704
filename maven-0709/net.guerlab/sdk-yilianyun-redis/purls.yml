@@ -1,0 +1,2 @@
+- pkg:maven/net.guerlab/sdk-yilianyun-redis@1.2.2
+- pkg:maven/net.guerlab/sdk-yilianyun-redis@1.2.2?classifier=sources

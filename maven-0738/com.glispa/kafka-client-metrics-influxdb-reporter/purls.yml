@@ -1,0 +1,2 @@
+- pkg:maven/com.glispa/kafka-client-metrics-influxdb-reporter@0.0.4
+- pkg:maven/com.glispa/kafka-client-metrics-influxdb-reporter@0.0.4?classifier=sources

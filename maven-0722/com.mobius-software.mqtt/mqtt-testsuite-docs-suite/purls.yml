@@ -1,0 +1,2 @@
+- pkg:maven/com.mobius-software.mqtt/mqtt-testsuite-docs-suite@1.0.4
+- pkg:maven/com.mobius-software.mqtt/mqtt-testsuite-docs-suite@1.0.4?classifier=sources

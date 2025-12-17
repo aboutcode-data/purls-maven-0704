@@ -1,0 +1,2 @@
+- pkg:maven/int.esa.opssat/spacecraft-simulator@1.2.0
+- pkg:maven/int.esa.opssat/spacecraft-simulator@1.2.0?classifier=sources

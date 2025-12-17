@@ -4,6 +4,8 @@
 - pkg:maven/com.github.lafa.tikaNoExternal/tika-parsers@1.0.10
 - pkg:maven/com.github.lafa.tikaNoExternal/tika-parsers@1.0.10?classifier=sources
 - pkg:maven/com.github.lafa.tikaNoExternal/tika-parsers@1.0.1?classifier=sources
+- pkg:maven/com.github.lafa.tikaNoExternal/tika-parsers@1.0.2
+- pkg:maven/com.github.lafa.tikaNoExternal/tika-parsers@1.0.2?classifier=sources
 - pkg:maven/com.github.lafa.tikaNoExternal/tika-parsers@1.0.4
 - pkg:maven/com.github.lafa.tikaNoExternal/tika-parsers@1.0.4?classifier=sources
 - pkg:maven/com.github.lafa.tikaNoExternal/tika-parsers@1.0.5

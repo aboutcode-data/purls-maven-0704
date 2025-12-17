@@ -36,5 +36,7 @@
 - pkg:maven/org.tinygroup/org.tinygroup.fileindexsource@3.4.7?classifier=sources
 - pkg:maven/org.tinygroup/org.tinygroup.fileindexsource@3.4.8
 - pkg:maven/org.tinygroup/org.tinygroup.fileindexsource@3.4.8?classifier=sources
+- pkg:maven/org.tinygroup/org.tinygroup.fileindexsource@3.4.9
+- pkg:maven/org.tinygroup/org.tinygroup.fileindexsource@3.4.9?classifier=sources
 - pkg:maven/org.tinygroup/org.tinygroup.fileindexsource@tiny-3.0.0
 - pkg:maven/org.tinygroup/org.tinygroup.fileindexsource@tiny-3.0.0?classifier=sources

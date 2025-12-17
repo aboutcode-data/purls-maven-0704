@@ -1,0 +1,2 @@
+- pkg:maven/se.hiq.oss.commons/json-schema-discovery@0.1
+- pkg:maven/se.hiq.oss.commons/json-schema-discovery@0.1?classifier=sources

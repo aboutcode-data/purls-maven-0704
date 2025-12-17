@@ -14,3 +14,5 @@
 - pkg:maven/org.scalameta/interactive_2.11@0.0.5-M5?classifier=sources
 - pkg:maven/org.scalameta/interactive_2.11@0.0.5-M6
 - pkg:maven/org.scalameta/interactive_2.11@0.0.5-M6?classifier=sources
+- pkg:maven/org.scalameta/interactive_2.11@3.0.0
+- pkg:maven/org.scalameta/interactive_2.11@3.0.0?classifier=sources

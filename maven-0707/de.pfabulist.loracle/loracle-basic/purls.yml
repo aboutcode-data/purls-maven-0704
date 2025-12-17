@@ -1,4 +1,6 @@
 - pkg:maven/de.pfabulist.loracle/loracle-basic@0.10
+- pkg:maven/de.pfabulist.loracle/loracle-basic@0.10.3
+- pkg:maven/de.pfabulist.loracle/loracle-basic@0.10.3?classifier=sources
 - pkg:maven/de.pfabulist.loracle/loracle-basic@0.10?classifier=sources
 - pkg:maven/de.pfabulist.loracle/loracle-basic@0.9
 - pkg:maven/de.pfabulist.loracle/loracle-basic@0.9?classifier=sources

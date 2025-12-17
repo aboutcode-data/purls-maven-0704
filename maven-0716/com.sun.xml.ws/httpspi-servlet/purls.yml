@@ -27,4 +27,5 @@
 - pkg:maven/com.sun.xml.ws/httpspi-servlet@2.2.9-b14002
 - pkg:maven/com.sun.xml.ws/httpspi-servlet@2.2.9-b14002?classifier=sources
 - pkg:maven/com.sun.xml.ws/httpspi-servlet@2.3.0
+- pkg:maven/com.sun.xml.ws/httpspi-servlet@2.3.0.1
 - pkg:maven/com.sun.xml.ws/httpspi-servlet@2.3.0?classifier=sources

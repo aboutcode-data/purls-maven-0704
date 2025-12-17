@@ -1,0 +1,2 @@
+- pkg:maven/org.clojure/core.typed.infer@0.5.2
+- pkg:maven/org.clojure/core.typed.infer@0.5.2?classifier=sources

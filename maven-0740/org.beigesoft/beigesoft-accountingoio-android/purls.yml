@@ -1,1 +1,2 @@
 - pkg:maven/org.beigesoft/beigesoft-accountingoio-android@1.1.4?classifier=sources
+- pkg:maven/org.beigesoft/beigesoft-accountingoio-android@1.1.5?classifier=sources

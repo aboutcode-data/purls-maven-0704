@@ -46,6 +46,8 @@
 - pkg:maven/im.mange/driveby_2.11@0.3.31?classifier=sources
 - pkg:maven/im.mange/driveby_2.11@0.3.32
 - pkg:maven/im.mange/driveby_2.11@0.3.32?classifier=sources
+- pkg:maven/im.mange/driveby_2.11@0.3.33
+- pkg:maven/im.mange/driveby_2.11@0.3.33?classifier=sources
 - pkg:maven/im.mange/driveby_2.11@0.3.5
 - pkg:maven/im.mange/driveby_2.11@0.3.5?classifier=sources
 - pkg:maven/im.mange/driveby_2.11@0.3.6

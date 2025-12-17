@@ -1,0 +1,2 @@
+- pkg:maven/com.alipay.sofa.common/sofa-common-tools@1.0.12
+- pkg:maven/com.alipay.sofa.common/sofa-common-tools@1.0.12?classifier=sources

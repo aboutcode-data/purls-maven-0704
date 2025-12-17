@@ -33,3 +33,8 @@
 - pkg:maven/org.infinispan/infinispan-management-console@9.1.4.Final
 - pkg:maven/org.infinispan/infinispan-management-console@9.2.0.Alpha1
 - pkg:maven/org.infinispan/infinispan-management-console@9.2.0.Beta2
+- pkg:maven/org.infinispan/infinispan-management-console@9.2.0.CR1
+- pkg:maven/org.infinispan/infinispan-management-console@9.2.0.Final
+- pkg:maven/org.infinispan/infinispan-management-console@9.3.0.Beta1
+- pkg:maven/org.infinispan/infinispan-management-console@9.3.0.CR1
+- pkg:maven/org.infinispan/infinispan-management-console@9.3.0.Final

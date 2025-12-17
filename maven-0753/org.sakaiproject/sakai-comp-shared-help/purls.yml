@@ -22,3 +22,7 @@
 - pkg:maven/org.sakaiproject/sakai-comp-shared-help@11.3?classifier=sources
 - pkg:maven/org.sakaiproject/sakai-comp-shared-help@11.4
 - pkg:maven/org.sakaiproject/sakai-comp-shared-help@11.4?classifier=sources
+- pkg:maven/org.sakaiproject/sakai-comp-shared-help@12.0
+- pkg:maven/org.sakaiproject/sakai-comp-shared-help@12.0?classifier=sources
+- pkg:maven/org.sakaiproject/sakai-comp-shared-help@12.1
+- pkg:maven/org.sakaiproject/sakai-comp-shared-help@12.1?classifier=sources

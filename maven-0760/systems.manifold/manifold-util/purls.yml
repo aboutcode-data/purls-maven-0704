@@ -1,0 +1,10 @@
+- pkg:maven/systems.manifold/manifold-util@0.10-alpha
+- pkg:maven/systems.manifold/manifold-util@0.10-alpha?classifier=sources
+- pkg:maven/systems.manifold/manifold-util@0.11-alpha
+- pkg:maven/systems.manifold/manifold-util@0.11-alpha?classifier=sources
+- pkg:maven/systems.manifold/manifold-util@0.12-alpha
+- pkg:maven/systems.manifold/manifold-util@0.12-alpha?classifier=sources
+- pkg:maven/systems.manifold/manifold-util@0.8-alpha
+- pkg:maven/systems.manifold/manifold-util@0.8-alpha?classifier=sources
+- pkg:maven/systems.manifold/manifold-util@0.9-alpha
+- pkg:maven/systems.manifold/manifold-util@0.9-alpha?classifier=sources

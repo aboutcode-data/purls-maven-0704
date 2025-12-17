@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.sweetalert2/sweetalert2@6.11.5
+- pkg:maven/org.webjars.bowergithub.sweetalert2/sweetalert2@6.11.5?classifier=sources
+- pkg:maven/org.webjars.bowergithub.sweetalert2/sweetalert2@7.18.0
+- pkg:maven/org.webjars.bowergithub.sweetalert2/sweetalert2@7.18.0?classifier=sources

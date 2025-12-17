@@ -46,3 +46,7 @@
 - pkg:maven/org.sakaiproject.edu-services.gradebook/gradebook-service-api@11.3?classifier=sources
 - pkg:maven/org.sakaiproject.edu-services.gradebook/gradebook-service-api@11.4
 - pkg:maven/org.sakaiproject.edu-services.gradebook/gradebook-service-api@11.4?classifier=sources
+- pkg:maven/org.sakaiproject.edu-services.gradebook/gradebook-service-api@12.0
+- pkg:maven/org.sakaiproject.edu-services.gradebook/gradebook-service-api@12.0?classifier=sources
+- pkg:maven/org.sakaiproject.edu-services.gradebook/gradebook-service-api@12.1
+- pkg:maven/org.sakaiproject.edu-services.gradebook/gradebook-service-api@12.1?classifier=sources

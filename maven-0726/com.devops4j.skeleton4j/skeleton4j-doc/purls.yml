@@ -1,0 +1,10 @@
+- pkg:maven/com.devops4j.skeleton4j/skeleton4j-doc@1.0.0
+- pkg:maven/com.devops4j.skeleton4j/skeleton4j-doc@1.0.0-PRE1
+- pkg:maven/com.devops4j.skeleton4j/skeleton4j-doc@1.0.0-PRE1?classifier=sources
+- pkg:maven/com.devops4j.skeleton4j/skeleton4j-doc@1.0.0-PRE2
+- pkg:maven/com.devops4j.skeleton4j/skeleton4j-doc@1.0.0-PRE2?classifier=sources
+- pkg:maven/com.devops4j.skeleton4j/skeleton4j-doc@1.0.0-PRE3
+- pkg:maven/com.devops4j.skeleton4j/skeleton4j-doc@1.0.0-PRE3?classifier=sources
+- pkg:maven/com.devops4j.skeleton4j/skeleton4j-doc@1.0.0-PRE4
+- pkg:maven/com.devops4j.skeleton4j/skeleton4j-doc@1.0.0-PRE4?classifier=sources
+- pkg:maven/com.devops4j.skeleton4j/skeleton4j-doc@1.0.0?classifier=sources

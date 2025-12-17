@@ -2,3 +2,10 @@
 - pkg:maven/com.bladejava/blade-jdbc-core@0.0.1-RELEASE?classifier=sources
 - pkg:maven/com.bladejava/blade-jdbc-core@0.0.2-RELEASE
 - pkg:maven/com.bladejava/blade-jdbc-core@0.0.2-RELEASE?classifier=sources
+- pkg:maven/com.bladejava/blade-jdbc-core@0.0.3-RELEASE
+- pkg:maven/com.bladejava/blade-jdbc-core@0.0.3-RELEASE?classifier=sources
+- pkg:maven/com.bladejava/blade-jdbc-core@0.0.4-RELEASE?classifier=sources
+- pkg:maven/com.bladejava/blade-jdbc-core@0.0.41-RELEASE
+- pkg:maven/com.bladejava/blade-jdbc-core@0.0.41-RELEASE?classifier=sources
+- pkg:maven/com.bladejava/blade-jdbc-core@0.0.5-RELEASE
+- pkg:maven/com.bladejava/blade-jdbc-core@0.0.5-RELEASE?classifier=sources

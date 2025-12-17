@@ -1,0 +1,2 @@
+- pkg:maven/com.networknt/light-graphql-4j-generator@1.5.10
+- pkg:maven/com.networknt/light-graphql-4j-generator@1.5.10?classifier=sources

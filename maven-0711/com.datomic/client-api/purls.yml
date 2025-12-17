@@ -1,0 +1,2 @@
+- pkg:maven/com.datomic/client-api@0.8.5
+- pkg:maven/com.datomic/client-api@0.8.7

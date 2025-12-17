@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.brightspaceui/loading-spinner@6.0.2
+- pkg:maven/org.webjars.bowergithub.brightspaceui/loading-spinner@6.0.2?classifier=sources
+- pkg:maven/org.webjars.bowergithub.brightspaceui/loading-spinner@6.0.3
+- pkg:maven/org.webjars.bowergithub.brightspaceui/loading-spinner@6.0.3?classifier=sources

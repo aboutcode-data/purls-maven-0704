@@ -1,0 +1,4 @@
+- pkg:maven/com.softwaremill.sttp/core_sjs0.6_2.12@1.2.0-RC1
+- pkg:maven/com.softwaremill.sttp/core_sjs0.6_2.12@1.2.0-RC1?classifier=sources
+- pkg:maven/com.softwaremill.sttp/core_sjs0.6_2.12@1.2.0-RC2
+- pkg:maven/com.softwaremill.sttp/core_sjs0.6_2.12@1.2.0-RC2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun.odps/hadoop-yarn-client@lxw-test-3.0.0-public
+- pkg:maven/com.aliyun.odps/hadoop-yarn-client@lxw-test-3.0.0-public?classifier=sources

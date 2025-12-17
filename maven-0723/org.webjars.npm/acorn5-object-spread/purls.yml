@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/acorn5-object-spread@4.0.0
+- pkg:maven/org.webjars.npm/acorn5-object-spread@4.0.0?classifier=sources

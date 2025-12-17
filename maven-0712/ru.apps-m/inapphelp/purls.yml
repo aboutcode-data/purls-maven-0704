@@ -18,3 +18,8 @@
 - pkg:maven/ru.apps-m/inapphelp@0.3.1?type=aar
 - pkg:maven/ru.apps-m/inapphelp@0.3.2?classifier=sources
 - pkg:maven/ru.apps-m/inapphelp@0.3.2?type=aar
+- pkg:maven/ru.apps-m/inapphelp@0.5.0?type=aar
+- pkg:maven/ru.apps-m/inapphelp@0.5.3?classifier=sources
+- pkg:maven/ru.apps-m/inapphelp@0.5.3?type=aar
+- pkg:maven/ru.apps-m/inapphelp@0.5.4?classifier=sources
+- pkg:maven/ru.apps-m/inapphelp@0.5.4?type=aar

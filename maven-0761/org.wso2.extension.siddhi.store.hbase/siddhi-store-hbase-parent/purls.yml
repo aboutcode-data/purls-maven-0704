@@ -9,3 +9,4 @@
 - pkg:maven/org.wso2.extension.siddhi.store.hbase/siddhi-store-hbase-parent@4.0.4?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.store.hbase/siddhi-store-hbase-parent@4.0.5?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.store.hbase/siddhi-store-hbase-parent@4.0.6?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.store.hbase/siddhi-store-hbase-parent@4.0.7?classifier=source-release&type=zip

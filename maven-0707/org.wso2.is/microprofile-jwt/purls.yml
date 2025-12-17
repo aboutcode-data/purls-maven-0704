@@ -1,0 +1,8 @@
+- pkg:maven/org.wso2.is/microprofile-jwt@5.6.0-alpha2?classifier=sources
+- pkg:maven/org.wso2.is/microprofile-jwt@5.6.0-alpha2?type=war
+- pkg:maven/org.wso2.is/microprofile-jwt@5.6.0-alpha?classifier=sources
+- pkg:maven/org.wso2.is/microprofile-jwt@5.6.0-alpha?type=war
+- pkg:maven/org.wso2.is/microprofile-jwt@5.6.0-beta?classifier=sources
+- pkg:maven/org.wso2.is/microprofile-jwt@5.6.0-beta?type=war
+- pkg:maven/org.wso2.is/microprofile-jwt@5.6.0-m7?classifier=sources
+- pkg:maven/org.wso2.is/microprofile-jwt@5.6.0-m7?type=war

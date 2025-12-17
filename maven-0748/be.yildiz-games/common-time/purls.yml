@@ -1,0 +1,2 @@
+- pkg:maven/be.yildiz-games/common-time@1.0.0
+- pkg:maven/be.yildiz-games/common-time@1.0.0?classifier=sources

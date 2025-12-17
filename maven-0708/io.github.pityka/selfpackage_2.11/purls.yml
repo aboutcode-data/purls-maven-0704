@@ -1,2 +1,4 @@
 - pkg:maven/io.github.pityka/selfpackage_2.11@1.0.0
 - pkg:maven/io.github.pityka/selfpackage_2.11@1.0.0?classifier=sources
+- pkg:maven/io.github.pityka/selfpackage_2.11@1.0.1
+- pkg:maven/io.github.pityka/selfpackage_2.11@1.0.1?classifier=sources

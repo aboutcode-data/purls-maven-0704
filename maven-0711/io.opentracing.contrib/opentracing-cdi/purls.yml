@@ -1,2 +1,4 @@
 - pkg:maven/io.opentracing.contrib/opentracing-cdi@0.0.2
 - pkg:maven/io.opentracing.contrib/opentracing-cdi@0.0.2?classifier=sources
+- pkg:maven/io.opentracing.contrib/opentracing-cdi@0.1.0
+- pkg:maven/io.opentracing.contrib/opentracing-cdi@0.1.0?classifier=sources

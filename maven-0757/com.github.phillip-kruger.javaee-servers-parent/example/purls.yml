@@ -1,0 +1,6 @@
+- pkg:maven/com.github.phillip-kruger.javaee-servers-parent/example@1.0.0?classifier=sources
+- pkg:maven/com.github.phillip-kruger.javaee-servers-parent/example@1.0.0?type=war
+- pkg:maven/com.github.phillip-kruger.javaee-servers-parent/example@javaee-7-v3?classifier=sources
+- pkg:maven/com.github.phillip-kruger.javaee-servers-parent/example@javaee-7-v3?type=war
+- pkg:maven/com.github.phillip-kruger.javaee-servers-parent/example@javaee-7-v4?classifier=sources
+- pkg:maven/com.github.phillip-kruger.javaee-servers-parent/example@javaee-7-v4?type=war

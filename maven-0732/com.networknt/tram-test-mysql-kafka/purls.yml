@@ -1,0 +1,9 @@
+- pkg:maven/com.networknt/tram-test-mysql-kafka@1.5.10
+- pkg:maven/com.networknt/tram-test-mysql-kafka@1.5.11
+- pkg:maven/com.networknt/tram-test-mysql-kafka@1.5.12
+- pkg:maven/com.networknt/tram-test-mysql-kafka@1.5.13
+- pkg:maven/com.networknt/tram-test-mysql-kafka@1.5.14
+- pkg:maven/com.networknt/tram-test-mysql-kafka@1.5.6
+- pkg:maven/com.networknt/tram-test-mysql-kafka@1.5.7
+- pkg:maven/com.networknt/tram-test-mysql-kafka@1.5.8
+- pkg:maven/com.networknt/tram-test-mysql-kafka@1.5.9

@@ -1,1 +1,3 @@
 - pkg:maven/com.ktanx/ktanx-jdbc-test@1.0.2
+- pkg:maven/com.ktanx/ktanx-jdbc-test@1.0.3
+- pkg:maven/com.ktanx/ktanx-jdbc-test@1.0.5

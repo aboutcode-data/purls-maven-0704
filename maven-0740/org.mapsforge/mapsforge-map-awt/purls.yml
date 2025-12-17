@@ -46,3 +46,5 @@
 - pkg:maven/org.mapsforge/mapsforge-map-awt@0.8.0?classifier=sources
 - pkg:maven/org.mapsforge/mapsforge-map-awt@0.9.0
 - pkg:maven/org.mapsforge/mapsforge-map-awt@0.9.0?classifier=sources
+- pkg:maven/org.mapsforge/mapsforge-map-awt@0.9.1
+- pkg:maven/org.mapsforge/mapsforge-map-awt@0.9.1?classifier=sources

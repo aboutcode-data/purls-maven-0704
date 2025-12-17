@@ -27,6 +27,10 @@
 - pkg:maven/org.scala-js/scalajs-tools_sjs0.6_2.11@0.6.20?classifier=sources
 - pkg:maven/org.scala-js/scalajs-tools_sjs0.6_2.11@0.6.21
 - pkg:maven/org.scala-js/scalajs-tools_sjs0.6_2.11@0.6.21?classifier=sources
+- pkg:maven/org.scala-js/scalajs-tools_sjs0.6_2.11@0.6.22
+- pkg:maven/org.scala-js/scalajs-tools_sjs0.6_2.11@0.6.22?classifier=sources
+- pkg:maven/org.scala-js/scalajs-tools_sjs0.6_2.11@0.6.23
+- pkg:maven/org.scala-js/scalajs-tools_sjs0.6_2.11@0.6.23?classifier=sources
 - pkg:maven/org.scala-js/scalajs-tools_sjs0.6_2.11@0.6.2?classifier=sources
 - pkg:maven/org.scala-js/scalajs-tools_sjs0.6_2.11@0.6.3
 - pkg:maven/org.scala-js/scalajs-tools_sjs0.6_2.11@0.6.3?classifier=sources

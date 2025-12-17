@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/node.extend@1.1.6
 - pkg:maven/org.webjars.npm/node.extend@1.1.6?classifier=sources
+- pkg:maven/org.webjars.npm/node.extend@2.0.0
+- pkg:maven/org.webjars.npm/node.extend@2.0.0?classifier=sources

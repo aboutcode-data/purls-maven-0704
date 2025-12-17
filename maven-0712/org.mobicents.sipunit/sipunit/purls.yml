@@ -2,3 +2,7 @@
 - pkg:maven/org.mobicents.sipunit/sipunit@2.0.1?type=zip
 - pkg:maven/org.mobicents.sipunit/sipunit@2.0.2?classifier=sources
 - pkg:maven/org.mobicents.sipunit/sipunit@2.0.2?type=zip
+- pkg:maven/org.mobicents.sipunit/sipunit@2.0.3?classifier=sources
+- pkg:maven/org.mobicents.sipunit/sipunit@2.0.3?type=zip
+- pkg:maven/org.mobicents.sipunit/sipunit@2.0.4?classifier=sources
+- pkg:maven/org.mobicents.sipunit/sipunit@2.0.4?type=zip

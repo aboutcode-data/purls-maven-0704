@@ -64,3 +64,15 @@
 - pkg:maven/org.dshops/metrics-raw@0.5.3?classifier=sources
 - pkg:maven/org.dshops/metrics-raw@0.6.0
 - pkg:maven/org.dshops/metrics-raw@0.6.0?classifier=sources
+- pkg:maven/org.dshops/metrics-raw@0.6.1
+- pkg:maven/org.dshops/metrics-raw@0.6.1?classifier=sources
+- pkg:maven/org.dshops/metrics-raw@0.6.2
+- pkg:maven/org.dshops/metrics-raw@0.6.2?classifier=sources
+- pkg:maven/org.dshops/metrics-raw@0.6.3
+- pkg:maven/org.dshops/metrics-raw@0.6.3?classifier=sources
+- pkg:maven/org.dshops/metrics-raw@0.6.4
+- pkg:maven/org.dshops/metrics-raw@0.6.4?classifier=sources
+- pkg:maven/org.dshops/metrics-raw@0.6.5
+- pkg:maven/org.dshops/metrics-raw@0.6.5?classifier=sources
+- pkg:maven/org.dshops/metrics-raw@0.6.6
+- pkg:maven/org.dshops/metrics-raw@0.6.6?classifier=sources

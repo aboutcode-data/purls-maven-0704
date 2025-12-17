@@ -1,0 +1,6 @@
+- pkg:maven/com.bbossgroups.boot/bboot-starter-undertow@5.0.3.8.3
+- pkg:maven/com.bbossgroups.boot/bboot-starter-undertow@5.0.3.8.3?classifier=sources
+- pkg:maven/com.bbossgroups.boot/bboot-starter-undertow@5.0.3.9
+- pkg:maven/com.bbossgroups.boot/bboot-starter-undertow@5.0.3.9?classifier=sources
+- pkg:maven/com.bbossgroups.boot/bboot-starter-undertow@5.0.5.7
+- pkg:maven/com.bbossgroups.boot/bboot-starter-undertow@5.0.5.7?classifier=sources

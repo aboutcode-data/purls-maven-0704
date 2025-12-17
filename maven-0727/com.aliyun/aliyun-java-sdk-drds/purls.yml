@@ -8,3 +8,9 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-drds@2.0.5?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-drds@2.3.0
 - pkg:maven/com.aliyun/aliyun-java-sdk-drds@2.3.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-drds@2.3.2
+- pkg:maven/com.aliyun/aliyun-java-sdk-drds@2.3.2?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-drds@2.4.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-drds@2.4.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-drds@2.5.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-drds@2.5.0?classifier=sources

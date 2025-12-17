@@ -34,3 +34,5 @@
 - pkg:maven/de.unistuttgart.ims/uimautil@0.7.3?classifier=sources
 - pkg:maven/de.unistuttgart.ims/uimautil@0.7.4
 - pkg:maven/de.unistuttgart.ims/uimautil@0.7.4?classifier=sources
+- pkg:maven/de.unistuttgart.ims/uimautil@1.1.0
+- pkg:maven/de.unistuttgart.ims/uimautil@1.1.0?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/org.nutz/nutz-web@1.r.62?classifier=sources
 - pkg:maven/org.nutz/nutz-web@1.r.63
 - pkg:maven/org.nutz/nutz-web@1.r.63?classifier=sources
+- pkg:maven/org.nutz/nutz-web@1.r.65
+- pkg:maven/org.nutz/nutz-web@1.r.65?classifier=sources

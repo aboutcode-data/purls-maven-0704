@@ -1,4 +1,6 @@
+- pkg:maven/com.sdl.dxa/dxa-common@2.0.0
 - pkg:maven/com.sdl.dxa/dxa-common@2.0.0-CTP1
 - pkg:maven/com.sdl.dxa/dxa-common@2.0.0-CTP1?classifier=sources
 - pkg:maven/com.sdl.dxa/dxa-common@2.0.0-CTP2
 - pkg:maven/com.sdl.dxa/dxa-common@2.0.0-CTP2?classifier=sources
+- pkg:maven/com.sdl.dxa/dxa-common@2.0.0?classifier=sources

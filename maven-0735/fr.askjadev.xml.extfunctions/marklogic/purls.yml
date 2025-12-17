@@ -5,4 +5,14 @@
 - pkg:maven/fr.askjadev.xml.extfunctions/marklogic@1.0.2?classifier=sources
 - pkg:maven/fr.askjadev.xml.extfunctions/marklogic@1.0.3
 - pkg:maven/fr.askjadev.xml.extfunctions/marklogic@1.0.3?classifier=sources
+- pkg:maven/fr.askjadev.xml.extfunctions/marklogic@1.0.4
+- pkg:maven/fr.askjadev.xml.extfunctions/marklogic@1.0.4?classifier=sources
+- pkg:maven/fr.askjadev.xml.extfunctions/marklogic@1.0.5-97
+- pkg:maven/fr.askjadev.xml.extfunctions/marklogic@1.0.5-97?classifier=sources
+- pkg:maven/fr.askjadev.xml.extfunctions/marklogic@1.0.5-98
+- pkg:maven/fr.askjadev.xml.extfunctions/marklogic@1.0.5-98?classifier=sources
+- pkg:maven/fr.askjadev.xml.extfunctions/marklogic@1.0.6-97
+- pkg:maven/fr.askjadev.xml.extfunctions/marklogic@1.0.6-97?classifier=sources
+- pkg:maven/fr.askjadev.xml.extfunctions/marklogic@1.0.6-98
+- pkg:maven/fr.askjadev.xml.extfunctions/marklogic@1.0.6-98?classifier=sources
 - pkg:maven/fr.askjadev.xml.extfunctions/marklogic@1.0?classifier=sources

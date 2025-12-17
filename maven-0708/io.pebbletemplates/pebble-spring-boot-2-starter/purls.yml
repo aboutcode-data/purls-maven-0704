@@ -1,0 +1,2 @@
+- pkg:maven/io.pebbletemplates/pebble-spring-boot-2-starter@2.6.0
+- pkg:maven/io.pebbletemplates/pebble-spring-boot-2-starter@2.6.0?classifier=sources

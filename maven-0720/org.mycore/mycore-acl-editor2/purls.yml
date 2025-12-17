@@ -1,0 +1,2 @@
+- pkg:maven/org.mycore/mycore-acl-editor2@2018.05
+- pkg:maven/org.mycore/mycore-acl-editor2@2018.05?classifier=sources

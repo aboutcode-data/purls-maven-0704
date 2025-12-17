@@ -1,2 +1,12 @@
 - pkg:maven/org.jcuda/jcusparse-natives@0.8.0
 - pkg:maven/org.jcuda/jcusparse-natives@0.8.0?classifier=sources
+- pkg:maven/org.jcuda/jcusparse-natives@0.9.0
+- pkg:maven/org.jcuda/jcusparse-natives@0.9.0?classifier=sources
+- pkg:maven/org.jcuda/jcusparse-natives@0.9.0b
+- pkg:maven/org.jcuda/jcusparse-natives@0.9.0b?classifier=sources
+- pkg:maven/org.jcuda/jcusparse-natives@0.9.0c
+- pkg:maven/org.jcuda/jcusparse-natives@0.9.0c?classifier=sources
+- pkg:maven/org.jcuda/jcusparse-natives@0.9.0d
+- pkg:maven/org.jcuda/jcusparse-natives@0.9.0d?classifier=sources
+- pkg:maven/org.jcuda/jcusparse-natives@0.9.1
+- pkg:maven/org.jcuda/jcusparse-natives@0.9.1?classifier=sources

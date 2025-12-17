@@ -40,7 +40,17 @@
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.databridge.receiver.thrift.feature@6.0.4?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.databridge.receiver.thrift.feature@6.0.51?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.databridge.receiver.thrift.feature@6.0.52?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.databridge.receiver.thrift.feature@6.0.53?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.databridge.receiver.thrift.feature@6.0.54?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.databridge.receiver.thrift.feature@6.0.55?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.databridge.receiver.thrift.feature@6.0.56?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.databridge.receiver.thrift.feature@6.0.57?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.databridge.receiver.thrift.feature@6.0.58?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.databridge.receiver.thrift.feature@6.0.59?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.databridge.receiver.thrift.feature@6.0.5?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.databridge.receiver.thrift.feature@6.0.60?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.databridge.receiver.thrift.feature@6.0.61?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.databridge.receiver.thrift.feature@6.0.62?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.databridge.receiver.thrift.feature@6.0.6?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.databridge.receiver.thrift.feature@6.0.7?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.databridge.receiver.thrift.feature@6.0.8?classifier=sources

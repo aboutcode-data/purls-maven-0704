@@ -1,0 +1,2 @@
+- pkg:maven/eu.mihosoft.vcsg.vcsgdist/vcsg-dist@0.9
+- pkg:maven/eu.mihosoft.vcsg.vcsgdist/vcsg-dist@0.9?classifier=sources

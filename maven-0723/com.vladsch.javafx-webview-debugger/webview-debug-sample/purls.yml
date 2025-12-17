@@ -1,0 +1,6 @@
+- pkg:maven/com.vladsch.javafx-webview-debugger/webview-debug-sample@0.5.12
+- pkg:maven/com.vladsch.javafx-webview-debugger/webview-debug-sample@0.5.12?classifier=sources
+- pkg:maven/com.vladsch.javafx-webview-debugger/webview-debug-sample@0.5.6
+- pkg:maven/com.vladsch.javafx-webview-debugger/webview-debug-sample@0.5.6?classifier=sources
+- pkg:maven/com.vladsch.javafx-webview-debugger/webview-debug-sample@0.5.8
+- pkg:maven/com.vladsch.javafx-webview-debugger/webview-debug-sample@0.5.8?classifier=sources

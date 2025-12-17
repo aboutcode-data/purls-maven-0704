@@ -1,2 +1,4 @@
 - pkg:maven/org.fcrepo/fcrepo-webapp-plus@4.7.2?classifier=sources
 - pkg:maven/org.fcrepo/fcrepo-webapp-plus@4.7.2?type=war
+- pkg:maven/org.fcrepo/fcrepo-webapp-plus@4.7.5?classifier=sources
+- pkg:maven/org.fcrepo/fcrepo-webapp-plus@4.7.5?type=war

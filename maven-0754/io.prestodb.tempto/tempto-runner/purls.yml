@@ -1,0 +1,14 @@
+- pkg:maven/io.prestodb.tempto/tempto-runner@1.41
+- pkg:maven/io.prestodb.tempto/tempto-runner@1.41?classifier=sources
+- pkg:maven/io.prestodb.tempto/tempto-runner@1.42
+- pkg:maven/io.prestodb.tempto/tempto-runner@1.42?classifier=sources
+- pkg:maven/io.prestodb.tempto/tempto-runner@1.44
+- pkg:maven/io.prestodb.tempto/tempto-runner@1.44?classifier=sources
+- pkg:maven/io.prestodb.tempto/tempto-runner@1.45
+- pkg:maven/io.prestodb.tempto/tempto-runner@1.45?classifier=sources
+- pkg:maven/io.prestodb.tempto/tempto-runner@1.46
+- pkg:maven/io.prestodb.tempto/tempto-runner@1.46?classifier=sources
+- pkg:maven/io.prestodb.tempto/tempto-runner@1.47
+- pkg:maven/io.prestodb.tempto/tempto-runner@1.47?classifier=sources
+- pkg:maven/io.prestodb.tempto/tempto-runner@1.49
+- pkg:maven/io.prestodb.tempto/tempto-runner@1.49?classifier=sources

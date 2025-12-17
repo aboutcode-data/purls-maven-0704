@@ -1,0 +1,2 @@
+- pkg:maven/org.scala-lang.modules/scalacheck_2.13.0-M4-pre-20d3c21@1.14.0-newCollections
+- pkg:maven/org.scala-lang.modules/scalacheck_2.13.0-M4-pre-20d3c21@1.14.0-newCollections?classifier=sources

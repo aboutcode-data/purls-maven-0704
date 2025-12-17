@@ -8,3 +8,5 @@
 - pkg:maven/com.vaadin/vaadin-spring-boot-starter@1.2.0
 - pkg:maven/com.vaadin/vaadin-spring-boot-starter@2.0.0
 - pkg:maven/com.vaadin/vaadin-spring-boot-starter@2.0.1
+- pkg:maven/com.vaadin/vaadin-spring-boot-starter@3.0.0
+- pkg:maven/com.vaadin/vaadin-spring-boot-starter@3.0.1

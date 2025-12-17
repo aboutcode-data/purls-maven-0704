@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/bn.js@4.11.3
 - pkg:maven/org.webjars.npm/bn.js@4.11.3?classifier=sources
+- pkg:maven/org.webjars.npm/bn.js@4.11.8
+- pkg:maven/org.webjars.npm/bn.js@4.11.8?classifier=sources

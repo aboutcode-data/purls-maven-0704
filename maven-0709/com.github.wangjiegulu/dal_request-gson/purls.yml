@@ -1,0 +1,2 @@
+- pkg:maven/com.github.wangjiegulu/dal_request-gson@2.1.0?classifier=sources
+- pkg:maven/com.github.wangjiegulu/dal_request-gson@2.1.0?type=aar

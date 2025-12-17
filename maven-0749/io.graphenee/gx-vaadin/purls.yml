@@ -1,0 +1,2 @@
+- pkg:maven/io.graphenee/gx-vaadin@0.1.0
+- pkg:maven/io.graphenee/gx-vaadin@0.1.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/name.falgout.jeffrey.testing/annotation-processor-testing@0.1.0
 - pkg:maven/name.falgout.jeffrey.testing/annotation-processor-testing@0.1.0?classifier=sources
+- pkg:maven/name.falgout.jeffrey.testing/annotation-processor-testing@0.2.0
+- pkg:maven/name.falgout.jeffrey.testing/annotation-processor-testing@0.2.0?classifier=sources

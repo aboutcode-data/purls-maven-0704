@@ -1,0 +1,2 @@
+- pkg:maven/io.alauda/kubernetes-uberjar@0.2
+- pkg:maven/io.alauda/kubernetes-uberjar@0.2?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/io.sterodium/file-extension-client@0.5?classifier=sources
 - pkg:maven/io.sterodium/file-extension-client@0.6
 - pkg:maven/io.sterodium/file-extension-client@0.6?classifier=sources
+- pkg:maven/io.sterodium/file-extension-client@1.0
+- pkg:maven/io.sterodium/file-extension-client@1.0?classifier=sources

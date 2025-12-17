@@ -26,3 +26,5 @@
 - pkg:maven/rocks.xmpp/xmpp-core-client@0.7.3?classifier=sources
 - pkg:maven/rocks.xmpp/xmpp-core-client@0.7.4
 - pkg:maven/rocks.xmpp/xmpp-core-client@0.7.4?classifier=sources
+- pkg:maven/rocks.xmpp/xmpp-core-client@0.7.5
+- pkg:maven/rocks.xmpp/xmpp-core-client@0.7.5?classifier=sources

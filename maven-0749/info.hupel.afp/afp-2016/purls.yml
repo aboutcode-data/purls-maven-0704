@@ -14,3 +14,13 @@
 - pkg:maven/info.hupel.afp/afp-2016@1.1.20171102?classifier=sources
 - pkg:maven/info.hupel.afp/afp-2016@1.1.20171130
 - pkg:maven/info.hupel.afp/afp-2016@1.1.20171130?classifier=sources
+- pkg:maven/info.hupel.afp/afp-2016@1.1.20180112
+- pkg:maven/info.hupel.afp/afp-2016@1.1.20180112?classifier=sources
+- pkg:maven/info.hupel.afp/afp-2016@1.1.20180214
+- pkg:maven/info.hupel.afp/afp-2016@1.1.20180214?classifier=sources
+- pkg:maven/info.hupel.afp/afp-2016@1.1.20180323
+- pkg:maven/info.hupel.afp/afp-2016@1.1.20180323?classifier=sources
+- pkg:maven/info.hupel.afp/afp-2016@1.1.20180427
+- pkg:maven/info.hupel.afp/afp-2016@1.1.20180427?classifier=sources
+- pkg:maven/info.hupel.afp/afp-2016@1.1.20180522
+- pkg:maven/info.hupel.afp/afp-2016@1.1.20180522?classifier=sources

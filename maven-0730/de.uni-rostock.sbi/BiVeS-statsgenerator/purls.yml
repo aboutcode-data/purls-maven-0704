@@ -1,0 +1,2 @@
+- pkg:maven/de.uni-rostock.sbi/BiVeS-statsgenerator@0.6.1
+- pkg:maven/de.uni-rostock.sbi/BiVeS-statsgenerator@0.6.1?classifier=sources

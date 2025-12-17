@@ -152,3 +152,7 @@
 - pkg:maven/org.uberfire/uberfire-commons@1.4.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-commons@2.2.0.Final
 - pkg:maven/org.uberfire/uberfire-commons@2.2.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-commons@2.3.0.Final
+- pkg:maven/org.uberfire/uberfire-commons@2.3.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-commons@2.4.0.Final
+- pkg:maven/org.uberfire/uberfire-commons@2.4.0.Final?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba/dubbo-container-logback@2.6.1
+- pkg:maven/com.alibaba/dubbo-container-logback@2.6.1?classifier=sources

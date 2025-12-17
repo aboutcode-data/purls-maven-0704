@@ -1,0 +1,2 @@
+- pkg:maven/me.snowdrop/spring-boot-narayana-recovery-controller@0.0.2
+- pkg:maven/me.snowdrop/spring-boot-narayana-recovery-controller@0.0.2?classifier=sources

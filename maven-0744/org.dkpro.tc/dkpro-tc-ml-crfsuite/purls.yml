@@ -2,3 +2,7 @@
 - pkg:maven/org.dkpro.tc/dkpro-tc-ml-crfsuite@0.8.0?classifier=sources
 - pkg:maven/org.dkpro.tc/dkpro-tc-ml-crfsuite@0.9.0
 - pkg:maven/org.dkpro.tc/dkpro-tc-ml-crfsuite@0.9.0?classifier=sources
+- pkg:maven/org.dkpro.tc/dkpro-tc-ml-crfsuite@1.0.0
+- pkg:maven/org.dkpro.tc/dkpro-tc-ml-crfsuite@1.0.0?classifier=sources
+- pkg:maven/org.dkpro.tc/dkpro-tc-ml-crfsuite@1.0.1
+- pkg:maven/org.dkpro.tc/dkpro-tc-ml-crfsuite@1.0.1?classifier=sources

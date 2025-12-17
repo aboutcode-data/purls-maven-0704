@@ -1,0 +1,6 @@
+- pkg:maven/com.kotlinnlp/utils@1.0.0
+- pkg:maven/com.kotlinnlp/utils@1.0.0?classifier=sources
+- pkg:maven/com.kotlinnlp/utils@1.1.0
+- pkg:maven/com.kotlinnlp/utils@1.1.0?classifier=sources
+- pkg:maven/com.kotlinnlp/utils@2.0.0
+- pkg:maven/com.kotlinnlp/utils@2.0.0?classifier=sources

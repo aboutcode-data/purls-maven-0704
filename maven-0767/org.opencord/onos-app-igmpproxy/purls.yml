@@ -1,3 +1,4 @@
 - pkg:maven/org.opencord/onos-app-igmpproxy@1.0.0?classifier=sources
 - pkg:maven/org.opencord/onos-app-igmpproxy@1.1.0?classifier=sources
 - pkg:maven/org.opencord/onos-app-igmpproxy@1.1.1?classifier=sources
+- pkg:maven/org.opencord/onos-app-igmpproxy@1.2.0?classifier=sources

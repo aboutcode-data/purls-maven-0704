@@ -1,0 +1,2 @@
+- pkg:maven/io.github.cemiltokatli.uricomponent/uri-component@1.0
+- pkg:maven/io.github.cemiltokatli.uricomponent/uri-component@1.0?classifier=sources

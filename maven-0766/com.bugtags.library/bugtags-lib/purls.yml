@@ -68,3 +68,5 @@
 - pkg:maven/com.bugtags.library/bugtags-lib@2.2.3?type=aar
 - pkg:maven/com.bugtags.library/bugtags-lib@2.3.1?classifier=sources
 - pkg:maven/com.bugtags.library/bugtags-lib@2.3.1?type=aar
+- pkg:maven/com.bugtags.library/bugtags-lib@3.0.0?classifier=sources
+- pkg:maven/com.bugtags.library/bugtags-lib@3.0.0?type=aar

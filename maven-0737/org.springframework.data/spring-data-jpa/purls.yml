@@ -37,6 +37,12 @@
 - pkg:maven/org.springframework.data/spring-data-jpa@1.11.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-jpa@1.11.1.RELEASE
 - pkg:maven/org.springframework.data/spring-data-jpa@1.11.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-jpa@1.11.10.RELEASE
+- pkg:maven/org.springframework.data/spring-data-jpa@1.11.10.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-jpa@1.11.11.RELEASE
+- pkg:maven/org.springframework.data/spring-data-jpa@1.11.11.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-jpa@1.11.12.RELEASE
+- pkg:maven/org.springframework.data/spring-data-jpa@1.11.12.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-jpa@1.11.2.RELEASE
 - pkg:maven/org.springframework.data/spring-data-jpa@1.11.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-jpa@1.11.3.RELEASE
@@ -137,3 +143,13 @@
 - pkg:maven/org.springframework.data/spring-data-jpa@2.0.1.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-jpa@2.0.2.RELEASE
 - pkg:maven/org.springframework.data/spring-data-jpa@2.0.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-jpa@2.0.3.RELEASE
+- pkg:maven/org.springframework.data/spring-data-jpa@2.0.3.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-jpa@2.0.4.RELEASE
+- pkg:maven/org.springframework.data/spring-data-jpa@2.0.4.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-jpa@2.0.5.RELEASE
+- pkg:maven/org.springframework.data/spring-data-jpa@2.0.5.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-jpa@2.0.6.RELEASE
+- pkg:maven/org.springframework.data/spring-data-jpa@2.0.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-jpa@2.0.7.RELEASE
+- pkg:maven/org.springframework.data/spring-data-jpa@2.0.7.RELEASE?classifier=sources

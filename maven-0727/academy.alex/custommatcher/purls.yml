@@ -1,0 +1,2 @@
+- pkg:maven/academy.alex/custommatcher@1.0
+- pkg:maven/academy.alex/custommatcher@1.0?classifier=sources

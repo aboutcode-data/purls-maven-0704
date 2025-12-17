@@ -1,0 +1,2 @@
+- pkg:maven/de.cap3/sangria-utils_2.12@0.1
+- pkg:maven/de.cap3/sangria-utils_2.12@0.1?classifier=sources

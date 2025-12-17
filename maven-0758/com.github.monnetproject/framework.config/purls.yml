@@ -1,0 +1,2 @@
+- pkg:maven/com.github.monnetproject/framework.config@1.18.4
+- pkg:maven/com.github.monnetproject/framework.config@1.18.4?classifier=sources

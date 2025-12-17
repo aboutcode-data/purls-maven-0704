@@ -1,0 +1,2 @@
+- pkg:maven/com.structurizr/structurizr-websequencediagrams@1.0.0-RC5
+- pkg:maven/com.structurizr/structurizr-websequencediagrams@1.0.0-RC5?classifier=sources

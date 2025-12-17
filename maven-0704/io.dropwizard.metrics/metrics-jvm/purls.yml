@@ -22,6 +22,9 @@
 - pkg:maven/io.dropwizard.metrics/metrics-jvm@3.2.4?classifier=sources
 - pkg:maven/io.dropwizard.metrics/metrics-jvm@3.2.5
 - pkg:maven/io.dropwizard.metrics/metrics-jvm@3.2.5?classifier=sources
+- pkg:maven/io.dropwizard.metrics/metrics-jvm@3.2.6
+- pkg:maven/io.dropwizard.metrics/metrics-jvm@3.2.6?classifier=sources
+- pkg:maven/io.dropwizard.metrics/metrics-jvm@4.0.0
 - pkg:maven/io.dropwizard.metrics/metrics-jvm@4.0.0-alpha1
 - pkg:maven/io.dropwizard.metrics/metrics-jvm@4.0.0-alpha1?classifier=sources
 - pkg:maven/io.dropwizard.metrics/metrics-jvm@4.0.0-alpha2
@@ -32,3 +35,12 @@
 - pkg:maven/io.dropwizard.metrics/metrics-jvm@4.0.0-alpha4?classifier=sources
 - pkg:maven/io.dropwizard.metrics/metrics-jvm@4.0.0-alpha5
 - pkg:maven/io.dropwizard.metrics/metrics-jvm@4.0.0-alpha5?classifier=sources
+- pkg:maven/io.dropwizard.metrics/metrics-jvm@4.0.0?classifier=sources
+- pkg:maven/io.dropwizard.metrics/metrics-jvm@4.0.1
+- pkg:maven/io.dropwizard.metrics/metrics-jvm@4.0.1?classifier=sources
+- pkg:maven/io.dropwizard.metrics/metrics-jvm@4.0.2
+- pkg:maven/io.dropwizard.metrics/metrics-jvm@4.0.2?classifier=sources
+- pkg:maven/io.dropwizard.metrics/metrics-jvm@4.1.0-rc0
+- pkg:maven/io.dropwizard.metrics/metrics-jvm@4.1.0-rc0?classifier=sources
+- pkg:maven/io.dropwizard.metrics/metrics-jvm@4.1.0-rc2
+- pkg:maven/io.dropwizard.metrics/metrics-jvm@4.1.0-rc2?classifier=sources

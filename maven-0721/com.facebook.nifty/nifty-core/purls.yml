@@ -16,6 +16,8 @@
 - pkg:maven/com.facebook.nifty/nifty-core@0.15.0?classifier=sources
 - pkg:maven/com.facebook.nifty/nifty-core@0.15.1
 - pkg:maven/com.facebook.nifty/nifty-core@0.15.1?classifier=sources
+- pkg:maven/com.facebook.nifty/nifty-core@0.15.2
+- pkg:maven/com.facebook.nifty/nifty-core@0.15.2?classifier=sources
 - pkg:maven/com.facebook.nifty/nifty-core@0.16.0
 - pkg:maven/com.facebook.nifty/nifty-core@0.16.0?classifier=sources
 - pkg:maven/com.facebook.nifty/nifty-core@0.17.0

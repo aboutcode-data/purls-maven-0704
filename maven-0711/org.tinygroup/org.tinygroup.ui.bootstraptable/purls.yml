@@ -44,3 +44,5 @@
 - pkg:maven/org.tinygroup/org.tinygroup.ui.bootstraptable@3.3.3?classifier=sources
 - pkg:maven/org.tinygroup/org.tinygroup.ui.bootstraptable@3.3.4
 - pkg:maven/org.tinygroup/org.tinygroup.ui.bootstraptable@3.3.4?classifier=sources
+- pkg:maven/org.tinygroup/org.tinygroup.ui.bootstraptable@3.3.8
+- pkg:maven/org.tinygroup/org.tinygroup.ui.bootstraptable@3.3.8?classifier=sources

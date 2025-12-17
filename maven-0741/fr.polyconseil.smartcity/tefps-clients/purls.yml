@@ -2,3 +2,5 @@
 - pkg:maven/fr.polyconseil.smartcity/tefps-clients@1.0.0?classifier=sources
 - pkg:maven/fr.polyconseil.smartcity/tefps-clients@1.0.1
 - pkg:maven/fr.polyconseil.smartcity/tefps-clients@1.0.1?classifier=sources
+- pkg:maven/fr.polyconseil.smartcity/tefps-clients@1.1.0
+- pkg:maven/fr.polyconseil.smartcity/tefps-clients@1.1.0?classifier=sources

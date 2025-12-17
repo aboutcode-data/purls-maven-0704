@@ -1,0 +1,2 @@
+- pkg:maven/com.daveanthonythomas.moshipack/moshipack-retrofit@1.0.0-beta
+- pkg:maven/com.daveanthonythomas.moshipack/moshipack-retrofit@1.0.0-beta?classifier=sources

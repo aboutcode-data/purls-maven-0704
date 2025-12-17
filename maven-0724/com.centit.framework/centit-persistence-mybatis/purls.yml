@@ -1,2 +1,10 @@
 - pkg:maven/com.centit.framework/centit-persistence-mybatis@1.0
+- pkg:maven/com.centit.framework/centit-persistence-mybatis@1.0.2
+- pkg:maven/com.centit.framework/centit-persistence-mybatis@1.0.2?classifier=sources
 - pkg:maven/com.centit.framework/centit-persistence-mybatis@1.0?classifier=sources
+- pkg:maven/com.centit.framework/centit-persistence-mybatis@1.1.1085
+- pkg:maven/com.centit.framework/centit-persistence-mybatis@1.1.1085?classifier=sources
+- pkg:maven/com.centit.framework/centit-persistence-mybatis@1.1.1803
+- pkg:maven/com.centit.framework/centit-persistence-mybatis@1.1.1803?classifier=sources
+- pkg:maven/com.centit.framework/centit-persistence-mybatis@1.1.1805
+- pkg:maven/com.centit.framework/centit-persistence-mybatis@1.1.1805?classifier=sources

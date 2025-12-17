@@ -1,0 +1,2 @@
+- pkg:maven/uk.ac.gate.plugins/ontology-bdm-computation@8.5
+- pkg:maven/uk.ac.gate.plugins/ontology-bdm-computation@8.5?classifier=sources

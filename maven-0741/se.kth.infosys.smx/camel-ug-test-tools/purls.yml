@@ -1,5 +1,9 @@
 - pkg:maven/se.kth.infosys.smx/camel-ug-test-tools@1.10.0
 - pkg:maven/se.kth.infosys.smx/camel-ug-test-tools@1.10.0?classifier=sources
+- pkg:maven/se.kth.infosys.smx/camel-ug-test-tools@1.11.0
+- pkg:maven/se.kth.infosys.smx/camel-ug-test-tools@1.11.0?classifier=sources
+- pkg:maven/se.kth.infosys.smx/camel-ug-test-tools@1.11.1
+- pkg:maven/se.kth.infosys.smx/camel-ug-test-tools@1.11.1?classifier=sources
 - pkg:maven/se.kth.infosys.smx/camel-ug-test-tools@1.7.1
 - pkg:maven/se.kth.infosys.smx/camel-ug-test-tools@1.7.1?classifier=sources
 - pkg:maven/se.kth.infosys.smx/camel-ug-test-tools@1.7.2
@@ -14,3 +18,13 @@
 - pkg:maven/se.kth.infosys.smx/camel-ug-test-tools@1.8.0?classifier=sources
 - pkg:maven/se.kth.infosys.smx/camel-ug-test-tools@1.9.0
 - pkg:maven/se.kth.infosys.smx/camel-ug-test-tools@1.9.0?classifier=sources
+- pkg:maven/se.kth.infosys.smx/camel-ug-test-tools@2.0.0
+- pkg:maven/se.kth.infosys.smx/camel-ug-test-tools@2.0.0?classifier=sources
+- pkg:maven/se.kth.infosys.smx/camel-ug-test-tools@2.0.1
+- pkg:maven/se.kth.infosys.smx/camel-ug-test-tools@2.0.1?classifier=sources
+- pkg:maven/se.kth.infosys.smx/camel-ug-test-tools@2.1.0
+- pkg:maven/se.kth.infosys.smx/camel-ug-test-tools@2.1.0?classifier=sources
+- pkg:maven/se.kth.infosys.smx/camel-ug-test-tools@2.2.0
+- pkg:maven/se.kth.infosys.smx/camel-ug-test-tools@2.2.0?classifier=sources
+- pkg:maven/se.kth.infosys.smx/camel-ug-test-tools@2.2.1
+- pkg:maven/se.kth.infosys.smx/camel-ug-test-tools@2.2.1?classifier=sources

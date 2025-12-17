@@ -22,3 +22,7 @@
 - pkg:maven/org.sakaiproject.edu-services.scoringservice/scoring-service-api@11.3?classifier=sources
 - pkg:maven/org.sakaiproject.edu-services.scoringservice/scoring-service-api@11.4
 - pkg:maven/org.sakaiproject.edu-services.scoringservice/scoring-service-api@11.4?classifier=sources
+- pkg:maven/org.sakaiproject.edu-services.scoringservice/scoring-service-api@12.0
+- pkg:maven/org.sakaiproject.edu-services.scoringservice/scoring-service-api@12.0?classifier=sources
+- pkg:maven/org.sakaiproject.edu-services.scoringservice/scoring-service-api@12.1
+- pkg:maven/org.sakaiproject.edu-services.scoringservice/scoring-service-api@12.1?classifier=sources
