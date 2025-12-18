@@ -27,3 +27,6 @@
 - pkg:maven/com.kauailabs.navx.frc/navx-java@4.0.416?classifier=sources
 - pkg:maven/com.kauailabs.navx.frc/navx-java@4.0.424?classifier=sources
 - pkg:maven/com.kauailabs.navx.frc/navx-java@4.0.425?classifier=sources
+- pkg:maven/com.kauailabs.navx.frc/navx-java@4.0.426?classifier=sources
+- pkg:maven/com.kauailabs.navx.frc/navx-java@4.0.428?classifier=sources
+- pkg:maven/com.kauailabs.navx.frc/navx-java@4.0.429?classifier=sources

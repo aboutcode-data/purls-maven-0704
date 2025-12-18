@@ -28,6 +28,9 @@
 - pkg:maven/com.netflix.spectator/spectator-reg-micrometer@0.129.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-reg-micrometer@0.130.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-reg-micrometer@0.131.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-reg-micrometer@0.132.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-reg-micrometer@0.133.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-reg-micrometer@0.134.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-reg-micrometer@0.80.0
 - pkg:maven/com.netflix.spectator/spectator-reg-micrometer@0.80.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-reg-micrometer@0.80.1

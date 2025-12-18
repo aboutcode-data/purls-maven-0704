@@ -6,3 +6,8 @@
 - pkg:maven/io.michaelrocks/libphonenumber-android@8.12.24?classifier=sources
 - pkg:maven/io.michaelrocks/libphonenumber-android@8.12.25?classifier=sources
 - pkg:maven/io.michaelrocks/libphonenumber-android@8.12.26?classifier=sources
+- pkg:maven/io.michaelrocks/libphonenumber-android@8.12.27?classifier=sources
+- pkg:maven/io.michaelrocks/libphonenumber-android@8.12.28?classifier=sources
+- pkg:maven/io.michaelrocks/libphonenumber-android@8.12.29?classifier=sources
+- pkg:maven/io.michaelrocks/libphonenumber-android@8.12.30?classifier=sources
+- pkg:maven/io.michaelrocks/libphonenumber-android@8.12.31?classifier=sources

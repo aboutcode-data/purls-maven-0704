@@ -22,3 +22,4 @@
 - pkg:maven/org.rauschig/jarchivelib@1.0.0?classifier=sources
 - pkg:maven/org.rauschig/jarchivelib@1.1.0
 - pkg:maven/org.rauschig/jarchivelib@1.1.0?classifier=sources
+- pkg:maven/org.rauschig/jarchivelib@1.2.0

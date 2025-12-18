@@ -5,6 +5,7 @@
 - pkg:maven/com.liferay.plugins/sharepoint-hook@7.0.10.34?type=war
 - pkg:maven/com.liferay.plugins/sharepoint-hook@7.0.10.35?type=war
 - pkg:maven/com.liferay.plugins/sharepoint-hook@7.0.10.36?type=war
+- pkg:maven/com.liferay.plugins/sharepoint-hook@7.0.10.37?type=war
 - pkg:maven/com.liferay.plugins/sharepoint-hook@7.1.10.19?type=war
 - pkg:maven/com.liferay.plugins/sharepoint-hook@7.1.10.20?type=war
 - pkg:maven/com.liferay.plugins/sharepoint-hook@7.1.10.21?type=war

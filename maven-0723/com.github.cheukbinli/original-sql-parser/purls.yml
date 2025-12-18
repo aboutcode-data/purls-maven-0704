@@ -1,0 +1,2 @@
+- pkg:maven/com.github.cheukbinli/original-sql-parser@1.0.0.3.7-RELEASE
+- pkg:maven/com.github.cheukbinli/original-sql-parser@1.0.0.3.7-RELEASE?classifier=sources

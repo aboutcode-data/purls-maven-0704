@@ -1,2 +1,8 @@
 - pkg:maven/de.awagen.kolibri/kolibri-datatypes_2.13@0.1.0-alpha1
 - pkg:maven/de.awagen.kolibri/kolibri-datatypes_2.13@0.1.0-alpha1?classifier=sources
+- pkg:maven/de.awagen.kolibri/kolibri-datatypes_2.13@0.1.0-alpha2
+- pkg:maven/de.awagen.kolibri/kolibri-datatypes_2.13@0.1.0-alpha2?classifier=sources
+- pkg:maven/de.awagen.kolibri/kolibri-datatypes_2.13@0.1.0-alpha3
+- pkg:maven/de.awagen.kolibri/kolibri-datatypes_2.13@0.1.0-alpha3?classifier=sources
+- pkg:maven/de.awagen.kolibri/kolibri-datatypes_2.13@0.1.0-alpha4
+- pkg:maven/de.awagen.kolibri/kolibri-datatypes_2.13@0.1.0-alpha4?classifier=sources

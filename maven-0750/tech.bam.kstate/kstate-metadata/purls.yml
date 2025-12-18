@@ -1,0 +1,2 @@
+- pkg:maven/tech.bam.kstate/kstate-metadata@0.2.1?classifier=sources
+- pkg:maven/tech.bam.kstate/kstate-metadata@1.0.0?classifier=sources

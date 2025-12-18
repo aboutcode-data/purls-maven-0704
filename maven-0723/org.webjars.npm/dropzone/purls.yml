@@ -10,3 +10,5 @@
 - pkg:maven/org.webjars.npm/dropzone@5.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/dropzone@5.8.1
 - pkg:maven/org.webjars.npm/dropzone@5.8.1?classifier=sources
+- pkg:maven/org.webjars.npm/dropzone@5.9.2
+- pkg:maven/org.webjars.npm/dropzone@5.9.2?classifier=sources

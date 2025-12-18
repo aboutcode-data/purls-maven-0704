@@ -4,3 +4,9 @@
 - pkg:maven/ky.korins/blake3_3@2.6.0?classifier=sources
 - pkg:maven/ky.korins/blake3_3@2.6.1
 - pkg:maven/ky.korins/blake3_3@2.6.1?classifier=sources
+- pkg:maven/ky.korins/blake3_3@2.7.0
+- pkg:maven/ky.korins/blake3_3@2.7.0?classifier=sources
+- pkg:maven/ky.korins/blake3_3@2.8.0
+- pkg:maven/ky.korins/blake3_3@2.8.0?classifier=sources
+- pkg:maven/ky.korins/blake3_3@2.9.0
+- pkg:maven/ky.korins/blake3_3@2.9.0?classifier=sources

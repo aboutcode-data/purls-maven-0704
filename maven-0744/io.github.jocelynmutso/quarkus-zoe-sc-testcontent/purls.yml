@@ -1,0 +1,4 @@
+- pkg:maven/io.github.jocelynmutso/quarkus-zoe-sc-testcontent@1.0.9
+- pkg:maven/io.github.jocelynmutso/quarkus-zoe-sc-testcontent@1.0.9?classifier=sources
+- pkg:maven/io.github.jocelynmutso/quarkus-zoe-sc-testcontent@1.010
+- pkg:maven/io.github.jocelynmutso/quarkus-zoe-sc-testcontent@1.010?classifier=sources

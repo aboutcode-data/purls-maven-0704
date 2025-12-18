@@ -38,3 +38,9 @@
 - pkg:maven/org.cqfn.diktat/diktat-common@0.6.1?classifier=sources
 - pkg:maven/org.cqfn.diktat/diktat-common@0.6.2
 - pkg:maven/org.cqfn.diktat/diktat-common@0.6.2?classifier=sources
+- pkg:maven/org.cqfn.diktat/diktat-common@1.0.0-rc.1
+- pkg:maven/org.cqfn.diktat/diktat-common@1.0.0-rc.1?classifier=sources
+- pkg:maven/org.cqfn.diktat/diktat-common@1.0.0-rc.2
+- pkg:maven/org.cqfn.diktat/diktat-common@1.0.0-rc.2?classifier=sources
+- pkg:maven/org.cqfn.diktat/diktat-common@1.0.0-rc.3
+- pkg:maven/org.cqfn.diktat/diktat-common@1.0.0-rc.3?classifier=sources

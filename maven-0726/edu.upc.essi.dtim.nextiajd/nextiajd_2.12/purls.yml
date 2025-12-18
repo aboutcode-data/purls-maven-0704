@@ -1,0 +1,4 @@
+- pkg:maven/edu.upc.essi.dtim.nextiajd/nextiajd_2.12@1.0
+- pkg:maven/edu.upc.essi.dtim.nextiajd/nextiajd_2.12@1.0.1
+- pkg:maven/edu.upc.essi.dtim.nextiajd/nextiajd_2.12@1.0.1?classifier=sources
+- pkg:maven/edu.upc.essi.dtim.nextiajd/nextiajd_2.12@1.0?classifier=sources

@@ -12,3 +12,11 @@
 - pkg:maven/us.oyanglul/dhall-generic_3@0.3.41?classifier=sources
 - pkg:maven/us.oyanglul/dhall-generic_3@0.3.42
 - pkg:maven/us.oyanglul/dhall-generic_3@0.3.42?classifier=sources
+- pkg:maven/us.oyanglul/dhall-generic_3@0.3.43
+- pkg:maven/us.oyanglul/dhall-generic_3@0.3.43?classifier=sources
+- pkg:maven/us.oyanglul/dhall-generic_3@0.3.47
+- pkg:maven/us.oyanglul/dhall-generic_3@0.3.47?classifier=sources
+- pkg:maven/us.oyanglul/dhall-generic_3@0.3.48
+- pkg:maven/us.oyanglul/dhall-generic_3@0.3.48?classifier=sources
+- pkg:maven/us.oyanglul/dhall-generic_3@0.3.49
+- pkg:maven/us.oyanglul/dhall-generic_3@0.3.49?classifier=sources

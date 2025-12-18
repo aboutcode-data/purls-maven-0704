@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/prosemirror-schema-list@1.0.3?classifier=sources
 - pkg:maven/org.webjars.npm/prosemirror-schema-list@1.1.2
 - pkg:maven/org.webjars.npm/prosemirror-schema-list@1.1.2?classifier=sources
+- pkg:maven/org.webjars.npm/prosemirror-schema-list@1.1.5
+- pkg:maven/org.webjars.npm/prosemirror-schema-list@1.1.5?classifier=sources

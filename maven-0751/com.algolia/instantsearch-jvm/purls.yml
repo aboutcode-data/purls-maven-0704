@@ -1,0 +1,2 @@
+- pkg:maven/com.algolia/instantsearch-jvm@2.11.0-beta02?classifier=sources
+- pkg:maven/com.algolia/instantsearch-jvm@2.11.0?classifier=sources

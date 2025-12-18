@@ -1,1 +1,2 @@
 - pkg:maven/tz.co.asoft/kash-core-watchosarm64@0.0.10?classifier=sources
+- pkg:maven/tz.co.asoft/kash-core-watchosarm64@0.0.11?classifier=sources

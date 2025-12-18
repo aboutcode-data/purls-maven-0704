@@ -1,0 +1,14 @@
+- pkg:maven/io.github.pinkolik/general-classes-generator-maven-plugin@0.0.1-RELEASE
+- pkg:maven/io.github.pinkolik/general-classes-generator-maven-plugin@0.0.1-RELEASE?classifier=sources
+- pkg:maven/io.github.pinkolik/general-classes-generator-maven-plugin@0.1.0-RELEASE
+- pkg:maven/io.github.pinkolik/general-classes-generator-maven-plugin@0.1.0-RELEASE?classifier=sources
+- pkg:maven/io.github.pinkolik/general-classes-generator-maven-plugin@0.2.0-RELEASE
+- pkg:maven/io.github.pinkolik/general-classes-generator-maven-plugin@0.2.0-RELEASE?classifier=sources
+- pkg:maven/io.github.pinkolik/general-classes-generator-maven-plugin@1.0.0-RELEASE
+- pkg:maven/io.github.pinkolik/general-classes-generator-maven-plugin@1.0.0-RELEASE?classifier=sources
+- pkg:maven/io.github.pinkolik/general-classes-generator-maven-plugin@1.1.0-RELEASE
+- pkg:maven/io.github.pinkolik/general-classes-generator-maven-plugin@1.1.0-RELEASE?classifier=sources
+- pkg:maven/io.github.pinkolik/general-classes-generator-maven-plugin@1.1.1-RELEASE
+- pkg:maven/io.github.pinkolik/general-classes-generator-maven-plugin@1.1.1-RELEASE?classifier=sources
+- pkg:maven/io.github.pinkolik/general-classes-generator-maven-plugin@1.1.2-RELEASE
+- pkg:maven/io.github.pinkolik/general-classes-generator-maven-plugin@1.1.2-RELEASE?classifier=sources

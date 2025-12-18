@@ -22,3 +22,5 @@
 - pkg:maven/org.mirrentools/vertx-sql-assist@3.9.1?classifier=sources
 - pkg:maven/org.mirrentools/vertx-sql-assist@4.0.0-RC
 - pkg:maven/org.mirrentools/vertx-sql-assist@4.0.0-RC?classifier=sources
+- pkg:maven/org.mirrentools/vertx-sql-assist@4.1.2-RC
+- pkg:maven/org.mirrentools/vertx-sql-assist@4.1.2-RC?classifier=sources

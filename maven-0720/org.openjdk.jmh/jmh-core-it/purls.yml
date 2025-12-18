@@ -105,6 +105,8 @@
 - pkg:maven/org.openjdk.jmh/jmh-core-it@1.31?classifier=sources
 - pkg:maven/org.openjdk.jmh/jmh-core-it@1.32
 - pkg:maven/org.openjdk.jmh/jmh-core-it@1.32?classifier=sources
+- pkg:maven/org.openjdk.jmh/jmh-core-it@1.33
+- pkg:maven/org.openjdk.jmh/jmh-core-it@1.33?classifier=sources
 - pkg:maven/org.openjdk.jmh/jmh-core-it@1.4
 - pkg:maven/org.openjdk.jmh/jmh-core-it@1.4.1
 - pkg:maven/org.openjdk.jmh/jmh-core-it@1.4.2

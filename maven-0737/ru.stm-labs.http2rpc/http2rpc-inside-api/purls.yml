@@ -1,0 +1,2 @@
+- pkg:maven/ru.stm-labs.http2rpc/http2rpc-inside-api@1.1.0
+- pkg:maven/ru.stm-labs.http2rpc/http2rpc-inside-api@1.1.0?classifier=sources

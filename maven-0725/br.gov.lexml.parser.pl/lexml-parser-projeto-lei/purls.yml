@@ -4,3 +4,5 @@
 - pkg:maven/br.gov.lexml.parser.pl/lexml-parser-projeto-lei@1.13.3?classifier=sources
 - pkg:maven/br.gov.lexml.parser.pl/lexml-parser-projeto-lei@1.13.4
 - pkg:maven/br.gov.lexml.parser.pl/lexml-parser-projeto-lei@1.13.4?classifier=sources
+- pkg:maven/br.gov.lexml.parser.pl/lexml-parser-projeto-lei@1.13.6
+- pkg:maven/br.gov.lexml.parser.pl/lexml-parser-projeto-lei@1.13.6?classifier=sources

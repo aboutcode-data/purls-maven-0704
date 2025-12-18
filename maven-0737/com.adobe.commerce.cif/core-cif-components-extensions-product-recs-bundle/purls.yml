@@ -1,0 +1,2 @@
+- pkg:maven/com.adobe.commerce.cif/core-cif-components-extensions-product-recs-bundle@2.0.0
+- pkg:maven/com.adobe.commerce.cif/core-cif-components-extensions-product-recs-bundle@2.0.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/io.thestencil/quarkus-stencil-composer-pg-deployment@1.022
+- pkg:maven/io.thestencil/quarkus-stencil-composer-pg-deployment@1.022?classifier=sources
+- pkg:maven/io.thestencil/quarkus-stencil-composer-pg-deployment@1.023
+- pkg:maven/io.thestencil/quarkus-stencil-composer-pg-deployment@1.023?classifier=sources
+- pkg:maven/io.thestencil/quarkus-stencil-composer-pg-deployment@1.024
+- pkg:maven/io.thestencil/quarkus-stencil-composer-pg-deployment@1.024?classifier=sources

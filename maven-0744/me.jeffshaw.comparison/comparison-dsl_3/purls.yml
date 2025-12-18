@@ -1,0 +1,2 @@
+- pkg:maven/me.jeffshaw.comparison/comparison-dsl_3@1.0.1
+- pkg:maven/me.jeffshaw.comparison/comparison-dsl_3@1.0.1?classifier=sources

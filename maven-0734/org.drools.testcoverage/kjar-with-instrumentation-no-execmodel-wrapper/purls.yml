@@ -13,3 +13,6 @@
 - pkg:maven/org.drools.testcoverage/kjar-with-instrumentation-no-execmodel-wrapper@7.54.0.Final
 - pkg:maven/org.drools.testcoverage/kjar-with-instrumentation-no-execmodel-wrapper@7.55.0.Final
 - pkg:maven/org.drools.testcoverage/kjar-with-instrumentation-no-execmodel-wrapper@7.56.0.Final
+- pkg:maven/org.drools.testcoverage/kjar-with-instrumentation-no-execmodel-wrapper@7.57.0.Final
+- pkg:maven/org.drools.testcoverage/kjar-with-instrumentation-no-execmodel-wrapper@7.58.0.Final
+- pkg:maven/org.drools.testcoverage/kjar-with-instrumentation-no-execmodel-wrapper@7.59.0.Final

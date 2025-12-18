@@ -1,0 +1,4 @@
+- pkg:maven/cn.hermesdi/api-crypto-spring-boot-autoconfigure@1.0.0
+- pkg:maven/cn.hermesdi/api-crypto-spring-boot-autoconfigure@1.0.0.RELEASE
+- pkg:maven/cn.hermesdi/api-crypto-spring-boot-autoconfigure@1.0.0.RELEASE?classifier=sources
+- pkg:maven/cn.hermesdi/api-crypto-spring-boot-autoconfigure@1.0.0?classifier=sources

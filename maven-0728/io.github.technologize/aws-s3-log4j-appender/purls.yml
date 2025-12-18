@@ -1,0 +1,2 @@
+- pkg:maven/io.github.technologize/aws-s3-log4j-appender@1.0.0
+- pkg:maven/io.github.technologize/aws-s3-log4j-appender@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.semanticcms/semanticcms-all@1.13.0
+- pkg:maven/com.semanticcms/semanticcms-all@1.13.0?classifier=sources

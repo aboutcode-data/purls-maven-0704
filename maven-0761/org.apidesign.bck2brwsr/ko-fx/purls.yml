@@ -15,6 +15,10 @@
 - pkg:maven/org.apidesign.bck2brwsr/ko-fx@0.30
 - pkg:maven/org.apidesign.bck2brwsr/ko-fx@0.31
 - pkg:maven/org.apidesign.bck2brwsr/ko-fx@0.32
+- pkg:maven/org.apidesign.bck2brwsr/ko-fx@0.50
+- pkg:maven/org.apidesign.bck2brwsr/ko-fx@0.51
+- pkg:maven/org.apidesign.bck2brwsr/ko-fx@0.52
+- pkg:maven/org.apidesign.bck2brwsr/ko-fx@0.53
 - pkg:maven/org.apidesign.bck2brwsr/ko-fx@0.8
 - pkg:maven/org.apidesign.bck2brwsr/ko-fx@0.8.1
 - pkg:maven/org.apidesign.bck2brwsr/ko-fx@0.9

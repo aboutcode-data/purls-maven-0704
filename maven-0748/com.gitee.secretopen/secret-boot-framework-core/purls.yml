@@ -8,3 +8,5 @@
 - pkg:maven/com.gitee.secretopen/secret-boot-framework-core@1.4.0?classifier=sources
 - pkg:maven/com.gitee.secretopen/secret-boot-framework-core@1.5.0
 - pkg:maven/com.gitee.secretopen/secret-boot-framework-core@1.5.0?classifier=sources
+- pkg:maven/com.gitee.secretopen/secret-boot-framework-core@1.6.0
+- pkg:maven/com.gitee.secretopen/secret-boot-framework-core@1.6.0?classifier=sources

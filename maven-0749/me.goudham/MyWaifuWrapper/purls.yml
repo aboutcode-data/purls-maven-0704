@@ -4,3 +4,5 @@
 - pkg:maven/me.goudham/MyWaifuWrapper@0.1.1?classifier=sources
 - pkg:maven/me.goudham/MyWaifuWrapper@0.2.0
 - pkg:maven/me.goudham/MyWaifuWrapper@0.2.0?classifier=sources
+- pkg:maven/me.goudham/MyWaifuWrapper@1.0.0
+- pkg:maven/me.goudham/MyWaifuWrapper@1.0.0?classifier=sources

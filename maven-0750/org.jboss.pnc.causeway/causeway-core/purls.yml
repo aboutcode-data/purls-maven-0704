@@ -26,3 +26,7 @@
 - pkg:maven/org.jboss.pnc.causeway/causeway-core@1.8.0?classifier=sources
 - pkg:maven/org.jboss.pnc.causeway/causeway-core@2.0.0?classifier=sources
 - pkg:maven/org.jboss.pnc.causeway/causeway-core@2.0.1?classifier=sources
+- pkg:maven/org.jboss.pnc.causeway/causeway-core@2.0.2?classifier=sources
+- pkg:maven/org.jboss.pnc.causeway/causeway-core@2.1.0?classifier=sources
+- pkg:maven/org.jboss.pnc.causeway/causeway-core@2.1.1?classifier=sources
+- pkg:maven/org.jboss.pnc.causeway/causeway-core@2.1.2?classifier=sources

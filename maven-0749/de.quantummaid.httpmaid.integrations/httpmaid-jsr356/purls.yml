@@ -74,6 +74,12 @@
 - pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-jsr356@0.9.140?classifier=sources
 - pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-jsr356@0.9.141
 - pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-jsr356@0.9.141?classifier=sources
+- pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-jsr356@0.9.142
+- pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-jsr356@0.9.142?classifier=sources
+- pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-jsr356@0.9.143
+- pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-jsr356@0.9.143?classifier=sources
+- pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-jsr356@0.9.144
+- pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-jsr356@0.9.144?classifier=sources
 - pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-jsr356@0.9.68
 - pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-jsr356@0.9.68?classifier=sources
 - pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-jsr356@0.9.69

@@ -14,3 +14,7 @@
 - pkg:maven/com.free-now.sauron/sauron-service@1.0.20?classifier=sources
 - pkg:maven/com.free-now.sauron/sauron-service@1.0.21
 - pkg:maven/com.free-now.sauron/sauron-service@1.0.21?classifier=sources
+- pkg:maven/com.free-now.sauron/sauron-service@1.0.22
+- pkg:maven/com.free-now.sauron/sauron-service@1.0.22?classifier=sources
+- pkg:maven/com.free-now.sauron/sauron-service@1.0.23
+- pkg:maven/com.free-now.sauron/sauron-service@1.0.23?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.crazysunj/mtrva@2.5.2?classifier=sources
+- pkg:maven/com.crazysunj/mtrva@2.5.2?type=aar

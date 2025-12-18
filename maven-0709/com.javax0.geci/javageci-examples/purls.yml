@@ -6,3 +6,5 @@
 - pkg:maven/com.javax0.geci/javageci-examples@1.6.2.1
 - pkg:maven/com.javax0.geci/javageci-examples@1.6.2.1?classifier=sources
 - pkg:maven/com.javax0.geci/javageci-examples@1.6.2?classifier=sources
+- pkg:maven/com.javax0.geci/javageci-examples@1.6.3
+- pkg:maven/com.javax0.geci/javageci-examples@1.6.3?classifier=sources

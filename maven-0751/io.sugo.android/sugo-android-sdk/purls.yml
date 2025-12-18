@@ -100,3 +100,5 @@
 - pkg:maven/io.sugo.android/sugo-android-sdk@3.2.8?type=aar
 - pkg:maven/io.sugo.android/sugo-android-sdk@3.3.3?classifier=sources
 - pkg:maven/io.sugo.android/sugo-android-sdk@3.3.3?type=aar
+- pkg:maven/io.sugo.android/sugo-android-sdk@3.4.0?classifier=sources
+- pkg:maven/io.sugo.android/sugo-android-sdk@3.4.0?type=aar

@@ -1,0 +1,4 @@
+- pkg:maven/io.dataease/dataease-plugin-interface@1.0
+- pkg:maven/io.dataease/dataease-plugin-interface@1.0?classifier=sources
+- pkg:maven/io.dataease/dataease-plugin-interface@1.1
+- pkg:maven/io.dataease/dataease-plugin-interface@1.1?classifier=sources

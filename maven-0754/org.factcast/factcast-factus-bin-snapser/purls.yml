@@ -26,3 +26,7 @@
 - pkg:maven/org.factcast/factcast-factus-bin-snapser@0.3.9.1
 - pkg:maven/org.factcast/factcast-factus-bin-snapser@0.3.9.1?classifier=sources
 - pkg:maven/org.factcast/factcast-factus-bin-snapser@0.3.9?classifier=sources
+- pkg:maven/org.factcast/factcast-factus-bin-snapser@0.4.0-RC1
+- pkg:maven/org.factcast/factcast-factus-bin-snapser@0.4.0-RC1?classifier=sources
+- pkg:maven/org.factcast/factcast-factus-bin-snapser@0.4.0-RC3
+- pkg:maven/org.factcast/factcast-factus-bin-snapser@0.4.0-RC3?classifier=sources

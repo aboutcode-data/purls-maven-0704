@@ -1,1 +1,2 @@
 - pkg:maven/io.opengood.api/rest-api-contracts@1.0.0?classifier=sources
+- pkg:maven/io.opengood.api/rest-api-contracts@2.0.0?classifier=sources

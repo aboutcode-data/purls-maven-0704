@@ -1,0 +1,2 @@
+- pkg:maven/org.planet42/laika-io_3@0.18.0
+- pkg:maven/org.planet42/laika-io_3@0.18.0?classifier=sources

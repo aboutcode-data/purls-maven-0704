@@ -1,0 +1,2 @@
+- pkg:maven/net.serenity-bdd/serenity-lambdatest@2.6.0
+- pkg:maven/net.serenity-bdd/serenity-lambdatest@2.6.0?classifier=sources

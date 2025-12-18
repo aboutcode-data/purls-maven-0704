@@ -8,3 +8,7 @@
 - pkg:maven/com.github.marks-yag/config-annotation@0.11.3?classifier=sources
 - pkg:maven/com.github.marks-yag/config-annotation@0.12.0
 - pkg:maven/com.github.marks-yag/config-annotation@0.12.0?classifier=sources
+- pkg:maven/com.github.marks-yag/config-annotation@0.12.1
+- pkg:maven/com.github.marks-yag/config-annotation@0.12.1?classifier=sources
+- pkg:maven/com.github.marks-yag/config-annotation@0.12.2
+- pkg:maven/com.github.marks-yag/config-annotation@0.12.2?classifier=sources

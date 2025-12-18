@@ -2,3 +2,4 @@
 - pkg:maven/com.github.stephengold/jme3-utilities-ui@0.9.3%2Bfor33?classifier=sources
 - pkg:maven/com.github.stephengold/jme3-utilities-ui@0.9.3%2Bfor34?classifier=sources
 - pkg:maven/com.github.stephengold/jme3-utilities-ui@0.9.4?classifier=sources
+- pkg:maven/com.github.stephengold/jme3-utilities-ui@0.9.5?classifier=sources

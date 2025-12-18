@@ -1,0 +1,2 @@
+- pkg:maven/com.github.oheger/cloud-files-localfs_2.13@0.2
+- pkg:maven/com.github.oheger/cloud-files-localfs_2.13@0.2?classifier=sources

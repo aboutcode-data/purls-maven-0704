@@ -1,0 +1,2 @@
+- pkg:maven/io.chrisdavenport/fuuid-doobie_3@0.8.0-M2
+- pkg:maven/io.chrisdavenport/fuuid-doobie_3@0.8.0-M2?classifier=sources

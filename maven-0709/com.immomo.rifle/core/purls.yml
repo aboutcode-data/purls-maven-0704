@@ -1,0 +1,2 @@
+- pkg:maven/com.immomo.rifle/core@2.2.5.2?classifier=sources
+- pkg:maven/com.immomo.rifle/core@2.2.5.2?type=aar

@@ -16,6 +16,8 @@
 - pkg:maven/org.apache.activemq.examples.broker.camel/camel-war@2.16.0?type=war
 - pkg:maven/org.apache.activemq.examples.broker.camel/camel-war@2.17.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.broker.camel/camel-war@2.17.0?type=war
+- pkg:maven/org.apache.activemq.examples.broker.camel/camel-war@2.18.0?classifier=sources
+- pkg:maven/org.apache.activemq.examples.broker.camel/camel-war@2.18.0?type=war
 - pkg:maven/org.apache.activemq.examples.broker.camel/camel-war@2.7.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.broker.camel/camel-war@2.7.0?type=war
 - pkg:maven/org.apache.activemq.examples.broker.camel/camel-war@2.8.0?classifier=sources

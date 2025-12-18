@@ -1,4 +1,6 @@
 - pkg:maven/com.kinnerapriyap/sher-gil@0.6.0-test01?classifier=sources
 - pkg:maven/com.kinnerapriyap/sher-gil@0.6.0-test02?classifier=sources
 - pkg:maven/com.kinnerapriyap/sher-gil@0.6.0?classifier=sources
+- pkg:maven/com.kinnerapriyap/sher-gil@0.6.1-test01?classifier=sources
+- pkg:maven/com.kinnerapriyap/sher-gil@0.6.1?classifier=sources
 - pkg:maven/com.kinnerapriyap/sher-gil@unspecified?classifier=sources

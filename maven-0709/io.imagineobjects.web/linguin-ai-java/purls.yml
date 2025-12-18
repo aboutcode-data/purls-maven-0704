@@ -1,0 +1,2 @@
+- pkg:maven/io.imagineobjects.web/linguin-ai-java@0.0.1
+- pkg:maven/io.imagineobjects.web/linguin-ai-java@0.0.1?classifier=sources

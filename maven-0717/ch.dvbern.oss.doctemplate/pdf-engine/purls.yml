@@ -1,0 +1,4 @@
+- pkg:maven/ch.dvbern.oss.doctemplate/pdf-engine@3.0.0
+- pkg:maven/ch.dvbern.oss.doctemplate/pdf-engine@3.0.0?classifier=sources
+- pkg:maven/ch.dvbern.oss.doctemplate/pdf-engine@4.0.0
+- pkg:maven/ch.dvbern.oss.doctemplate/pdf-engine@4.0.0?classifier=sources

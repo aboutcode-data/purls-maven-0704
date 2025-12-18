@@ -1,0 +1,6 @@
+- pkg:maven/io.perfeccionista.framework/environment@0.0.1-Beta?classifier=sources
+- pkg:maven/io.perfeccionista.framework/environment@0.0.2-Beta?classifier=sources
+- pkg:maven/io.perfeccionista.framework/environment@0.0.3-Beta?classifier=sources
+- pkg:maven/io.perfeccionista.framework/environment@0.0.4-Beta?classifier=sources
+- pkg:maven/io.perfeccionista.framework/environment@0.1.0-Beta?classifier=sources
+- pkg:maven/io.perfeccionista.framework/environment@0.2.0-Beta?classifier=sources

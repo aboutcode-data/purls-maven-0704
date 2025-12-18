@@ -6,5 +6,7 @@
 - pkg:maven/org.webjars.npm/uppy__dashboard@1.10.0?classifier=sources
 - pkg:maven/org.webjars.npm/uppy__dashboard@1.12.9
 - pkg:maven/org.webjars.npm/uppy__dashboard@1.12.9?classifier=sources
+- pkg:maven/org.webjars.npm/uppy__dashboard@1.20.2
+- pkg:maven/org.webjars.npm/uppy__dashboard@1.20.2?classifier=sources
 - pkg:maven/org.webjars.npm/uppy__dashboard@1.5.0
 - pkg:maven/org.webjars.npm/uppy__dashboard@1.5.0?classifier=sources

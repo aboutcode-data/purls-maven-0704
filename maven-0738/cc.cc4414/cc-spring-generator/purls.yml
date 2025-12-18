@@ -1,0 +1,2 @@
+- pkg:maven/cc.cc4414/cc-spring-generator@0.8.0
+- pkg:maven/cc.cc4414/cc-spring-generator@0.8.0?classifier=sources

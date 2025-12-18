@@ -1,0 +1,2 @@
+- pkg:maven/io.github.kongpf8848/version-plugin@1.0.1
+- pkg:maven/io.github.kongpf8848/version-plugin@1.0.1?classifier=sources

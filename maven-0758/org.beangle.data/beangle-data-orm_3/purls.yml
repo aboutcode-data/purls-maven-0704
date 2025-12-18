@@ -1,0 +1,2 @@
+- pkg:maven/org.beangle.data/beangle-data-orm_3@5.3.24
+- pkg:maven/org.beangle.data/beangle-data-orm_3@5.3.24?classifier=sources

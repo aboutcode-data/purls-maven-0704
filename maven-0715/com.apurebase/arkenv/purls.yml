@@ -10,3 +10,5 @@
 - pkg:maven/com.apurebase/arkenv@3.2.0?classifier=sources
 - pkg:maven/com.apurebase/arkenv@3.3.0?classifier=sources
 - pkg:maven/com.apurebase/arkenv@3.3.1?classifier=sources
+- pkg:maven/com.apurebase/arkenv@3.3.2?classifier=sources
+- pkg:maven/com.apurebase/arkenv@3.3.3?classifier=sources

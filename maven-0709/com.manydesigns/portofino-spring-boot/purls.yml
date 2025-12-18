@@ -1,0 +1,2 @@
+- pkg:maven/com.manydesigns/portofino-spring-boot@5.3.0
+- pkg:maven/com.manydesigns/portofino-spring-boot@5.3.0?classifier=sources

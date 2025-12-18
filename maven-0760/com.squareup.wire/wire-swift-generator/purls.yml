@@ -22,3 +22,7 @@
 - pkg:maven/com.squareup.wire/wire-swift-generator@4.0.0-alpha.4?classifier=sources
 - pkg:maven/com.squareup.wire/wire-swift-generator@4.0.0-alpha.5
 - pkg:maven/com.squareup.wire/wire-swift-generator@4.0.0-alpha.5?classifier=sources
+- pkg:maven/com.squareup.wire/wire-swift-generator@4.0.0-alpha.6
+- pkg:maven/com.squareup.wire/wire-swift-generator@4.0.0-alpha.6?classifier=sources
+- pkg:maven/com.squareup.wire/wire-swift-generator@4.0.0-alpha.7
+- pkg:maven/com.squareup.wire/wire-swift-generator@4.0.0-alpha.7?classifier=sources

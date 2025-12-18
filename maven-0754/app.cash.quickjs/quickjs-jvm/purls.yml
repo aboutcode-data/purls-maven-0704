@@ -1,0 +1,2 @@
+- pkg:maven/app.cash.quickjs/quickjs-jvm@0.9.1?classifier=sources
+- pkg:maven/app.cash.quickjs/quickjs-jvm@0.9.2?classifier=sources

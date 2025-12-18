@@ -6,3 +6,5 @@
 - pkg:maven/org.nhind/config-model@6.0?classifier=sources
 - pkg:maven/org.nhind/config-model@7.0
 - pkg:maven/org.nhind/config-model@7.0?classifier=sources
+- pkg:maven/org.nhind/config-model@8.0.0
+- pkg:maven/org.nhind/config-model@8.0.0?classifier=sources

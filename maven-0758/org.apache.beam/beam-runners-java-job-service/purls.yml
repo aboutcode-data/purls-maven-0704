@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.beam/beam-runners-java-job-service@2.28.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-runners-java-job-service@2.29.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-runners-java-job-service@2.30.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-runners-java-job-service@2.31.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-runners-java-job-service@2.32.0?classifier=sources

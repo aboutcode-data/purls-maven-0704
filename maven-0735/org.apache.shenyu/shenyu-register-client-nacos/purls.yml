@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.shenyu/shenyu-register-client-nacos@2.4.0
+- pkg:maven/org.apache.shenyu/shenyu-register-client-nacos@2.4.0?classifier=sources

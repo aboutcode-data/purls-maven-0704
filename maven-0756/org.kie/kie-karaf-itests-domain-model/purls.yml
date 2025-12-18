@@ -150,6 +150,12 @@
 - pkg:maven/org.kie/kie-karaf-itests-domain-model@7.55.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-karaf-itests-domain-model@7.56.0.Final
 - pkg:maven/org.kie/kie-karaf-itests-domain-model@7.56.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-karaf-itests-domain-model@7.57.0.Final
+- pkg:maven/org.kie/kie-karaf-itests-domain-model@7.57.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-karaf-itests-domain-model@7.58.0.Final
+- pkg:maven/org.kie/kie-karaf-itests-domain-model@7.58.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-karaf-itests-domain-model@7.59.0.Final
+- pkg:maven/org.kie/kie-karaf-itests-domain-model@7.59.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-karaf-itests-domain-model@7.6.0.Final
 - pkg:maven/org.kie/kie-karaf-itests-domain-model@7.6.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-karaf-itests-domain-model@7.6.0.t022

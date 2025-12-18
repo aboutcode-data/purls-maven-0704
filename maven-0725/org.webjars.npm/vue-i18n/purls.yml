@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.npm/vue-i18n@5.0.3
+- pkg:maven/org.webjars.npm/vue-i18n@5.0.3?classifier=sources
 - pkg:maven/org.webjars.npm/vue-i18n@6.0.0
 - pkg:maven/org.webjars.npm/vue-i18n@6.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/vue-i18n@6.1.1

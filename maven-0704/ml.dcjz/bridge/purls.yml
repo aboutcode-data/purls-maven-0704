@@ -1,0 +1,4 @@
+- pkg:maven/ml.dcjz/bridge@1.0.26?classifier=sources
+- pkg:maven/ml.dcjz/bridge@1.0.26?type=aar
+- pkg:maven/ml.dcjz/bridge@1.1.26?classifier=sources
+- pkg:maven/ml.dcjz/bridge@1.1.26?type=aar

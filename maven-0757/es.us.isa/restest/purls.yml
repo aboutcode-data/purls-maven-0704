@@ -2,3 +2,5 @@
 - pkg:maven/es.us.isa/restest@0.1.0?classifier=sources
 - pkg:maven/es.us.isa/restest@1.0.0
 - pkg:maven/es.us.isa/restest@1.0.0?classifier=sources
+- pkg:maven/es.us.isa/restest@1.1.3
+- pkg:maven/es.us.isa/restest@1.1.3?classifier=sources

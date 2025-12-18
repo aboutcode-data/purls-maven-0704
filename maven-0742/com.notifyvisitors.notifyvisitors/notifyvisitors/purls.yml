@@ -1,6 +1,12 @@
+- pkg:maven/com.notifyvisitors.notifyvisitors/notifyvisitors@v28-5.1.10?classifier=sources
+- pkg:maven/com.notifyvisitors.notifyvisitors/notifyvisitors@v28-5.1.10?type=aar
 - pkg:maven/com.notifyvisitors.notifyvisitors/notifyvisitors@v28-5.1.6?classifier=sources
 - pkg:maven/com.notifyvisitors.notifyvisitors/notifyvisitors@v28-5.1.6?type=aar
 - pkg:maven/com.notifyvisitors.notifyvisitors/notifyvisitors@v28-5.1.7?classifier=sources
 - pkg:maven/com.notifyvisitors.notifyvisitors/notifyvisitors@v28-5.1.7?type=aar
+- pkg:maven/com.notifyvisitors.notifyvisitors/notifyvisitors@v28-5.1.8?classifier=sources
+- pkg:maven/com.notifyvisitors.notifyvisitors/notifyvisitors@v28-5.1.8?type=aar
+- pkg:maven/com.notifyvisitors.notifyvisitors/notifyvisitors@v28-5.1.9?classifier=sources
+- pkg:maven/com.notifyvisitors.notifyvisitors/notifyvisitors@v28-5.1.9?type=aar
 - pkg:maven/com.notifyvisitors.notifyvisitors/notifyvisitors@v29-5.0.11?classifier=sources
 - pkg:maven/com.notifyvisitors.notifyvisitors/notifyvisitors@v29-5.0.11?type=aar

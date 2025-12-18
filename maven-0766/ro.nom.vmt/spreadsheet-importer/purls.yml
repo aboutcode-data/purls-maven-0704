@@ -1,0 +1,2 @@
+- pkg:maven/ro.nom.vmt/spreadsheet-importer@0.1.0
+- pkg:maven/ro.nom.vmt/spreadsheet-importer@0.1.0?classifier=sources

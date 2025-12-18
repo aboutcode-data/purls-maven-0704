@@ -1,0 +1,2 @@
+- pkg:maven/com.soywiz.korlibs.korge2/korge-box2d-js@2.3.2?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korge2/korge-box2d-js@2.3.3?classifier=sources

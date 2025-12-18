@@ -5,3 +5,4 @@
 - pkg:maven/org.fujion.webjars/webjar-rxjs@6.6.3
 - pkg:maven/org.fujion.webjars/webjar-rxjs@6.6.6
 - pkg:maven/org.fujion.webjars/webjar-rxjs@6.6.6-10
+- pkg:maven/org.fujion.webjars/webjar-rxjs@7.2.0

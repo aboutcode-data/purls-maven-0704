@@ -1,0 +1,2 @@
+- pkg:maven/io.github.ncasaux/camel3-plantuml-jar@1.2.1
+- pkg:maven/io.github.ncasaux/camel3-plantuml-jar@1.2.1?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/io.github.aman0209/maven-deploy-demo@0.0.1
+- pkg:maven/io.github.aman0209/maven-deploy-demo@0.0.1?classifier=sources
+- pkg:maven/io.github.aman0209/maven-deploy-demo@1.1.1
+- pkg:maven/io.github.aman0209/maven-deploy-demo@1.1.1?classifier=sources
+- pkg:maven/io.github.aman0209/maven-deploy-demo@1.2.3
+- pkg:maven/io.github.aman0209/maven-deploy-demo@1.2.3?classifier=sources
+- pkg:maven/io.github.aman0209/maven-deploy-demo@2.1.1
+- pkg:maven/io.github.aman0209/maven-deploy-demo@2.1.1?classifier=sources
+- pkg:maven/io.github.aman0209/maven-deploy-demo@4.4.4
+- pkg:maven/io.github.aman0209/maven-deploy-demo@4.4.4?classifier=sources

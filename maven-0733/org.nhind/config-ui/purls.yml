@@ -8,3 +8,5 @@
 - pkg:maven/org.nhind/config-ui@2.1?type=war
 - pkg:maven/org.nhind/config-ui@6.0.1?type=war
 - pkg:maven/org.nhind/config-ui@6.0?type=war
+- pkg:maven/org.nhind/config-ui@8.0.0?type=war
+- pkg:maven/org.nhind/config-ui@8.0.1?type=war

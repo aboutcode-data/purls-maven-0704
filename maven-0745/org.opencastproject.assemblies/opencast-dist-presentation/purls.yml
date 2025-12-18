@@ -1,4 +1,6 @@
 - pkg:maven/org.opencastproject.assemblies/opencast-dist-presentation@10.0?classifier=sources
+- pkg:maven/org.opencastproject.assemblies/opencast-dist-presentation@10.1?classifier=sources
+- pkg:maven/org.opencastproject.assemblies/opencast-dist-presentation@10.2?classifier=sources
 - pkg:maven/org.opencastproject.assemblies/opencast-dist-presentation@6.6?classifier=sources
 - pkg:maven/org.opencastproject.assemblies/opencast-dist-presentation@7.2?classifier=sources
 - pkg:maven/org.opencastproject.assemblies/opencast-dist-presentation@7.3?classifier=sources

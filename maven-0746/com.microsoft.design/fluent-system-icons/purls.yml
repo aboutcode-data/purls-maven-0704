@@ -36,3 +36,9 @@
 - pkg:maven/com.microsoft.design/fluent-system-icons@1.1.133?type=aar
 - pkg:maven/com.microsoft.design/fluent-system-icons@1.1.134?classifier=sources
 - pkg:maven/com.microsoft.design/fluent-system-icons@1.1.134?type=aar
+- pkg:maven/com.microsoft.design/fluent-system-icons@1.1.135?classifier=sources
+- pkg:maven/com.microsoft.design/fluent-system-icons@1.1.135?type=aar
+- pkg:maven/com.microsoft.design/fluent-system-icons@1.1.136?classifier=sources
+- pkg:maven/com.microsoft.design/fluent-system-icons@1.1.136?type=aar
+- pkg:maven/com.microsoft.design/fluent-system-icons@1.1.137?classifier=sources
+- pkg:maven/com.microsoft.design/fluent-system-icons@1.1.137?type=aar

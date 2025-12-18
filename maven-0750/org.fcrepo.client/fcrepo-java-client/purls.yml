@@ -16,3 +16,5 @@
 - pkg:maven/org.fcrepo.client/fcrepo-java-client@0.4.0?classifier=sources
 - pkg:maven/org.fcrepo.client/fcrepo-java-client@5.0.0
 - pkg:maven/org.fcrepo.client/fcrepo-java-client@5.0.0?classifier=sources
+- pkg:maven/org.fcrepo.client/fcrepo-java-client@6.0.0
+- pkg:maven/org.fcrepo.client/fcrepo-java-client@6.0.0?classifier=sources

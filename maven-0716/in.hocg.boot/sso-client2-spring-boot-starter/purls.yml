@@ -1,0 +1,2 @@
+- pkg:maven/in.hocg.boot/sso-client2-spring-boot-starter@1.0.8
+- pkg:maven/in.hocg.boot/sso-client2-spring-boot-starter@1.0.8?classifier=sources

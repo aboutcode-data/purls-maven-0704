@@ -1,0 +1,4 @@
+- pkg:maven/org.anyboot/anyboot-jdbc@8.3.7.215
+- pkg:maven/org.anyboot/anyboot-jdbc@8.3.7.215?classifier=sources
+- pkg:maven/org.anyboot/anyboot-jdbc@8.3.8.206
+- pkg:maven/org.anyboot/anyboot-jdbc@8.3.8.206?classifier=sources

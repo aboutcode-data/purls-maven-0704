@@ -1,0 +1,4 @@
+- pkg:maven/de.team33.patterns/exceptional-01@1.0.0
+- pkg:maven/de.team33.patterns/exceptional-01@1.0.0?classifier=sources
+- pkg:maven/de.team33.patterns/exceptional-01@1.0.1
+- pkg:maven/de.team33.patterns/exceptional-01@1.0.1?classifier=sources

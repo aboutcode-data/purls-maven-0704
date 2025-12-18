@@ -1,0 +1,4 @@
+- pkg:maven/com.testvagrant.ekam/ekam-device-manager@0.0.1-beta?classifier=sources
+- pkg:maven/com.testvagrant.ekam/ekam-device-manager@0.0.2-beta?classifier=sources
+- pkg:maven/com.testvagrant.ekam/ekam-device-manager@0.0.5-beta?classifier=sources
+- pkg:maven/com.testvagrant.ekam/ekam-device-manager@0.1.0?classifier=sources

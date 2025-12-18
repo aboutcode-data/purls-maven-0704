@@ -1,0 +1,2 @@
+- pkg:maven/com.intel.analytics.bigdl/bigdl-SPARK_3.1@0.13.0
+- pkg:maven/com.intel.analytics.bigdl/bigdl-SPARK_3.1@0.13.0?classifier=sources

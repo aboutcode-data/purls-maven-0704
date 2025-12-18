@@ -1,0 +1,2 @@
+- pkg:maven/com.metaversant/acl-templates-repo@1.0.1
+- pkg:maven/com.metaversant/acl-templates-repo@1.0.1?classifier=sources

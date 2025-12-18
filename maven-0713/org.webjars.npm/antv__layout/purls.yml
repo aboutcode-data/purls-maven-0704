@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/antv__layout@0.1.19-beta
+- pkg:maven/org.webjars.npm/antv__layout@0.1.19-beta?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.ufoss.kolog/kolog-android-debug@0.4?classifier=sources
+- pkg:maven/org.ufoss.kolog/kolog-android-debug@0.5?classifier=sources

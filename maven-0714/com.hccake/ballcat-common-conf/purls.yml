@@ -18,3 +18,5 @@
 - pkg:maven/com.hccake/ballcat-common-conf@0.0.9?classifier=sources
 - pkg:maven/com.hccake/ballcat-common-conf@0.1.0
 - pkg:maven/com.hccake/ballcat-common-conf@0.1.0?classifier=sources
+- pkg:maven/com.hccake/ballcat-common-conf@0.2.0
+- pkg:maven/com.hccake/ballcat-common-conf@0.2.0?classifier=sources
