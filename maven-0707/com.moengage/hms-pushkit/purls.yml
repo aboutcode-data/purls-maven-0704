@@ -6,3 +6,4 @@
 - pkg:maven/com.moengage/hms-pushkit@2.2.00?classifier=sources
 - pkg:maven/com.moengage/hms-pushkit@2.3.00?classifier=sources
 - pkg:maven/com.moengage/hms-pushkit@2.4.00?classifier=sources
+- pkg:maven/com.moengage/hms-pushkit@3.0.0?classifier=sources

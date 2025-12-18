@@ -15,3 +15,4 @@
 - pkg:maven/com.github.jobservice/job-service-ui@3.4.0-834?type=war
 - pkg:maven/com.github.jobservice/job-service-ui@3.5.0-979?type=war
 - pkg:maven/com.github.jobservice/job-service-ui@4.0.0-1076?type=war
+- pkg:maven/com.github.jobservice/job-service-ui@5.0.0-4?type=war

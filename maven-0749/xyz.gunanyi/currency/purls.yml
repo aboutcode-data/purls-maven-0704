@@ -1,0 +1,12 @@
+- pkg:maven/xyz.gunanyi/currency@1.0.0
+- pkg:maven/xyz.gunanyi/currency@1.0.0?classifier=sources
+- pkg:maven/xyz.gunanyi/currency@1.0.1
+- pkg:maven/xyz.gunanyi/currency@1.0.1?classifier=sources
+- pkg:maven/xyz.gunanyi/currency@1.0.2
+- pkg:maven/xyz.gunanyi/currency@1.0.2?classifier=sources
+- pkg:maven/xyz.gunanyi/currency@1.0.4
+- pkg:maven/xyz.gunanyi/currency@1.0.4?classifier=sources
+- pkg:maven/xyz.gunanyi/currency@1.0.5
+- pkg:maven/xyz.gunanyi/currency@1.0.5?classifier=sources
+- pkg:maven/xyz.gunanyi/currency@1.0.6
+- pkg:maven/xyz.gunanyi/currency@1.0.6?classifier=sources

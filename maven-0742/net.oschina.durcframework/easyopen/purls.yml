@@ -47,6 +47,8 @@
 - pkg:maven/net.oschina.durcframework/easyopen@1.15.2
 - pkg:maven/net.oschina.durcframework/easyopen@1.15.20
 - pkg:maven/net.oschina.durcframework/easyopen@1.15.20?classifier=sources
+- pkg:maven/net.oschina.durcframework/easyopen@1.15.21
+- pkg:maven/net.oschina.durcframework/easyopen@1.15.21?classifier=sources
 - pkg:maven/net.oschina.durcframework/easyopen@1.15.2?classifier=sources
 - pkg:maven/net.oschina.durcframework/easyopen@1.16.0
 - pkg:maven/net.oschina.durcframework/easyopen@1.16.0?classifier=sources
@@ -71,6 +73,8 @@
 - pkg:maven/net.oschina.durcframework/easyopen@1.16.16?classifier=sources
 - pkg:maven/net.oschina.durcframework/easyopen@1.16.17
 - pkg:maven/net.oschina.durcframework/easyopen@1.16.17?classifier=sources
+- pkg:maven/net.oschina.durcframework/easyopen@1.16.18
+- pkg:maven/net.oschina.durcframework/easyopen@1.16.18?classifier=sources
 - pkg:maven/net.oschina.durcframework/easyopen@1.16.1?classifier=sources
 - pkg:maven/net.oschina.durcframework/easyopen@1.16.2
 - pkg:maven/net.oschina.durcframework/easyopen@1.16.2?classifier=sources

@@ -16,6 +16,8 @@
 - pkg:maven/com.x-breeze.test/CrossTestInformaticaPowerCenter@1.0.14?classifier=sources
 - pkg:maven/com.x-breeze.test/CrossTestInformaticaPowerCenter@1.0.15
 - pkg:maven/com.x-breeze.test/CrossTestInformaticaPowerCenter@1.0.15?classifier=sources
+- pkg:maven/com.x-breeze.test/CrossTestInformaticaPowerCenter@1.0.16
+- pkg:maven/com.x-breeze.test/CrossTestInformaticaPowerCenter@1.0.16?classifier=sources
 - pkg:maven/com.x-breeze.test/CrossTestInformaticaPowerCenter@1.0.3
 - pkg:maven/com.x-breeze.test/CrossTestInformaticaPowerCenter@1.0.3?classifier=sources
 - pkg:maven/com.x-breeze.test/CrossTestInformaticaPowerCenter@1.0.4

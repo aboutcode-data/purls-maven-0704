@@ -39,3 +39,7 @@
 - pkg:maven/io.nosqlbench/drivers-api@4.15.58
 - pkg:maven/io.nosqlbench/drivers-api@4.15.59
 - pkg:maven/io.nosqlbench/drivers-api@4.15.60
+- pkg:maven/io.nosqlbench/drivers-api@4.15.61
+- pkg:maven/io.nosqlbench/drivers-api@4.15.62
+- pkg:maven/io.nosqlbench/drivers-api@4.15.63
+- pkg:maven/io.nosqlbench/drivers-api@4.15.64

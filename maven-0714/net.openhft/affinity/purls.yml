@@ -84,3 +84,7 @@
 - pkg:maven/net.openhft/affinity@3.21ea5?classifier=sources
 - pkg:maven/net.openhft/affinity@3.21ea80
 - pkg:maven/net.openhft/affinity@3.21ea80?classifier=sources
+- pkg:maven/net.openhft/affinity@3.21ea81
+- pkg:maven/net.openhft/affinity@3.21ea81?classifier=sources
+- pkg:maven/net.openhft/affinity@3.21ea82
+- pkg:maven/net.openhft/affinity@3.21ea82?classifier=sources

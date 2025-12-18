@@ -1,0 +1,2 @@
+- pkg:maven/io.github.cdancy/jenkins-rest@0.0.30?classifier=sources
+- pkg:maven/io.github.cdancy/jenkins-rest@0.0.31?classifier=sources

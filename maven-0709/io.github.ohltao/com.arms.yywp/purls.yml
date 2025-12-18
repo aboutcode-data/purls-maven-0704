@@ -4,3 +4,9 @@
 - pkg:maven/io.github.ohltao/com.arms.yywp@1.2?classifier=sources
 - pkg:maven/io.github.ohltao/com.arms.yywp@1.3
 - pkg:maven/io.github.ohltao/com.arms.yywp@1.3?classifier=sources
+- pkg:maven/io.github.ohltao/com.arms.yywp@1.5
+- pkg:maven/io.github.ohltao/com.arms.yywp@1.5?classifier=sources
+- pkg:maven/io.github.ohltao/com.arms.yywp@1.6
+- pkg:maven/io.github.ohltao/com.arms.yywp@1.6?classifier=sources
+- pkg:maven/io.github.ohltao/com.arms.yywp@1.8
+- pkg:maven/io.github.ohltao/com.arms.yywp@1.8?classifier=sources

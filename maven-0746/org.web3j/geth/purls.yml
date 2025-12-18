@@ -138,6 +138,8 @@
 - pkg:maven/org.web3j/geth@4.8.8-android
 - pkg:maven/org.web3j/geth@4.8.8-android?classifier=sources
 - pkg:maven/org.web3j/geth@4.8.8?classifier=sources
+- pkg:maven/org.web3j/geth@4.8.9
+- pkg:maven/org.web3j/geth@4.8.9?classifier=sources
 - pkg:maven/org.web3j/geth@5.0.0
 - pkg:maven/org.web3j/geth@5.0.0?classifier=sources
 - pkg:maven/org.web3j/geth@REF

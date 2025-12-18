@@ -19,3 +19,5 @@
 - pkg:maven/com.liferay/com.liferay.portal.tools.theme.builder@1.1.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.tools.theme.builder@1.1.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.tools.theme.builder@1.1.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.tools.theme.builder@1.1.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.tools.theme.builder@1.1.9?classifier=sources-commercial

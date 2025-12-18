@@ -8,3 +8,6 @@
 - pkg:maven/io.getstream/stream-chat-android-compose@4.18.0-beta?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-compose@4.19.0-beta?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-compose@4.20.0-beta?classifier=sources
+- pkg:maven/io.getstream/stream-chat-android-compose@4.21.0-beta?classifier=sources
+- pkg:maven/io.getstream/stream-chat-android-compose@4.22.0-beta?classifier=sources
+- pkg:maven/io.getstream/stream-chat-android-compose@4.23.0-beta?classifier=sources

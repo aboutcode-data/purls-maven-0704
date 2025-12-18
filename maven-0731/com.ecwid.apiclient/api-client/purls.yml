@@ -95,6 +95,12 @@
 - pkg:maven/com.ecwid.apiclient/api-client@0.83.0?classifier=sources
 - pkg:maven/com.ecwid.apiclient/api-client@0.84.0?classifier=sources
 - pkg:maven/com.ecwid.apiclient/api-client@0.85.0?classifier=sources
+- pkg:maven/com.ecwid.apiclient/api-client@0.86.0?classifier=sources
+- pkg:maven/com.ecwid.apiclient/api-client@0.87.0?classifier=sources
+- pkg:maven/com.ecwid.apiclient/api-client@0.88.0?classifier=sources
+- pkg:maven/com.ecwid.apiclient/api-client@0.89.0?classifier=sources
 - pkg:maven/com.ecwid.apiclient/api-client@0.8?classifier=sources
 - pkg:maven/com.ecwid.apiclient/api-client@0.9
+- pkg:maven/com.ecwid.apiclient/api-client@0.90.0?classifier=sources
+- pkg:maven/com.ecwid.apiclient/api-client@0.91.0?classifier=sources
 - pkg:maven/com.ecwid.apiclient/api-client@0.9?classifier=sources

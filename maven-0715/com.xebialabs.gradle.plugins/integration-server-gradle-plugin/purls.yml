@@ -25,6 +25,16 @@
 - pkg:maven/com.xebialabs.gradle.plugins/integration-server-gradle-plugin@10.4.0-1006.1802?classifier=sources
 - pkg:maven/com.xebialabs.gradle.plugins/integration-server-gradle-plugin@10.4.0-1012.916?classifier=sources
 - pkg:maven/com.xebialabs.gradle.plugins/integration-server-gradle-plugin@10.4.0-1014.1652?classifier=sources
+- pkg:maven/com.xebialabs.gradle.plugins/integration-server-gradle-plugin@10.4.0-1019.1033?classifier=sources
+- pkg:maven/com.xebialabs.gradle.plugins/integration-server-gradle-plugin@10.4.0-1019.1102?classifier=sources
+- pkg:maven/com.xebialabs.gradle.plugins/integration-server-gradle-plugin@10.4.0-1019.1638?classifier=sources
+- pkg:maven/com.xebialabs.gradle.plugins/integration-server-gradle-plugin@10.4.0-1021.1337?classifier=sources
+- pkg:maven/com.xebialabs.gradle.plugins/integration-server-gradle-plugin@10.4.0-1022.1114?classifier=sources
+- pkg:maven/com.xebialabs.gradle.plugins/integration-server-gradle-plugin@10.4.0-1022.926?classifier=sources
+- pkg:maven/com.xebialabs.gradle.plugins/integration-server-gradle-plugin@10.4.0-1025.921?classifier=sources
+- pkg:maven/com.xebialabs.gradle.plugins/integration-server-gradle-plugin@10.4.0-1029.1050?classifier=sources
+- pkg:maven/com.xebialabs.gradle.plugins/integration-server-gradle-plugin@10.4.0-1101.1427?classifier=sources
+- pkg:maven/com.xebialabs.gradle.plugins/integration-server-gradle-plugin@10.4.0-1101.640?classifier=sources
 - pkg:maven/com.xebialabs.gradle.plugins/integration-server-gradle-plugin@10.4.0-930.1622?classifier=sources
 - pkg:maven/com.xebialabs.gradle.plugins/integration-server-gradle-plugin@10.4.0-930.1634?classifier=sources
 - pkg:maven/com.xebialabs.gradle.plugins/integration-server-gradle-plugin@10.4.0-930.1652?classifier=sources

@@ -84,3 +84,7 @@
 - pkg:maven/org.jboss.resteasy/resteasy-spring-web@4.7.1.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-spring-web@4.7.2.Final
 - pkg:maven/org.jboss.resteasy/resteasy-spring-web@4.7.2.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-spring-web@4.7.3.Final
+- pkg:maven/org.jboss.resteasy/resteasy-spring-web@4.7.3.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-spring-web@4.7.4.Final
+- pkg:maven/org.jboss.resteasy/resteasy-spring-web@4.7.4.Final?classifier=sources

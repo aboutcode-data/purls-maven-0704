@@ -10,6 +10,10 @@
 - pkg:maven/cloud.piranha.extension/piranha-extension-jakartaee@20.9.0?classifier=sources
 - pkg:maven/cloud.piranha.extension/piranha-extension-jakartaee@21.1.0
 - pkg:maven/cloud.piranha.extension/piranha-extension-jakartaee@21.1.0?classifier=sources
+- pkg:maven/cloud.piranha.extension/piranha-extension-jakartaee@21.10.0
+- pkg:maven/cloud.piranha.extension/piranha-extension-jakartaee@21.10.0?classifier=sources
+- pkg:maven/cloud.piranha.extension/piranha-extension-jakartaee@21.11.0
+- pkg:maven/cloud.piranha.extension/piranha-extension-jakartaee@21.11.0?classifier=sources
 - pkg:maven/cloud.piranha.extension/piranha-extension-jakartaee@21.2.0
 - pkg:maven/cloud.piranha.extension/piranha-extension-jakartaee@21.2.0?classifier=sources
 - pkg:maven/cloud.piranha.extension/piranha-extension-jakartaee@21.3.0

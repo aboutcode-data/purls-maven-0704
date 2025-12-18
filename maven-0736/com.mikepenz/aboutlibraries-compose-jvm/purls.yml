@@ -1,0 +1,6 @@
+- pkg:maven/com.mikepenz/aboutlibraries-compose-jvm@10.0.0-a04?classifier=sources
+- pkg:maven/com.mikepenz/aboutlibraries-compose-jvm@10.0.0-a05?classifier=sources
+- pkg:maven/com.mikepenz/aboutlibraries-compose-jvm@10.0.0-a06?classifier=sources
+- pkg:maven/com.mikepenz/aboutlibraries-compose-jvm@10.0.0-a07?classifier=sources
+- pkg:maven/com.mikepenz/aboutlibraries-compose-jvm@10.0.0-b01?classifier=sources
+- pkg:maven/com.mikepenz/aboutlibraries-compose-jvm@10.0.0-b02?classifier=sources

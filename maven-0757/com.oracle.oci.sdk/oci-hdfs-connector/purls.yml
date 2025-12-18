@@ -32,3 +32,5 @@
 - pkg:maven/com.oracle.oci.sdk/oci-hdfs-connector@3.3.0.7.0.1?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-hdfs-connector@3.3.1.0.0.0
 - pkg:maven/com.oracle.oci.sdk/oci-hdfs-connector@3.3.1.0.0.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-hdfs-connector@3.3.1.0.0.1
+- pkg:maven/com.oracle.oci.sdk/oci-hdfs-connector@3.3.1.0.0.1?classifier=sources

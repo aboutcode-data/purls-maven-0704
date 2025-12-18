@@ -5,6 +5,10 @@
 - pkg:maven/io.molr/molr-gui-fx@0.3.11?classifier=sources
 - pkg:maven/io.molr/molr-gui-fx@0.3.13
 - pkg:maven/io.molr/molr-gui-fx@0.3.13?classifier=sources
+- pkg:maven/io.molr/molr-gui-fx@0.3.14
+- pkg:maven/io.molr/molr-gui-fx@0.3.14?classifier=sources
+- pkg:maven/io.molr/molr-gui-fx@0.3.15
+- pkg:maven/io.molr/molr-gui-fx@0.3.15?classifier=sources
 - pkg:maven/io.molr/molr-gui-fx@0.3.1?classifier=sources
 - pkg:maven/io.molr/molr-gui-fx@0.3.4
 - pkg:maven/io.molr/molr-gui-fx@0.3.4?classifier=sources

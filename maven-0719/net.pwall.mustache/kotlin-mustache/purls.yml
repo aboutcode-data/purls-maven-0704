@@ -14,3 +14,5 @@
 - pkg:maven/net.pwall.mustache/kotlin-mustache@0.7?classifier=sources
 - pkg:maven/net.pwall.mustache/kotlin-mustache@0.8
 - pkg:maven/net.pwall.mustache/kotlin-mustache@0.8?classifier=sources
+- pkg:maven/net.pwall.mustache/kotlin-mustache@0.9
+- pkg:maven/net.pwall.mustache/kotlin-mustache@0.9?classifier=sources

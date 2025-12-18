@@ -11,4 +11,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-eclipselinkmodelgen@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-eclipselinkmodelgen@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-eclipselinkmodelgen@RELEASE125?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-eclipselinkmodelgen@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-eclipselinkmodelgen@RELEASE90?classifier=sources

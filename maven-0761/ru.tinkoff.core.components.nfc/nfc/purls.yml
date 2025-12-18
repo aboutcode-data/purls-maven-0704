@@ -1,0 +1,2 @@
+- pkg:maven/ru.tinkoff.core.components.nfc/nfc@1.0.2?classifier=sources
+- pkg:maven/ru.tinkoff.core.components.nfc/nfc@1.0.2?type=aar

@@ -1,0 +1,6 @@
+- pkg:maven/ml.karmaconfigs/RemoteMessaging@1.0.0
+- pkg:maven/ml.karmaconfigs/RemoteMessaging@1.0.0?classifier=sources
+- pkg:maven/ml.karmaconfigs/RemoteMessaging@1.0.1
+- pkg:maven/ml.karmaconfigs/RemoteMessaging@1.0.1?classifier=sources
+- pkg:maven/ml.karmaconfigs/RemoteMessaging@1.0.2
+- pkg:maven/ml.karmaconfigs/RemoteMessaging@1.0.2?classifier=sources

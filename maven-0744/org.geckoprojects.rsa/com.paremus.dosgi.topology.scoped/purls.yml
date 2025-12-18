@@ -1,0 +1,2 @@
+- pkg:maven/org.geckoprojects.rsa/com.paremus.dosgi.topology.scoped@1.0.0
+- pkg:maven/org.geckoprojects.rsa/com.paremus.dosgi.topology.scoped@1.0.0?classifier=sources

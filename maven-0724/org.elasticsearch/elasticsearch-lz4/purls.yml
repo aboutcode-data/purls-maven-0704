@@ -1,0 +1,4 @@
+- pkg:maven/org.elasticsearch/elasticsearch-lz4@7.16.0
+- pkg:maven/org.elasticsearch/elasticsearch-lz4@7.16.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-lz4@8.0.0-beta1
+- pkg:maven/org.elasticsearch/elasticsearch-lz4@8.0.0-beta1?classifier=sources

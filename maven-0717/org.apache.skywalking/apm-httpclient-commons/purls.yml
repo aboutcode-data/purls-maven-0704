@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.skywalking/apm-httpclient-commons@8.6.0?classifier=sources
 - pkg:maven/org.apache.skywalking/apm-httpclient-commons@8.7.0
 - pkg:maven/org.apache.skywalking/apm-httpclient-commons@8.7.0?classifier=sources
+- pkg:maven/org.apache.skywalking/apm-httpclient-commons@8.8.0
+- pkg:maven/org.apache.skywalking/apm-httpclient-commons@8.8.0?classifier=sources

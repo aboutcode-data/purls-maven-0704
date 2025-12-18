@@ -18,3 +18,5 @@
 - pkg:maven/dev.b3nedikt.viewpump/viewpump@4.0.6?type=aar
 - pkg:maven/dev.b3nedikt.viewpump/viewpump@4.0.7?classifier=sources
 - pkg:maven/dev.b3nedikt.viewpump/viewpump@4.0.7?type=aar
+- pkg:maven/dev.b3nedikt.viewpump/viewpump@4.0.8?classifier=sources
+- pkg:maven/dev.b3nedikt.viewpump/viewpump@4.0.9?classifier=sources

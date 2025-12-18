@@ -1,0 +1,2 @@
+- pkg:maven/com.github.gv2011/tools-textconv-core@0.8
+- pkg:maven/com.github.gv2011/tools-textconv-core@0.8?classifier=sources

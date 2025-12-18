@@ -1,0 +1,2 @@
+- pkg:maven/cn.surcode/upyun-sdk-spring-boot-starter@v1.0.0
+- pkg:maven/cn.surcode/upyun-sdk-spring-boot-starter@v1.0.0?classifier=sources

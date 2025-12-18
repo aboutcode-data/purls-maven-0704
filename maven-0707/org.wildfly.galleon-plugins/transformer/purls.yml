@@ -44,3 +44,7 @@
 - pkg:maven/org.wildfly.galleon-plugins/transformer@5.2.3.Final?classifier=sources
 - pkg:maven/org.wildfly.galleon-plugins/transformer@5.2.4.Final
 - pkg:maven/org.wildfly.galleon-plugins/transformer@5.2.4.Final?classifier=sources
+- pkg:maven/org.wildfly.galleon-plugins/transformer@5.2.5.Final
+- pkg:maven/org.wildfly.galleon-plugins/transformer@5.2.5.Final?classifier=sources
+- pkg:maven/org.wildfly.galleon-plugins/transformer@5.2.6.Final
+- pkg:maven/org.wildfly.galleon-plugins/transformer@5.2.6.Final?classifier=sources

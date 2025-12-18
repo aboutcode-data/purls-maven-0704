@@ -1,0 +1,2 @@
+- pkg:maven/org.mortbay.jetty.quic.libquiche/jetty-quiche-native@0.10.0
+- pkg:maven/org.mortbay.jetty.quic.libquiche/jetty-quiche-native@0.10.0?classifier=sources

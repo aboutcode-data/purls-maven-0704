@@ -1,0 +1,2 @@
+- pkg:maven/cn.majingjing/cache-client@2.0.1
+- pkg:maven/cn.majingjing/cache-client@2.0.1?classifier=sources

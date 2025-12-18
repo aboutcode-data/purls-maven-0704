@@ -30,6 +30,12 @@
 - pkg:maven/de.sciss/mellite-core_2.12@3.0.0?classifier=sources
 - pkg:maven/de.sciss/mellite-core_2.12@3.1.0
 - pkg:maven/de.sciss/mellite-core_2.12@3.1.0?classifier=sources
+- pkg:maven/de.sciss/mellite-core_2.12@3.10.0
+- pkg:maven/de.sciss/mellite-core_2.12@3.10.0?classifier=sources
+- pkg:maven/de.sciss/mellite-core_2.12@3.10.1
+- pkg:maven/de.sciss/mellite-core_2.12@3.10.1?classifier=sources
+- pkg:maven/de.sciss/mellite-core_2.12@3.10.2
+- pkg:maven/de.sciss/mellite-core_2.12@3.10.2?classifier=sources
 - pkg:maven/de.sciss/mellite-core_2.12@3.2.0
 - pkg:maven/de.sciss/mellite-core_2.12@3.2.0?classifier=sources
 - pkg:maven/de.sciss/mellite-core_2.12@3.2.2
@@ -54,3 +60,7 @@
 - pkg:maven/de.sciss/mellite-core_2.12@3.7.0?classifier=sources
 - pkg:maven/de.sciss/mellite-core_2.12@3.8.0
 - pkg:maven/de.sciss/mellite-core_2.12@3.8.0?classifier=sources
+- pkg:maven/de.sciss/mellite-core_2.12@3.9.0
+- pkg:maven/de.sciss/mellite-core_2.12@3.9.0?classifier=sources
+- pkg:maven/de.sciss/mellite-core_2.12@3.9.2
+- pkg:maven/de.sciss/mellite-core_2.12@3.9.2?classifier=sources

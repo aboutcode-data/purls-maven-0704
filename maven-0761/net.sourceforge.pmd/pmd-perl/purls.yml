@@ -96,6 +96,10 @@
 - pkg:maven/net.sourceforge.pmd/pmd-perl@6.39.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-perl@6.4.0
 - pkg:maven/net.sourceforge.pmd/pmd-perl@6.4.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-perl@6.40.0
+- pkg:maven/net.sourceforge.pmd/pmd-perl@6.40.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-perl@6.41.0
+- pkg:maven/net.sourceforge.pmd/pmd-perl@6.41.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-perl@6.5.0
 - pkg:maven/net.sourceforge.pmd/pmd-perl@6.5.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-perl@6.6.0

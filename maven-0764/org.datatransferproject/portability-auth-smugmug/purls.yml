@@ -4,3 +4,5 @@
 - pkg:maven/org.datatransferproject/portability-auth-smugmug@0.3.57?classifier=sources
 - pkg:maven/org.datatransferproject/portability-auth-smugmug@0.3.58
 - pkg:maven/org.datatransferproject/portability-auth-smugmug@0.3.58?classifier=sources
+- pkg:maven/org.datatransferproject/portability-auth-smugmug@0.3.59
+- pkg:maven/org.datatransferproject/portability-auth-smugmug@0.3.59?classifier=sources

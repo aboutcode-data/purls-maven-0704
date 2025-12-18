@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/cas20200630@0.20200630.0
+- pkg:maven/com.aliyun/cas20200630@0.20200630.0?classifier=sources

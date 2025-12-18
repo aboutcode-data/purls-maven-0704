@@ -1,2 +1,4 @@
 - pkg:maven/io.github.cquiroz/cldr-api_3@2.7.0
 - pkg:maven/io.github.cquiroz/cldr-api_3@2.7.0?classifier=sources
+- pkg:maven/io.github.cquiroz/cldr-api_3@3.0.0
+- pkg:maven/io.github.cquiroz/cldr-api_3@3.0.0?classifier=sources

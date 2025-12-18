@@ -1,0 +1,4 @@
+- pkg:maven/org.drewcarlson/mobiuskt-core-watchosx64@0.2.0?classifier=sources
+- pkg:maven/org.drewcarlson/mobiuskt-core-watchosx64@0.2.1?classifier=sources
+- pkg:maven/org.drewcarlson/mobiuskt-core-watchosx64@0.3.0?classifier=sources
+- pkg:maven/org.drewcarlson/mobiuskt-core-watchosx64@v0.2.0?classifier=sources

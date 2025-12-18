@@ -1,0 +1,6 @@
+- pkg:maven/foundation.fluent.api/run@1.0
+- pkg:maven/foundation.fluent.api/run@1.0?classifier=sources
+- pkg:maven/foundation.fluent.api/run@1.1
+- pkg:maven/foundation.fluent.api/run@1.1?classifier=sources
+- pkg:maven/foundation.fluent.api/run@1.2
+- pkg:maven/foundation.fluent.api/run@1.2?classifier=sources

@@ -2,3 +2,6 @@
 - pkg:maven/org.wso2.am.choreo.connect/choreo-connect-parent@0.9.0-alpha?classifier=source-release&type=zip
 - pkg:maven/org.wso2.am.choreo.connect/choreo-connect-parent@0.9.0-beta?classifier=source-release&type=zip
 - pkg:maven/org.wso2.am.choreo.connect/choreo-connect-parent@0.9.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.am.choreo.connect/choreo-connect-parent@1.0.0-alpha?classifier=source-release&type=zip
+- pkg:maven/org.wso2.am.choreo.connect/choreo-connect-parent@1.0.0-beta?classifier=source-release&type=zip
+- pkg:maven/org.wso2.am.choreo.connect/choreo-connect-parent@1.0.0-m3?classifier=source-release&type=zip

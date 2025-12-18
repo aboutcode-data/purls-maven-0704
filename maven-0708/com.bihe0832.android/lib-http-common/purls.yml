@@ -1,6 +1,11 @@
 - pkg:maven/com.bihe0832.android/lib-http-common@4.1.0?type=aar
 - pkg:maven/com.bihe0832.android/lib-http-common@4.12.13?type=aar
 - pkg:maven/com.bihe0832.android/lib-http-common@4.13.5?type=aar
+- pkg:maven/com.bihe0832.android/lib-http-common@4.14.0?type=aar
+- pkg:maven/com.bihe0832.android/lib-http-common@4.14.10?type=aar
+- pkg:maven/com.bihe0832.android/lib-http-common@4.14.17?type=aar
+- pkg:maven/com.bihe0832.android/lib-http-common@4.14.4?type=aar
+- pkg:maven/com.bihe0832.android/lib-http-common@4.14.9?type=aar
 - pkg:maven/com.bihe0832.android/lib-http-common@4.7.16?type=aar
 - pkg:maven/com.bihe0832.android/lib-http-common@4.8.2?type=aar
 - pkg:maven/com.bihe0832.android/lib-http-common@4.8.9?type=aar

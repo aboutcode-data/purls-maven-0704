@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.nifi/nifi-kerberos-user-service-nar@1.15.0?classifier=sources

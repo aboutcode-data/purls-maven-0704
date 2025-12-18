@@ -1,3 +1,5 @@
+- pkg:maven/io.github.vdavidp/jpa-filter-spring@0.10.0
+- pkg:maven/io.github.vdavidp/jpa-filter-spring@0.10.0?classifier=sources
 - pkg:maven/io.github.vdavidp/jpa-filter-spring@0.2.1
 - pkg:maven/io.github.vdavidp/jpa-filter-spring@0.2.1?classifier=sources
 - pkg:maven/io.github.vdavidp/jpa-filter-spring@0.3.0
@@ -12,3 +14,5 @@
 - pkg:maven/io.github.vdavidp/jpa-filter-spring@0.7.0?classifier=sources
 - pkg:maven/io.github.vdavidp/jpa-filter-spring@0.8.0
 - pkg:maven/io.github.vdavidp/jpa-filter-spring@0.8.0?classifier=sources
+- pkg:maven/io.github.vdavidp/jpa-filter-spring@0.9.0
+- pkg:maven/io.github.vdavidp/jpa-filter-spring@0.9.0?classifier=sources

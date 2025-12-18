@@ -1,0 +1,2 @@
+- pkg:maven/com.adobe.aem/aem-modernize-tools.core@2.0.12
+- pkg:maven/com.adobe.aem/aem-modernize-tools.core@2.0.12?classifier=sources

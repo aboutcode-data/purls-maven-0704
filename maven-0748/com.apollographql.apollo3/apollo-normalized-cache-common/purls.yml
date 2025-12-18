@@ -5,4 +5,7 @@
 - pkg:maven/com.apollographql.apollo3/apollo-normalized-cache-common@3.0.0-alpha05?classifier=sources
 - pkg:maven/com.apollographql.apollo3/apollo-normalized-cache-common@3.0.0-alpha06?classifier=sources
 - pkg:maven/com.apollographql.apollo3/apollo-normalized-cache-common@3.0.0-alpha07?classifier=sources
+- pkg:maven/com.apollographql.apollo3/apollo-normalized-cache-common@3.0.0-beta01?classifier=sources
+- pkg:maven/com.apollographql.apollo3/apollo-normalized-cache-common@3.0.0-beta02?classifier=sources
+- pkg:maven/com.apollographql.apollo3/apollo-normalized-cache-common@3.0.0-beta03?classifier=sources
 - pkg:maven/com.apollographql.apollo3/apollo-normalized-cache-common@3.0.0-dev14?classifier=sources

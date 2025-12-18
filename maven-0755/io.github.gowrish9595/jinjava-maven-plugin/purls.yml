@@ -1,0 +1,2 @@
+- pkg:maven/io.github.gowrish9595/jinjava-maven-plugin@0.0.1.RELEASE
+- pkg:maven/io.github.gowrish9595/jinjava-maven-plugin@0.0.1.RELEASE?classifier=sources

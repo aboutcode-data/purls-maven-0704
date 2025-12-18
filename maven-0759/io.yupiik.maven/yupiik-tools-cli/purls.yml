@@ -18,3 +18,7 @@
 - pkg:maven/io.yupiik.maven/yupiik-tools-cli@1.0.19?classifier=sources
 - pkg:maven/io.yupiik.maven/yupiik-tools-cli@1.0.20
 - pkg:maven/io.yupiik.maven/yupiik-tools-cli@1.0.20?classifier=sources
+- pkg:maven/io.yupiik.maven/yupiik-tools-cli@1.0.21
+- pkg:maven/io.yupiik.maven/yupiik-tools-cli@1.0.21?classifier=sources
+- pkg:maven/io.yupiik.maven/yupiik-tools-cli@1.0.22
+- pkg:maven/io.yupiik.maven/yupiik-tools-cli@1.0.22?classifier=sources

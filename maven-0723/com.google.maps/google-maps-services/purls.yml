@@ -93,3 +93,4 @@
 - pkg:maven/com.google.maps/google-maps-services@0.9.4
 - pkg:maven/com.google.maps/google-maps-services@0.9.4?classifier=sources
 - pkg:maven/com.google.maps/google-maps-services@1.0.0?classifier=sources
+- pkg:maven/com.google.maps/google-maps-services@1.0.1?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/com.github.pliance/pliance.sdk@1.6.0?classifier=sources
 - pkg:maven/com.github.pliance/pliance.sdk@1.7.0
 - pkg:maven/com.github.pliance/pliance.sdk@1.7.0?classifier=sources
+- pkg:maven/com.github.pliance/pliance.sdk@2021.11.1
+- pkg:maven/com.github.pliance/pliance.sdk@2021.11.1?classifier=sources

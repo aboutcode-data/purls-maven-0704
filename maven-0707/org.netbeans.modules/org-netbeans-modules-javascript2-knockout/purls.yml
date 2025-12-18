@@ -11,3 +11,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-knockout@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-knockout@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-knockout@RELEASE125?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-knockout@RELEASE126?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/com.innovenso.townplanner/innovenso-townplanner-io-latex@2.1.0?classifier=sources
+- pkg:maven/com.innovenso.townplanner/innovenso-townplanner-io-latex@3.0.0?classifier=sources
+- pkg:maven/com.innovenso.townplanner/innovenso-townplanner-io-latex@3.0.1?classifier=sources

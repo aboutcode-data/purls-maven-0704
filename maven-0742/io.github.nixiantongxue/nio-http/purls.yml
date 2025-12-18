@@ -10,3 +10,15 @@
 - pkg:maven/io.github.nixiantongxue/nio-http@0.1.16-release?classifier=sources
 - pkg:maven/io.github.nixiantongxue/nio-http@0.1.17-release
 - pkg:maven/io.github.nixiantongxue/nio-http@0.1.17-release?classifier=sources
+- pkg:maven/io.github.nixiantongxue/nio-http@0.1.18-release
+- pkg:maven/io.github.nixiantongxue/nio-http@0.1.18-release?classifier=sources
+- pkg:maven/io.github.nixiantongxue/nio-http@0.1.19-release
+- pkg:maven/io.github.nixiantongxue/nio-http@0.1.19-release?classifier=sources
+- pkg:maven/io.github.nixiantongxue/nio-http@0.1.20-release
+- pkg:maven/io.github.nixiantongxue/nio-http@0.1.20-release?classifier=sources
+- pkg:maven/io.github.nixiantongxue/nio-http@0.1.21-release
+- pkg:maven/io.github.nixiantongxue/nio-http@0.1.21-release?classifier=sources
+- pkg:maven/io.github.nixiantongxue/nio-http@0.1.22-release
+- pkg:maven/io.github.nixiantongxue/nio-http@0.1.22-release?classifier=sources
+- pkg:maven/io.github.nixiantongxue/nio-http@0.1.23-release
+- pkg:maven/io.github.nixiantongxue/nio-http@0.1.23-release?classifier=sources

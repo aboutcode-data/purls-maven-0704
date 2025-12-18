@@ -10,3 +10,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-utilities@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-utilities@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-utilities@RELEASE125?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-utilities@RELEASE126?classifier=sources

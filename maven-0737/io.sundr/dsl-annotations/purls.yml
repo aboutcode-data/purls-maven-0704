@@ -214,6 +214,8 @@
 - pkg:maven/io.sundr/dsl-annotations@0.50.2?classifier=sources
 - pkg:maven/io.sundr/dsl-annotations@0.6.0
 - pkg:maven/io.sundr/dsl-annotations@0.6.0?classifier=sources
+- pkg:maven/io.sundr/dsl-annotations@0.60.0
+- pkg:maven/io.sundr/dsl-annotations@0.60.0?classifier=sources
 - pkg:maven/io.sundr/dsl-annotations@0.7
 - pkg:maven/io.sundr/dsl-annotations@0.7.0
 - pkg:maven/io.sundr/dsl-annotations@0.7.0?classifier=sources

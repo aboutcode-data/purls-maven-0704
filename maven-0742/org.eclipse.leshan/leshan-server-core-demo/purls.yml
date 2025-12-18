@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.leshan/leshan-server-core-demo@2.0.0-M5
+- pkg:maven/org.eclipse.leshan/leshan-server-core-demo@2.0.0-M5?classifier=sources

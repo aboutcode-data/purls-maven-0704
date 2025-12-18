@@ -14,3 +14,7 @@
 - pkg:maven/com.inversoft/jackson5@2.4.7?classifier=sources
 - pkg:maven/com.inversoft/jackson5@2.4.8
 - pkg:maven/com.inversoft/jackson5@2.4.8?classifier=sources
+- pkg:maven/com.inversoft/jackson5@2.5.0
+- pkg:maven/com.inversoft/jackson5@2.5.0?classifier=sources
+- pkg:maven/com.inversoft/jackson5@2.6.0
+- pkg:maven/com.inversoft/jackson5@2.6.0?classifier=sources

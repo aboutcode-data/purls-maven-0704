@@ -29,6 +29,8 @@
 - pkg:maven/com.craterdog.java-security-framework/java-certificate-management-api@3.23?classifier=sources
 - pkg:maven/com.craterdog.java-security-framework/java-certificate-management-api@3.24
 - pkg:maven/com.craterdog.java-security-framework/java-certificate-management-api@3.24?classifier=sources
+- pkg:maven/com.craterdog.java-security-framework/java-certificate-management-api@3.25
+- pkg:maven/com.craterdog.java-security-framework/java-certificate-management-api@3.25?classifier=sources
 - pkg:maven/com.craterdog.java-security-framework/java-certificate-management-api@3.2?classifier=sources
 - pkg:maven/com.craterdog.java-security-framework/java-certificate-management-api@3.3
 - pkg:maven/com.craterdog.java-security-framework/java-certificate-management-api@3.3?classifier=sources

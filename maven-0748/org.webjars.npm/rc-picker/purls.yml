@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/rc-picker@1.6.3?classifier=sources
 - pkg:maven/org.webjars.npm/rc-picker@2.4.3
 - pkg:maven/org.webjars.npm/rc-picker@2.4.3?classifier=sources
+- pkg:maven/org.webjars.npm/rc-picker@2.5.19
+- pkg:maven/org.webjars.npm/rc-picker@2.5.19?classifier=sources

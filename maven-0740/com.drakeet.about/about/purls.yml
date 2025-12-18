@@ -6,3 +6,5 @@
 - pkg:maven/com.drakeet.about/about@2.4.0?type=aar
 - pkg:maven/com.drakeet.about/about@2.4.1?classifier=sources
 - pkg:maven/com.drakeet.about/about@2.4.1?type=aar
+- pkg:maven/com.drakeet.about/about@2.5.0?classifier=sources
+- pkg:maven/com.drakeet.about/about@2.5.0?type=aar

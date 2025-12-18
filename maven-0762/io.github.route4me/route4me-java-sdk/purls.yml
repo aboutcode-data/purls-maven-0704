@@ -1,0 +1,2 @@
+- pkg:maven/io.github.route4me/route4me-java-sdk@1.6.0
+- pkg:maven/io.github.route4me/route4me-java-sdk@1.6.0?classifier=sources

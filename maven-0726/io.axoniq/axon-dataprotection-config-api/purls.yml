@@ -1,0 +1,2 @@
+- pkg:maven/io.axoniq/axon-dataprotection-config-api@1.0
+- pkg:maven/io.axoniq/axon-dataprotection-config-api@1.0?classifier=sources

@@ -7,3 +7,4 @@
 - pkg:maven/org.netbeans.external/org-apache-commons-codec@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.external/org-apache-commons-codec@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.external/org-apache-commons-codec@RELEASE125?classifier=sources
+- pkg:maven/org.netbeans.external/org-apache-commons-codec@RELEASE126?classifier=sources

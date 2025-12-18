@@ -1,2 +1,4 @@
 - pkg:maven/com.aliyun/alibabacloud-dkms-gcs-openapi@0.2.0
 - pkg:maven/com.aliyun/alibabacloud-dkms-gcs-openapi@0.2.0?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-dkms-gcs-openapi@0.2.1
+- pkg:maven/com.aliyun/alibabacloud-dkms-gcs-openapi@0.2.1?classifier=sources

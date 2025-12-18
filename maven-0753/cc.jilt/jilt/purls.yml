@@ -1,0 +1,4 @@
+- pkg:maven/cc.jilt/jilt@1.1
+- pkg:maven/cc.jilt/jilt@1.1.rc1
+- pkg:maven/cc.jilt/jilt@1.1.rc1?classifier=sources
+- pkg:maven/cc.jilt/jilt@1.1?classifier=sources

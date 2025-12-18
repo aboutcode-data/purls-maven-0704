@@ -10,3 +10,5 @@
 - pkg:maven/com.envisioniot/enos-commons-api-pojo@0.1.9?classifier=sources
 - pkg:maven/com.envisioniot/enos-commons-api-pojo@0.2.2
 - pkg:maven/com.envisioniot/enos-commons-api-pojo@0.2.2?classifier=sources
+- pkg:maven/com.envisioniot/enos-commons-api-pojo@0.2.3
+- pkg:maven/com.envisioniot/enos-commons-api-pojo@0.2.3?classifier=sources

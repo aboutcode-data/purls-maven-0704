@@ -1,2 +1,6 @@
 - pkg:maven/com.raquo/domtestutils_sjs1_3@0.14.8
 - pkg:maven/com.raquo/domtestutils_sjs1_3@0.14.8?classifier=sources
+- pkg:maven/com.raquo/domtestutils_sjs1_3@0.15.0
+- pkg:maven/com.raquo/domtestutils_sjs1_3@0.15.0?classifier=sources
+- pkg:maven/com.raquo/domtestutils_sjs1_3@0.15.1
+- pkg:maven/com.raquo/domtestutils_sjs1_3@0.15.1?classifier=sources

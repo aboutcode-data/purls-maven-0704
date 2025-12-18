@@ -1,2 +1,4 @@
+- pkg:maven/com.traveltime/traveltime-sdk-scala_2.12@2.11-backport-1.0.0
+- pkg:maven/com.traveltime/traveltime-sdk-scala_2.12@2.11-backport-1.0.0?classifier=sources
 - pkg:maven/com.traveltime/traveltime-sdk-scala_2.12@4.0.0
 - pkg:maven/com.traveltime/traveltime-sdk-scala_2.12@4.0.0?classifier=sources

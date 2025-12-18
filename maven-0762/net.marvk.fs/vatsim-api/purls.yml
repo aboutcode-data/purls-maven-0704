@@ -1,0 +1,6 @@
+- pkg:maven/net.marvk.fs/vatsim-api@0.1.0
+- pkg:maven/net.marvk.fs/vatsim-api@0.1.0?classifier=sources
+- pkg:maven/net.marvk.fs/vatsim-api@0.2.0
+- pkg:maven/net.marvk.fs/vatsim-api@0.2.0?classifier=sources
+- pkg:maven/net.marvk.fs/vatsim-api@1.0.0
+- pkg:maven/net.marvk.fs/vatsim-api@1.0.0?classifier=sources

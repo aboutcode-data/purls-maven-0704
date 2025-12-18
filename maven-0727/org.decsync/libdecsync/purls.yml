@@ -3,3 +3,4 @@
 - pkg:maven/org.decsync/libdecsync@2.0.2?classifier=sources
 - pkg:maven/org.decsync/libdecsync@2.1.1?classifier=sources
 - pkg:maven/org.decsync/libdecsync@2.1.2?classifier=sources
+- pkg:maven/org.decsync/libdecsync@2.2.0?classifier=sources

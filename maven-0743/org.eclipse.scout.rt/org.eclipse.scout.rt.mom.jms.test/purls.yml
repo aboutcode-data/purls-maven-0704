@@ -41,6 +41,10 @@
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mom.jms.test@11.0.31
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mom.jms.test@11.0.32
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mom.jms.test@11.0.36
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mom.jms.test@11.0.38
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mom.jms.test@11.0.39
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mom.jms.test@11.0.41
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mom.jms.test@11.0.42
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mom.jms.test@11.0.9
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mom.jms.test@6.1.0.B002
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mom.jms.test@6.1.0.B006

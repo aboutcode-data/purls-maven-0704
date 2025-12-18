@@ -2,3 +2,5 @@
 - pkg:maven/fi.metatavu.keycloak/keycloak-telia-identity-provider@12.0.2-1?classifier=sources
 - pkg:maven/fi.metatavu.keycloak/keycloak-telia-identity-provider@12.0.2-2
 - pkg:maven/fi.metatavu.keycloak/keycloak-telia-identity-provider@12.0.2-2?classifier=sources
+- pkg:maven/fi.metatavu.keycloak/keycloak-telia-identity-provider@15.0.2-2
+- pkg:maven/fi.metatavu.keycloak/keycloak-telia-identity-provider@15.0.2-2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/cn.dev33/sa-token-jwt@1.28.0
+- pkg:maven/cn.dev33/sa-token-jwt@1.28.0?classifier=sources

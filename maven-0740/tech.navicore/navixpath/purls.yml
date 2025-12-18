@@ -1,0 +1,4 @@
+- pkg:maven/tech.navicore/navixpath@0.9.19
+- pkg:maven/tech.navicore/navixpath@0.9.19?classifier=sources
+- pkg:maven/tech.navicore/navixpath@1.0.0
+- pkg:maven/tech.navicore/navixpath@1.0.0?classifier=sources

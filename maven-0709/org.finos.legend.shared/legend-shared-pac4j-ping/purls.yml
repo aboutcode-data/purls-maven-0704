@@ -1,0 +1,2 @@
+- pkg:maven/org.finos.legend.shared/legend-shared-pac4j-ping@0.17.0
+- pkg:maven/org.finos.legend.shared/legend-shared-pac4j-ping@0.17.0?classifier=sources

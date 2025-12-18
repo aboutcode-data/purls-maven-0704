@@ -20,3 +20,7 @@
 - pkg:maven/com.outr/fabric-core_sjs1_2.11@1.0.8?classifier=sources
 - pkg:maven/com.outr/fabric-core_sjs1_2.11@1.0.9
 - pkg:maven/com.outr/fabric-core_sjs1_2.11@1.0.9?classifier=sources
+- pkg:maven/com.outr/fabric-core_sjs1_2.11@1.1.0
+- pkg:maven/com.outr/fabric-core_sjs1_2.11@1.1.0?classifier=sources
+- pkg:maven/com.outr/fabric-core_sjs1_2.11@1.1.1
+- pkg:maven/com.outr/fabric-core_sjs1_2.11@1.1.1?classifier=sources

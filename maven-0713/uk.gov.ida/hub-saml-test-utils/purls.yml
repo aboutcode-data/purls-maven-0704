@@ -8,3 +8,4 @@
 - pkg:maven/uk.gov.ida/hub-saml-test-utils@3.4.6-15830?classifier=sources
 - pkg:maven/uk.gov.ida/hub-saml-test-utils@3.4.6-15831?classifier=sources
 - pkg:maven/uk.gov.ida/hub-saml-test-utils@3.4.6-15832?classifier=sources
+- pkg:maven/uk.gov.ida/hub-saml-test-utils@3.4.6-15833?classifier=sources

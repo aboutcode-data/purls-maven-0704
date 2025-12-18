@@ -1,3 +1,5 @@
 - pkg:maven/net.admixer.sdk.mediation/admob-pre20@1.2.3.0?type=aar
 - pkg:maven/net.admixer.sdk.mediation/admob-pre20@1.3.0.0?type=aar
 - pkg:maven/net.admixer.sdk.mediation/admob-pre20@1.3.2.0?type=aar
+- pkg:maven/net.admixer.sdk.mediation/admob-pre20@1.4.0.0?type=aar
+- pkg:maven/net.admixer.sdk.mediation/admob-pre20@1.4.1.0?type=aar

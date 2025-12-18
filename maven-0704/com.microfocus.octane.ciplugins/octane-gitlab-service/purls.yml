@@ -1,0 +1,2 @@
+- pkg:maven/com.microfocus.octane.ciplugins/octane-gitlab-service@1.1.124
+- pkg:maven/com.microfocus.octane.ciplugins/octane-gitlab-service@1.1.124?classifier=sources

@@ -5,3 +5,4 @@
 - pkg:maven/com.github.skydoves/whatif-android@1.0.9?classifier=sources
 - pkg:maven/com.github.skydoves/whatif-android@1.0.9?type=aar
 - pkg:maven/com.github.skydoves/whatif-android@1.1.0?classifier=sources
+- pkg:maven/com.github.skydoves/whatif-android@1.1.1?classifier=sources
