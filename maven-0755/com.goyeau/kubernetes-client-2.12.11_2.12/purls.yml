@@ -1,0 +1,4 @@
+- pkg:maven/com.goyeau/kubernetes-client-2.12.11_2.12@060ee76
+- pkg:maven/com.goyeau/kubernetes-client-2.12.11_2.12@060ee76?classifier=sources
+- pkg:maven/com.goyeau/kubernetes-client-2.12.11_2.12@75c7c7e
+- pkg:maven/com.goyeau/kubernetes-client-2.12.11_2.12@75c7c7e?classifier=sources

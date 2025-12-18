@@ -1,3 +1,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-servletjspapi@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-servletjspapi@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-servletjspapi@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-servletjspapi@RELEASE113?classifier=sources

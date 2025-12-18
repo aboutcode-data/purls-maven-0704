@@ -28,3 +28,7 @@
 - pkg:maven/io.prestosql/presto-atop@327?classifier=sources
 - pkg:maven/io.prestosql/presto-atop@328?classifier=sources
 - pkg:maven/io.prestosql/presto-atop@329?classifier=sources
+- pkg:maven/io.prestosql/presto-atop@330?classifier=sources
+- pkg:maven/io.prestosql/presto-atop@331?classifier=sources
+- pkg:maven/io.prestosql/presto-atop@332?classifier=sources
+- pkg:maven/io.prestosql/presto-atop@333?classifier=sources

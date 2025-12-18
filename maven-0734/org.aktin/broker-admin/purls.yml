@@ -1,3 +1,5 @@
+- pkg:maven/org.aktin/broker-admin@0.10
+- pkg:maven/org.aktin/broker-admin@0.10?classifier=sources
 - pkg:maven/org.aktin/broker-admin@0.5
 - pkg:maven/org.aktin/broker-admin@0.5?classifier=sources
 - pkg:maven/org.aktin/broker-admin@0.7

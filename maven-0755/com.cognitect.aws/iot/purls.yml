@@ -34,3 +34,11 @@
 - pkg:maven/com.cognitect.aws/iot@773.2.579.0?classifier=sources
 - pkg:maven/com.cognitect.aws/iot@784.2.592.0
 - pkg:maven/com.cognitect.aws/iot@784.2.592.0?classifier=sources
+- pkg:maven/com.cognitect.aws/iot@794.2.639.0
+- pkg:maven/com.cognitect.aws/iot@794.2.639.0?classifier=sources
+- pkg:maven/com.cognitect.aws/iot@796.2.651.0
+- pkg:maven/com.cognitect.aws/iot@796.2.651.0?classifier=sources
+- pkg:maven/com.cognitect.aws/iot@796.2.663.0
+- pkg:maven/com.cognitect.aws/iot@796.2.663.0?classifier=sources
+- pkg:maven/com.cognitect.aws/iot@796.2.667.0
+- pkg:maven/com.cognitect.aws/iot@796.2.667.0?classifier=sources

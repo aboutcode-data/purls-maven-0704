@@ -65,6 +65,12 @@
 - pkg:maven/org.fugerit.java/fj-test@0.6.5.14-b1
 - pkg:maven/org.fugerit.java/fj-test@0.6.5.14-b1?classifier=sources
 - pkg:maven/org.fugerit.java/fj-test@0.6.5.14?classifier=sources
+- pkg:maven/org.fugerit.java/fj-test@0.6.5.15
+- pkg:maven/org.fugerit.java/fj-test@0.6.5.15-b1
+- pkg:maven/org.fugerit.java/fj-test@0.6.5.15-b1?classifier=sources
+- pkg:maven/org.fugerit.java/fj-test@0.6.5.15-b2
+- pkg:maven/org.fugerit.java/fj-test@0.6.5.15-b2?classifier=sources
+- pkg:maven/org.fugerit.java/fj-test@0.6.5.15?classifier=sources
 - pkg:maven/org.fugerit.java/fj-test@0.6.5.1?classifier=sources
 - pkg:maven/org.fugerit.java/fj-test@0.6.5.2
 - pkg:maven/org.fugerit.java/fj-test@0.6.5.2?classifier=sources
@@ -82,3 +88,5 @@
 - pkg:maven/org.fugerit.java/fj-test@0.6.5.8?classifier=sources
 - pkg:maven/org.fugerit.java/fj-test@0.6.5.9
 - pkg:maven/org.fugerit.java/fj-test@0.6.5.9?classifier=sources
+- pkg:maven/org.fugerit.java/fj-test@0.7.0.0
+- pkg:maven/org.fugerit.java/fj-test@0.7.0.0?classifier=sources

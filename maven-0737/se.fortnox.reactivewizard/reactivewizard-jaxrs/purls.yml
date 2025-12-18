@@ -38,3 +38,11 @@
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs@3.3.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs@3.4.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs@3.4.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs@3.4.1
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs@3.4.1?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs@3.5.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs@3.5.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs@3.5.1
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs@3.5.1?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs@3.5.2
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs@3.5.2?classifier=sources

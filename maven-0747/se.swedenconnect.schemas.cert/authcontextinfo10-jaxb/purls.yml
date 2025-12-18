@@ -1,0 +1,2 @@
+- pkg:maven/se.swedenconnect.schemas.cert/authcontextinfo10-jaxb@1.0.1
+- pkg:maven/se.swedenconnect.schemas.cert/authcontextinfo10-jaxb@1.0.1?classifier=sources

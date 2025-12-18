@@ -1,0 +1,2 @@
+- pkg:maven/org.morphir/morphir-sdk-core_sjs0.6_2.13@0.0.3
+- pkg:maven/org.morphir/morphir-sdk-core_sjs0.6_2.13@0.0.3?classifier=sources

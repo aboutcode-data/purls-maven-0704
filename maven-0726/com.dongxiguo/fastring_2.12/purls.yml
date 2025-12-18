@@ -75,6 +75,10 @@
 - pkg:maven/com.dongxiguo/fastring_2.12@1.0.0%2B189-e2224b11?classifier=sources
 - pkg:maven/com.dongxiguo/fastring_2.12@1.0.0%2B191-290222ee
 - pkg:maven/com.dongxiguo/fastring_2.12@1.0.0%2B191-290222ee?classifier=sources
+- pkg:maven/com.dongxiguo/fastring_2.12@1.0.0%2B191-d59e6ff1
+- pkg:maven/com.dongxiguo/fastring_2.12@1.0.0%2B191-d59e6ff1?classifier=sources
 - pkg:maven/com.dongxiguo/fastring_2.12@1.0.0%2B193-3d11a29d
 - pkg:maven/com.dongxiguo/fastring_2.12@1.0.0%2B193-3d11a29d?classifier=sources
+- pkg:maven/com.dongxiguo/fastring_2.12@1.0.0%2B193-bbfda858
+- pkg:maven/com.dongxiguo/fastring_2.12@1.0.0%2B193-bbfda858?classifier=sources
 - pkg:maven/com.dongxiguo/fastring_2.12@1.0.0?classifier=sources

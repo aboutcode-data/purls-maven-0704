@@ -1,0 +1,6 @@
+- pkg:maven/org.infinispan/infinispan-spring-boot-sample-session@2.2.1.Final
+- pkg:maven/org.infinispan/infinispan-spring-boot-sample-session@2.2.1.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-spring-boot-sample-session@2.2.2.Final
+- pkg:maven/org.infinispan/infinispan-spring-boot-sample-session@2.2.2.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-spring-boot-sample-session@2.2.3.Final
+- pkg:maven/org.infinispan/infinispan-spring-boot-sample-session@2.2.3.Final?classifier=sources

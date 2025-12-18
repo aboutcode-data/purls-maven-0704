@@ -1,0 +1,6 @@
+- pkg:maven/tv.hd3g/mailkit@0.0.1
+- pkg:maven/tv.hd3g/mailkit@0.0.1?classifier=sources
+- pkg:maven/tv.hd3g/mailkit@0.2.0
+- pkg:maven/tv.hd3g/mailkit@0.2.0?classifier=sources
+- pkg:maven/tv.hd3g/mailkit@0.3.0
+- pkg:maven/tv.hd3g/mailkit@0.3.0?classifier=sources

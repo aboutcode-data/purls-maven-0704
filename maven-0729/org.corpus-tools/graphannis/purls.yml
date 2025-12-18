@@ -6,3 +6,7 @@
 - pkg:maven/org.corpus-tools/graphannis@0.25.0?classifier=sources
 - pkg:maven/org.corpus-tools/graphannis@0.26.0
 - pkg:maven/org.corpus-tools/graphannis@0.26.0?classifier=sources
+- pkg:maven/org.corpus-tools/graphannis@0.27.0
+- pkg:maven/org.corpus-tools/graphannis@0.27.0?classifier=sources
+- pkg:maven/org.corpus-tools/graphannis@0.27.1
+- pkg:maven/org.corpus-tools/graphannis@0.27.1?classifier=sources

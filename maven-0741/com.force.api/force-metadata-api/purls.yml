@@ -59,3 +59,11 @@
 - pkg:maven/com.force.api/force-metadata-api@46.1.0
 - pkg:maven/com.force.api/force-metadata-api@47.0.0
 - pkg:maven/com.force.api/force-metadata-api@47.0.0?classifier=sources
+- pkg:maven/com.force.api/force-metadata-api@48.1.0
+- pkg:maven/com.force.api/force-metadata-api@48.1.0?classifier=sources
+- pkg:maven/com.force.api/force-metadata-api@49.0.0
+- pkg:maven/com.force.api/force-metadata-api@49.0.0?classifier=sources
+- pkg:maven/com.force.api/force-metadata-api@49.1.0
+- pkg:maven/com.force.api/force-metadata-api@49.1.0?classifier=sources
+- pkg:maven/com.force.api/force-metadata-api@49.2.0
+- pkg:maven/com.force.api/force-metadata-api@49.2.0?classifier=sources

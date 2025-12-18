@@ -2,3 +2,9 @@
 - pkg:maven/com.dynatrace.tools.android/gradle-plugin@8.181.1.1009?classifier=sources
 - pkg:maven/com.dynatrace.tools.android/gradle-plugin@8.183.1.1009
 - pkg:maven/com.dynatrace.tools.android/gradle-plugin@8.183.1.1009?classifier=sources
+- pkg:maven/com.dynatrace.tools.android/gradle-plugin@8.185.1.1004
+- pkg:maven/com.dynatrace.tools.android/gradle-plugin@8.185.1.1004?classifier=sources
+- pkg:maven/com.dynatrace.tools.android/gradle-plugin@8.189.1.1008
+- pkg:maven/com.dynatrace.tools.android/gradle-plugin@8.189.1.1008?classifier=sources
+- pkg:maven/com.dynatrace.tools.android/gradle-plugin@8.191.1.1005
+- pkg:maven/com.dynatrace.tools.android/gradle-plugin@8.191.1.1005?classifier=sources

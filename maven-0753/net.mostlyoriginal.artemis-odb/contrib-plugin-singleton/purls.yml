@@ -1,0 +1,2 @@
+- pkg:maven/net.mostlyoriginal.artemis-odb/contrib-plugin-singleton@2.5.0
+- pkg:maven/net.mostlyoriginal.artemis-odb/contrib-plugin-singleton@2.5.0?classifier=sources

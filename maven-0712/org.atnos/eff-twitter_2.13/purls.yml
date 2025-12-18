@@ -2,3 +2,5 @@
 - pkg:maven/org.atnos/eff-twitter_2.13@5.5.2?classifier=sources
 - pkg:maven/org.atnos/eff-twitter_2.13@5.7.0
 - pkg:maven/org.atnos/eff-twitter_2.13@5.7.0?classifier=sources
+- pkg:maven/org.atnos/eff-twitter_2.13@5.8.0
+- pkg:maven/org.atnos/eff-twitter_2.13@5.8.0?classifier=sources

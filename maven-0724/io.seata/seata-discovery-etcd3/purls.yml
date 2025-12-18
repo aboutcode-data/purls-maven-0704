@@ -20,3 +20,7 @@
 - pkg:maven/io.seata/seata-discovery-etcd3@0.9.0?classifier=sources
 - pkg:maven/io.seata/seata-discovery-etcd3@1.0.0
 - pkg:maven/io.seata/seata-discovery-etcd3@1.0.0?classifier=sources
+- pkg:maven/io.seata/seata-discovery-etcd3@1.1.0
+- pkg:maven/io.seata/seata-discovery-etcd3@1.1.0?classifier=sources
+- pkg:maven/io.seata/seata-discovery-etcd3@1.2.0
+- pkg:maven/io.seata/seata-discovery-etcd3@1.2.0?classifier=sources

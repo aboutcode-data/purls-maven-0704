@@ -30,6 +30,8 @@
 - pkg:maven/org.apache.camel/camel-service@2.24.3?classifier=sources
 - pkg:maven/org.apache.camel/camel-service@2.25.0
 - pkg:maven/org.apache.camel/camel-service@2.25.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-service@2.25.1
+- pkg:maven/org.apache.camel/camel-service@2.25.1?classifier=sources
 - pkg:maven/org.apache.camel/camel-service@3.0.0
 - pkg:maven/org.apache.camel/camel-service@3.0.0-M1
 - pkg:maven/org.apache.camel/camel-service@3.0.0-M1?classifier=sources
@@ -48,3 +50,7 @@
 - pkg:maven/org.apache.camel/camel-service@3.0.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-service@3.0.1
 - pkg:maven/org.apache.camel/camel-service@3.0.1?classifier=sources
+- pkg:maven/org.apache.camel/camel-service@3.1.0
+- pkg:maven/org.apache.camel/camel-service@3.1.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-service@3.2.0
+- pkg:maven/org.apache.camel/camel-service@3.2.0?classifier=sources

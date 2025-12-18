@@ -2,3 +2,7 @@
 - pkg:maven/com.graphql-java-kickstart/graphql-kickstart-spring-webflux@6.0.0?classifier=sources
 - pkg:maven/com.graphql-java-kickstart/graphql-kickstart-spring-webflux@6.0.1
 - pkg:maven/com.graphql-java-kickstart/graphql-kickstart-spring-webflux@6.0.1?classifier=sources
+- pkg:maven/com.graphql-java-kickstart/graphql-kickstart-spring-webflux@7.0.0
+- pkg:maven/com.graphql-java-kickstart/graphql-kickstart-spring-webflux@7.0.0?classifier=sources
+- pkg:maven/com.graphql-java-kickstart/graphql-kickstart-spring-webflux@7.0.1
+- pkg:maven/com.graphql-java-kickstart/graphql-kickstart-spring-webflux@7.0.1?classifier=sources

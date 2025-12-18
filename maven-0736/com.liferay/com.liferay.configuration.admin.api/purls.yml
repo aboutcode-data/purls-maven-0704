@@ -34,3 +34,12 @@
 - pkg:maven/com.liferay/com.liferay.configuration.admin.api@2.1.5
 - pkg:maven/com.liferay/com.liferay.configuration.admin.api@2.1.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.configuration.admin.api@2.1.5?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.configuration.admin.api@2.1.6
+- pkg:maven/com.liferay/com.liferay.configuration.admin.api@2.1.6?classifier=sources
+- pkg:maven/com.liferay/com.liferay.configuration.admin.api@2.1.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.configuration.admin.api@2.1.7
+- pkg:maven/com.liferay/com.liferay.configuration.admin.api@2.1.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.configuration.admin.api@2.1.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.configuration.admin.api@3.0.1
+- pkg:maven/com.liferay/com.liferay.configuration.admin.api@3.0.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.configuration.admin.api@3.0.1?classifier=sources-commercial

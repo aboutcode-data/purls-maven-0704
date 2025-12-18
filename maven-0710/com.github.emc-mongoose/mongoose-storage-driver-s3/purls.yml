@@ -25,6 +25,10 @@
 - pkg:maven/com.github.emc-mongoose/mongoose-storage-driver-s3@4.2.12?classifier=sources
 - pkg:maven/com.github.emc-mongoose/mongoose-storage-driver-s3@4.2.13
 - pkg:maven/com.github.emc-mongoose/mongoose-storage-driver-s3@4.2.13?classifier=sources
+- pkg:maven/com.github.emc-mongoose/mongoose-storage-driver-s3@4.2.14
+- pkg:maven/com.github.emc-mongoose/mongoose-storage-driver-s3@4.2.14?classifier=sources
+- pkg:maven/com.github.emc-mongoose/mongoose-storage-driver-s3@4.2.15
+- pkg:maven/com.github.emc-mongoose/mongoose-storage-driver-s3@4.2.15?classifier=sources
 - pkg:maven/com.github.emc-mongoose/mongoose-storage-driver-s3@4.2.1?classifier=sources
 - pkg:maven/com.github.emc-mongoose/mongoose-storage-driver-s3@4.2.5
 - pkg:maven/com.github.emc-mongoose/mongoose-storage-driver-s3@4.2.5?classifier=sources

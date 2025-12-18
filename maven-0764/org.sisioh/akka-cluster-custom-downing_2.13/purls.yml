@@ -1,2 +1,6 @@
 - pkg:maven/org.sisioh/akka-cluster-custom-downing_2.13@0.0.18
 - pkg:maven/org.sisioh/akka-cluster-custom-downing_2.13@0.0.18?classifier=sources
+- pkg:maven/org.sisioh/akka-cluster-custom-downing_2.13@0.0.21
+- pkg:maven/org.sisioh/akka-cluster-custom-downing_2.13@0.0.21?classifier=sources
+- pkg:maven/org.sisioh/akka-cluster-custom-downing_2.13@0.1.0
+- pkg:maven/org.sisioh/akka-cluster-custom-downing_2.13@0.1.0?classifier=sources

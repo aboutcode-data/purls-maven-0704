@@ -2,5 +2,15 @@
 - pkg:maven/dev.zio/project_2.12@0.1.0?classifier=sources
 - pkg:maven/dev.zio/project_2.12@1.0.0-RC2
 - pkg:maven/dev.zio/project_2.12@1.0.0-RC2?classifier=sources
+- pkg:maven/dev.zio/project_2.12@1.0.0-RC3
+- pkg:maven/dev.zio/project_2.12@1.0.0-RC3?classifier=sources
+- pkg:maven/dev.zio/project_2.12@1.0.0-RC4
+- pkg:maven/dev.zio/project_2.12@1.0.0-RC4?classifier=sources
+- pkg:maven/dev.zio/project_2.12@1.0.0-RC5
+- pkg:maven/dev.zio/project_2.12@1.0.0-RC5?classifier=sources
+- pkg:maven/dev.zio/project_2.12@1.0.0-RC6
+- pkg:maven/dev.zio/project_2.12@1.0.0-RC6?classifier=sources
+- pkg:maven/dev.zio/project_2.12@5cc58429308eb524b562eef71be584e508ee71f7
+- pkg:maven/dev.zio/project_2.12@5cc58429308eb524b562eef71be584e508ee71f7?classifier=sources
 - pkg:maven/dev.zio/project_2.12@b49a17729750807b4087f6346f3316fc21060b50
 - pkg:maven/dev.zio/project_2.12@b49a17729750807b4087f6346f3316fc21060b50?classifier=sources

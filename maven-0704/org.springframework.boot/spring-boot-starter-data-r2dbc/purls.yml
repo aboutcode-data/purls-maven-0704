@@ -1,0 +1,1 @@
+- pkg:maven/org.springframework.boot/spring-boot-starter-data-r2dbc@2.3.0.RELEASE?classifier=sources

@@ -28,6 +28,8 @@
 - pkg:maven/org.everrest/book-service@1.14.2?type=war
 - pkg:maven/org.everrest/book-service@1.14.3?classifier=sources
 - pkg:maven/org.everrest/book-service@1.14.3?type=war
+- pkg:maven/org.everrest/book-service@1.14.4?classifier=sources
+- pkg:maven/org.everrest/book-service@1.14.4?type=war
 - pkg:maven/org.everrest/book-service@1.4.0?classifier=sources
 - pkg:maven/org.everrest/book-service@1.4.0?type=war
 - pkg:maven/org.everrest/book-service@1.5.0?classifier=sources

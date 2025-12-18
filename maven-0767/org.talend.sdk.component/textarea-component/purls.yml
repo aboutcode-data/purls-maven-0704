@@ -9,6 +9,8 @@
 - pkg:maven/org.talend.sdk.component/textarea-component@1.1.14
 - pkg:maven/org.talend.sdk.component/textarea-component@1.1.14?classifier=sources
 - pkg:maven/org.talend.sdk.component/textarea-component@1.1.15
+- pkg:maven/org.talend.sdk.component/textarea-component@1.1.15.1
+- pkg:maven/org.talend.sdk.component/textarea-component@1.1.15.1?classifier=sources
 - pkg:maven/org.talend.sdk.component/textarea-component@1.1.15?classifier=sources
 - pkg:maven/org.talend.sdk.component/textarea-component@1.1.16
 - pkg:maven/org.talend.sdk.component/textarea-component@1.1.16?classifier=sources
@@ -16,5 +18,9 @@
 - pkg:maven/org.talend.sdk.component/textarea-component@1.1.17?classifier=sources
 - pkg:maven/org.talend.sdk.component/textarea-component@1.1.18
 - pkg:maven/org.talend.sdk.component/textarea-component@1.1.18?classifier=sources
+- pkg:maven/org.talend.sdk.component/textarea-component@1.1.19
+- pkg:maven/org.talend.sdk.component/textarea-component@1.1.19?classifier=sources
+- pkg:maven/org.talend.sdk.component/textarea-component@1.1.20
+- pkg:maven/org.talend.sdk.component/textarea-component@1.1.20?classifier=sources
 - pkg:maven/org.talend.sdk.component/textarea-component@1.1.9
 - pkg:maven/org.talend.sdk.component/textarea-component@1.1.9?classifier=sources

@@ -64,3 +64,5 @@
 - pkg:maven/com.aliyun.openservices/ons-client@1.8.3.Final?classifier=sources
 - pkg:maven/com.aliyun.openservices/ons-client@1.8.4.Final
 - pkg:maven/com.aliyun.openservices/ons-client@1.8.4.Final?classifier=sources
+- pkg:maven/com.aliyun.openservices/ons-client@1.8.5.Final
+- pkg:maven/com.aliyun.openservices/ons-client@1.8.5.Final?classifier=sources

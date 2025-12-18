@@ -42,4 +42,10 @@
 - pkg:maven/com.adamratzman/spotify-api-kotlin@3.0.0-rc.5?classifier=sources
 - pkg:maven/com.adamratzman/spotify-api-kotlin@3.0.01
 - pkg:maven/com.adamratzman/spotify-api-kotlin@3.0.01?classifier=sources
+- pkg:maven/com.adamratzman/spotify-api-kotlin@3.0.02
+- pkg:maven/com.adamratzman/spotify-api-kotlin@3.0.02?classifier=sources
+- pkg:maven/com.adamratzman/spotify-api-kotlin@3.0.03
+- pkg:maven/com.adamratzman/spotify-api-kotlin@3.0.03?classifier=sources
 - pkg:maven/com.adamratzman/spotify-api-kotlin@3.0.0?classifier=sources
+- pkg:maven/com.adamratzman/spotify-api-kotlin@3.1.0-rc.1
+- pkg:maven/com.adamratzman/spotify-api-kotlin@3.1.0-rc.1?classifier=sources

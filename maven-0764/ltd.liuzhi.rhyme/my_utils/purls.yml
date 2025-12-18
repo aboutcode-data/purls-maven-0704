@@ -2,3 +2,9 @@
 - pkg:maven/ltd.liuzhi.rhyme/my_utils@1.0-RELEASE?classifier=sources
 - pkg:maven/ltd.liuzhi.rhyme/my_utils@1.01-RELEASE
 - pkg:maven/ltd.liuzhi.rhyme/my_utils@1.01-RELEASE?classifier=sources
+- pkg:maven/ltd.liuzhi.rhyme/my_utils@1.03-RELEASE
+- pkg:maven/ltd.liuzhi.rhyme/my_utils@1.03-RELEASE?classifier=sources
+- pkg:maven/ltd.liuzhi.rhyme/my_utils@1.04-RELEASE
+- pkg:maven/ltd.liuzhi.rhyme/my_utils@1.04-RELEASE?classifier=sources
+- pkg:maven/ltd.liuzhi.rhyme/my_utils@1.05-RELEASE
+- pkg:maven/ltd.liuzhi.rhyme/my_utils@1.05-RELEASE?classifier=sources

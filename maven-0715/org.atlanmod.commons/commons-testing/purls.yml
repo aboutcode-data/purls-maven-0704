@@ -1,0 +1,2 @@
+- pkg:maven/org.atlanmod.commons/commons-testing@1.0.5
+- pkg:maven/org.atlanmod.commons/commons-testing@1.0.5?classifier=sources

@@ -1,0 +1,14 @@
+- pkg:maven/com.github.cloudyrock.changock/changock-spring-v5-runner@0.0.3-BETA
+- pkg:maven/com.github.cloudyrock.changock/changock-spring-v5-runner@0.0.3-BETA?classifier=sources
+- pkg:maven/com.github.cloudyrock.changock/changock-spring-v5-runner@0.0.4-BETA
+- pkg:maven/com.github.cloudyrock.changock/changock-spring-v5-runner@0.0.4-BETA?classifier=sources
+- pkg:maven/com.github.cloudyrock.changock/changock-spring-v5-runner@0.0.5-BETA
+- pkg:maven/com.github.cloudyrock.changock/changock-spring-v5-runner@0.0.5-BETA?classifier=sources
+- pkg:maven/com.github.cloudyrock.changock/changock-spring-v5-runner@1.0.0.alpha
+- pkg:maven/com.github.cloudyrock.changock/changock-spring-v5-runner@1.0.0.alpha?classifier=sources
+- pkg:maven/com.github.cloudyrock.changock/changock-spring-v5-runner@1.0.1.alpha
+- pkg:maven/com.github.cloudyrock.changock/changock-spring-v5-runner@1.0.1.alpha?classifier=sources
+- pkg:maven/com.github.cloudyrock.changock/changock-spring-v5-runner@1.0.2.alpha
+- pkg:maven/com.github.cloudyrock.changock/changock-spring-v5-runner@1.0.2.alpha?classifier=sources
+- pkg:maven/com.github.cloudyrock.changock/changock-spring-v5-runner@1.0.3.alpha
+- pkg:maven/com.github.cloudyrock.changock/changock-spring-v5-runner@1.0.3.alpha?classifier=sources

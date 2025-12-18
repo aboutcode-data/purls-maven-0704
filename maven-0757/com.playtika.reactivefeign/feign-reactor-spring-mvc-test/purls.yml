@@ -17,3 +17,4 @@
 - pkg:maven/com.playtika.reactivefeign/feign-reactor-spring-mvc-test@1.0.45
 - pkg:maven/com.playtika.reactivefeign/feign-reactor-spring-mvc-test@1.0.46
 - pkg:maven/com.playtika.reactivefeign/feign-reactor-spring-mvc-test@2.0.0
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-spring-mvc-test@2.0.2

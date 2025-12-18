@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/types__d3-hierarchy@1.1.0
 - pkg:maven/org.webjars.npm/types__d3-hierarchy@1.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/types__d3-hierarchy@1.1.6
+- pkg:maven/org.webjars.npm/types__d3-hierarchy@1.1.6?classifier=sources

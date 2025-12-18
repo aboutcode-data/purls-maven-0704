@@ -1,0 +1,2 @@
+- pkg:maven/com.github.bogdanovmn.httpclient/http-client-translate-yandex@2.1.6
+- pkg:maven/com.github.bogdanovmn.httpclient/http-client-translate-yandex@2.1.6?classifier=sources

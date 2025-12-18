@@ -4,3 +4,7 @@
 - pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-kogito-testing@7.31.0.Final?type=war
 - pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-kogito-testing@7.32.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-kogito-testing@7.32.0.Final?type=war
+- pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-kogito-testing@7.33.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-kogito-testing@7.33.0.Final?type=war
+- pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-kogito-testing@7.34.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-kogito-testing@7.34.0.Final?type=war

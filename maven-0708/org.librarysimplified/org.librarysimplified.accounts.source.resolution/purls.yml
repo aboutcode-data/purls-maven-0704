@@ -1,2 +1,5 @@
 - pkg:maven/org.librarysimplified/org.librarysimplified.accounts.source.resolution@4.0.0?classifier=sources
 - pkg:maven/org.librarysimplified/org.librarysimplified.accounts.source.resolution@4.0.0?type=aar
+- pkg:maven/org.librarysimplified/org.librarysimplified.accounts.source.resolution@5.0.0?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.accounts.source.resolution@5.1.0?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.accounts.source.resolution@5.1.1?classifier=sources

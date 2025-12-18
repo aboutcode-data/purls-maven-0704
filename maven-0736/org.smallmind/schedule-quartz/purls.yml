@@ -16,3 +16,5 @@
 - pkg:maven/org.smallmind/schedule-quartz@3.3.24?classifier=sources
 - pkg:maven/org.smallmind/schedule-quartz@3.3.25
 - pkg:maven/org.smallmind/schedule-quartz@3.3.25?classifier=sources
+- pkg:maven/org.smallmind/schedule-quartz@3.5.0
+- pkg:maven/org.smallmind/schedule-quartz@3.5.0?classifier=sources

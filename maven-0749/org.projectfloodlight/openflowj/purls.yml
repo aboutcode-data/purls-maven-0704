@@ -82,6 +82,10 @@
 - pkg:maven/org.projectfloodlight/openflowj@3.5.546?classifier=sources
 - pkg:maven/org.projectfloodlight/openflowj@3.5.547
 - pkg:maven/org.projectfloodlight/openflowj@3.5.547?classifier=sources
+- pkg:maven/org.projectfloodlight/openflowj@3.5.554
+- pkg:maven/org.projectfloodlight/openflowj@3.5.554?classifier=sources
+- pkg:maven/org.projectfloodlight/openflowj@3.5.555
+- pkg:maven/org.projectfloodlight/openflowj@3.5.555?classifier=sources
 - pkg:maven/org.projectfloodlight/openflowj@3.5.bcf-4.7.x.2
 - pkg:maven/org.projectfloodlight/openflowj@3.5.bcf-4.7.x.2?classifier=sources
 - pkg:maven/org.projectfloodlight/openflowj@3.5.bcf-4.7.x.3

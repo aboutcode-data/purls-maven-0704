@@ -2,3 +2,4 @@
 - pkg:maven/com.blazebit/blaze-storage-testsuite-storage-ftp@0.2.1
 - pkg:maven/com.blazebit/blaze-storage-testsuite-storage-ftp@0.2.2
 - pkg:maven/com.blazebit/blaze-storage-testsuite-storage-ftp@0.2.3
+- pkg:maven/com.blazebit/blaze-storage-testsuite-storage-ftp@0.3.0

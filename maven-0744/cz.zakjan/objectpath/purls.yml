@@ -1,0 +1,4 @@
+- pkg:maven/cz.zakjan/objectpath@0.0.5
+- pkg:maven/cz.zakjan/objectpath@0.0.5?classifier=sources
+- pkg:maven/cz.zakjan/objectpath@1.0.0
+- pkg:maven/cz.zakjan/objectpath@1.0.0?classifier=sources

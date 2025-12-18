@@ -76,3 +76,5 @@
 - pkg:maven/org.symphonyoss.s2.common/S2-common-core@0.2.6?classifier=sources
 - pkg:maven/org.symphonyoss.s2.common/S2-common-core@0.2.7
 - pkg:maven/org.symphonyoss.s2.common/S2-common-core@0.2.7?classifier=sources
+- pkg:maven/org.symphonyoss.s2.common/S2-common-core@0.2.8
+- pkg:maven/org.symphonyoss.s2.common/S2-common-core@0.2.8?classifier=sources

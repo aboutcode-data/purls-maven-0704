@@ -2,3 +2,5 @@
 - pkg:maven/org.eclipse.jetty.toolchain/jetty-web-resources@1.0?classifier=sources
 - pkg:maven/org.eclipse.jetty.toolchain/jetty-web-resources@1.1
 - pkg:maven/org.eclipse.jetty.toolchain/jetty-web-resources@1.1?classifier=sources
+- pkg:maven/org.eclipse.jetty.toolchain/jetty-web-resources@1.2
+- pkg:maven/org.eclipse.jetty.toolchain/jetty-web-resources@1.2?classifier=sources

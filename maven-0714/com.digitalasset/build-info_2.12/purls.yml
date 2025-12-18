@@ -1,0 +1,6 @@
+- pkg:maven/com.digitalasset/build-info_2.12@100.13.56-snapshot.20200318.3529.0.6ea118d6
+- pkg:maven/com.digitalasset/build-info_2.12@100.13.56-snapshot.20200318.3529.0.6ea118d6?classifier=sources
+- pkg:maven/com.digitalasset/build-info_2.12@100.13.56-snapshot.20200325.3626.0.a3ddde3a
+- pkg:maven/com.digitalasset/build-info_2.12@100.13.56-snapshot.20200325.3626.0.a3ddde3a?classifier=sources
+- pkg:maven/com.digitalasset/build-info_2.12@100.13.56-snapshot.20200331.3729.0.b43b8d86
+- pkg:maven/com.digitalasset/build-info_2.12@100.13.56-snapshot.20200331.3729.0.b43b8d86?classifier=sources

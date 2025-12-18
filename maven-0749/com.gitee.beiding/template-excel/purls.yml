@@ -18,3 +18,7 @@
 - pkg:maven/com.gitee.beiding/template-excel@1.2.1-RELEASE?classifier=sources
 - pkg:maven/com.gitee.beiding/template-excel@2.0.1-RELEASE
 - pkg:maven/com.gitee.beiding/template-excel@2.0.1-RELEASE?classifier=sources
+- pkg:maven/com.gitee.beiding/template-excel@3.17-RELEASE
+- pkg:maven/com.gitee.beiding/template-excel@3.17-RELEASE?classifier=sources
+- pkg:maven/com.gitee.beiding/template-excel@3.17.1-RELEASE
+- pkg:maven/com.gitee.beiding/template-excel@3.17.1-RELEASE?classifier=sources

@@ -1,4 +1,6 @@
 - pkg:maven/org.webjars.bowergithub.nosir/cleave.js@1.4.10
 - pkg:maven/org.webjars.bowergithub.nosir/cleave.js@1.4.10?classifier=sources
+- pkg:maven/org.webjars.bowergithub.nosir/cleave.js@1.5.10
+- pkg:maven/org.webjars.bowergithub.nosir/cleave.js@1.5.10?classifier=sources
 - pkg:maven/org.webjars.bowergithub.nosir/cleave.js@1.5.3
 - pkg:maven/org.webjars.bowergithub.nosir/cleave.js@1.5.3?classifier=sources

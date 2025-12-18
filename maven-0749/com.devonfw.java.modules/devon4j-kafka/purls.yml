@@ -1,0 +1,2 @@
+- pkg:maven/com.devonfw.java.modules/devon4j-kafka@2020.04.001
+- pkg:maven/com.devonfw.java.modules/devon4j-kafka@2020.04.001?classifier=sources

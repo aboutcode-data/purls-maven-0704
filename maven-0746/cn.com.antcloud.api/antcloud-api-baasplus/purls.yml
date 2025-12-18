@@ -12,3 +12,5 @@
 - pkg:maven/cn.com.antcloud.api/antcloud-api-baasplus@1.0.34?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-baasplus@1.0.35
 - pkg:maven/cn.com.antcloud.api/antcloud-api-baasplus@1.0.35?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-baasplus@1.0.40
+- pkg:maven/cn.com.antcloud.api/antcloud-api-baasplus@1.0.40?classifier=sources

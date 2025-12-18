@@ -1,2 +1,4 @@
 - pkg:maven/com.diamondq.common/common-thirdparty.pcap4j.core@1.7.3
 - pkg:maven/com.diamondq.common/common-thirdparty.pcap4j.core@1.7.5
+- pkg:maven/com.diamondq.common/common-thirdparty.pcap4j.core@1.8.2
+- pkg:maven/com.diamondq.common/common-thirdparty.pcap4j.core@1.8.2?classifier=sources

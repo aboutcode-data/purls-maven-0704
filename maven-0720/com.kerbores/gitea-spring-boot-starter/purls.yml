@@ -1,0 +1,2 @@
+- pkg:maven/com.kerbores/gitea-spring-boot-starter@2.2.4.RELEASE
+- pkg:maven/com.kerbores/gitea-spring-boot-starter@2.2.4.RELEASE?classifier=sources

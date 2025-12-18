@@ -1,0 +1,2 @@
+- pkg:maven/site.zido/coffee-rest-security@0.2.0-release
+- pkg:maven/site.zido/coffee-rest-security@0.2.0-release?classifier=sources

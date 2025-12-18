@@ -1,0 +1,6 @@
+- pkg:maven/io.github.fortescarlet.simple-robot-component/component-jcq@0.1-1.11
+- pkg:maven/io.github.fortescarlet.simple-robot-component/component-jcq@0.1-1.11?classifier=sources
+- pkg:maven/io.github.fortescarlet.simple-robot-component/component-jcq@0.2.0-1.11
+- pkg:maven/io.github.fortescarlet.simple-robot-component/component-jcq@0.2.0-1.11?classifier=sources
+- pkg:maven/io.github.fortescarlet.simple-robot-component/component-jcq@0.3.0-1.12
+- pkg:maven/io.github.fortescarlet.simple-robot-component/component-jcq@0.3.0-1.12?classifier=sources

@@ -30,3 +30,5 @@
 - pkg:maven/xyz.luan/http-facade@2.3.0?classifier=sources
 - pkg:maven/xyz.luan/http-facade@2.4.0
 - pkg:maven/xyz.luan/http-facade@2.4.0?classifier=sources
+- pkg:maven/xyz.luan/http-facade@2.5.0
+- pkg:maven/xyz.luan/http-facade@2.5.0?classifier=sources

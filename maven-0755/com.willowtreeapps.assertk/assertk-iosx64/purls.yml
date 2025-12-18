@@ -5,3 +5,4 @@
 - pkg:maven/com.willowtreeapps.assertk/assertk-iosx64@0.19?classifier=sources
 - pkg:maven/com.willowtreeapps.assertk/assertk-iosx64@0.20?classifier=sources
 - pkg:maven/com.willowtreeapps.assertk/assertk-iosx64@0.21?classifier=sources
+- pkg:maven/com.willowtreeapps.assertk/assertk-iosx64@0.22?classifier=sources

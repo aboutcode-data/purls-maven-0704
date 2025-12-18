@@ -1,0 +1,3 @@
+- pkg:maven/io.smallrye/smallrye-graphql-client-tck@1.0.1
+- pkg:maven/io.smallrye/smallrye-graphql-client-tck@1.0.2
+- pkg:maven/io.smallrye/smallrye-graphql-client-tck@1.0.3

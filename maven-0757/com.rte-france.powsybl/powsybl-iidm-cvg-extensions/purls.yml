@@ -1,5 +1,6 @@
 - pkg:maven/com.rte-france.powsybl/powsybl-iidm-cvg-extensions@2.1.2
 - pkg:maven/com.rte-france.powsybl/powsybl-iidm-cvg-extensions@2.1.3
+- pkg:maven/com.rte-france.powsybl/powsybl-iidm-cvg-extensions@2.10.0
 - pkg:maven/com.rte-france.powsybl/powsybl-iidm-cvg-extensions@2.2.0
 - pkg:maven/com.rte-france.powsybl/powsybl-iidm-cvg-extensions@2.2.1
 - pkg:maven/com.rte-france.powsybl/powsybl-iidm-cvg-extensions@2.3.0
@@ -15,3 +16,5 @@
 - pkg:maven/com.rte-france.powsybl/powsybl-iidm-cvg-extensions@2.7.1
 - pkg:maven/com.rte-france.powsybl/powsybl-iidm-cvg-extensions@2.8.0
 - pkg:maven/com.rte-france.powsybl/powsybl-iidm-cvg-extensions@2.8.1
+- pkg:maven/com.rte-france.powsybl/powsybl-iidm-cvg-extensions@2.9.0
+- pkg:maven/com.rte-france.powsybl/powsybl-iidm-cvg-extensions@2.9.1

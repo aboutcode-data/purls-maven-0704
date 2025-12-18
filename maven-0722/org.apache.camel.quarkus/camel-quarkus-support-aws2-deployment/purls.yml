@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-aws2-deployment@1.0.0-M7
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-aws2-deployment@1.0.0-M7?classifier=sources

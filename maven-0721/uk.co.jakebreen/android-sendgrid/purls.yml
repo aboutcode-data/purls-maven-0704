@@ -1,0 +1,4 @@
+- pkg:maven/uk.co.jakebreen/android-sendgrid@1.0.0?classifier=sources
+- pkg:maven/uk.co.jakebreen/android-sendgrid@1.0.0?type=aar
+- pkg:maven/uk.co.jakebreen/android-sendgrid@1.0.1?classifier=sources
+- pkg:maven/uk.co.jakebreen/android-sendgrid@1.0.1?type=aar

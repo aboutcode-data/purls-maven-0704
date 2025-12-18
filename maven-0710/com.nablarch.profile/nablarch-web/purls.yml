@@ -4,6 +4,7 @@
 - pkg:maven/com.nablarch.profile/nablarch-web@5u13
 - pkg:maven/com.nablarch.profile/nablarch-web@5u14
 - pkg:maven/com.nablarch.profile/nablarch-web@5u15
+- pkg:maven/com.nablarch.profile/nablarch-web@5u16
 - pkg:maven/com.nablarch.profile/nablarch-web@5u6
 - pkg:maven/com.nablarch.profile/nablarch-web@5u7
 - pkg:maven/com.nablarch.profile/nablarch-web@5u8

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.krzemin/octopus-cats_sjs0.6_2.13@0.4.1
+- pkg:maven/com.github.krzemin/octopus-cats_sjs0.6_2.13@0.4.1?classifier=sources

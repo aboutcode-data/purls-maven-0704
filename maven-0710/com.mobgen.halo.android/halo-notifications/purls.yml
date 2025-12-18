@@ -14,3 +14,5 @@
 - pkg:maven/com.mobgen.halo.android/halo-notifications@2.5.4?type=aar
 - pkg:maven/com.mobgen.halo.android/halo-notifications@2.7.0?classifier=sources
 - pkg:maven/com.mobgen.halo.android/halo-notifications@2.7.0?type=aar
+- pkg:maven/com.mobgen.halo.android/halo-notifications@2.9.3?classifier=sources
+- pkg:maven/com.mobgen.halo.android/halo-notifications@2.9.3?type=aar

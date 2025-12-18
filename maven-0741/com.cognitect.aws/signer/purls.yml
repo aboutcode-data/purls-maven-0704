@@ -8,3 +8,5 @@
 - pkg:maven/com.cognitect.aws/signer@768.2.565.0?classifier=sources
 - pkg:maven/com.cognitect.aws/signer@770.2.568.0
 - pkg:maven/com.cognitect.aws/signer@770.2.568.0?classifier=sources
+- pkg:maven/com.cognitect.aws/signer@794.2.635.0
+- pkg:maven/com.cognitect.aws/signer@794.2.635.0?classifier=sources

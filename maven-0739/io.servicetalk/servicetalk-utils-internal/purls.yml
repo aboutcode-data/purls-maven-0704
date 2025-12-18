@@ -1,2 +1,6 @@
 - pkg:maven/io.servicetalk/servicetalk-utils-internal@0.21.0?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-utils-internal@0.22.0?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-utils-internal@0.23.0?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-utils-internal@0.24.0?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-utils-internal@0.25.0?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-utils-internal@0.26.0?classifier=sources

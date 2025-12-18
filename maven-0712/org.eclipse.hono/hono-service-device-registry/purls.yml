@@ -64,3 +64,5 @@
 - pkg:maven/org.eclipse.hono/hono-service-device-registry@1.1.0-M2
 - pkg:maven/org.eclipse.hono/hono-service-device-registry@1.1.0-M2?classifier=sources
 - pkg:maven/org.eclipse.hono/hono-service-device-registry@1.1.0?classifier=sources
+- pkg:maven/org.eclipse.hono/hono-service-device-registry@1.1.1
+- pkg:maven/org.eclipse.hono/hono-service-device-registry@1.1.1?classifier=sources

@@ -10,3 +10,4 @@
 - pkg:maven/org.webjars.npm/recheck-web-js@1.0.8?classifier=sources
 - pkg:maven/org.webjars.npm/recheck-web-js@1.0.9
 - pkg:maven/org.webjars.npm/recheck-web-js@1.0.9?classifier=sources
+- pkg:maven/org.webjars.npm/recheck-web-js@1.1.0

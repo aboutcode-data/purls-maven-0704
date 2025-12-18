@@ -1,2 +1,3 @@
 - pkg:maven/io.github.esentsov/kotlin-visibility@1.0.0?classifier=sources
 - pkg:maven/io.github.esentsov/kotlin-visibility@1.0.0?type=aar
+- pkg:maven/io.github.esentsov/kotlin-visibility@1.1.0?classifier=sources

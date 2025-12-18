@@ -6,3 +6,9 @@
 - pkg:maven/com.orientechnologies/orientdb-security@3.0.27?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-security@3.0.28
 - pkg:maven/com.orientechnologies/orientdb-security@3.0.28?classifier=sources
+- pkg:maven/com.orientechnologies/orientdb-security@3.0.29
+- pkg:maven/com.orientechnologies/orientdb-security@3.0.29?classifier=sources
+- pkg:maven/com.orientechnologies/orientdb-security@3.0.30
+- pkg:maven/com.orientechnologies/orientdb-security@3.0.30?classifier=sources
+- pkg:maven/com.orientechnologies/orientdb-security@3.0.31
+- pkg:maven/com.orientechnologies/orientdb-security@3.0.31?classifier=sources

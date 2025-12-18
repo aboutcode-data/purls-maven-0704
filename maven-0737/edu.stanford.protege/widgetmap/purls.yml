@@ -10,3 +10,5 @@
 - pkg:maven/edu.stanford.protege/widgetmap@2.1.2?classifier=sources
 - pkg:maven/edu.stanford.protege/widgetmap@2.1.3
 - pkg:maven/edu.stanford.protege/widgetmap@2.1.3?classifier=sources
+- pkg:maven/edu.stanford.protege/widgetmap@3.0.0
+- pkg:maven/edu.stanford.protege/widgetmap@3.0.0?classifier=sources

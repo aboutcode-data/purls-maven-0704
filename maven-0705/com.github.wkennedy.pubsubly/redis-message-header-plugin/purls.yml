@@ -1,0 +1,2 @@
+- pkg:maven/com.github.wkennedy.pubsubly/redis-message-header-plugin@1.0.0
+- pkg:maven/com.github.wkennedy.pubsubly/redis-message-header-plugin@1.0.0?classifier=sources

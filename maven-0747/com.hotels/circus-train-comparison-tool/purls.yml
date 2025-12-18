@@ -44,3 +44,7 @@
 - pkg:maven/com.hotels/circus-train-comparison-tool@15.1.0?classifier=sources
 - pkg:maven/com.hotels/circus-train-comparison-tool@15.1.1
 - pkg:maven/com.hotels/circus-train-comparison-tool@15.1.1?classifier=sources
+- pkg:maven/com.hotels/circus-train-comparison-tool@16.0.0
+- pkg:maven/com.hotels/circus-train-comparison-tool@16.0.0?classifier=sources
+- pkg:maven/com.hotels/circus-train-comparison-tool@16.1.0
+- pkg:maven/com.hotels/circus-train-comparison-tool@16.1.0?classifier=sources

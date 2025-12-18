@@ -1,0 +1,2 @@
+- pkg:maven/org.sakaiproject.datemanager.api/sakai-site-datemanager-api@20.0
+- pkg:maven/org.sakaiproject.datemanager.api/sakai-site-datemanager-api@20.0?classifier=sources

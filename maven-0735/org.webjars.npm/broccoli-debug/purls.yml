@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/broccoli-debug@0.6.5
+- pkg:maven/org.webjars.npm/broccoli-debug@0.6.5?classifier=sources

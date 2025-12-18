@@ -1,4 +1,6 @@
 - pkg:maven/dev.zio/zio-shield-api_2.12@0.1.0
 - pkg:maven/dev.zio/zio-shield-api_2.12@0.1.0?classifier=sources
+- pkg:maven/dev.zio/zio-shield-api_2.12@5cc58429308eb524b562eef71be584e508ee71f7
+- pkg:maven/dev.zio/zio-shield-api_2.12@5cc58429308eb524b562eef71be584e508ee71f7?classifier=sources
 - pkg:maven/dev.zio/zio-shield-api_2.12@b49a17729750807b4087f6346f3316fc21060b50
 - pkg:maven/dev.zio/zio-shield-api_2.12@b49a17729750807b4087f6346f3316fc21060b50?classifier=sources

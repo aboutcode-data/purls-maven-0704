@@ -112,3 +112,9 @@
 - pkg:maven/io.minio/minio@6.0.8?classifier=sources
 - pkg:maven/io.minio/minio@6.0.9
 - pkg:maven/io.minio/minio@6.0.9?classifier=sources
+- pkg:maven/io.minio/minio@7.0.0
+- pkg:maven/io.minio/minio@7.0.0?classifier=sources
+- pkg:maven/io.minio/minio@7.0.1
+- pkg:maven/io.minio/minio@7.0.1?classifier=sources
+- pkg:maven/io.minio/minio@7.0.2
+- pkg:maven/io.minio/minio@7.0.2?classifier=sources

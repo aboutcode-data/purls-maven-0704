@@ -12,3 +12,5 @@
 - pkg:maven/com.ryanstull/scalanullsafe_2.12@1.2.0?classifier=sources
 - pkg:maven/com.ryanstull/scalanullsafe_2.12@1.2.3
 - pkg:maven/com.ryanstull/scalanullsafe_2.12@1.2.3?classifier=sources
+- pkg:maven/com.ryanstull/scalanullsafe_2.12@1.2.4
+- pkg:maven/com.ryanstull/scalanullsafe_2.12@1.2.4?classifier=sources

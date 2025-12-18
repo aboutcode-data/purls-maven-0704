@@ -14,3 +14,7 @@
 - pkg:maven/com.cognitect.aws/ecr@762.2.557.0?classifier=sources
 - pkg:maven/com.cognitect.aws/ecr@770.2.568.0
 - pkg:maven/com.cognitect.aws/ecr@770.2.568.0?classifier=sources
+- pkg:maven/com.cognitect.aws/ecr@789.2.613.0
+- pkg:maven/com.cognitect.aws/ecr@789.2.613.0?classifier=sources
+- pkg:maven/com.cognitect.aws/ecr@796.2.665.0
+- pkg:maven/com.cognitect.aws/ecr@796.2.665.0?classifier=sources

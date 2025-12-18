@@ -1,0 +1,10 @@
+- pkg:maven/com.github.cerbur/gdutday-education-system-crawler@0.0.1
+- pkg:maven/com.github.cerbur/gdutday-education-system-crawler@0.0.1-BETA
+- pkg:maven/com.github.cerbur/gdutday-education-system-crawler@0.0.1-BETA?classifier=sources
+- pkg:maven/com.github.cerbur/gdutday-education-system-crawler@0.0.1-java8
+- pkg:maven/com.github.cerbur/gdutday-education-system-crawler@0.0.1-java8?classifier=sources
+- pkg:maven/com.github.cerbur/gdutday-education-system-crawler@0.0.1?classifier=sources
+- pkg:maven/com.github.cerbur/gdutday-education-system-crawler@0.0.2
+- pkg:maven/com.github.cerbur/gdutday-education-system-crawler@0.0.2?classifier=sources
+- pkg:maven/com.github.cerbur/gdutday-education-system-crawler@0.0.3
+- pkg:maven/com.github.cerbur/gdutday-education-system-crawler@0.0.3?classifier=sources

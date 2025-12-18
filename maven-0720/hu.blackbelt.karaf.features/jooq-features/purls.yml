@@ -1,1 +1,2 @@
 - pkg:maven/hu.blackbelt.karaf.features/jooq-features@3.11.11_1?classifier=sources
+- pkg:maven/hu.blackbelt.karaf.features/jooq-features@3.13.1_1?classifier=sources

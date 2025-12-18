@@ -1,0 +1,2 @@
+- pkg:maven/org.scorexfoundation/scorex-util_2.13@0.1.7
+- pkg:maven/org.scorexfoundation/scorex-util_2.13@0.1.7?classifier=sources

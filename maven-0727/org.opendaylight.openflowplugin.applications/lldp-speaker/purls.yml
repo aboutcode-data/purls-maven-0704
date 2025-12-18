@@ -7,6 +7,8 @@
 - pkg:maven/org.opendaylight.openflowplugin.applications/lldp-speaker@0.1.3-Lithium-SR3?classifier=sources
 - pkg:maven/org.opendaylight.openflowplugin.applications/lldp-speaker@0.1.4-Lithium-SR4
 - pkg:maven/org.opendaylight.openflowplugin.applications/lldp-speaker@0.1.4-Lithium-SR4?classifier=sources
+- pkg:maven/org.opendaylight.openflowplugin.applications/lldp-speaker@0.10.0
+- pkg:maven/org.opendaylight.openflowplugin.applications/lldp-speaker@0.10.0?classifier=sources
 - pkg:maven/org.opendaylight.openflowplugin.applications/lldp-speaker@0.2.0-Beryllium
 - pkg:maven/org.opendaylight.openflowplugin.applications/lldp-speaker@0.2.0-Beryllium?classifier=sources
 - pkg:maven/org.opendaylight.openflowplugin.applications/lldp-speaker@0.2.1-Beryllium-SR1

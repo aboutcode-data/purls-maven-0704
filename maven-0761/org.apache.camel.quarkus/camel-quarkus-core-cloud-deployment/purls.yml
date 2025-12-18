@@ -8,3 +8,7 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-core-cloud-deployment@1.0.0-M1
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-core-cloud-deployment@1.0.0-M2
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-core-cloud-deployment@1.0.0-M3
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-core-cloud-deployment@1.0.0-M4
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-core-cloud-deployment@1.0.0-M5
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-core-cloud-deployment@1.0.0-M6
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-core-cloud-deployment@1.0.0-M7

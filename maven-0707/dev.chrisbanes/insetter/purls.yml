@@ -10,3 +10,6 @@
 - pkg:maven/dev.chrisbanes/insetter@0.1.1?type=aar
 - pkg:maven/dev.chrisbanes/insetter@0.2.0?classifier=sources
 - pkg:maven/dev.chrisbanes/insetter@0.2.0?type=aar
+- pkg:maven/dev.chrisbanes/insetter@0.2.1?classifier=sources
+- pkg:maven/dev.chrisbanes/insetter@0.2.1?type=aar
+- pkg:maven/dev.chrisbanes/insetter@0.2.2?classifier=sources

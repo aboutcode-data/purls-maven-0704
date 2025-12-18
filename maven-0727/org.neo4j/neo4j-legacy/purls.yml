@@ -33,6 +33,12 @@
 - pkg:maven/org.neo4j/neo4j-legacy@3.5.13?classifier=sources
 - pkg:maven/org.neo4j/neo4j-legacy@3.5.14
 - pkg:maven/org.neo4j/neo4j-legacy@3.5.14?classifier=sources
+- pkg:maven/org.neo4j/neo4j-legacy@3.5.15
+- pkg:maven/org.neo4j/neo4j-legacy@3.5.15?classifier=sources
+- pkg:maven/org.neo4j/neo4j-legacy@3.5.16
+- pkg:maven/org.neo4j/neo4j-legacy@3.5.16?classifier=sources
+- pkg:maven/org.neo4j/neo4j-legacy@3.5.17
+- pkg:maven/org.neo4j/neo4j-legacy@3.5.17?classifier=sources
 - pkg:maven/org.neo4j/neo4j-legacy@3.5.1?classifier=sources
 - pkg:maven/org.neo4j/neo4j-legacy@3.5.2
 - pkg:maven/org.neo4j/neo4j-legacy@3.5.2?classifier=sources

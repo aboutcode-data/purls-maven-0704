@@ -1,1 +1,2 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-lsp-server@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-lsp-server@RELEASE113?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.guerlab.sdk/sdk-dingtalk-core@0.1.0
+- pkg:maven/net.guerlab.sdk/sdk-dingtalk-core@0.1.0?classifier=sources

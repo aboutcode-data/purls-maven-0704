@@ -1,2 +1,6 @@
 - pkg:maven/com.ganshane.specs/taobao-sdk@20120515
 - pkg:maven/com.ganshane.specs/taobao-sdk@20120515?classifier=sources
+- pkg:maven/com.ganshane.specs/taobao-sdk@20200304
+- pkg:maven/com.ganshane.specs/taobao-sdk@20200304?classifier=sources
+- pkg:maven/com.ganshane.specs/taobao-sdk@20200313
+- pkg:maven/com.ganshane.specs/taobao-sdk@20200313?classifier=sources

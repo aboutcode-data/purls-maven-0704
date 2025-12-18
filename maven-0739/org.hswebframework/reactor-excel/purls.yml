@@ -1,0 +1,2 @@
+- pkg:maven/org.hswebframework/reactor-excel@1.0-RC
+- pkg:maven/org.hswebframework/reactor-excel@1.0-RC?classifier=sources

@@ -17,3 +17,4 @@
 - pkg:maven/org.apache.juddi/juddi-tomcat@3.3.5?classifier=source-release&type=zip
 - pkg:maven/org.apache.juddi/juddi-tomcat@3.3.6?classifier=source-release&type=zip
 - pkg:maven/org.apache.juddi/juddi-tomcat@3.3.7?classifier=source-release&type=zip
+- pkg:maven/org.apache.juddi/juddi-tomcat@3.3.8?classifier=source-release&type=zip

@@ -2,4 +2,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-tasklist@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-tasklist@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-tasklist@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-tasklist@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-tasklist@RELEASE90?classifier=sources

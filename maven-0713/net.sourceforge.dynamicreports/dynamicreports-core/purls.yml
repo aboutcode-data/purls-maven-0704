@@ -98,3 +98,7 @@
 - pkg:maven/net.sourceforge.dynamicreports/dynamicreports-core@6.0.0?classifier=sources
 - pkg:maven/net.sourceforge.dynamicreports/dynamicreports-core@6.1.0
 - pkg:maven/net.sourceforge.dynamicreports/dynamicreports-core@6.1.0?classifier=sources
+- pkg:maven/net.sourceforge.dynamicreports/dynamicreports-core@6.11.0
+- pkg:maven/net.sourceforge.dynamicreports/dynamicreports-core@6.11.0?classifier=sources
+- pkg:maven/net.sourceforge.dynamicreports/dynamicreports-core@6.11.1
+- pkg:maven/net.sourceforge.dynamicreports/dynamicreports-core@6.11.1?classifier=sources

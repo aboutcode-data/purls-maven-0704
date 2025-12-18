@@ -1,1 +1,2 @@
 - pkg:maven/org.toile-libre.libe/domain-driven-design-ktlint-rules@1.0.0?classifier=sources
+- pkg:maven/org.toile-libre.libe/domain-driven-design-ktlint-rules@1.1.0?classifier=sources

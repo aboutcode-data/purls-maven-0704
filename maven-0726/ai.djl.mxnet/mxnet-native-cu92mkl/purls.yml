@@ -1,2 +1,4 @@
+- pkg:maven/ai.djl.mxnet/mxnet-native-cu92mkl@1.6.0
 - pkg:maven/ai.djl.mxnet/mxnet-native-cu92mkl@1.6.0-b
 - pkg:maven/ai.djl.mxnet/mxnet-native-cu92mkl@1.6.0-b?classifier=sources
+- pkg:maven/ai.djl.mxnet/mxnet-native-cu92mkl@1.6.0?classifier=sources

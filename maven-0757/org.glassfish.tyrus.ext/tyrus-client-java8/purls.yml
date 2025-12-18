@@ -4,3 +4,7 @@
 - pkg:maven/org.glassfish.tyrus.ext/tyrus-client-java8@1.12?classifier=sources
 - pkg:maven/org.glassfish.tyrus.ext/tyrus-client-java8@1.15
 - pkg:maven/org.glassfish.tyrus.ext/tyrus-client-java8@1.15?classifier=sources
+- pkg:maven/org.glassfish.tyrus.ext/tyrus-client-java8@1.16
+- pkg:maven/org.glassfish.tyrus.ext/tyrus-client-java8@1.16?classifier=sources
+- pkg:maven/org.glassfish.tyrus.ext/tyrus-client-java8@2.0.0-M1
+- pkg:maven/org.glassfish.tyrus.ext/tyrus-client-java8@2.0.0-M1?classifier=sources

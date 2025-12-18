@@ -8,3 +8,5 @@
 - pkg:maven/info.bitrich.xchange-stream/xchange-hitbtc@4.3.16?classifier=sources
 - pkg:maven/info.bitrich.xchange-stream/xchange-hitbtc@4.4.0
 - pkg:maven/info.bitrich.xchange-stream/xchange-hitbtc@4.4.0?classifier=sources
+- pkg:maven/info.bitrich.xchange-stream/xchange-hitbtc@4.4.1
+- pkg:maven/info.bitrich.xchange-stream/xchange-hitbtc@4.4.1?classifier=sources

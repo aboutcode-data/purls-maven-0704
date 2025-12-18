@@ -2,3 +2,4 @@
 - pkg:maven/com.xmlcalabash/xmlcalabash1-pegdown@1.1.0?classifier=sources
 - pkg:maven/com.xmlcalabash/xmlcalabash1-pegdown@1.1.1
 - pkg:maven/com.xmlcalabash/xmlcalabash1-pegdown@1.1.1?classifier=sources
+- pkg:maven/com.xmlcalabash/xmlcalabash1-pegdown@1.2.0?classifier=sources

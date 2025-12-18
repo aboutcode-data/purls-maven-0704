@@ -1,0 +1,2 @@
+- pkg:maven/eu.cdevreeze.xpathparser/xpathparser_sjs1_2.13@0.6.1
+- pkg:maven/eu.cdevreeze.xpathparser/xpathparser_sjs1_2.13@0.6.1?classifier=sources

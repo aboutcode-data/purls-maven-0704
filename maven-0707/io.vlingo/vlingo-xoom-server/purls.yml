@@ -1,0 +1,8 @@
+- pkg:maven/io.vlingo/vlingo-xoom-server@1.2.1
+- pkg:maven/io.vlingo/vlingo-xoom-server@1.2.19
+- pkg:maven/io.vlingo/vlingo-xoom-server@1.2.19?classifier=sources
+- pkg:maven/io.vlingo/vlingo-xoom-server@1.2.1?classifier=sources
+- pkg:maven/io.vlingo/vlingo-xoom-server@1.2.8
+- pkg:maven/io.vlingo/vlingo-xoom-server@1.2.8?classifier=sources
+- pkg:maven/io.vlingo/vlingo-xoom-server@1.2.9
+- pkg:maven/io.vlingo/vlingo-xoom-server@1.2.9?classifier=sources

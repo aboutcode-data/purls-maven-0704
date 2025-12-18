@@ -1,0 +1,2 @@
+- pkg:maven/com.didiglobal.chameleon/cmljsc@0.0.10?classifier=sources
+- pkg:maven/com.didiglobal.chameleon/cmljsc@0.0.10?type=aar

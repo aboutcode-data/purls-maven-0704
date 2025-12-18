@@ -1,2 +1,6 @@
 - pkg:maven/com.softwaremill.quicklens/quicklens_2.13@1.4.12
 - pkg:maven/com.softwaremill.quicklens/quicklens_2.13@1.4.12?classifier=sources
+- pkg:maven/com.softwaremill.quicklens/quicklens_2.13@1.4.13
+- pkg:maven/com.softwaremill.quicklens/quicklens_2.13@1.4.13?classifier=sources
+- pkg:maven/com.softwaremill.quicklens/quicklens_2.13@1.5.0
+- pkg:maven/com.softwaremill.quicklens/quicklens_2.13@1.5.0?classifier=sources

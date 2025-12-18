@@ -36,3 +36,5 @@
 - pkg:maven/org.graalvm.js/js-launcher@19.3.0?classifier=sources
 - pkg:maven/org.graalvm.js/js-launcher@19.3.1
 - pkg:maven/org.graalvm.js/js-launcher@19.3.1?classifier=sources
+- pkg:maven/org.graalvm.js/js-launcher@20.0.0
+- pkg:maven/org.graalvm.js/js-launcher@20.0.0?classifier=sources

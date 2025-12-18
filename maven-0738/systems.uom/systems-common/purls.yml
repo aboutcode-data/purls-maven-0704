@@ -16,6 +16,8 @@
 - pkg:maven/systems.uom/systems-common@0.9?classifier=sources
 - pkg:maven/systems.uom/systems-common@1.0
 - pkg:maven/systems.uom/systems-common@1.0?classifier=sources
+- pkg:maven/systems.uom/systems-common@1.3
+- pkg:maven/systems.uom/systems-common@1.3?classifier=sources
 - pkg:maven/systems.uom/systems-common@2.0
 - pkg:maven/systems.uom/systems-common@2.0.1
 - pkg:maven/systems.uom/systems-common@2.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.kamon/kamon-cats-io_2.13@2.1.0
+- pkg:maven/io.kamon/kamon-cats-io_2.13@2.1.0?classifier=sources

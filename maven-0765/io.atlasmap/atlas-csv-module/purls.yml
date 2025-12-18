@@ -1,0 +1,2 @@
+- pkg:maven/io.atlasmap/atlas-csv-module@2.0.0
+- pkg:maven/io.atlasmap/atlas-csv-module@2.0.0?classifier=sources

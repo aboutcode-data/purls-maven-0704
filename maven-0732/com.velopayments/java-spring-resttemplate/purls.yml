@@ -1,2 +1,4 @@
 - pkg:maven/com.velopayments/java-spring-resttemplate@2.14.87
 - pkg:maven/com.velopayments/java-spring-resttemplate@2.14.87?classifier=sources
+- pkg:maven/com.velopayments/java-spring-resttemplate@2.20.118
+- pkg:maven/com.velopayments/java-spring-resttemplate@2.20.118?classifier=sources

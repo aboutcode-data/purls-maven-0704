@@ -12,3 +12,4 @@
 - pkg:maven/org.wso2.msf4j/org.wso2.msf4j.feature@2.6.3?classifier=sources
 - pkg:maven/org.wso2.msf4j/org.wso2.msf4j.feature@2.6.4?classifier=sources
 - pkg:maven/org.wso2.msf4j/org.wso2.msf4j.feature@2.7.0?classifier=sources
+- pkg:maven/org.wso2.msf4j/org.wso2.msf4j.feature@2.7.7?classifier=sources

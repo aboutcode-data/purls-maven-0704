@@ -1,2 +1,4 @@
 - pkg:maven/de.jodamob.android/automator-log-converter@1.5.0
 - pkg:maven/de.jodamob.android/automator-log-converter@1.5.0?classifier=sources
+- pkg:maven/de.jodamob.android/automator-log-converter@1.6.0-1-g46e78e3
+- pkg:maven/de.jodamob.android/automator-log-converter@1.6.0-1-g46e78e3?classifier=sources

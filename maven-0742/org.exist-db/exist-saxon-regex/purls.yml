@@ -1,0 +1,2 @@
+- pkg:maven/org.exist-db/exist-saxon-regex@9.4.0-9.e1
+- pkg:maven/org.exist-db/exist-saxon-regex@9.4.0-9.e1?classifier=sources

@@ -19,3 +19,5 @@
 - pkg:maven/nz.net.osnz.composite/composite-spring-boot-loader@5.17
 - pkg:maven/nz.net.osnz.composite/composite-spring-boot-loader@5.18
 - pkg:maven/nz.net.osnz.composite/composite-spring-boot-loader@5.19
+- pkg:maven/nz.net.osnz.composite/composite-spring-boot-loader@5.21
+- pkg:maven/nz.net.osnz.composite/composite-spring-boot-loader@5.22

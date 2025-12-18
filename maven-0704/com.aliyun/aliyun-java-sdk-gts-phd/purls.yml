@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/aliyun-java-sdk-gts-phd@1.7
+- pkg:maven/com.aliyun/aliyun-java-sdk-gts-phd@1.7?classifier=sources

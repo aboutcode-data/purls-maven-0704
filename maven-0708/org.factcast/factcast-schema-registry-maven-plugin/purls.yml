@@ -1,0 +1,2 @@
+- pkg:maven/org.factcast/factcast-schema-registry-maven-plugin@0.2.0-M10
+- pkg:maven/org.factcast/factcast-schema-registry-maven-plugin@0.2.0-M10?classifier=sources

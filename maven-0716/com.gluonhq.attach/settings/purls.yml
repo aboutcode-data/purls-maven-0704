@@ -1,0 +1,2 @@
+- pkg:maven/com.gluonhq.attach/settings@4.0.7
+- pkg:maven/com.gluonhq.attach/settings@4.0.7?classifier=sources

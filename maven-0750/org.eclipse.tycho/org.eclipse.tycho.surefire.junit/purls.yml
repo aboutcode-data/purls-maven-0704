@@ -10,3 +10,5 @@
 - pkg:maven/org.eclipse.tycho/org.eclipse.tycho.surefire.junit@1.5.1?classifier=sources
 - pkg:maven/org.eclipse.tycho/org.eclipse.tycho.surefire.junit@1.6.0
 - pkg:maven/org.eclipse.tycho/org.eclipse.tycho.surefire.junit@1.6.0?classifier=sources
+- pkg:maven/org.eclipse.tycho/org.eclipse.tycho.surefire.junit@1.7.0
+- pkg:maven/org.eclipse.tycho/org.eclipse.tycho.surefire.junit@1.7.0?classifier=sources

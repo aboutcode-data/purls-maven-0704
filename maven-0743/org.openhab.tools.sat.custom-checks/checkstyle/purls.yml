@@ -1,3 +1,5 @@
+- pkg:maven/org.openhab.tools.sat.custom-checks/checkstyle@0.10.0
+- pkg:maven/org.openhab.tools.sat.custom-checks/checkstyle@0.10.0?classifier=sources
 - pkg:maven/org.openhab.tools.sat.custom-checks/checkstyle@0.4.1
 - pkg:maven/org.openhab.tools.sat.custom-checks/checkstyle@0.4.1?classifier=sources
 - pkg:maven/org.openhab.tools.sat.custom-checks/checkstyle@0.5.0

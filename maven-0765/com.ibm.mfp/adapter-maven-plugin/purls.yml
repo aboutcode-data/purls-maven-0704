@@ -82,3 +82,9 @@
 - pkg:maven/com.ibm.mfp/adapter-maven-plugin@8.0.2019120501?classifier=sources
 - pkg:maven/com.ibm.mfp/adapter-maven-plugin@8.0.2020011707
 - pkg:maven/com.ibm.mfp/adapter-maven-plugin@8.0.2020011707?classifier=sources
+- pkg:maven/com.ibm.mfp/adapter-maven-plugin@8.0.2020020501
+- pkg:maven/com.ibm.mfp/adapter-maven-plugin@8.0.2020020501?classifier=sources
+- pkg:maven/com.ibm.mfp/adapter-maven-plugin@8.0.2020031301
+- pkg:maven/com.ibm.mfp/adapter-maven-plugin@8.0.2020031301?classifier=sources
+- pkg:maven/com.ibm.mfp/adapter-maven-plugin@8.0.2020041601
+- pkg:maven/com.ibm.mfp/adapter-maven-plugin@8.0.2020041601?classifier=sources

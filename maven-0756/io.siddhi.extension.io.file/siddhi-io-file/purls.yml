@@ -19,3 +19,9 @@
 - pkg:maven/io.siddhi.extension.io.file/siddhi-io-file@2.0.7
 - pkg:maven/io.siddhi.extension.io.file/siddhi-io-file@2.0.7?classifier=source-release&type=zip
 - pkg:maven/io.siddhi.extension.io.file/siddhi-io-file@2.0.7?classifier=sources
+- pkg:maven/io.siddhi.extension.io.file/siddhi-io-file@2.0.8
+- pkg:maven/io.siddhi.extension.io.file/siddhi-io-file@2.0.8?classifier=source-release&type=zip
+- pkg:maven/io.siddhi.extension.io.file/siddhi-io-file@2.0.8?classifier=sources
+- pkg:maven/io.siddhi.extension.io.file/siddhi-io-file@2.0.9
+- pkg:maven/io.siddhi.extension.io.file/siddhi-io-file@2.0.9?classifier=source-release&type=zip
+- pkg:maven/io.siddhi.extension.io.file/siddhi-io-file@2.0.9?classifier=sources

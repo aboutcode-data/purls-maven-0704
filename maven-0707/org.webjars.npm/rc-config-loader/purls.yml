@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/rc-config-loader@3.0.0
+- pkg:maven/org.webjars.npm/rc-config-loader@3.0.0?classifier=sources

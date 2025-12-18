@@ -68,3 +68,9 @@
 - pkg:maven/org.clojure/core.async@0.6.532?classifier=sources
 - pkg:maven/org.clojure/core.async@0.7.559
 - pkg:maven/org.clojure/core.async@0.7.559?classifier=sources
+- pkg:maven/org.clojure/core.async@1.0.567
+- pkg:maven/org.clojure/core.async@1.0.567?classifier=sources
+- pkg:maven/org.clojure/core.async@1.1.582
+- pkg:maven/org.clojure/core.async@1.1.582?classifier=sources
+- pkg:maven/org.clojure/core.async@1.1.587
+- pkg:maven/org.clojure/core.async@1.1.587?classifier=sources

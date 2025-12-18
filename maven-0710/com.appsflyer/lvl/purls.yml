@@ -1,2 +1,4 @@
 - pkg:maven/com.appsflyer/lvl@5.1.0?type=aar
 - pkg:maven/com.appsflyer/lvl@5.1.1?type=aar
+- pkg:maven/com.appsflyer/lvl@5.2.0?type=aar
+- pkg:maven/com.appsflyer/lvl@5.3.0?type=aar

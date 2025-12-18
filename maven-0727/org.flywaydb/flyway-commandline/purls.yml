@@ -96,3 +96,17 @@
 - pkg:maven/org.flywaydb/flyway-commandline@6.2.2?type=zip
 - pkg:maven/org.flywaydb/flyway-commandline@6.2.3?classifier=sources
 - pkg:maven/org.flywaydb/flyway-commandline@6.2.3?type=zip
+- pkg:maven/org.flywaydb/flyway-commandline@6.2.4?classifier=sources
+- pkg:maven/org.flywaydb/flyway-commandline@6.2.4?type=zip
+- pkg:maven/org.flywaydb/flyway-commandline@6.3.0?classifier=sources
+- pkg:maven/org.flywaydb/flyway-commandline@6.3.0?type=zip
+- pkg:maven/org.flywaydb/flyway-commandline@6.3.1?classifier=sources
+- pkg:maven/org.flywaydb/flyway-commandline@6.3.1?type=zip
+- pkg:maven/org.flywaydb/flyway-commandline@6.3.2?classifier=sources
+- pkg:maven/org.flywaydb/flyway-commandline@6.3.2?type=zip
+- pkg:maven/org.flywaydb/flyway-commandline@6.3.3?classifier=sources
+- pkg:maven/org.flywaydb/flyway-commandline@6.3.3?type=zip
+- pkg:maven/org.flywaydb/flyway-commandline@6.4.0?classifier=sources
+- pkg:maven/org.flywaydb/flyway-commandline@6.4.0?type=zip
+- pkg:maven/org.flywaydb/flyway-commandline@6.4.1?classifier=sources
+- pkg:maven/org.flywaydb/flyway-commandline@6.4.1?type=zip

@@ -6,3 +6,5 @@
 - pkg:maven/io.github.long76/androidxcolorpicker@1.3?type=aar
 - pkg:maven/io.github.long76/androidxcolorpicker@1.4?classifier=sources
 - pkg:maven/io.github.long76/androidxcolorpicker@1.4?type=aar
+- pkg:maven/io.github.long76/androidxcolorpicker@2.0?classifier=sources
+- pkg:maven/io.github.long76/androidxcolorpicker@2.0?type=aar

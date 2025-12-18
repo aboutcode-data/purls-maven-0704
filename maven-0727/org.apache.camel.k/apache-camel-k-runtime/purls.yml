@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.camel.k/apache-camel-k-runtime@1.0.5?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.k/apache-camel-k-runtime@1.0.7?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.k/apache-camel-k-runtime@1.0.9?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel.k/apache-camel-k-runtime@1.1.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel.k/apache-camel-k-runtime@1.2.1?classifier=source-release&type=zip

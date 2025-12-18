@@ -8,3 +8,5 @@
 - pkg:maven/com.ionic/ionic-sdk-dpapi@2.6.0?classifier=sources
 - pkg:maven/com.ionic/ionic-sdk-dpapi@2.6.1
 - pkg:maven/com.ionic/ionic-sdk-dpapi@2.6.1?classifier=sources
+- pkg:maven/com.ionic/ionic-sdk-dpapi@2.7.0
+- pkg:maven/com.ionic/ionic-sdk-dpapi@2.7.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.bugsnag/bugsnag-plugin-react-native@5.0.0?classifier=sources
+- pkg:maven/com.bugsnag/bugsnag-plugin-react-native@5.0.0?type=aar

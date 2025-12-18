@@ -1,2 +1,4 @@
 - pkg:maven/org.wso2.carbon.identity.carbon.auth.iwa/identity-carbon-auth-iwa@5.1.6?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.carbon.auth.iwa/identity-carbon-auth-iwa@5.3.5?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.carbon.auth.iwa/identity-carbon-auth-iwa@5.3.6?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.carbon.auth.iwa/identity-carbon-auth-iwa@5.4.0?classifier=source-release&type=zip

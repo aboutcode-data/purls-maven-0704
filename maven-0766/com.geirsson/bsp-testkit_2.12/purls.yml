@@ -1,0 +1,2 @@
+- pkg:maven/com.geirsson/bsp-testkit_2.12@2.0.0-M7
+- pkg:maven/com.geirsson/bsp-testkit_2.12@2.0.0-M7?classifier=sources

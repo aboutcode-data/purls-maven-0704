@@ -1,0 +1,2 @@
+- pkg:maven/io.kamon/kamon-servlet_2.11@2.0.1
+- pkg:maven/io.kamon/kamon-servlet_2.11@2.0.1?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/com.piesoftsol.oneservice/osf-authorization-server@1.1.0?classifier=sources
 - pkg:maven/com.piesoftsol.oneservice/osf-authorization-server@2.0.0
 - pkg:maven/com.piesoftsol.oneservice/osf-authorization-server@2.0.0?classifier=sources
+- pkg:maven/com.piesoftsol.oneservice/osf-authorization-server@5.0.0-M2
+- pkg:maven/com.piesoftsol.oneservice/osf-authorization-server@5.0.0-M2?classifier=sources
