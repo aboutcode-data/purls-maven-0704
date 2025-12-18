@@ -1,0 +1,4 @@
+- pkg:maven/org.combinators/templating_2.13@1.0.0%2B11-80fcb87d
+- pkg:maven/org.combinators/templating_2.13@1.0.0%2B11-80fcb87d?classifier=sources
+- pkg:maven/org.combinators/templating_2.13@1.1.0
+- pkg:maven/org.combinators/templating_2.13@1.1.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/no.difi.oxalis/oxalis-war@4.0.3?type=war
 - pkg:maven/no.difi.oxalis/oxalis-war@4.0.4?classifier=sources
 - pkg:maven/no.difi.oxalis/oxalis-war@4.0.4?type=war
+- pkg:maven/no.difi.oxalis/oxalis-war@4.1.0?classifier=sources
+- pkg:maven/no.difi.oxalis/oxalis-war@4.1.0?type=war

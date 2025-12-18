@@ -2,3 +2,11 @@
 - pkg:maven/org.raml/webapi-parser@0.0.1?classifier=sources
 - pkg:maven/org.raml/webapi-parser@0.1.0
 - pkg:maven/org.raml/webapi-parser@0.1.0?classifier=sources
+- pkg:maven/org.raml/webapi-parser@0.2.0
+- pkg:maven/org.raml/webapi-parser@0.2.0?classifier=sources
+- pkg:maven/org.raml/webapi-parser@0.3.0
+- pkg:maven/org.raml/webapi-parser@0.3.0?classifier=sources
+- pkg:maven/org.raml/webapi-parser@0.3.1
+- pkg:maven/org.raml/webapi-parser@0.3.1?classifier=sources
+- pkg:maven/org.raml/webapi-parser@0.3.2
+- pkg:maven/org.raml/webapi-parser@0.3.2?classifier=sources

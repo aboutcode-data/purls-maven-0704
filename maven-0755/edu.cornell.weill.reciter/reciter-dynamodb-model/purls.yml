@@ -4,3 +4,5 @@
 - pkg:maven/edu.cornell.weill.reciter/reciter-dynamodb-model@2.0.2?classifier=sources
 - pkg:maven/edu.cornell.weill.reciter/reciter-dynamodb-model@2.0.3
 - pkg:maven/edu.cornell.weill.reciter/reciter-dynamodb-model@2.0.3?classifier=sources
+- pkg:maven/edu.cornell.weill.reciter/reciter-dynamodb-model@2.0.4
+- pkg:maven/edu.cornell.weill.reciter/reciter-dynamodb-model@2.0.4?classifier=sources

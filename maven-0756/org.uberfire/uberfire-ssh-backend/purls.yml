@@ -20,3 +20,11 @@
 - pkg:maven/org.uberfire/uberfire-ssh-backend@2.20.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-ssh-backend@2.21.0.Final
 - pkg:maven/org.uberfire/uberfire-ssh-backend@2.21.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-ssh-backend@2.22.0.Final
+- pkg:maven/org.uberfire/uberfire-ssh-backend@2.22.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-ssh-backend@2.23.0.Final
+- pkg:maven/org.uberfire/uberfire-ssh-backend@2.23.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-ssh-backend@2.24.0.Final
+- pkg:maven/org.uberfire/uberfire-ssh-backend@2.24.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-ssh-backend@7.28.0.Final
+- pkg:maven/org.uberfire/uberfire-ssh-backend@7.28.0.Final?classifier=sources

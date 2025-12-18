@@ -1,2 +1,8 @@
 - pkg:maven/com.cognitect.aws/personalize@723.2.476.0
 - pkg:maven/com.cognitect.aws/personalize@723.2.476.0?classifier=sources
+- pkg:maven/com.cognitect.aws/personalize@744.2.530.0
+- pkg:maven/com.cognitect.aws/personalize@744.2.530.0?classifier=sources
+- pkg:maven/com.cognitect.aws/personalize@746.2.533.0
+- pkg:maven/com.cognitect.aws/personalize@746.2.533.0?classifier=sources
+- pkg:maven/com.cognitect.aws/personalize@758.2.549.0
+- pkg:maven/com.cognitect.aws/personalize@758.2.549.0?classifier=sources

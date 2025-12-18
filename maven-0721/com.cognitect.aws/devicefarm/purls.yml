@@ -10,3 +10,7 @@
 - pkg:maven/com.cognitect.aws/devicefarm@701.2.395.0?classifier=sources
 - pkg:maven/com.cognitect.aws/devicefarm@726.2.480.0
 - pkg:maven/com.cognitect.aws/devicefarm@726.2.480.0?classifier=sources
+- pkg:maven/com.cognitect.aws/devicefarm@746.2.533.0
+- pkg:maven/com.cognitect.aws/devicefarm@746.2.533.0?classifier=sources
+- pkg:maven/com.cognitect.aws/devicefarm@757.2.542.0
+- pkg:maven/com.cognitect.aws/devicefarm@757.2.542.0?classifier=sources

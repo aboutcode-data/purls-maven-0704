@@ -24,3 +24,7 @@
 - pkg:maven/com.ing.baker/baker-types_2.12@2.0.4?classifier=sources
 - pkg:maven/com.ing.baker/baker-types_2.12@2.0.5
 - pkg:maven/com.ing.baker/baker-types_2.12@2.0.5?classifier=sources
+- pkg:maven/com.ing.baker/baker-types_2.12@3.0.0
+- pkg:maven/com.ing.baker/baker-types_2.12@3.0.0-RC
+- pkg:maven/com.ing.baker/baker-types_2.12@3.0.0-RC?classifier=sources
+- pkg:maven/com.ing.baker/baker-types_2.12@3.0.0?classifier=sources

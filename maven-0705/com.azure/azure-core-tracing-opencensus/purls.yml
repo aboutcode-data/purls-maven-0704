@@ -1,0 +1,2 @@
+- pkg:maven/com.azure/azure-core-tracing-opencensus@1.0.0-preview.3
+- pkg:maven/com.azure/azure-core-tracing-opencensus@1.0.0-preview.3?classifier=sources

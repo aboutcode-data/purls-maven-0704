@@ -33,8 +33,12 @@
 - pkg:maven/org.dmfs/http-client-mockutils@0.17?classifier=sources
 - pkg:maven/org.dmfs/http-client-mockutils@0.18
 - pkg:maven/org.dmfs/http-client-mockutils@0.18?classifier=sources
+- pkg:maven/org.dmfs/http-client-mockutils@0.19
+- pkg:maven/org.dmfs/http-client-mockutils@0.19?classifier=sources
 - pkg:maven/org.dmfs/http-client-mockutils@0.1?classifier=sources
 - pkg:maven/org.dmfs/http-client-mockutils@0.2
+- pkg:maven/org.dmfs/http-client-mockutils@0.20
+- pkg:maven/org.dmfs/http-client-mockutils@0.20?classifier=sources
 - pkg:maven/org.dmfs/http-client-mockutils@0.2?classifier=sources
 - pkg:maven/org.dmfs/http-client-mockutils@0.7
 - pkg:maven/org.dmfs/http-client-mockutils@0.7?classifier=sources

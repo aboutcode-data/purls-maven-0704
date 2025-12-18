@@ -1,0 +1,2 @@
+- pkg:maven/mx.nic.labs.reddog/rdap-data-access-api@1.2.0
+- pkg:maven/mx.nic.labs.reddog/rdap-data-access-api@1.2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.ruixinglong.java-slice-upload/java-slice-upload@1.0
+- pkg:maven/net.ruixinglong.java-slice-upload/java-slice-upload@1.0?classifier=sources

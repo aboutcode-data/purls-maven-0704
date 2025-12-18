@@ -1,3 +1,5 @@
+- pkg:maven/com.codeminders.socketio/socketio-sample-chat@1.0.10?classifier=sources
+- pkg:maven/com.codeminders.socketio/socketio-sample-chat@1.0.10?type=war
 - pkg:maven/com.codeminders.socketio/socketio-sample-chat@1.0.3?classifier=sources
 - pkg:maven/com.codeminders.socketio/socketio-sample-chat@1.0.3?type=war
 - pkg:maven/com.codeminders.socketio/socketio-sample-chat@1.0.4?classifier=sources

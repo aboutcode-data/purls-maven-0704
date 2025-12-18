@@ -66,3 +66,5 @@
 - pkg:maven/org.molgenis/molgenis-data-file@8.1.7?classifier=sources
 - pkg:maven/org.molgenis/molgenis-data-file@8.1.8
 - pkg:maven/org.molgenis/molgenis-data-file@8.1.8?classifier=sources
+- pkg:maven/org.molgenis/molgenis-data-file@8.2.1
+- pkg:maven/org.molgenis/molgenis-data-file@8.2.1?classifier=sources

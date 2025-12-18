@@ -16,3 +16,5 @@
 - pkg:maven/com.sporniket.javabeans/sporniket-javabeans-doclet@19.03.00?classifier=sources
 - pkg:maven/com.sporniket.javabeans/sporniket-javabeans-doclet@19.04.00
 - pkg:maven/com.sporniket.javabeans/sporniket-javabeans-doclet@19.04.00?classifier=sources
+- pkg:maven/com.sporniket.javabeans/sporniket-javabeans-doclet@19.09.00
+- pkg:maven/com.sporniket.javabeans/sporniket-javabeans-doclet@19.09.00?classifier=sources

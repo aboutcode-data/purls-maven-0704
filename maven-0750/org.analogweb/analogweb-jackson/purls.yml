@@ -4,6 +4,8 @@
 - pkg:maven/org.analogweb/analogweb-jackson@0.10.2?classifier=sources
 - pkg:maven/org.analogweb/analogweb-jackson@0.10.3
 - pkg:maven/org.analogweb/analogweb-jackson@0.10.3?classifier=sources
+- pkg:maven/org.analogweb/analogweb-jackson@0.10.4
+- pkg:maven/org.analogweb/analogweb-jackson@0.10.4?classifier=sources
 - pkg:maven/org.analogweb/analogweb-jackson@0.9.0
 - pkg:maven/org.analogweb/analogweb-jackson@0.9.0?classifier=sources
 - pkg:maven/org.analogweb/analogweb-jackson@0.9.1

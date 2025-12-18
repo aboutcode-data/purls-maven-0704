@@ -1,0 +1,4 @@
+- pkg:maven/de.sciss/mellite-app_2.13@2.39.0
+- pkg:maven/de.sciss/mellite-app_2.13@2.39.0?classifier=sources
+- pkg:maven/de.sciss/mellite-app_2.13@2.40.0
+- pkg:maven/de.sciss/mellite-app_2.13@2.40.0?classifier=sources

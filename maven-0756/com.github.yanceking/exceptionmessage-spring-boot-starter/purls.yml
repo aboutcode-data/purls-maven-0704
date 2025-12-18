@@ -1,0 +1,4 @@
+- pkg:maven/com.github.yanceking/exceptionmessage-spring-boot-starter@1.0-personal
+- pkg:maven/com.github.yanceking/exceptionmessage-spring-boot-starter@1.0-personal?classifier=sources
+- pkg:maven/com.github.yanceking/exceptionmessage-spring-boot-starter@1.1-personal
+- pkg:maven/com.github.yanceking/exceptionmessage-spring-boot-starter@1.1-personal?classifier=sources

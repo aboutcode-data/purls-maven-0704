@@ -8,3 +8,7 @@
 - pkg:maven/de.eacg/ecs-gradle-plugin@0.1.4?classifier=sources
 - pkg:maven/de.eacg/ecs-gradle-plugin@0.2.0
 - pkg:maven/de.eacg/ecs-gradle-plugin@0.2.0?classifier=sources
+- pkg:maven/de.eacg/ecs-gradle-plugin@0.2.1
+- pkg:maven/de.eacg/ecs-gradle-plugin@0.2.1?classifier=sources
+- pkg:maven/de.eacg/ecs-gradle-plugin@0.3.0
+- pkg:maven/de.eacg/ecs-gradle-plugin@0.3.0?classifier=sources

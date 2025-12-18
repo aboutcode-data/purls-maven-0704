@@ -32,3 +32,15 @@
 - pkg:maven/com.redislabs/jredisearch@0.25.0?classifier=sources
 - pkg:maven/com.redislabs/jredisearch@0.9.0
 - pkg:maven/com.redislabs/jredisearch@0.9.0?classifier=sources
+- pkg:maven/com.redislabs/jredisearch@1.0.0
+- pkg:maven/com.redislabs/jredisearch@1.0.0-rc1
+- pkg:maven/com.redislabs/jredisearch@1.0.0-rc1?classifier=sources
+- pkg:maven/com.redislabs/jredisearch@1.0.0-rc3
+- pkg:maven/com.redislabs/jredisearch@1.0.0-rc3?classifier=sources
+- pkg:maven/com.redislabs/jredisearch@1.0.0?classifier=sources
+- pkg:maven/com.redislabs/jredisearch@1.1.0
+- pkg:maven/com.redislabs/jredisearch@1.1.0-rc2
+- pkg:maven/com.redislabs/jredisearch@1.1.0-rc2?classifier=sources
+- pkg:maven/com.redislabs/jredisearch@1.1.0?classifier=sources
+- pkg:maven/com.redislabs/jredisearch@1.2.0
+- pkg:maven/com.redislabs/jredisearch@1.2.0?classifier=sources

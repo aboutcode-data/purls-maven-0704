@@ -1,0 +1,2 @@
+- pkg:maven/com.github.pms1.e3/e3-maven-plugin@0.0.1
+- pkg:maven/com.github.pms1.e3/e3-maven-plugin@0.0.1?classifier=sources

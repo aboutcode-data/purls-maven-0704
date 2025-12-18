@@ -1,0 +1,4 @@
+- pkg:maven/com.sksamuel.pulsar4s/pulsar4s-monix_2.13@2.4.3
+- pkg:maven/com.sksamuel.pulsar4s/pulsar4s-monix_2.13@2.4.3?classifier=sources
+- pkg:maven/com.sksamuel.pulsar4s/pulsar4s-monix_2.13@2.4.4
+- pkg:maven/com.sksamuel.pulsar4s/pulsar4s-monix_2.13@2.4.4?classifier=sources

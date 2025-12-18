@@ -2,3 +2,7 @@
 - pkg:maven/hu.ponte.respresso/client-android@0.0.1?classifier=sources
 - pkg:maven/hu.ponte.respresso/client-android@0.0.2
 - pkg:maven/hu.ponte.respresso/client-android@0.0.2?classifier=sources
+- pkg:maven/hu.ponte.respresso/client-android@0.0.9
+- pkg:maven/hu.ponte.respresso/client-android@0.0.9?classifier=sources
+- pkg:maven/hu.ponte.respresso/client-android@1.0.0
+- pkg:maven/hu.ponte.respresso/client-android@1.0.0?classifier=sources

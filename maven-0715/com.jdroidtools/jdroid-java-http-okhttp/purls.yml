@@ -2,3 +2,5 @@
 - pkg:maven/com.jdroidtools/jdroid-java-http-okhttp@1.0.0?classifier=sources
 - pkg:maven/com.jdroidtools/jdroid-java-http-okhttp@2.0.0
 - pkg:maven/com.jdroidtools/jdroid-java-http-okhttp@2.0.0?classifier=sources
+- pkg:maven/com.jdroidtools/jdroid-java-http-okhttp@3.0.0
+- pkg:maven/com.jdroidtools/jdroid-java-http-okhttp@3.0.0?classifier=sources

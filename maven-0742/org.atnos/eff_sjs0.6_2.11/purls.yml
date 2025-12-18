@@ -116,3 +116,7 @@
 - pkg:maven/org.atnos/eff_sjs0.6_2.11@5.4.1?classifier=sources
 - pkg:maven/org.atnos/eff_sjs0.6_2.11@5.5.0
 - pkg:maven/org.atnos/eff_sjs0.6_2.11@5.5.0?classifier=sources
+- pkg:maven/org.atnos/eff_sjs0.6_2.11@5.5.1
+- pkg:maven/org.atnos/eff_sjs0.6_2.11@5.5.1?classifier=sources
+- pkg:maven/org.atnos/eff_sjs0.6_2.11@5.5.2
+- pkg:maven/org.atnos/eff_sjs0.6_2.11@5.5.2?classifier=sources

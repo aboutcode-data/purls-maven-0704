@@ -14,6 +14,10 @@
 - pkg:maven/mobi.cangol.mobile/uiframe@1.0.77?type=aar
 - pkg:maven/mobi.cangol.mobile/uiframe@1.0.81?classifier=sources
 - pkg:maven/mobi.cangol.mobile/uiframe@1.0.81?type=aar
+- pkg:maven/mobi.cangol.mobile/uiframe@1.0.82?classifier=sources
+- pkg:maven/mobi.cangol.mobile/uiframe@1.0.82?type=aar
+- pkg:maven/mobi.cangol.mobile/uiframe@1.0.83?classifier=sources
+- pkg:maven/mobi.cangol.mobile/uiframe@1.0.83?type=aar
 - pkg:maven/mobi.cangol.mobile/uiframe@1.0.8?classifier=sources
 - pkg:maven/mobi.cangol.mobile/uiframe@1.0.8?type=aar
 - pkg:maven/mobi.cangol.mobile/uiframe@1.0.9?classifier=sources

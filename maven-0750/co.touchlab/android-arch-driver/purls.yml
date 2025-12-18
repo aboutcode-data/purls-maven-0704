@@ -1,0 +1,4 @@
+- pkg:maven/co.touchlab/android-arch-driver@1.2.0-noandroidx?classifier=sources
+- pkg:maven/co.touchlab/android-arch-driver@1.2.0-noandroidx?type=aar
+- pkg:maven/co.touchlab/android-arch-driver@1.2.1-noandroidx?classifier=sources
+- pkg:maven/co.touchlab/android-arch-driver@1.2.1-noandroidx?type=aar

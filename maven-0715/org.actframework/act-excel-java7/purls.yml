@@ -1,0 +1,2 @@
+- pkg:maven/org.actframework/act-excel-java7@1.8.0
+- pkg:maven/org.actframework/act-excel-java7@1.8.0?classifier=sources

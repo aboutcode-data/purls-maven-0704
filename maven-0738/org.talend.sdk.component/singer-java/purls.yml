@@ -1,0 +1,4 @@
+- pkg:maven/org.talend.sdk.component/singer-java@1.1.13
+- pkg:maven/org.talend.sdk.component/singer-java@1.1.13?classifier=sources
+- pkg:maven/org.talend.sdk.component/singer-java@1.1.14
+- pkg:maven/org.talend.sdk.component/singer-java@1.1.14?classifier=sources

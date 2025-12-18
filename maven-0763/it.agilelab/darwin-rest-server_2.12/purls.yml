@@ -1,3 +1,7 @@
+- pkg:maven/it.agilelab/darwin-rest-server_2.12@1.0.10
+- pkg:maven/it.agilelab/darwin-rest-server_2.12@1.0.10?classifier=sources
+- pkg:maven/it.agilelab/darwin-rest-server_2.12@1.0.11
+- pkg:maven/it.agilelab/darwin-rest-server_2.12@1.0.11?classifier=sources
 - pkg:maven/it.agilelab/darwin-rest-server_2.12@1.0.7
 - pkg:maven/it.agilelab/darwin-rest-server_2.12@1.0.7?classifier=sources
 - pkg:maven/it.agilelab/darwin-rest-server_2.12@1.0.8

@@ -38,3 +38,5 @@
 - pkg:maven/de.sciss/wolkenpumpe-basic_2.11@2.33.0?classifier=sources
 - pkg:maven/de.sciss/wolkenpumpe-basic_2.11@2.33.1
 - pkg:maven/de.sciss/wolkenpumpe-basic_2.11@2.33.1?classifier=sources
+- pkg:maven/de.sciss/wolkenpumpe-basic_2.11@2.34.0
+- pkg:maven/de.sciss/wolkenpumpe-basic_2.11@2.34.0?classifier=sources

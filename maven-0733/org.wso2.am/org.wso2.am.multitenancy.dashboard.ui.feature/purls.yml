@@ -35,5 +35,8 @@
 - pkg:maven/org.wso2.am/org.wso2.am.multitenancy.dashboard.ui.feature@2.6.0-rc1?classifier=sources
 - pkg:maven/org.wso2.am/org.wso2.am.multitenancy.dashboard.ui.feature@2.6.0-rc2?classifier=sources
 - pkg:maven/org.wso2.am/org.wso2.am.multitenancy.dashboard.ui.feature@2.6.0?classifier=sources
+- pkg:maven/org.wso2.am/org.wso2.am.multitenancy.dashboard.ui.feature@3.0.0-alpha?classifier=sources
+- pkg:maven/org.wso2.am/org.wso2.am.multitenancy.dashboard.ui.feature@3.0.0-beta?classifier=sources
 - pkg:maven/org.wso2.am/org.wso2.am.multitenancy.dashboard.ui.feature@3.0.0-m32?classifier=sources
 - pkg:maven/org.wso2.am/org.wso2.am.multitenancy.dashboard.ui.feature@3.0.0-m33?classifier=sources
+- pkg:maven/org.wso2.am/org.wso2.am.multitenancy.dashboard.ui.feature@3.0.0-m35?classifier=sources

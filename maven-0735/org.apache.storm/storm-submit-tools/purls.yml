@@ -16,3 +16,5 @@
 - pkg:maven/org.apache.storm/storm-submit-tools@1.2.3?classifier=sources
 - pkg:maven/org.apache.storm/storm-submit-tools@2.0.0
 - pkg:maven/org.apache.storm/storm-submit-tools@2.0.0?classifier=sources
+- pkg:maven/org.apache.storm/storm-submit-tools@2.1.0
+- pkg:maven/org.apache.storm/storm-submit-tools@2.1.0?classifier=sources

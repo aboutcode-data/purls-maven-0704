@@ -6,3 +6,5 @@
 - pkg:maven/org.arakhne.afc.advanced/agentmotion@15.1?classifier=sources
 - pkg:maven/org.arakhne.afc.advanced/agentmotion@15.2
 - pkg:maven/org.arakhne.afc.advanced/agentmotion@15.2?classifier=sources
+- pkg:maven/org.arakhne.afc.advanced/agentmotion@16.0
+- pkg:maven/org.arakhne.afc.advanced/agentmotion@16.0?classifier=sources

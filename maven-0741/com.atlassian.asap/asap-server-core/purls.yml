@@ -78,6 +78,8 @@
 - pkg:maven/com.atlassian.asap/asap-server-core@2.21.9?classifier=sources
 - pkg:maven/com.atlassian.asap/asap-server-core@2.22.0
 - pkg:maven/com.atlassian.asap/asap-server-core@2.22.0?classifier=sources
+- pkg:maven/com.atlassian.asap/asap-server-core@2.23.2
+- pkg:maven/com.atlassian.asap/asap-server-core@2.23.2?classifier=sources
 - pkg:maven/com.atlassian.asap/asap-server-core@2.3.0
 - pkg:maven/com.atlassian.asap/asap-server-core@2.3.0?classifier=sources
 - pkg:maven/com.atlassian.asap/asap-server-core@2.3.2

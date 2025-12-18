@@ -1,2 +1,6 @@
 - pkg:maven/nl.grons/metrics4-scala-hdr_2.13@4.0.7
 - pkg:maven/nl.grons/metrics4-scala-hdr_2.13@4.0.7?classifier=sources
+- pkg:maven/nl.grons/metrics4-scala-hdr_2.13@4.0.8
+- pkg:maven/nl.grons/metrics4-scala-hdr_2.13@4.0.8?classifier=sources
+- pkg:maven/nl.grons/metrics4-scala-hdr_2.13@4.1.1
+- pkg:maven/nl.grons/metrics4-scala-hdr_2.13@4.1.1?classifier=sources

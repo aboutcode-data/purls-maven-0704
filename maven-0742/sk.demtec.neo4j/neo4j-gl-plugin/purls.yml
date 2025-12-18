@@ -1,0 +1,6 @@
+- pkg:maven/sk.demtec.neo4j/neo4j-gl-plugin@2.2.2
+- pkg:maven/sk.demtec.neo4j/neo4j-gl-plugin@2.2.2?classifier=sources
+- pkg:maven/sk.demtec.neo4j/neo4j-gl-plugin@2.2.3
+- pkg:maven/sk.demtec.neo4j/neo4j-gl-plugin@2.2.3?classifier=sources
+- pkg:maven/sk.demtec.neo4j/neo4j-gl-plugin@2.2.4
+- pkg:maven/sk.demtec.neo4j/neo4j-gl-plugin@2.2.4?classifier=sources

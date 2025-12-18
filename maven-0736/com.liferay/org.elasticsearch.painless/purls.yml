@@ -1,0 +1,9 @@
+- pkg:maven/com.liferay/org.elasticsearch.painless@6.5.0.LIFERAY-PATCHED-1
+- pkg:maven/com.liferay/org.elasticsearch.painless@6.5.0.LIFERAY-PATCHED-1?classifier=sources
+- pkg:maven/com.liferay/org.elasticsearch.painless@6.5.0.LIFERAY-PATCHED-1?classifier=sources-commercial
+- pkg:maven/com.liferay/org.elasticsearch.painless@6.5.0.LIFERAY-PATCHED-2
+- pkg:maven/com.liferay/org.elasticsearch.painless@6.5.0.LIFERAY-PATCHED-2?classifier=sources
+- pkg:maven/com.liferay/org.elasticsearch.painless@6.5.0.LIFERAY-PATCHED-2?classifier=sources-commercial
+- pkg:maven/com.liferay/org.elasticsearch.painless@7.3.0.LIFERAY-PATCHED-1
+- pkg:maven/com.liferay/org.elasticsearch.painless@7.3.0.LIFERAY-PATCHED-1?classifier=sources
+- pkg:maven/com.liferay/org.elasticsearch.painless@7.3.0.LIFERAY-PATCHED-1?classifier=sources-commercial

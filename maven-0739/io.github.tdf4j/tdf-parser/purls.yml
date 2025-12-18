@@ -1,0 +1,2 @@
+- pkg:maven/io.github.tdf4j/tdf-parser@1.0.1
+- pkg:maven/io.github.tdf4j/tdf-parser@1.0.1?classifier=sources

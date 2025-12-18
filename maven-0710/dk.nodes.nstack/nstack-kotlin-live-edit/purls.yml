@@ -1,0 +1,10 @@
+- pkg:maven/dk.nodes.nstack/nstack-kotlin-live-edit@3.1.40000?classifier=sources
+- pkg:maven/dk.nodes.nstack/nstack-kotlin-live-edit@3.1.40000?type=aar
+- pkg:maven/dk.nodes.nstack/nstack-kotlin-live-edit@3.1.4000?classifier=sources
+- pkg:maven/dk.nodes.nstack/nstack-kotlin-live-edit@3.1.4000?type=aar
+- pkg:maven/dk.nodes.nstack/nstack-kotlin-live-edit@3.1.400?classifier=sources
+- pkg:maven/dk.nodes.nstack/nstack-kotlin-live-edit@3.1.400?type=aar
+- pkg:maven/dk.nodes.nstack/nstack-kotlin-live-edit@3.1.45?classifier=sources
+- pkg:maven/dk.nodes.nstack/nstack-kotlin-live-edit@3.1.45?type=aar
+- pkg:maven/dk.nodes.nstack/nstack-kotlin-live-edit@3.1.5?classifier=sources
+- pkg:maven/dk.nodes.nstack/nstack-kotlin-live-edit@3.1.5?type=aar

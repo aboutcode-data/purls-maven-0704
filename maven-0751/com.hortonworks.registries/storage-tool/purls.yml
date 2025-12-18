@@ -24,3 +24,5 @@
 - pkg:maven/com.hortonworks.registries/storage-tool@0.6.0?classifier=sources
 - pkg:maven/com.hortonworks.registries/storage-tool@0.7.0
 - pkg:maven/com.hortonworks.registries/storage-tool@0.7.0?classifier=sources
+- pkg:maven/com.hortonworks.registries/storage-tool@0.8.0
+- pkg:maven/com.hortonworks.registries/storage-tool@0.8.0?classifier=sources

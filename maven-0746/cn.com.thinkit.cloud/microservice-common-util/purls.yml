@@ -16,5 +16,11 @@
 - pkg:maven/cn.com.thinkit.cloud/microservice-common-util@1.0.1?classifier=sources
 - pkg:maven/cn.com.thinkit.cloud/microservice-common-util@1.0.2
 - pkg:maven/cn.com.thinkit.cloud/microservice-common-util@1.0.2?classifier=sources
+- pkg:maven/cn.com.thinkit.cloud/microservice-common-util@1.0.3
 - pkg:maven/cn.com.thinkit.cloud/microservice-common-util@1.0.3-BETA
 - pkg:maven/cn.com.thinkit.cloud/microservice-common-util@1.0.3-BETA?classifier=sources
+- pkg:maven/cn.com.thinkit.cloud/microservice-common-util@1.0.3?classifier=sources
+- pkg:maven/cn.com.thinkit.cloud/microservice-common-util@1.0.4
+- pkg:maven/cn.com.thinkit.cloud/microservice-common-util@1.0.4?classifier=sources
+- pkg:maven/cn.com.thinkit.cloud/microservice-common-util@1.0.5
+- pkg:maven/cn.com.thinkit.cloud/microservice-common-util@1.0.5?classifier=sources

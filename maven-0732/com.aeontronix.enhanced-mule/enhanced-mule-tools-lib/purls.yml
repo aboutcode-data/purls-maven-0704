@@ -1,0 +1,12 @@
+- pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-tools-lib@1.0-beta4
+- pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-tools-lib@1.0-beta4?classifier=sources
+- pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-tools-lib@1.0-beta5
+- pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-tools-lib@1.0-beta5?classifier=sources
+- pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-tools-lib@1.0-beta6
+- pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-tools-lib@1.0-beta6?classifier=sources
+- pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-tools-lib@1.0beta1
+- pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-tools-lib@1.0beta1?classifier=sources
+- pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-tools-lib@1.0beta2
+- pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-tools-lib@1.0beta2?classifier=sources
+- pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-tools-lib@1.0beta3
+- pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-tools-lib@1.0beta3?classifier=sources

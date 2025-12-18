@@ -1,0 +1,2 @@
+- pkg:maven/com.gomyck/gomyck-redis-spring-boot-starter@1.0.2-Release
+- pkg:maven/com.gomyck/gomyck-redis-spring-boot-starter@1.0.2-Release?classifier=sources

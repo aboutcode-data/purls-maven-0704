@@ -1,0 +1,14 @@
+- pkg:maven/cn.springcloud.gray/spring-cloud-gray-plugin-feign@A.1.1.0
+- pkg:maven/cn.springcloud.gray/spring-cloud-gray-plugin-feign@A.1.1.0.RELEASE
+- pkg:maven/cn.springcloud.gray/spring-cloud-gray-plugin-feign@A.1.1.0.RELEASE?classifier=sources
+- pkg:maven/cn.springcloud.gray/spring-cloud-gray-plugin-feign@A.1.1.0?classifier=sources
+- pkg:maven/cn.springcloud.gray/spring-cloud-gray-plugin-feign@A.1.1.1
+- pkg:maven/cn.springcloud.gray/spring-cloud-gray-plugin-feign@A.1.1.1?classifier=sources
+- pkg:maven/cn.springcloud.gray/spring-cloud-gray-plugin-feign@A.1.1.2
+- pkg:maven/cn.springcloud.gray/spring-cloud-gray-plugin-feign@A.1.1.2?classifier=sources
+- pkg:maven/cn.springcloud.gray/spring-cloud-gray-plugin-feign@B.0.0.1
+- pkg:maven/cn.springcloud.gray/spring-cloud-gray-plugin-feign@B.0.0.1?classifier=sources
+- pkg:maven/cn.springcloud.gray/spring-cloud-gray-plugin-feign@B.0.0.2
+- pkg:maven/cn.springcloud.gray/spring-cloud-gray-plugin-feign@B.0.0.2?classifier=sources
+- pkg:maven/cn.springcloud.gray/spring-cloud-gray-plugin-feign@C.0.0.1
+- pkg:maven/cn.springcloud.gray/spring-cloud-gray-plugin-feign@C.0.0.1?classifier=sources

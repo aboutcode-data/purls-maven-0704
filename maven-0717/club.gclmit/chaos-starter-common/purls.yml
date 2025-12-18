@@ -1,0 +1,2 @@
+- pkg:maven/club.gclmit/chaos-starter-common@1.0.0
+- pkg:maven/club.gclmit/chaos-starter-common@1.0.0?classifier=sources

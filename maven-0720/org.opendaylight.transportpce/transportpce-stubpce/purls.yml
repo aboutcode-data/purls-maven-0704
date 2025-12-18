@@ -1,0 +1,2 @@
+- pkg:maven/org.opendaylight.transportpce/transportpce-stubpce@0.2.0
+- pkg:maven/org.opendaylight.transportpce/transportpce-stubpce@0.2.0?classifier=sources

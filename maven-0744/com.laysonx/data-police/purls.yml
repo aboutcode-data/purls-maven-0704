@@ -1,0 +1,6 @@
+- pkg:maven/com.laysonx/data-police@1.1.0
+- pkg:maven/com.laysonx/data-police@1.1.0?classifier=sources
+- pkg:maven/com.laysonx/data-police@2.0.0
+- pkg:maven/com.laysonx/data-police@2.0.0?classifier=sources
+- pkg:maven/com.laysonx/data-police@2.1.0
+- pkg:maven/com.laysonx/data-police@2.1.0?classifier=sources

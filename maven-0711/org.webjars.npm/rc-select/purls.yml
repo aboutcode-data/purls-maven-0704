@@ -20,3 +20,5 @@
 - pkg:maven/org.webjars.npm/rc-select@9.0.2?classifier=sources
 - pkg:maven/org.webjars.npm/rc-select@9.1.3
 - pkg:maven/org.webjars.npm/rc-select@9.1.3?classifier=sources
+- pkg:maven/org.webjars.npm/rc-select@9.2.1
+- pkg:maven/org.webjars.npm/rc-select@9.2.1?classifier=sources

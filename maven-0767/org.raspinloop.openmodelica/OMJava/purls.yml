@@ -1,0 +1,3 @@
+- pkg:maven/org.raspinloop.openmodelica/OMJava@0.0.6?classifier=sources
+- pkg:maven/org.raspinloop.openmodelica/OMJava@0.0.8
+- pkg:maven/org.raspinloop.openmodelica/OMJava@0.0.8?classifier=sources

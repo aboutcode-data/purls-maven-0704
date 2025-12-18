@@ -10,3 +10,7 @@
 - pkg:maven/com.mastercard.api/mastercom@3.0.0?classifier=sources
 - pkg:maven/com.mastercard.api/mastercom@4.0.0
 - pkg:maven/com.mastercard.api/mastercom@4.0.0?classifier=sources
+- pkg:maven/com.mastercard.api/mastercom@5.0.0
+- pkg:maven/com.mastercard.api/mastercom@5.0.0?classifier=sources
+- pkg:maven/com.mastercard.api/mastercom@6.0.0
+- pkg:maven/com.mastercard.api/mastercom@6.0.0?classifier=sources

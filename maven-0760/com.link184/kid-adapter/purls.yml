@@ -24,3 +24,5 @@
 - pkg:maven/com.link184/kid-adapter@1.2.2?type=aar
 - pkg:maven/com.link184/kid-adapter@1.2.6?classifier=sources
 - pkg:maven/com.link184/kid-adapter@1.2.6?type=aar
+- pkg:maven/com.link184/kid-adapter@1.2.7?classifier=sources
+- pkg:maven/com.link184/kid-adapter@1.2.7?type=aar

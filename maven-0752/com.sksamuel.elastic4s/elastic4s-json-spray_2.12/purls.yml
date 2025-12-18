@@ -8,3 +8,11 @@
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-json-spray_2.12@7.0.3?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-json-spray_2.12@7.1.0
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-json-spray_2.12@7.1.0?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-json-spray_2.12@7.1.2
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-json-spray_2.12@7.1.2?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-json-spray_2.12@7.2.0
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-json-spray_2.12@7.2.0?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-json-spray_2.12@7.3.0
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-json-spray_2.12@7.3.0?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-json-spray_2.12@7.3.1
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-json-spray_2.12@7.3.1?classifier=sources

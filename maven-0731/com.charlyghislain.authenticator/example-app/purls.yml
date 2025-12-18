@@ -8,3 +8,5 @@
 - pkg:maven/com.charlyghislain.authenticator/example-app@1.0.4?type=war
 - pkg:maven/com.charlyghislain.authenticator/example-app@1.0.6?classifier=sources
 - pkg:maven/com.charlyghislain.authenticator/example-app@1.0.6?type=war
+- pkg:maven/com.charlyghislain.authenticator/example-app@1.0.7?classifier=sources
+- pkg:maven/com.charlyghislain.authenticator/example-app@1.0.7?type=war

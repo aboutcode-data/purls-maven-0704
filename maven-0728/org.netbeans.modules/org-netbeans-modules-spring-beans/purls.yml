@@ -1,3 +1,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spring-beans@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spring-beans@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-spring-beans@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-spring-beans@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spring-beans@RELEASE90?classifier=sources

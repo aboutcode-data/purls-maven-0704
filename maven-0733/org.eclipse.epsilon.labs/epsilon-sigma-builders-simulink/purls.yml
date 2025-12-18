@@ -1,0 +1,6 @@
+- pkg:maven/org.eclipse.epsilon.labs/epsilon-sigma-builders-simulink@1.0.0
+- pkg:maven/org.eclipse.epsilon.labs/epsilon-sigma-builders-simulink@1.0.0-rc
+- pkg:maven/org.eclipse.epsilon.labs/epsilon-sigma-builders-simulink@1.0.0-rc?classifier=sources
+- pkg:maven/org.eclipse.epsilon.labs/epsilon-sigma-builders-simulink@1.0.0?classifier=sources
+- pkg:maven/org.eclipse.epsilon.labs/epsilon-sigma-builders-simulink@2.0.0
+- pkg:maven/org.eclipse.epsilon.labs/epsilon-sigma-builders-simulink@2.0.0?classifier=sources

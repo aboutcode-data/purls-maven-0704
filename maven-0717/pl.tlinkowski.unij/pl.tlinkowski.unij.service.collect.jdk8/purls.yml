@@ -1,0 +1,2 @@
+- pkg:maven/pl.tlinkowski.unij/pl.tlinkowski.unij.service.collect.jdk8@0.1.1
+- pkg:maven/pl.tlinkowski.unij/pl.tlinkowski.unij.service.collect.jdk8@0.1.1?classifier=sources

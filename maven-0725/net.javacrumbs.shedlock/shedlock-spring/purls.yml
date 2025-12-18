@@ -72,3 +72,7 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-spring@2.4.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-spring@2.5.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-spring@2.5.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-spring@2.6.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-spring@2.6.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-spring@3.0.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-spring@3.0.0?classifier=sources

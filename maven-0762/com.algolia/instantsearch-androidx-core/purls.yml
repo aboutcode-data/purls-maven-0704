@@ -1,2 +1,4 @@
 - pkg:maven/com.algolia/instantsearch-androidx-core@1.15.2?classifier=sources
 - pkg:maven/com.algolia/instantsearch-androidx-core@1.15.2?type=aar
+- pkg:maven/com.algolia/instantsearch-androidx-core@1.15.3?classifier=sources
+- pkg:maven/com.algolia/instantsearch-androidx-core@1.15.3?type=aar

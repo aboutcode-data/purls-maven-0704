@@ -1,0 +1,2 @@
+- pkg:maven/org.opendaylight.affinity/flatl2.northbound@0.4.1
+- pkg:maven/org.opendaylight.affinity/flatl2.northbound@0.4.1?classifier=sources

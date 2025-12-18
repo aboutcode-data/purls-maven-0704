@@ -1,0 +1,2 @@
+- pkg:maven/io.gs2/gs2-java-sdk-gateway@2.0.0
+- pkg:maven/io.gs2/gs2-java-sdk-gateway@2.0.0?classifier=sources

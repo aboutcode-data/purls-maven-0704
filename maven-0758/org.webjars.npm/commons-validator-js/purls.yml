@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/commons-validator-js@1.0.1337
+- pkg:maven/org.webjars.npm/commons-validator-js@1.0.1337?classifier=sources

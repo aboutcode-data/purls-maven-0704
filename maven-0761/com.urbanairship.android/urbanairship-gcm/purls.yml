@@ -18,3 +18,4 @@
 - pkg:maven/com.urbanairship.android/urbanairship-gcm@9.6.1?type=aar
 - pkg:maven/com.urbanairship.android/urbanairship-gcm@9.7.0?type=aar
 - pkg:maven/com.urbanairship.android/urbanairship-gcm@9.7.1?type=aar
+- pkg:maven/com.urbanairship.android/urbanairship-gcm@9.7.2?type=aar

@@ -61,3 +61,9 @@
 - pkg:maven/net.wicp.tams/common-apiext@3.5.8?classifier=sources
 - pkg:maven/net.wicp.tams/common-apiext@3.5.9
 - pkg:maven/net.wicp.tams/common-apiext@3.5.9?classifier=sources
+- pkg:maven/net.wicp.tams/common-apiext@3.6.0
+- pkg:maven/net.wicp.tams/common-apiext@3.6.0?classifier=sources
+- pkg:maven/net.wicp.tams/common-apiext@3.6.3
+- pkg:maven/net.wicp.tams/common-apiext@3.6.3?classifier=sources
+- pkg:maven/net.wicp.tams/common-apiext@3.6.4
+- pkg:maven/net.wicp.tams/common-apiext@3.6.4?classifier=sources

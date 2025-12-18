@@ -1,0 +1,2 @@
+- pkg:maven/org.mongodb.scala/mongo-scala-driver_2.13@2.7.0
+- pkg:maven/org.mongodb.scala/mongo-scala-driver_2.13@2.7.0?classifier=sources

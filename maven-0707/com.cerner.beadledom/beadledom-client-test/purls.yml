@@ -12,3 +12,4 @@
 - pkg:maven/com.cerner.beadledom/beadledom-client-test@3.2.3
 - pkg:maven/com.cerner.beadledom/beadledom-client-test@3.2.4
 - pkg:maven/com.cerner.beadledom/beadledom-client-test@3.2.5
+- pkg:maven/com.cerner.beadledom/beadledom-client-test@3.3

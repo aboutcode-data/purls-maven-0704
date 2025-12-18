@@ -1,0 +1,2 @@
+- pkg:maven/com.outworkers/util-parsers_2.13@0.51.0
+- pkg:maven/com.outworkers/util-parsers_2.13@0.51.0?classifier=sources

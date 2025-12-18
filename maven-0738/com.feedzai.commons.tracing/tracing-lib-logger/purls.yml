@@ -6,3 +6,7 @@
 - pkg:maven/com.feedzai.commons.tracing/tracing-lib-logger@0.1.13?classifier=sources
 - pkg:maven/com.feedzai.commons.tracing/tracing-lib-logger@0.1.15
 - pkg:maven/com.feedzai.commons.tracing/tracing-lib-logger@0.1.15?classifier=sources
+- pkg:maven/com.feedzai.commons.tracing/tracing-lib-logger@0.1.16
+- pkg:maven/com.feedzai.commons.tracing/tracing-lib-logger@0.1.16?classifier=sources
+- pkg:maven/com.feedzai.commons.tracing/tracing-lib-logger@0.1.17
+- pkg:maven/com.feedzai.commons.tracing/tracing-lib-logger@0.1.17?classifier=sources

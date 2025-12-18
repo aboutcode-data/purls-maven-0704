@@ -1,0 +1,4 @@
+- pkg:maven/me.tatarka.shard/shard-backstack@1.0.0-beta01?classifier=sources
+- pkg:maven/me.tatarka.shard/shard-backstack@1.0.0-beta01?type=aar
+- pkg:maven/me.tatarka.shard/shard-backstack@1.0.0-beta02?classifier=sources
+- pkg:maven/me.tatarka.shard/shard-backstack@1.0.0-beta02?type=aar

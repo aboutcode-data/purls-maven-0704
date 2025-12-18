@@ -1,0 +1,2 @@
+- pkg:maven/io.monix/monix-kafka-10_2.13@1.0.0-RC5
+- pkg:maven/io.monix/monix-kafka-10_2.13@1.0.0-RC5?classifier=sources

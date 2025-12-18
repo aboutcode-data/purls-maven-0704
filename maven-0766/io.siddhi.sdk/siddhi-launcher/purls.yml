@@ -1,0 +1,6 @@
+- pkg:maven/io.siddhi.sdk/siddhi-launcher@2.0.0
+- pkg:maven/io.siddhi.sdk/siddhi-launcher@2.0.0?classifier=sources
+- pkg:maven/io.siddhi.sdk/siddhi-launcher@5.0.0
+- pkg:maven/io.siddhi.sdk/siddhi-launcher@5.0.0?classifier=sources
+- pkg:maven/io.siddhi.sdk/siddhi-launcher@5.1.0?classifier=sources
+- pkg:maven/io.siddhi.sdk/siddhi-launcher@5.1.0?type=zip

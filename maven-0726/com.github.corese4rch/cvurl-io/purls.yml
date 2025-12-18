@@ -1,2 +1,6 @@
 - pkg:maven/com.github.corese4rch/cvurl-io@0.9
 - pkg:maven/com.github.corese4rch/cvurl-io@0.9?classifier=sources
+- pkg:maven/com.github.corese4rch/cvurl-io@1.0
+- pkg:maven/com.github.corese4rch/cvurl-io@1.0?classifier=sources
+- pkg:maven/com.github.corese4rch/cvurl-io@1.1
+- pkg:maven/com.github.corese4rch/cvurl-io@1.1?classifier=sources

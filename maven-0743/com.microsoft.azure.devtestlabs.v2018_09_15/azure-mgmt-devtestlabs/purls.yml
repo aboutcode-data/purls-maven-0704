@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure.devtestlabs.v2018_09_15/azure-mgmt-devtestlabs@1.0.0-beta
+- pkg:maven/com.microsoft.azure.devtestlabs.v2018_09_15/azure-mgmt-devtestlabs@1.0.0-beta?classifier=sources

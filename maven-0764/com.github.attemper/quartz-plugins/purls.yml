@@ -1,0 +1,2 @@
+- pkg:maven/com.github.attemper/quartz-plugins@2.9.6
+- pkg:maven/com.github.attemper/quartz-plugins@2.9.6?classifier=sources

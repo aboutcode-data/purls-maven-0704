@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.sis.core/sis-feature@0.7?classifier=sources
 - pkg:maven/org.apache.sis.core/sis-feature@0.8
 - pkg:maven/org.apache.sis.core/sis-feature@0.8?classifier=sources
+- pkg:maven/org.apache.sis.core/sis-feature@1.0
+- pkg:maven/org.apache.sis.core/sis-feature@1.0?classifier=sources

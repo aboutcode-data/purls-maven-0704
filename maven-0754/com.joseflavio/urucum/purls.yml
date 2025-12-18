@@ -7,6 +7,8 @@
 - pkg:maven/com.joseflavio/urucum@1.0-A12?classifier=sources
 - pkg:maven/com.joseflavio/urucum@1.0-A13
 - pkg:maven/com.joseflavio/urucum@1.0-A13?classifier=sources
+- pkg:maven/com.joseflavio/urucum@1.0-A14
+- pkg:maven/com.joseflavio/urucum@1.0-A14?classifier=sources
 - pkg:maven/com.joseflavio/urucum@1.0-A1?classifier=sources
 - pkg:maven/com.joseflavio/urucum@1.0-A2
 - pkg:maven/com.joseflavio/urucum@1.0-A2?classifier=sources

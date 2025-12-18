@@ -1,3 +1,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-debug@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-debug@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-debug@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-debug@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-debug@RELEASE90?classifier=sources

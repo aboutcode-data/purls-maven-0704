@@ -1,3 +1,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-core-windows@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-windows@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-core-windows@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-core-windows@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-windows@RELEASE90?classifier=sources

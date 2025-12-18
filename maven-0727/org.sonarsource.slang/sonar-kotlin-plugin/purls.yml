@@ -1,3 +1,5 @@
 - pkg:maven/org.sonarsource.slang/sonar-kotlin-plugin@1.0.0.928?classifier=sources
 - pkg:maven/org.sonarsource.slang/sonar-kotlin-plugin@1.5.0.315
 - pkg:maven/org.sonarsource.slang/sonar-kotlin-plugin@1.5.0.315?classifier=sources
+- pkg:maven/org.sonarsource.slang/sonar-kotlin-plugin@1.7.0.883
+- pkg:maven/org.sonarsource.slang/sonar-kotlin-plugin@1.7.0.883?classifier=sources

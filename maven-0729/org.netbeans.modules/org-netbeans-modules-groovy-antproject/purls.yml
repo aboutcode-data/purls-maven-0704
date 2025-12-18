@@ -1,2 +1,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-antproject@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-antproject@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-antproject@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-antproject@RELEASE112?classifier=sources

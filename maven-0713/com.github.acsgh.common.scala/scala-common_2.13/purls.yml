@@ -1,0 +1,4 @@
+- pkg:maven/com.github.acsgh.common.scala/scala-common_2.13@1.2.12
+- pkg:maven/com.github.acsgh.common.scala/scala-common_2.13@1.2.12?classifier=sources
+- pkg:maven/com.github.acsgh.common.scala/scala-common_2.13@1.2.4
+- pkg:maven/com.github.acsgh.common.scala/scala-common_2.13@1.2.4?classifier=sources

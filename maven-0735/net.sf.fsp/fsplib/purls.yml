@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.fsp/fsplib@1.0.0-RC10?classifier=sources
+- pkg:maven/net.sf.fsp/fsplib@1.0.0-RC10?type=zip

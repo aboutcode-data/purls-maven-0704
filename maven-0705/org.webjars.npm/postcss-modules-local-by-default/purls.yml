@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/postcss-modules-local-by-default@1.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/postcss-modules-local-by-default@2.0.4
 - pkg:maven/org.webjars.npm/postcss-modules-local-by-default@2.0.4?classifier=sources
+- pkg:maven/org.webjars.npm/postcss-modules-local-by-default@2.0.6
+- pkg:maven/org.webjars.npm/postcss-modules-local-by-default@2.0.6?classifier=sources

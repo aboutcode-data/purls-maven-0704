@@ -25,3 +25,9 @@
 - pkg:maven/org.springframework.boot/spring-boot-starter-data-mongodb-reactive@2.1.4.RELEASE
 - pkg:maven/org.springframework.boot/spring-boot-starter-data-mongodb-reactive@2.1.5.RELEASE
 - pkg:maven/org.springframework.boot/spring-boot-starter-data-mongodb-reactive@2.1.6.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-data-mongodb-reactive@2.1.7.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-data-mongodb-reactive@2.1.8.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-data-mongodb-reactive@2.1.9.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-data-mongodb-reactive@2.1.9.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-starter-data-mongodb-reactive@2.2.0.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-data-mongodb-reactive@2.2.0.RELEASE?classifier=sources

@@ -38,3 +38,5 @@
 - pkg:maven/com.saucelabs/saucerest@1.0.40?classifier=sources
 - pkg:maven/com.saucelabs/saucerest@1.0.42
 - pkg:maven/com.saucelabs/saucerest@1.0.42?classifier=sources
+- pkg:maven/com.saucelabs/saucerest@1.0.43
+- pkg:maven/com.saucelabs/saucerest@1.0.43?classifier=sources

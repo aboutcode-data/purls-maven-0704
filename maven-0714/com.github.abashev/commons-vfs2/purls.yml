@@ -1,2 +1,4 @@
 - pkg:maven/com.github.abashev/commons-vfs2@2.2-20181130
 - pkg:maven/com.github.abashev/commons-vfs2@2.2-20181130?classifier=sources
+- pkg:maven/com.github.abashev/commons-vfs2@2.4.1.1
+- pkg:maven/com.github.abashev/commons-vfs2@2.4.1.1?classifier=sources

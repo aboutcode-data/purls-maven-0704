@@ -75,6 +75,7 @@
 - pkg:maven/org.stagemonitor/stagemonitor-os@0.87.8?classifier=sources
 - pkg:maven/org.stagemonitor/stagemonitor-os@0.87.9?classifier=sources
 - pkg:maven/org.stagemonitor/stagemonitor-os@0.88.0?classifier=sources
+- pkg:maven/org.stagemonitor/stagemonitor-os@0.88.10?classifier=sources
 - pkg:maven/org.stagemonitor/stagemonitor-os@0.88.1?classifier=sources
 - pkg:maven/org.stagemonitor/stagemonitor-os@0.88.2?classifier=sources
 - pkg:maven/org.stagemonitor/stagemonitor-os@0.88.3?classifier=sources
@@ -84,6 +85,7 @@
 - pkg:maven/org.stagemonitor/stagemonitor-os@0.88.7?classifier=sources
 - pkg:maven/org.stagemonitor/stagemonitor-os@0.88.8?classifier=sources
 - pkg:maven/org.stagemonitor/stagemonitor-os@0.88.9?classifier=sources
+- pkg:maven/org.stagemonitor/stagemonitor-os@0.89.0?classifier=sources
 - pkg:maven/org.stagemonitor/stagemonitor-os@0.9.1
 - pkg:maven/org.stagemonitor/stagemonitor-os@0.9.1?classifier=sources
 - pkg:maven/org.stagemonitor/stagemonitor-os@0.9.2

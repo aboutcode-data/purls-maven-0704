@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/vega-typings@0.3.51
+- pkg:maven/org.webjars.npm/vega-typings@0.3.51?classifier=sources
 - pkg:maven/org.webjars.npm/vega-typings@0.3.53
 - pkg:maven/org.webjars.npm/vega-typings@0.3.53?classifier=sources

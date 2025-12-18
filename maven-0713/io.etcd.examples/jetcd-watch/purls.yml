@@ -1,0 +1,2 @@
+- pkg:maven/io.etcd.examples/jetcd-watch@0.4.1
+- pkg:maven/io.etcd.examples/jetcd-watch@0.4.1?classifier=sources

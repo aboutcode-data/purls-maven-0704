@@ -63,6 +63,10 @@
 - pkg:maven/org.rundeck/rundeck-core@2.11.11?classifier=sources
 - pkg:maven/org.rundeck/rundeck-core@2.11.12
 - pkg:maven/org.rundeck/rundeck-core@2.11.12?classifier=sources
+- pkg:maven/org.rundeck/rundeck-core@2.11.13
+- pkg:maven/org.rundeck/rundeck-core@2.11.13?classifier=sources
+- pkg:maven/org.rundeck/rundeck-core@2.11.14
+- pkg:maven/org.rundeck/rundeck-core@2.11.14?classifier=sources
 - pkg:maven/org.rundeck/rundeck-core@2.11.1?classifier=sources
 - pkg:maven/org.rundeck/rundeck-core@2.11.2
 - pkg:maven/org.rundeck/rundeck-core@2.11.2?classifier=sources
@@ -200,6 +204,10 @@
 - pkg:maven/org.rundeck/rundeck-core@3.0.23-20190619?classifier=sources
 - pkg:maven/org.rundeck/rundeck-core@3.0.24-20190719
 - pkg:maven/org.rundeck/rundeck-core@3.0.24-20190719?classifier=sources
+- pkg:maven/org.rundeck/rundeck-core@3.0.25-20190814
+- pkg:maven/org.rundeck/rundeck-core@3.0.25-20190814?classifier=sources
+- pkg:maven/org.rundeck/rundeck-core@3.0.26-20190829
+- pkg:maven/org.rundeck/rundeck-core@3.0.26-20190829?classifier=sources
 - pkg:maven/org.rundeck/rundeck-core@3.0.5-20180828
 - pkg:maven/org.rundeck/rundeck-core@3.0.5-20180828?classifier=sources
 - pkg:maven/org.rundeck/rundeck-core@3.0.6-20180917
@@ -210,5 +218,11 @@
 - pkg:maven/org.rundeck/rundeck-core@3.0.8-20181029?classifier=sources
 - pkg:maven/org.rundeck/rundeck-core@3.0.9-20181127
 - pkg:maven/org.rundeck/rundeck-core@3.0.9-20181127?classifier=sources
+- pkg:maven/org.rundeck/rundeck-core@3.1.0-20190731
+- pkg:maven/org.rundeck/rundeck-core@3.1.0-20190731?classifier=sources
 - pkg:maven/org.rundeck/rundeck-core@3.1.0-rc2-20190719
 - pkg:maven/org.rundeck/rundeck-core@3.1.0-rc2-20190719?classifier=sources
+- pkg:maven/org.rundeck/rundeck-core@3.1.1-20190923
+- pkg:maven/org.rundeck/rundeck-core@3.1.1-20190923?classifier=sources
+- pkg:maven/org.rundeck/rundeck-core@3.1.2-20190927
+- pkg:maven/org.rundeck/rundeck-core@3.1.2-20190927?classifier=sources

@@ -56,3 +56,5 @@
 - pkg:maven/org.fcrepo/fcrepo-webapp@5.0.1?type=war
 - pkg:maven/org.fcrepo/fcrepo-webapp@5.0.2?classifier=sources
 - pkg:maven/org.fcrepo/fcrepo-webapp@5.0.2?type=war
+- pkg:maven/org.fcrepo/fcrepo-webapp@5.1.0?classifier=sources
+- pkg:maven/org.fcrepo/fcrepo-webapp@5.1.0?type=war

@@ -13,3 +13,5 @@
 - pkg:maven/org.wildfly/wildfly-servlet-dist-legacy@17.0.0.Beta1
 - pkg:maven/org.wildfly/wildfly-servlet-dist-legacy@17.0.0.Final
 - pkg:maven/org.wildfly/wildfly-servlet-dist-legacy@17.0.1.Final
+- pkg:maven/org.wildfly/wildfly-servlet-dist-legacy@18.0.0.Beta1
+- pkg:maven/org.wildfly/wildfly-servlet-dist-legacy@18.0.0.Final

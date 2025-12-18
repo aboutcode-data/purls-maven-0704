@@ -1,3 +1,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-xml-retriever@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-xml-retriever@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-xml-retriever@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-xml-retriever@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-xml-retriever@RELEASE90?classifier=sources

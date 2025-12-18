@@ -1,2 +1,4 @@
 - pkg:maven/org.everit.authorization/org.everit.authorization.ri@1.0.0
 - pkg:maven/org.everit.authorization/org.everit.authorization.ri@1.0.0?classifier=sources
+- pkg:maven/org.everit.authorization/org.everit.authorization.ri@2.0.0
+- pkg:maven/org.everit.authorization/org.everit.authorization.ri@2.0.0?classifier=sources

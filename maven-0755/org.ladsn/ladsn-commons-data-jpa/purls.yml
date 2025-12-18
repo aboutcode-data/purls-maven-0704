@@ -1,2 +1,12 @@
 - pkg:maven/org.ladsn/ladsn-commons-data-jpa@2.1.4
+- pkg:maven/org.ladsn/ladsn-commons-data-jpa@2.1.4.RELEASE
+- pkg:maven/org.ladsn/ladsn-commons-data-jpa@2.1.4.RELEASE?classifier=sources
 - pkg:maven/org.ladsn/ladsn-commons-data-jpa@2.1.4?classifier=sources
+- pkg:maven/org.ladsn/ladsn-commons-data-jpa@2.1.5.RELEASE
+- pkg:maven/org.ladsn/ladsn-commons-data-jpa@2.1.5.RELEASE?classifier=sources
+- pkg:maven/org.ladsn/ladsn-commons-data-jpa@2.1.6.RELEASE
+- pkg:maven/org.ladsn/ladsn-commons-data-jpa@2.1.6.RELEASE?classifier=sources
+- pkg:maven/org.ladsn/ladsn-commons-data-jpa@2.1.7.RELEASE
+- pkg:maven/org.ladsn/ladsn-commons-data-jpa@2.1.7.RELEASE?classifier=sources
+- pkg:maven/org.ladsn/ladsn-commons-data-jpa@2.1.8.RELEASE
+- pkg:maven/org.ladsn/ladsn-commons-data-jpa@2.1.8.RELEASE?classifier=sources

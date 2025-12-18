@@ -1,0 +1,2 @@
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-jakartaee@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-jakartaee@RELEASE112?classifier=sources

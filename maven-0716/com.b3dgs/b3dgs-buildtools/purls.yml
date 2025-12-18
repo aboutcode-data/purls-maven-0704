@@ -3,3 +3,5 @@
 - pkg:maven/com.b3dgs/b3dgs-buildtools@1.1.0
 - pkg:maven/com.b3dgs/b3dgs-buildtools@1.1.1
 - pkg:maven/com.b3dgs/b3dgs-buildtools@1.1.2
+- pkg:maven/com.b3dgs/b3dgs-buildtools@1.1.3
+- pkg:maven/com.b3dgs/b3dgs-buildtools@1.1.4

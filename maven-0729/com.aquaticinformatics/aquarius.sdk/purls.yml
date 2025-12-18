@@ -48,3 +48,9 @@
 - pkg:maven/com.aquaticinformatics/aquarius.sdk@18.8.1?classifier=sources
 - pkg:maven/com.aquaticinformatics/aquarius.sdk@19.1.2
 - pkg:maven/com.aquaticinformatics/aquarius.sdk@19.1.2?classifier=sources
+- pkg:maven/com.aquaticinformatics/aquarius.sdk@19.2.0
+- pkg:maven/com.aquaticinformatics/aquarius.sdk@19.2.0?classifier=sources
+- pkg:maven/com.aquaticinformatics/aquarius.sdk@19.2.1
+- pkg:maven/com.aquaticinformatics/aquarius.sdk@19.2.1?classifier=sources
+- pkg:maven/com.aquaticinformatics/aquarius.sdk@19.3.0
+- pkg:maven/com.aquaticinformatics/aquarius.sdk@19.3.0?classifier=sources

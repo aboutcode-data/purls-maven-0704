@@ -1,0 +1,2 @@
+- pkg:maven/org.opendaylight.alto.basic/endpointcostservice-api@0.2.0-Beryllium
+- pkg:maven/org.opendaylight.alto.basic/endpointcostservice-api@0.2.0-Beryllium?classifier=sources

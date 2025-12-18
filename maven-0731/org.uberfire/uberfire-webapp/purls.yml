@@ -201,6 +201,12 @@
 - pkg:maven/org.uberfire/uberfire-webapp@2.20.0.Final?type=war
 - pkg:maven/org.uberfire/uberfire-webapp@2.21.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-webapp@2.21.0.Final?type=war
+- pkg:maven/org.uberfire/uberfire-webapp@2.22.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-webapp@2.22.0.Final?type=war
+- pkg:maven/org.uberfire/uberfire-webapp@2.23.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-webapp@2.23.0.Final?type=war
+- pkg:maven/org.uberfire/uberfire-webapp@2.24.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-webapp@2.24.0.Final?type=war
 - pkg:maven/org.uberfire/uberfire-webapp@2.3.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-webapp@2.3.0.Final?type=war
 - pkg:maven/org.uberfire/uberfire-webapp@2.4.0.Final?classifier=sources
@@ -215,3 +221,5 @@
 - pkg:maven/org.uberfire/uberfire-webapp@2.8.0.Final?type=war
 - pkg:maven/org.uberfire/uberfire-webapp@2.9.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-webapp@2.9.0.Final?type=war
+- pkg:maven/org.uberfire/uberfire-webapp@7.28.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-webapp@7.28.0.Final?type=war

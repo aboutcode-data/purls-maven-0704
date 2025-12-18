@@ -1,0 +1,2 @@
+- pkg:maven/io.github.lock-free/saio_2.12@0.0.2
+- pkg:maven/io.github.lock-free/saio_2.12@0.0.2?classifier=sources

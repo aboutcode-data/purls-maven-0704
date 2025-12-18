@@ -1,4 +1,12 @@
+- pkg:maven/org.apache.cxf.systests/cxf-systests-microprofile-tracing@3.2.10
+- pkg:maven/org.apache.cxf.systests/cxf-systests-microprofile-tracing@3.2.10?classifier=sources
+- pkg:maven/org.apache.cxf.systests/cxf-systests-microprofile-tracing@3.2.11
+- pkg:maven/org.apache.cxf.systests/cxf-systests-microprofile-tracing@3.2.11?classifier=sources
 - pkg:maven/org.apache.cxf.systests/cxf-systests-microprofile-tracing@3.2.9
 - pkg:maven/org.apache.cxf.systests/cxf-systests-microprofile-tracing@3.2.9?classifier=sources
 - pkg:maven/org.apache.cxf.systests/cxf-systests-microprofile-tracing@3.3.2
 - pkg:maven/org.apache.cxf.systests/cxf-systests-microprofile-tracing@3.3.2?classifier=sources
+- pkg:maven/org.apache.cxf.systests/cxf-systests-microprofile-tracing@3.3.3
+- pkg:maven/org.apache.cxf.systests/cxf-systests-microprofile-tracing@3.3.3?classifier=sources
+- pkg:maven/org.apache.cxf.systests/cxf-systests-microprofile-tracing@3.3.4
+- pkg:maven/org.apache.cxf.systests/cxf-systests-microprofile-tracing@3.3.4?classifier=sources

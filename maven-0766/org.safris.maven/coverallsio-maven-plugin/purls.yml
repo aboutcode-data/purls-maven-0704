@@ -1,0 +1,2 @@
+- pkg:maven/org.safris.maven/coverallsio-maven-plugin@4.3.0
+- pkg:maven/org.safris.maven/coverallsio-maven-plugin@4.3.0?classifier=sources

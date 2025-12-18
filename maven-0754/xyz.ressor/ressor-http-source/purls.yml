@@ -1,0 +1,6 @@
+- pkg:maven/xyz.ressor/ressor-http-source@1.0.0-beta.2
+- pkg:maven/xyz.ressor/ressor-http-source@1.0.0-beta.2?classifier=sources
+- pkg:maven/xyz.ressor/ressor-http-source@1.0.0-beta.3
+- pkg:maven/xyz.ressor/ressor-http-source@1.0.0-beta.3?classifier=sources
+- pkg:maven/xyz.ressor/ressor-http-source@1.0.0-beta.4
+- pkg:maven/xyz.ressor/ressor-http-source@1.0.0-beta.4?classifier=sources

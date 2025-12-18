@@ -1,0 +1,14 @@
+- pkg:maven/org.lrng.binding/namebasedxml_2.12@0.0.0%2B71-42855665
+- pkg:maven/org.lrng.binding/namebasedxml_2.12@0.0.0%2B71-42855665?classifier=sources
+- pkg:maven/org.lrng.binding/namebasedxml_2.12@0.0.0%2B72-d115922b
+- pkg:maven/org.lrng.binding/namebasedxml_2.12@0.0.0%2B72-d115922b?classifier=sources
+- pkg:maven/org.lrng.binding/namebasedxml_2.12@1.0.0
+- pkg:maven/org.lrng.binding/namebasedxml_2.12@1.0.0%2B1-94362de8
+- pkg:maven/org.lrng.binding/namebasedxml_2.12@1.0.0%2B1-94362de8?classifier=sources
+- pkg:maven/org.lrng.binding/namebasedxml_2.12@1.0.0%2B11-88d3c844
+- pkg:maven/org.lrng.binding/namebasedxml_2.12@1.0.0%2B11-88d3c844?classifier=sources
+- pkg:maven/org.lrng.binding/namebasedxml_2.12@1.0.0%2B2-3d11f023
+- pkg:maven/org.lrng.binding/namebasedxml_2.12@1.0.0%2B2-3d11f023?classifier=sources
+- pkg:maven/org.lrng.binding/namebasedxml_2.12@1.0.0%2B3-5d3c0ff0
+- pkg:maven/org.lrng.binding/namebasedxml_2.12@1.0.0%2B3-5d3c0ff0?classifier=sources
+- pkg:maven/org.lrng.binding/namebasedxml_2.12@1.0.0?classifier=sources

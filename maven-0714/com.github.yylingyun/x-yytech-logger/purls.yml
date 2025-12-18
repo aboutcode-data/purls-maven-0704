@@ -1,0 +1,2 @@
+- pkg:maven/com.github.yylingyun/x-yytech-logger@1.0.RELEASE
+- pkg:maven/com.github.yylingyun/x-yytech-logger@1.0.RELEASE?classifier=sources

@@ -8,3 +8,4 @@
 - pkg:maven/org.daisy.dotify/dotify-cli@3.0.0?classifier=sources
 - pkg:maven/org.daisy.dotify/dotify-cli@3.1.0?classifier=sources
 - pkg:maven/org.daisy.dotify/dotify-cli@3.2.0?classifier=sources
+- pkg:maven/org.daisy.dotify/dotify-cli@3.2.1?classifier=sources

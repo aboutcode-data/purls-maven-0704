@@ -6,6 +6,7 @@
 - pkg:maven/org.mycore/mycore-coma@2018.06.0.2
 - pkg:maven/org.mycore/mycore-coma@2018.06.0.2?classifier=sources
 - pkg:maven/org.mycore/mycore-coma@2018.06.0.3
+- pkg:maven/org.mycore/mycore-coma@2018.06.0.4
 - pkg:maven/org.mycore/mycore-coma@2018.06.0?classifier=sources
 - pkg:maven/org.mycore/mycore-coma@2018.08
 - pkg:maven/org.mycore/mycore-coma@2018.08?classifier=sources
@@ -14,3 +15,4 @@
 - pkg:maven/org.mycore/mycore-coma@2019.02
 - pkg:maven/org.mycore/mycore-coma@2019.02?classifier=sources
 - pkg:maven/org.mycore/mycore-coma@2019.05
+- pkg:maven/org.mycore/mycore-coma@2019.06.1

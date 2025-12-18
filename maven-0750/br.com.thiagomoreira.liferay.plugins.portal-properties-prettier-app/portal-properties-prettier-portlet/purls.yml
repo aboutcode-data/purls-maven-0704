@@ -14,3 +14,5 @@
 - pkg:maven/br.com.thiagomoreira.liferay.plugins.portal-properties-prettier-app/portal-properties-prettier-portlet@2.0.0?classifier=sources
 - pkg:maven/br.com.thiagomoreira.liferay.plugins.portal-properties-prettier-app/portal-properties-prettier-portlet@2.1.0
 - pkg:maven/br.com.thiagomoreira.liferay.plugins.portal-properties-prettier-app/portal-properties-prettier-portlet@2.1.0?classifier=sources
+- pkg:maven/br.com.thiagomoreira.liferay.plugins.portal-properties-prettier-app/portal-properties-prettier-portlet@3.0.0
+- pkg:maven/br.com.thiagomoreira.liferay.plugins.portal-properties-prettier-app/portal-properties-prettier-portlet@3.0.0?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/net.unit8.enkan/enkan-repl@0.10.0
+- pkg:maven/net.unit8.enkan/enkan-repl@0.10.0?classifier=sources
 - pkg:maven/net.unit8.enkan/enkan-repl@0.6.0
 - pkg:maven/net.unit8.enkan/enkan-repl@0.6.0-beta1
 - pkg:maven/net.unit8.enkan/enkan-repl@0.6.0-beta1?classifier=sources

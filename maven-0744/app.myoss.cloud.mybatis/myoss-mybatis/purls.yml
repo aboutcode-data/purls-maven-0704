@@ -22,3 +22,5 @@
 - pkg:maven/app.myoss.cloud.mybatis/myoss-mybatis@2.1.2.RELEASE?classifier=sources
 - pkg:maven/app.myoss.cloud.mybatis/myoss-mybatis@2.1.3.RELEASE
 - pkg:maven/app.myoss.cloud.mybatis/myoss-mybatis@2.1.3.RELEASE?classifier=sources
+- pkg:maven/app.myoss.cloud.mybatis/myoss-mybatis@2.1.4.RELEASE
+- pkg:maven/app.myoss.cloud.mybatis/myoss-mybatis@2.1.4.RELEASE?classifier=sources

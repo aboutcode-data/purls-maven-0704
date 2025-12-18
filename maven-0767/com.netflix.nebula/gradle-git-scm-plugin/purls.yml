@@ -24,3 +24,5 @@
 - pkg:maven/com.netflix.nebula/gradle-git-scm-plugin@4.1.4?classifier=sources
 - pkg:maven/com.netflix.nebula/gradle-git-scm-plugin@4.1.6
 - pkg:maven/com.netflix.nebula/gradle-git-scm-plugin@4.1.6?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-git-scm-plugin@4.2.0
+- pkg:maven/com.netflix.nebula/gradle-git-scm-plugin@4.2.0?classifier=sources

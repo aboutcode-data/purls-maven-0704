@@ -22,3 +22,5 @@
 - pkg:maven/org.exist-db/exist-apps-archetype@1.8?classifier=sources
 - pkg:maven/org.exist-db/exist-apps-archetype@1.9
 - pkg:maven/org.exist-db/exist-apps-archetype@1.9?classifier=sources
+- pkg:maven/org.exist-db/exist-apps-archetype@2.0.0
+- pkg:maven/org.exist-db/exist-apps-archetype@2.0.0?classifier=sources

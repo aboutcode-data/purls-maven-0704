@@ -1,0 +1,4 @@
+- pkg:maven/com.gu/content-api-client_2.13@15.3
+- pkg:maven/com.gu/content-api-client_2.13@15.3?classifier=sources
+- pkg:maven/com.gu/content-api-client_2.13@15.4
+- pkg:maven/com.gu/content-api-client_2.13@15.4?classifier=sources

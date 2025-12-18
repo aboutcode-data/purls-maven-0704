@@ -18,6 +18,8 @@
 - pkg:maven/com.alipay.sofa/tracer-sample-with-httpclient@2.3.4?classifier=sources
 - pkg:maven/com.alipay.sofa/tracer-sample-with-httpclient@2.4.0
 - pkg:maven/com.alipay.sofa/tracer-sample-with-httpclient@2.4.0?classifier=sources
+- pkg:maven/com.alipay.sofa/tracer-sample-with-httpclient@2.4.1
+- pkg:maven/com.alipay.sofa/tracer-sample-with-httpclient@2.4.1?classifier=sources
 - pkg:maven/com.alipay.sofa/tracer-sample-with-httpclient@3.0.0
 - pkg:maven/com.alipay.sofa/tracer-sample-with-httpclient@3.0.0?classifier=sources
 - pkg:maven/com.alipay.sofa/tracer-sample-with-httpclient@3.0.1
@@ -30,3 +32,5 @@
 - pkg:maven/com.alipay.sofa/tracer-sample-with-httpclient@3.0.4?classifier=sources
 - pkg:maven/com.alipay.sofa/tracer-sample-with-httpclient@3.0.5
 - pkg:maven/com.alipay.sofa/tracer-sample-with-httpclient@3.0.5?classifier=sources
+- pkg:maven/com.alipay.sofa/tracer-sample-with-httpclient@3.0.6
+- pkg:maven/com.alipay.sofa/tracer-sample-with-httpclient@3.0.6?classifier=sources

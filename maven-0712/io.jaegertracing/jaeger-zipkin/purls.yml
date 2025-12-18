@@ -42,3 +42,5 @@
 - pkg:maven/io.jaegertracing/jaeger-zipkin@0.35.4?classifier=sources
 - pkg:maven/io.jaegertracing/jaeger-zipkin@0.35.5
 - pkg:maven/io.jaegertracing/jaeger-zipkin@0.35.5?classifier=sources
+- pkg:maven/io.jaegertracing/jaeger-zipkin@1.0.0
+- pkg:maven/io.jaegertracing/jaeger-zipkin@1.0.0?classifier=sources

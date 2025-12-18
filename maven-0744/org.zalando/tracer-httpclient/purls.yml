@@ -26,6 +26,8 @@
 - pkg:maven/org.zalando/tracer-httpclient@0.17.0?classifier=sources
 - pkg:maven/org.zalando/tracer-httpclient@0.17.1
 - pkg:maven/org.zalando/tracer-httpclient@0.17.1?classifier=sources
+- pkg:maven/org.zalando/tracer-httpclient@0.17.2
+- pkg:maven/org.zalando/tracer-httpclient@0.17.2?classifier=sources
 - pkg:maven/org.zalando/tracer-httpclient@0.2.0
 - pkg:maven/org.zalando/tracer-httpclient@0.2.0?classifier=sources
 - pkg:maven/org.zalando/tracer-httpclient@0.3.0
@@ -50,3 +52,5 @@
 - pkg:maven/org.zalando/tracer-httpclient@2.0.0-RC.1?classifier=sources
 - pkg:maven/org.zalando/tracer-httpclient@2.0.0-RC.2
 - pkg:maven/org.zalando/tracer-httpclient@2.0.0-RC.2?classifier=sources
+- pkg:maven/org.zalando/tracer-httpclient@2.0.0-RC.3
+- pkg:maven/org.zalando/tracer-httpclient@2.0.0-RC.3?classifier=sources
