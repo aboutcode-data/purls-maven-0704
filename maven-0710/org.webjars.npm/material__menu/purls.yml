@@ -98,6 +98,8 @@
 - pkg:maven/org.webjars.npm/material__menu@11.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__menu@12.0.0
 - pkg:maven/org.webjars.npm/material__menu@12.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__menu@13.0.0
+- pkg:maven/org.webjars.npm/material__menu@13.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__menu@2.0.0
 - pkg:maven/org.webjars.npm/material__menu@2.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__menu@3.2.0

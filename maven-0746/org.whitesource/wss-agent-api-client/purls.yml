@@ -331,4 +331,6 @@
 - pkg:maven/org.whitesource/wss-agent-api-client@2.9.9.71?classifier=sources
 - pkg:maven/org.whitesource/wss-agent-api-client@2.9.9.72
 - pkg:maven/org.whitesource/wss-agent-api-client@2.9.9.72?classifier=sources
+- pkg:maven/org.whitesource/wss-agent-api-client@2.9.9.73
+- pkg:maven/org.whitesource/wss-agent-api-client@2.9.9.73?classifier=sources
 - pkg:maven/org.whitesource/wss-agent-api-client@2.9.9?classifier=sources

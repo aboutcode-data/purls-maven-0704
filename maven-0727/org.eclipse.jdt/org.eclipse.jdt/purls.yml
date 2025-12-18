@@ -18,3 +18,4 @@
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt@3.18.600
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt@3.18.700
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt@3.18.800
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt@3.18.900

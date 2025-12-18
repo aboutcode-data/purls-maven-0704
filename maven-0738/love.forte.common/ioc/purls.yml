@@ -22,3 +22,5 @@
 - pkg:maven/love.forte.common/ioc@1.0.3?classifier=sources
 - pkg:maven/love.forte.common/ioc@1.0.6
 - pkg:maven/love.forte.common/ioc@1.0.6?classifier=sources
+- pkg:maven/love.forte.common/ioc@1.0.7
+- pkg:maven/love.forte.common/ioc@1.0.7?classifier=sources

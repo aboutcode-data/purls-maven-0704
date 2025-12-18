@@ -1,2 +1,4 @@
 - pkg:maven/mil.nga/crs@1.0.0
 - pkg:maven/mil.nga/crs@1.0.0?classifier=sources
+- pkg:maven/mil.nga/crs@1.1.0
+- pkg:maven/mil.nga/crs@1.1.0?classifier=sources

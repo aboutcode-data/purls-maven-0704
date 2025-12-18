@@ -28,3 +28,4 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-open-service-broker@3.1.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-open-service-broker@3.2.0?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-open-service-broker@3.3.0?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-open-service-broker@3.3.1?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/com.metamug/mason@3.3?classifier=sources
 - pkg:maven/com.metamug/mason@3.4
 - pkg:maven/com.metamug/mason@3.4?classifier=sources
+- pkg:maven/com.metamug/mason@4.8
+- pkg:maven/com.metamug/mason@4.8?classifier=sources

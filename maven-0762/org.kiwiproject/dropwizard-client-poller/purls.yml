@@ -24,3 +24,5 @@
 - pkg:maven/org.kiwiproject/dropwizard-client-poller@0.8.0?classifier=sources
 - pkg:maven/org.kiwiproject/dropwizard-client-poller@0.9.0
 - pkg:maven/org.kiwiproject/dropwizard-client-poller@0.9.0?classifier=sources
+- pkg:maven/org.kiwiproject/dropwizard-client-poller@1.0.0
+- pkg:maven/org.kiwiproject/dropwizard-client-poller@1.0.0?classifier=sources

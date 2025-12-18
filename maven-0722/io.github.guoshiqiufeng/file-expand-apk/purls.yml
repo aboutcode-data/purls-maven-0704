@@ -1,0 +1,2 @@
+- pkg:maven/io.github.guoshiqiufeng/file-expand-apk@1.0.0
+- pkg:maven/io.github.guoshiqiufeng/file-expand-apk@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/link.thingscloud/spring-boot-common-vertx@1.4.1-RELEASE
+- pkg:maven/link.thingscloud/spring-boot-common-vertx@1.4.1-RELEASE?classifier=sources

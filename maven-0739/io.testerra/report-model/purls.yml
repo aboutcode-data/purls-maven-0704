@@ -12,8 +12,15 @@
 - pkg:maven/io.testerra/report-model@1.4?classifier=sources
 - pkg:maven/io.testerra/report-model@1.5?classifier=sources
 - pkg:maven/io.testerra/report-model@1.6?classifier=sources
+- pkg:maven/io.testerra/report-model@1.7?classifier=sources
+- pkg:maven/io.testerra/report-model@1.8?classifier=sources
 - pkg:maven/io.testerra/report-model@2.0-RC-10?classifier=sources
 - pkg:maven/io.testerra/report-model@2.0-RC-11?classifier=sources
+- pkg:maven/io.testerra/report-model@2.0-RC-12?classifier=sources
+- pkg:maven/io.testerra/report-model@2.0-RC-13?classifier=sources
+- pkg:maven/io.testerra/report-model@2.0-RC-14?classifier=sources
+- pkg:maven/io.testerra/report-model@2.0-RC-15?classifier=sources
+- pkg:maven/io.testerra/report-model@2.0-RC-16?classifier=sources
 - pkg:maven/io.testerra/report-model@2.0-RC-4?classifier=sources
 - pkg:maven/io.testerra/report-model@2.0-RC-5?classifier=sources
 - pkg:maven/io.testerra/report-model@2.0-RC-6?classifier=sources

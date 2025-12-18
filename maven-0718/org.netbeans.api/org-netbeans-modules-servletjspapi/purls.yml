@@ -9,3 +9,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-servletjspapi@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-servletjspapi@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-servletjspapi@RELEASE124?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-servletjspapi@RELEASE125?classifier=sources

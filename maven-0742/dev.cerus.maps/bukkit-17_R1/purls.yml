@@ -1,0 +1,6 @@
+- pkg:maven/dev.cerus.maps/bukkit-17_R1@1.0.0
+- pkg:maven/dev.cerus.maps/bukkit-17_R1@1.0.0?classifier=sources
+- pkg:maven/dev.cerus.maps/bukkit-17_R1@1.0.2
+- pkg:maven/dev.cerus.maps/bukkit-17_R1@1.0.2?classifier=sources
+- pkg:maven/dev.cerus.maps/bukkit-17_R1@1.0.3
+- pkg:maven/dev.cerus.maps/bukkit-17_R1@1.0.3?classifier=sources

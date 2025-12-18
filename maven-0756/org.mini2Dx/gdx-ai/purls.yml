@@ -15,6 +15,12 @@
 - pkg:maven/org.mini2Dx/gdx-ai@2.0.0-alpha.7
 - pkg:maven/org.mini2Dx/gdx-ai@2.0.0-alpha.7?classifier=sources
 - pkg:maven/org.mini2Dx/gdx-ai@2.0.0-alpha.8
+- pkg:maven/org.mini2Dx/gdx-ai@2.0.0-alpha.80
+- pkg:maven/org.mini2Dx/gdx-ai@2.0.0-alpha.80?classifier=sources
+- pkg:maven/org.mini2Dx/gdx-ai@2.0.0-alpha.80a
+- pkg:maven/org.mini2Dx/gdx-ai@2.0.0-alpha.80a?classifier=sources
+- pkg:maven/org.mini2Dx/gdx-ai@2.0.0-alpha.80b
+- pkg:maven/org.mini2Dx/gdx-ai@2.0.0-alpha.80b?classifier=sources
 - pkg:maven/org.mini2Dx/gdx-ai@2.0.0-alpha.8?classifier=sources
 - pkg:maven/org.mini2Dx/gdx-ai@2.0.0-alpha.9
 - pkg:maven/org.mini2Dx/gdx-ai@2.0.0-alpha.9?classifier=sources

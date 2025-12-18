@@ -3,3 +3,5 @@
 - pkg:maven/com.palantir.witchcraft.java.logging/gradle-witchcraft-logging@2.5.0?classifier=sources
 - pkg:maven/com.palantir.witchcraft.java.logging/gradle-witchcraft-logging@2.6.0?classifier=sources
 - pkg:maven/com.palantir.witchcraft.java.logging/gradle-witchcraft-logging@2.7.0?classifier=sources
+- pkg:maven/com.palantir.witchcraft.java.logging/gradle-witchcraft-logging@2.8.0?classifier=sources
+- pkg:maven/com.palantir.witchcraft.java.logging/gradle-witchcraft-logging@2.9.0?classifier=sources

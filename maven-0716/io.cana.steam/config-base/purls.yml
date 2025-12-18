@@ -1,0 +1,2 @@
+- pkg:maven/io.cana.steam/config-base@0.5.0
+- pkg:maven/io.cana.steam/config-base@0.5.0?classifier=sources

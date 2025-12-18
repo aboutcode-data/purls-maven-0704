@@ -6,3 +6,5 @@
 - pkg:maven/com.sandinh/subfolder-evolutions_2.12@2.6.7?classifier=sources
 - pkg:maven/com.sandinh/subfolder-evolutions_2.12@2.8.0
 - pkg:maven/com.sandinh/subfolder-evolutions_2.12@2.8.0?classifier=sources
+- pkg:maven/com.sandinh/subfolder-evolutions_2.12@2.8.1
+- pkg:maven/com.sandinh/subfolder-evolutions_2.12@2.8.1?classifier=sources

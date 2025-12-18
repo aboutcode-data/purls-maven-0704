@@ -220,3 +220,5 @@
 - pkg:maven/org.wicketstuff/modalx@9.3.0?classifier=sources
 - pkg:maven/org.wicketstuff/modalx@9.4.0
 - pkg:maven/org.wicketstuff/modalx@9.4.0?classifier=sources
+- pkg:maven/org.wicketstuff/modalx@9.5.0
+- pkg:maven/org.wicketstuff/modalx@9.5.0?classifier=sources

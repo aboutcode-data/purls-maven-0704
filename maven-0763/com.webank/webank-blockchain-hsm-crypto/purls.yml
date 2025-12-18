@@ -1,1 +1,2 @@
+- pkg:maven/com.webank/webank-blockchain-hsm-crypto@1.0.0-GMT0018?classifier=sources
 - pkg:maven/com.webank/webank-blockchain-hsm-crypto@1.0.0?classifier=sources

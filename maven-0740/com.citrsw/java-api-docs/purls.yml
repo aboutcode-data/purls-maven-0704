@@ -12,6 +12,12 @@
 - pkg:maven/com.citrsw/java-api-docs@1.5.0-beta?classifier=sources
 - pkg:maven/com.citrsw/java-api-docs@1.5.1-beta
 - pkg:maven/com.citrsw/java-api-docs@1.5.1-beta?classifier=sources
+- pkg:maven/com.citrsw/java-api-docs@1.5.10-beta
+- pkg:maven/com.citrsw/java-api-docs@1.5.10-beta?classifier=sources
+- pkg:maven/com.citrsw/java-api-docs@1.5.11-beta
+- pkg:maven/com.citrsw/java-api-docs@1.5.11-beta?classifier=sources
+- pkg:maven/com.citrsw/java-api-docs@1.5.12-beta
+- pkg:maven/com.citrsw/java-api-docs@1.5.12-beta?classifier=sources
 - pkg:maven/com.citrsw/java-api-docs@1.5.2-beta
 - pkg:maven/com.citrsw/java-api-docs@1.5.2-beta?classifier=sources
 - pkg:maven/com.citrsw/java-api-docs@1.5.3-beta
@@ -24,3 +30,7 @@
 - pkg:maven/com.citrsw/java-api-docs@1.5.6-beta?classifier=sources
 - pkg:maven/com.citrsw/java-api-docs@1.5.7-beta
 - pkg:maven/com.citrsw/java-api-docs@1.5.7-beta?classifier=sources
+- pkg:maven/com.citrsw/java-api-docs@1.5.8-beta
+- pkg:maven/com.citrsw/java-api-docs@1.5.8-beta?classifier=sources
+- pkg:maven/com.citrsw/java-api-docs@1.5.9-beta
+- pkg:maven/com.citrsw/java-api-docs@1.5.9-beta?classifier=sources

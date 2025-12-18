@@ -1,0 +1,2 @@
+- pkg:maven/com.pmanaktala/restricted-input@1.0.0
+- pkg:maven/com.pmanaktala/restricted-input@1.0.0?classifier=sources

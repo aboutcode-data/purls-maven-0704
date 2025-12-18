@@ -1,2 +1,4 @@
 - pkg:maven/cn.xx996/springboot-tool@1.0.0
 - pkg:maven/cn.xx996/springboot-tool@1.0.0?classifier=sources
+- pkg:maven/cn.xx996/springboot-tool@2.0.0
+- pkg:maven/cn.xx996/springboot-tool@2.0.0?classifier=sources

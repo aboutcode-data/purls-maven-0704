@@ -1,0 +1,2 @@
+- pkg:maven/io.github.omarchenko4j/camunda-bpm-spring-boot-starter-external-task-embedded-client@0.2.0
+- pkg:maven/io.github.omarchenko4j/camunda-bpm-spring-boot-starter-external-task-embedded-client@0.2.0?classifier=sources

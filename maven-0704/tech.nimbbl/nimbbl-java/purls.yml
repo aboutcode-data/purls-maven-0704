@@ -1,0 +1,2 @@
+- pkg:maven/tech.nimbbl/nimbbl-java@1.0.0.1
+- pkg:maven/tech.nimbbl/nimbbl-java@1.0.0.1?classifier=sources

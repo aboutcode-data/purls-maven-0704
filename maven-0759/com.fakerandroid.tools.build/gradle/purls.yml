@@ -21,6 +21,8 @@
 - pkg:maven/com.fakerandroid.tools.build/gradle@1.0.31?classifier=sources
 - pkg:maven/com.fakerandroid.tools.build/gradle@1.0.31a
 - pkg:maven/com.fakerandroid.tools.build/gradle@1.0.31a?classifier=sources
+- pkg:maven/com.fakerandroid.tools.build/gradle@1.0.32
+- pkg:maven/com.fakerandroid.tools.build/gradle@1.0.32?classifier=sources
 - pkg:maven/com.fakerandroid.tools.build/gradle@1.0.3?classifier=sources
 - pkg:maven/com.fakerandroid.tools.build/gradle@1.0.4
 - pkg:maven/com.fakerandroid.tools.build/gradle@1.0.4?classifier=sources

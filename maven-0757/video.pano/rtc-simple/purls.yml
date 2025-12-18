@@ -42,3 +42,13 @@
 - pkg:maven/video.pano/rtc-simple@1.5.6?type=aar
 - pkg:maven/video.pano/rtc-simple@1.5.7?classifier=sources
 - pkg:maven/video.pano/rtc-simple@1.5.7?type=aar
+- pkg:maven/video.pano/rtc-simple@1.5.9?classifier=sources
+- pkg:maven/video.pano/rtc-simple@1.5.9?type=aar
+- pkg:maven/video.pano/rtc-simple@1.6.0?classifier=sources
+- pkg:maven/video.pano/rtc-simple@1.6.0?type=aar
+- pkg:maven/video.pano/rtc-simple@1.6.1.1?classifier=sources
+- pkg:maven/video.pano/rtc-simple@1.6.1.1?type=aar
+- pkg:maven/video.pano/rtc-simple@1.6.1?classifier=sources
+- pkg:maven/video.pano/rtc-simple@1.6.1?type=aar
+- pkg:maven/video.pano/rtc-simple@1.6.2?classifier=sources
+- pkg:maven/video.pano/rtc-simple@1.6.2?type=aar

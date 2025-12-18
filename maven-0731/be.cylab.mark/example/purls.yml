@@ -54,3 +54,5 @@
 - pkg:maven/be.cylab.mark/example@2.5.2?classifier=sources
 - pkg:maven/be.cylab.mark/example@2.5.3
 - pkg:maven/be.cylab.mark/example@2.5.3?classifier=sources
+- pkg:maven/be.cylab.mark/example@2.6.0
+- pkg:maven/be.cylab.mark/example@2.6.0?classifier=sources

@@ -1,0 +1,12 @@
+- pkg:maven/com.daml/error_2.12@1.18.0-snapshot.20210921.7889.0.1b473c2b
+- pkg:maven/com.daml/error_2.12@1.18.0-snapshot.20210921.7889.0.1b473c2b?classifier=sources
+- pkg:maven/com.daml/error_2.12@1.18.0-snapshot.20210921.7889.1.1b473c2b
+- pkg:maven/com.daml/error_2.12@1.18.0-snapshot.20210921.7889.1.1b473c2b?classifier=sources
+- pkg:maven/com.daml/error_2.12@1.18.0-snapshot.20210922.7908.0.ced4a272
+- pkg:maven/com.daml/error_2.12@1.18.0-snapshot.20210922.7908.0.ced4a272?classifier=sources
+- pkg:maven/com.daml/error_2.12@1.18.0-snapshot.20210928.7948.0.b4d00317
+- pkg:maven/com.daml/error_2.12@1.18.0-snapshot.20210928.7948.0.b4d00317?classifier=sources
+- pkg:maven/com.daml/error_2.12@1.18.0-snapshot.20211006.8003.0.cfcdc13c
+- pkg:maven/com.daml/error_2.12@1.18.0-snapshot.20211006.8003.0.cfcdc13c?classifier=sources
+- pkg:maven/com.daml/error_2.12@1.18.0-snapshot.20211013.8071.0.514e8b50
+- pkg:maven/com.daml/error_2.12@1.18.0-snapshot.20211013.8071.0.514e8b50?classifier=sources

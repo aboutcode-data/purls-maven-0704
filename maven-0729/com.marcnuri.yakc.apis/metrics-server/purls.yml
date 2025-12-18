@@ -22,3 +22,5 @@
 - pkg:maven/com.marcnuri.yakc.apis/metrics-server@0.0.22?classifier=sources
 - pkg:maven/com.marcnuri.yakc.apis/metrics-server@0.0.23
 - pkg:maven/com.marcnuri.yakc.apis/metrics-server@0.0.23?classifier=sources
+- pkg:maven/com.marcnuri.yakc.apis/metrics-server@0.0.24
+- pkg:maven/com.marcnuri.yakc.apis/metrics-server@0.0.24?classifier=sources

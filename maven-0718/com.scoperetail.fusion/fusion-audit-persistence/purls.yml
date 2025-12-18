@@ -1,3 +1,7 @@
+- pkg:maven/com.scoperetail.fusion/fusion-audit-persistence@0.10
+- pkg:maven/com.scoperetail.fusion/fusion-audit-persistence@0.10?classifier=sources
+- pkg:maven/com.scoperetail.fusion/fusion-audit-persistence@0.11
+- pkg:maven/com.scoperetail.fusion/fusion-audit-persistence@0.11?classifier=sources
 - pkg:maven/com.scoperetail.fusion/fusion-audit-persistence@0.8
 - pkg:maven/com.scoperetail.fusion/fusion-audit-persistence@0.8?classifier=sources
 - pkg:maven/com.scoperetail.fusion/fusion-audit-persistence@0.9

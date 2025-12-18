@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/json-editor__json-editor@1.3.2
 - pkg:maven/org.webjars.npm/json-editor__json-editor@1.3.2?classifier=sources
+- pkg:maven/org.webjars.npm/json-editor__json-editor@2.5.4
+- pkg:maven/org.webjars.npm/json-editor__json-editor@2.5.4?classifier=sources

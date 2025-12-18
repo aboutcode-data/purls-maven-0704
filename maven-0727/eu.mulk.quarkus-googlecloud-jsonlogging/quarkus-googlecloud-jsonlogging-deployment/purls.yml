@@ -4,3 +4,11 @@
 - pkg:maven/eu.mulk.quarkus-googlecloud-jsonlogging/quarkus-googlecloud-jsonlogging-deployment@1.0.1?classifier=sources
 - pkg:maven/eu.mulk.quarkus-googlecloud-jsonlogging/quarkus-googlecloud-jsonlogging-deployment@1.1.0
 - pkg:maven/eu.mulk.quarkus-googlecloud-jsonlogging/quarkus-googlecloud-jsonlogging-deployment@1.1.0?classifier=sources
+- pkg:maven/eu.mulk.quarkus-googlecloud-jsonlogging/quarkus-googlecloud-jsonlogging-deployment@1.2.0
+- pkg:maven/eu.mulk.quarkus-googlecloud-jsonlogging/quarkus-googlecloud-jsonlogging-deployment@1.2.0?classifier=sources
+- pkg:maven/eu.mulk.quarkus-googlecloud-jsonlogging/quarkus-googlecloud-jsonlogging-deployment@2.0.0
+- pkg:maven/eu.mulk.quarkus-googlecloud-jsonlogging/quarkus-googlecloud-jsonlogging-deployment@2.0.0?classifier=sources
+- pkg:maven/eu.mulk.quarkus-googlecloud-jsonlogging/quarkus-googlecloud-jsonlogging-deployment@3.0.0
+- pkg:maven/eu.mulk.quarkus-googlecloud-jsonlogging/quarkus-googlecloud-jsonlogging-deployment@3.0.0?classifier=sources
+- pkg:maven/eu.mulk.quarkus-googlecloud-jsonlogging/quarkus-googlecloud-jsonlogging-deployment@3.1.0
+- pkg:maven/eu.mulk.quarkus-googlecloud-jsonlogging/quarkus-googlecloud-jsonlogging-deployment@3.1.0?classifier=sources

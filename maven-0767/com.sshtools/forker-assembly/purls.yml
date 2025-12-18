@@ -2,3 +2,4 @@
 - pkg:maven/com.sshtools/forker-assembly@1.6
 - pkg:maven/com.sshtools/forker-assembly@1.6.1
 - pkg:maven/com.sshtools/forker-assembly@1.6.3
+- pkg:maven/com.sshtools/forker-assembly@1.6.4

@@ -1,0 +1,2 @@
+- pkg:maven/io.monaru/shared-android@0.0.4?classifier=sources
+- pkg:maven/io.monaru/shared-android@0.0.5?classifier=sources

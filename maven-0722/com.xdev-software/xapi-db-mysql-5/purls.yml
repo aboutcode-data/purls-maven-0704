@@ -2,3 +2,5 @@
 - pkg:maven/com.xdev-software/xapi-db-mysql-5@1.0.0?classifier=sources
 - pkg:maven/com.xdev-software/xapi-db-mysql-5@5.0.0
 - pkg:maven/com.xdev-software/xapi-db-mysql-5@5.0.0?classifier=sources
+- pkg:maven/com.xdev-software/xapi-db-mysql-5@6.0.0
+- pkg:maven/com.xdev-software/xapi-db-mysql-5@6.0.0?classifier=sources

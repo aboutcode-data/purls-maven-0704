@@ -1,0 +1,2 @@
+- pkg:maven/io.github.jongmin92/upbit-server-mock@0.0.2?classifier=sources
+- pkg:maven/io.github.jongmin92/upbit-server-mock@1.0.0?classifier=sources

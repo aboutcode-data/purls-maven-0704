@@ -1,0 +1,2 @@
+- pkg:maven/com.v1ok/ebean-model@0.0.2
+- pkg:maven/com.v1ok/ebean-model@0.0.2?classifier=sources

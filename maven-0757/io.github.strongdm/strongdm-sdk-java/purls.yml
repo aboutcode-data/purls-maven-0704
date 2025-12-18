@@ -2,3 +2,4 @@
 - pkg:maven/io.github.strongdm/strongdm-sdk-java@0.9.29?classifier=sources
 - pkg:maven/io.github.strongdm/strongdm-sdk-java@0.9.30?classifier=sources
 - pkg:maven/io.github.strongdm/strongdm-sdk-java@0.9.31?classifier=sources
+- pkg:maven/io.github.strongdm/strongdm-sdk-java@0.9.32?classifier=sources

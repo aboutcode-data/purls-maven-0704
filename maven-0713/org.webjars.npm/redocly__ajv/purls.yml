@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/redocly__ajv@6.12.4
 - pkg:maven/org.webjars.npm/redocly__ajv@6.12.4?classifier=sources
+- pkg:maven/org.webjars.npm/redocly__ajv@8.6.2
+- pkg:maven/org.webjars.npm/redocly__ajv@8.6.2?classifier=sources

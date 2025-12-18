@@ -11,3 +11,5 @@
 - pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-core-jvm@0.4.3-kotlin-1.5.10?classifier=sources
 - pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-core-jvm@0.4.3?classifier=sources
 - pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-core-jvm@0.5.0?classifier=sources
+- pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-core-jvm@0.6.0-kotlin-1.5.20?classifier=sources
+- pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-core-jvm@0.6.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.xtdb/xtdb-kafka-embedded@1.19.0
+- pkg:maven/com.xtdb/xtdb-kafka-embedded@1.19.0-beta1

@@ -6,3 +6,5 @@
 - pkg:maven/com.immomo.momomedia/zaoface@3.2.1.202108232034?type=aar
 - pkg:maven/com.immomo.momomedia/zaoface@3.2.1.202108241029?classifier=sources
 - pkg:maven/com.immomo.momomedia/zaoface@3.2.1.202108241029?type=aar
+- pkg:maven/com.immomo.momomedia/zaoface@3.2.1.202110121509?classifier=sources
+- pkg:maven/com.immomo.momomedia/zaoface@3.2.1.202110121509?type=aar

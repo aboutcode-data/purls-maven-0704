@@ -80,3 +80,7 @@
 - pkg:maven/io.smallrye.config/smallrye-config-common@2.4.3?classifier=sources
 - pkg:maven/io.smallrye.config/smallrye-config-common@2.4.4
 - pkg:maven/io.smallrye.config/smallrye-config-common@2.4.4?classifier=sources
+- pkg:maven/io.smallrye.config/smallrye-config-common@2.5.0
+- pkg:maven/io.smallrye.config/smallrye-config-common@2.5.0?classifier=sources
+- pkg:maven/io.smallrye.config/smallrye-config-common@2.5.1
+- pkg:maven/io.smallrye.config/smallrye-config-common@2.5.1?classifier=sources

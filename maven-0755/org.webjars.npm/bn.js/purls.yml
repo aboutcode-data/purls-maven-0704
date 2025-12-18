@@ -1,8 +1,12 @@
 - pkg:maven/org.webjars.npm/bn.js@4.11.3
 - pkg:maven/org.webjars.npm/bn.js@4.11.3?classifier=sources
+- pkg:maven/org.webjars.npm/bn.js@4.11.6
+- pkg:maven/org.webjars.npm/bn.js@4.11.6?classifier=sources
 - pkg:maven/org.webjars.npm/bn.js@4.11.8
 - pkg:maven/org.webjars.npm/bn.js@4.11.8?classifier=sources
 - pkg:maven/org.webjars.npm/bn.js@4.11.9
 - pkg:maven/org.webjars.npm/bn.js@4.11.9?classifier=sources
 - pkg:maven/org.webjars.npm/bn.js@4.12.0
 - pkg:maven/org.webjars.npm/bn.js@4.12.0?classifier=sources
+- pkg:maven/org.webjars.npm/bn.js@5.2.0
+- pkg:maven/org.webjars.npm/bn.js@5.2.0?classifier=sources

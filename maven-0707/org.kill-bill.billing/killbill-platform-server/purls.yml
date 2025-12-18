@@ -219,6 +219,10 @@
 - pkg:maven/org.kill-bill.billing/killbill-platform-server@0.3?type=war
 - pkg:maven/org.kill-bill.billing/killbill-platform-server@0.40.0?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-platform-server@0.40.0?type=war
+- pkg:maven/org.kill-bill.billing/killbill-platform-server@0.40.10?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-platform-server@0.40.10?type=war
+- pkg:maven/org.kill-bill.billing/killbill-platform-server@0.40.11?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-platform-server@0.40.11?type=war
 - pkg:maven/org.kill-bill.billing/killbill-platform-server@0.40.1?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-platform-server@0.40.1?type=war
 - pkg:maven/org.kill-bill.billing/killbill-platform-server@0.40.2?classifier=sources
@@ -235,6 +239,8 @@
 - pkg:maven/org.kill-bill.billing/killbill-platform-server@0.40.7?type=war
 - pkg:maven/org.kill-bill.billing/killbill-platform-server@0.40.8?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-platform-server@0.40.8?type=war
+- pkg:maven/org.kill-bill.billing/killbill-platform-server@0.40.9?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-platform-server@0.40.9?type=war
 - pkg:maven/org.kill-bill.billing/killbill-platform-server@0.4?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-platform-server@0.4?type=war
 - pkg:maven/org.kill-bill.billing/killbill-platform-server@0.5?classifier=sources

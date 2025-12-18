@@ -46,3 +46,11 @@
 - pkg:maven/io.github.gamepubcorp/pubsdk@0.3.59?type=aar
 - pkg:maven/io.github.gamepubcorp/pubsdk@0.3.60?type=aar
 - pkg:maven/io.github.gamepubcorp/pubsdk@0.3.61?type=aar
+- pkg:maven/io.github.gamepubcorp/pubsdk@0.3.62?type=aar
+- pkg:maven/io.github.gamepubcorp/pubsdk@0.3.63?type=aar
+- pkg:maven/io.github.gamepubcorp/pubsdk@0.3.64?type=aar
+- pkg:maven/io.github.gamepubcorp/pubsdk@0.3.65?type=aar
+- pkg:maven/io.github.gamepubcorp/pubsdk@0.3.66?type=aar
+- pkg:maven/io.github.gamepubcorp/pubsdk@0.3.67?type=aar
+- pkg:maven/io.github.gamepubcorp/pubsdk@1.1.1?type=aar
+- pkg:maven/io.github.gamepubcorp/pubsdk@1.1.3?type=aar

@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/blueimp-gallery@2.18.1
 - pkg:maven/org.webjars.npm/blueimp-gallery@2.18.1?classifier=sources
+- pkg:maven/org.webjars.npm/blueimp-gallery@3.3.0
+- pkg:maven/org.webjars.npm/blueimp-gallery@3.3.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/fr.renardfute/SCALU@1.0
+- pkg:maven/fr.renardfute/SCALU@1.0?classifier=sources

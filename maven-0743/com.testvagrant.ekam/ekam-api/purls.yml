@@ -6,3 +6,5 @@
 - pkg:maven/com.testvagrant.ekam/ekam-api@0.0.3-alpha?classifier=sources
 - pkg:maven/com.testvagrant.ekam/ekam-api@0.1.0
 - pkg:maven/com.testvagrant.ekam/ekam-api@0.1.0?classifier=sources
+- pkg:maven/com.testvagrant.ekam/ekam-api@1.0.0
+- pkg:maven/com.testvagrant.ekam/ekam-api@1.0.0?classifier=sources

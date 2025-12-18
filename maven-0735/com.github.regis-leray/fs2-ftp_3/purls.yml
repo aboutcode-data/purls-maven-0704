@@ -1,0 +1,2 @@
+- pkg:maven/com.github.regis-leray/fs2-ftp_3@0.8.2
+- pkg:maven/com.github.regis-leray/fs2-ftp_3@0.8.2?classifier=sources

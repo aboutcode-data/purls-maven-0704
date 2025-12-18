@@ -1,2 +1,4 @@
 - pkg:maven/com.github.darrenjw/scala-smfsb_2.13@0.8
 - pkg:maven/com.github.darrenjw/scala-smfsb_2.13@0.8?classifier=sources
+- pkg:maven/com.github.darrenjw/scala-smfsb_2.13@0.9
+- pkg:maven/com.github.darrenjw/scala-smfsb_2.13@0.9?classifier=sources

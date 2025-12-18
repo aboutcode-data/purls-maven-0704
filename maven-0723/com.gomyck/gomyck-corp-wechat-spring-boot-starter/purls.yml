@@ -1,0 +1,2 @@
+- pkg:maven/com.gomyck/gomyck-corp-wechat-spring-boot-starter@1.1.4-RELEASE
+- pkg:maven/com.gomyck/gomyck-corp-wechat-spring-boot-starter@1.1.4-RELEASE?classifier=sources

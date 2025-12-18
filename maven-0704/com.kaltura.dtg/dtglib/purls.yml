@@ -2,6 +2,8 @@
 - pkg:maven/com.kaltura.dtg/dtglib@2.6.10?type=aar
 - pkg:maven/com.kaltura.dtg/dtglib@2.6.11?classifier=sources
 - pkg:maven/com.kaltura.dtg/dtglib@2.6.11?type=aar
+- pkg:maven/com.kaltura.dtg/dtglib@2.6.12?classifier=sources
+- pkg:maven/com.kaltura.dtg/dtglib@2.6.12?type=aar
 - pkg:maven/com.kaltura.dtg/dtglib@2.6.7?classifier=sources
 - pkg:maven/com.kaltura.dtg/dtglib@2.6.7?type=aar
 - pkg:maven/com.kaltura.dtg/dtglib@2.6.8?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.bio-matic/labeledseekslider@1.1.2?classifier=sources
+- pkg:maven/com.bio-matic/labeledseekslider@1.2.0?classifier=sources

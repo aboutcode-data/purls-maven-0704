@@ -4,6 +4,8 @@
 - pkg:maven/org.citationstyles/locales@2.0.0?classifier=sources
 - pkg:maven/org.citationstyles/locales@20.11
 - pkg:maven/org.citationstyles/locales@20.11?classifier=sources
+- pkg:maven/org.citationstyles/locales@21.10
+- pkg:maven/org.citationstyles/locales@21.10?classifier=sources
 - pkg:maven/org.citationstyles/locales@21.2
 - pkg:maven/org.citationstyles/locales@21.2?classifier=sources
 - pkg:maven/org.citationstyles/locales@21.3

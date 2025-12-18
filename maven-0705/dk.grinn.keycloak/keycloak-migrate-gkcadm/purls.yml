@@ -24,3 +24,5 @@
 - pkg:maven/dk.grinn.keycloak/keycloak-migrate-gkcadm@13.0.0.0?classifier=sources
 - pkg:maven/dk.grinn.keycloak/keycloak-migrate-gkcadm@15.0.0.0
 - pkg:maven/dk.grinn.keycloak/keycloak-migrate-gkcadm@15.0.0.0?classifier=sources
+- pkg:maven/dk.grinn.keycloak/keycloak-migrate-gkcadm@15.0.0.1
+- pkg:maven/dk.grinn.keycloak/keycloak-migrate-gkcadm@15.0.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.fededri.arch/shared-android@0.4?classifier=sources
+- pkg:maven/io.github.fededri.arch/shared-android@0.5?classifier=sources

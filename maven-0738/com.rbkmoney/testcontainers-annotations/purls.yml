@@ -6,3 +6,5 @@
 - pkg:maven/com.rbkmoney/testcontainers-annotations@1.2.6?classifier=sources
 - pkg:maven/com.rbkmoney/testcontainers-annotations@1.3.0
 - pkg:maven/com.rbkmoney/testcontainers-annotations@1.3.0?classifier=sources
+- pkg:maven/com.rbkmoney/testcontainers-annotations@1.3.1
+- pkg:maven/com.rbkmoney/testcontainers-annotations@1.3.1?classifier=sources

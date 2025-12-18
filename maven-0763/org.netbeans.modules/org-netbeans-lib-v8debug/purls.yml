@@ -10,3 +10,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-lib-v8debug@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-lib-v8debug@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-lib-v8debug@RELEASE124?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-lib-v8debug@RELEASE125?classifier=sources

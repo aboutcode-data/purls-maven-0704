@@ -2,3 +2,5 @@
 - pkg:maven/org.locationtech.geowave/geowave-cli-bigtable-embed@1.1.0?classifier=sources
 - pkg:maven/org.locationtech.geowave/geowave-cli-bigtable-embed@1.2.0
 - pkg:maven/org.locationtech.geowave/geowave-cli-bigtable-embed@1.2.0?classifier=sources
+- pkg:maven/org.locationtech.geowave/geowave-cli-bigtable-embed@2.0.0
+- pkg:maven/org.locationtech.geowave/geowave-cli-bigtable-embed@2.0.0?classifier=sources

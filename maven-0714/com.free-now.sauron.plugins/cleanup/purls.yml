@@ -1,0 +1,2 @@
+- pkg:maven/com.free-now.sauron.plugins/cleanup@0.0.1
+- pkg:maven/com.free-now.sauron.plugins/cleanup@0.0.1?classifier=sources

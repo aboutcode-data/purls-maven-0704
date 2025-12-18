@@ -4,6 +4,8 @@
 - pkg:maven/org.webjars.npm/vega-typings@0.18.2?classifier=sources
 - pkg:maven/org.webjars.npm/vega-typings@0.21.0
 - pkg:maven/org.webjars.npm/vega-typings@0.21.0?classifier=sources
+- pkg:maven/org.webjars.npm/vega-typings@0.22.0
+- pkg:maven/org.webjars.npm/vega-typings@0.22.0?classifier=sources
 - pkg:maven/org.webjars.npm/vega-typings@0.3.51
 - pkg:maven/org.webjars.npm/vega-typings@0.3.51?classifier=sources
 - pkg:maven/org.webjars.npm/vega-typings@0.3.53

@@ -28,3 +28,5 @@
 - pkg:maven/org.nlpub/watset@2.6.1?classifier=sources
 - pkg:maven/org.nlpub/watset@2.7.0
 - pkg:maven/org.nlpub/watset@2.7.0?classifier=sources
+- pkg:maven/org.nlpub/watset@2.7.2
+- pkg:maven/org.nlpub/watset@2.7.2?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.aliyun/nbftestpop20210831_223006136@1.0.0
+- pkg:maven/com.aliyun/nbftestpop20210831_223006136@1.0.0?classifier=sources
+- pkg:maven/com.aliyun/nbftestpop20210831_223006136@2.2.2
+- pkg:maven/com.aliyun/nbftestpop20210831_223006136@2.2.2?classifier=sources
+- pkg:maven/com.aliyun/nbftestpop20210831_223006136@4.0.0
+- pkg:maven/com.aliyun/nbftestpop20210831_223006136@4.0.0?classifier=sources

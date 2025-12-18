@@ -64,9 +64,13 @@
 - pkg:maven/org.infinispan/infinispan-docs@12.1.5.Final
 - pkg:maven/org.infinispan/infinispan-docs@12.1.6.Final
 - pkg:maven/org.infinispan/infinispan-docs@12.1.7.Final
+- pkg:maven/org.infinispan/infinispan-docs@13.0.0.CR1
+- pkg:maven/org.infinispan/infinispan-docs@13.0.0.CR2
 - pkg:maven/org.infinispan/infinispan-docs@13.0.0.Dev01
 - pkg:maven/org.infinispan/infinispan-docs@13.0.0.Dev02
 - pkg:maven/org.infinispan/infinispan-docs@13.0.0.Dev03
+- pkg:maven/org.infinispan/infinispan-docs@13.0.0.Dev04
+- pkg:maven/org.infinispan/infinispan-docs@13.0.0.Final
 - pkg:maven/org.infinispan/infinispan-docs@5.3.0.Final
 - pkg:maven/org.infinispan/infinispan-docs@6.0.2.Final
 - pkg:maven/org.infinispan/infinispan-docs@7.0.3.Final

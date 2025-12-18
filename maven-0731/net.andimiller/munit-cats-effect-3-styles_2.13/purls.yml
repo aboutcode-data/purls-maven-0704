@@ -1,0 +1,2 @@
+- pkg:maven/net.andimiller/munit-cats-effect-3-styles_2.13@1.0.0
+- pkg:maven/net.andimiller/munit-cats-effect-3-styles_2.13@1.0.0?classifier=sources

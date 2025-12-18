@@ -170,3 +170,7 @@
 - pkg:maven/org.sejda/sejda-fonts@4.2.5?classifier=sources
 - pkg:maven/org.sejda/sejda-fonts@4.2.6
 - pkg:maven/org.sejda/sejda-fonts@4.2.6?classifier=sources
+- pkg:maven/org.sejda/sejda-fonts@4.2.7
+- pkg:maven/org.sejda/sejda-fonts@4.2.7?classifier=sources
+- pkg:maven/org.sejda/sejda-fonts@4.2.8
+- pkg:maven/org.sejda/sejda-fonts@4.2.8?classifier=sources

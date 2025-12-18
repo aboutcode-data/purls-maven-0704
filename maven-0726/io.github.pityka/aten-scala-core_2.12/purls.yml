@@ -24,3 +24,9 @@
 - pkg:maven/io.github.pityka/aten-scala-core_2.12@0.0.0%2B94-3d5418a5?classifier=sources
 - pkg:maven/io.github.pityka/aten-scala-core_2.12@0.0.0%2B95-5401e60b
 - pkg:maven/io.github.pityka/aten-scala-core_2.12@0.0.0%2B95-5401e60b?classifier=sources
+- pkg:maven/io.github.pityka/aten-scala-core_2.12@0.0.0%2B97-95bad1eb
+- pkg:maven/io.github.pityka/aten-scala-core_2.12@0.0.0%2B97-95bad1eb?classifier=sources
+- pkg:maven/io.github.pityka/aten-scala-core_2.12@0.0.0%2B98-d86a7b82
+- pkg:maven/io.github.pityka/aten-scala-core_2.12@0.0.0%2B98-d86a7b82?classifier=sources
+- pkg:maven/io.github.pityka/aten-scala-core_2.12@0.0.0%2B99-1d12bfdd
+- pkg:maven/io.github.pityka/aten-scala-core_2.12@0.0.0%2B99-1d12bfdd?classifier=sources

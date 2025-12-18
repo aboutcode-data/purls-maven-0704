@@ -1,0 +1,3 @@
+- pkg:maven/io.github.xlopec/tea-time-travel-adapter-gson@1.0.0-alpha1-rc3?classifier=sources
+- pkg:maven/io.github.xlopec/tea-time-travel-adapter-gson@1.0.0-alpha1?classifier=sources
+- pkg:maven/io.github.xlopec/tea-time-travel-adapter-gson@v1.0.0-alpha1-rc2?classifier=sources

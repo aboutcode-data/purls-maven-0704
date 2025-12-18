@@ -1,2 +1,4 @@
 - pkg:maven/net.cactusthorn.config/tests@0.50
 - pkg:maven/net.cactusthorn.config/tests@0.50?classifier=sources
+- pkg:maven/net.cactusthorn.config/tests@0.70
+- pkg:maven/net.cactusthorn.config/tests@0.70?classifier=sources

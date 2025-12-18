@@ -6,5 +6,9 @@
 - pkg:maven/com.aliyun/cloudauth20190307@1.0.2?classifier=sources
 - pkg:maven/com.aliyun/cloudauth20190307@1.0.3
 - pkg:maven/com.aliyun/cloudauth20190307@1.0.3?classifier=sources
+- pkg:maven/com.aliyun/cloudauth20190307@1.0.4
+- pkg:maven/com.aliyun/cloudauth20190307@1.0.4?classifier=sources
+- pkg:maven/com.aliyun/cloudauth20190307@1.0.5
+- pkg:maven/com.aliyun/cloudauth20190307@1.0.5?classifier=sources
 - pkg:maven/com.aliyun/cloudauth20190307@2.0.0
 - pkg:maven/com.aliyun/cloudauth20190307@2.0.0?classifier=sources

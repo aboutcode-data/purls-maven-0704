@@ -1,0 +1,2 @@
+- pkg:maven/com.google.cloud/native-image-support@0.8.0
+- pkg:maven/com.google.cloud/native-image-support@0.8.0?classifier=sources

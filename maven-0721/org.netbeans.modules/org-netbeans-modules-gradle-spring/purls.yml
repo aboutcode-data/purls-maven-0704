@@ -9,3 +9,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-spring@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-spring@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-spring@RELEASE124?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-spring@RELEASE125?classifier=sources

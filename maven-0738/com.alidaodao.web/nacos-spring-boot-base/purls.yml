@@ -1,0 +1,4 @@
+- pkg:maven/com.alidaodao.web/nacos-spring-boot-base@0.1.10
+- pkg:maven/com.alidaodao.web/nacos-spring-boot-base@0.1.10?classifier=sources
+- pkg:maven/com.alidaodao.web/nacos-spring-boot-base@0.2.11
+- pkg:maven/com.alidaodao.web/nacos-spring-boot-base@0.2.11?classifier=sources

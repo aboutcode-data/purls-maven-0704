@@ -1,0 +1,4 @@
+- pkg:maven/com.netease.yunxin.kit/call-ui@1.3.3?classifier=sources
+- pkg:maven/com.netease.yunxin.kit/call-ui@1.3.3?type=aar
+- pkg:maven/com.netease.yunxin.kit/call-ui@1.4.0?classifier=sources
+- pkg:maven/com.netease.yunxin.kit/call-ui@1.4.0?type=aar

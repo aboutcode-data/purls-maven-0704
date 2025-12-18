@@ -88,6 +88,8 @@
 - pkg:maven/net.sourceforge.pmd/pmd-groovy@6.37.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-groovy@6.38.0
 - pkg:maven/net.sourceforge.pmd/pmd-groovy@6.38.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-groovy@6.39.0
+- pkg:maven/net.sourceforge.pmd/pmd-groovy@6.39.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-groovy@6.4.0
 - pkg:maven/net.sourceforge.pmd/pmd-groovy@6.4.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-groovy@6.5.0

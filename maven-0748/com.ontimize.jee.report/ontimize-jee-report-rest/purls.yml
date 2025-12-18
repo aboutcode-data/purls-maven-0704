@@ -1,0 +1,4 @@
+- pkg:maven/com.ontimize.jee.report/ontimize-jee-report-rest@3.0.0
+- pkg:maven/com.ontimize.jee.report/ontimize-jee-report-rest@3.0.0?classifier=sources
+- pkg:maven/com.ontimize.jee.report/ontimize-jee-report-rest@3.1.0
+- pkg:maven/com.ontimize.jee.report/ontimize-jee-report-rest@3.1.0?classifier=sources

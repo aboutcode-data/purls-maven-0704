@@ -4,3 +4,5 @@
 - pkg:maven/hu.blackbelt.bundles.eclipse-epsilon/org.eclipse.epsilon@1.5.1_2
 - pkg:maven/hu.blackbelt.bundles.eclipse-epsilon/org.eclipse.epsilon@2.2.0_1
 - pkg:maven/hu.blackbelt.bundles.eclipse-epsilon/org.eclipse.epsilon@2.2.0_2
+- pkg:maven/hu.blackbelt.bundles.eclipse-epsilon/org.eclipse.epsilon@2.3.0_1
+- pkg:maven/hu.blackbelt.bundles.eclipse-epsilon/org.eclipse.epsilon@2.3.0_1?classifier=sources

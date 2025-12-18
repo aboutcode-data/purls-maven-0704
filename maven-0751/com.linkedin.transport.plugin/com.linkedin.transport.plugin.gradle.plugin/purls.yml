@@ -4,3 +4,4 @@
 - pkg:maven/com.linkedin.transport.plugin/com.linkedin.transport.plugin.gradle.plugin@0.0.76?classifier=sources
 - pkg:maven/com.linkedin.transport.plugin/com.linkedin.transport.plugin.gradle.plugin@0.0.77?classifier=sources
 - pkg:maven/com.linkedin.transport.plugin/com.linkedin.transport.plugin.gradle.plugin@0.0.79?classifier=sources
+- pkg:maven/com.linkedin.transport.plugin/com.linkedin.transport.plugin.gradle.plugin@0.0.80?classifier=sources

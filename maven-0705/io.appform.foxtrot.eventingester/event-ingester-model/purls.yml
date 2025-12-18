@@ -1,0 +1,2 @@
+- pkg:maven/io.appform.foxtrot.eventingester/event-ingester-model@1.0
+- pkg:maven/io.appform.foxtrot.eventingester/event-ingester-model@1.0?classifier=sources

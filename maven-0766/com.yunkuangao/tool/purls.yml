@@ -2,3 +2,5 @@
 - pkg:maven/com.yunkuangao/tool@1.0.0?classifier=sources
 - pkg:maven/com.yunkuangao/tool@v1.0.0-beta.10
 - pkg:maven/com.yunkuangao/tool@v1.0.0-beta.10?classifier=sources
+- pkg:maven/com.yunkuangao/tool@v1.0.0-beta.11
+- pkg:maven/com.yunkuangao/tool@v1.0.0-beta.11?classifier=sources

@@ -18,6 +18,8 @@
 - pkg:maven/com.threatconnect.app/playbooks-core@2.12.2?classifier=sources
 - pkg:maven/com.threatconnect.app/playbooks-core@2.14.0
 - pkg:maven/com.threatconnect.app/playbooks-core@2.14.0?classifier=sources
+- pkg:maven/com.threatconnect.app/playbooks-core@2.15.0
+- pkg:maven/com.threatconnect.app/playbooks-core@2.15.0?classifier=sources
 - pkg:maven/com.threatconnect.app/playbooks-core@2.7.0
 - pkg:maven/com.threatconnect.app/playbooks-core@2.7.0?classifier=sources
 - pkg:maven/com.threatconnect.app/playbooks-core@2.7.3

@@ -86,3 +86,5 @@
 - pkg:maven/org.jberet/jberet-se@2.0.0.Final?classifier=sources
 - pkg:maven/org.jberet/jberet-se@2.0.1.Final
 - pkg:maven/org.jberet/jberet-se@2.0.1.Final?classifier=sources
+- pkg:maven/org.jberet/jberet-se@2.0.2.Final
+- pkg:maven/org.jberet/jberet-se@2.0.2.Final?classifier=sources

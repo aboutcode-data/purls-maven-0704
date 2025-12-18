@@ -1,0 +1,2 @@
+- pkg:maven/com.github.oheger/cloud-files-googledrive_2.13@0.3
+- pkg:maven/com.github.oheger/cloud-files-googledrive_2.13@0.3?classifier=sources

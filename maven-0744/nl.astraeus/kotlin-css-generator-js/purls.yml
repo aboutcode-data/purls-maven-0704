@@ -1,0 +1,2 @@
+- pkg:maven/nl.astraeus/kotlin-css-generator-js@1.0.1?classifier=sources
+- pkg:maven/nl.astraeus/kotlin-css-generator-js@1.0.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.monix/monix-nio_3@0.1.0
+- pkg:maven/io.monix/monix-nio_3@0.1.0?classifier=sources
