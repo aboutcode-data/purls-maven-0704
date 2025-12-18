@@ -1,0 +1,2 @@
+- pkg:maven/org.openmole.library/graph-constrained_2.12@1.12.7
+- pkg:maven/org.openmole.library/graph-constrained_2.12@1.12.7?classifier=sources

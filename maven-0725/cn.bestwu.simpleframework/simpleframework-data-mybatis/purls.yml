@@ -2,3 +2,5 @@
 - pkg:maven/cn.bestwu.simpleframework/simpleframework-data-mybatis@0.1.31?classifier=sources
 - pkg:maven/cn.bestwu.simpleframework/simpleframework-data-mybatis@0.1.32
 - pkg:maven/cn.bestwu.simpleframework/simpleframework-data-mybatis@0.1.32?classifier=sources
+- pkg:maven/cn.bestwu.simpleframework/simpleframework-data-mybatis@0.1.33
+- pkg:maven/cn.bestwu.simpleframework/simpleframework-data-mybatis@0.1.33?classifier=sources

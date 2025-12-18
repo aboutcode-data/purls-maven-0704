@@ -12,3 +12,5 @@
 - pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@1.2.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@1.2.1
 - pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@1.2.1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@2.0.0
+- pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@2.0.0?classifier=sources

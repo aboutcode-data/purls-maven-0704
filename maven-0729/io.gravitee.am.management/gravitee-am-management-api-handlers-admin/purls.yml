@@ -20,3 +20,13 @@
 - pkg:maven/io.gravitee.am.management/gravitee-am-management-api-handlers-admin@2.3.0?classifier=sources
 - pkg:maven/io.gravitee.am.management/gravitee-am-management-api-handlers-admin@2.4.0
 - pkg:maven/io.gravitee.am.management/gravitee-am-management-api-handlers-admin@2.4.0?classifier=sources
+- pkg:maven/io.gravitee.am.management/gravitee-am-management-api-handlers-admin@2.5.0
+- pkg:maven/io.gravitee.am.management/gravitee-am-management-api-handlers-admin@2.5.0?classifier=sources
+- pkg:maven/io.gravitee.am.management/gravitee-am-management-api-handlers-admin@2.6.0
+- pkg:maven/io.gravitee.am.management/gravitee-am-management-api-handlers-admin@2.6.0?classifier=sources
+- pkg:maven/io.gravitee.am.management/gravitee-am-management-api-handlers-admin@2.7.0
+- pkg:maven/io.gravitee.am.management/gravitee-am-management-api-handlers-admin@2.7.0?classifier=sources
+- pkg:maven/io.gravitee.am.management/gravitee-am-management-api-handlers-admin@2.7.1
+- pkg:maven/io.gravitee.am.management/gravitee-am-management-api-handlers-admin@2.7.1?classifier=sources
+- pkg:maven/io.gravitee.am.management/gravitee-am-management-api-handlers-admin@2.8.0
+- pkg:maven/io.gravitee.am.management/gravitee-am-management-api-handlers-admin@2.8.0?classifier=sources

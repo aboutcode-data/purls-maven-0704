@@ -50,6 +50,8 @@
 - pkg:maven/software.amazon.awscdk/codepipeline-api@0.26.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/codepipeline-api@0.27.0
 - pkg:maven/software.amazon.awscdk/codepipeline-api@0.27.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/codepipeline-api@0.28.0
+- pkg:maven/software.amazon.awscdk/codepipeline-api@0.28.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/codepipeline-api@0.8.2
 - pkg:maven/software.amazon.awscdk/codepipeline-api@0.8.2?classifier=sources
 - pkg:maven/software.amazon.awscdk/codepipeline-api@0.9.0

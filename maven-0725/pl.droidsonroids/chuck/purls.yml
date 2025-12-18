@@ -1,0 +1,6 @@
+- pkg:maven/pl.droidsonroids/chuck@1.1.36?classifier=sources
+- pkg:maven/pl.droidsonroids/chuck@1.1.36?type=aar
+- pkg:maven/pl.droidsonroids/chuck@1.1.45?classifier=sources
+- pkg:maven/pl.droidsonroids/chuck@1.1.45?type=aar
+- pkg:maven/pl.droidsonroids/chuck@1.1.46?classifier=sources
+- pkg:maven/pl.droidsonroids/chuck@1.1.46?type=aar

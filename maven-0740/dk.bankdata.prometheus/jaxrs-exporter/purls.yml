@@ -1,0 +1,1 @@
+- pkg:maven/dk.bankdata.prometheus/jaxrs-exporter@1.0.0?classifier=sources

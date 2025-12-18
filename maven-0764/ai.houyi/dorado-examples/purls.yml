@@ -38,3 +38,11 @@
 - pkg:maven/ai.houyi/dorado-examples@0.0.44?classifier=sources
 - pkg:maven/ai.houyi/dorado-examples@0.0.47
 - pkg:maven/ai.houyi/dorado-examples@0.0.47?classifier=sources
+- pkg:maven/ai.houyi/dorado-examples@0.0.48
+- pkg:maven/ai.houyi/dorado-examples@0.0.48?classifier=sources
+- pkg:maven/ai.houyi/dorado-examples@0.0.49
+- pkg:maven/ai.houyi/dorado-examples@0.0.49?classifier=sources
+- pkg:maven/ai.houyi/dorado-examples@0.0.50
+- pkg:maven/ai.houyi/dorado-examples@0.0.50?classifier=sources
+- pkg:maven/ai.houyi/dorado-examples@0.0.51
+- pkg:maven/ai.houyi/dorado-examples@0.0.51?classifier=sources

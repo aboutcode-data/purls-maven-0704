@@ -1,0 +1,2 @@
+- pkg:maven/org.http4s/http4s-jdk-http-client_2.13.0-M5@0.1.0
+- pkg:maven/org.http4s/http4s-jdk-http-client_2.13.0-M5@0.1.0?classifier=sources

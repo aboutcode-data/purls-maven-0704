@@ -1,0 +1,2 @@
+- pkg:maven/com.malliina/appbundler_2.13@1.4.0
+- pkg:maven/com.malliina/appbundler_2.13@1.4.0?classifier=sources

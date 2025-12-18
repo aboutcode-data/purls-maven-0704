@@ -1,2 +1,14 @@
 - pkg:maven/org.ekrich/sconfig_2.12@0.7.0
 - pkg:maven/org.ekrich/sconfig_2.12@0.7.0?classifier=sources
+- pkg:maven/org.ekrich/sconfig_2.12@0.7.5
+- pkg:maven/org.ekrich/sconfig_2.12@0.7.5?classifier=sources
+- pkg:maven/org.ekrich/sconfig_2.12@0.7.6
+- pkg:maven/org.ekrich/sconfig_2.12@0.7.6?classifier=sources
+- pkg:maven/org.ekrich/sconfig_2.12@0.8.0
+- pkg:maven/org.ekrich/sconfig_2.12@0.8.0?classifier=sources
+- pkg:maven/org.ekrich/sconfig_2.12@0.9.0
+- pkg:maven/org.ekrich/sconfig_2.12@0.9.0?classifier=sources
+- pkg:maven/org.ekrich/sconfig_2.12@0.9.1
+- pkg:maven/org.ekrich/sconfig_2.12@0.9.1?classifier=sources
+- pkg:maven/org.ekrich/sconfig_2.12@0.9.2
+- pkg:maven/org.ekrich/sconfig_2.12@0.9.2?classifier=sources

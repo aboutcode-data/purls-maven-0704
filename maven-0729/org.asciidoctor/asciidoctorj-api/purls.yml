@@ -10,5 +10,17 @@
 - pkg:maven/org.asciidoctor/asciidoctorj-api@1.6.1?classifier=sources
 - pkg:maven/org.asciidoctor/asciidoctorj-api@1.6.2
 - pkg:maven/org.asciidoctor/asciidoctorj-api@1.6.2?classifier=sources
+- pkg:maven/org.asciidoctor/asciidoctorj-api@1.7.0-RC.1
+- pkg:maven/org.asciidoctor/asciidoctorj-api@1.7.0-RC.1?classifier=sources
+- pkg:maven/org.asciidoctor/asciidoctorj-api@2.0.0
+- pkg:maven/org.asciidoctor/asciidoctorj-api@2.0.0-RC.1
+- pkg:maven/org.asciidoctor/asciidoctorj-api@2.0.0-RC.1?classifier=sources
+- pkg:maven/org.asciidoctor/asciidoctorj-api@2.0.0-RC.2
+- pkg:maven/org.asciidoctor/asciidoctorj-api@2.0.0-RC.2?classifier=sources
+- pkg:maven/org.asciidoctor/asciidoctorj-api@2.0.0-RC.3
+- pkg:maven/org.asciidoctor/asciidoctorj-api@2.0.0-RC.3?classifier=sources
+- pkg:maven/org.asciidoctor/asciidoctorj-api@2.0.0?classifier=sources
+- pkg:maven/org.asciidoctor/asciidoctorj-api@2.1.0
+- pkg:maven/org.asciidoctor/asciidoctorj-api@2.1.0?classifier=sources
 - pkg:maven/org.asciidoctor/asciidoctorj-api@v1.6.0-RC.2
 - pkg:maven/org.asciidoctor/asciidoctorj-api@v1.6.0-RC.2?classifier=sources

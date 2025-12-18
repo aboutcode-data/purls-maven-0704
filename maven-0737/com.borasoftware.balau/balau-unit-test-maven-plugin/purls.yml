@@ -1,0 +1,4 @@
+- pkg:maven/com.borasoftware.balau/balau-unit-test-maven-plugin@19.6.1
+- pkg:maven/com.borasoftware.balau/balau-unit-test-maven-plugin@19.6.1?classifier=sources
+- pkg:maven/com.borasoftware.balau/balau-unit-test-maven-plugin@19.6.2
+- pkg:maven/com.borasoftware.balau/balau-unit-test-maven-plugin@19.6.2?classifier=sources

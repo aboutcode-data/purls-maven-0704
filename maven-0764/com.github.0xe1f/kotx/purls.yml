@@ -52,8 +52,16 @@
 - pkg:maven/com.github.0xe1f/kotx@1.0.35?type=aar
 - pkg:maven/com.github.0xe1f/kotx@1.0.36?classifier=sources
 - pkg:maven/com.github.0xe1f/kotx@1.0.36?type=aar
+- pkg:maven/com.github.0xe1f/kotx@1.0.37?classifier=sources
+- pkg:maven/com.github.0xe1f/kotx@1.0.37?type=aar
+- pkg:maven/com.github.0xe1f/kotx@1.0.38?classifier=sources
+- pkg:maven/com.github.0xe1f/kotx@1.0.38?type=aar
+- pkg:maven/com.github.0xe1f/kotx@1.0.39?classifier=sources
+- pkg:maven/com.github.0xe1f/kotx@1.0.39?type=aar
 - pkg:maven/com.github.0xe1f/kotx@1.0.3?classifier=sources
 - pkg:maven/com.github.0xe1f/kotx@1.0.3?type=aar
+- pkg:maven/com.github.0xe1f/kotx@1.0.40?classifier=sources
+- pkg:maven/com.github.0xe1f/kotx@1.0.40?type=aar
 - pkg:maven/com.github.0xe1f/kotx@1.0.4?classifier=sources
 - pkg:maven/com.github.0xe1f/kotx@1.0.4?type=aar
 - pkg:maven/com.github.0xe1f/kotx@1.0.5?classifier=sources

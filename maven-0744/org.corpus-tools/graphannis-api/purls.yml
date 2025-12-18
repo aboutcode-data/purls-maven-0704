@@ -30,7 +30,15 @@
 - pkg:maven/org.corpus-tools/graphannis-api@0.19.0?classifier=sources
 - pkg:maven/org.corpus-tools/graphannis-api@0.19.1
 - pkg:maven/org.corpus-tools/graphannis-api@0.19.1?classifier=sources
+- pkg:maven/org.corpus-tools/graphannis-api@0.19.2
+- pkg:maven/org.corpus-tools/graphannis-api@0.19.2?classifier=sources
+- pkg:maven/org.corpus-tools/graphannis-api@0.19.4
+- pkg:maven/org.corpus-tools/graphannis-api@0.19.4?classifier=sources
 - pkg:maven/org.corpus-tools/graphannis-api@0.2.0
+- pkg:maven/org.corpus-tools/graphannis-api@0.20.0
+- pkg:maven/org.corpus-tools/graphannis-api@0.20.0?classifier=sources
+- pkg:maven/org.corpus-tools/graphannis-api@0.21.0
+- pkg:maven/org.corpus-tools/graphannis-api@0.21.0?classifier=sources
 - pkg:maven/org.corpus-tools/graphannis-api@0.3.0
 - pkg:maven/org.corpus-tools/graphannis-api@0.4.0
 - pkg:maven/org.corpus-tools/graphannis-api@0.5.0

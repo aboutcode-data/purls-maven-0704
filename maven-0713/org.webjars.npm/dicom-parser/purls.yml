@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/dicom-parser@1.8.3
+- pkg:maven/org.webjars.npm/dicom-parser@1.8.3?classifier=sources

@@ -27,4 +27,6 @@
 - pkg:maven/de.chandre.admin-tools/admin-tools-core-security@1.1.7
 - pkg:maven/de.chandre.admin-tools/admin-tools-core-security@1.1.7.1
 - pkg:maven/de.chandre.admin-tools/admin-tools-core-security@1.1.7.1?classifier=sources
+- pkg:maven/de.chandre.admin-tools/admin-tools-core-security@1.1.7.2
+- pkg:maven/de.chandre.admin-tools/admin-tools-core-security@1.1.7.2?classifier=sources
 - pkg:maven/de.chandre.admin-tools/admin-tools-core-security@1.1.7?classifier=sources

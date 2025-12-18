@@ -1,0 +1,2 @@
+- pkg:maven/com.typesafe.play/play-slick_2.13.0-RC2@5.0.0-M2
+- pkg:maven/com.typesafe.play/play-slick_2.13.0-RC2@5.0.0-M2?classifier=sources

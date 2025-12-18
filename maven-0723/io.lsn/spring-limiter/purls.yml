@@ -1,0 +1,2 @@
+- pkg:maven/io.lsn/spring-limiter@2.1.5
+- pkg:maven/io.lsn/spring-limiter@2.1.5?classifier=sources

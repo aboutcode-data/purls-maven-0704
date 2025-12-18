@@ -12,3 +12,7 @@
 - pkg:maven/org.entando.entando.bundles.widgets/entando-widget-navigation_breadcrumbs@5.0.2?type=war
 - pkg:maven/org.entando.entando.bundles.widgets/entando-widget-navigation_breadcrumbs@5.0.3?classifier=sources
 - pkg:maven/org.entando.entando.bundles.widgets/entando-widget-navigation_breadcrumbs@5.0.3?type=war
+- pkg:maven/org.entando.entando.bundles.widgets/entando-widget-navigation_breadcrumbs@5.1.0?classifier=sources
+- pkg:maven/org.entando.entando.bundles.widgets/entando-widget-navigation_breadcrumbs@5.1.0?type=war
+- pkg:maven/org.entando.entando.bundles.widgets/entando-widget-navigation_breadcrumbs@5.2.0?classifier=sources
+- pkg:maven/org.entando.entando.bundles.widgets/entando-widget-navigation_breadcrumbs@5.2.0?type=war

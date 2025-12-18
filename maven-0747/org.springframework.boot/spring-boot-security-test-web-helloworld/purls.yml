@@ -58,6 +58,10 @@
 - pkg:maven/org.springframework.boot/spring-boot-security-test-web-helloworld@1.5.19.RELEASE?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-security-test-web-helloworld@1.5.2.RELEASE
 - pkg:maven/org.springframework.boot/spring-boot-security-test-web-helloworld@1.5.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-security-test-web-helloworld@1.5.20.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-security-test-web-helloworld@1.5.20.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-security-test-web-helloworld@1.5.21.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-security-test-web-helloworld@1.5.21.RELEASE?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-security-test-web-helloworld@1.5.3.RELEASE
 - pkg:maven/org.springframework.boot/spring-boot-security-test-web-helloworld@1.5.3.RELEASE?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-security-test-web-helloworld@1.5.4.RELEASE

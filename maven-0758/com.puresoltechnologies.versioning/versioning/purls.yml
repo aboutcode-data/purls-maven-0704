@@ -6,3 +6,5 @@
 - pkg:maven/com.puresoltechnologies.versioning/versioning@1.0.0?classifier=sources
 - pkg:maven/com.puresoltechnologies.versioning/versioning@1.1.0
 - pkg:maven/com.puresoltechnologies.versioning/versioning@1.1.0?classifier=sources
+- pkg:maven/com.puresoltechnologies.versioning/versioning@2.0.0
+- pkg:maven/com.puresoltechnologies.versioning/versioning@2.0.0?classifier=sources

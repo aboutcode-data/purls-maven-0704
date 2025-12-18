@@ -1,0 +1,2 @@
+- pkg:maven/com.addicticks.oss/jtexttime@1.2.0
+- pkg:maven/com.addicticks.oss/jtexttime@1.2.0?classifier=sources

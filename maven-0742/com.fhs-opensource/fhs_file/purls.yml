@@ -1,0 +1,3 @@
+- pkg:maven/com.fhs-opensource/fhs_file@1.0.0
+- pkg:maven/com.fhs-opensource/fhs_file@1.0.0?classifier=sources
+- pkg:maven/com.fhs-opensource/fhs_file@1.0.1

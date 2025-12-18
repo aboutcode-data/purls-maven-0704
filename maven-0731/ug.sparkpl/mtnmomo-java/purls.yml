@@ -1,0 +1,2 @@
+- pkg:maven/ug.sparkpl/mtnmomo-java@1.0.0?classifier=sources
+- pkg:maven/ug.sparkpl/mtnmomo-java@1.2.0?classifier=sources

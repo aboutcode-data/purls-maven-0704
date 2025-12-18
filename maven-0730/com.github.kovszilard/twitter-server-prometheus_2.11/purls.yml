@@ -1,0 +1,4 @@
+- pkg:maven/com.github.kovszilard/twitter-server-prometheus_2.11@19.1.0
+- pkg:maven/com.github.kovszilard/twitter-server-prometheus_2.11@19.1.0?classifier=sources
+- pkg:maven/com.github.kovszilard/twitter-server-prometheus_2.11@19.5.1
+- pkg:maven/com.github.kovszilard/twitter-server-prometheus_2.11@19.5.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.smallmind/schedule-quartz@3.3.17
+- pkg:maven/org.smallmind/schedule-quartz@3.3.17?classifier=sources
+- pkg:maven/org.smallmind/schedule-quartz@3.3.18
+- pkg:maven/org.smallmind/schedule-quartz@3.3.18?classifier=sources

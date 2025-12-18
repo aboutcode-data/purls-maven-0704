@@ -1,0 +1,2 @@
+- pkg:maven/me.shib.plugin/text-file-writer-maven-plugin@1.0.0
+- pkg:maven/me.shib.plugin/text-file-writer-maven-plugin@1.0.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.bbva.ndb/hancock-sdk-java-android@1.0.0-alpha.35
+- pkg:maven/com.bbva.ndb/hancock-sdk-java-android@1.0.0-alpha.35?classifier=sources
+- pkg:maven/com.bbva.ndb/hancock-sdk-java-android@1.0.0-alpha.49
+- pkg:maven/com.bbva.ndb/hancock-sdk-java-android@1.0.0-alpha.49?classifier=sources

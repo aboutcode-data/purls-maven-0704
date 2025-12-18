@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/puppeteer@1.10.0
+- pkg:maven/org.webjars.npm/puppeteer@1.10.0?classifier=sources
 - pkg:maven/org.webjars.npm/puppeteer@1.3.0-next.1525135284208
 - pkg:maven/org.webjars.npm/puppeteer@1.3.0-next.1525135284208?classifier=sources

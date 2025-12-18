@@ -1,2 +1,3 @@
 - pkg:maven/org.odpi.egeria/data-process-api@0.1
 - pkg:maven/org.odpi.egeria/data-process-api@0.2
+- pkg:maven/org.odpi.egeria/data-process-api@1.0

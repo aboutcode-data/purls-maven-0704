@@ -11,3 +11,13 @@
 - pkg:maven/io.ap4k/kubernetes-thorntail-starter@0.2.3
 - pkg:maven/io.ap4k/kubernetes-thorntail-starter@0.3.0
 - pkg:maven/io.ap4k/kubernetes-thorntail-starter@0.3.1
+- pkg:maven/io.ap4k/kubernetes-thorntail-starter@0.3.2
+- pkg:maven/io.ap4k/kubernetes-thorntail-starter@0.3.3
+- pkg:maven/io.ap4k/kubernetes-thorntail-starter@0.3.4
+- pkg:maven/io.ap4k/kubernetes-thorntail-starter@0.3.5
+- pkg:maven/io.ap4k/kubernetes-thorntail-starter@0.4.0
+- pkg:maven/io.ap4k/kubernetes-thorntail-starter@0.4.1
+- pkg:maven/io.ap4k/kubernetes-thorntail-starter@0.4.2
+- pkg:maven/io.ap4k/kubernetes-thorntail-starter@0.4.3
+- pkg:maven/io.ap4k/kubernetes-thorntail-starter@0.4.4
+- pkg:maven/io.ap4k/kubernetes-thorntail-starter@0.5.0

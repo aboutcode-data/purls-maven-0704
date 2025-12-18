@@ -10,3 +10,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.editors@3.11.300?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.editors@3.11.400
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.editors@3.11.400?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.editors@3.11.500
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.editors@3.11.500?classifier=sources

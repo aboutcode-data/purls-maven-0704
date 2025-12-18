@@ -1,2 +1,6 @@
+- pkg:maven/org.glassfish/jakarta.faces@2.3.10
+- pkg:maven/org.glassfish/jakarta.faces@2.3.10?classifier=sources
+- pkg:maven/org.glassfish/jakarta.faces@2.3.11
+- pkg:maven/org.glassfish/jakarta.faces@2.3.11?classifier=sources
 - pkg:maven/org.glassfish/jakarta.faces@2.3.9
 - pkg:maven/org.glassfish/jakarta.faces@2.3.9?classifier=sources

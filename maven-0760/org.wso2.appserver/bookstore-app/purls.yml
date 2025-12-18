@@ -1,0 +1,4 @@
+- pkg:maven/org.wso2.appserver/bookstore-app@6.0.0-m3?classifier=sources
+- pkg:maven/org.wso2.appserver/bookstore-app@6.0.0-m3?type=war
+- pkg:maven/org.wso2.appserver/bookstore-app@6.0.0-m4?classifier=sources
+- pkg:maven/org.wso2.appserver/bookstore-app@6.0.0-m4?type=war

@@ -6,3 +6,7 @@
 - pkg:maven/com.wcinformatics.umls.server/term-server-admin-mojo@1.4.0?classifier=sources
 - pkg:maven/com.wcinformatics.umls.server/term-server-admin-mojo@1.5.1-fg-rc
 - pkg:maven/com.wcinformatics.umls.server/term-server-admin-mojo@1.5.1-fg-rc?classifier=sources
+- pkg:maven/com.wcinformatics.umls.server/term-server-admin-mojo@1.6.0-RC1
+- pkg:maven/com.wcinformatics.umls.server/term-server-admin-mojo@1.6.0-RC1?classifier=sources
+- pkg:maven/com.wcinformatics.umls.server/term-server-admin-mojo@1.6.0-RC2
+- pkg:maven/com.wcinformatics.umls.server/term-server-admin-mojo@1.6.0-RC2?classifier=sources

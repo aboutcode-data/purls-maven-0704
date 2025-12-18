@@ -12,3 +12,5 @@
 - pkg:maven/org.webjars.bower/jquery.tablesorter@2.30.3?classifier=sources
 - pkg:maven/org.webjars.bower/jquery.tablesorter@2.30.6
 - pkg:maven/org.webjars.bower/jquery.tablesorter@2.30.6?classifier=sources
+- pkg:maven/org.webjars.bower/jquery.tablesorter@2.31.1
+- pkg:maven/org.webjars.bower/jquery.tablesorter@2.31.1?classifier=sources

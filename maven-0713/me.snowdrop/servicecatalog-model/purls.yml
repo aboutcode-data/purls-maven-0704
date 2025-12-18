@@ -14,3 +14,9 @@
 - pkg:maven/me.snowdrop/servicecatalog-model@1.0.6?classifier=sources
 - pkg:maven/me.snowdrop/servicecatalog-model@1.0.7
 - pkg:maven/me.snowdrop/servicecatalog-model@1.0.7?classifier=sources
+- pkg:maven/me.snowdrop/servicecatalog-model@1.0.8
+- pkg:maven/me.snowdrop/servicecatalog-model@1.0.8?classifier=sources
+- pkg:maven/me.snowdrop/servicecatalog-model@1.1.0
+- pkg:maven/me.snowdrop/servicecatalog-model@1.1.0?classifier=sources
+- pkg:maven/me.snowdrop/servicecatalog-model@1.1.1
+- pkg:maven/me.snowdrop/servicecatalog-model@1.1.1?classifier=sources

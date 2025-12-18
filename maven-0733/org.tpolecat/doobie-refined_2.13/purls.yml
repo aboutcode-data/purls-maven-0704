@@ -1,0 +1,2 @@
+- pkg:maven/org.tpolecat/doobie-refined_2.13@0.8.0-M1
+- pkg:maven/org.tpolecat/doobie-refined_2.13@0.8.0-M1?classifier=sources

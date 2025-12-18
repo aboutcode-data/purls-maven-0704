@@ -11,6 +11,14 @@
 - pkg:maven/org.openurp.platform/openurp-platform-cas@0.2.13?classifier=sources
 - pkg:maven/org.openurp.platform/openurp-platform-cas@0.2.14
 - pkg:maven/org.openurp.platform/openurp-platform-cas@0.2.14?classifier=sources
+- pkg:maven/org.openurp.platform/openurp-platform-cas@0.2.15
+- pkg:maven/org.openurp.platform/openurp-platform-cas@0.2.15?classifier=sources
+- pkg:maven/org.openurp.platform/openurp-platform-cas@0.2.16
+- pkg:maven/org.openurp.platform/openurp-platform-cas@0.2.16?classifier=sources
+- pkg:maven/org.openurp.platform/openurp-platform-cas@0.2.17
+- pkg:maven/org.openurp.platform/openurp-platform-cas@0.2.17?classifier=sources
+- pkg:maven/org.openurp.platform/openurp-platform-cas@0.2.18
+- pkg:maven/org.openurp.platform/openurp-platform-cas@0.2.18?classifier=sources
 - pkg:maven/org.openurp.platform/openurp-platform-cas@0.2.1?classifier=sources
 - pkg:maven/org.openurp.platform/openurp-platform-cas@0.2.2
 - pkg:maven/org.openurp.platform/openurp-platform-cas@0.2.2?classifier=sources

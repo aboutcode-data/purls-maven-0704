@@ -47,3 +47,5 @@
 - pkg:maven/org.apache.nifi/nifi-update-attribute-ui@1.9.0?type=war
 - pkg:maven/org.apache.nifi/nifi-update-attribute-ui@1.9.1?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-update-attribute-ui@1.9.1?type=war
+- pkg:maven/org.apache.nifi/nifi-update-attribute-ui@1.9.2?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-update-attribute-ui@1.9.2?type=war

@@ -12,3 +12,9 @@
 - pkg:maven/uk.co.automatictester/lightning-core@5.8.0?classifier=sources
 - pkg:maven/uk.co.automatictester/lightning-core@5.9.0
 - pkg:maven/uk.co.automatictester/lightning-core@5.9.0?classifier=sources
+- pkg:maven/uk.co.automatictester/lightning-core@6.0.0
+- pkg:maven/uk.co.automatictester/lightning-core@6.0.0?classifier=sources
+- pkg:maven/uk.co.automatictester/lightning-core@6.1.0
+- pkg:maven/uk.co.automatictester/lightning-core@6.1.0?classifier=sources
+- pkg:maven/uk.co.automatictester/lightning-core@6.1.1
+- pkg:maven/uk.co.automatictester/lightning-core@6.1.1?classifier=sources

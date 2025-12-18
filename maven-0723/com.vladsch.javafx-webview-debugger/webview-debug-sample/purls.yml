@@ -14,3 +14,7 @@
 - pkg:maven/com.vladsch.javafx-webview-debugger/webview-debug-sample@0.6.4?classifier=sources
 - pkg:maven/com.vladsch.javafx-webview-debugger/webview-debug-sample@0.7.0
 - pkg:maven/com.vladsch.javafx-webview-debugger/webview-debug-sample@0.7.0?classifier=sources
+- pkg:maven/com.vladsch.javafx-webview-debugger/webview-debug-sample@0.7.2
+- pkg:maven/com.vladsch.javafx-webview-debugger/webview-debug-sample@0.7.2?classifier=sources
+- pkg:maven/com.vladsch.javafx-webview-debugger/webview-debug-sample@0.7.4
+- pkg:maven/com.vladsch.javafx-webview-debugger/webview-debug-sample@0.7.4?classifier=sources

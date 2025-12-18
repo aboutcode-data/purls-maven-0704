@@ -4,3 +4,13 @@
 - pkg:maven/com.lightbend.lagom/lagom-scaladsl-akka-discovery-service-locator_2.11@0.1.0?classifier=sources
 - pkg:maven/com.lightbend.lagom/lagom-scaladsl-akka-discovery-service-locator_2.11@1.0.0
 - pkg:maven/com.lightbend.lagom/lagom-scaladsl-akka-discovery-service-locator_2.11@1.0.0?classifier=sources
+- pkg:maven/com.lightbend.lagom/lagom-scaladsl-akka-discovery-service-locator_2.11@1.4.12
+- pkg:maven/com.lightbend.lagom/lagom-scaladsl-akka-discovery-service-locator_2.11@1.4.12?classifier=sources
+- pkg:maven/com.lightbend.lagom/lagom-scaladsl-akka-discovery-service-locator_2.11@1.4.13
+- pkg:maven/com.lightbend.lagom/lagom-scaladsl-akka-discovery-service-locator_2.11@1.4.13-a5bd71c7
+- pkg:maven/com.lightbend.lagom/lagom-scaladsl-akka-discovery-service-locator_2.11@1.4.13-a5bd71c7?classifier=sources
+- pkg:maven/com.lightbend.lagom/lagom-scaladsl-akka-discovery-service-locator_2.11@1.4.13?classifier=sources
+- pkg:maven/com.lightbend.lagom/lagom-scaladsl-akka-discovery-service-locator_2.11@1.4.14
+- pkg:maven/com.lightbend.lagom/lagom-scaladsl-akka-discovery-service-locator_2.11@1.4.14?classifier=sources
+- pkg:maven/com.lightbend.lagom/lagom-scaladsl-akka-discovery-service-locator_2.11@1.5.1
+- pkg:maven/com.lightbend.lagom/lagom-scaladsl-akka-discovery-service-locator_2.11@1.5.1?classifier=sources

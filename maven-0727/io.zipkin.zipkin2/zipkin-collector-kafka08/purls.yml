@@ -48,6 +48,12 @@
 - pkg:maven/io.zipkin.zipkin2/zipkin-collector-kafka08@2.12.4?classifier=sources
 - pkg:maven/io.zipkin.zipkin2/zipkin-collector-kafka08@2.12.5
 - pkg:maven/io.zipkin.zipkin2/zipkin-collector-kafka08@2.12.5?classifier=sources
+- pkg:maven/io.zipkin.zipkin2/zipkin-collector-kafka08@2.12.7
+- pkg:maven/io.zipkin.zipkin2/zipkin-collector-kafka08@2.12.7?classifier=sources
+- pkg:maven/io.zipkin.zipkin2/zipkin-collector-kafka08@2.12.8
+- pkg:maven/io.zipkin.zipkin2/zipkin-collector-kafka08@2.12.8?classifier=sources
+- pkg:maven/io.zipkin.zipkin2/zipkin-collector-kafka08@2.12.9
+- pkg:maven/io.zipkin.zipkin2/zipkin-collector-kafka08@2.12.9?classifier=sources
 - pkg:maven/io.zipkin.zipkin2/zipkin-collector-kafka08@2.9.0
 - pkg:maven/io.zipkin.zipkin2/zipkin-collector-kafka08@2.9.0?classifier=sources
 - pkg:maven/io.zipkin.zipkin2/zipkin-collector-kafka08@2.9.1

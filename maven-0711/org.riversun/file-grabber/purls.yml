@@ -6,3 +6,5 @@
 - pkg:maven/org.riversun/file-grabber@0.3.0?classifier=sources
 - pkg:maven/org.riversun/file-grabber@0.3.1
 - pkg:maven/org.riversun/file-grabber@0.3.1?classifier=sources
+- pkg:maven/org.riversun/file-grabber@1.0.0
+- pkg:maven/org.riversun/file-grabber@1.0.0?classifier=sources

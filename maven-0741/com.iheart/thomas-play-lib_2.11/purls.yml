@@ -9,6 +9,12 @@
 - pkg:maven/com.iheart/thomas-play-lib_2.11@0.20?classifier=sources
 - pkg:maven/com.iheart/thomas-play-lib_2.11@0.21
 - pkg:maven/com.iheart/thomas-play-lib_2.11@0.21?classifier=sources
+- pkg:maven/com.iheart/thomas-play-lib_2.11@0.22
+- pkg:maven/com.iheart/thomas-play-lib_2.11@0.22?classifier=sources
+- pkg:maven/com.iheart/thomas-play-lib_2.11@0.23
+- pkg:maven/com.iheart/thomas-play-lib_2.11@0.23?classifier=sources
+- pkg:maven/com.iheart/thomas-play-lib_2.11@0.24
+- pkg:maven/com.iheart/thomas-play-lib_2.11@0.24?classifier=sources
 - pkg:maven/com.iheart/thomas-play-lib_2.11@0.2?classifier=sources
 - pkg:maven/com.iheart/thomas-play-lib_2.11@0.3
 - pkg:maven/com.iheart/thomas-play-lib_2.11@0.3?classifier=sources

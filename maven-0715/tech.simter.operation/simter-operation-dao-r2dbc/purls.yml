@@ -1,0 +1,2 @@
+- pkg:maven/tech.simter.operation/simter-operation-dao-r2dbc@0.6.0
+- pkg:maven/tech.simter.operation/simter-operation-dao-r2dbc@0.6.0?classifier=sources

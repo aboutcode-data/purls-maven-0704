@@ -11,3 +11,9 @@
 - pkg:maven/org.protelis/protelis.parser.ui@8.0.0?classifier=sources
 - pkg:maven/org.protelis/protelis.parser.ui@8.1.0.java7legacy?classifier=sources
 - pkg:maven/org.protelis/protelis.parser.ui@8.1.0?classifier=sources
+- pkg:maven/org.protelis/protelis.parser.ui@8.2.0.java7legacy?classifier=sources
+- pkg:maven/org.protelis/protelis.parser.ui@8.2.0?classifier=sources
+- pkg:maven/org.protelis/protelis.parser.ui@9.0.0?classifier=sources
+- pkg:maven/org.protelis/protelis.parser.ui@9.1.0?classifier=sources
+- pkg:maven/org.protelis/protelis.parser.ui@9.1.2?classifier=sources
+- pkg:maven/org.protelis/protelis.parser.ui@9.2.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/cn.yueshutong/spring-boot-starter-redis-lock@0.0.1.RELEASE
+- pkg:maven/cn.yueshutong/spring-boot-starter-redis-lock@0.0.1.RELEASE?classifier=sources
+- pkg:maven/cn.yueshutong/spring-boot-starter-redis-lock@1.0.0.RELEASE
+- pkg:maven/cn.yueshutong/spring-boot-starter-redis-lock@1.0.0.RELEASE?classifier=sources

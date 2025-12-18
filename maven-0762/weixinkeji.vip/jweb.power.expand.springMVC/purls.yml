@@ -1,0 +1,4 @@
+- pkg:maven/weixinkeji.vip/jweb.power.expand.springMVC@1.2
+- pkg:maven/weixinkeji.vip/jweb.power.expand.springMVC@1.2?classifier=sources
+- pkg:maven/weixinkeji.vip/jweb.power.expand.springMVC@2.0
+- pkg:maven/weixinkeji.vip/jweb.power.expand.springMVC@2.0?classifier=sources

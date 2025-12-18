@@ -12,3 +12,7 @@
 - pkg:maven/com.sporniket.javabeans/sporniket-javabeans-doclet@18.10.01?classifier=sources
 - pkg:maven/com.sporniket.javabeans/sporniket-javabeans-doclet@19.02.00
 - pkg:maven/com.sporniket.javabeans/sporniket-javabeans-doclet@19.02.00?classifier=sources
+- pkg:maven/com.sporniket.javabeans/sporniket-javabeans-doclet@19.03.00
+- pkg:maven/com.sporniket.javabeans/sporniket-javabeans-doclet@19.03.00?classifier=sources
+- pkg:maven/com.sporniket.javabeans/sporniket-javabeans-doclet@19.04.00
+- pkg:maven/com.sporniket.javabeans/sporniket-javabeans-doclet@19.04.00?classifier=sources

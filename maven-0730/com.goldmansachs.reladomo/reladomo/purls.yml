@@ -38,3 +38,5 @@
 - pkg:maven/com.goldmansachs.reladomo/reladomo@17.0.1?classifier=sources
 - pkg:maven/com.goldmansachs.reladomo/reladomo@17.0.2
 - pkg:maven/com.goldmansachs.reladomo/reladomo@17.0.2?classifier=sources
+- pkg:maven/com.goldmansachs.reladomo/reladomo@17.1.0
+- pkg:maven/com.goldmansachs.reladomo/reladomo@17.1.0?classifier=sources

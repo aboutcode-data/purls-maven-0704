@@ -3,3 +3,4 @@
 - pkg:maven/com.cvent/code-quality@1.18
 - pkg:maven/com.cvent/code-quality@1.19
 - pkg:maven/com.cvent/code-quality@1.20
+- pkg:maven/com.cvent/code-quality@1.21

@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/jpeg-js@0.1.2
+- pkg:maven/org.webjars.npm/jpeg-js@0.1.2?classifier=sources
 - pkg:maven/org.webjars.npm/jpeg-js@0.3.4
 - pkg:maven/org.webjars.npm/jpeg-js@0.3.4?classifier=sources

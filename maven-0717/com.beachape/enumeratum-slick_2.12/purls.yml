@@ -1,2 +1,4 @@
 - pkg:maven/com.beachape/enumeratum-slick_2.12@1.5.15
 - pkg:maven/com.beachape/enumeratum-slick_2.12@1.5.15?classifier=sources
+- pkg:maven/com.beachape/enumeratum-slick_2.12@1.5.16
+- pkg:maven/com.beachape/enumeratum-slick_2.12@1.5.16?classifier=sources

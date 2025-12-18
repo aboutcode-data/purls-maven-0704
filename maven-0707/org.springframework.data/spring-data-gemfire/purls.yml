@@ -108,6 +108,12 @@
 - pkg:maven/org.springframework.data/spring-data-gemfire@1.9.18.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-gemfire@1.9.2.RELEASE
 - pkg:maven/org.springframework.data/spring-data-gemfire@1.9.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-gemfire@1.9.20.RELEASE
+- pkg:maven/org.springframework.data/spring-data-gemfire@1.9.20.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-gemfire@1.9.21.RELEASE
+- pkg:maven/org.springframework.data/spring-data-gemfire@1.9.21.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-gemfire@1.9.22.RELEASE
+- pkg:maven/org.springframework.data/spring-data-gemfire@1.9.22.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-gemfire@1.9.3.RELEASE
 - pkg:maven/org.springframework.data/spring-data-gemfire@1.9.3.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-gemfire@1.9.4.RELEASE
@@ -134,6 +140,8 @@
 - pkg:maven/org.springframework.data/spring-data-gemfire@2.0.12.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-gemfire@2.0.13.RELEASE
 - pkg:maven/org.springframework.data/spring-data-gemfire@2.0.13.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-gemfire@2.0.14.RELEASE
+- pkg:maven/org.springframework.data/spring-data-gemfire@2.0.14.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-gemfire@2.0.2.RELEASE
 - pkg:maven/org.springframework.data/spring-data-gemfire@2.0.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-gemfire@2.0.3.RELEASE
@@ -162,3 +170,11 @@
 - pkg:maven/org.springframework.data/spring-data-gemfire@2.1.4.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-gemfire@2.1.5.RELEASE
 - pkg:maven/org.springframework.data/spring-data-gemfire@2.1.5.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-gemfire@2.1.6.RELEASE
+- pkg:maven/org.springframework.data/spring-data-gemfire@2.1.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-gemfire@2.1.7.RELEASE
+- pkg:maven/org.springframework.data/spring-data-gemfire@2.1.7.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-gemfire@2.1.8.RELEASE
+- pkg:maven/org.springframework.data/spring-data-gemfire@2.1.8.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-gemfire@2.1.9.RELEASE
+- pkg:maven/org.springframework.data/spring-data-gemfire@2.1.9.RELEASE?classifier=sources

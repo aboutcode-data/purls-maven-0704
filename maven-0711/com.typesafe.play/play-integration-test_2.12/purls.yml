@@ -41,6 +41,10 @@
 - pkg:maven/com.typesafe.play/play-integration-test_2.12@2.6.20?classifier=sources
 - pkg:maven/com.typesafe.play/play-integration-test_2.12@2.6.21
 - pkg:maven/com.typesafe.play/play-integration-test_2.12@2.6.21?classifier=sources
+- pkg:maven/com.typesafe.play/play-integration-test_2.12@2.6.22
+- pkg:maven/com.typesafe.play/play-integration-test_2.12@2.6.22?classifier=sources
+- pkg:maven/com.typesafe.play/play-integration-test_2.12@2.6.23
+- pkg:maven/com.typesafe.play/play-integration-test_2.12@2.6.23?classifier=sources
 - pkg:maven/com.typesafe.play/play-integration-test_2.12@2.6.2?classifier=sources
 - pkg:maven/com.typesafe.play/play-integration-test_2.12@2.6.3
 - pkg:maven/com.typesafe.play/play-integration-test_2.12@2.6.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.plc4x/plc4j-nifi-plc4x-processors@0.4.0
+- pkg:maven/org.apache.plc4x/plc4j-nifi-plc4x-processors@0.4.0?classifier=sources

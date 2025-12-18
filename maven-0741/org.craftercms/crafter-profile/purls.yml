@@ -107,6 +107,8 @@
 - pkg:maven/org.craftercms/crafter-profile@3.0.1?type=war
 - pkg:maven/org.craftercms/crafter-profile@3.0.20?classifier=sources
 - pkg:maven/org.craftercms/crafter-profile@3.0.20?type=war
+- pkg:maven/org.craftercms/crafter-profile@3.0.21?classifier=sources
+- pkg:maven/org.craftercms/crafter-profile@3.0.21?type=war
 - pkg:maven/org.craftercms/crafter-profile@3.0.2?classifier=sources
 - pkg:maven/org.craftercms/crafter-profile@3.0.2?type=war
 - pkg:maven/org.craftercms/crafter-profile@3.0.3?classifier=sources
@@ -123,6 +125,8 @@
 - pkg:maven/org.craftercms/crafter-profile@3.0.8?type=war
 - pkg:maven/org.craftercms/crafter-profile@3.0.9?classifier=sources
 - pkg:maven/org.craftercms/crafter-profile@3.0.9?type=war
+- pkg:maven/org.craftercms/crafter-profile@3.1.0?classifier=sources
+- pkg:maven/org.craftercms/crafter-profile@3.1.0?type=war
 - pkg:maven/org.craftercms/crafter-profile@v2.4.1-RC2?classifier=sources
 - pkg:maven/org.craftercms/crafter-profile@v2.4.1-RC2?type=war
 - pkg:maven/org.craftercms/crafter-profile@v2.4.1-RC3?classifier=sources

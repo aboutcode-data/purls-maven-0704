@@ -276,3 +276,5 @@
 - pkg:maven/com.krux/hyperion-email-activity_2.11@5.3.0?classifier=sources
 - pkg:maven/com.krux/hyperion-email-activity_2.11@5.4.0
 - pkg:maven/com.krux/hyperion-email-activity_2.11@5.4.0?classifier=sources
+- pkg:maven/com.krux/hyperion-email-activity_2.11@5.4.1
+- pkg:maven/com.krux/hyperion-email-activity_2.11@5.4.1?classifier=sources

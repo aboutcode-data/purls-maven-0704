@@ -60,7 +60,15 @@
 - pkg:maven/io.jenkins.updatebot/updatebot-maven-plugin@1.1.36?classifier=sources
 - pkg:maven/io.jenkins.updatebot/updatebot-maven-plugin@1.1.37
 - pkg:maven/io.jenkins.updatebot/updatebot-maven-plugin@1.1.37?classifier=sources
+- pkg:maven/io.jenkins.updatebot/updatebot-maven-plugin@1.1.38
+- pkg:maven/io.jenkins.updatebot/updatebot-maven-plugin@1.1.38?classifier=sources
+- pkg:maven/io.jenkins.updatebot/updatebot-maven-plugin@1.1.39
+- pkg:maven/io.jenkins.updatebot/updatebot-maven-plugin@1.1.39?classifier=sources
 - pkg:maven/io.jenkins.updatebot/updatebot-maven-plugin@1.1.4
+- pkg:maven/io.jenkins.updatebot/updatebot-maven-plugin@1.1.40
+- pkg:maven/io.jenkins.updatebot/updatebot-maven-plugin@1.1.40?classifier=sources
+- pkg:maven/io.jenkins.updatebot/updatebot-maven-plugin@1.1.41
+- pkg:maven/io.jenkins.updatebot/updatebot-maven-plugin@1.1.41?classifier=sources
 - pkg:maven/io.jenkins.updatebot/updatebot-maven-plugin@1.1.4?classifier=sources
 - pkg:maven/io.jenkins.updatebot/updatebot-maven-plugin@1.1.52
 - pkg:maven/io.jenkins.updatebot/updatebot-maven-plugin@1.1.52?classifier=sources

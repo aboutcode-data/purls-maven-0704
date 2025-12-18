@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.velocity/velocity-engine-parent@2.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.velocity/velocity-engine-parent@2.1?classifier=source-release&type=zip

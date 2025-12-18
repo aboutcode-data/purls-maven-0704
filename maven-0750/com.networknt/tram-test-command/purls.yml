@@ -20,7 +20,16 @@
 - pkg:maven/com.networknt/tram-test-command@1.5.30
 - pkg:maven/com.networknt/tram-test-command@1.5.31
 - pkg:maven/com.networknt/tram-test-command@1.5.32
+- pkg:maven/com.networknt/tram-test-command@1.5.33
+- pkg:maven/com.networknt/tram-test-command@1.5.34
 - pkg:maven/com.networknt/tram-test-command@1.5.6
 - pkg:maven/com.networknt/tram-test-command@1.5.7
 - pkg:maven/com.networknt/tram-test-command@1.5.8
 - pkg:maven/com.networknt/tram-test-command@1.5.9
+- pkg:maven/com.networknt/tram-test-command@1.6.0
+- pkg:maven/com.networknt/tram-test-command@1.6.1
+- pkg:maven/com.networknt/tram-test-command@1.6.2
+- pkg:maven/com.networknt/tram-test-command@1.6.4
+- pkg:maven/com.networknt/tram-test-command@1.6.5
+- pkg:maven/com.networknt/tram-test-command@2.0.1
+- pkg:maven/com.networknt/tram-test-command@2.0.2

@@ -96,5 +96,7 @@
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-api@5.5.0?classifier=sources
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-api@5.6.0
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-api@5.6.0?classifier=sources
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-api@5.7.0
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-api@5.7.0?classifier=sources
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-api@6.0.0
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-api@6.0.0?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.zipkin.brave.cassandra/brave-cassandra-parent@0.10.2?classifier=source-release&type=zip

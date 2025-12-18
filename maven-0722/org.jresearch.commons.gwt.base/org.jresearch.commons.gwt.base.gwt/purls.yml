@@ -1,2 +1,7 @@
 - pkg:maven/org.jresearch.commons.gwt.base/org.jresearch.commons.gwt.base.gwt@1.0.197?classifier=sources
 - pkg:maven/org.jresearch.commons.gwt.base/org.jresearch.commons.gwt.base.gwt@1.0.198?classifier=sources
+- pkg:maven/org.jresearch.commons.gwt.base/org.jresearch.commons.gwt.base.gwt@1.0.199?classifier=sources
+- pkg:maven/org.jresearch.commons.gwt.base/org.jresearch.commons.gwt.base.gwt@1.0.200?classifier=sources
+- pkg:maven/org.jresearch.commons.gwt.base/org.jresearch.commons.gwt.base.gwt@1.0.201?classifier=sources
+- pkg:maven/org.jresearch.commons.gwt.base/org.jresearch.commons.gwt.base.gwt@1.0.202?classifier=sources
+- pkg:maven/org.jresearch.commons.gwt.base/org.jresearch.commons.gwt.base.gwt@1.0.203?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.iohao.widget/iohao-sf-mj@0.2
+- pkg:maven/com.iohao.widget/iohao-sf-mj@0.2?classifier=sources

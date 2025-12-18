@@ -1,0 +1,2 @@
+- pkg:maven/io.7mind.izumi/fundamentals-json-circe_2.13@0.8.7
+- pkg:maven/io.7mind.izumi/fundamentals-json-circe_2.13@0.8.7?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/nz.net.osnz.composite/composite-spring-boot-tomcat@2.4
 - pkg:maven/nz.net.osnz.composite/composite-spring-boot-tomcat@2.5
 - pkg:maven/nz.net.osnz.composite/composite-spring-boot-tomcat@2.6
+- pkg:maven/nz.net.osnz.composite/composite-spring-boot-tomcat@2.7
+- pkg:maven/nz.net.osnz.composite/composite-spring-boot-tomcat@2.8

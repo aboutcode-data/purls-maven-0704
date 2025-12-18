@@ -86,6 +86,10 @@
 - pkg:maven/org.jmockit/jmockit@1.44?classifier=sources
 - pkg:maven/org.jmockit/jmockit@1.45
 - pkg:maven/org.jmockit/jmockit@1.45?classifier=sources
+- pkg:maven/org.jmockit/jmockit@1.46
+- pkg:maven/org.jmockit/jmockit@1.46?classifier=sources
+- pkg:maven/org.jmockit/jmockit@1.47
+- pkg:maven/org.jmockit/jmockit@1.47?classifier=sources
 - pkg:maven/org.jmockit/jmockit@1.8
 - pkg:maven/org.jmockit/jmockit@1.8?classifier=sources
 - pkg:maven/org.jmockit/jmockit@1.9

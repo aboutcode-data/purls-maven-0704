@@ -1,0 +1,4 @@
+- pkg:maven/net.exoego/aws-sdk-scalajs-facade_sjs0.6_2.13@0.22.0-v2-473
+- pkg:maven/net.exoego/aws-sdk-scalajs-facade_sjs0.6_2.13@0.22.0-v2-473?classifier=sources
+- pkg:maven/net.exoego/aws-sdk-scalajs-facade_sjs0.6_2.13@0.23.0-v2-473-0
+- pkg:maven/net.exoego/aws-sdk-scalajs-facade_sjs0.6_2.13@0.23.0-v2-473-0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bowergithub.rmm5t/jquery-timeago@1.6.3
 - pkg:maven/org.webjars.bowergithub.rmm5t/jquery-timeago@1.6.3?classifier=sources
+- pkg:maven/org.webjars.bowergithub.rmm5t/jquery-timeago@1.6.7
+- pkg:maven/org.webjars.bowergithub.rmm5t/jquery-timeago@1.6.7?classifier=sources

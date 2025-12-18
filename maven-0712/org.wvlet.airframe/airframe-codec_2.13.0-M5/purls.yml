@@ -36,3 +36,5 @@
 - pkg:maven/org.wvlet.airframe/airframe-codec_2.13.0-M5@19.3.6?classifier=sources
 - pkg:maven/org.wvlet.airframe/airframe-codec_2.13.0-M5@19.3.7
 - pkg:maven/org.wvlet.airframe/airframe-codec_2.13.0-M5@19.3.7?classifier=sources
+- pkg:maven/org.wvlet.airframe/airframe-codec_2.13.0-M5@19.4.0
+- pkg:maven/org.wvlet.airframe/airframe-codec_2.13.0-M5@19.4.0?classifier=sources

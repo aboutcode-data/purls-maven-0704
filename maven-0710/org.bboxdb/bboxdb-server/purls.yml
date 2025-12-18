@@ -26,3 +26,7 @@
 - pkg:maven/org.bboxdb/bboxdb-server@0.8.5?classifier=sources
 - pkg:maven/org.bboxdb/bboxdb-server@0.8.6
 - pkg:maven/org.bboxdb/bboxdb-server@0.8.6?classifier=sources
+- pkg:maven/org.bboxdb/bboxdb-server@0.9.0
+- pkg:maven/org.bboxdb/bboxdb-server@0.9.0?classifier=sources
+- pkg:maven/org.bboxdb/bboxdb-server@0.9.1
+- pkg:maven/org.bboxdb/bboxdb-server@0.9.1?classifier=sources

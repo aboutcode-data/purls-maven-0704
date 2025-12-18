@@ -1,2 +1,4 @@
 - pkg:maven/tech.simter.reactive/simter-reactive-web@1.0.0
 - pkg:maven/tech.simter.reactive/simter-reactive-web@1.0.0?classifier=sources
+- pkg:maven/tech.simter.reactive/simter-reactive-web@1.1.0
+- pkg:maven/tech.simter.reactive/simter-reactive-web@1.1.0?classifier=sources

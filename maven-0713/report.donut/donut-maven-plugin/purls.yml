@@ -1,1 +1,5 @@
 - pkg:maven/report.donut/donut-maven-plugin@0.0.6
+- pkg:maven/report.donut/donut-maven-plugin@1.2.1
+- pkg:maven/report.donut/donut-maven-plugin@1.2.1?classifier=sources
+- pkg:maven/report.donut/donut-maven-plugin@1.2.2
+- pkg:maven/report.donut/donut-maven-plugin@1.2.2?classifier=sources

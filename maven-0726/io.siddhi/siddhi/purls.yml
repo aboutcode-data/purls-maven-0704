@@ -1,0 +1,13 @@
+- pkg:maven/io.siddhi/siddhi@5.0.0-m10?classifier=source-release&type=zip
+- pkg:maven/io.siddhi/siddhi@5.0.0-m11?classifier=source-release&type=zip
+- pkg:maven/io.siddhi/siddhi@5.0.0-m12?classifier=source-release&type=zip
+- pkg:maven/io.siddhi/siddhi@5.0.0-m1?classifier=source-release&type=zip
+- pkg:maven/io.siddhi/siddhi@5.0.0-m2?classifier=source-release&type=zip
+- pkg:maven/io.siddhi/siddhi@5.0.0-m3?classifier=source-release&type=zip
+- pkg:maven/io.siddhi/siddhi@5.0.0-m4?classifier=source-release&type=zip
+- pkg:maven/io.siddhi/siddhi@5.0.0-m5?classifier=source-release&type=zip
+- pkg:maven/io.siddhi/siddhi@5.0.0-m6?classifier=source-release&type=zip
+- pkg:maven/io.siddhi/siddhi@5.0.0-m7?classifier=source-release&type=zip
+- pkg:maven/io.siddhi/siddhi@5.0.0-m8?classifier=source-release&type=zip
+- pkg:maven/io.siddhi/siddhi@5.0.0-m9?classifier=source-release&type=zip
+- pkg:maven/io.siddhi/siddhi@5.0.0?classifier=source-release&type=zip

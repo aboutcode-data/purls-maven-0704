@@ -1,0 +1,2 @@
+- pkg:maven/de.bildschirmarbeiter.asf.toolbox/de.bildschirmarbeiter.asf.toolbox.application@0.0.1
+- pkg:maven/de.bildschirmarbeiter.asf.toolbox/de.bildschirmarbeiter.asf.toolbox.application@0.0.1?classifier=sources

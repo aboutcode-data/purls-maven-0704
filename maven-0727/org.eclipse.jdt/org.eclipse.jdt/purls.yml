@@ -9,3 +9,4 @@
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt@3.15.0
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt@3.16.0
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt@3.17.0
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt@3.18.0

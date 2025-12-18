@@ -1,0 +1,2 @@
+- pkg:maven/io.cellery.observability/gogoproto-java@0.1.0?classifier=sources
+- pkg:maven/io.cellery.observability/gogoproto-java@0.2.2?classifier=sources

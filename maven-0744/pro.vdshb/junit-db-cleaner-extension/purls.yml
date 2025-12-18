@@ -1,0 +1,6 @@
+- pkg:maven/pro.vdshb/junit-db-cleaner-extension@0.3
+- pkg:maven/pro.vdshb/junit-db-cleaner-extension@0.3?classifier=sources
+- pkg:maven/pro.vdshb/junit-db-cleaner-extension@0.4
+- pkg:maven/pro.vdshb/junit-db-cleaner-extension@0.4?classifier=sources
+- pkg:maven/pro.vdshb/junit-db-cleaner-extension@0.5
+- pkg:maven/pro.vdshb/junit-db-cleaner-extension@0.5?classifier=sources

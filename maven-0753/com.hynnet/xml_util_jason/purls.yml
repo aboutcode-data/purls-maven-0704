@@ -1,0 +1,2 @@
+- pkg:maven/com.hynnet/xml_util_jason@1.0.0
+- pkg:maven/com.hynnet/xml_util_jason@1.0.0?classifier=sources

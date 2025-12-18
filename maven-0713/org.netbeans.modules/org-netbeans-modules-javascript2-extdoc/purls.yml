@@ -1,0 +1,2 @@
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-extdoc@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-extdoc@RELEASE110?classifier=sources

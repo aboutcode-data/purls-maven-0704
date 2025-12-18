@@ -1,0 +1,2 @@
+- pkg:maven/org.opendaylight.snmp4sdn/snmp4sdn@0.9.0
+- pkg:maven/org.opendaylight.snmp4sdn/snmp4sdn@0.9.0?classifier=sources

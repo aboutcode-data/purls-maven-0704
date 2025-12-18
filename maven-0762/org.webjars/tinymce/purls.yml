@@ -1,3 +1,4 @@
 - pkg:maven/org.webjars/tinymce@4.1.9
 - pkg:maven/org.webjars/tinymce@4.2.1
 - pkg:maven/org.webjars/tinymce@4.7.9
+- pkg:maven/org.webjars/tinymce@5.0.9

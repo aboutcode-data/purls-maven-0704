@@ -1,0 +1,2 @@
+- pkg:maven/org.devzendo/tma-assembler@0.0.1
+- pkg:maven/org.devzendo/tma-assembler@0.0.1?classifier=sources

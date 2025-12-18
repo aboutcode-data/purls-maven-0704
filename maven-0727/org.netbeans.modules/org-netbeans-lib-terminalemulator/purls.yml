@@ -1,0 +1,3 @@
+- pkg:maven/org.netbeans.modules/org-netbeans-lib-terminalemulator@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-lib-terminalemulator@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-lib-terminalemulator@RELEASE90?classifier=sources

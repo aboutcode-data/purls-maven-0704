@@ -1,0 +1,16 @@
+- pkg:maven/com.soterianetworks/spase-standalone@0.9.17
+- pkg:maven/com.soterianetworks/spase-standalone@0.9.17?classifier=sources
+- pkg:maven/com.soterianetworks/spase-standalone@0.9.18
+- pkg:maven/com.soterianetworks/spase-standalone@0.9.18?classifier=sources
+- pkg:maven/com.soterianetworks/spase-standalone@0.9.19
+- pkg:maven/com.soterianetworks/spase-standalone@0.9.19?classifier=sources
+- pkg:maven/com.soterianetworks/spase-standalone@0.9.20
+- pkg:maven/com.soterianetworks/spase-standalone@0.9.20?classifier=sources
+- pkg:maven/com.soterianetworks/spase-standalone@0.9.22
+- pkg:maven/com.soterianetworks/spase-standalone@0.9.22?classifier=sources
+- pkg:maven/com.soterianetworks/spase-standalone@0.9.23
+- pkg:maven/com.soterianetworks/spase-standalone@0.9.23?classifier=sources
+- pkg:maven/com.soterianetworks/spase-standalone@0.9.24
+- pkg:maven/com.soterianetworks/spase-standalone@0.9.24?classifier=sources
+- pkg:maven/com.soterianetworks/spase-standalone@0.9.25
+- pkg:maven/com.soterianetworks/spase-standalone@0.9.25?classifier=sources

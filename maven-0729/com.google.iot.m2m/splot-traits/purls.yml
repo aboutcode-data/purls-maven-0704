@@ -1,2 +1,4 @@
 - pkg:maven/com.google.iot.m2m/splot-traits@0.01.00
 - pkg:maven/com.google.iot.m2m/splot-traits@0.01.00?classifier=sources
+- pkg:maven/com.google.iot.m2m/splot-traits@0.02.00
+- pkg:maven/com.google.iot.m2m/splot-traits@0.02.00?classifier=sources

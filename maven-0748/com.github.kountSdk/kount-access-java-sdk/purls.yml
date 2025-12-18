@@ -1,0 +1,2 @@
+- pkg:maven/com.github.kountSdk/kount-access-java-sdk@1.0.2
+- pkg:maven/com.github.kountSdk/kount-access-java-sdk@1.0.2?classifier=sources

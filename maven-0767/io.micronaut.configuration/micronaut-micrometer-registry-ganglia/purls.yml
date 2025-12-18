@@ -1,0 +1,2 @@
+- pkg:maven/io.micronaut.configuration/micronaut-micrometer-registry-ganglia@1.2.0.RC2
+- pkg:maven/io.micronaut.configuration/micronaut-micrometer-registry-ganglia@1.2.0.RC2?classifier=sources

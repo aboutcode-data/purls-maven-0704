@@ -1,0 +1,6 @@
+- pkg:maven/com.consolefire/jdbc-json-extension-core@1.1.0
+- pkg:maven/com.consolefire/jdbc-json-extension-core@1.1.0?classifier=sources
+- pkg:maven/com.consolefire/jdbc-json-extension-core@1.2.0
+- pkg:maven/com.consolefire/jdbc-json-extension-core@1.2.0?classifier=sources
+- pkg:maven/com.consolefire/jdbc-json-extension-core@1.4.0
+- pkg:maven/com.consolefire/jdbc-json-extension-core@1.4.0?classifier=sources

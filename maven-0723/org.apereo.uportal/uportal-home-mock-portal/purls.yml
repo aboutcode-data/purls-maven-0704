@@ -18,3 +18,5 @@
 - pkg:maven/org.apereo.uportal/uportal-home-mock-portal@8.3.5?type=war
 - pkg:maven/org.apereo.uportal/uportal-home-mock-portal@8.3.6?type=war
 - pkg:maven/org.apereo.uportal/uportal-home-mock-portal@9.0.0?type=war
+- pkg:maven/org.apereo.uportal/uportal-home-mock-portal@9.1.0?type=war
+- pkg:maven/org.apereo.uportal/uportal-home-mock-portal@9.2.0?type=war

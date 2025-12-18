@@ -1,0 +1,2 @@
+- pkg:maven/de.halfbit/knot-composite@1.0-beta11
+- pkg:maven/de.halfbit/knot-composite@1.0-beta11?classifier=sources

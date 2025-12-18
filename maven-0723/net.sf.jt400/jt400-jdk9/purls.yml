@@ -1,2 +1,4 @@
 - pkg:maven/net.sf.jt400/jt400-jdk9@9.7
 - pkg:maven/net.sf.jt400/jt400-jdk9@9.7?classifier=sources
+- pkg:maven/net.sf.jt400/jt400-jdk9@9.8
+- pkg:maven/net.sf.jt400/jt400-jdk9@9.8?classifier=sources

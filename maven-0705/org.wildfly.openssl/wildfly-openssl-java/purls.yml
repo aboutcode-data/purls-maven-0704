@@ -36,3 +36,5 @@
 - pkg:maven/org.wildfly.openssl/wildfly-openssl-java@1.0.4.Final?classifier=sources
 - pkg:maven/org.wildfly.openssl/wildfly-openssl-java@1.0.6.Final
 - pkg:maven/org.wildfly.openssl/wildfly-openssl-java@1.0.6.Final?classifier=sources
+- pkg:maven/org.wildfly.openssl/wildfly-openssl-java@1.0.7.Final
+- pkg:maven/org.wildfly.openssl/wildfly-openssl-java@1.0.7.Final?classifier=sources

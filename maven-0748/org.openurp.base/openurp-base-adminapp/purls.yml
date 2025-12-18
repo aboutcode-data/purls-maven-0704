@@ -22,6 +22,8 @@
 - pkg:maven/org.openurp.base/openurp-base-adminapp@0.0.1?type=war
 - pkg:maven/org.openurp.base/openurp-base-adminapp@0.0.20?classifier=sources
 - pkg:maven/org.openurp.base/openurp-base-adminapp@0.0.20?type=war
+- pkg:maven/org.openurp.base/openurp-base-adminapp@0.0.21?classifier=sources
+- pkg:maven/org.openurp.base/openurp-base-adminapp@0.0.21?type=war
 - pkg:maven/org.openurp.base/openurp-base-adminapp@0.0.2?classifier=sources
 - pkg:maven/org.openurp.base/openurp-base-adminapp@0.0.2?type=war
 - pkg:maven/org.openurp.base/openurp-base-adminapp@0.0.3?classifier=sources

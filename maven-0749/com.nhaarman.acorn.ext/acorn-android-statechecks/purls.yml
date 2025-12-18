@@ -1,0 +1,8 @@
+- pkg:maven/com.nhaarman.acorn.ext/acorn-android-statechecks@0.12.0?classifier=sources
+- pkg:maven/com.nhaarman.acorn.ext/acorn-android-statechecks@0.12.0?type=aar
+- pkg:maven/com.nhaarman.acorn.ext/acorn-android-statechecks@1.0.0-rc01?classifier=sources
+- pkg:maven/com.nhaarman.acorn.ext/acorn-android-statechecks@1.0.0-rc01?type=aar
+- pkg:maven/com.nhaarman.acorn.ext/acorn-android-statechecks@1.0.0-rc02?classifier=sources
+- pkg:maven/com.nhaarman.acorn.ext/acorn-android-statechecks@1.0.0-rc02?type=aar
+- pkg:maven/com.nhaarman.acorn.ext/acorn-android-statechecks@1.0.0?classifier=sources
+- pkg:maven/com.nhaarman.acorn.ext/acorn-android-statechecks@1.0.0?type=aar

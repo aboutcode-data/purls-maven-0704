@@ -1,0 +1,4 @@
+- pkg:maven/com.github.rtunsole/jsakcp_2.12@0.1
+- pkg:maven/com.github.rtunsole/jsakcp_2.12@0.11
+- pkg:maven/com.github.rtunsole/jsakcp_2.12@0.11?classifier=sources
+- pkg:maven/com.github.rtunsole/jsakcp_2.12@0.1?classifier=sources

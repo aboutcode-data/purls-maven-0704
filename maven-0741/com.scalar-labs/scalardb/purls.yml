@@ -3,3 +3,4 @@
 - pkg:maven/com.scalar-labs/scalardb@1.0.0-rc3?classifier=sources
 - pkg:maven/com.scalar-labs/scalardb@1.0.0-rc4?classifier=sources
 - pkg:maven/com.scalar-labs/scalardb@1.0.0?classifier=sources
+- pkg:maven/com.scalar-labs/scalardb@1.1.0?classifier=sources

@@ -38,3 +38,5 @@
 - pkg:maven/com.github.finagle/finagle-oauth2_2.11@19.2.0?classifier=sources
 - pkg:maven/com.github.finagle/finagle-oauth2_2.11@19.3.0
 - pkg:maven/com.github.finagle/finagle-oauth2_2.11@19.3.0?classifier=sources
+- pkg:maven/com.github.finagle/finagle-oauth2_2.11@19.4.0
+- pkg:maven/com.github.finagle/finagle-oauth2_2.11@19.4.0?classifier=sources

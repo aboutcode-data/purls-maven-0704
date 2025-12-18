@@ -1,0 +1,2 @@
+- pkg:maven/site.lizhivscaomei/standard-response@1.0-RELEASE
+- pkg:maven/site.lizhivscaomei/standard-response@1.0-RELEASE?classifier=sources

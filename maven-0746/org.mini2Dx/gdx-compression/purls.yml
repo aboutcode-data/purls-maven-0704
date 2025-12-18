@@ -1,0 +1,2 @@
+- pkg:maven/org.mini2Dx/gdx-compression@1.9.8
+- pkg:maven/org.mini2Dx/gdx-compression@1.9.8?classifier=sources

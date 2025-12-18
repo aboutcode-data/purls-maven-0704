@@ -1,0 +1,2 @@
+- pkg:maven/de.sciss/dispatch-json4s-jackson_2.13.0-RC2@0.1.0
+- pkg:maven/de.sciss/dispatch-json4s-jackson_2.13.0-RC2@0.1.0?classifier=sources

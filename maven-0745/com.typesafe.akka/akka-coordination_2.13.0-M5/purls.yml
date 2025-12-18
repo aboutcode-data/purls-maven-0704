@@ -1,0 +1,6 @@
+- pkg:maven/com.typesafe.akka/akka-coordination_2.13.0-M5@2.5.22
+- pkg:maven/com.typesafe.akka/akka-coordination_2.13.0-M5@2.5.22?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-coordination_2.13.0-M5@2.5.23
+- pkg:maven/com.typesafe.akka/akka-coordination_2.13.0-M5@2.5.23?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-coordination_2.13.0-M5@2.6.0-M1
+- pkg:maven/com.typesafe.akka/akka-coordination_2.13.0-M5@2.6.0-M1?classifier=sources

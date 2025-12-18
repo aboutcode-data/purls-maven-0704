@@ -18,3 +18,5 @@
 - pkg:maven/org.n52.series-api/io@2.0.1-alpha.2?classifier=sources
 - pkg:maven/org.n52.series-api/io@2.0.1-alpha.3
 - pkg:maven/org.n52.series-api/io@2.0.1-alpha.3?classifier=sources
+- pkg:maven/org.n52.series-api/io@2.0.1-alpha.4
+- pkg:maven/org.n52.series-api/io@2.0.1-alpha.4?classifier=sources

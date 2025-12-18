@@ -1,0 +1,2 @@
+- pkg:maven/net.jcazevedo/moultingyaml_2.13@0.4.1
+- pkg:maven/net.jcazevedo/moultingyaml_2.13@0.4.1?classifier=sources

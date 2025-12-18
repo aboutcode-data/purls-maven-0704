@@ -1,0 +1,4 @@
+- pkg:maven/de.sciss/fscape-modules_2.13@2.26.2
+- pkg:maven/de.sciss/fscape-modules_2.13@2.26.2?classifier=sources
+- pkg:maven/de.sciss/fscape-modules_2.13@2.27.0
+- pkg:maven/de.sciss/fscape-modules_2.13@2.27.0?classifier=sources

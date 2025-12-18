@@ -1,0 +1,2 @@
+- pkg:maven/org.femtoframework.coin/coin-api@7.0.0
+- pkg:maven/org.femtoframework.coin/coin-api@7.0.0?classifier=sources

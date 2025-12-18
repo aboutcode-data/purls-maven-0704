@@ -3,3 +3,4 @@
 - pkg:maven/org.webjars/mathjs@2.7.0
 - pkg:maven/org.webjars/mathjs@3.0.0
 - pkg:maven/org.webjars/mathjs@3.2.1
+- pkg:maven/org.webjars/mathjs@6.0.2

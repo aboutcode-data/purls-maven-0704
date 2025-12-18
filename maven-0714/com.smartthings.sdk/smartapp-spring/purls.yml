@@ -1,2 +1,4 @@
 - pkg:maven/com.smartthings.sdk/smartapp-spring@0.0.1-PREVIEW?classifier=sources
 - pkg:maven/com.smartthings.sdk/smartapp-spring@0.0.2-PREVIEW?classifier=sources
+- pkg:maven/com.smartthings.sdk/smartapp-spring@0.0.3-PREVIEW
+- pkg:maven/com.smartthings.sdk/smartapp-spring@0.0.3-PREVIEW?classifier=sources

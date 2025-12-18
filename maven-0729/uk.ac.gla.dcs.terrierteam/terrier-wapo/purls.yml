@@ -1,0 +1,2 @@
+- pkg:maven/uk.ac.gla.dcs.terrierteam/terrier-wapo@0.1
+- pkg:maven/uk.ac.gla.dcs.terrierteam/terrier-wapo@0.1?classifier=sources

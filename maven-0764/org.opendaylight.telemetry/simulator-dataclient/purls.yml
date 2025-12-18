@@ -1,0 +1,2 @@
+- pkg:maven/org.opendaylight.telemetry/simulator-dataclient@0.1.0
+- pkg:maven/org.opendaylight.telemetry/simulator-dataclient@0.1.0?classifier=sources

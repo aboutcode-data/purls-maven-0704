@@ -1,0 +1,2 @@
+- pkg:maven/com.cognitect.aws/eventbridge@729.2.492.0
+- pkg:maven/com.cognitect.aws/eventbridge@729.2.492.0?classifier=sources

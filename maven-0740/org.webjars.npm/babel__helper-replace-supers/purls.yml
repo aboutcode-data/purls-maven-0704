@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/babel__helper-replace-supers@7.3.4
 - pkg:maven/org.webjars.npm/babel__helper-replace-supers@7.3.4?classifier=sources
+- pkg:maven/org.webjars.npm/babel__helper-replace-supers@7.4.4
+- pkg:maven/org.webjars.npm/babel__helper-replace-supers@7.4.4?classifier=sources

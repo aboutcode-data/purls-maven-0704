@@ -1,0 +1,2 @@
+- pkg:maven/com.wzili/dingtalk-spring-boot-starter@1.0.0-RELEASES
+- pkg:maven/com.wzili/dingtalk-spring-boot-starter@1.0.0-RELEASES?classifier=sources

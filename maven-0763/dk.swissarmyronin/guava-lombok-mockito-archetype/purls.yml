@@ -1,2 +1,4 @@
 - pkg:maven/dk.swissarmyronin/guava-lombok-mockito-archetype@1.2
 - pkg:maven/dk.swissarmyronin/guava-lombok-mockito-archetype@1.2?classifier=sources
+- pkg:maven/dk.swissarmyronin/guava-lombok-mockito-archetype@1.3
+- pkg:maven/dk.swissarmyronin/guava-lombok-mockito-archetype@1.3?classifier=sources

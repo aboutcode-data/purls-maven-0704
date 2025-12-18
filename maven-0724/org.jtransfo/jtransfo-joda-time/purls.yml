@@ -52,3 +52,5 @@
 - pkg:maven/org.jtransfo/jtransfo-joda-time@2.7?classifier=sources
 - pkg:maven/org.jtransfo/jtransfo-joda-time@2.8
 - pkg:maven/org.jtransfo/jtransfo-joda-time@2.8?classifier=sources
+- pkg:maven/org.jtransfo/jtransfo-joda-time@2.9
+- pkg:maven/org.jtransfo/jtransfo-joda-time@2.9?classifier=sources

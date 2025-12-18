@@ -1,1 +1,2 @@
 - pkg:maven/org.wso2.siddhi.extension.archetype/siddhi-archetype-script@1.0.1?classifier=sources
+- pkg:maven/org.wso2.siddhi.extension.archetype/siddhi-archetype-script@1.0.2?classifier=sources

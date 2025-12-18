@@ -1,0 +1,2 @@
+- pkg:maven/no.nav.syfo.sm/syfosm-common-metrics@1.0.22
+- pkg:maven/no.nav.syfo.sm/syfosm-common-metrics@1.0.22?classifier=sources

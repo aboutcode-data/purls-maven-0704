@@ -18,6 +18,8 @@
 - pkg:maven/org.deeplearning4j/dl4j-spark-ml_2.11@1.0.0-beta3_spark_1?classifier=sources
 - pkg:maven/org.deeplearning4j/dl4j-spark-ml_2.11@1.0.0-beta3_spark_2
 - pkg:maven/org.deeplearning4j/dl4j-spark-ml_2.11@1.0.0-beta3_spark_2?classifier=sources
+- pkg:maven/org.deeplearning4j/dl4j-spark-ml_2.11@1.0.0-beta4_spark_2
+- pkg:maven/org.deeplearning4j/dl4j-spark-ml_2.11@1.0.0-beta4_spark_2?classifier=sources
 - pkg:maven/org.deeplearning4j/dl4j-spark-ml_2.11@1.0.0-beta_spark_1
 - pkg:maven/org.deeplearning4j/dl4j-spark-ml_2.11@1.0.0-beta_spark_1?classifier=sources
 - pkg:maven/org.deeplearning4j/dl4j-spark-ml_2.11@1.0.0-beta_spark_2

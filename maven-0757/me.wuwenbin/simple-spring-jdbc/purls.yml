@@ -1,0 +1,2 @@
+- pkg:maven/me.wuwenbin/simple-spring-jdbc@1.0
+- pkg:maven/me.wuwenbin/simple-spring-jdbc@1.0?classifier=sources

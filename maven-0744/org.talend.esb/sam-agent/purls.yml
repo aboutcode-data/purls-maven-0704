@@ -84,3 +84,5 @@
 - pkg:maven/org.talend.esb/sam-agent@7.0.1?classifier=sources
 - pkg:maven/org.talend.esb/sam-agent@7.1.1
 - pkg:maven/org.talend.esb/sam-agent@7.1.1?classifier=sources
+- pkg:maven/org.talend.esb/sam-agent@7.2.1
+- pkg:maven/org.talend.esb/sam-agent@7.2.1?classifier=sources

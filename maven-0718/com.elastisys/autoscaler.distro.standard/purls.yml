@@ -1,0 +1,2 @@
+- pkg:maven/com.elastisys/autoscaler.distro.standard@5.2.2
+- pkg:maven/com.elastisys/autoscaler.distro.standard@5.2.2?classifier=sources

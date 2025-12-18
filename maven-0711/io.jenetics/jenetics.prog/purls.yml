@@ -12,3 +12,5 @@
 - pkg:maven/io.jenetics/jenetics.prog@4.3.0?classifier=sources
 - pkg:maven/io.jenetics/jenetics.prog@4.4.0
 - pkg:maven/io.jenetics/jenetics.prog@4.4.0?classifier=sources
+- pkg:maven/io.jenetics/jenetics.prog@5.0.0
+- pkg:maven/io.jenetics/jenetics.prog@5.0.0?classifier=sources

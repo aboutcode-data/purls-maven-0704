@@ -32,6 +32,11 @@
 - pkg:maven/org.drools/drools-docs@7.19.0.Final?type=zip
 - pkg:maven/org.drools/drools-docs@7.19.1.Final?type=zip
 - pkg:maven/org.drools/drools-docs@7.2.0.Final?type=zip
+- pkg:maven/org.drools/drools-docs@7.20.0.Final?type=zip
+- pkg:maven/org.drools/drools-docs@7.21.0.Final?type=zip
+- pkg:maven/org.drools/drools-docs@7.22.0.Final?type=zip
+- pkg:maven/org.drools/drools-docs@7.23.0.Final?type=zip
+- pkg:maven/org.drools/drools-docs@7.24.0.Final?type=zip
 - pkg:maven/org.drools/drools-docs@7.3.0.Final?type=zip
 - pkg:maven/org.drools/drools-docs@7.4.0.Final?type=zip
 - pkg:maven/org.drools/drools-docs@7.4.1.Final?type=zip

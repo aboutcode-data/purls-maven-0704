@@ -1,0 +1,2 @@
+- pkg:maven/com.shinitech.djammadev/djamma-testing@1.8
+- pkg:maven/com.shinitech.djammadev/djamma-testing@1.8?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.jamesratzlaff/byte-functions@2019.04.01
+- pkg:maven/com.jamesratzlaff/byte-functions@2019.04.01?classifier=sources

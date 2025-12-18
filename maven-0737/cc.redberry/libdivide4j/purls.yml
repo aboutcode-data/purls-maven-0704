@@ -2,3 +2,5 @@
 - pkg:maven/cc.redberry/libdivide4j@1.0?classifier=sources
 - pkg:maven/cc.redberry/libdivide4j@1.1
 - pkg:maven/cc.redberry/libdivide4j@1.1?classifier=sources
+- pkg:maven/cc.redberry/libdivide4j@1.2
+- pkg:maven/cc.redberry/libdivide4j@1.2?classifier=sources
