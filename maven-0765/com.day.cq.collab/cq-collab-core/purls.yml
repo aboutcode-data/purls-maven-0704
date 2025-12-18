@@ -1,0 +1,4 @@
+- pkg:maven/com.day.cq.collab/cq-collab-core@5.4.4?classifier=sources
+- pkg:maven/com.day.cq.collab/cq-collab-core@5.5.0?classifier=sources
+- pkg:maven/com.day.cq.collab/cq-collab-core@5.6.71?classifier=sources
+- pkg:maven/com.day.cq.collab/cq-collab-core@5.6.73?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.adobe.granite/com.adobe.granite.installer.factory.packages@0.5.0?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.installer.factory.packages@0.5.2?classifier=sources

@@ -1,5 +1,6 @@
 - pkg:maven/org.webjars/three.js@r118
 - pkg:maven/org.webjars/three.js@r118-1
+- pkg:maven/org.webjars/three.js@r123
 - pkg:maven/org.webjars/three.js@r66
 - pkg:maven/org.webjars/three.js@r68
 - pkg:maven/org.webjars/three.js@r70

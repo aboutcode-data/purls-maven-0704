@@ -1,2 +1,6 @@
 - pkg:maven/com.intel.qat/parquet-hadoop@1.10.0
+- pkg:maven/com.intel.qat/parquet-hadoop@1.10.0-1
+- pkg:maven/com.intel.qat/parquet-hadoop@1.10.0-1?classifier=sources
 - pkg:maven/com.intel.qat/parquet-hadoop@1.10.0?classifier=sources
+- pkg:maven/com.intel.qat/parquet-hadoop@1.10.1
+- pkg:maven/com.intel.qat/parquet-hadoop@1.10.1?classifier=sources

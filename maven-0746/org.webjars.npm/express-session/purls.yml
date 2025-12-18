@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/express-session@1.15.6
 - pkg:maven/org.webjars.npm/express-session@1.15.6?classifier=sources
+- pkg:maven/org.webjars.npm/express-session@1.17.1
+- pkg:maven/org.webjars.npm/express-session@1.17.1?classifier=sources

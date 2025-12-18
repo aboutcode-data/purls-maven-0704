@@ -1,2 +1,4 @@
 - pkg:maven/com.aliyun.calcite.avatica/ali-avatica-metrics@1.13.0
 - pkg:maven/com.aliyun.calcite.avatica/ali-avatica-metrics@1.13.0?classifier=sources
+- pkg:maven/com.aliyun.calcite.avatica/ali-avatica-metrics@1.13.3
+- pkg:maven/com.aliyun.calcite.avatica/ali-avatica-metrics@1.13.3?classifier=sources

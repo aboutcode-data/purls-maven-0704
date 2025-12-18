@@ -162,6 +162,9 @@
 - pkg:maven/org.glassfish.jersey.examples/extended-wadl-webapp@2.31?type=war
 - pkg:maven/org.glassfish.jersey.examples/extended-wadl-webapp@2.32?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/extended-wadl-webapp@2.32?type=war
+- pkg:maven/org.glassfish.jersey.examples/extended-wadl-webapp@2.33?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/extended-wadl-webapp@2.33?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/extended-wadl-webapp@2.33?type=war
 - pkg:maven/org.glassfish.jersey.examples/extended-wadl-webapp@2.3?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/extended-wadl-webapp@2.3?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/extended-wadl-webapp@2.3?type=war

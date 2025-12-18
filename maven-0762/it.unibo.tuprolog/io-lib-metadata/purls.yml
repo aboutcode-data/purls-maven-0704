@@ -1,0 +1,2 @@
+- pkg:maven/it.unibo.tuprolog/io-lib-metadata@0.15.2?classifier=sources
+- pkg:maven/it.unibo.tuprolog/io-lib-metadata@0.16.0?classifier=sources

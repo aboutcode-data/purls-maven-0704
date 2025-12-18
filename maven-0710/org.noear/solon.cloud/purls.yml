@@ -1,0 +1,2 @@
+- pkg:maven/org.noear/solon.cloud@1.2.21
+- pkg:maven/org.noear/solon.cloud@1.2.21?classifier=sources

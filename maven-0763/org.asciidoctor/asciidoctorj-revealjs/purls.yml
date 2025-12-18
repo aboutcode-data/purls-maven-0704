@@ -2,3 +2,5 @@
 - pkg:maven/org.asciidoctor/asciidoctorj-revealjs@3.1.0?classifier=sources
 - pkg:maven/org.asciidoctor/asciidoctorj-revealjs@4.0.1
 - pkg:maven/org.asciidoctor/asciidoctorj-revealjs@4.0.1?classifier=sources
+- pkg:maven/org.asciidoctor/asciidoctorj-revealjs@4.1.0
+- pkg:maven/org.asciidoctor/asciidoctorj-revealjs@4.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.zalando/riptide-concurrent@3.0.0-RC.16
+- pkg:maven/org.zalando/riptide-concurrent@3.0.0-RC.16?classifier=sources

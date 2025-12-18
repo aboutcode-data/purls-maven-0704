@@ -7,4 +7,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-masterfs-linux@RELEASE120-u1?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-masterfs-linux@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-masterfs-linux@RELEASE121?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-masterfs-linux@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-masterfs-linux@RELEASE90?classifier=sources

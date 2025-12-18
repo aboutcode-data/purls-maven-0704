@@ -1,0 +1,2 @@
+- pkg:maven/ai.expert/nlapi-java-sdk@2.1.0?classifier=sources
+- pkg:maven/ai.expert/nlapi-java-sdk@2.1.1?classifier=sources

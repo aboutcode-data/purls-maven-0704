@@ -1,0 +1,5 @@
+- pkg:maven/com.adobe.cq.social/cq-social-group@1.0.12?classifier=sources
+- pkg:maven/com.adobe.cq.social/cq-social-group@1.0.18?classifier=sources
+- pkg:maven/com.adobe.cq.social/cq-social-group@1.2.44?classifier=sources
+- pkg:maven/com.adobe.cq.social/cq-social-group@1.4.36?classifier=sources
+- pkg:maven/com.adobe.cq.social/cq-social-group@1.4.37?classifier=sources

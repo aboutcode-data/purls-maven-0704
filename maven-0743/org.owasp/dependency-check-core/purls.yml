@@ -147,3 +147,8 @@
 - pkg:maven/org.owasp/dependency-check-core@6.0.0?classifier=sources
 - pkg:maven/org.owasp/dependency-check-core@6.0.1?classifier=sources
 - pkg:maven/org.owasp/dependency-check-core@6.0.2?classifier=sources
+- pkg:maven/org.owasp/dependency-check-core@6.0.3?classifier=sources
+- pkg:maven/org.owasp/dependency-check-core@6.0.4
+- pkg:maven/org.owasp/dependency-check-core@6.0.4?classifier=sources
+- pkg:maven/org.owasp/dependency-check-core@6.0.5
+- pkg:maven/org.owasp/dependency-check-core@6.0.5?classifier=sources

@@ -10,6 +10,11 @@
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk-settings@10.0.31.0
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk-settings@10.0.33.0
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk-settings@10.0.37.0
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk-settings@10.0.38.0
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk-settings@10.0.40.0
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk-settings@10.0.41.0
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk-settings@10.0.42.0
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk-settings@10.0.45
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk-settings@10.0.6
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk-settings@10.0.7
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk-settings@10.0.8

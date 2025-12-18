@@ -82,3 +82,7 @@
 - pkg:maven/com.intuit.quickbooks-online/ipp-v3-java-data@6.0.8?classifier=sources
 - pkg:maven/com.intuit.quickbooks-online/ipp-v3-java-data@6.0.9
 - pkg:maven/com.intuit.quickbooks-online/ipp-v3-java-data@6.0.9?classifier=sources
+- pkg:maven/com.intuit.quickbooks-online/ipp-v3-java-data@6.1.0
+- pkg:maven/com.intuit.quickbooks-online/ipp-v3-java-data@6.1.0?classifier=sources
+- pkg:maven/com.intuit.quickbooks-online/ipp-v3-java-data@6.1.1
+- pkg:maven/com.intuit.quickbooks-online/ipp-v3-java-data@6.1.1?classifier=sources

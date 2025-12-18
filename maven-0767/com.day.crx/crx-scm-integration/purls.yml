@@ -1,0 +1,3 @@
+- pkg:maven/com.day.crx/crx-scm-integration@2.0.0?classifier=sources
+- pkg:maven/com.day.crx/crx-scm-integration@2.2.0?classifier=sources
+- pkg:maven/com.day.crx/crx-scm-integration@2.3.11?classifier=sources

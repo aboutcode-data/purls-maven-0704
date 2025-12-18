@@ -92,3 +92,5 @@
 - pkg:maven/org.kohsuke.stapler/stapler-jruby@1.260?classifier=sources
 - pkg:maven/org.kohsuke.stapler/stapler-jruby@1.261
 - pkg:maven/org.kohsuke.stapler/stapler-jruby@1.261?classifier=sources
+- pkg:maven/org.kohsuke.stapler/stapler-jruby@1.262
+- pkg:maven/org.kohsuke.stapler/stapler-jruby@1.262?classifier=sources

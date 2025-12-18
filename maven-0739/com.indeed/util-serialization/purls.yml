@@ -33,3 +33,4 @@
 - pkg:maven/com.indeed/util-serialization@1.0.32?classifier=sources
 - pkg:maven/com.indeed/util-serialization@1.0.33?classifier=sources
 - pkg:maven/com.indeed/util-serialization@1.0.34?classifier=sources
+- pkg:maven/com.indeed/util-serialization@1.0.35?classifier=sources

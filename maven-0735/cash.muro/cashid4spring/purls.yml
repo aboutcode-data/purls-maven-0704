@@ -1,0 +1,4 @@
+- pkg:maven/cash.muro/cashid4spring@0.1.0-alpha
+- pkg:maven/cash.muro/cashid4spring@0.1.0-alpha2
+- pkg:maven/cash.muro/cashid4spring@0.1.0-alpha2?classifier=sources
+- pkg:maven/cash.muro/cashid4spring@0.1.0-alpha?classifier=sources

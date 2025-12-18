@@ -16,3 +16,5 @@
 - pkg:maven/org.clojure/spec.alpha@0.2.176?classifier=sources
 - pkg:maven/org.clojure/spec.alpha@0.2.187
 - pkg:maven/org.clojure/spec.alpha@0.2.187?classifier=sources
+- pkg:maven/org.clojure/spec.alpha@0.2.194
+- pkg:maven/org.clojure/spec.alpha@0.2.194?classifier=sources

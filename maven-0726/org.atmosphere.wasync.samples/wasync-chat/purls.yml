@@ -118,3 +118,5 @@
 - pkg:maven/org.atmosphere.wasync.samples/wasync-chat@2.5.3?classifier=sources
 - pkg:maven/org.atmosphere.wasync.samples/wasync-chat@2.5.4
 - pkg:maven/org.atmosphere.wasync.samples/wasync-chat@2.5.4?classifier=sources
+- pkg:maven/org.atmosphere.wasync.samples/wasync-chat@2.6.4
+- pkg:maven/org.atmosphere.wasync.samples/wasync-chat@2.6.4?classifier=sources

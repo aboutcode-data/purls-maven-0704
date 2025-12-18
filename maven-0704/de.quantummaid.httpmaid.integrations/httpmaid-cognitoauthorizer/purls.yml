@@ -1,0 +1,6 @@
+- pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-cognitoauthorizer@0.9.113
+- pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-cognitoauthorizer@0.9.113?classifier=sources
+- pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-cognitoauthorizer@0.9.114
+- pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-cognitoauthorizer@0.9.114?classifier=sources
+- pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-cognitoauthorizer@0.9.115
+- pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-cognitoauthorizer@0.9.115?classifier=sources

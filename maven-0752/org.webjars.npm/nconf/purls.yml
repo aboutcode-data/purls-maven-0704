@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/nconf@0.10.0
 - pkg:maven/org.webjars.npm/nconf@0.10.0?classifier=sources
+- pkg:maven/org.webjars.npm/nconf@0.9.1
+- pkg:maven/org.webjars.npm/nconf@0.9.1?classifier=sources

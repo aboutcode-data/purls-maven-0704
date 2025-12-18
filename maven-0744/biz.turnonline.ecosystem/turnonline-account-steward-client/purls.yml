@@ -24,5 +24,7 @@
 - pkg:maven/biz.turnonline.ecosystem/turnonline-account-steward-client@0.22?classifier=sources
 - pkg:maven/biz.turnonline.ecosystem/turnonline-account-steward-client@0.23
 - pkg:maven/biz.turnonline.ecosystem/turnonline-account-steward-client@0.23?classifier=sources
+- pkg:maven/biz.turnonline.ecosystem/turnonline-account-steward-client@0.24
+- pkg:maven/biz.turnonline.ecosystem/turnonline-account-steward-client@0.24?classifier=sources
 - pkg:maven/biz.turnonline.ecosystem/turnonline-account-steward-client@0.9
 - pkg:maven/biz.turnonline.ecosystem/turnonline-account-steward-client@0.9?classifier=sources

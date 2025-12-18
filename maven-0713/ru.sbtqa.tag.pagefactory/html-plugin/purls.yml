@@ -70,6 +70,10 @@
 - pkg:maven/ru.sbtqa.tag.pagefactory/html-plugin@15.0.2?classifier=sources
 - pkg:maven/ru.sbtqa.tag.pagefactory/html-plugin@15.1.0
 - pkg:maven/ru.sbtqa.tag.pagefactory/html-plugin@15.1.0?classifier=sources
+- pkg:maven/ru.sbtqa.tag.pagefactory/html-plugin@15.10.0
+- pkg:maven/ru.sbtqa.tag.pagefactory/html-plugin@15.10.0?classifier=sources
+- pkg:maven/ru.sbtqa.tag.pagefactory/html-plugin@15.11.0
+- pkg:maven/ru.sbtqa.tag.pagefactory/html-plugin@15.11.0?classifier=sources
 - pkg:maven/ru.sbtqa.tag.pagefactory/html-plugin@15.2.0
 - pkg:maven/ru.sbtqa.tag.pagefactory/html-plugin@15.2.0?classifier=sources
 - pkg:maven/ru.sbtqa.tag.pagefactory/html-plugin@15.2.2

@@ -1,2 +1,4 @@
 - pkg:maven/io.fogsy/empire-pinto@1.9.13
 - pkg:maven/io.fogsy/empire-pinto@1.9.13?classifier=sources
+- pkg:maven/io.fogsy/empire-pinto@1.9.14
+- pkg:maven/io.fogsy/empire-pinto@1.9.14?classifier=sources

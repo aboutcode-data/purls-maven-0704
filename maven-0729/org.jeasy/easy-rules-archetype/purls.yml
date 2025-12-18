@@ -10,3 +10,5 @@
 - pkg:maven/org.jeasy/easy-rules-archetype@3.4.0?classifier=sources
 - pkg:maven/org.jeasy/easy-rules-archetype@4.0.0
 - pkg:maven/org.jeasy/easy-rules-archetype@4.0.0?classifier=sources
+- pkg:maven/org.jeasy/easy-rules-archetype@4.1.0
+- pkg:maven/org.jeasy/easy-rules-archetype@4.1.0?classifier=sources

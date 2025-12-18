@@ -18,3 +18,4 @@
 - pkg:maven/com.epam.jdi/jdi-light-bootstrap@1.2.7
 - pkg:maven/com.epam.jdi/jdi-light-bootstrap@1.2.7?classifier=sources
 - pkg:maven/com.epam.jdi/jdi-light-bootstrap@1.3.0
+- pkg:maven/com.epam.jdi/jdi-light-bootstrap@1.3.2

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.stephenc.continuous/dependency-version-maven-plugin@1.1
+- pkg:maven/com.github.stephenc.continuous/dependency-version-maven-plugin@1.1?classifier=sources

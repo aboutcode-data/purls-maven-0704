@@ -12,3 +12,7 @@
 - pkg:maven/org.genesys-pgr/application-blocks-security@1.4?classifier=sources
 - pkg:maven/org.genesys-pgr/application-blocks-security@1.6
 - pkg:maven/org.genesys-pgr/application-blocks-security@1.6?classifier=sources
+- pkg:maven/org.genesys-pgr/application-blocks-security@2.0
+- pkg:maven/org.genesys-pgr/application-blocks-security@2.0?classifier=sources
+- pkg:maven/org.genesys-pgr/application-blocks-security@2.1
+- pkg:maven/org.genesys-pgr/application-blocks-security@2.1?classifier=sources

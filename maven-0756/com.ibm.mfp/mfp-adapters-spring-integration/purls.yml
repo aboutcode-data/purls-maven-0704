@@ -1,0 +1,2 @@
+- pkg:maven/com.ibm.mfp/mfp-adapters-spring-integration@1.0.1
+- pkg:maven/com.ibm.mfp/mfp-adapters-spring-integration@1.0.1?classifier=sources

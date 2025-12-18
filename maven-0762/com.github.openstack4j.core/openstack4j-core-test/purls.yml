@@ -6,3 +6,5 @@
 - pkg:maven/com.github.openstack4j.core/openstack4j-core-test@3.7?classifier=sources
 - pkg:maven/com.github.openstack4j.core/openstack4j-core-test@3.8
 - pkg:maven/com.github.openstack4j.core/openstack4j-core-test@3.8?classifier=sources
+- pkg:maven/com.github.openstack4j.core/openstack4j-core-test@3.9
+- pkg:maven/com.github.openstack4j.core/openstack4j-core-test@3.9?classifier=sources

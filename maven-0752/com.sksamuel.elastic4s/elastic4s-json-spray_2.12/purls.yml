@@ -12,6 +12,12 @@
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-json-spray_2.12@7.1.2?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-json-spray_2.12@7.1.4
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-json-spray_2.12@7.1.4?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-json-spray_2.12@7.10.0
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-json-spray_2.12@7.10.0?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-json-spray_2.12@7.10.1
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-json-spray_2.12@7.10.1?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-json-spray_2.12@7.10.2
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-json-spray_2.12@7.10.2?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-json-spray_2.12@7.2.0
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-json-spray_2.12@7.2.0?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-json-spray_2.12@7.3.0
@@ -32,6 +38,8 @@
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-json-spray_2.12@7.6.0?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-json-spray_2.12@7.6.1
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-json-spray_2.12@7.6.1?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-json-spray_2.12@7.6.2
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-json-spray_2.12@7.6.2?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-json-spray_2.12@7.7.0
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-json-spray_2.12@7.7.0?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-json-spray_2.12@7.8.0
@@ -42,3 +50,5 @@
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-json-spray_2.12@7.9.0?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-json-spray_2.12@7.9.1
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-json-spray_2.12@7.9.1?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-json-spray_2.12@7.9.2
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-json-spray_2.12@7.9.2?classifier=sources

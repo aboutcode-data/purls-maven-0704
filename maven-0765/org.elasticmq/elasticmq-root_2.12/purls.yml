@@ -74,3 +74,5 @@
 - pkg:maven/org.elasticmq/elasticmq-root_2.12@0.15.6?classifier=sources
 - pkg:maven/org.elasticmq/elasticmq-root_2.12@0.15.8
 - pkg:maven/org.elasticmq/elasticmq-root_2.12@0.15.8?classifier=sources
+- pkg:maven/org.elasticmq/elasticmq-root_2.12@1.0.0
+- pkg:maven/org.elasticmq/elasticmq-root_2.12@1.0.0?classifier=sources

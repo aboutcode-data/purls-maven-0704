@@ -1,0 +1,2 @@
+- pkg:maven/org.hglteam/convertion-core@1.0.3
+- pkg:maven/org.hglteam/convertion-core@1.0.3?classifier=sources

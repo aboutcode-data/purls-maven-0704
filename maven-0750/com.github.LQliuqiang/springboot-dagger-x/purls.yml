@@ -10,3 +10,8 @@
 - pkg:maven/com.github.LQliuqiang/springboot-dagger-x@1.5.RELEASE?classifier=sources
 - pkg:maven/com.github.LQliuqiang/springboot-dagger-x@1.6.RELEASE
 - pkg:maven/com.github.LQliuqiang/springboot-dagger-x@1.6.RELEASE?classifier=sources
+- pkg:maven/com.github.LQliuqiang/springboot-dagger-x@2.0.RELEASE?classifier=sources
+- pkg:maven/com.github.LQliuqiang/springboot-dagger-x@2.2.RELEASE
+- pkg:maven/com.github.LQliuqiang/springboot-dagger-x@2.2.RELEASE?classifier=sources
+- pkg:maven/com.github.LQliuqiang/springboot-dagger-x@2.3.RELEASE
+- pkg:maven/com.github.LQliuqiang/springboot-dagger-x@2.3.RELEASE?classifier=sources

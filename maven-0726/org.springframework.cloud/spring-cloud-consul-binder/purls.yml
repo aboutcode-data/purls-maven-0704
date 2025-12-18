@@ -60,3 +60,7 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-consul-binder@2.2.3.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-consul-binder@2.2.4.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-consul-binder@2.2.4.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-consul-binder@2.2.5.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-consul-binder@2.2.5.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-consul-binder@3.0.0
+- pkg:maven/org.springframework.cloud/spring-cloud-consul-binder@3.0.0?classifier=sources

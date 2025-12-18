@@ -1,0 +1,2 @@
+- pkg:maven/it.mulders.puml/plantuml-v1-adapter@0.1
+- pkg:maven/it.mulders.puml/plantuml-v1-adapter@0.1?classifier=sources

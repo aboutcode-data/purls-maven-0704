@@ -1,0 +1,2 @@
+- pkg:maven/top.andoudou/third-party-common@1.0.1
+- pkg:maven/top.andoudou/third-party-common@1.0.1?classifier=sources

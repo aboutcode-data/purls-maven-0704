@@ -19,3 +19,4 @@
 - pkg:maven/io.xenn/android-sdk@2.9.3?type=aar
 - pkg:maven/io.xenn/android-sdk@2.9.4?type=aar
 - pkg:maven/io.xenn/android-sdk@2.9?type=aar
+- pkg:maven/io.xenn/android-sdk@3.0.0?type=aar

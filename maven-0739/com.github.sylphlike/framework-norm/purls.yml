@@ -1,0 +1,2 @@
+- pkg:maven/com.github.sylphlike/framework-norm@1.0.0-SYLPHLIKE
+- pkg:maven/com.github.sylphlike/framework-norm@1.0.0-SYLPHLIKE?classifier=sources

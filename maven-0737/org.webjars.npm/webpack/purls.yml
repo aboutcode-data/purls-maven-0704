@@ -78,3 +78,5 @@
 - pkg:maven/org.webjars.npm/webpack@4.43.0?classifier=sources
 - pkg:maven/org.webjars.npm/webpack@5.0.0-alpha.9
 - pkg:maven/org.webjars.npm/webpack@5.0.0-alpha.9?classifier=sources
+- pkg:maven/org.webjars.npm/webpack@5.11.1
+- pkg:maven/org.webjars.npm/webpack@5.11.1?classifier=sources

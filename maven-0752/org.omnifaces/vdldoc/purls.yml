@@ -8,3 +8,5 @@
 - pkg:maven/org.omnifaces/vdldoc@2.1?classifier=sources
 - pkg:maven/org.omnifaces/vdldoc@3.0
 - pkg:maven/org.omnifaces/vdldoc@3.0?classifier=sources
+- pkg:maven/org.omnifaces/vdldoc@3.1
+- pkg:maven/org.omnifaces/vdldoc@3.1?classifier=sources

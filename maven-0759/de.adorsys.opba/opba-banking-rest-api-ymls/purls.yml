@@ -1,0 +1,2 @@
+- pkg:maven/de.adorsys.opba/opba-banking-rest-api-ymls@0.30.0.1
+- pkg:maven/de.adorsys.opba/opba-banking-rest-api-ymls@0.30.0.1?classifier=sources

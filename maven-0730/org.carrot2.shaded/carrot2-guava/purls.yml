@@ -2,3 +2,5 @@
 - pkg:maven/org.carrot2.shaded/carrot2-guava@18.0?classifier=sources
 - pkg:maven/org.carrot2.shaded/carrot2-guava@29.0-jre
 - pkg:maven/org.carrot2.shaded/carrot2-guava@29.0-jre?classifier=sources
+- pkg:maven/org.carrot2.shaded/carrot2-guava@30.0-jre
+- pkg:maven/org.carrot2.shaded/carrot2-guava@30.0-jre?classifier=sources

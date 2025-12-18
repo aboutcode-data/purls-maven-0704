@@ -148,3 +148,6 @@
 - pkg:maven/com.airbnb.android/epoxy-processor@4.0.0-beta6?classifier=sources
 - pkg:maven/com.airbnb.android/epoxy-processor@4.0.0?classifier=sources
 - pkg:maven/com.airbnb.android/epoxy-processor@4.1.0?classifier=sources
+- pkg:maven/com.airbnb.android/epoxy-processor@4.2.0?classifier=sources
+- pkg:maven/com.airbnb.android/epoxy-processor@4.3.0?classifier=sources
+- pkg:maven/com.airbnb.android/epoxy-processor@4.3.1?classifier=sources

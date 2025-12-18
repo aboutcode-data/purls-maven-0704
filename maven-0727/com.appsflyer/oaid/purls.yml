@@ -5,3 +5,4 @@
 - pkg:maven/com.appsflyer/oaid@5.4.2?type=aar
 - pkg:maven/com.appsflyer/oaid@5.4.4?type=aar
 - pkg:maven/com.appsflyer/oaid@6.1.1?type=aar
+- pkg:maven/com.appsflyer/oaid@6.1.2?type=aar

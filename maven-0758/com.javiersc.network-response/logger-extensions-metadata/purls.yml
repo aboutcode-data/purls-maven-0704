@@ -1,0 +1,3 @@
+- pkg:maven/com.javiersc.network-response/logger-extensions-metadata@0.7.3?classifier=sources
+- pkg:maven/com.javiersc.network-response/logger-extensions-metadata@0.8.0?classifier=sources
+- pkg:maven/com.javiersc.network-response/logger-extensions-metadata@0.8.1?classifier=sources

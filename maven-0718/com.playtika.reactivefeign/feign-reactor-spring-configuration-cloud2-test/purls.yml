@@ -3,6 +3,10 @@
 - pkg:maven/com.playtika.reactivefeign/feign-reactor-spring-configuration-cloud2-test@2.0.15
 - pkg:maven/com.playtika.reactivefeign/feign-reactor-spring-configuration-cloud2-test@2.0.2
 - pkg:maven/com.playtika.reactivefeign/feign-reactor-spring-configuration-cloud2-test@2.0.22
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-spring-configuration-cloud2-test@2.0.23
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-spring-configuration-cloud2-test@2.0.24
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-spring-configuration-cloud2-test@2.0.25
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-spring-configuration-cloud2-test@2.0.26
 - pkg:maven/com.playtika.reactivefeign/feign-reactor-spring-configuration-cloud2-test@2.0.3
 - pkg:maven/com.playtika.reactivefeign/feign-reactor-spring-configuration-cloud2-test@2.0.5
 - pkg:maven/com.playtika.reactivefeign/feign-reactor-spring-configuration-cloud2-test@2.0.6

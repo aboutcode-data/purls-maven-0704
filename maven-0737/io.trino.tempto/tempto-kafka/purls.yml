@@ -1,0 +1,2 @@
+- pkg:maven/io.trino.tempto/tempto-kafka@183
+- pkg:maven/io.trino.tempto/tempto-kafka@183?classifier=sources

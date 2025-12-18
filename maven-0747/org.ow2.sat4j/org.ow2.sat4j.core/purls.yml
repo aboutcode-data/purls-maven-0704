@@ -4,3 +4,5 @@
 - pkg:maven/org.ow2.sat4j/org.ow2.sat4j.core@2.3.4?classifier=sources
 - pkg:maven/org.ow2.sat4j/org.ow2.sat4j.core@2.3.5
 - pkg:maven/org.ow2.sat4j/org.ow2.sat4j.core@2.3.5?classifier=sources
+- pkg:maven/org.ow2.sat4j/org.ow2.sat4j.core@2.3.6
+- pkg:maven/org.ow2.sat4j/org.ow2.sat4j.core@2.3.6?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/ch.x28.inscriptis/inscriptis@1.0
+- pkg:maven/ch.x28.inscriptis/inscriptis@1.0?classifier=sources

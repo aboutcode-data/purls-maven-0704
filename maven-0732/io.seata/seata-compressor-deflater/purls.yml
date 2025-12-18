@@ -1,0 +1,2 @@
+- pkg:maven/io.seata/seata-compressor-deflater@1.4.1
+- pkg:maven/io.seata/seata-compressor-deflater@1.4.1?classifier=sources

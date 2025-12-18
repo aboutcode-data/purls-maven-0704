@@ -539,6 +539,12 @@
 - pkg:maven/me.vertretungsplan/parser@1.0.0-beta349?classifier=sources
 - pkg:maven/me.vertretungsplan/parser@1.0.0-beta34?classifier=sources
 - pkg:maven/me.vertretungsplan/parser@1.0.0-beta35
+- pkg:maven/me.vertretungsplan/parser@1.0.0-beta351
+- pkg:maven/me.vertretungsplan/parser@1.0.0-beta351?classifier=sources
+- pkg:maven/me.vertretungsplan/parser@1.0.0-beta352
+- pkg:maven/me.vertretungsplan/parser@1.0.0-beta352?classifier=sources
+- pkg:maven/me.vertretungsplan/parser@1.0.0-beta354
+- pkg:maven/me.vertretungsplan/parser@1.0.0-beta354?classifier=sources
 - pkg:maven/me.vertretungsplan/parser@1.0.0-beta35?classifier=sources
 - pkg:maven/me.vertretungsplan/parser@1.0.0-beta36
 - pkg:maven/me.vertretungsplan/parser@1.0.0-beta36?classifier=sources

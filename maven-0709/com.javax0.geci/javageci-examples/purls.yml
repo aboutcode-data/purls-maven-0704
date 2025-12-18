@@ -1,0 +1,2 @@
+- pkg:maven/com.javax0.geci/javageci-examples@1.6.0
+- pkg:maven/com.javax0.geci/javageci-examples@1.6.0?classifier=sources

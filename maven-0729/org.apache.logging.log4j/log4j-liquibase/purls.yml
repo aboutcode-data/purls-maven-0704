@@ -18,6 +18,8 @@
 - pkg:maven/org.apache.logging.log4j/log4j-liquibase@2.13.2?classifier=sources
 - pkg:maven/org.apache.logging.log4j/log4j-liquibase@2.13.3
 - pkg:maven/org.apache.logging.log4j/log4j-liquibase@2.13.3?classifier=sources
+- pkg:maven/org.apache.logging.log4j/log4j-liquibase@2.14.0
+- pkg:maven/org.apache.logging.log4j/log4j-liquibase@2.14.0?classifier=sources
 - pkg:maven/org.apache.logging.log4j/log4j-liquibase@2.4
 - pkg:maven/org.apache.logging.log4j/log4j-liquibase@2.4.1
 - pkg:maven/org.apache.logging.log4j/log4j-liquibase@2.4.1?classifier=sources

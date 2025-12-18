@@ -1,0 +1,4 @@
+- pkg:maven/com.github.francis-pang/expense-manager@55
+- pkg:maven/com.github.francis-pang/expense-manager@55?classifier=sources
+- pkg:maven/com.github.francis-pang/expense-manager@56
+- pkg:maven/com.github.francis-pang/expense-manager@56?classifier=sources

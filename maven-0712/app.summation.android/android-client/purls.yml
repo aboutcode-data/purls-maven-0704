@@ -1,0 +1,2 @@
+- pkg:maven/app.summation.android/android-client@1.0
+- pkg:maven/app.summation.android/android-client@1.0?classifier=sources

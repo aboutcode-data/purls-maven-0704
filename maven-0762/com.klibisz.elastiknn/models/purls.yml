@@ -2,3 +2,6 @@
 - pkg:maven/com.klibisz.elastiknn/models@0.1.0-PRE40?classifier=sources
 - pkg:maven/com.klibisz.elastiknn/models@0.1.0-PRE41?classifier=sources
 - pkg:maven/com.klibisz.elastiknn/models@0.1.0-PRE42?classifier=sources
+- pkg:maven/com.klibisz.elastiknn/models@0.1.0-PRE44?classifier=sources
+- pkg:maven/com.klibisz.elastiknn/models@0.1.0-PRE48?classifier=sources
+- pkg:maven/com.klibisz.elastiknn/models@0.1.0-PRE49?classifier=sources

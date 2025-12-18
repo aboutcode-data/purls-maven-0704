@@ -1,0 +1,2 @@
+- pkg:maven/me.naganithin.bdaa/hw8common@1.0
+- pkg:maven/me.naganithin.bdaa/hw8common@1.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/club.easy-utils/easy-wepay@0.0.1-SNAOSHOT
 - pkg:maven/club.easy-utils/easy-wepay@0.0.1-SNAOSHOT?classifier=sources
+- pkg:maven/club.easy-utils/easy-wepay@0.0.2-SNAOSHOT
+- pkg:maven/club.easy-utils/easy-wepay@0.0.2-SNAOSHOT?classifier=sources

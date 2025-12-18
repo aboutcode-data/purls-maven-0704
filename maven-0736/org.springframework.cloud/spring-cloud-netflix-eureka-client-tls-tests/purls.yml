@@ -1,1 +1,3 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-netflix-eureka-client-tls-tests@2.2.5.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-netflix-eureka-client-tls-tests@2.2.6.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-netflix-eureka-client-tls-tests@3.0.0

@@ -1,0 +1,2 @@
+- pkg:maven/ai.djl.dlr/dlr-native-cpu@1.6.0
+- pkg:maven/ai.djl.dlr/dlr-native-cpu@1.6.0?classifier=sources

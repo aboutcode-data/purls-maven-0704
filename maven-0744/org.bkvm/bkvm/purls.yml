@@ -4,3 +4,5 @@
 - pkg:maven/org.bkvm/bkvm@1.2.0?type=war
 - pkg:maven/org.bkvm/bkvm@2.0.0?classifier=sources
 - pkg:maven/org.bkvm/bkvm@2.0.0?type=war
+- pkg:maven/org.bkvm/bkvm@3.0.0?classifier=sources
+- pkg:maven/org.bkvm/bkvm@3.0.0?type=war

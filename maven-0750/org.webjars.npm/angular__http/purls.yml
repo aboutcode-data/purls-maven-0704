@@ -116,3 +116,5 @@
 - pkg:maven/org.webjars.npm/angular__http@7.1.0-rc.0?classifier=sources
 - pkg:maven/org.webjars.npm/angular__http@8.0.0-beta.10
 - pkg:maven/org.webjars.npm/angular__http@8.0.0-beta.10?classifier=sources
+- pkg:maven/org.webjars.npm/angular__http@8.0.0-beta.7
+- pkg:maven/org.webjars.npm/angular__http@8.0.0-beta.7?classifier=sources

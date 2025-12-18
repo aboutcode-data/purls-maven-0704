@@ -12,3 +12,11 @@
 - pkg:maven/io.dropwizard.metrics/metrics-caffeine@4.1.13?classifier=sources
 - pkg:maven/io.dropwizard.metrics/metrics-caffeine@4.1.14
 - pkg:maven/io.dropwizard.metrics/metrics-caffeine@4.1.14?classifier=sources
+- pkg:maven/io.dropwizard.metrics/metrics-caffeine@4.1.15
+- pkg:maven/io.dropwizard.metrics/metrics-caffeine@4.1.15?classifier=sources
+- pkg:maven/io.dropwizard.metrics/metrics-caffeine@4.1.16
+- pkg:maven/io.dropwizard.metrics/metrics-caffeine@4.1.16?classifier=sources
+- pkg:maven/io.dropwizard.metrics/metrics-caffeine@4.1.17
+- pkg:maven/io.dropwizard.metrics/metrics-caffeine@4.1.17?classifier=sources
+- pkg:maven/io.dropwizard.metrics/metrics-caffeine@4.2.0-beta.1
+- pkg:maven/io.dropwizard.metrics/metrics-caffeine@4.2.0-beta.1?classifier=sources

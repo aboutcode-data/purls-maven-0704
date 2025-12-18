@@ -149,4 +149,10 @@
 - pkg:maven/com.lihaoyi/cask-util_sjs0.6_2.13@0.7.6-1-d80b69?classifier=sources
 - pkg:maven/com.lihaoyi/cask-util_sjs0.6_2.13@0.7.6?classifier=sources
 - pkg:maven/com.lihaoyi/cask-util_sjs0.6_2.13@0.7.7
+- pkg:maven/com.lihaoyi/cask-util_sjs0.6_2.13@0.7.7-1-2c5df2
+- pkg:maven/com.lihaoyi/cask-util_sjs0.6_2.13@0.7.7-1-2c5df2?classifier=sources
+- pkg:maven/com.lihaoyi/cask-util_sjs0.6_2.13@0.7.7-4-184e9d
+- pkg:maven/com.lihaoyi/cask-util_sjs0.6_2.13@0.7.7-4-184e9d?classifier=sources
 - pkg:maven/com.lihaoyi/cask-util_sjs0.6_2.13@0.7.7?classifier=sources
+- pkg:maven/com.lihaoyi/cask-util_sjs0.6_2.13@0.7.8
+- pkg:maven/com.lihaoyi/cask-util_sjs0.6_2.13@0.7.8?classifier=sources

@@ -34,3 +34,5 @@
 - pkg:maven/app.myoss.cloud.mybatis/myoss-mybatis@2.1.5-RC4?classifier=sources
 - pkg:maven/app.myoss.cloud.mybatis/myoss-mybatis@2.1.5-RC5
 - pkg:maven/app.myoss.cloud.mybatis/myoss-mybatis@2.1.5-RC5?classifier=sources
+- pkg:maven/app.myoss.cloud.mybatis/myoss-mybatis@2.1.5.RELEASE
+- pkg:maven/app.myoss.cloud.mybatis/myoss-mybatis@2.1.5.RELEASE?classifier=sources

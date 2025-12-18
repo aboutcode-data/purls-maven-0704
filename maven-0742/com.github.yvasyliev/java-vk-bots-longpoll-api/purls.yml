@@ -20,3 +20,9 @@
 - pkg:maven/com.github.yvasyliev/java-vk-bots-longpoll-api@1.0.26-beta?classifier=sources
 - pkg:maven/com.github.yvasyliev/java-vk-bots-longpoll-api@1.0.27-beta
 - pkg:maven/com.github.yvasyliev/java-vk-bots-longpoll-api@1.0.27-beta?classifier=sources
+- pkg:maven/com.github.yvasyliev/java-vk-bots-longpoll-api@1.0.28-beta
+- pkg:maven/com.github.yvasyliev/java-vk-bots-longpoll-api@1.0.28-beta?classifier=sources
+- pkg:maven/com.github.yvasyliev/java-vk-bots-longpoll-api@1.0.29-beta
+- pkg:maven/com.github.yvasyliev/java-vk-bots-longpoll-api@1.0.29-beta?classifier=sources
+- pkg:maven/com.github.yvasyliev/java-vk-bots-longpoll-api@1.1.0-beta
+- pkg:maven/com.github.yvasyliev/java-vk-bots-longpoll-api@1.1.0-beta?classifier=sources

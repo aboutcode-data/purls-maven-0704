@@ -1,0 +1,12 @@
+- pkg:maven/com.soterianetworks/spase-locker@0.9.54
+- pkg:maven/com.soterianetworks/spase-locker@0.9.54?classifier=sources
+- pkg:maven/com.soterianetworks/spase-locker@0.9.55
+- pkg:maven/com.soterianetworks/spase-locker@0.9.55?classifier=sources
+- pkg:maven/com.soterianetworks/spase-locker@0.9.56
+- pkg:maven/com.soterianetworks/spase-locker@0.9.56?classifier=sources
+- pkg:maven/com.soterianetworks/spase-locker@0.9.57
+- pkg:maven/com.soterianetworks/spase-locker@0.9.57?classifier=sources
+- pkg:maven/com.soterianetworks/spase-locker@0.9.58
+- pkg:maven/com.soterianetworks/spase-locker@0.9.58?classifier=sources
+- pkg:maven/com.soterianetworks/spase-locker@0.9.59
+- pkg:maven/com.soterianetworks/spase-locker@0.9.59?classifier=sources

@@ -23,3 +23,5 @@
 - pkg:maven/com.jinvovo.pay.sdk/jvv-pay-sdk-java@1.0.20200903?classifier=sources
 - pkg:maven/com.jinvovo.pay.sdk/jvv-pay-sdk-java@1.0.20201014
 - pkg:maven/com.jinvovo.pay.sdk/jvv-pay-sdk-java@1.0.20201014?classifier=sources
+- pkg:maven/com.jinvovo.pay.sdk/jvv-pay-sdk-java@1.0.20201202
+- pkg:maven/com.jinvovo.pay.sdk/jvv-pay-sdk-java@1.0.20201202?classifier=sources

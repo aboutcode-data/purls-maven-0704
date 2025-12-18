@@ -4,3 +4,5 @@
 - pkg:maven/com.squareup.wire/wire-swift-generator@3.3.0?classifier=sources
 - pkg:maven/com.squareup.wire/wire-swift-generator@3.4.0
 - pkg:maven/com.squareup.wire/wire-swift-generator@3.4.0?classifier=sources
+- pkg:maven/com.squareup.wire/wire-swift-generator@3.5.0
+- pkg:maven/com.squareup.wire/wire-swift-generator@3.5.0?classifier=sources

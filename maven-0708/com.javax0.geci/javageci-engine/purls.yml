@@ -16,3 +16,5 @@
 - pkg:maven/com.javax0.geci/javageci-engine@1.4.0?classifier=sources
 - pkg:maven/com.javax0.geci/javageci-engine@1.5.0-JVM8?classifier=sources
 - pkg:maven/com.javax0.geci/javageci-engine@1.5.0?classifier=sources
+- pkg:maven/com.javax0.geci/javageci-engine@1.6.0
+- pkg:maven/com.javax0.geci/javageci-engine@1.6.0?classifier=sources

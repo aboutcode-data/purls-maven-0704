@@ -1,2 +1,4 @@
 - pkg:maven/cn.imaq/autumn-rpc-cluster@2019.06
 - pkg:maven/cn.imaq/autumn-rpc-cluster@2019.06?classifier=sources
+- pkg:maven/cn.imaq/autumn-rpc-cluster@2020.10
+- pkg:maven/cn.imaq/autumn-rpc-cluster@2020.10?classifier=sources

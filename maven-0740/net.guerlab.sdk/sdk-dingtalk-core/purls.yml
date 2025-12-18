@@ -2,3 +2,5 @@
 - pkg:maven/net.guerlab.sdk/sdk-dingtalk-core@0.1.0?classifier=sources
 - pkg:maven/net.guerlab.sdk/sdk-dingtalk-core@0.3.0
 - pkg:maven/net.guerlab.sdk/sdk-dingtalk-core@0.3.0?classifier=sources
+- pkg:maven/net.guerlab.sdk/sdk-dingtalk-core@0.4.0
+- pkg:maven/net.guerlab.sdk/sdk-dingtalk-core@0.4.0?classifier=sources

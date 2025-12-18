@@ -70,6 +70,10 @@
 - pkg:maven/com.dtflys.forest/spring-boot-starter-forest@1.4.9?classifier=sources
 - pkg:maven/com.dtflys.forest/spring-boot-starter-forest@1.5.0-BETA
 - pkg:maven/com.dtflys.forest/spring-boot-starter-forest@1.5.0-BETA1
+- pkg:maven/com.dtflys.forest/spring-boot-starter-forest@1.5.0-BETA10
+- pkg:maven/com.dtflys.forest/spring-boot-starter-forest@1.5.0-BETA10?classifier=sources
+- pkg:maven/com.dtflys.forest/spring-boot-starter-forest@1.5.0-BETA11
+- pkg:maven/com.dtflys.forest/spring-boot-starter-forest@1.5.0-BETA11?classifier=sources
 - pkg:maven/com.dtflys.forest/spring-boot-starter-forest@1.5.0-BETA1?classifier=sources
 - pkg:maven/com.dtflys.forest/spring-boot-starter-forest@1.5.0-BETA2
 - pkg:maven/com.dtflys.forest/spring-boot-starter-forest@1.5.0-BETA2?classifier=sources
@@ -77,4 +81,16 @@
 - pkg:maven/com.dtflys.forest/spring-boot-starter-forest@1.5.0-BETA3?classifier=sources
 - pkg:maven/com.dtflys.forest/spring-boot-starter-forest@1.5.0-BETA4
 - pkg:maven/com.dtflys.forest/spring-boot-starter-forest@1.5.0-BETA4?classifier=sources
+- pkg:maven/com.dtflys.forest/spring-boot-starter-forest@1.5.0-BETA5
+- pkg:maven/com.dtflys.forest/spring-boot-starter-forest@1.5.0-BETA5?classifier=sources
+- pkg:maven/com.dtflys.forest/spring-boot-starter-forest@1.5.0-BETA6
+- pkg:maven/com.dtflys.forest/spring-boot-starter-forest@1.5.0-BETA6?classifier=sources
+- pkg:maven/com.dtflys.forest/spring-boot-starter-forest@1.5.0-BETA7
+- pkg:maven/com.dtflys.forest/spring-boot-starter-forest@1.5.0-BETA7?classifier=sources
+- pkg:maven/com.dtflys.forest/spring-boot-starter-forest@1.5.0-BETA8
+- pkg:maven/com.dtflys.forest/spring-boot-starter-forest@1.5.0-BETA8?classifier=sources
+- pkg:maven/com.dtflys.forest/spring-boot-starter-forest@1.5.0-BETA9
+- pkg:maven/com.dtflys.forest/spring-boot-starter-forest@1.5.0-BETA9?classifier=sources
 - pkg:maven/com.dtflys.forest/spring-boot-starter-forest@1.5.0-BETA?classifier=sources
+- pkg:maven/com.dtflys.forest/spring-boot-starter-forest@1.5.0-RC1
+- pkg:maven/com.dtflys.forest/spring-boot-starter-forest@1.5.0-RC1?classifier=sources

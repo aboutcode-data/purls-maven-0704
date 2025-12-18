@@ -1,0 +1,2 @@
+- pkg:maven/com.microfocus.adm.almoctane.jbehave/octane-jbehave-gherkin-reporter@1.0.0
+- pkg:maven/com.microfocus.adm.almoctane.jbehave/octane-jbehave-gherkin-reporter@1.0.0?classifier=sources

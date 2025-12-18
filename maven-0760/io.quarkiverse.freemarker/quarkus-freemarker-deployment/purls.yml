@@ -4,3 +4,7 @@
 - pkg:maven/io.quarkiverse.freemarker/quarkus-freemarker-deployment@0.0.4?classifier=sources
 - pkg:maven/io.quarkiverse.freemarker/quarkus-freemarker-deployment@0.0.5
 - pkg:maven/io.quarkiverse.freemarker/quarkus-freemarker-deployment@0.0.5?classifier=sources
+- pkg:maven/io.quarkiverse.freemarker/quarkus-freemarker-deployment@0.0.6
+- pkg:maven/io.quarkiverse.freemarker/quarkus-freemarker-deployment@0.0.6?classifier=sources
+- pkg:maven/io.quarkiverse.freemarker/quarkus-freemarker-deployment@0.0.7
+- pkg:maven/io.quarkiverse.freemarker/quarkus-freemarker-deployment@0.0.7?classifier=sources

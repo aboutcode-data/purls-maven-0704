@@ -1,1 +1,2 @@
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.saml.cloud/identity-inbound-auth-saml-cloud@1.0.5?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.saml.cloud/identity-inbound-auth-saml-cloud@1.0.7?classifier=source-release&type=zip

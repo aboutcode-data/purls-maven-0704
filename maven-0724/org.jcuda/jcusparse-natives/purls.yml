@@ -21,3 +21,4 @@
 - pkg:maven/org.jcuda/jcusparse-natives@10.2.0
 - pkg:maven/org.jcuda/jcusparse-natives@10.2.0?classifier=sources
 - pkg:maven/org.jcuda/jcusparse-natives@11.0.0?classifier=sources
+- pkg:maven/org.jcuda/jcusparse-natives@11.1.1?classifier=sources

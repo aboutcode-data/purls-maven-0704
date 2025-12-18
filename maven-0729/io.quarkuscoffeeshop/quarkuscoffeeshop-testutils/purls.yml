@@ -1,0 +1,4 @@
+- pkg:maven/io.quarkuscoffeeshop/quarkuscoffeeshop-testutils@3.3.0
+- pkg:maven/io.quarkuscoffeeshop/quarkuscoffeeshop-testutils@3.3.0?classifier=sources
+- pkg:maven/io.quarkuscoffeeshop/quarkuscoffeeshop-testutils@4.0.0
+- pkg:maven/io.quarkuscoffeeshop/quarkuscoffeeshop-testutils@4.0.0?classifier=sources

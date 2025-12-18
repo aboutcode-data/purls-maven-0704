@@ -1,0 +1,2 @@
+- pkg:maven/io.javaoperatorsdk/operator-framework-spring-boot-starter-test@1.6.2
+- pkg:maven/io.javaoperatorsdk/operator-framework-spring-boot-starter-test@1.6.2?classifier=sources

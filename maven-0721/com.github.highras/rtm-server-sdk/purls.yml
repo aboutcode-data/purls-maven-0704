@@ -4,3 +4,9 @@
 - pkg:maven/com.github.highras/rtm-server-sdk@2.0.3-RELEASE?classifier=sources
 - pkg:maven/com.github.highras/rtm-server-sdk@2.1.0-RELEASE
 - pkg:maven/com.github.highras/rtm-server-sdk@2.1.0-RELEASE?classifier=sources
+- pkg:maven/com.github.highras/rtm-server-sdk@2.2.0-RELEASE
+- pkg:maven/com.github.highras/rtm-server-sdk@2.2.0-RELEASE?classifier=sources
+- pkg:maven/com.github.highras/rtm-server-sdk@2.3.0-RELEASE
+- pkg:maven/com.github.highras/rtm-server-sdk@2.3.0-RELEASE?classifier=sources
+- pkg:maven/com.github.highras/rtm-server-sdk@2.4.0-RELEASE
+- pkg:maven/com.github.highras/rtm-server-sdk@2.4.0-RELEASE?classifier=sources

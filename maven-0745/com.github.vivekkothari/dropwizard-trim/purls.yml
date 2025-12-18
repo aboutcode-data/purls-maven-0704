@@ -2,3 +2,5 @@
 - pkg:maven/com.github.vivekkothari/dropwizard-trim@1.0.0-rc4?classifier=sources
 - pkg:maven/com.github.vivekkothari/dropwizard-trim@1.2.4
 - pkg:maven/com.github.vivekkothari/dropwizard-trim@1.2.4?classifier=sources
+- pkg:maven/com.github.vivekkothari/dropwizard-trim@2.0.17
+- pkg:maven/com.github.vivekkothari/dropwizard-trim@2.0.17?classifier=sources

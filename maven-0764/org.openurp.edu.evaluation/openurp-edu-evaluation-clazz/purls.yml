@@ -2,3 +2,9 @@
 - pkg:maven/org.openurp.edu.evaluation/openurp-edu-evaluation-clazz@0.0.14?classifier=sources
 - pkg:maven/org.openurp.edu.evaluation/openurp-edu-evaluation-clazz@0.0.15
 - pkg:maven/org.openurp.edu.evaluation/openurp-edu-evaluation-clazz@0.0.15?classifier=sources
+- pkg:maven/org.openurp.edu.evaluation/openurp-edu-evaluation-clazz@0.0.16
+- pkg:maven/org.openurp.edu.evaluation/openurp-edu-evaluation-clazz@0.0.16?classifier=sources
+- pkg:maven/org.openurp.edu.evaluation/openurp-edu-evaluation-clazz@0.0.17
+- pkg:maven/org.openurp.edu.evaluation/openurp-edu-evaluation-clazz@0.0.17?classifier=sources
+- pkg:maven/org.openurp.edu.evaluation/openurp-edu-evaluation-clazz@0.0.18
+- pkg:maven/org.openurp.edu.evaluation/openurp-edu-evaluation-clazz@0.0.18?classifier=sources

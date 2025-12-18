@@ -1,0 +1,2 @@
+- pkg:maven/io.chrisdavenport/unique_3.0.0-M2@2.1.0-M5
+- pkg:maven/io.chrisdavenport/unique_3.0.0-M2@2.1.0-M5?classifier=sources

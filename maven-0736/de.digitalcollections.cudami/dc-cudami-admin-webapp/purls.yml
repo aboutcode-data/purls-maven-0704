@@ -24,3 +24,13 @@
 - pkg:maven/de.digitalcollections.cudami/dc-cudami-admin-webapp@3.6.0?classifier=sources
 - pkg:maven/de.digitalcollections.cudami/dc-cudami-admin-webapp@3.7.0
 - pkg:maven/de.digitalcollections.cudami/dc-cudami-admin-webapp@3.7.0?classifier=sources
+- pkg:maven/de.digitalcollections.cudami/dc-cudami-admin-webapp@4.0.0
+- pkg:maven/de.digitalcollections.cudami/dc-cudami-admin-webapp@4.0.0?classifier=sources
+- pkg:maven/de.digitalcollections.cudami/dc-cudami-admin-webapp@4.0.1
+- pkg:maven/de.digitalcollections.cudami/dc-cudami-admin-webapp@4.0.1?classifier=sources
+- pkg:maven/de.digitalcollections.cudami/dc-cudami-admin-webapp@4.1.0
+- pkg:maven/de.digitalcollections.cudami/dc-cudami-admin-webapp@4.1.0?classifier=sources
+- pkg:maven/de.digitalcollections.cudami/dc-cudami-admin-webapp@4.1.1
+- pkg:maven/de.digitalcollections.cudami/dc-cudami-admin-webapp@4.1.1?classifier=sources
+- pkg:maven/de.digitalcollections.cudami/dc-cudami-admin-webapp@4.2.0
+- pkg:maven/de.digitalcollections.cudami/dc-cudami-admin-webapp@4.2.0?classifier=sources

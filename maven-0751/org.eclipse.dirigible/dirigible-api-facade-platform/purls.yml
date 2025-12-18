@@ -8,3 +8,7 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-api-facade-platform@5.3.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-api-facade-platform@5.4.0
 - pkg:maven/org.eclipse.dirigible/dirigible-api-facade-platform@5.4.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-api-facade-platform@5.5.0
+- pkg:maven/org.eclipse.dirigible/dirigible-api-facade-platform@5.5.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-api-facade-platform@5.6.0
+- pkg:maven/org.eclipse.dirigible/dirigible-api-facade-platform@5.6.0?classifier=sources

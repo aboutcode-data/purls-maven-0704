@@ -1,0 +1,12 @@
+- pkg:maven/org.http4k/http4k-connect-amazon-lambda@2.10.0.0
+- pkg:maven/org.http4k/http4k-connect-amazon-lambda@2.10.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-lambda@2.5.0.0
+- pkg:maven/org.http4k/http4k-connect-amazon-lambda@2.5.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-lambda@2.5.1.0
+- pkg:maven/org.http4k/http4k-connect-amazon-lambda@2.5.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-lambda@2.7.0.0
+- pkg:maven/org.http4k/http4k-connect-amazon-lambda@2.7.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-lambda@2.7.1.0
+- pkg:maven/org.http4k/http4k-connect-amazon-lambda@2.7.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-lambda@2.8.0.0
+- pkg:maven/org.http4k/http4k-connect-amazon-lambda@2.8.0.0?classifier=sources

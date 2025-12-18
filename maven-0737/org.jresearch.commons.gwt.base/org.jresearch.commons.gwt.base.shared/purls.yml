@@ -5,3 +5,4 @@
 - pkg:maven/org.jresearch.commons.gwt.base/org.jresearch.commons.gwt.base.shared@1.0.201?classifier=sources
 - pkg:maven/org.jresearch.commons.gwt.base/org.jresearch.commons.gwt.base.shared@1.0.202?classifier=sources
 - pkg:maven/org.jresearch.commons.gwt.base/org.jresearch.commons.gwt.base.shared@1.0.203?classifier=sources
+- pkg:maven/org.jresearch.commons.gwt.base/org.jresearch.commons.gwt.base.shared@1.0.204?classifier=sources

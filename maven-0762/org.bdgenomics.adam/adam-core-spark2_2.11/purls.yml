@@ -24,3 +24,5 @@
 - pkg:maven/org.bdgenomics.adam/adam-core-spark2_2.11@0.31.0?classifier=sources
 - pkg:maven/org.bdgenomics.adam/adam-core-spark2_2.11@0.32.0
 - pkg:maven/org.bdgenomics.adam/adam-core-spark2_2.11@0.32.0?classifier=sources
+- pkg:maven/org.bdgenomics.adam/adam-core-spark2_2.11@0.33.0
+- pkg:maven/org.bdgenomics.adam/adam-core-spark2_2.11@0.33.0?classifier=sources

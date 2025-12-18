@@ -1,0 +1,2 @@
+- pkg:maven/com.day.cq.mcm/cq-mcm-exacttarget-wsclient@1.0.2
+- pkg:maven/com.day.cq.mcm/cq-mcm-exacttarget-wsclient@1.0.2?classifier=sources

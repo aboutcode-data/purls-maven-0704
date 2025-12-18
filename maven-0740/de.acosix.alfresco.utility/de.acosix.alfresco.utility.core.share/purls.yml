@@ -22,3 +22,5 @@
 - pkg:maven/de.acosix.alfresco.utility/de.acosix.alfresco.utility.core.share@1.2.2?classifier=sources
 - pkg:maven/de.acosix.alfresco.utility/de.acosix.alfresco.utility.core.share@1.2.3
 - pkg:maven/de.acosix.alfresco.utility/de.acosix.alfresco.utility.core.share@1.2.3?classifier=sources
+- pkg:maven/de.acosix.alfresco.utility/de.acosix.alfresco.utility.core.share@1.2.4
+- pkg:maven/de.acosix.alfresco.utility/de.acosix.alfresco.utility.core.share@1.2.4?classifier=sources

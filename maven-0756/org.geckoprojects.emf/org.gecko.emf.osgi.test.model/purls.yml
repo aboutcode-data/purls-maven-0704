@@ -1,0 +1,6 @@
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.test.model@3.3.7
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.test.model@3.3.7?classifier=sources
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.test.model@6.0.0
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.test.model@6.0.0?classifier=sources
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.test.model@6.0.2
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.test.model@6.0.2?classifier=sources

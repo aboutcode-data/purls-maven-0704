@@ -34,3 +34,5 @@
 - pkg:maven/com.yahoo.elide/elide-blog-example@4.6.7?classifier=sources
 - pkg:maven/com.yahoo.elide/elide-blog-example@4.6.8
 - pkg:maven/com.yahoo.elide/elide-blog-example@4.6.8?classifier=sources
+- pkg:maven/com.yahoo.elide/elide-blog-example@4.6.9
+- pkg:maven/com.yahoo.elide/elide-blog-example@4.6.9?classifier=sources

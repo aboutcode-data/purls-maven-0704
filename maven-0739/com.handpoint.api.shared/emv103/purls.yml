@@ -1,3 +1,17 @@
 - pkg:maven/com.handpoint.api.shared/emv103@5.11.0?classifier=sources
 - pkg:maven/com.handpoint.api.shared/emv103@5.11.0?type=aar
 - pkg:maven/com.handpoint.api.shared/emv103@5.12.0-RC.3?classifier=sources
+- pkg:maven/com.handpoint.api.shared/emv103@5.13.0?classifier=sources
+- pkg:maven/com.handpoint.api.shared/emv103@5.13.0?type=aar
+- pkg:maven/com.handpoint.api.shared/emv103@5.14.0?classifier=sources
+- pkg:maven/com.handpoint.api.shared/emv103@5.14.0?type=aar
+- pkg:maven/com.handpoint.api.shared/emv103@5.15.0?classifier=sources
+- pkg:maven/com.handpoint.api.shared/emv103@5.15.0?type=aar
+- pkg:maven/com.handpoint.api.shared/emv103@5.15.1?classifier=sources
+- pkg:maven/com.handpoint.api.shared/emv103@5.15.1?type=aar
+- pkg:maven/com.handpoint.api.shared/emv103@5.16.0?classifier=sources
+- pkg:maven/com.handpoint.api.shared/emv103@5.16.0?type=aar
+- pkg:maven/com.handpoint.api.shared/emv103@5.16.1?classifier=sources
+- pkg:maven/com.handpoint.api.shared/emv103@5.16.1?type=aar
+- pkg:maven/com.handpoint.api.shared/emv103@5.17.0?classifier=sources
+- pkg:maven/com.handpoint.api.shared/emv103@5.17.0?type=aar

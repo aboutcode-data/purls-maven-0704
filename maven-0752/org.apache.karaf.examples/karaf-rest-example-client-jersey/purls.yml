@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.karaf.examples/karaf-rest-example-client-jersey@4.3.0
+- pkg:maven/org.apache.karaf.examples/karaf-rest-example-client-jersey@4.3.0?classifier=sources

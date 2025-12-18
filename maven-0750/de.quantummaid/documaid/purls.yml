@@ -30,7 +30,13 @@
 - pkg:maven/de.quantummaid/documaid@0.9.34
 - pkg:maven/de.quantummaid/documaid@0.9.35
 - pkg:maven/de.quantummaid/documaid@0.9.36
+- pkg:maven/de.quantummaid/documaid@0.9.37
+- pkg:maven/de.quantummaid/documaid@0.9.38
+- pkg:maven/de.quantummaid/documaid@0.9.39
 - pkg:maven/de.quantummaid/documaid@0.9.3?classifier=sources
+- pkg:maven/de.quantummaid/documaid@0.9.40
+- pkg:maven/de.quantummaid/documaid@0.9.41
+- pkg:maven/de.quantummaid/documaid@0.9.42
 - pkg:maven/de.quantummaid/documaid@0.9.6
 - pkg:maven/de.quantummaid/documaid@0.9.7
 - pkg:maven/de.quantummaid/documaid@0.9.8

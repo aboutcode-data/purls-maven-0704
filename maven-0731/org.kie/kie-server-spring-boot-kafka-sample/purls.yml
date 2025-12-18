@@ -1,0 +1,2 @@
+- pkg:maven/org.kie/kie-server-spring-boot-kafka-sample@7.48.0.Final
+- pkg:maven/org.kie/kie-server-spring-boot-kafka-sample@7.48.0.Final?classifier=sources

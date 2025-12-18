@@ -1,0 +1,4 @@
+- pkg:maven/com.github.immuta.hadoop/immuta-spark-third-party-maven-lib-test@2020-11-17-144644
+- pkg:maven/com.github.immuta.hadoop/immuta-spark-third-party-maven-lib-test@2020-11-17-144644?classifier=sources
+- pkg:maven/com.github.immuta.hadoop/immuta-spark-third-party-maven-lib-test@2020.4.0-20201117132210
+- pkg:maven/com.github.immuta.hadoop/immuta-spark-third-party-maven-lib-test@2020.4.0-20201117132210?classifier=sources

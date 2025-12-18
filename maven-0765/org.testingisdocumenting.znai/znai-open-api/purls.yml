@@ -36,3 +36,7 @@
 - pkg:maven/org.testingisdocumenting.znai/znai-open-api@1.44?classifier=sources
 - pkg:maven/org.testingisdocumenting.znai/znai-open-api@1.45.1
 - pkg:maven/org.testingisdocumenting.znai/znai-open-api@1.45.1?classifier=sources
+- pkg:maven/org.testingisdocumenting.znai/znai-open-api@1.46
+- pkg:maven/org.testingisdocumenting.znai/znai-open-api@1.46?classifier=sources
+- pkg:maven/org.testingisdocumenting.znai/znai-open-api@1.47
+- pkg:maven/org.testingisdocumenting.znai/znai-open-api@1.47?classifier=sources

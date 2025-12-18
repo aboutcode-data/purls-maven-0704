@@ -44,3 +44,7 @@
 - pkg:maven/com.github.squirrelgrip/scientist4k-http-core@0.8.6?classifier=sources
 - pkg:maven/com.github.squirrelgrip/scientist4k-http-core@0.8.7
 - pkg:maven/com.github.squirrelgrip/scientist4k-http-core@0.8.7?classifier=sources
+- pkg:maven/com.github.squirrelgrip/scientist4k-http-core@0.8.8
+- pkg:maven/com.github.squirrelgrip/scientist4k-http-core@0.8.8?classifier=sources
+- pkg:maven/com.github.squirrelgrip/scientist4k-http-core@0.8.9
+- pkg:maven/com.github.squirrelgrip/scientist4k-http-core@0.8.9?classifier=sources

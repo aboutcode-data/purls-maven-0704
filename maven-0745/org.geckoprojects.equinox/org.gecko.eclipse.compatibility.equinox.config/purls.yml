@@ -1,0 +1,2 @@
+- pkg:maven/org.geckoprojects.equinox/org.gecko.eclipse.compatibility.equinox.config@1.0.6
+- pkg:maven/org.geckoprojects.equinox/org.gecko.eclipse.compatibility.equinox.config@1.0.6?classifier=sources

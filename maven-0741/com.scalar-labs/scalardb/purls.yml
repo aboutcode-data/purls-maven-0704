@@ -11,3 +11,7 @@
 - pkg:maven/com.scalar-labs/scalardb@2.1.0?classifier=sources
 - pkg:maven/com.scalar-labs/scalardb@2.2.0?classifier=sources
 - pkg:maven/com.scalar-labs/scalardb@2.2.1?classifier=sources
+- pkg:maven/com.scalar-labs/scalardb@2.2.2?classifier=sources
+- pkg:maven/com.scalar-labs/scalardb@2.3.0?classifier=sources
+- pkg:maven/com.scalar-labs/scalardb@2.4.0?classifier=sources
+- pkg:maven/com.scalar-labs/scalardb@2.4.1?classifier=sources

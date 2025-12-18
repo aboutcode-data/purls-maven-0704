@@ -24,3 +24,9 @@
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.utils/org.wso2.carbon.extension.identity.helper@1.2.2
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.utils/org.wso2.carbon.extension.identity.helper@1.2.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.utils/org.wso2.carbon.extension.identity.helper@1.2.2?classifier=sources
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.utils/org.wso2.carbon.extension.identity.helper@1.2.3
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.utils/org.wso2.carbon.extension.identity.helper@1.2.3?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.utils/org.wso2.carbon.extension.identity.helper@1.2.3?classifier=sources
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.utils/org.wso2.carbon.extension.identity.helper@1.2.4
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.utils/org.wso2.carbon.extension.identity.helper@1.2.4?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.utils/org.wso2.carbon.extension.identity.helper@1.2.4?classifier=sources

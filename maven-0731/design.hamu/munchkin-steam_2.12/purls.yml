@@ -1,0 +1,2 @@
+- pkg:maven/design.hamu/munchkin-steam_2.12@0.1.1
+- pkg:maven/design.hamu/munchkin-steam_2.12@0.1.1?classifier=sources

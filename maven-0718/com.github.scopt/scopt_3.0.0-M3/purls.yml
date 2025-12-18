@@ -1,0 +1,2 @@
+- pkg:maven/com.github.scopt/scopt_3.0.0-M3@4.0.0
+- pkg:maven/com.github.scopt/scopt_3.0.0-M3@4.0.0?classifier=sources
