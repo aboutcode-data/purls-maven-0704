@@ -65,3 +65,5 @@
 - pkg:maven/org.ops4j.pax.logging/pax-logging-logback@2.0.2?classifier=sources
 - pkg:maven/org.ops4j.pax.logging/pax-logging-logback@2.0.3
 - pkg:maven/org.ops4j.pax.logging/pax-logging-logback@2.0.3?classifier=sources
+- pkg:maven/org.ops4j.pax.logging/pax-logging-logback@2.0.4
+- pkg:maven/org.ops4j.pax.logging/pax-logging-logback@2.0.4?classifier=sources

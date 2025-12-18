@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-jsplumb-jsplumb@2.14.5
+- pkg:maven/org.webjars.npm/github-com-jsplumb-jsplumb@2.14.5?classifier=sources

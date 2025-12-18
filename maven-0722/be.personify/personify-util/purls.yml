@@ -28,3 +28,5 @@
 - pkg:maven/be.personify/personify-util@1.1.3.RELEASE?classifier=sources
 - pkg:maven/be.personify/personify-util@1.1.4.RELEASE
 - pkg:maven/be.personify/personify-util@1.1.4.RELEASE?classifier=sources
+- pkg:maven/be.personify/personify-util@1.1.5.RELEASE
+- pkg:maven/be.personify/personify-util@1.1.5.RELEASE?classifier=sources

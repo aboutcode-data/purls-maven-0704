@@ -1,2 +1,4 @@
 - pkg:maven/com.github.deutschebank.symphony/symphony-maven-build-reporter@4.55.12
 - pkg:maven/com.github.deutschebank.symphony/symphony-maven-build-reporter@4.55.12?classifier=sources
+- pkg:maven/com.github.deutschebank.symphony/symphony-maven-build-reporter@4.55.13
+- pkg:maven/com.github.deutschebank.symphony/symphony-maven-build-reporter@4.55.13?classifier=sources

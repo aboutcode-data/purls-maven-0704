@@ -4,3 +4,5 @@
 - pkg:maven/org.biojava/biojava-adam@0.2.0?classifier=sources
 - pkg:maven/org.biojava/biojava-adam@0.3.0
 - pkg:maven/org.biojava/biojava-adam@0.3.0?classifier=sources
+- pkg:maven/org.biojava/biojava-adam@0.4.0
+- pkg:maven/org.biojava/biojava-adam@0.4.0?classifier=sources

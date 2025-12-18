@@ -32,3 +32,5 @@
 - pkg:maven/org.membrane-soa/com.predic8.membrane.osgi@4.7.0?classifier=sources
 - pkg:maven/org.membrane-soa/com.predic8.membrane.osgi@4.7.1
 - pkg:maven/org.membrane-soa/com.predic8.membrane.osgi@4.7.1?classifier=sources
+- pkg:maven/org.membrane-soa/com.predic8.membrane.osgi@4.7.2
+- pkg:maven/org.membrane-soa/com.predic8.membrane.osgi@4.7.2?classifier=sources

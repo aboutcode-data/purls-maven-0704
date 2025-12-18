@@ -1,0 +1,2 @@
+- pkg:maven/com.github.frank5380/candy-dict@0.0.7
+- pkg:maven/com.github.frank5380/candy-dict@0.0.7?classifier=sources

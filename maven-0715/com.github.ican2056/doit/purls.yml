@@ -1,0 +1,2 @@
+- pkg:maven/com.github.ican2056/doit@1.0-RELEASE
+- pkg:maven/com.github.ican2056/doit@1.0-RELEASE?classifier=sources

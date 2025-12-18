@@ -16,3 +16,5 @@
 - pkg:maven/com.github.forcetower/juice@1.4.7?classifier=sources
 - pkg:maven/com.github.forcetower/juice@1.5.4
 - pkg:maven/com.github.forcetower/juice@1.5.4?classifier=sources
+- pkg:maven/com.github.forcetower/juice@1.6.0
+- pkg:maven/com.github.forcetower/juice@1.6.0?classifier=sources

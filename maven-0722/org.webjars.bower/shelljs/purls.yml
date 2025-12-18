@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/shelljs@0.8.4
+- pkg:maven/org.webjars.bower/shelljs@0.8.4?classifier=sources

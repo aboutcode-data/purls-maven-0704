@@ -1,0 +1,6 @@
+- pkg:maven/org.primefaces.extensions/primefaces-selenium-components@8.0.0
+- pkg:maven/org.primefaces.extensions/primefaces-selenium-components@8.0.0?classifier=sources
+- pkg:maven/org.primefaces.extensions/primefaces-selenium-components@8.0.1
+- pkg:maven/org.primefaces.extensions/primefaces-selenium-components@8.0.1?classifier=sources
+- pkg:maven/org.primefaces.extensions/primefaces-selenium-components@8.0.2
+- pkg:maven/org.primefaces.extensions/primefaces-selenium-components@8.0.2?classifier=sources

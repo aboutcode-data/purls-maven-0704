@@ -19,4 +19,6 @@
 - pkg:maven/com.alibaba.middleware/termd-core@1.1.7.7?classifier=sources
 - pkg:maven/com.alibaba.middleware/termd-core@1.1.7.8
 - pkg:maven/com.alibaba.middleware/termd-core@1.1.7.8?classifier=sources
+- pkg:maven/com.alibaba.middleware/termd-core@1.1.7.9
+- pkg:maven/com.alibaba.middleware/termd-core@1.1.7.9?classifier=sources
 - pkg:maven/com.alibaba.middleware/termd-core@1.1.7?classifier=sources

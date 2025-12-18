@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.tweety.logics/bpm@1.17
+- pkg:maven/net.sf.tweety.logics/bpm@1.17?classifier=sources

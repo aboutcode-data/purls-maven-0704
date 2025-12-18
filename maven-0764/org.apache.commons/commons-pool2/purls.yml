@@ -30,3 +30,5 @@
 - pkg:maven/org.apache.commons/commons-pool2@2.7.0?classifier=sources
 - pkg:maven/org.apache.commons/commons-pool2@2.8.0
 - pkg:maven/org.apache.commons/commons-pool2@2.8.0?classifier=sources
+- pkg:maven/org.apache.commons/commons-pool2@2.8.1
+- pkg:maven/org.apache.commons/commons-pool2@2.8.1?classifier=sources

@@ -18,3 +18,13 @@
 - pkg:maven/fr.ird.observe.toolkit/i18n@4.28?classifier=sources
 - pkg:maven/fr.ird.observe.toolkit/i18n@4.29
 - pkg:maven/fr.ird.observe.toolkit/i18n@4.29?classifier=sources
+- pkg:maven/fr.ird.observe.toolkit/i18n@4.30
+- pkg:maven/fr.ird.observe.toolkit/i18n@4.30?classifier=sources
+- pkg:maven/fr.ird.observe.toolkit/i18n@4.31
+- pkg:maven/fr.ird.observe.toolkit/i18n@4.31?classifier=sources
+- pkg:maven/fr.ird.observe.toolkit/i18n@4.32
+- pkg:maven/fr.ird.observe.toolkit/i18n@4.32?classifier=sources
+- pkg:maven/fr.ird.observe.toolkit/i18n@4.33
+- pkg:maven/fr.ird.observe.toolkit/i18n@4.33?classifier=sources
+- pkg:maven/fr.ird.observe.toolkit/i18n@4.34
+- pkg:maven/fr.ird.observe.toolkit/i18n@4.34?classifier=sources

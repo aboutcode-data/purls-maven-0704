@@ -1,0 +1,2 @@
+- pkg:maven/com.rbkmoney/identdocstore-proto@1.10-89a4cda
+- pkg:maven/com.rbkmoney/identdocstore-proto@1.10-89a4cda?classifier=sources

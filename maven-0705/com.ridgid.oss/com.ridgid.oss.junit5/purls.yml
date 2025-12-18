@@ -56,3 +56,9 @@
 - pkg:maven/com.ridgid.oss/com.ridgid.oss.junit5@2.155?classifier=sources
 - pkg:maven/com.ridgid.oss/com.ridgid.oss.junit5@2.156
 - pkg:maven/com.ridgid.oss/com.ridgid.oss.junit5@2.156?classifier=sources
+- pkg:maven/com.ridgid.oss/com.ridgid.oss.junit5@2.157
+- pkg:maven/com.ridgid.oss/com.ridgid.oss.junit5@2.157?classifier=sources
+- pkg:maven/com.ridgid.oss/com.ridgid.oss.junit5@2.158
+- pkg:maven/com.ridgid.oss/com.ridgid.oss.junit5@2.158?classifier=sources
+- pkg:maven/com.ridgid.oss/com.ridgid.oss.junit5@2.159
+- pkg:maven/com.ridgid.oss/com.ridgid.oss.junit5@2.159?classifier=sources

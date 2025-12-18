@@ -6,3 +6,7 @@
 - pkg:maven/nl.praegus/fitnesse-autocomplete-responder@1.0.15?classifier=sources
 - pkg:maven/nl.praegus/fitnesse-autocomplete-responder@1.0.16
 - pkg:maven/nl.praegus/fitnesse-autocomplete-responder@1.0.16?classifier=sources
+- pkg:maven/nl.praegus/fitnesse-autocomplete-responder@1.0.17
+- pkg:maven/nl.praegus/fitnesse-autocomplete-responder@1.0.17?classifier=sources
+- pkg:maven/nl.praegus/fitnesse-autocomplete-responder@1.0.18
+- pkg:maven/nl.praegus/fitnesse-autocomplete-responder@1.0.18?classifier=sources

@@ -105,6 +105,10 @@
 - pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@6.8.0
 - pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@6.8.0?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@6.8.1
+- pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@6.8.10
+- pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@6.8.10?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@6.8.11
+- pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@6.8.11?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@6.8.1?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@6.8.2
 - pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@6.8.2?classifier=sources
@@ -120,6 +124,8 @@
 - pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@6.8.7?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@6.8.8
 - pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@6.8.8?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@6.8.9
+- pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@6.8.9?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@7.0.0
 - pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@7.0.0-alpha1
 - pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@7.0.0-alpha1?classifier=sources
@@ -166,3 +172,11 @@
 - pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@7.6.1?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@7.6.2
 - pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@7.6.2?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@7.7.0
+- pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@7.7.0?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@7.7.1
+- pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@7.7.1?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@7.8.0
+- pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@7.8.0?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@7.8.1
+- pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@7.8.1?classifier=sources

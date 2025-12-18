@@ -64,3 +64,17 @@
 - pkg:maven/org.teamapps/teamapps-application-management@0.9.59?classifier=sources
 - pkg:maven/org.teamapps/teamapps-application-management@0.9.60
 - pkg:maven/org.teamapps/teamapps-application-management@0.9.60?classifier=sources
+- pkg:maven/org.teamapps/teamapps-application-management@0.9.61
+- pkg:maven/org.teamapps/teamapps-application-management@0.9.61?classifier=sources
+- pkg:maven/org.teamapps/teamapps-application-management@0.9.62
+- pkg:maven/org.teamapps/teamapps-application-management@0.9.62?classifier=sources
+- pkg:maven/org.teamapps/teamapps-application-management@0.9.64
+- pkg:maven/org.teamapps/teamapps-application-management@0.9.64?classifier=sources
+- pkg:maven/org.teamapps/teamapps-application-management@0.9.65
+- pkg:maven/org.teamapps/teamapps-application-management@0.9.65?classifier=sources
+- pkg:maven/org.teamapps/teamapps-application-management@0.9.66
+- pkg:maven/org.teamapps/teamapps-application-management@0.9.66?classifier=sources
+- pkg:maven/org.teamapps/teamapps-application-management@0.9.67
+- pkg:maven/org.teamapps/teamapps-application-management@0.9.67?classifier=sources
+- pkg:maven/org.teamapps/teamapps-application-management@0.9.68
+- pkg:maven/org.teamapps/teamapps-application-management@0.9.68?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.buschmais.xo/xo.trace@0.13.0?classifier=sources
 - pkg:maven/com.buschmais.xo/xo.trace@1.0.0
 - pkg:maven/com.buschmais.xo/xo.trace@1.0.0?classifier=sources
+- pkg:maven/com.buschmais.xo/xo.trace@1.1.0
+- pkg:maven/com.buschmais.xo/xo.trace@1.1.0?classifier=sources

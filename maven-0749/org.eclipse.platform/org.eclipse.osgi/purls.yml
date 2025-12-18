@@ -24,3 +24,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.osgi@3.15.100?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.osgi@3.15.200
 - pkg:maven/org.eclipse.platform/org.eclipse.osgi@3.15.200?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.osgi@3.15.300
+- pkg:maven/org.eclipse.platform/org.eclipse.osgi@3.15.300?classifier=sources

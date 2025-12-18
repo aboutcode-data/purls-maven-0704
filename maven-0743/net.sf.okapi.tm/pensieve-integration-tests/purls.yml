@@ -3,3 +3,4 @@
 - pkg:maven/net.sf.okapi.tm/pensieve-integration-tests@0.37
 - pkg:maven/net.sf.okapi.tm/pensieve-integration-tests@0.38
 - pkg:maven/net.sf.okapi.tm/pensieve-integration-tests@1.39.0
+- pkg:maven/net.sf.okapi.tm/pensieve-integration-tests@1.40.0

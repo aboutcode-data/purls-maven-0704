@@ -78,3 +78,5 @@
 - pkg:maven/com.github.scullxbones/akka-persistence-mongo-tools_2.11@2.3.1?classifier=sources
 - pkg:maven/com.github.scullxbones/akka-persistence-mongo-tools_2.11@2.3.2
 - pkg:maven/com.github.scullxbones/akka-persistence-mongo-tools_2.11@2.3.2?classifier=sources
+- pkg:maven/com.github.scullxbones/akka-persistence-mongo-tools_2.11@2.3.3
+- pkg:maven/com.github.scullxbones/akka-persistence-mongo-tools_2.11@2.3.3?classifier=sources

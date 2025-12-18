@@ -48,3 +48,15 @@
 - pkg:maven/org.dmfs/jems-testing@1.33?classifier=sources
 - pkg:maven/org.dmfs/jems-testing@1.34
 - pkg:maven/org.dmfs/jems-testing@1.34?classifier=sources
+- pkg:maven/org.dmfs/jems-testing@1.35
+- pkg:maven/org.dmfs/jems-testing@1.35?classifier=sources
+- pkg:maven/org.dmfs/jems-testing@1.36
+- pkg:maven/org.dmfs/jems-testing@1.36?classifier=sources
+- pkg:maven/org.dmfs/jems-testing@1.37
+- pkg:maven/org.dmfs/jems-testing@1.37?classifier=sources
+- pkg:maven/org.dmfs/jems-testing@1.38
+- pkg:maven/org.dmfs/jems-testing@1.38?classifier=sources
+- pkg:maven/org.dmfs/jems-testing@1.39
+- pkg:maven/org.dmfs/jems-testing@1.39?classifier=sources
+- pkg:maven/org.dmfs/jems-testing@1.40
+- pkg:maven/org.dmfs/jems-testing@1.40?classifier=sources

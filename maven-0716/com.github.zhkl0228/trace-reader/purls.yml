@@ -1,0 +1,2 @@
+- pkg:maven/com.github.zhkl0228/trace-reader@1.0.2
+- pkg:maven/com.github.zhkl0228/trace-reader@1.0.2?classifier=sources

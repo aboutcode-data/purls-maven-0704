@@ -7,3 +7,15 @@
 - pkg:maven/com.jinvovo.pay.sdk/jvv-pay-sdk-java@1.0.20200413?classifier=sources
 - pkg:maven/com.jinvovo.pay.sdk/jvv-pay-sdk-java@1.0.20200427
 - pkg:maven/com.jinvovo.pay.sdk/jvv-pay-sdk-java@1.0.20200427?classifier=sources
+- pkg:maven/com.jinvovo.pay.sdk/jvv-pay-sdk-java@1.0.20200512
+- pkg:maven/com.jinvovo.pay.sdk/jvv-pay-sdk-java@1.0.20200512?classifier=sources
+- pkg:maven/com.jinvovo.pay.sdk/jvv-pay-sdk-java@1.0.20200515
+- pkg:maven/com.jinvovo.pay.sdk/jvv-pay-sdk-java@1.0.20200515?classifier=sources
+- pkg:maven/com.jinvovo.pay.sdk/jvv-pay-sdk-java@1.0.20200613
+- pkg:maven/com.jinvovo.pay.sdk/jvv-pay-sdk-java@1.0.20200613?classifier=sources
+- pkg:maven/com.jinvovo.pay.sdk/jvv-pay-sdk-java@1.0.20200624
+- pkg:maven/com.jinvovo.pay.sdk/jvv-pay-sdk-java@1.0.20200624?classifier=sources
+- pkg:maven/com.jinvovo.pay.sdk/jvv-pay-sdk-java@1.0.20200715
+- pkg:maven/com.jinvovo.pay.sdk/jvv-pay-sdk-java@1.0.20200715?classifier=sources
+- pkg:maven/com.jinvovo.pay.sdk/jvv-pay-sdk-java@1.0.20200720
+- pkg:maven/com.jinvovo.pay.sdk/jvv-pay-sdk-java@1.0.20200720?classifier=sources

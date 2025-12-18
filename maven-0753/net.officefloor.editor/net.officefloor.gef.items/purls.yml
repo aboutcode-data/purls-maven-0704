@@ -7,3 +7,5 @@
 - pkg:maven/net.officefloor.editor/net.officefloor.gef.items@3.22.0?classifier=sources
 - pkg:maven/net.officefloor.editor/net.officefloor.gef.items@3.23.0?classifier=sources
 - pkg:maven/net.officefloor.editor/net.officefloor.gef.items@3.24.0?classifier=sources
+- pkg:maven/net.officefloor.editor/net.officefloor.gef.items@3.25.0?classifier=sources
+- pkg:maven/net.officefloor.editor/net.officefloor.gef.items@3.26.0?classifier=sources

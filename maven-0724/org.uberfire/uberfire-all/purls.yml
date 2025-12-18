@@ -108,3 +108,10 @@
 - pkg:maven/org.uberfire/uberfire-all@7.36.0.Final
 - pkg:maven/org.uberfire/uberfire-all@7.36.1.Final
 - pkg:maven/org.uberfire/uberfire-all@7.37.0.Final
+- pkg:maven/org.uberfire/uberfire-all@7.38.0.Final
+- pkg:maven/org.uberfire/uberfire-all@7.39.0.CR1
+- pkg:maven/org.uberfire/uberfire-all@7.39.0.Final
+- pkg:maven/org.uberfire/uberfire-all@7.40.0.20200703
+- pkg:maven/org.uberfire/uberfire-all@7.40.0.Final
+- pkg:maven/org.uberfire/uberfire-all@7.41.0.Final
+- pkg:maven/org.uberfire/uberfire-all@7.41.0.t20200723

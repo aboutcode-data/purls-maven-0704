@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.tomee.patch/tomee-patch-core@0.1
+- pkg:maven/org.apache.tomee.patch/tomee-patch-core@0.1?classifier=sources

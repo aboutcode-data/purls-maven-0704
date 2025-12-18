@@ -2,3 +2,5 @@
 - pkg:maven/info.picocli/picocli-jansi-graalvm@1.0.0?classifier=sources
 - pkg:maven/info.picocli/picocli-jansi-graalvm@1.1.0
 - pkg:maven/info.picocli/picocli-jansi-graalvm@1.1.0?classifier=sources
+- pkg:maven/info.picocli/picocli-jansi-graalvm@1.2.0
+- pkg:maven/info.picocli/picocli-jansi-graalvm@1.2.0?classifier=sources

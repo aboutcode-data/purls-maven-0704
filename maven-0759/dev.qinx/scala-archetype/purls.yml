@@ -1,0 +1,2 @@
+- pkg:maven/dev.qinx/scala-archetype@0.0.1?classifier=sources
+- pkg:maven/dev.qinx/scala-archetype@1.0.0?classifier=sources

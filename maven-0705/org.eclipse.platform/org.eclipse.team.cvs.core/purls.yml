@@ -1,6 +1,8 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.team.cvs.core@3.4.0
 - pkg:maven/org.eclipse.platform/org.eclipse.team.cvs.core@3.4.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.team.cvs.core@3.4.100
+- pkg:maven/org.eclipse.platform/org.eclipse.team.cvs.core@3.4.1000
+- pkg:maven/org.eclipse.platform/org.eclipse.team.cvs.core@3.4.1000?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.team.cvs.core@3.4.100?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.team.cvs.core@3.4.200
 - pkg:maven/org.eclipse.platform/org.eclipse.team.cvs.core@3.4.200?classifier=sources

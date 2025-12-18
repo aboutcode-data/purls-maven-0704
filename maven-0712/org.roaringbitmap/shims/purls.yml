@@ -21,6 +21,8 @@
 - pkg:maven/org.roaringbitmap/shims@0.8.18?classifier=sources
 - pkg:maven/org.roaringbitmap/shims@0.8.1?classifier=sources
 - pkg:maven/org.roaringbitmap/shims@0.8.2
+- pkg:maven/org.roaringbitmap/shims@0.8.20
+- pkg:maven/org.roaringbitmap/shims@0.8.20?classifier=sources
 - pkg:maven/org.roaringbitmap/shims@0.8.2?classifier=sources
 - pkg:maven/org.roaringbitmap/shims@0.8.5
 - pkg:maven/org.roaringbitmap/shims@0.8.5?classifier=sources
@@ -28,3 +30,5 @@
 - pkg:maven/org.roaringbitmap/shims@0.8.6?classifier=sources
 - pkg:maven/org.roaringbitmap/shims@0.8.9
 - pkg:maven/org.roaringbitmap/shims@0.8.9?classifier=sources
+- pkg:maven/org.roaringbitmap/shims@0.9.0
+- pkg:maven/org.roaringbitmap/shims@0.9.0?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/com.infor.m3/xtendm3-sdk@0.13.4
+- pkg:maven/com.infor.m3/xtendm3-sdk@0.13.4?classifier=sources
+- pkg:maven/com.infor.m3/xtendm3-sdk@0.13.5
+- pkg:maven/com.infor.m3/xtendm3-sdk@0.13.5?classifier=sources
+- pkg:maven/com.infor.m3/xtendm3-sdk@0.14.0
+- pkg:maven/com.infor.m3/xtendm3-sdk@0.14.0?classifier=sources
+- pkg:maven/com.infor.m3/xtendm3-sdk@0.15.0
+- pkg:maven/com.infor.m3/xtendm3-sdk@0.15.0?classifier=sources
+- pkg:maven/com.infor.m3/xtendm3-sdk@0.16.0
+- pkg:maven/com.infor.m3/xtendm3-sdk@0.16.0?classifier=sources

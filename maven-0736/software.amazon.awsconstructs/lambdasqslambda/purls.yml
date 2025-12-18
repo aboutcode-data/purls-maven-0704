@@ -1,0 +1,4 @@
+- pkg:maven/software.amazon.awsconstructs/lambdasqslambda@1.53.0
+- pkg:maven/software.amazon.awsconstructs/lambdasqslambda@1.53.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/lambdasqslambda@1.54.0
+- pkg:maven/software.amazon.awsconstructs/lambdasqslambda@1.54.0?classifier=sources

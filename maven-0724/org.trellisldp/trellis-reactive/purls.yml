@@ -5,6 +5,14 @@
 - pkg:maven/org.trellisldp/trellis-reactive@0.11.0?classifier=sources
 - pkg:maven/org.trellisldp/trellis-reactive@0.11.1?classifier=sources
 - pkg:maven/org.trellisldp/trellis-reactive@0.11.2?classifier=sources
+- pkg:maven/org.trellisldp/trellis-reactive@0.11.3?classifier=sources
+- pkg:maven/org.trellisldp/trellis-reactive@0.12.0?classifier=sources
+- pkg:maven/org.trellisldp/trellis-reactive@0.12.1?classifier=sources
+- pkg:maven/org.trellisldp/trellis-reactive@0.12.2?classifier=sources
+- pkg:maven/org.trellisldp/trellis-reactive@0.13.0?classifier=sources
+- pkg:maven/org.trellisldp/trellis-reactive@0.13.1?classifier=sources
+- pkg:maven/org.trellisldp/trellis-reactive@0.14.0?classifier=sources
+- pkg:maven/org.trellisldp/trellis-reactive@0.14.1?classifier=sources
 - pkg:maven/org.trellisldp/trellis-reactive@0.9.0
 - pkg:maven/org.trellisldp/trellis-reactive@0.9.0?classifier=sources
 - pkg:maven/org.trellisldp/trellis-reactive@0.9.1

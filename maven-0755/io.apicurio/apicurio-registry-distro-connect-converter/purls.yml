@@ -1,3 +1,7 @@
 - pkg:maven/io.apicurio/apicurio-registry-distro-connect-converter@1.1.0.Final
 - pkg:maven/io.apicurio/apicurio-registry-distro-connect-converter@1.1.1.Final
 - pkg:maven/io.apicurio/apicurio-registry-distro-connect-converter@1.1.2.Final
+- pkg:maven/io.apicurio/apicurio-registry-distro-connect-converter@1.2.0.Final
+- pkg:maven/io.apicurio/apicurio-registry-distro-connect-converter@1.2.1.Final
+- pkg:maven/io.apicurio/apicurio-registry-distro-connect-converter@1.2.2.Final
+- pkg:maven/io.apicurio/apicurio-registry-distro-connect-converter@1.2.3.Final

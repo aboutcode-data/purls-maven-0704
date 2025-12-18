@@ -1,0 +1,2 @@
+- pkg:maven/io.github.michaelt293/non-nullable-fields_2.13@0.1
+- pkg:maven/io.github.michaelt293/non-nullable-fields_2.13@0.1?classifier=sources

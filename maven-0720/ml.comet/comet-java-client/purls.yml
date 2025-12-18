@@ -1,2 +1,4 @@
+- pkg:maven/ml.comet/comet-java-client@1.0.11
+- pkg:maven/ml.comet/comet-java-client@1.0.11?classifier=sources
 - pkg:maven/ml.comet/comet-java-client@1.0.7
 - pkg:maven/ml.comet/comet-java-client@1.0.7?classifier=sources

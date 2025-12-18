@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/vuewordcloud@18.7.12
+- pkg:maven/org.webjars.npm/vuewordcloud@18.7.12?classifier=sources

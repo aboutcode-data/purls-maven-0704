@@ -15,4 +15,8 @@
 - pkg:maven/com.github.maojx0630/paging-spring-boot-starter@1.4-NoWeb?classifier=sources
 - pkg:maven/com.github.maojx0630/paging-spring-boot-starter@1.4?classifier=sources
 - pkg:maven/com.github.maojx0630/paging-spring-boot-starter@1.5
+- pkg:maven/com.github.maojx0630/paging-spring-boot-starter@1.5.1
+- pkg:maven/com.github.maojx0630/paging-spring-boot-starter@1.5.1?classifier=sources
 - pkg:maven/com.github.maojx0630/paging-spring-boot-starter@1.5?classifier=sources
+- pkg:maven/com.github.maojx0630/paging-spring-boot-starter@1.6.0
+- pkg:maven/com.github.maojx0630/paging-spring-boot-starter@1.6.0?classifier=sources

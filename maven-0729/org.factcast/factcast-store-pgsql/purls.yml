@@ -54,6 +54,7 @@
 - pkg:maven/org.factcast/factcast-store-pgsql@0.1.4.2
 - pkg:maven/org.factcast/factcast-store-pgsql@0.1.4.2?classifier=sources
 - pkg:maven/org.factcast/factcast-store-pgsql@0.1.4?classifier=sources
+- pkg:maven/org.factcast/factcast-store-pgsql@0.2.0
 - pkg:maven/org.factcast/factcast-store-pgsql@0.2.0-M10
 - pkg:maven/org.factcast/factcast-store-pgsql@0.2.0-M10?classifier=sources
 - pkg:maven/org.factcast/factcast-store-pgsql@0.2.0-M6
@@ -64,5 +65,16 @@
 - pkg:maven/org.factcast/factcast-store-pgsql@0.2.0-M8?classifier=sources
 - pkg:maven/org.factcast/factcast-store-pgsql@0.2.0-M9
 - pkg:maven/org.factcast/factcast-store-pgsql@0.2.0-M9?classifier=sources
+- pkg:maven/org.factcast/factcast-store-pgsql@0.2.0-RC
+- pkg:maven/org.factcast/factcast-store-pgsql@0.2.0-RC2
+- pkg:maven/org.factcast/factcast-store-pgsql@0.2.0-RC2?classifier=sources
+- pkg:maven/org.factcast/factcast-store-pgsql@0.2.0-RC?classifier=sources
+- pkg:maven/org.factcast/factcast-store-pgsql@0.2.0?classifier=sources
+- pkg:maven/org.factcast/factcast-store-pgsql@0.2.1
+- pkg:maven/org.factcast/factcast-store-pgsql@0.2.1?classifier=sources
+- pkg:maven/org.factcast/factcast-store-pgsql@0.2.4
+- pkg:maven/org.factcast/factcast-store-pgsql@0.2.4?classifier=sources
+- pkg:maven/org.factcast/factcast-store-pgsql@0.2.5
+- pkg:maven/org.factcast/factcast-store-pgsql@0.2.5?classifier=sources
 - pkg:maven/org.factcast/factcast-store-pgsql@195ae24
 - pkg:maven/org.factcast/factcast-store-pgsql@195ae24?classifier=sources

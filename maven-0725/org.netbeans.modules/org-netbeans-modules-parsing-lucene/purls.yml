@@ -3,4 +3,6 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-parsing-lucene@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-parsing-lucene@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-parsing-lucene@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-parsing-lucene@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-parsing-lucene@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-parsing-lucene@RELEASE90?classifier=sources

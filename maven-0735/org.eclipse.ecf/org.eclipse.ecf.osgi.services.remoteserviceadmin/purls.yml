@@ -2,4 +2,5 @@
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf.osgi.services.remoteserviceadmin@4.5.100?classifier=sources
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf.osgi.services.remoteserviceadmin@4.5.200?classifier=sources
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf.osgi.services.remoteserviceadmin@4.6.1102?classifier=sources
+- pkg:maven/org.eclipse.ecf/org.eclipse.ecf.osgi.services.remoteserviceadmin@4.6.1200?classifier=sources
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf.osgi.services.remoteserviceadmin@4.6.800?classifier=sources

@@ -1,5 +1,7 @@
 - pkg:maven/com.github.almasb/fxgl-test@11.1-beta
 - pkg:maven/com.github.almasb/fxgl-test@11.1-beta?classifier=sources
+- pkg:maven/com.github.almasb/fxgl-test@11.10
+- pkg:maven/com.github.almasb/fxgl-test@11.10?classifier=sources
 - pkg:maven/com.github.almasb/fxgl-test@11.2-beta
 - pkg:maven/com.github.almasb/fxgl-test@11.2-beta?classifier=sources
 - pkg:maven/com.github.almasb/fxgl-test@11.3
@@ -14,3 +16,5 @@
 - pkg:maven/com.github.almasb/fxgl-test@11.7?classifier=sources
 - pkg:maven/com.github.almasb/fxgl-test@11.8
 - pkg:maven/com.github.almasb/fxgl-test@11.8?classifier=sources
+- pkg:maven/com.github.almasb/fxgl-test@11.9
+- pkg:maven/com.github.almasb/fxgl-test@11.9?classifier=sources

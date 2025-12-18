@@ -1,0 +1,2 @@
+- pkg:maven/com.intel.arrow/arrow-vector@0.17.0-Beta
+- pkg:maven/com.intel.arrow/arrow-vector@0.17.0-Beta?classifier=sources

@@ -21,3 +21,4 @@
 - pkg:maven/ru.sbtqa/chromedriver-bin@79.0.3945.36
 - pkg:maven/ru.sbtqa/chromedriver-bin@80.0.3987.106
 - pkg:maven/ru.sbtqa/chromedriver-bin@81.0.4044.20
+- pkg:maven/ru.sbtqa/chromedriver-bin@83.0.4103.39

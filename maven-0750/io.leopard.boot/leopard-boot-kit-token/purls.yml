@@ -1,0 +1,2 @@
+- pkg:maven/io.leopard.boot/leopard-boot-kit-token@0.9.20
+- pkg:maven/io.leopard.boot/leopard-boot-kit-token@0.9.20?classifier=sources

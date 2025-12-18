@@ -2,3 +2,4 @@
 - pkg:maven/io.thorntail/bom-experimental@2.4.0.Final?classifier=sources
 - pkg:maven/io.thorntail/bom-experimental@2.5.0.Final?classifier=sources
 - pkg:maven/io.thorntail/bom-experimental@2.6.0.Final?classifier=sources
+- pkg:maven/io.thorntail/bom-experimental@2.7.0.Final?classifier=sources

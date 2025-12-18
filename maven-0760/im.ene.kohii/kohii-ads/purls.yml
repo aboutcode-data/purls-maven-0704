@@ -12,3 +12,11 @@
 - pkg:maven/im.ene.kohii/kohii-ads@1.0.0.2010004-beta.5?type=aar
 - pkg:maven/im.ene.kohii/kohii-ads@1.0.0.2010004?classifier=sources
 - pkg:maven/im.ene.kohii/kohii-ads@1.0.0.2010004?type=aar
+- pkg:maven/im.ene.kohii/kohii-ads@1.1.0.2011003-RC1?classifier=sources
+- pkg:maven/im.ene.kohii/kohii-ads@1.1.0.2011003-RC1?type=aar
+- pkg:maven/im.ene.kohii/kohii-ads@1.1.0.2011003-RC2?classifier=sources
+- pkg:maven/im.ene.kohii/kohii-ads@1.1.0.2011003-RC2?type=aar
+- pkg:maven/im.ene.kohii/kohii-ads@1.1.0.2011003?classifier=sources
+- pkg:maven/im.ene.kohii/kohii-ads@1.1.0.2011003?type=aar
+- pkg:maven/im.ene.kohii/kohii-ads@1.1.1.2011003?classifier=sources
+- pkg:maven/im.ene.kohii/kohii-ads@1.1.1.2011003?type=aar

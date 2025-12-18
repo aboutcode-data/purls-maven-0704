@@ -9,3 +9,4 @@
 - pkg:maven/org.webjars/dropzone@4.3.0-2
 - pkg:maven/org.webjars/dropzone@5.2.0
 - pkg:maven/org.webjars/dropzone@5.5.0
+- pkg:maven/org.webjars/dropzone@5.7.2

@@ -1,0 +1,2 @@
+- pkg:maven/foundation.fluent.api/dsl-hell-check-plugin@1.6
+- pkg:maven/foundation.fluent.api/dsl-hell-check-plugin@1.6?classifier=sources

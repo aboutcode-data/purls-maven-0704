@@ -1,0 +1,1 @@
+- pkg:maven/com.github.jeanbaptistewatenberg.junit5kubernetes/rabbitmq@2.1.0?classifier=sources

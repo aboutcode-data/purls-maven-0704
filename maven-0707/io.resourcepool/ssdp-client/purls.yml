@@ -14,3 +14,5 @@
 - pkg:maven/io.resourcepool/ssdp-client@2.3.0?classifier=sources
 - pkg:maven/io.resourcepool/ssdp-client@2.4.0
 - pkg:maven/io.resourcepool/ssdp-client@2.4.0?classifier=sources
+- pkg:maven/io.resourcepool/ssdp-client@2.4.1
+- pkg:maven/io.resourcepool/ssdp-client@2.4.1?classifier=sources

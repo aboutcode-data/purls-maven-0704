@@ -6,3 +6,5 @@
 - pkg:maven/io.vlingo/vlingo-xoom-server@1.2.8?classifier=sources
 - pkg:maven/io.vlingo/vlingo-xoom-server@1.2.9
 - pkg:maven/io.vlingo/vlingo-xoom-server@1.2.9?classifier=sources
+- pkg:maven/io.vlingo/vlingo-xoom-server@1.3.0
+- pkg:maven/io.vlingo/vlingo-xoom-server@1.3.0?classifier=sources

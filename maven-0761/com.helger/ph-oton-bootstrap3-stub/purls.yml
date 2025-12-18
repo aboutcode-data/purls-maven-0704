@@ -66,3 +66,5 @@
 - pkg:maven/com.helger/ph-oton-bootstrap3-stub@8.2.2?classifier=sources
 - pkg:maven/com.helger/ph-oton-bootstrap3-stub@8.2.3
 - pkg:maven/com.helger/ph-oton-bootstrap3-stub@8.2.3?classifier=sources
+- pkg:maven/com.helger/ph-oton-bootstrap3-stub@8.2.4
+- pkg:maven/com.helger/ph-oton-bootstrap3-stub@8.2.4?classifier=sources

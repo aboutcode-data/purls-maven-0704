@@ -12,3 +12,7 @@
 - pkg:maven/org.simplify4u.plugins/pgpverify-maven-plugin@1.6.0?classifier=sources
 - pkg:maven/org.simplify4u.plugins/pgpverify-maven-plugin@1.7.0
 - pkg:maven/org.simplify4u.plugins/pgpverify-maven-plugin@1.7.0?classifier=sources
+- pkg:maven/org.simplify4u.plugins/pgpverify-maven-plugin@1.8.0
+- pkg:maven/org.simplify4u.plugins/pgpverify-maven-plugin@1.8.0?classifier=sources
+- pkg:maven/org.simplify4u.plugins/pgpverify-maven-plugin@1.9.0
+- pkg:maven/org.simplify4u.plugins/pgpverify-maven-plugin@1.9.0?classifier=sources

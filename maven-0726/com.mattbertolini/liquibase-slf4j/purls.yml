@@ -8,3 +8,5 @@
 - pkg:maven/com.mattbertolini/liquibase-slf4j@1.2.1?classifier=sources
 - pkg:maven/com.mattbertolini/liquibase-slf4j@2.0.0
 - pkg:maven/com.mattbertolini/liquibase-slf4j@2.0.0?classifier=sources
+- pkg:maven/com.mattbertolini/liquibase-slf4j@3.0.0
+- pkg:maven/com.mattbertolini/liquibase-slf4j@3.0.0?classifier=sources

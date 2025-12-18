@@ -1,0 +1,4 @@
+- pkg:maven/io.dinject/dinject-annotations@1.20-beta2
+- pkg:maven/io.dinject/dinject-annotations@1.20-beta2?classifier=sources
+- pkg:maven/io.dinject/dinject-annotations@2.1
+- pkg:maven/io.dinject/dinject-annotations@2.1?classifier=sources

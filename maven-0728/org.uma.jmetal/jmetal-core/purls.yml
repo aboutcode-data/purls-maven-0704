@@ -17,6 +17,8 @@
 - pkg:maven/org.uma.jmetal/jmetal-core@5.0-Beta-34?classifier=sources
 - pkg:maven/org.uma.jmetal/jmetal-core@5.0?classifier=sources
 - pkg:maven/org.uma.jmetal/jmetal-core@5.1
+- pkg:maven/org.uma.jmetal/jmetal-core@5.10
+- pkg:maven/org.uma.jmetal/jmetal-core@5.10?classifier=sources
 - pkg:maven/org.uma.jmetal/jmetal-core@5.1?classifier=sources
 - pkg:maven/org.uma.jmetal/jmetal-core@5.2
 - pkg:maven/org.uma.jmetal/jmetal-core@5.2?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/ai.libs.thirdparty/interruptible-weka@0.1.3?classifier=sources
 - pkg:maven/ai.libs.thirdparty/interruptible-weka@0.1.4
 - pkg:maven/ai.libs.thirdparty/interruptible-weka@0.1.4?classifier=sources
+- pkg:maven/ai.libs.thirdparty/interruptible-weka@0.1.5
+- pkg:maven/ai.libs.thirdparty/interruptible-weka@0.1.5?classifier=sources

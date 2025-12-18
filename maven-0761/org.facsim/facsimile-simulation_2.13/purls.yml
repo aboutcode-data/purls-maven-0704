@@ -1,0 +1,2 @@
+- pkg:maven/org.facsim/facsimile-simulation_2.13@0.2.1
+- pkg:maven/org.facsim/facsimile-simulation_2.13@0.2.1?classifier=sources

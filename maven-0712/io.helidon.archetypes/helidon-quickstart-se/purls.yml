@@ -1,0 +1,3 @@
+- pkg:maven/io.helidon.archetypes/helidon-quickstart-se@2.0.0-RC2?classifier=sources
+- pkg:maven/io.helidon.archetypes/helidon-quickstart-se@2.0.0?classifier=sources
+- pkg:maven/io.helidon.archetypes/helidon-quickstart-se@2.0.1?classifier=sources

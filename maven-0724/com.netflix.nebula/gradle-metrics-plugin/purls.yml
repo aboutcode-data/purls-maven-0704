@@ -1,3 +1,9 @@
+- pkg:maven/com.netflix.nebula/gradle-metrics-plugin@10.0.0-rc.1?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-metrics-plugin@10.0.0-rc.2?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-metrics-plugin@10.0.0-rc.3?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-metrics-plugin@10.0.0?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-metrics-plugin@10.0.1?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-metrics-plugin@10.0.2?classifier=sources
 - pkg:maven/com.netflix.nebula/gradle-metrics-plugin@2.2.1
 - pkg:maven/com.netflix.nebula/gradle-metrics-plugin@2.2.10
 - pkg:maven/com.netflix.nebula/gradle-metrics-plugin@2.2.10?classifier=sources
@@ -146,3 +152,4 @@
 - pkg:maven/com.netflix.nebula/gradle-metrics-plugin@9.1.1?classifier=sources
 - pkg:maven/com.netflix.nebula/gradle-metrics-plugin@9.2.0
 - pkg:maven/com.netflix.nebula/gradle-metrics-plugin@9.2.0?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-metrics-plugin@9.3.0?classifier=sources

@@ -1,6 +1,8 @@
 - pkg:maven/org.webjars.npm/js-file-download@0.4.1
 - pkg:maven/org.webjars.npm/js-file-download@0.4.11
 - pkg:maven/org.webjars.npm/js-file-download@0.4.11?classifier=sources
+- pkg:maven/org.webjars.npm/js-file-download@0.4.12
+- pkg:maven/org.webjars.npm/js-file-download@0.4.12?classifier=sources
 - pkg:maven/org.webjars.npm/js-file-download@0.4.1?classifier=sources
 - pkg:maven/org.webjars.npm/js-file-download@0.4.4
 - pkg:maven/org.webjars.npm/js-file-download@0.4.4?classifier=sources

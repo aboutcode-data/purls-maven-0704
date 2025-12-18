@@ -1,0 +1,2 @@
+- pkg:maven/io.rocketbase.commons/commons-auth-email-postmark@4.0.0-RC3
+- pkg:maven/io.rocketbase.commons/commons-auth-email-postmark@4.0.0-RC3?classifier=sources

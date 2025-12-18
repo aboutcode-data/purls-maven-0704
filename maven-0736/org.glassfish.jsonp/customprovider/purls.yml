@@ -4,3 +4,5 @@
 - pkg:maven/org.glassfish.jsonp/customprovider@2.0.0-RC1?type=war
 - pkg:maven/org.glassfish.jsonp/customprovider@2.0.0-RC2?classifier=sources
 - pkg:maven/org.glassfish.jsonp/customprovider@2.0.0-RC2?type=war
+- pkg:maven/org.glassfish.jsonp/customprovider@2.0.0-RC3?classifier=sources
+- pkg:maven/org.glassfish.jsonp/customprovider@2.0.0-RC3?type=war

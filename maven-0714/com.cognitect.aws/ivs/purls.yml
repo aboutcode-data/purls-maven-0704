@@ -1,0 +1,2 @@
+- pkg:maven/com.cognitect.aws/ivs@803.2.719.0
+- pkg:maven/com.cognitect.aws/ivs@803.2.719.0?classifier=sources

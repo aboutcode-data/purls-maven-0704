@@ -1,0 +1,10 @@
+- pkg:maven/edu.utexas.tacc.tapis/tokens-client@1.10
+- pkg:maven/edu.utexas.tacc.tapis/tokens-client@1.10?classifier=sources
+- pkg:maven/edu.utexas.tacc.tapis/tokens-client@1.2
+- pkg:maven/edu.utexas.tacc.tapis/tokens-client@1.2?classifier=sources
+- pkg:maven/edu.utexas.tacc.tapis/tokens-client@1.3
+- pkg:maven/edu.utexas.tacc.tapis/tokens-client@1.3?classifier=sources
+- pkg:maven/edu.utexas.tacc.tapis/tokens-client@1.4
+- pkg:maven/edu.utexas.tacc.tapis/tokens-client@1.4?classifier=sources
+- pkg:maven/edu.utexas.tacc.tapis/tokens-client@1.5
+- pkg:maven/edu.utexas.tacc.tapis/tokens-client@1.5?classifier=sources

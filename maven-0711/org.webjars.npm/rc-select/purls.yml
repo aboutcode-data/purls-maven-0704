@@ -1,5 +1,9 @@
 - pkg:maven/org.webjars.npm/rc-select@10.0.0-alpha.9
 - pkg:maven/org.webjars.npm/rc-select@10.0.0-alpha.9?classifier=sources
+- pkg:maven/org.webjars.npm/rc-select@11.0.0
+- pkg:maven/org.webjars.npm/rc-select@11.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/rc-select@11.1.0
+- pkg:maven/org.webjars.npm/rc-select@11.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/rc-select@6.6.1
 - pkg:maven/org.webjars.npm/rc-select@6.6.1?classifier=sources
 - pkg:maven/org.webjars.npm/rc-select@6.7.1

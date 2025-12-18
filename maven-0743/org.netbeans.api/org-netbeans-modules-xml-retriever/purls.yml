@@ -3,4 +3,6 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-xml-retriever@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-xml-retriever@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-xml-retriever@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-xml-retriever@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-xml-retriever@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-xml-retriever@RELEASE90?classifier=sources

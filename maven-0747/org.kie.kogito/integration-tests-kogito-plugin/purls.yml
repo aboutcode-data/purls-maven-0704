@@ -1,0 +1,4 @@
+- pkg:maven/org.kie.kogito/integration-tests-kogito-plugin@0.11.0
+- pkg:maven/org.kie.kogito/integration-tests-kogito-plugin@0.11.1
+- pkg:maven/org.kie.kogito/integration-tests-kogito-plugin@0.12.0
+- pkg:maven/org.kie.kogito/integration-tests-kogito-plugin@0.13.0

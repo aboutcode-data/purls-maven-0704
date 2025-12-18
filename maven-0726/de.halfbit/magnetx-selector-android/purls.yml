@@ -70,9 +70,11 @@
 - pkg:maven/de.halfbit/magnetx-selector-android@3.3-rc8
 - pkg:maven/de.halfbit/magnetx-selector-android@3.3-rc8?classifier=sources
 - pkg:maven/de.halfbit/magnetx-selector-android@3.3?classifier=sources
+- pkg:maven/de.halfbit/magnetx-selector-android@3.4
 - pkg:maven/de.halfbit/magnetx-selector-android@3.4-beta1
 - pkg:maven/de.halfbit/magnetx-selector-android@3.4-beta1?classifier=sources
 - pkg:maven/de.halfbit/magnetx-selector-android@3.4-rc1
 - pkg:maven/de.halfbit/magnetx-selector-android@3.4-rc1?classifier=sources
 - pkg:maven/de.halfbit/magnetx-selector-android@3.4-rc2
 - pkg:maven/de.halfbit/magnetx-selector-android@3.4-rc2?classifier=sources
+- pkg:maven/de.halfbit/magnetx-selector-android@3.4?classifier=sources

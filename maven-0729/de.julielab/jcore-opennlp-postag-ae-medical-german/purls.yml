@@ -6,3 +6,5 @@
 - pkg:maven/de.julielab/jcore-opennlp-postag-ae-medical-german@2.3.8?classifier=sources
 - pkg:maven/de.julielab/jcore-opennlp-postag-ae-medical-german@2.4.0
 - pkg:maven/de.julielab/jcore-opennlp-postag-ae-medical-german@2.4.0?classifier=sources
+- pkg:maven/de.julielab/jcore-opennlp-postag-ae-medical-german@2.5.0
+- pkg:maven/de.julielab/jcore-opennlp-postag-ae-medical-german@2.5.0?classifier=sources

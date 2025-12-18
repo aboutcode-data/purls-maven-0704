@@ -18,3 +18,5 @@
 - pkg:maven/com.sdl.web/content-linking@8.5.0-1108?classifier=sources
 - pkg:maven/com.sdl.web/content-linking@8.5.0-1137
 - pkg:maven/com.sdl.web/content-linking@8.5.0-1137?classifier=sources
+- pkg:maven/com.sdl.web/content-linking@8.5.0-1163
+- pkg:maven/com.sdl.web/content-linking@8.5.0-1163?classifier=sources

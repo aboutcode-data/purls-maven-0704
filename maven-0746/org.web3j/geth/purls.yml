@@ -102,3 +102,11 @@
 - pkg:maven/org.web3j/geth@4.5.8?classifier=sources
 - pkg:maven/org.web3j/geth@4.5.9
 - pkg:maven/org.web3j/geth@4.5.9?classifier=sources
+- pkg:maven/org.web3j/geth@4.6.0
+- pkg:maven/org.web3j/geth@4.6.0-android
+- pkg:maven/org.web3j/geth@4.6.0-android?classifier=sources
+- pkg:maven/org.web3j/geth@4.6.0?classifier=sources
+- pkg:maven/org.web3j/geth@4.6.1
+- pkg:maven/org.web3j/geth@4.6.1?classifier=sources
+- pkg:maven/org.web3j/geth@5.0.0
+- pkg:maven/org.web3j/geth@5.0.0?classifier=sources

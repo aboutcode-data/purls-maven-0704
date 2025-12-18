@@ -4,3 +4,4 @@
 - pkg:maven/com.newpixelcoffee.odin/odin@1.1.a?classifier=sources
 - pkg:maven/com.newpixelcoffee.odin/odin@1.2.a?classifier=sources
 - pkg:maven/com.newpixelcoffee.odin/odin@1.2.b?classifier=sources
+- pkg:maven/com.newpixelcoffee.odin/odin@1.2.c?classifier=sources

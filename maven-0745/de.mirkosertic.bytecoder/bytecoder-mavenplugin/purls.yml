@@ -50,3 +50,11 @@
 - pkg:maven/de.mirkosertic.bytecoder/bytecoder-mavenplugin@2020-04-09?classifier=sources
 - pkg:maven/de.mirkosertic.bytecoder/bytecoder-mavenplugin@2020-05-04
 - pkg:maven/de.mirkosertic.bytecoder/bytecoder-mavenplugin@2020-05-04?classifier=sources
+- pkg:maven/de.mirkosertic.bytecoder/bytecoder-mavenplugin@2020-05-12
+- pkg:maven/de.mirkosertic.bytecoder/bytecoder-mavenplugin@2020-05-12?classifier=sources
+- pkg:maven/de.mirkosertic.bytecoder/bytecoder-mavenplugin@2020-05-15
+- pkg:maven/de.mirkosertic.bytecoder/bytecoder-mavenplugin@2020-05-15?classifier=sources
+- pkg:maven/de.mirkosertic.bytecoder/bytecoder-mavenplugin@2020-07-01
+- pkg:maven/de.mirkosertic.bytecoder/bytecoder-mavenplugin@2020-07-01?classifier=sources
+- pkg:maven/de.mirkosertic.bytecoder/bytecoder-mavenplugin@2020-07-29
+- pkg:maven/de.mirkosertic.bytecoder/bytecoder-mavenplugin@2020-07-29?classifier=sources

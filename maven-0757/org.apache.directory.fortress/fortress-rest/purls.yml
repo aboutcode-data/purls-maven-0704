@@ -17,3 +17,5 @@
 - pkg:maven/org.apache.directory.fortress/fortress-rest@2.0.3?type=war
 - pkg:maven/org.apache.directory.fortress/fortress-rest@2.0.4?classifier=sources
 - pkg:maven/org.apache.directory.fortress/fortress-rest@2.0.4?type=war
+- pkg:maven/org.apache.directory.fortress/fortress-rest@2.0.5?classifier=sources
+- pkg:maven/org.apache.directory.fortress/fortress-rest@2.0.5?type=war

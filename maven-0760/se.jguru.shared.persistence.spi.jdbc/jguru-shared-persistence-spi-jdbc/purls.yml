@@ -2,6 +2,8 @@
 - pkg:maven/se.jguru.shared.persistence.spi.jdbc/jguru-shared-persistence-spi-jdbc@0.10.0?classifier=sources
 - pkg:maven/se.jguru.shared.persistence.spi.jdbc/jguru-shared-persistence-spi-jdbc@0.10.1
 - pkg:maven/se.jguru.shared.persistence.spi.jdbc/jguru-shared-persistence-spi-jdbc@0.10.1?classifier=sources
+- pkg:maven/se.jguru.shared.persistence.spi.jdbc/jguru-shared-persistence-spi-jdbc@0.10.2
+- pkg:maven/se.jguru.shared.persistence.spi.jdbc/jguru-shared-persistence-spi-jdbc@0.10.2?classifier=sources
 - pkg:maven/se.jguru.shared.persistence.spi.jdbc/jguru-shared-persistence-spi-jdbc@0.9.10
 - pkg:maven/se.jguru.shared.persistence.spi.jdbc/jguru-shared-persistence-spi-jdbc@0.9.10?classifier=sources
 - pkg:maven/se.jguru.shared.persistence.spi.jdbc/jguru-shared-persistence-spi-jdbc@0.9.11

@@ -1,0 +1,4 @@
+- pkg:maven/software.amazon.awscdk/cloudfront-origins@1.55.0
+- pkg:maven/software.amazon.awscdk/cloudfront-origins@1.55.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cloudfront-origins@1.56.0
+- pkg:maven/software.amazon.awscdk/cloudfront-origins@1.56.0?classifier=sources

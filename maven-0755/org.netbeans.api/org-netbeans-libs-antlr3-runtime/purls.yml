@@ -3,4 +3,6 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-antlr3-runtime@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-antlr3-runtime@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-antlr3-runtime@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-antlr3-runtime@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-antlr3-runtime@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-antlr3-runtime@RELEASE90?classifier=sources

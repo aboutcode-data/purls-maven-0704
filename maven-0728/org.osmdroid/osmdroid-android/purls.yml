@@ -56,3 +56,7 @@
 - pkg:maven/org.osmdroid/osmdroid-android@6.1.5?type=aar
 - pkg:maven/org.osmdroid/osmdroid-android@6.1.6?classifier=sources
 - pkg:maven/org.osmdroid/osmdroid-android@6.1.6?type=aar
+- pkg:maven/org.osmdroid/osmdroid-android@6.1.7?classifier=sources
+- pkg:maven/org.osmdroid/osmdroid-android@6.1.7?type=aar
+- pkg:maven/org.osmdroid/osmdroid-android@6.1.8?classifier=sources
+- pkg:maven/org.osmdroid/osmdroid-android@6.1.8?type=aar

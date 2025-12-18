@@ -18,3 +18,4 @@
 - pkg:maven/org.wildfly.openssl/wildfly-openssl-linux-i386@1.0.8.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.openssl/wildfly-openssl-linux-i386@1.0.9.Final
 - pkg:maven/org.wildfly.openssl/wildfly-openssl-linux-i386@1.1.0.Final
+- pkg:maven/org.wildfly.openssl/wildfly-openssl-linux-i386@1.1.1.Final

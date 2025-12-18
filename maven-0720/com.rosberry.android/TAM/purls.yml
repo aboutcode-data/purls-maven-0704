@@ -1,2 +1,4 @@
 - pkg:maven/com.rosberry.android/TAM@0.1.0?classifier=sources
 - pkg:maven/com.rosberry.android/TAM@0.1.0?type=aar
+- pkg:maven/com.rosberry.android/TAM@1.0.0?classifier=sources
+- pkg:maven/com.rosberry.android/TAM@1.0.0?type=aar

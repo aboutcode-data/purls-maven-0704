@@ -4,3 +4,6 @@
 - pkg:maven/org.apache.skywalking/configuration-etcd@6.5.0
 - pkg:maven/org.apache.skywalking/configuration-etcd@6.6.0
 - pkg:maven/org.apache.skywalking/configuration-etcd@7.0.0
+- pkg:maven/org.apache.skywalking/configuration-etcd@8.0.0
+- pkg:maven/org.apache.skywalking/configuration-etcd@8.0.1
+- pkg:maven/org.apache.skywalking/configuration-etcd@8.1.0

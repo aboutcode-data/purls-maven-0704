@@ -2,3 +2,5 @@
 - pkg:maven/com.github.zlzz-rec/sdk@0.0.2?classifier=sources
 - pkg:maven/com.github.zlzz-rec/sdk@0.0.3
 - pkg:maven/com.github.zlzz-rec/sdk@0.0.3?classifier=sources
+- pkg:maven/com.github.zlzz-rec/sdk@0.0.5
+- pkg:maven/com.github.zlzz-rec/sdk@0.0.5?classifier=sources

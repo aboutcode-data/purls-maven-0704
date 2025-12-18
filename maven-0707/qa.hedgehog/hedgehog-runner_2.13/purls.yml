@@ -1,0 +1,4 @@
+- pkg:maven/qa.hedgehog/hedgehog-runner_2.13@0.4.0
+- pkg:maven/qa.hedgehog/hedgehog-runner_2.13@0.4.0?classifier=sources
+- pkg:maven/qa.hedgehog/hedgehog-runner_2.13@f97736f18b23ac93dbf047043d660cbe81679a11
+- pkg:maven/qa.hedgehog/hedgehog-runner_2.13@f97736f18b23ac93dbf047043d660cbe81679a11?classifier=sources

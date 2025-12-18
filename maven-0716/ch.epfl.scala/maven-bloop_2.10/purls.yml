@@ -111,6 +111,8 @@
 - pkg:maven/ch.epfl.scala/maven-bloop_2.10@1.4.0
 - pkg:maven/ch.epfl.scala/maven-bloop_2.10@1.4.0-1-558a94e8
 - pkg:maven/ch.epfl.scala/maven-bloop_2.10@1.4.0-1-558a94e8?classifier=sources
+- pkg:maven/ch.epfl.scala/maven-bloop_2.10@1.4.0-3-f576d239
+- pkg:maven/ch.epfl.scala/maven-bloop_2.10@1.4.0-3-f576d239?classifier=sources
 - pkg:maven/ch.epfl.scala/maven-bloop_2.10@1.4.0-RC1
 - pkg:maven/ch.epfl.scala/maven-bloop_2.10@1.4.0-RC1%2B10-db2d98a1
 - pkg:maven/ch.epfl.scala/maven-bloop_2.10@1.4.0-RC1%2B10-db2d98a1?classifier=sources
@@ -254,6 +256,8 @@
 - pkg:maven/ch.epfl.scala/maven-bloop_2.10@1.4.0-RC3
 - pkg:maven/ch.epfl.scala/maven-bloop_2.10@1.4.0-RC3?classifier=sources
 - pkg:maven/ch.epfl.scala/maven-bloop_2.10@1.4.0?classifier=sources
+- pkg:maven/ch.epfl.scala/maven-bloop_2.10@1.4.1
+- pkg:maven/ch.epfl.scala/maven-bloop_2.10@1.4.1?classifier=sources
 - pkg:maven/ch.epfl.scala/maven-bloop_2.10@121807cc
 - pkg:maven/ch.epfl.scala/maven-bloop_2.10@121807cc?classifier=sources
 - pkg:maven/ch.epfl.scala/maven-bloop_2.10@187b7ca0

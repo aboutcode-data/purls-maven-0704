@@ -1,0 +1,2 @@
+- pkg:maven/org.nd4j/nd4j-common-tests@1.0.0-beta7
+- pkg:maven/org.nd4j/nd4j-common-tests@1.0.0-beta7?classifier=sources

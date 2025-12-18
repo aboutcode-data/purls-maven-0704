@@ -1,0 +1,4 @@
+- pkg:maven/com.astralanguage/astra-unittest@0.1.0
+- pkg:maven/com.astralanguage/astra-unittest@0.1.0?classifier=sources
+- pkg:maven/com.astralanguage/astra-unittest@1.0.0
+- pkg:maven/com.astralanguage/astra-unittest@1.0.0?classifier=sources

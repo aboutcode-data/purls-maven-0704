@@ -1,0 +1,4 @@
+- pkg:maven/fr.arakne/arakne-value@0.1-alpha
+- pkg:maven/fr.arakne/arakne-value@0.1-alpha?classifier=sources
+- pkg:maven/fr.arakne/arakne-value@0.2-alpha
+- pkg:maven/fr.arakne/arakne-value@0.2-alpha?classifier=sources

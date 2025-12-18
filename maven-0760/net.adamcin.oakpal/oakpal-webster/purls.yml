@@ -26,3 +26,5 @@
 - pkg:maven/net.adamcin.oakpal/oakpal-webster@1.5.2?classifier=sources
 - pkg:maven/net.adamcin.oakpal/oakpal-webster@2.0.0
 - pkg:maven/net.adamcin.oakpal/oakpal-webster@2.0.0?classifier=sources
+- pkg:maven/net.adamcin.oakpal/oakpal-webster@2.1.0
+- pkg:maven/net.adamcin.oakpal/oakpal-webster@2.1.0?classifier=sources

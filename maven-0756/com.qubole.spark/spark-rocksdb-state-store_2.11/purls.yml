@@ -1,0 +1,2 @@
+- pkg:maven/com.qubole.spark/spark-rocksdb-state-store_2.11@1.0.0
+- pkg:maven/com.qubole.spark/spark-rocksdb-state-store_2.11@1.0.0?classifier=sources

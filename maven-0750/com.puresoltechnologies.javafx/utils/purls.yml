@@ -1,5 +1,7 @@
 - pkg:maven/com.puresoltechnologies.javafx/utils@0.1.0
 - pkg:maven/com.puresoltechnologies.javafx/utils@0.1.0?classifier=sources
+- pkg:maven/com.puresoltechnologies.javafx/utils@0.10.0
+- pkg:maven/com.puresoltechnologies.javafx/utils@0.10.0?classifier=sources
 - pkg:maven/com.puresoltechnologies.javafx/utils@0.2.0
 - pkg:maven/com.puresoltechnologies.javafx/utils@0.2.0?classifier=sources
 - pkg:maven/com.puresoltechnologies.javafx/utils@0.3.0

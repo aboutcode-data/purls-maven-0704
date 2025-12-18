@@ -20,3 +20,11 @@
 - pkg:maven/com.scalified/axonframework-cdi@4.3-RC4?classifier=sources
 - pkg:maven/com.scalified/axonframework-cdi@4.3-RELEASE
 - pkg:maven/com.scalified/axonframework-cdi@4.3-RELEASE?classifier=sources
+- pkg:maven/com.scalified/axonframework-cdi@4.3.1-RELEASE
+- pkg:maven/com.scalified/axonframework-cdi@4.3.1-RELEASE?classifier=sources
+- pkg:maven/com.scalified/axonframework-cdi@4.3.2-RELEASE
+- pkg:maven/com.scalified/axonframework-cdi@4.3.2-RELEASE?classifier=sources
+- pkg:maven/com.scalified/axonframework-cdi@4.3.3-RELEASE
+- pkg:maven/com.scalified/axonframework-cdi@4.3.3-RELEASE?classifier=sources
+- pkg:maven/com.scalified/axonframework-cdi@4.3.4-RELEASE
+- pkg:maven/com.scalified/axonframework-cdi@4.3.4-RELEASE?classifier=sources

@@ -8,6 +8,8 @@
 - pkg:maven/com.github.trickl/model-oanda@0.1.7?classifier=sources
 - pkg:maven/com.github.trickl/model-oanda@0.1.8
 - pkg:maven/com.github.trickl/model-oanda@0.1.8?classifier=sources
+- pkg:maven/com.github.trickl/model-oanda@0.1.9
+- pkg:maven/com.github.trickl/model-oanda@0.1.9?classifier=sources
 - pkg:maven/com.github.trickl/model-oanda@untagged-0387f56eb934e33508dc
 - pkg:maven/com.github.trickl/model-oanda@untagged-0387f56eb934e33508dc?classifier=sources
 - pkg:maven/com.github.trickl/model-oanda@untagged-2505d0327742d7baa2d9
@@ -18,6 +20,8 @@
 - pkg:maven/com.github.trickl/model-oanda@untagged-54a05130f5a9bc6b8ea0?classifier=sources
 - pkg:maven/com.github.trickl/model-oanda@untagged-5f9a69c7978600fee539
 - pkg:maven/com.github.trickl/model-oanda@untagged-5f9a69c7978600fee539?classifier=sources
+- pkg:maven/com.github.trickl/model-oanda@untagged-75db43cec9be9e2bc91f
+- pkg:maven/com.github.trickl/model-oanda@untagged-75db43cec9be9e2bc91f?classifier=sources
 - pkg:maven/com.github.trickl/model-oanda@untagged-7f6be49dbaa3bd6c07a4
 - pkg:maven/com.github.trickl/model-oanda@untagged-7f6be49dbaa3bd6c07a4?classifier=sources
 - pkg:maven/com.github.trickl/model-oanda@untagged-9ba5bb672c4b5aa1dea5

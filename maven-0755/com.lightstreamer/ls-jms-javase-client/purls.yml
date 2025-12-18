@@ -1,0 +1,4 @@
+- pkg:maven/com.lightstreamer/ls-jms-javase-client@1.0.0-alpha-01?classifier=sources
+- pkg:maven/com.lightstreamer/ls-jms-javase-client@1.0.0-alpha-02?classifier=sources
+- pkg:maven/com.lightstreamer/ls-jms-javase-client@1.0.0-alpha-03?classifier=sources
+- pkg:maven/com.lightstreamer/ls-jms-javase-client@1.0.0?classifier=sources

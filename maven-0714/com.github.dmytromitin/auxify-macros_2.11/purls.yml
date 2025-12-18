@@ -10,3 +10,7 @@
 - pkg:maven/com.github.dmytromitin/auxify-macros_2.11@0.5?classifier=sources
 - pkg:maven/com.github.dmytromitin/auxify-macros_2.11@0.6
 - pkg:maven/com.github.dmytromitin/auxify-macros_2.11@0.6?classifier=sources
+- pkg:maven/com.github.dmytromitin/auxify-macros_2.11@0.7
+- pkg:maven/com.github.dmytromitin/auxify-macros_2.11@0.7?classifier=sources
+- pkg:maven/com.github.dmytromitin/auxify-macros_2.11@0.8
+- pkg:maven/com.github.dmytromitin/auxify-macros_2.11@0.8?classifier=sources

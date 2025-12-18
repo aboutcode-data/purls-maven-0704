@@ -1,0 +1,2 @@
+- pkg:maven/com.github.liuhuagui/mybatis-auxiliary@1.0.1
+- pkg:maven/com.github.liuhuagui/mybatis-auxiliary@1.0.1?classifier=sources

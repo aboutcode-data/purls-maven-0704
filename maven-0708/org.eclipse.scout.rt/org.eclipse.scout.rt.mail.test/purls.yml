@@ -1,10 +1,22 @@
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@10.0.14
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@10.0.18
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@10.0.19
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@10.0.2
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@10.0.2-alpha.1
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@10.0.21
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@10.0.26
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@10.0.27
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@10.0.28
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@10.0.3
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@10.0.6
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@10.0.7
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@10.0.8
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@11.0.0-alpha.0
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@11.0.0-alpha.1
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@11.0.0-alpha.2
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@11.0.0-alpha.3
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@11.0.0-alpha.4
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@11.0.0-alpha.5
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@8.0.0.014
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@8.0.0.016_Simrel_2018_09_M2
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@8.0.0.018_Simrel_2018_09_M3
@@ -36,3 +48,4 @@
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@9.0.0.032_Simrel_2019_12_RC1
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@9.0.0.033_Simrel_2019_12
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@9.0.0.034
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@9.0.0.039

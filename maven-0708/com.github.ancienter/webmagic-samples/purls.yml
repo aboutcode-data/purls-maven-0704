@@ -1,0 +1,2 @@
+- pkg:maven/com.github.ancienter/webmagic-samples@v2020.6.17
+- pkg:maven/com.github.ancienter/webmagic-samples@v2020.6.17?classifier=sources

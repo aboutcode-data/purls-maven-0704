@@ -36,3 +36,5 @@
 - pkg:maven/com.labs64.netlicensing/netlicensing-client@2.5.7?classifier=sources
 - pkg:maven/com.labs64.netlicensing/netlicensing-client@2.5.8
 - pkg:maven/com.labs64.netlicensing/netlicensing-client@2.5.8?classifier=sources
+- pkg:maven/com.labs64.netlicensing/netlicensing-client@2.6.0
+- pkg:maven/com.labs64.netlicensing/netlicensing-client@2.6.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.richardinnocent.polysight/polysight-auth-models@0.0.4-ALPHA
+- pkg:maven/org.richardinnocent.polysight/polysight-auth-models@0.0.4-ALPHA?classifier=sources

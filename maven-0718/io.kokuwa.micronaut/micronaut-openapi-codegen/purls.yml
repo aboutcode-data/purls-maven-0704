@@ -1,0 +1,6 @@
+- pkg:maven/io.kokuwa.micronaut/micronaut-openapi-codegen@1.0.0
+- pkg:maven/io.kokuwa.micronaut/micronaut-openapi-codegen@1.0.0?classifier=sources
+- pkg:maven/io.kokuwa.micronaut/micronaut-openapi-codegen@1.1.0
+- pkg:maven/io.kokuwa.micronaut/micronaut-openapi-codegen@1.1.0?classifier=sources
+- pkg:maven/io.kokuwa.micronaut/micronaut-openapi-codegen@1.2.0
+- pkg:maven/io.kokuwa.micronaut/micronaut-openapi-codegen@1.2.0?classifier=sources

@@ -28,3 +28,13 @@
 - pkg:maven/com.sporniket.javabeans/sporniket-javabeans-doclet@20.04.03?classifier=sources
 - pkg:maven/com.sporniket.javabeans/sporniket-javabeans-doclet@20.04.04
 - pkg:maven/com.sporniket.javabeans/sporniket-javabeans-doclet@20.04.04?classifier=sources
+- pkg:maven/com.sporniket.javabeans/sporniket-javabeans-doclet@20.05.00
+- pkg:maven/com.sporniket.javabeans/sporniket-javabeans-doclet@20.05.00?classifier=sources
+- pkg:maven/com.sporniket.javabeans/sporniket-javabeans-doclet@20.05.01
+- pkg:maven/com.sporniket.javabeans/sporniket-javabeans-doclet@20.05.01?classifier=sources
+- pkg:maven/com.sporniket.javabeans/sporniket-javabeans-doclet@20.05.02
+- pkg:maven/com.sporniket.javabeans/sporniket-javabeans-doclet@20.05.02?classifier=sources
+- pkg:maven/com.sporniket.javabeans/sporniket-javabeans-doclet@20.07.00
+- pkg:maven/com.sporniket.javabeans/sporniket-javabeans-doclet@20.07.00?classifier=sources
+- pkg:maven/com.sporniket.javabeans/sporniket-javabeans-doclet@20.07.01
+- pkg:maven/com.sporniket.javabeans/sporniket-javabeans-doclet@20.07.01?classifier=sources

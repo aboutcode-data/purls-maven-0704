@@ -1,0 +1,2 @@
+- pkg:maven/com.taoyuanx/fastdfs-client-java@1.29-RELEASE
+- pkg:maven/com.taoyuanx/fastdfs-client-java@1.29-RELEASE?classifier=sources

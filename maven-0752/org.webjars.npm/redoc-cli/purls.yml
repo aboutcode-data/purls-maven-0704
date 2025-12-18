@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/redoc-cli@0.9.8
+- pkg:maven/org.webjars.npm/redoc-cli@0.9.8?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.couchbase.client/couchbase-encryption@3.0.0-pre.1
+- pkg:maven/com.couchbase.client/couchbase-encryption@3.0.0-pre.1?classifier=sources

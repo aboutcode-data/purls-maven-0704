@@ -22,5 +22,7 @@
 - pkg:maven/net.corda/corda-jackson@4.3?classifier=sources
 - pkg:maven/net.corda/corda-jackson@4.4
 - pkg:maven/net.corda/corda-jackson@4.4?classifier=sources
+- pkg:maven/net.corda/corda-jackson@4.5
+- pkg:maven/net.corda/corda-jackson@4.5?classifier=sources
 - pkg:maven/net.corda/corda-jackson@corda-3.0
 - pkg:maven/net.corda/corda-jackson@corda-3.0?classifier=sources

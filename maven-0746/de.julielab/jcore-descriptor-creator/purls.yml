@@ -2,3 +2,5 @@
 - pkg:maven/de.julielab/jcore-descriptor-creator@2.3.2?classifier=sources
 - pkg:maven/de.julielab/jcore-descriptor-creator@2.5.0
 - pkg:maven/de.julielab/jcore-descriptor-creator@2.5.0?classifier=sources
+- pkg:maven/de.julielab/jcore-descriptor-creator@2.5.1
+- pkg:maven/de.julielab/jcore-descriptor-creator@2.5.1?classifier=sources

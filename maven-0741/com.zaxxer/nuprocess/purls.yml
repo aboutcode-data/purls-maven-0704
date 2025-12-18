@@ -44,3 +44,5 @@
 - pkg:maven/com.zaxxer/nuprocess@1.2.6?classifier=sources
 - pkg:maven/com.zaxxer/nuprocess@2.0.0
 - pkg:maven/com.zaxxer/nuprocess@2.0.0?classifier=sources
+- pkg:maven/com.zaxxer/nuprocess@2.0.1
+- pkg:maven/com.zaxxer/nuprocess@2.0.1?classifier=sources

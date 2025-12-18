@@ -78,3 +78,5 @@
 - pkg:maven/org.dshops/metrics-raw@0.6.6?classifier=sources
 - pkg:maven/org.dshops/metrics-raw@0.6.7
 - pkg:maven/org.dshops/metrics-raw@0.6.7?classifier=sources
+- pkg:maven/org.dshops/metrics-raw@0.7.0
+- pkg:maven/org.dshops/metrics-raw@0.7.0?classifier=sources

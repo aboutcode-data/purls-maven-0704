@@ -1,1 +1,2 @@
 - pkg:maven/org.bitbucket.draganbjedov/netbeans-csv-editor@3.4.0?classifier=sources
+- pkg:maven/org.bitbucket.draganbjedov/netbeans-csv-editor@3.4.1?classifier=sources

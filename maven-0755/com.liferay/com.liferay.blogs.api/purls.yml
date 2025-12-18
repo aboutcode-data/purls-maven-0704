@@ -34,6 +34,9 @@
 - pkg:maven/com.liferay/com.liferay.blogs.api@3.1.12
 - pkg:maven/com.liferay/com.liferay.blogs.api@3.1.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.api@3.1.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.blogs.api@3.1.13
+- pkg:maven/com.liferay/com.liferay.blogs.api@3.1.13?classifier=sources
+- pkg:maven/com.liferay/com.liferay.blogs.api@3.1.13?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.blogs.api@3.1.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.api@3.1.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.blogs.api@3.1.2
@@ -97,6 +100,9 @@
 - pkg:maven/com.liferay/com.liferay.blogs.api@4.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.api@4.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.blogs.api@4.0.2
+- pkg:maven/com.liferay/com.liferay.blogs.api@4.0.20
+- pkg:maven/com.liferay/com.liferay.blogs.api@4.0.20?classifier=sources
+- pkg:maven/com.liferay/com.liferay.blogs.api@4.0.20?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.blogs.api@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.api@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.blogs.api@4.0.3
@@ -177,6 +183,9 @@
 - pkg:maven/com.liferay/com.liferay.blogs.api@5.2.8
 - pkg:maven/com.liferay/com.liferay.blogs.api@5.2.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.api@5.2.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.blogs.api@5.2.9
+- pkg:maven/com.liferay/com.liferay.blogs.api@5.2.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.blogs.api@5.2.9?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.blogs.api@6.0.1
 - pkg:maven/com.liferay/com.liferay.blogs.api@6.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.api@6.0.1?classifier=sources-commercial
@@ -189,3 +198,15 @@
 - pkg:maven/com.liferay/com.liferay.blogs.api@6.2.0
 - pkg:maven/com.liferay/com.liferay.blogs.api@6.2.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.api@6.2.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.blogs.api@6.3.0
+- pkg:maven/com.liferay/com.liferay.blogs.api@6.3.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.blogs.api@6.3.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.blogs.api@6.3.1
+- pkg:maven/com.liferay/com.liferay.blogs.api@6.3.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.blogs.api@6.3.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.blogs.api@6.3.2
+- pkg:maven/com.liferay/com.liferay.blogs.api@6.3.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.blogs.api@6.3.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.blogs.api@6.3.3
+- pkg:maven/com.liferay/com.liferay.blogs.api@6.3.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.blogs.api@6.3.3?classifier=sources-commercial

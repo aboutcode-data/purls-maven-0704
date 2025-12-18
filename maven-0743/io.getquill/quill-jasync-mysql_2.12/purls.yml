@@ -1,0 +1,2 @@
+- pkg:maven/io.getquill/quill-jasync-mysql_2.12@3.5.2
+- pkg:maven/io.getquill/quill-jasync-mysql_2.12@3.5.2?classifier=sources

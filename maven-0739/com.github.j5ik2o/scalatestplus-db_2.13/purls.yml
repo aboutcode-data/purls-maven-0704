@@ -1,0 +1,2 @@
+- pkg:maven/com.github.j5ik2o/scalatestplus-db_2.13@1.0.17
+- pkg:maven/com.github.j5ik2o/scalatestplus-db_2.13@1.0.17?classifier=sources

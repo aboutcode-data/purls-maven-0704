@@ -7,3 +7,4 @@
 - pkg:maven/org.opencastproject.assemblies/opencast-dist-presentation@8.0?classifier=sources
 - pkg:maven/org.opencastproject.assemblies/opencast-dist-presentation@8.1?classifier=sources
 - pkg:maven/org.opencastproject.assemblies/opencast-dist-presentation@8.3?classifier=sources
+- pkg:maven/org.opencastproject.assemblies/opencast-dist-presentation@8.4?classifier=sources
