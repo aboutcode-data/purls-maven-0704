@@ -12,3 +12,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.intro.quicklinks@1.0.500?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.intro.quicklinks@1.1.0
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.intro.quicklinks@1.1.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.intro.quicklinks@1.1.100
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.intro.quicklinks@1.1.100?classifier=sources

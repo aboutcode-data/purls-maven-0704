@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/octokit__openapi-types@6.0.0
 - pkg:maven/org.webjars.npm/octokit__openapi-types@6.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/octokit__openapi-types@7.3.5
+- pkg:maven/org.webjars.npm/octokit__openapi-types@7.3.5?classifier=sources

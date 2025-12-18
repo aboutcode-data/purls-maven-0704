@@ -1,0 +1,6 @@
+- pkg:maven/ky.korins/blake3_3@2.5.2
+- pkg:maven/ky.korins/blake3_3@2.5.2?classifier=sources
+- pkg:maven/ky.korins/blake3_3@2.6.0
+- pkg:maven/ky.korins/blake3_3@2.6.0?classifier=sources
+- pkg:maven/ky.korins/blake3_3@2.6.1
+- pkg:maven/ky.korins/blake3_3@2.6.1?classifier=sources

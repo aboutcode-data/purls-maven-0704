@@ -12,6 +12,7 @@
 - pkg:maven/io.smallrye.reactive/reactive-streams-junit5-tck@0.15.0
 - pkg:maven/io.smallrye.reactive/reactive-streams-junit5-tck@0.16.0
 - pkg:maven/io.smallrye.reactive/reactive-streams-junit5-tck@0.17.0
+- pkg:maven/io.smallrye.reactive/reactive-streams-junit5-tck@0.18.0
 - pkg:maven/io.smallrye.reactive/reactive-streams-junit5-tck@0.8.0
 - pkg:maven/io.smallrye.reactive/reactive-streams-junit5-tck@0.8.1
 - pkg:maven/io.smallrye.reactive/reactive-streams-junit5-tck@0.9.0

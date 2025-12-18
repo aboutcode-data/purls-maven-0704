@@ -1,4 +1,5 @@
 - pkg:maven/org.jboss.arquillian.testenricher/arquillian-testenricher-resource-jakarta@1.7.0.Alpha1
+- pkg:maven/org.jboss.arquillian.testenricher/arquillian-testenricher-resource-jakarta@1.7.0.Alpha10?classifier=sources
 - pkg:maven/org.jboss.arquillian.testenricher/arquillian-testenricher-resource-jakarta@1.7.0.Alpha1?classifier=sources
 - pkg:maven/org.jboss.arquillian.testenricher/arquillian-testenricher-resource-jakarta@1.7.0.Alpha2
 - pkg:maven/org.jboss.arquillian.testenricher/arquillian-testenricher-resource-jakarta@1.7.0.Alpha2?classifier=sources

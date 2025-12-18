@@ -6,6 +6,8 @@
 - pkg:maven/org.openurp.edu.extern/openurp-edu-extern-webapp@0.0.12?type=war
 - pkg:maven/org.openurp.edu.extern/openurp-edu-extern-webapp@0.0.13?classifier=sources
 - pkg:maven/org.openurp.edu.extern/openurp-edu-extern-webapp@0.0.13?type=war
+- pkg:maven/org.openurp.edu.extern/openurp-edu-extern-webapp@0.0.14?classifier=sources
+- pkg:maven/org.openurp.edu.extern/openurp-edu-extern-webapp@0.0.14?type=war
 - pkg:maven/org.openurp.edu.extern/openurp-edu-extern-webapp@0.0.1?classifier=sources
 - pkg:maven/org.openurp.edu.extern/openurp-edu-extern-webapp@0.0.1?type=war
 - pkg:maven/org.openurp.edu.extern/openurp-edu-extern-webapp@0.0.2?classifier=sources

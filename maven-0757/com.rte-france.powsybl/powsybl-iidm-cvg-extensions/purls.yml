@@ -30,3 +30,5 @@
 - pkg:maven/com.rte-france.powsybl/powsybl-iidm-cvg-extensions@2.9.1
 - pkg:maven/com.rte-france.powsybl/powsybl-iidm-cvg-extensions@3.0.0
 - pkg:maven/com.rte-france.powsybl/powsybl-iidm-cvg-extensions@3.1.0
+- pkg:maven/com.rte-france.powsybl/powsybl-iidm-cvg-extensions@3.2.0
+- pkg:maven/com.rte-france.powsybl/powsybl-iidm-cvg-extensions@3.3.0-alpha-1

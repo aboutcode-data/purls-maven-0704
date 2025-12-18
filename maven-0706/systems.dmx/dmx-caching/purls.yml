@@ -1,0 +1,2 @@
+- pkg:maven/systems.dmx/dmx-caching@5.2
+- pkg:maven/systems.dmx/dmx-caching@5.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.typelevel/cats-testkit-scalatest_sjs1_3@2.1.5
+- pkg:maven/org.typelevel/cats-testkit-scalatest_sjs1_3@2.1.5?classifier=sources

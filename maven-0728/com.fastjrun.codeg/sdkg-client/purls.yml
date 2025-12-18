@@ -14,3 +14,5 @@
 - pkg:maven/com.fastjrun.codeg/sdkg-client@2.1.5
 - pkg:maven/com.fastjrun.codeg/sdkg-client@2.1.5?classifier=sources
 - pkg:maven/com.fastjrun.codeg/sdkg-client@2.1?classifier=sources
+- pkg:maven/com.fastjrun.codeg/sdkg-client@3.0
+- pkg:maven/com.fastjrun.codeg/sdkg-client@3.0?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/com.simbachain/libsimba4j-platform@0.1.10
 - pkg:maven/com.simbachain/libsimba4j-platform@0.1.10?classifier=sources
+- pkg:maven/com.simbachain/libsimba4j-platform@0.1.11
+- pkg:maven/com.simbachain/libsimba4j-platform@0.1.11?classifier=sources
+- pkg:maven/com.simbachain/libsimba4j-platform@0.1.12
+- pkg:maven/com.simbachain/libsimba4j-platform@0.1.12?classifier=sources

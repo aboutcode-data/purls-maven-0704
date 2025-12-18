@@ -2,3 +2,5 @@
 - pkg:maven/com.mantledillusion.metrics/trail-metrics-adaptor-influxdb@1.0.0?classifier=sources
 - pkg:maven/com.mantledillusion.metrics/trail-metrics-adaptor-influxdb@2.0.0.BETA1
 - pkg:maven/com.mantledillusion.metrics/trail-metrics-adaptor-influxdb@2.0.0.BETA1?classifier=sources
+- pkg:maven/com.mantledillusion.metrics/trail-metrics-adaptor-influxdb@2.0.0.BETA2
+- pkg:maven/com.mantledillusion.metrics/trail-metrics-adaptor-influxdb@2.0.0.BETA2?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/com.michael-bull.kotlin-result/kotlin-result-coroutines-jvm@1.1.10?classifier=sources
 - pkg:maven/com.michael-bull.kotlin-result/kotlin-result-coroutines-jvm@1.1.11?classifier=sources
+- pkg:maven/com.michael-bull.kotlin-result/kotlin-result-coroutines-jvm@1.1.12?classifier=sources
 - pkg:maven/com.michael-bull.kotlin-result/kotlin-result-coroutines-jvm@1.1.9?classifier=sources

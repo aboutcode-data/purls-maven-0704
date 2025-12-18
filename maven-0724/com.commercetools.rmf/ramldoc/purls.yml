@@ -30,3 +30,11 @@
 - pkg:maven/com.commercetools.rmf/ramldoc@1.0.0-20210427201058?classifier=sources
 - pkg:maven/com.commercetools.rmf/ramldoc@1.0.0-20210430115101?classifier=sources
 - pkg:maven/com.commercetools.rmf/ramldoc@1.0.0-20210506191811?classifier=sources
+- pkg:maven/com.commercetools.rmf/ramldoc@1.0.0-20210507202614?classifier=sources
+- pkg:maven/com.commercetools.rmf/ramldoc@1.0.0-20210511072257?classifier=sources
+- pkg:maven/com.commercetools.rmf/ramldoc@1.0.0-20210511121759?classifier=sources
+- pkg:maven/com.commercetools.rmf/ramldoc@1.0.0-20210621132028?classifier=sources
+- pkg:maven/com.commercetools.rmf/ramldoc@1.0.0-20210621151315?classifier=sources
+- pkg:maven/com.commercetools.rmf/ramldoc@1.0.0-20210622124436?classifier=sources
+- pkg:maven/com.commercetools.rmf/ramldoc@1.0.0-20210625150639?classifier=sources
+- pkg:maven/com.commercetools.rmf/ramldoc@1.0.0-20210625173218?classifier=sources

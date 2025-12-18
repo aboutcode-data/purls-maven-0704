@@ -11,3 +11,4 @@
 - pkg:maven/org.sklsft.generator/generator-tests@3.3.0
 - pkg:maven/org.sklsft.generator/generator-tests@3.4.0
 - pkg:maven/org.sklsft.generator/generator-tests@3.5.0
+- pkg:maven/org.sklsft.generator/generator-tests@3.5.1

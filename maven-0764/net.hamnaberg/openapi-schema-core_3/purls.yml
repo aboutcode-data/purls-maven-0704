@@ -1,0 +1,2 @@
+- pkg:maven/net.hamnaberg/openapi-schema-core_3@0.3.0-M2
+- pkg:maven/net.hamnaberg/openapi-schema-core_3@0.3.0-M2?classifier=sources

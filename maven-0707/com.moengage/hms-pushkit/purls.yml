@@ -3,3 +3,4 @@
 - pkg:maven/com.moengage/hms-pushkit@2.0.01?type=aar
 - pkg:maven/com.moengage/hms-pushkit@2.0.02?classifier=sources
 - pkg:maven/com.moengage/hms-pushkit@2.1.00?classifier=sources
+- pkg:maven/com.moengage/hms-pushkit@2.2.00?classifier=sources

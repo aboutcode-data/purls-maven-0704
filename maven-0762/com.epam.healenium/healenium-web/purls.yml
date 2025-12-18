@@ -11,3 +11,5 @@
 - pkg:maven/com.epam.healenium/healenium-web@3.0.3-beta-7?classifier=sources
 - pkg:maven/com.epam.healenium/healenium-web@3.0.3-beta-8
 - pkg:maven/com.epam.healenium/healenium-web@3.0.3-beta-8?classifier=sources
+- pkg:maven/com.epam.healenium/healenium-web@3.1
+- pkg:maven/com.epam.healenium/healenium-web@3.1?classifier=sources

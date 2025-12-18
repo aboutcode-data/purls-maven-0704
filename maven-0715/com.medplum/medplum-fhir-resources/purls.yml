@@ -1,0 +1,4 @@
+- pkg:maven/com.medplum/medplum-fhir-resources@0.0.11
+- pkg:maven/com.medplum/medplum-fhir-resources@0.0.11?classifier=sources
+- pkg:maven/com.medplum/medplum-fhir-resources@0.0.17
+- pkg:maven/com.medplum/medplum-fhir-resources@0.0.17?classifier=sources

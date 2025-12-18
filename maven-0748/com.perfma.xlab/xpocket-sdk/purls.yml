@@ -1,0 +1,2 @@
+- pkg:maven/com.perfma.xlab/xpocket-sdk@2.1.0-RELEASE
+- pkg:maven/com.perfma.xlab/xpocket-sdk@2.1.0-RELEASE?classifier=sources

@@ -1,3 +1,7 @@
 - pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-hangamejpemail@2.21.0?type=aar
 - pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-hangamejpemail@2.21.1?type=aar
 - pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-hangamejpemail@2.21.2?type=aar
+- pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-hangamejpemail@2.21.3?type=aar
+- pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-hangamejpemail@2.22.0?type=aar
+- pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-hangamejpemail@2.23.0?type=aar
+- pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-hangamejpemail@2.24.0?type=aar

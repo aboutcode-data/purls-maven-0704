@@ -28,6 +28,9 @@
 - pkg:maven/org.optaplanner/optaplanner-spring-boot-starter@7.51.0.Final
 - pkg:maven/org.optaplanner/optaplanner-spring-boot-starter@7.52.0.Final
 - pkg:maven/org.optaplanner/optaplanner-spring-boot-starter@7.53.0.Final
+- pkg:maven/org.optaplanner/optaplanner-spring-boot-starter@7.54.0.Final
+- pkg:maven/org.optaplanner/optaplanner-spring-boot-starter@7.55.0.Final
+- pkg:maven/org.optaplanner/optaplanner-spring-boot-starter@7.56.0.Final
 - pkg:maven/org.optaplanner/optaplanner-spring-boot-starter@8.0.0.Beta1
 - pkg:maven/org.optaplanner/optaplanner-spring-boot-starter@8.0.0.Final
 - pkg:maven/org.optaplanner/optaplanner-spring-boot-starter@8.1.0.Final
@@ -37,3 +40,4 @@
 - pkg:maven/org.optaplanner/optaplanner-spring-boot-starter@8.4.1.Final
 - pkg:maven/org.optaplanner/optaplanner-spring-boot-starter@8.5.0.Final
 - pkg:maven/org.optaplanner/optaplanner-spring-boot-starter@8.6.0.Final
+- pkg:maven/org.optaplanner/optaplanner-spring-boot-starter@8.7.0.Final

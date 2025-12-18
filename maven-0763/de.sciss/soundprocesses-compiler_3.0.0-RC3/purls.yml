@@ -1,2 +1,4 @@
 - pkg:maven/de.sciss/soundprocesses-compiler_3.0.0-RC3@4.7.4
 - pkg:maven/de.sciss/soundprocesses-compiler_3.0.0-RC3@4.7.4?classifier=sources
+- pkg:maven/de.sciss/soundprocesses-compiler_3.0.0-RC3@4.7.5
+- pkg:maven/de.sciss/soundprocesses-compiler_3.0.0-RC3@4.7.5?classifier=sources

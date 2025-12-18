@@ -4,3 +4,5 @@
 - pkg:maven/org.scalameta/mdoc_3.0.0-RC1@2.2.19?classifier=sources
 - pkg:maven/org.scalameta/mdoc_3.0.0-RC1@2.2.20
 - pkg:maven/org.scalameta/mdoc_3.0.0-RC1@2.2.20?classifier=sources
+- pkg:maven/org.scalameta/mdoc_3.0.0-RC1@2.2.21
+- pkg:maven/org.scalameta/mdoc_3.0.0-RC1@2.2.21?classifier=sources

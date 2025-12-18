@@ -34,3 +34,9 @@
 - pkg:maven/org.dellroad/dellroad-stuff-spring@2.4.5?classifier=sources
 - pkg:maven/org.dellroad/dellroad-stuff-spring@2.4.6
 - pkg:maven/org.dellroad/dellroad-stuff-spring@2.4.6?classifier=sources
+- pkg:maven/org.dellroad/dellroad-stuff-spring@2.4.7
+- pkg:maven/org.dellroad/dellroad-stuff-spring@2.4.7?classifier=sources
+- pkg:maven/org.dellroad/dellroad-stuff-spring@2.4.8
+- pkg:maven/org.dellroad/dellroad-stuff-spring@2.4.8?classifier=sources
+- pkg:maven/org.dellroad/dellroad-stuff-spring@2.4.9
+- pkg:maven/org.dellroad/dellroad-stuff-spring@2.4.9?classifier=sources

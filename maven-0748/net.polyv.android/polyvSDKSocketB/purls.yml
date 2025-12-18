@@ -1,0 +1,2 @@
+- pkg:maven/net.polyv.android/polyvSDKSocketB@1.2.2.2?classifier=sources
+- pkg:maven/net.polyv.android/polyvSDKSocketB@1.2.2.2?type=aar

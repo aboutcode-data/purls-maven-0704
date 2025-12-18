@@ -1,0 +1,6 @@
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/kugou_remote@1010?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/kugou_remote@1010?type=aar
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/kugou_remote@1011?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/kugou_remote@1011?type=aar
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/kugou_remote@1012?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/kugou_remote@1012?type=aar

@@ -74,6 +74,12 @@
 - pkg:maven/com.github.shynixn.petblocks/petblocks-bukkit-plugin@8.22.1?classifier=sources
 - pkg:maven/com.github.shynixn.petblocks/petblocks-bukkit-plugin@8.23.0
 - pkg:maven/com.github.shynixn.petblocks/petblocks-bukkit-plugin@8.23.0?classifier=sources
+- pkg:maven/com.github.shynixn.petblocks/petblocks-bukkit-plugin@8.26.0
+- pkg:maven/com.github.shynixn.petblocks/petblocks-bukkit-plugin@8.26.0?classifier=sources
+- pkg:maven/com.github.shynixn.petblocks/petblocks-bukkit-plugin@8.26.1
+- pkg:maven/com.github.shynixn.petblocks/petblocks-bukkit-plugin@8.26.1?classifier=sources
+- pkg:maven/com.github.shynixn.petblocks/petblocks-bukkit-plugin@8.26.2
+- pkg:maven/com.github.shynixn.petblocks/petblocks-bukkit-plugin@8.26.2?classifier=sources
 - pkg:maven/com.github.shynixn.petblocks/petblocks-bukkit-plugin@8.3.0
 - pkg:maven/com.github.shynixn.petblocks/petblocks-bukkit-plugin@8.3.0?classifier=sources
 - pkg:maven/com.github.shynixn.petblocks/petblocks-bukkit-plugin@8.4.0

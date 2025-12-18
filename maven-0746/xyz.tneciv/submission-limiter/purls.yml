@@ -2,6 +2,8 @@
 - pkg:maven/xyz.tneciv/submission-limiter@1.0.0?classifier=sources
 - pkg:maven/xyz.tneciv/submission-limiter@1.0.1
 - pkg:maven/xyz.tneciv/submission-limiter@1.0.1?classifier=sources
+- pkg:maven/xyz.tneciv/submission-limiter@Han.SR1
+- pkg:maven/xyz.tneciv/submission-limiter@Han.SR1?classifier=sources
 - pkg:maven/xyz.tneciv/submission-limiter@Qin.RC1
 - pkg:maven/xyz.tneciv/submission-limiter@Qin.RC1?classifier=sources
 - pkg:maven/xyz.tneciv/submission-limiter@Qin.RC3

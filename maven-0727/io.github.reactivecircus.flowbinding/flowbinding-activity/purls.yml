@@ -16,3 +16,4 @@
 - pkg:maven/io.github.reactivecircus.flowbinding/flowbinding-activity@1.0.0-beta01?classifier=sources
 - pkg:maven/io.github.reactivecircus.flowbinding/flowbinding-activity@1.0.0-beta02?classifier=sources
 - pkg:maven/io.github.reactivecircus.flowbinding/flowbinding-activity@1.0.0?classifier=sources
+- pkg:maven/io.github.reactivecircus.flowbinding/flowbinding-activity@1.1.0?classifier=sources

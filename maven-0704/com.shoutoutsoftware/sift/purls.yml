@@ -1,0 +1,2 @@
+- pkg:maven/com.shoutoutsoftware/sift@0.0.10
+- pkg:maven/com.shoutoutsoftware/sift@0.0.10?classifier=sources

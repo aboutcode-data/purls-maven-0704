@@ -46,3 +46,5 @@
 - pkg:maven/com.helger.peppol/peppol-testfiles@8.5.2?classifier=sources
 - pkg:maven/com.helger.peppol/peppol-testfiles@8.6.0
 - pkg:maven/com.helger.peppol/peppol-testfiles@8.6.0?classifier=sources
+- pkg:maven/com.helger.peppol/peppol-testfiles@8.6.1
+- pkg:maven/com.helger.peppol/peppol-testfiles@8.6.1?classifier=sources

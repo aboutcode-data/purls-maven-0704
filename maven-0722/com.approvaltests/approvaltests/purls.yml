@@ -24,6 +24,16 @@
 - pkg:maven/com.approvaltests/approvaltests@11.2.2?type=zip
 - pkg:maven/com.approvaltests/approvaltests@11.2.3?classifier=sources
 - pkg:maven/com.approvaltests/approvaltests@11.2.3?type=zip
+- pkg:maven/com.approvaltests/approvaltests@11.3.0?classifier=sources
+- pkg:maven/com.approvaltests/approvaltests@11.3.0?type=zip
+- pkg:maven/com.approvaltests/approvaltests@11.4.0?classifier=sources
+- pkg:maven/com.approvaltests/approvaltests@11.4.0?type=zip
+- pkg:maven/com.approvaltests/approvaltests@11.5.0?classifier=sources
+- pkg:maven/com.approvaltests/approvaltests@11.5.0?type=zip
+- pkg:maven/com.approvaltests/approvaltests@11.6.0?classifier=sources
+- pkg:maven/com.approvaltests/approvaltests@11.6.0?type=zip
+- pkg:maven/com.approvaltests/approvaltests@11.7.0?classifier=sources
+- pkg:maven/com.approvaltests/approvaltests@11.7.0?type=zip
 - pkg:maven/com.approvaltests/approvaltests@2.0.0?classifier=sources
 - pkg:maven/com.approvaltests/approvaltests@2.0.0?type=zip
 - pkg:maven/com.approvaltests/approvaltests@2.0.1?classifier=sources

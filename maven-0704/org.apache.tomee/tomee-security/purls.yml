@@ -15,3 +15,5 @@
 - pkg:maven/org.apache.tomee/tomee-security@8.0.5?classifier=sources
 - pkg:maven/org.apache.tomee/tomee-security@8.0.6
 - pkg:maven/org.apache.tomee/tomee-security@8.0.6?classifier=sources
+- pkg:maven/org.apache.tomee/tomee-security@8.0.7
+- pkg:maven/org.apache.tomee/tomee-security@8.0.7?classifier=sources

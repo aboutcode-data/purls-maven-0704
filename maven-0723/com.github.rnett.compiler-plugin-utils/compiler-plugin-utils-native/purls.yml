@@ -1,0 +1,2 @@
+- pkg:maven/com.github.rnett.compiler-plugin-utils/compiler-plugin-utils-native@1.0.0?classifier=sources
+- pkg:maven/com.github.rnett.compiler-plugin-utils/compiler-plugin-utils-native@1.0.1?classifier=sources

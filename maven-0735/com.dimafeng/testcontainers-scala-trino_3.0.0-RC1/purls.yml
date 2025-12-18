@@ -1,0 +1,2 @@
+- pkg:maven/com.dimafeng/testcontainers-scala-trino_3.0.0-RC1@0.39.4
+- pkg:maven/com.dimafeng/testcontainers-scala-trino_3.0.0-RC1@0.39.4?classifier=sources

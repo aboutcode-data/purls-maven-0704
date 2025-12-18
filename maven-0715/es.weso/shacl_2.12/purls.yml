@@ -1,0 +1,2 @@
+- pkg:maven/es.weso/shacl_2.12@0.1.75
+- pkg:maven/es.weso/shacl_2.12@0.1.75?classifier=sources

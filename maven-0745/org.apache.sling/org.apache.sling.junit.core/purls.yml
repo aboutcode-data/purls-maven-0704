@@ -46,3 +46,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.junit.core@1.1.2
 - pkg:maven/org.apache.sling/org.apache.sling.junit.core@1.1.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.junit.core@1.1.2?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.junit.core@1.1.6
+- pkg:maven/org.apache.sling/org.apache.sling.junit.core@1.1.6?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.junit.core@1.1.6?classifier=sources

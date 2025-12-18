@@ -8,3 +8,7 @@
 - pkg:maven/org.webjars.npm/intro.js@2.7.0?classifier=sources
 - pkg:maven/org.webjars.npm/intro.js@2.9.3
 - pkg:maven/org.webjars.npm/intro.js@2.9.3?classifier=sources
+- pkg:maven/org.webjars.npm/intro.js@3.4.0
+- pkg:maven/org.webjars.npm/intro.js@3.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/intro.js@4.1.0
+- pkg:maven/org.webjars.npm/intro.js@4.1.0?classifier=sources

@@ -14,3 +14,15 @@
 - pkg:maven/jp.igapyon.oiyokan/oiyokan@1.13.20210509a?classifier=sources
 - pkg:maven/jp.igapyon.oiyokan/oiyokan@1.14.20210510a
 - pkg:maven/jp.igapyon.oiyokan/oiyokan@1.14.20210510a?classifier=sources
+- pkg:maven/jp.igapyon.oiyokan/oiyokan@1.15.20210519b
+- pkg:maven/jp.igapyon.oiyokan/oiyokan@1.15.20210519b?classifier=sources
+- pkg:maven/jp.igapyon.oiyokan/oiyokan@1.16.20210522a
+- pkg:maven/jp.igapyon.oiyokan/oiyokan@1.16.20210522a?classifier=sources
+- pkg:maven/jp.igapyon.oiyokan/oiyokan@1.17.20210525e
+- pkg:maven/jp.igapyon.oiyokan/oiyokan@1.17.20210525e?classifier=sources
+- pkg:maven/jp.igapyon.oiyokan/oiyokan@1.18.20210526a
+- pkg:maven/jp.igapyon.oiyokan/oiyokan@1.18.20210526a?classifier=sources
+- pkg:maven/jp.igapyon.oiyokan/oiyokan@1.19.20210603a
+- pkg:maven/jp.igapyon.oiyokan/oiyokan@1.19.20210603a?classifier=sources
+- pkg:maven/jp.igapyon.oiyokan/oiyokan@1.20.20210613a
+- pkg:maven/jp.igapyon.oiyokan/oiyokan@1.20.20210613a?classifier=sources

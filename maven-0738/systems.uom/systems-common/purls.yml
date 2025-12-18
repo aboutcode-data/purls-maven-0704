@@ -24,3 +24,4 @@
 - pkg:maven/systems.uom/systems-common@2.0.2
 - pkg:maven/systems.uom/systems-common@2.0.2?classifier=sources
 - pkg:maven/systems.uom/systems-common@2.0?classifier=sources
+- pkg:maven/systems.uom/systems-common@2.1?classifier=sources

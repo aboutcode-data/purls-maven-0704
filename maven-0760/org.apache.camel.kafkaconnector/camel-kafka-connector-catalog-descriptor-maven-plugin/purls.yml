@@ -1,3 +1,5 @@
+- pkg:maven/org.apache.camel.kafkaconnector/camel-kafka-connector-catalog-descriptor-maven-plugin@0.10.1
+- pkg:maven/org.apache.camel.kafkaconnector/camel-kafka-connector-catalog-descriptor-maven-plugin@0.10.1?classifier=sources
 - pkg:maven/org.apache.camel.kafkaconnector/camel-kafka-connector-catalog-descriptor-maven-plugin@0.6.0
 - pkg:maven/org.apache.camel.kafkaconnector/camel-kafka-connector-catalog-descriptor-maven-plugin@0.6.0?classifier=sources
 - pkg:maven/org.apache.camel.kafkaconnector/camel-kafka-connector-catalog-descriptor-maven-plugin@0.6.1

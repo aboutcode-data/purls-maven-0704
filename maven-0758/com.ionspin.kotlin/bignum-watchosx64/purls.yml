@@ -4,3 +4,5 @@
 - pkg:maven/com.ionspin.kotlin/bignum-watchosx64@0.2.7?classifier=sources
 - pkg:maven/com.ionspin.kotlin/bignum-watchosx64@0.2.8?classifier=sources
 - pkg:maven/com.ionspin.kotlin/bignum-watchosx64@0.3.0?classifier=sources
+- pkg:maven/com.ionspin.kotlin/bignum-watchosx64@0.3.1-1.4.32?classifier=sources
+- pkg:maven/com.ionspin.kotlin/bignum-watchosx64@0.3.1?classifier=sources

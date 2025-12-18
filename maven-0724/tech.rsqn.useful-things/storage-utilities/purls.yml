@@ -48,3 +48,5 @@
 - pkg:maven/tech.rsqn.useful-things/storage-utilities@1.0.62?classifier=sources
 - pkg:maven/tech.rsqn.useful-things/storage-utilities@1.0.63
 - pkg:maven/tech.rsqn.useful-things/storage-utilities@1.0.63?classifier=sources
+- pkg:maven/tech.rsqn.useful-things/storage-utilities@1.0.64
+- pkg:maven/tech.rsqn.useful-things/storage-utilities@1.0.64?classifier=sources

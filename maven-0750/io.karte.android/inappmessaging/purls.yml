@@ -22,3 +22,5 @@
 - pkg:maven/io.karte.android/inappmessaging@2.8.1?type=aar
 - pkg:maven/io.karte.android/inappmessaging@2.8.2?classifier=sources
 - pkg:maven/io.karte.android/inappmessaging@2.8.2?type=aar
+- pkg:maven/io.karte.android/inappmessaging@2.9.0?classifier=sources
+- pkg:maven/io.karte.android/inappmessaging@2.9.0?type=aar

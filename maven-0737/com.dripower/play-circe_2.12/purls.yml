@@ -22,3 +22,9 @@
 - pkg:maven/com.dripower/play-circe_2.12@2712RC4.0?classifier=sources
 - pkg:maven/com.dripower/play-circe_2.12@2812.0
 - pkg:maven/com.dripower/play-circe_2.12@2812.0?classifier=sources
+- pkg:maven/com.dripower/play-circe_2.12@2813.0
+- pkg:maven/com.dripower/play-circe_2.12@2813.0?classifier=sources
+- pkg:maven/com.dripower/play-circe_2.12@2814.1
+- pkg:maven/com.dripower/play-circe_2.12@2814.1?classifier=sources
+- pkg:maven/com.dripower/play-circe_2.12@2814.2
+- pkg:maven/com.dripower/play-circe_2.12@2814.2?classifier=sources

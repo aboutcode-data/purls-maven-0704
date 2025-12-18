@@ -1,0 +1,4 @@
+- pkg:maven/com.bot4s/telegram-core_2.13@5.0.0
+- pkg:maven/com.bot4s/telegram-core_2.13@5.0.0?classifier=sources
+- pkg:maven/com.bot4s/telegram-core_2.13@5.0.1
+- pkg:maven/com.bot4s/telegram-core_2.13@5.0.1?classifier=sources

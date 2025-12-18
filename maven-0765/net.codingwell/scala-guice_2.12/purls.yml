@@ -28,3 +28,5 @@
 - pkg:maven/net.codingwell/scala-guice_2.12@4.2.9?classifier=sources
 - pkg:maven/net.codingwell/scala-guice_2.12@5.0.0
 - pkg:maven/net.codingwell/scala-guice_2.12@5.0.0?classifier=sources
+- pkg:maven/net.codingwell/scala-guice_2.12@5.0.1
+- pkg:maven/net.codingwell/scala-guice_2.12@5.0.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.wangkh.moduler/XStarter-compiler@1.0.0-alpha02
+- pkg:maven/com.wangkh.moduler/XStarter-compiler@1.0.0-alpha02?classifier=sources
+- pkg:maven/com.wangkh.moduler/XStarter-compiler@1.0.0-rc
+- pkg:maven/com.wangkh.moduler/XStarter-compiler@1.0.0-rc?classifier=sources

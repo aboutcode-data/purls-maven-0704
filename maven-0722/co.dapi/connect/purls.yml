@@ -17,3 +17,17 @@
 - pkg:maven/co.dapi/connect@2.1.1?classifier=sources
 - pkg:maven/co.dapi/connect@2.2.0?classifier=sources
 - pkg:maven/co.dapi/connect@2.3.0?classifier=sources
+- pkg:maven/co.dapi/connect@2.4.0?classifier=sources
+- pkg:maven/co.dapi/connect@2.4.1?classifier=sources
+- pkg:maven/co.dapi/connect@2.5.0?classifier=sources
+- pkg:maven/co.dapi/connect@2.6.0?classifier=sources
+- pkg:maven/co.dapi/connect@2.6.1?classifier=sources
+- pkg:maven/co.dapi/connect@2.6.2?classifier=sources
+- pkg:maven/co.dapi/connect@2.6.3?classifier=sources
+- pkg:maven/co.dapi/connect@2.7.0?classifier=sources
+- pkg:maven/co.dapi/connect@2.8.0?classifier=sources
+- pkg:maven/co.dapi/connect@2.8.1?classifier=sources
+- pkg:maven/co.dapi/connect@2.8.2?classifier=sources
+- pkg:maven/co.dapi/connect@2.8.3?classifier=sources
+- pkg:maven/co.dapi/connect@2.8.4?classifier=sources
+- pkg:maven/co.dapi/connect@2.9.0?classifier=sources

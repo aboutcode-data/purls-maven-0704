@@ -3,3 +3,5 @@
 - pkg:maven/com.highstreet-technologies.aaa/aaa-shiro@0.12.3?classifier=sources
 - pkg:maven/com.highstreet-technologies.aaa/aaa-shiro@0.13.2
 - pkg:maven/com.highstreet-technologies.aaa/aaa-shiro@0.13.2?classifier=sources
+- pkg:maven/com.highstreet-technologies.aaa/aaa-shiro@0.13.3
+- pkg:maven/com.highstreet-technologies.aaa/aaa-shiro@0.13.3?classifier=sources

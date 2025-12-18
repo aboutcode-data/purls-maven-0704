@@ -47,6 +47,16 @@
 - pkg:maven/com.github.turasa/signal-service-java@2.15.3_unofficial_19?classifier=sources
 - pkg:maven/com.github.turasa/signal-service-java@2.15.3_unofficial_1?classifier=sources
 - pkg:maven/com.github.turasa/signal-service-java@2.15.3_unofficial_2
+- pkg:maven/com.github.turasa/signal-service-java@2.15.3_unofficial_20
+- pkg:maven/com.github.turasa/signal-service-java@2.15.3_unofficial_20?classifier=sources
+- pkg:maven/com.github.turasa/signal-service-java@2.15.3_unofficial_21
+- pkg:maven/com.github.turasa/signal-service-java@2.15.3_unofficial_21?classifier=sources
+- pkg:maven/com.github.turasa/signal-service-java@2.15.3_unofficial_22
+- pkg:maven/com.github.turasa/signal-service-java@2.15.3_unofficial_22?classifier=sources
+- pkg:maven/com.github.turasa/signal-service-java@2.15.3_unofficial_23
+- pkg:maven/com.github.turasa/signal-service-java@2.15.3_unofficial_23?classifier=sources
+- pkg:maven/com.github.turasa/signal-service-java@2.15.3_unofficial_24
+- pkg:maven/com.github.turasa/signal-service-java@2.15.3_unofficial_24?classifier=sources
 - pkg:maven/com.github.turasa/signal-service-java@2.15.3_unofficial_2?classifier=sources
 - pkg:maven/com.github.turasa/signal-service-java@2.15.3_unofficial_3
 - pkg:maven/com.github.turasa/signal-service-java@2.15.3_unofficial_3?classifier=sources

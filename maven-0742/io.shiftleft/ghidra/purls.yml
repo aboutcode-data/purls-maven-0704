@@ -1,0 +1,4 @@
+- pkg:maven/io.shiftleft/ghidra@10.0_PUBLIC_20210621
+- pkg:maven/io.shiftleft/ghidra@10.0_PUBLIC_20210621?classifier=sources
+- pkg:maven/io.shiftleft/ghidra@9.2_PUBLIC_20201113
+- pkg:maven/io.shiftleft/ghidra@9.2_PUBLIC_20201113?classifier=sources

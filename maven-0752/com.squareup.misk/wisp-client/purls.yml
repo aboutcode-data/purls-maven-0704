@@ -1,2 +1,4 @@
 - pkg:maven/com.squareup.misk/wisp-client@0.17.1
 - pkg:maven/com.squareup.misk/wisp-client@0.17.1?classifier=sources
+- pkg:maven/com.squareup.misk/wisp-client@0.18.0
+- pkg:maven/com.squareup.misk/wisp-client@0.18.0?classifier=sources

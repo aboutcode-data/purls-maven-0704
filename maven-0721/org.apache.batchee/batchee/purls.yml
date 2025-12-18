@@ -4,3 +4,4 @@
 - pkg:maven/org.apache.batchee/batchee@0.4-incubating?classifier=source-release&type=zip
 - pkg:maven/org.apache.batchee/batchee@0.5-incubating?classifier=source-release&type=zip
 - pkg:maven/org.apache.batchee/batchee@0.6?classifier=source-release&type=zip
+- pkg:maven/org.apache.batchee/batchee@1.0.0?classifier=source-release&type=zip

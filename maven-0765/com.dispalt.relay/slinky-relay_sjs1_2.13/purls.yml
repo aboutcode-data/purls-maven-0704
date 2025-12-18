@@ -36,3 +36,5 @@
 - pkg:maven/com.dispalt.relay/slinky-relay_sjs1_2.13@0.25.8?classifier=sources
 - pkg:maven/com.dispalt.relay/slinky-relay_sjs1_2.13@0.25.9
 - pkg:maven/com.dispalt.relay/slinky-relay_sjs1_2.13@0.25.9?classifier=sources
+- pkg:maven/com.dispalt.relay/slinky-relay_sjs1_2.13@0.30.0
+- pkg:maven/com.dispalt.relay/slinky-relay_sjs1_2.13@0.30.0?classifier=sources

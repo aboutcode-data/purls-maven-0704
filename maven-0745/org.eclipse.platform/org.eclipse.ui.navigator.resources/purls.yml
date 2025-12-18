@@ -28,3 +28,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.navigator.resources@3.7.500?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.navigator.resources@3.8.0
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.navigator.resources@3.8.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.navigator.resources@3.8.100
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.navigator.resources@3.8.100?classifier=sources

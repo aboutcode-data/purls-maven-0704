@@ -1,0 +1,2 @@
+- pkg:maven/io.archimedesfw.context/archimedes-context-micronaut@0.0.1
+- pkg:maven/io.archimedesfw.context/archimedes-context-micronaut@0.0.1?classifier=sources

@@ -24,3 +24,5 @@
 - pkg:maven/org.ibissource/ibis-adapterframework-tibco@7.5?classifier=sources
 - pkg:maven/org.ibissource/ibis-adapterframework-tibco@7.6-RC1
 - pkg:maven/org.ibissource/ibis-adapterframework-tibco@7.6-RC1?classifier=sources
+- pkg:maven/org.ibissource/ibis-adapterframework-tibco@7.6-RC2
+- pkg:maven/org.ibissource/ibis-adapterframework-tibco@7.6-RC2?classifier=sources

@@ -3,5 +3,7 @@
 - pkg:maven/com.linkedin.android.litr/litr-filters@1.4.12?classifier=sources
 - pkg:maven/com.linkedin.android.litr/litr-filters@1.4.13?classifier=sources
 - pkg:maven/com.linkedin.android.litr/litr-filters@1.4.14?classifier=sources
+- pkg:maven/com.linkedin.android.litr/litr-filters@1.4.15?classifier=sources
+- pkg:maven/com.linkedin.android.litr/litr-filters@1.4.16?classifier=sources
 - pkg:maven/com.linkedin.android.litr/litr-filters@1.4.8?classifier=sources
 - pkg:maven/com.linkedin.android.litr/litr-filters@1.4.9?classifier=sources

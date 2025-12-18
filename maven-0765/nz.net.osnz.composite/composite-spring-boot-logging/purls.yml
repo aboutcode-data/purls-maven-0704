@@ -12,3 +12,5 @@
 - pkg:maven/nz.net.osnz.composite/composite-spring-boot-logging@5.28
 - pkg:maven/nz.net.osnz.composite/composite-spring-boot-logging@5.29
 - pkg:maven/nz.net.osnz.composite/composite-spring-boot-logging@5.30
+- pkg:maven/nz.net.osnz.composite/composite-spring-boot-logging@6.1.1
+- pkg:maven/nz.net.osnz.composite/composite-spring-boot-logging@6.1.2

@@ -40,6 +40,8 @@
 - pkg:maven/org.opendaylight.controller/netty-event-executor-config@0.13.6?classifier=sources
 - pkg:maven/org.opendaylight.controller/netty-event-executor-config@0.13.7
 - pkg:maven/org.opendaylight.controller/netty-event-executor-config@0.13.7?classifier=sources
+- pkg:maven/org.opendaylight.controller/netty-event-executor-config@0.13.8
+- pkg:maven/org.opendaylight.controller/netty-event-executor-config@0.13.8?classifier=sources
 - pkg:maven/org.opendaylight.controller/netty-event-executor-config@0.14.0
 - pkg:maven/org.opendaylight.controller/netty-event-executor-config@0.14.0?classifier=sources
 - pkg:maven/org.opendaylight.controller/netty-event-executor-config@0.14.1

@@ -1,0 +1,4 @@
+- pkg:maven/com.immomo.litebuild/litebuild-gradle-plugin@0.0.1
+- pkg:maven/com.immomo.litebuild/litebuild-gradle-plugin@0.0.1?classifier=sources
+- pkg:maven/com.immomo.litebuild/litebuild-gradle-plugin@0.1.30
+- pkg:maven/com.immomo.litebuild/litebuild-gradle-plugin@0.1.30?classifier=sources

@@ -34,3 +34,5 @@
 - pkg:maven/org.jboss.da/reports-rest@2.0.1?type=war
 - pkg:maven/org.jboss.da/reports-rest@2.0.4?classifier=sources
 - pkg:maven/org.jboss.da/reports-rest@2.0.4?type=war
+- pkg:maven/org.jboss.da/reports-rest@2.1.0.Api-2?classifier=sources
+- pkg:maven/org.jboss.da/reports-rest@2.1.0.Api-2?type=war

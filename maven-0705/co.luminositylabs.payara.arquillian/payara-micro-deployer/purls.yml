@@ -1,2 +1,8 @@
 - pkg:maven/co.luminositylabs.payara.arquillian/payara-micro-deployer@2.4-ll-20200930.01?classifier=sources
 - pkg:maven/co.luminositylabs.payara.arquillian/payara-micro-deployer@2.4-ll-20200930.01?type=war
+- pkg:maven/co.luminositylabs.payara.arquillian/payara-micro-deployer@2.4.1-ll-20210419.01?classifier=sources
+- pkg:maven/co.luminositylabs.payara.arquillian/payara-micro-deployer@2.4.1-ll-20210419.01?type=war
+- pkg:maven/co.luminositylabs.payara.arquillian/payara-micro-deployer@2.4.2-ll-20210611.01?classifier=sources
+- pkg:maven/co.luminositylabs.payara.arquillian/payara-micro-deployer@2.4.2-ll-20210611.01?type=war
+- pkg:maven/co.luminositylabs.payara.arquillian/payara-micro-deployer@2.4.3-ll-20210626.01?classifier=sources
+- pkg:maven/co.luminositylabs.payara.arquillian/payara-micro-deployer@2.4.3-ll-20210626.01?type=war

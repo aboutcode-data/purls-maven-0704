@@ -1,0 +1,2 @@
+- pkg:maven/io.github.cocomikes/ds-webview@1.1.1?classifier=sources
+- pkg:maven/io.github.cocomikes/ds-webview@1.1.1?type=aar

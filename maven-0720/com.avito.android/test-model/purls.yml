@@ -1,0 +1,2 @@
+- pkg:maven/com.avito.android/test-model@2021.22?classifier=sources
+- pkg:maven/com.avito.android/test-model@2021.23?classifier=sources

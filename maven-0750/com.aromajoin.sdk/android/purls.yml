@@ -1,0 +1,2 @@
+- pkg:maven/com.aromajoin.sdk/android@2.4.4?classifier=sources
+- pkg:maven/com.aromajoin.sdk/android@2.4.5?classifier=sources

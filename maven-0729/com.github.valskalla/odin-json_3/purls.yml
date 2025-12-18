@@ -1,0 +1,2 @@
+- pkg:maven/com.github.valskalla/odin-json_3@0.12.0
+- pkg:maven/com.github.valskalla/odin-json_3@0.12.0?classifier=sources

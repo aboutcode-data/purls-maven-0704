@@ -5,3 +5,4 @@
 - pkg:maven/org.netbeans.external/org-apache-xmlrpc@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.external/org-apache-xmlrpc@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.external/org-apache-xmlrpc@RELEASE123?classifier=sources
+- pkg:maven/org.netbeans.external/org-apache-xmlrpc@RELEASE124?classifier=sources

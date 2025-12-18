@@ -215,3 +215,5 @@
 - pkg:maven/org.webjars.bowergithub.vaadin/vaadin-grid@5.7.8?classifier=sources
 - pkg:maven/org.webjars.bowergithub.vaadin/vaadin-grid@5.7.9
 - pkg:maven/org.webjars.bowergithub.vaadin/vaadin-grid@5.7.9?classifier=sources
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-grid@5.8.0
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-grid@5.8.0?classifier=sources

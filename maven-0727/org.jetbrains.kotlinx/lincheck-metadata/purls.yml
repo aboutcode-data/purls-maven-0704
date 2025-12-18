@@ -1,1 +1,3 @@
 - pkg:maven/org.jetbrains.kotlinx/lincheck-metadata@2.12?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/lincheck-metadata@2.13?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/lincheck-metadata@2.14?classifier=sources

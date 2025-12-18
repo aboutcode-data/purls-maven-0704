@@ -6,3 +6,5 @@
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-deps@3.2.0?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-deps@3.2.1
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-deps@3.2.1?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-deps@3.2.7
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-deps@3.2.7?classifier=sources

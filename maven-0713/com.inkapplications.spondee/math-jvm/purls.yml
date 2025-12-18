@@ -1,1 +1,2 @@
 - pkg:maven/com.inkapplications.spondee/math-jvm@0.0.0?classifier=sources
+- pkg:maven/com.inkapplications.spondee/math-jvm@0.0.3?classifier=sources

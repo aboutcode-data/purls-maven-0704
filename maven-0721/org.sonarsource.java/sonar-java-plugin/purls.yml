@@ -72,3 +72,5 @@
 - pkg:maven/org.sonarsource.java/sonar-java-plugin@6.7.0.23054?classifier=sources
 - pkg:maven/org.sonarsource.java/sonar-java-plugin@6.8.0.23379?classifier=sources
 - pkg:maven/org.sonarsource.java/sonar-java-plugin@6.9.0.23563?classifier=sources
+- pkg:maven/org.sonarsource.java/sonar-java-plugin@7.0.0.26422?classifier=sources
+- pkg:maven/org.sonarsource.java/sonar-java-plugin@7.1.0.26670?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.twitter/util-validator_2.13@21.5.0
+- pkg:maven/com.twitter/util-validator_2.13@21.5.0?classifier=sources
+- pkg:maven/com.twitter/util-validator_2.13@21.6.0
+- pkg:maven/com.twitter/util-validator_2.13@21.6.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.opendaylight.transportpce/odl-transportpce-dmaap-client@3.0.0?classifier=sources
+- pkg:maven/org.opendaylight.transportpce/odl-transportpce-dmaap-client@3.1.0?classifier=sources

@@ -1,1 +1,2 @@
+- pkg:maven/com.akexorcist/localization@1.2.10?classifier=sources
 - pkg:maven/com.akexorcist/localization@1.2.9?classifier=sources

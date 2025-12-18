@@ -5,4 +5,6 @@
 - pkg:maven/com.deepnetts/deepnetts-core@1.12?classifier=sources
 - pkg:maven/com.deepnetts/deepnetts-core@1.13.0
 - pkg:maven/com.deepnetts/deepnetts-core@1.13.0?classifier=sources
+- pkg:maven/com.deepnetts/deepnetts-core@1.13.1
+- pkg:maven/com.deepnetts/deepnetts-core@1.13.1?classifier=sources
 - pkg:maven/com.deepnetts/deepnetts-core@1.1?classifier=sources

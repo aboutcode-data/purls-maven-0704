@@ -16,6 +16,8 @@
 - pkg:maven/com.edmunds/databricks-maven-plugin@1.11.1?classifier=sources
 - pkg:maven/com.edmunds/databricks-maven-plugin@1.11.2
 - pkg:maven/com.edmunds/databricks-maven-plugin@1.11.2?classifier=sources
+- pkg:maven/com.edmunds/databricks-maven-plugin@1.11.3
+- pkg:maven/com.edmunds/databricks-maven-plugin@1.11.3?classifier=sources
 - pkg:maven/com.edmunds/databricks-maven-plugin@1.2.1
 - pkg:maven/com.edmunds/databricks-maven-plugin@1.2.1?classifier=sources
 - pkg:maven/com.edmunds/databricks-maven-plugin@1.3.1

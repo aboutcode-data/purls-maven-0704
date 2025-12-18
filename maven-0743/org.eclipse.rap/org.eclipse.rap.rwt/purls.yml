@@ -108,6 +108,8 @@
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.rwt@3.15.1?classifier=sources
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.rwt@3.16.0
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.rwt@3.16.0?classifier=sources
+- pkg:maven/org.eclipse.rap/org.eclipse.rap.rwt@3.17.0
+- pkg:maven/org.eclipse.rap/org.eclipse.rap.rwt@3.17.0?classifier=sources
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.rwt@3.2.0
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.rwt@3.2.0-M1
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.rwt@3.2.0-M1?classifier=sources

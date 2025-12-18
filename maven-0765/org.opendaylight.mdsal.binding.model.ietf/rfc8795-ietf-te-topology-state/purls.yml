@@ -14,3 +14,5 @@
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8795-ietf-te-topology-state@7.0.6?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8795-ietf-te-topology-state@7.0.7
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8795-ietf-te-topology-state@7.0.7?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8795-ietf-te-topology-state@8.0.0
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8795-ietf-te-topology-state@8.0.0?classifier=sources

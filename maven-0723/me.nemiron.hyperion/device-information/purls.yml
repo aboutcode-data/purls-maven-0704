@@ -1,2 +1,6 @@
 - pkg:maven/me.nemiron.hyperion/device-information@0.1?classifier=sources
 - pkg:maven/me.nemiron.hyperion/device-information@0.1?type=aar
+- pkg:maven/me.nemiron.hyperion/device-information@0.3.1?classifier=sources
+- pkg:maven/me.nemiron.hyperion/device-information@0.3.2?classifier=sources
+- pkg:maven/me.nemiron.hyperion/device-information@0.3.3?classifier=sources
+- pkg:maven/me.nemiron.hyperion/device-information@0.3?classifier=sources

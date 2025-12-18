@@ -1,0 +1,2 @@
+- pkg:maven/io.github.wjiajun/sumk-dubbo-samples-api@2.7.9
+- pkg:maven/io.github.wjiajun/sumk-dubbo-samples-api@2.7.9?classifier=sources

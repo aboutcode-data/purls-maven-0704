@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/ros-cdk-clickhouse@1.0.2
+- pkg:maven/com.aliyun/ros-cdk-clickhouse@1.0.2?classifier=sources

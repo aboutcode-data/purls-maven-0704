@@ -1,0 +1,1 @@
+- pkg:maven/dev.vankka.DependencyDownload/runtime@1.0.0?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/io.fixprotocol.orchestra/interfaces-util@1.6.8?classifier=sources
 - pkg:maven/io.fixprotocol.orchestra/interfaces-util@1.6.9
 - pkg:maven/io.fixprotocol.orchestra/interfaces-util@1.6.9?classifier=sources
+- pkg:maven/io.fixprotocol.orchestra/interfaces-util@1.7.1
+- pkg:maven/io.fixprotocol.orchestra/interfaces-util@1.7.1?classifier=sources
