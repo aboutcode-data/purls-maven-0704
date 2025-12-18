@@ -1,0 +1,3 @@
+- pkg:maven/ink.lodz/mmsplayer@1.0.8?classifier=sources
+- pkg:maven/ink.lodz/mmsplayer@1.0.9?classifier=sources
+- pkg:maven/ink.lodz/mmsplayer@1.1.0?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/com.github.hachimann/material-calendarview@0.0.3?type=aar
 - pkg:maven/com.github.hachimann/material-calendarview@0.0.4?classifier=sources
 - pkg:maven/com.github.hachimann/material-calendarview@0.0.4?type=aar
+- pkg:maven/com.github.hachimann/material-calendarview@0.0.9?classifier=sources
+- pkg:maven/com.github.hachimann/material-calendarview@0.0.9?type=aar

@@ -241,3 +241,4 @@
 - pkg:maven/org.springframework.data/spring-data-gemfire@2.3.6.RELEASE
 - pkg:maven/org.springframework.data/spring-data-gemfire@2.3.7.RELEASE
 - pkg:maven/org.springframework.data/spring-data-gemfire@2.3.8.RELEASE
+- pkg:maven/org.springframework.data/spring-data-gemfire@2.3.9.RELEASE

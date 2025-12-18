@@ -1,0 +1,2 @@
+- pkg:maven/pl.datart/http4s-timer-core_3.0.0-RC1@0.1.13-RC2
+- pkg:maven/pl.datart/http4s-timer-core_3.0.0-RC1@0.1.13-RC2?classifier=sources

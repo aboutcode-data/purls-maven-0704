@@ -23,3 +23,5 @@
 - pkg:maven/com.moengage/moengage-segment-integration@5.0.00?type=aar
 - pkg:maven/com.moengage/moengage-segment-integration@5.0.01?classifier=sources
 - pkg:maven/com.moengage/moengage-segment-integration@5.1.00?classifier=sources
+- pkg:maven/com.moengage/moengage-segment-integration@5.1.01?classifier=sources
+- pkg:maven/com.moengage/moengage-segment-integration@5.2.00?classifier=sources

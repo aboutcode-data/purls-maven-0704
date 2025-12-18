@@ -98,6 +98,10 @@
 - pkg:maven/org.kie/jbpm-spring-boot-sample-basic@7.50.0.Final?classifier=sources
 - pkg:maven/org.kie/jbpm-spring-boot-sample-basic@7.51.0.Final
 - pkg:maven/org.kie/jbpm-spring-boot-sample-basic@7.51.0.Final?classifier=sources
+- pkg:maven/org.kie/jbpm-spring-boot-sample-basic@7.52.0.Final
+- pkg:maven/org.kie/jbpm-spring-boot-sample-basic@7.52.0.Final?classifier=sources
+- pkg:maven/org.kie/jbpm-spring-boot-sample-basic@7.53.0.Final
+- pkg:maven/org.kie/jbpm-spring-boot-sample-basic@7.53.0.Final?classifier=sources
 - pkg:maven/org.kie/jbpm-spring-boot-sample-basic@7.6.0.Final
 - pkg:maven/org.kie/jbpm-spring-boot-sample-basic@7.6.0.Final?classifier=sources
 - pkg:maven/org.kie/jbpm-spring-boot-sample-basic@7.7.0.Final

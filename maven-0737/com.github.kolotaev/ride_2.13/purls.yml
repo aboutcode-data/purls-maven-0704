@@ -1,0 +1,2 @@
+- pkg:maven/com.github.kolotaev/ride_2.13@1.1.1
+- pkg:maven/com.github.kolotaev/ride_2.13@1.1.1?classifier=sources

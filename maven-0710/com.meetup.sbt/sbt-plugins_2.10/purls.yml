@@ -1,0 +1,2 @@
+- pkg:maven/com.meetup.sbt/sbt-plugins_2.10@0.1.11
+- pkg:maven/com.meetup.sbt/sbt-plugins_2.10@0.1.11?classifier=sources

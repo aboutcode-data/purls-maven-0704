@@ -10,6 +10,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.data.integration.talend@2.0.12
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.data.integration.talend@2.0.12?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.data.integration.talend@2.0.12?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.data.integration.talend@2.0.13
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.data.integration.talend@2.0.13?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.data.integration.talend@2.0.13?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.data.integration.talend@2.0.8
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.data.integration.talend@2.0.8?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.data.integration.talend@2.0.8?classifier=sources-commercial
@@ -31,6 +34,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.data.integration.talend@3.0.7
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.data.integration.talend@3.0.7?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.data.integration.talend@3.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.data.integration.talend@3.0.8
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.data.integration.talend@3.0.8?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.data.integration.talend@3.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.data.integration.talend@4.0.13
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.data.integration.talend@4.0.13?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.data.integration.talend@4.0.13?classifier=sources-commercial

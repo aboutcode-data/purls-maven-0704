@@ -1,0 +1,4 @@
+- pkg:maven/org.mapyrus/mapyrus@2.105
+- pkg:maven/org.mapyrus/mapyrus@2.105?classifier=sources
+- pkg:maven/org.mapyrus/mapyrus@2.106
+- pkg:maven/org.mapyrus/mapyrus@2.106?classifier=sources

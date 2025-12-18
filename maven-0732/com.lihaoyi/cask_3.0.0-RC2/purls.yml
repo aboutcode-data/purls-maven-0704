@@ -1,0 +1,2 @@
+- pkg:maven/com.lihaoyi/cask_3.0.0-RC2@0.7.9
+- pkg:maven/com.lihaoyi/cask_3.0.0-RC2@0.7.9?classifier=sources

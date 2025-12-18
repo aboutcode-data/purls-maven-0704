@@ -1,0 +1,4 @@
+- pkg:maven/com.notifyvisitors.notifyvisitors/notifyvisitors@v28-5.1.6?classifier=sources
+- pkg:maven/com.notifyvisitors.notifyvisitors/notifyvisitors@v28-5.1.6?type=aar
+- pkg:maven/com.notifyvisitors.notifyvisitors/notifyvisitors@v29-5.0.11?classifier=sources
+- pkg:maven/com.notifyvisitors.notifyvisitors/notifyvisitors@v29-5.0.11?type=aar

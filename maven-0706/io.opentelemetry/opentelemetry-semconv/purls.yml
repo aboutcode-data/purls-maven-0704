@@ -8,3 +8,5 @@
 - pkg:maven/io.opentelemetry/opentelemetry-semconv@0.17.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-semconv@1.0.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-semconv@1.0.1-alpha?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-semconv@1.1.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-semconv@1.2.0-alpha?classifier=sources

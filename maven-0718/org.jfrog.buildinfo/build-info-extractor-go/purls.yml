@@ -1,0 +1,2 @@
+- pkg:maven/org.jfrog.buildinfo/build-info-extractor-go@2.25.4
+- pkg:maven/org.jfrog.buildinfo/build-info-extractor-go@2.25.4?classifier=sources

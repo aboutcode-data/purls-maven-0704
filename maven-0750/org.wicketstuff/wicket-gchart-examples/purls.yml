@@ -14,6 +14,8 @@
 - pkg:maven/org.wicketstuff/wicket-gchart-examples@7.16.0?type=war
 - pkg:maven/org.wicketstuff/wicket-gchart-examples@7.17.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicket-gchart-examples@7.17.0?type=war
+- pkg:maven/org.wicketstuff/wicket-gchart-examples@7.18.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicket-gchart-examples@7.18.0?type=war
 - pkg:maven/org.wicketstuff/wicket-gchart-examples@7.9.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicket-gchart-examples@7.9.0?type=war
 - pkg:maven/org.wicketstuff/wicket-gchart-examples@8.0.0-M8?classifier=sources
@@ -28,6 +30,8 @@
 - pkg:maven/org.wicketstuff/wicket-gchart-examples@8.10.0?type=war
 - pkg:maven/org.wicketstuff/wicket-gchart-examples@8.11.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicket-gchart-examples@8.11.0?type=war
+- pkg:maven/org.wicketstuff/wicket-gchart-examples@8.12.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicket-gchart-examples@8.12.0?type=war
 - pkg:maven/org.wicketstuff/wicket-gchart-examples@8.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicket-gchart-examples@8.2.0?type=war
 - pkg:maven/org.wicketstuff/wicket-gchart-examples@8.3.0?classifier=sources
@@ -64,3 +68,5 @@
 - pkg:maven/org.wicketstuff/wicket-gchart-examples@9.1.0?type=war
 - pkg:maven/org.wicketstuff/wicket-gchart-examples@9.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicket-gchart-examples@9.2.0?type=war
+- pkg:maven/org.wicketstuff/wicket-gchart-examples@9.3.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicket-gchart-examples@9.3.0?type=war

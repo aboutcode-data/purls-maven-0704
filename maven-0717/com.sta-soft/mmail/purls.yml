@@ -12,3 +12,5 @@
 - pkg:maven/com.sta-soft/mmail@1.40?classifier=sources
 - pkg:maven/com.sta-soft/mmail@1.41
 - pkg:maven/com.sta-soft/mmail@1.41?classifier=sources
+- pkg:maven/com.sta-soft/mmail@1.42
+- pkg:maven/com.sta-soft/mmail@1.42?classifier=sources

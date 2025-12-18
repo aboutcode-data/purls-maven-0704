@@ -1,4 +1,6 @@
 - pkg:maven/de.mkammerer/argon2-jvm-nolibs@2.1
+- pkg:maven/de.mkammerer/argon2-jvm-nolibs@2.10.1?classifier=sources
+- pkg:maven/de.mkammerer/argon2-jvm-nolibs@2.10?classifier=sources
 - pkg:maven/de.mkammerer/argon2-jvm-nolibs@2.1?classifier=sources
 - pkg:maven/de.mkammerer/argon2-jvm-nolibs@2.2
 - pkg:maven/de.mkammerer/argon2-jvm-nolibs@2.2?classifier=sources

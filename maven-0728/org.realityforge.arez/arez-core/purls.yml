@@ -217,6 +217,16 @@
 - pkg:maven/org.realityforge.arez/arez-core@0.191?classifier=sources
 - pkg:maven/org.realityforge.arez/arez-core@0.192
 - pkg:maven/org.realityforge.arez/arez-core@0.192?classifier=sources
+- pkg:maven/org.realityforge.arez/arez-core@0.193
+- pkg:maven/org.realityforge.arez/arez-core@0.193?classifier=sources
+- pkg:maven/org.realityforge.arez/arez-core@0.194
+- pkg:maven/org.realityforge.arez/arez-core@0.194?classifier=sources
+- pkg:maven/org.realityforge.arez/arez-core@0.195
+- pkg:maven/org.realityforge.arez/arez-core@0.195?classifier=sources
+- pkg:maven/org.realityforge.arez/arez-core@0.196
+- pkg:maven/org.realityforge.arez/arez-core@0.196?classifier=sources
+- pkg:maven/org.realityforge.arez/arez-core@0.197
+- pkg:maven/org.realityforge.arez/arez-core@0.197?classifier=sources
 - pkg:maven/org.realityforge.arez/arez-core@0.19?classifier=sources
 - pkg:maven/org.realityforge.arez/arez-core@0.20
 - pkg:maven/org.realityforge.arez/arez-core@0.20?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/top.wu2020/wu-redis-lazy-starter@1.0.4
+- pkg:maven/top.wu2020/wu-redis-lazy-starter@1.0.4?classifier=sources

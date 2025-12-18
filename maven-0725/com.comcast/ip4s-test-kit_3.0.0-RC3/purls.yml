@@ -1,0 +1,6 @@
+- pkg:maven/com.comcast/ip4s-test-kit_3.0.0-RC3@2.0.2
+- pkg:maven/com.comcast/ip4s-test-kit_3.0.0-RC3@2.0.2?classifier=sources
+- pkg:maven/com.comcast/ip4s-test-kit_3.0.0-RC3@3.0-7-bac3d09
+- pkg:maven/com.comcast/ip4s-test-kit_3.0.0-RC3@3.0-7-bac3d09?classifier=sources
+- pkg:maven/com.comcast/ip4s-test-kit_3.0.0-RC3@3.0.2
+- pkg:maven/com.comcast/ip4s-test-kit_3.0.0-RC3@3.0.2?classifier=sources

@@ -7,3 +7,4 @@
 - pkg:maven/org.ops4j.pax.transx/pax-transx-itests@0.4.3
 - pkg:maven/org.ops4j.pax.transx/pax-transx-itests@0.4.4
 - pkg:maven/org.ops4j.pax.transx/pax-transx-itests@0.5.0
+- pkg:maven/org.ops4j.pax.transx/pax-transx-itests@0.5.1

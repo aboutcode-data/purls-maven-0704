@@ -20,3 +20,6 @@
 - pkg:maven/hr.fer.oop/EdgarLibrary@0.8.0?classifier=sources
 - pkg:maven/hr.fer.oop/EdgarLibrary@0.9.0
 - pkg:maven/hr.fer.oop/EdgarLibrary@0.9.0?classifier=sources
+- pkg:maven/hr.fer.oop/EdgarLibrary@0.9.1?classifier=sources
+- pkg:maven/hr.fer.oop/EdgarLibrary@0.9.2?classifier=sources
+- pkg:maven/hr.fer.oop/EdgarLibrary@0.9.3?classifier=sources

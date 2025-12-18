@@ -36,3 +36,5 @@
 - pkg:maven/org.eclipse.ditto/ditto-services-utils-cache-loaders@1.5.1?classifier=sources
 - pkg:maven/org.eclipse.ditto/ditto-services-utils-cache-loaders@2.0.0-M1
 - pkg:maven/org.eclipse.ditto/ditto-services-utils-cache-loaders@2.0.0-M1?classifier=sources
+- pkg:maven/org.eclipse.ditto/ditto-services-utils-cache-loaders@2.0.0-M2
+- pkg:maven/org.eclipse.ditto/ditto-services-utils-cache-loaders@2.0.0-M2?classifier=sources

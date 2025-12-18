@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.identity.rest.dispatcher/org.wso2.carbon.identity.rest.api.sample@2.0.0
+- pkg:maven/org.wso2.carbon.identity.rest.dispatcher/org.wso2.carbon.identity.rest.api.sample@2.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/app.tulz/stringdiff_3.0.0-RC2@0.3.2
+- pkg:maven/app.tulz/stringdiff_3.0.0-RC2@0.3.2?classifier=sources

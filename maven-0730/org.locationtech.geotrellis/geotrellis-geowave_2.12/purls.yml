@@ -1,0 +1,2 @@
+- pkg:maven/org.locationtech.geotrellis/geotrellis-geowave_2.12@3.6.0
+- pkg:maven/org.locationtech.geotrellis/geotrellis-geowave_2.12@3.6.0?classifier=sources

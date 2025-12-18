@@ -32,3 +32,5 @@
 - pkg:maven/com.ericsson.bss.cassandra.ecchronos/fm@2.0.0-beta
 - pkg:maven/com.ericsson.bss.cassandra.ecchronos/fm@2.0.0-beta?classifier=sources
 - pkg:maven/com.ericsson.bss.cassandra.ecchronos/fm@2.0.0?classifier=sources
+- pkg:maven/com.ericsson.bss.cassandra.ecchronos/fm@2.0.1
+- pkg:maven/com.ericsson.bss.cassandra.ecchronos/fm@2.0.1?classifier=sources

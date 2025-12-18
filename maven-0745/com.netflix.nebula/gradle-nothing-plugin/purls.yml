@@ -29,3 +29,5 @@
 - pkg:maven/com.netflix.nebula/gradle-nothing-plugin@2.2.8?classifier=sources
 - pkg:maven/com.netflix.nebula/gradle-nothing-plugin@2.2.9?classifier=sources
 - pkg:maven/com.netflix.nebula/gradle-nothing-plugin@2.3.0?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-nothing-plugin@2.4.0?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-nothing-plugin@2.5.0?classifier=sources

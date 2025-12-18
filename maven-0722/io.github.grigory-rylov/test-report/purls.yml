@@ -1,0 +1,2 @@
+- pkg:maven/io.github.grigory-rylov/test-report@1.4.0
+- pkg:maven/io.github.grigory-rylov/test-report@1.4.0?classifier=sources

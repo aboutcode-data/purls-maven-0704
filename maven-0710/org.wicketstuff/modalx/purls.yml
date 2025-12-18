@@ -130,6 +130,8 @@
 - pkg:maven/org.wicketstuff/modalx@7.16.0?classifier=sources
 - pkg:maven/org.wicketstuff/modalx@7.17.0
 - pkg:maven/org.wicketstuff/modalx@7.17.0?classifier=sources
+- pkg:maven/org.wicketstuff/modalx@7.18.0
+- pkg:maven/org.wicketstuff/modalx@7.18.0?classifier=sources
 - pkg:maven/org.wicketstuff/modalx@7.2.0
 - pkg:maven/org.wicketstuff/modalx@7.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/modalx@7.3.0
@@ -174,6 +176,8 @@
 - pkg:maven/org.wicketstuff/modalx@8.10.0?classifier=sources
 - pkg:maven/org.wicketstuff/modalx@8.11.0
 - pkg:maven/org.wicketstuff/modalx@8.11.0?classifier=sources
+- pkg:maven/org.wicketstuff/modalx@8.12.0
+- pkg:maven/org.wicketstuff/modalx@8.12.0?classifier=sources
 - pkg:maven/org.wicketstuff/modalx@8.2.0
 - pkg:maven/org.wicketstuff/modalx@8.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/modalx@8.3.0
@@ -210,3 +214,5 @@
 - pkg:maven/org.wicketstuff/modalx@9.1.0?classifier=sources
 - pkg:maven/org.wicketstuff/modalx@9.2.0
 - pkg:maven/org.wicketstuff/modalx@9.2.0?classifier=sources
+- pkg:maven/org.wicketstuff/modalx@9.3.0
+- pkg:maven/org.wicketstuff/modalx@9.3.0?classifier=sources

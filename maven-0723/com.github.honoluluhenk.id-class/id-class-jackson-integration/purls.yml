@@ -6,3 +6,5 @@
 - pkg:maven/com.github.honoluluhenk.id-class/id-class-jackson-integration@0.0.3?classifier=sources
 - pkg:maven/com.github.honoluluhenk.id-class/id-class-jackson-integration@0.0.4
 - pkg:maven/com.github.honoluluhenk.id-class/id-class-jackson-integration@0.0.4?classifier=sources
+- pkg:maven/com.github.honoluluhenk.id-class/id-class-jackson-integration@1.0.0
+- pkg:maven/com.github.honoluluhenk.id-class/id-class-jackson-integration@1.0.0?classifier=sources

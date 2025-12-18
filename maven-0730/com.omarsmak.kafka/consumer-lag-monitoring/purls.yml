@@ -1,0 +1,2 @@
+- pkg:maven/com.omarsmak.kafka/consumer-lag-monitoring@0.1.1
+- pkg:maven/com.omarsmak.kafka/consumer-lag-monitoring@0.1.1?classifier=sources

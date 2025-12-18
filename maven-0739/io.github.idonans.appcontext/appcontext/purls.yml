@@ -1,0 +1,6 @@
+- pkg:maven/io.github.idonans.appcontext/appcontext@2.2.0?classifier=sources
+- pkg:maven/io.github.idonans.appcontext/appcontext@2.2.0?type=aar
+- pkg:maven/io.github.idonans.appcontext/appcontext@2.2.3?classifier=sources
+- pkg:maven/io.github.idonans.appcontext/appcontext@2.2.3?type=aar
+- pkg:maven/io.github.idonans.appcontext/appcontext@2.2.4?classifier=sources
+- pkg:maven/io.github.idonans.appcontext/appcontext@2.2.4?type=aar

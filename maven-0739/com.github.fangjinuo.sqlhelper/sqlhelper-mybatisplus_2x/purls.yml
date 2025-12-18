@@ -34,3 +34,7 @@
 - pkg:maven/com.github.fangjinuo.sqlhelper/sqlhelper-mybatisplus_2x@3.4.8?classifier=sources
 - pkg:maven/com.github.fangjinuo.sqlhelper/sqlhelper-mybatisplus_2x@3.4.9
 - pkg:maven/com.github.fangjinuo.sqlhelper/sqlhelper-mybatisplus_2x@3.4.9?classifier=sources
+- pkg:maven/com.github.fangjinuo.sqlhelper/sqlhelper-mybatisplus_2x@3.5.0
+- pkg:maven/com.github.fangjinuo.sqlhelper/sqlhelper-mybatisplus_2x@3.5.0?classifier=sources
+- pkg:maven/com.github.fangjinuo.sqlhelper/sqlhelper-mybatisplus_2x@3.5.1
+- pkg:maven/com.github.fangjinuo.sqlhelper/sqlhelper-mybatisplus_2x@3.5.1?classifier=sources

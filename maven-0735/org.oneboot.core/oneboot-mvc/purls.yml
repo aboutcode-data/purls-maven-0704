@@ -1,0 +1,2 @@
+- pkg:maven/org.oneboot.core/oneboot-mvc@0.0.3
+- pkg:maven/org.oneboot.core/oneboot-mvc@0.0.3?classifier=sources

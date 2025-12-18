@@ -10,6 +10,8 @@
 - pkg:maven/com.alibaba.cloud/spring-cloud-starter-bus-rocketmq@2.0.2.RELEASE?classifier=sources
 - pkg:maven/com.alibaba.cloud/spring-cloud-starter-bus-rocketmq@2.0.3.RELEASE
 - pkg:maven/com.alibaba.cloud/spring-cloud-starter-bus-rocketmq@2.0.3.RELEASE?classifier=sources
+- pkg:maven/com.alibaba.cloud/spring-cloud-starter-bus-rocketmq@2.0.4.RELEASE
+- pkg:maven/com.alibaba.cloud/spring-cloud-starter-bus-rocketmq@2.0.4.RELEASE?classifier=sources
 - pkg:maven/com.alibaba.cloud/spring-cloud-starter-bus-rocketmq@2.1.0.RELEASE
 - pkg:maven/com.alibaba.cloud/spring-cloud-starter-bus-rocketmq@2.1.0.RELEASE?classifier=sources
 - pkg:maven/com.alibaba.cloud/spring-cloud-starter-bus-rocketmq@2.1.1.RELEASE
@@ -30,9 +32,15 @@
 - pkg:maven/com.alibaba.cloud/spring-cloud-starter-bus-rocketmq@2.2.3.RELEASE?classifier=sources
 - pkg:maven/com.alibaba.cloud/spring-cloud-starter-bus-rocketmq@2.2.4.RELEASE
 - pkg:maven/com.alibaba.cloud/spring-cloud-starter-bus-rocketmq@2.2.4.RELEASE?classifier=sources
+- pkg:maven/com.alibaba.cloud/spring-cloud-starter-bus-rocketmq@2.2.5-RocketMQ-RC1
+- pkg:maven/com.alibaba.cloud/spring-cloud-starter-bus-rocketmq@2.2.5-RocketMQ-RC1?classifier=sources
 - pkg:maven/com.alibaba.cloud/spring-cloud-starter-bus-rocketmq@2.2.5.RC1
 - pkg:maven/com.alibaba.cloud/spring-cloud-starter-bus-rocketmq@2.2.5.RC1?classifier=sources
 - pkg:maven/com.alibaba.cloud/spring-cloud-starter-bus-rocketmq@2.2.5.RC2
 - pkg:maven/com.alibaba.cloud/spring-cloud-starter-bus-rocketmq@2.2.5.RC2?classifier=sources
 - pkg:maven/com.alibaba.cloud/spring-cloud-starter-bus-rocketmq@2.2.5.RELEASE
 - pkg:maven/com.alibaba.cloud/spring-cloud-starter-bus-rocketmq@2.2.5.RELEASE?classifier=sources
+- pkg:maven/com.alibaba.cloud/spring-cloud-starter-bus-rocketmq@2020.0.RC1
+- pkg:maven/com.alibaba.cloud/spring-cloud-starter-bus-rocketmq@2020.0.RC1?classifier=sources
+- pkg:maven/com.alibaba.cloud/spring-cloud-starter-bus-rocketmq@2021.1
+- pkg:maven/com.alibaba.cloud/spring-cloud-starter-bus-rocketmq@2021.1?classifier=sources

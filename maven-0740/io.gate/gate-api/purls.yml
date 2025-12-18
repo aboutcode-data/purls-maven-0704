@@ -1,0 +1,4 @@
+- pkg:maven/io.gate/gate-api@5.20.0
+- pkg:maven/io.gate/gate-api@5.20.0?classifier=sources
+- pkg:maven/io.gate/gate-api@5.20.1
+- pkg:maven/io.gate/gate-api@5.20.1?classifier=sources

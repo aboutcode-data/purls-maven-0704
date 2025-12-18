@@ -46,3 +46,5 @@
 - pkg:maven/org.ocpsoft.prettytime/prettytime-integration-jsf@4.0.6.Final?classifier=sources
 - pkg:maven/org.ocpsoft.prettytime/prettytime-integration-jsf@5.0.0.Final
 - pkg:maven/org.ocpsoft.prettytime/prettytime-integration-jsf@5.0.0.Final?classifier=sources
+- pkg:maven/org.ocpsoft.prettytime/prettytime-integration-jsf@5.0.1.Final
+- pkg:maven/org.ocpsoft.prettytime/prettytime-integration-jsf@5.0.1.Final?classifier=sources

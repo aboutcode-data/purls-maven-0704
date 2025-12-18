@@ -76,3 +76,5 @@
 - pkg:maven/com.helger.maven/ph-schematron-maven-plugin@6.0.3?classifier=sources
 - pkg:maven/com.helger.maven/ph-schematron-maven-plugin@6.1.0
 - pkg:maven/com.helger.maven/ph-schematron-maven-plugin@6.1.0?classifier=sources
+- pkg:maven/com.helger.maven/ph-schematron-maven-plugin@6.2.0
+- pkg:maven/com.helger.maven/ph-schematron-maven-plugin@6.2.0?classifier=sources

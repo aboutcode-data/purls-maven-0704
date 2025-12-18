@@ -1,0 +1,2 @@
+- pkg:maven/com.simbachain/libsimba4j-platform@0.1.10
+- pkg:maven/com.simbachain/libsimba4j-platform@0.1.10?classifier=sources

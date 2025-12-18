@@ -100,3 +100,5 @@
 - pkg:maven/global.namespace.neuron-di/neuron-di-guice@6.6.0?classifier=sources
 - pkg:maven/global.namespace.neuron-di/neuron-di-guice@6.7.0
 - pkg:maven/global.namespace.neuron-di/neuron-di-guice@6.7.0?classifier=sources
+- pkg:maven/global.namespace.neuron-di/neuron-di-guice@6.7.1
+- pkg:maven/global.namespace.neuron-di/neuron-di-guice@6.7.1?classifier=sources

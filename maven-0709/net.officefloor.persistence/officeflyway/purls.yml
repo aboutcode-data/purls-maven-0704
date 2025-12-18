@@ -18,3 +18,7 @@
 - pkg:maven/net.officefloor.persistence/officeflyway@3.32.0?classifier=sources
 - pkg:maven/net.officefloor.persistence/officeflyway@3.33.0
 - pkg:maven/net.officefloor.persistence/officeflyway@3.33.0?classifier=sources
+- pkg:maven/net.officefloor.persistence/officeflyway@3.34.0
+- pkg:maven/net.officefloor.persistence/officeflyway@3.34.0?classifier=sources
+- pkg:maven/net.officefloor.persistence/officeflyway@3.35.0
+- pkg:maven/net.officefloor.persistence/officeflyway@3.35.0?classifier=sources

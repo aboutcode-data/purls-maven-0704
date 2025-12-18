@@ -19,3 +19,5 @@
 - pkg:maven/com.apollographql.apollo/apollo-api-jvm@2.5.2?classifier=sources
 - pkg:maven/com.apollographql.apollo/apollo-api-jvm@2.5.3?classifier=sources
 - pkg:maven/com.apollographql.apollo/apollo-api-jvm@2.5.4?classifier=sources
+- pkg:maven/com.apollographql.apollo/apollo-api-jvm@2.5.5?classifier=sources
+- pkg:maven/com.apollographql.apollo/apollo-api-jvm@2.5.6?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.rocketfuel.scylladb/spark-cassandra-connector-driver_2.12@2.5.1-scylla-1
+- pkg:maven/com.rocketfuel.scylladb/spark-cassandra-connector-driver_2.12@2.5.1-scylla-1?classifier=sources

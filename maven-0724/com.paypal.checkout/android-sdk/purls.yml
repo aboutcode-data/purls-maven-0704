@@ -1,0 +1,2 @@
+- pkg:maven/com.paypal.checkout/android-sdk@0.1.0?classifier=sources
+- pkg:maven/com.paypal.checkout/android-sdk@0.1.0?type=aar

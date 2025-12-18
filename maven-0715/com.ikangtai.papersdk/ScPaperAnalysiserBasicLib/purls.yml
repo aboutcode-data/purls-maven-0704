@@ -1,0 +1,8 @@
+- pkg:maven/com.ikangtai.papersdk/ScPaperAnalysiserBasicLib@1.5.10-glide370?classifier=sources
+- pkg:maven/com.ikangtai.papersdk/ScPaperAnalysiserBasicLib@1.5.10-glide370?type=aar
+- pkg:maven/com.ikangtai.papersdk/ScPaperAnalysiserBasicLib@1.5.8?classifier=sources
+- pkg:maven/com.ikangtai.papersdk/ScPaperAnalysiserBasicLib@1.5.8?type=aar
+- pkg:maven/com.ikangtai.papersdk/ScPaperAnalysiserBasicLib@1.5.9-glide370?classifier=sources
+- pkg:maven/com.ikangtai.papersdk/ScPaperAnalysiserBasicLib@1.5.9-glide370?type=aar
+- pkg:maven/com.ikangtai.papersdk/ScPaperAnalysiserBasicLib@1.5.9?classifier=sources
+- pkg:maven/com.ikangtai.papersdk/ScPaperAnalysiserBasicLib@1.5.9?type=aar

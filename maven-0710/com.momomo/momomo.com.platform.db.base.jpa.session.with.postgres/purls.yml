@@ -1,0 +1,4 @@
+- pkg:maven/com.momomo/momomo.com.platform.db.base.jpa.session.with.postgres@5.0.1
+- pkg:maven/com.momomo/momomo.com.platform.db.base.jpa.session.with.postgres@5.0.1?classifier=sources
+- pkg:maven/com.momomo/momomo.com.platform.db.base.jpa.session.with.postgres@5.0.2
+- pkg:maven/com.momomo/momomo.com.platform.db.base.jpa.session.with.postgres@5.0.2?classifier=sources

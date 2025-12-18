@@ -43,3 +43,6 @@
 - pkg:maven/com.wonderpush/wonderpush-android-sdk@3.4.0?classifier=sources
 - pkg:maven/com.wonderpush/wonderpush-android-sdk@4.0.0?classifier=sources
 - pkg:maven/com.wonderpush/wonderpush-android-sdk@4.0.2?classifier=sources
+- pkg:maven/com.wonderpush/wonderpush-android-sdk@4.0.3?classifier=sources
+- pkg:maven/com.wonderpush/wonderpush-android-sdk@4.0.4?classifier=sources
+- pkg:maven/com.wonderpush/wonderpush-android-sdk@4.0.5?classifier=sources

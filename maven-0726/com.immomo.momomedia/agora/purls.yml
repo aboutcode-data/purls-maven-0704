@@ -1,0 +1,6 @@
+- pkg:maven/com.immomo.momomedia/agora@momo5.1f.agora.2021-0115-1228?classifier=sources
+- pkg:maven/com.immomo.momomedia/agora@momo5.1f.agora.2021-0115-1228?type=aar
+- pkg:maven/com.immomo.momomedia/agora@momo6.0a.agora.2021-0420-1608?classifier=sources
+- pkg:maven/com.immomo.momomedia/agora@momo6.0a.agora.2021-0420-1608?type=aar
+- pkg:maven/com.immomo.momomedia/agora@momo6.0a.agora.2021-0420-1748?classifier=sources
+- pkg:maven/com.immomo.momomedia/agora@momo6.0a.agora.2021-0420-1748?type=aar

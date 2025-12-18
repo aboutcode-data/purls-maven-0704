@@ -417,6 +417,9 @@
 - pkg:maven/com.liferay/com.liferay.bookmarks.service@2.0.57
 - pkg:maven/com.liferay/com.liferay.bookmarks.service@2.0.57?classifier=sources
 - pkg:maven/com.liferay/com.liferay.bookmarks.service@2.0.57?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.bookmarks.service@2.0.58
+- pkg:maven/com.liferay/com.liferay.bookmarks.service@2.0.58?classifier=sources
+- pkg:maven/com.liferay/com.liferay.bookmarks.service@2.0.58?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.bookmarks.service@2.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.bookmarks.service@2.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.bookmarks.service@2.0.6
@@ -534,6 +537,9 @@
 - pkg:maven/com.liferay/com.liferay.bookmarks.service@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.bookmarks.service@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.bookmarks.service@3.0.4
+- pkg:maven/com.liferay/com.liferay.bookmarks.service@3.0.40
+- pkg:maven/com.liferay/com.liferay.bookmarks.service@3.0.40?classifier=sources
+- pkg:maven/com.liferay/com.liferay.bookmarks.service@3.0.40?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.bookmarks.service@3.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.bookmarks.service@3.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.bookmarks.service@3.0.5
@@ -600,6 +606,12 @@
 - pkg:maven/com.liferay/com.liferay.bookmarks.service@4.0.23
 - pkg:maven/com.liferay/com.liferay.bookmarks.service@4.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.bookmarks.service@4.0.23?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.bookmarks.service@4.0.24
+- pkg:maven/com.liferay/com.liferay.bookmarks.service@4.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.bookmarks.service@4.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.bookmarks.service@4.0.25
+- pkg:maven/com.liferay/com.liferay.bookmarks.service@4.0.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.bookmarks.service@4.0.25?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.bookmarks.service@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.bookmarks.service@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.bookmarks.service@4.0.3
@@ -623,3 +635,12 @@
 - pkg:maven/com.liferay/com.liferay.bookmarks.service@4.0.9
 - pkg:maven/com.liferay/com.liferay.bookmarks.service@4.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.bookmarks.service@4.0.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.bookmarks.service@5.0.0
+- pkg:maven/com.liferay/com.liferay.bookmarks.service@5.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.bookmarks.service@5.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.bookmarks.service@5.0.1
+- pkg:maven/com.liferay/com.liferay.bookmarks.service@5.0.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.bookmarks.service@5.0.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.bookmarks.service@5.0.2
+- pkg:maven/com.liferay/com.liferay.bookmarks.service@5.0.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.bookmarks.service@5.0.2?classifier=sources-commercial

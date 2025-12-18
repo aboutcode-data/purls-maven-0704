@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/cheerio-select-tmp@0.1.1
+- pkg:maven/org.webjars.npm/cheerio-select-tmp@0.1.1?classifier=sources

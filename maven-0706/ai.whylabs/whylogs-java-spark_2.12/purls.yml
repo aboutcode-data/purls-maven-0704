@@ -3,3 +3,4 @@
 - pkg:maven/ai.whylabs/whylogs-java-spark_2.12@0.1.2-b1?classifier=sources
 - pkg:maven/ai.whylabs/whylogs-java-spark_2.12@0.1.2-b2?classifier=sources
 - pkg:maven/ai.whylabs/whylogs-java-spark_2.12@0.1.2-b3?classifier=sources
+- pkg:maven/ai.whylabs/whylogs-java-spark_2.12@0.1.2-b5?classifier=sources

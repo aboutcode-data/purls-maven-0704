@@ -61,6 +61,10 @@
 - pkg:maven/com.vackosar.gitflowincrementalbuilder/gitflow-incremental-builder@3.12.2?classifier=sources
 - pkg:maven/com.vackosar.gitflowincrementalbuilder/gitflow-incremental-builder@3.13.0
 - pkg:maven/com.vackosar.gitflowincrementalbuilder/gitflow-incremental-builder@3.13.0?classifier=sources
+- pkg:maven/com.vackosar.gitflowincrementalbuilder/gitflow-incremental-builder@3.14.0
+- pkg:maven/com.vackosar.gitflowincrementalbuilder/gitflow-incremental-builder@3.14.0?classifier=sources
+- pkg:maven/com.vackosar.gitflowincrementalbuilder/gitflow-incremental-builder@3.14.1
+- pkg:maven/com.vackosar.gitflowincrementalbuilder/gitflow-incremental-builder@3.14.1?classifier=sources
 - pkg:maven/com.vackosar.gitflowincrementalbuilder/gitflow-incremental-builder@3.1?classifier=sources
 - pkg:maven/com.vackosar.gitflowincrementalbuilder/gitflow-incremental-builder@3.2
 - pkg:maven/com.vackosar.gitflowincrementalbuilder/gitflow-incremental-builder@3.2?classifier=sources

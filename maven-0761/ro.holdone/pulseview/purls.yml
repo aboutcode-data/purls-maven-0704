@@ -1,0 +1,2 @@
+- pkg:maven/ro.holdone/pulseview@1.0.0?classifier=sources
+- pkg:maven/ro.holdone/pulseview@1.0.1?classifier=sources

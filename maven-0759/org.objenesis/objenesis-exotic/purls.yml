@@ -1,0 +1,2 @@
+- pkg:maven/org.objenesis/objenesis-exotic@3.2
+- pkg:maven/org.objenesis/objenesis-exotic@3.2?classifier=sources

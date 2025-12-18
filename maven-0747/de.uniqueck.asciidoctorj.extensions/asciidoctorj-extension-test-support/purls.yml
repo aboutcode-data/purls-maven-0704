@@ -1,0 +1,2 @@
+- pkg:maven/de.uniqueck.asciidoctorj.extensions/asciidoctorj-extension-test-support@0.1.0
+- pkg:maven/de.uniqueck.asciidoctorj.extensions/asciidoctorj-extension-test-support@0.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/dev.j3ee/m1-starter-web@0.1?classifier=sources
+- pkg:maven/dev.j3ee/m1-starter-web@0.2?classifier=sources

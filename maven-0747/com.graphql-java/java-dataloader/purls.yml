@@ -28,3 +28,6 @@
 - pkg:maven/com.graphql-java/java-dataloader@2.2.1?classifier=sources
 - pkg:maven/com.graphql-java/java-dataloader@2.2.3
 - pkg:maven/com.graphql-java/java-dataloader@2.2.3?classifier=sources
+- pkg:maven/com.graphql-java/java-dataloader@2021-03-29T22-36-40-f9b01ad?classifier=sources
+- pkg:maven/com.graphql-java/java-dataloader@2021-03-30T02-06-56-9a47743?classifier=sources
+- pkg:maven/com.graphql-java/java-dataloader@2021-03-30T02-56-19-5805475?classifier=sources

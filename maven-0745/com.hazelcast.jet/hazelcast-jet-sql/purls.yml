@@ -1,2 +1,4 @@
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-sql@4.4
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-sql@4.4?classifier=sources
+- pkg:maven/com.hazelcast.jet/hazelcast-jet-sql@4.5
+- pkg:maven/com.hazelcast.jet/hazelcast-jet-sql@4.5?classifier=sources

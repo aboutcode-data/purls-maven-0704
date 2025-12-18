@@ -188,6 +188,8 @@
 - pkg:maven/com.sun.xml.ws/jaxws-rt@2.3.3-b01
 - pkg:maven/com.sun.xml.ws/jaxws-rt@2.3.3-b01?classifier=sources
 - pkg:maven/com.sun.xml.ws/jaxws-rt@2.3.3?classifier=sources
+- pkg:maven/com.sun.xml.ws/jaxws-rt@2.3.4
+- pkg:maven/com.sun.xml.ws/jaxws-rt@2.3.4?classifier=sources
 - pkg:maven/com.sun.xml.ws/jaxws-rt@3.0.0
 - pkg:maven/com.sun.xml.ws/jaxws-rt@3.0.0-M1
 - pkg:maven/com.sun.xml.ws/jaxws-rt@3.0.0-M1?classifier=sources
@@ -200,4 +202,6 @@
 - pkg:maven/com.sun.xml.ws/jaxws-rt@3.0.0-M5
 - pkg:maven/com.sun.xml.ws/jaxws-rt@3.0.0-M5?classifier=sources
 - pkg:maven/com.sun.xml.ws/jaxws-rt@3.0.0?classifier=sources
+- pkg:maven/com.sun.xml.ws/jaxws-rt@3.0.1
+- pkg:maven/com.sun.xml.ws/jaxws-rt@3.0.1?classifier=sources
 - pkg:maven/com.sun.xml.ws/jaxws-rt@EA3

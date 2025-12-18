@@ -6,3 +6,7 @@
 - pkg:maven/io.trino/trino-accumulo-iterators@353?classifier=sources
 - pkg:maven/io.trino/trino-accumulo-iterators@354
 - pkg:maven/io.trino/trino-accumulo-iterators@354?classifier=sources
+- pkg:maven/io.trino/trino-accumulo-iterators@355
+- pkg:maven/io.trino/trino-accumulo-iterators@355?classifier=sources
+- pkg:maven/io.trino/trino-accumulo-iterators@356
+- pkg:maven/io.trino/trino-accumulo-iterators@356?classifier=sources

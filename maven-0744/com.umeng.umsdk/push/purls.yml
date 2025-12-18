@@ -1,0 +1,2 @@
+- pkg:maven/com.umeng.umsdk/push@6.2.0?classifier=sources
+- pkg:maven/com.umeng.umsdk/push@6.3.3?classifier=sources

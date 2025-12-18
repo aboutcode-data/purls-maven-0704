@@ -48,6 +48,8 @@
 - pkg:maven/com.sun.mail/mailapi@1.6.5?classifier=sources
 - pkg:maven/com.sun.mail/mailapi@1.6.6
 - pkg:maven/com.sun.mail/mailapi@1.6.6?classifier=sources
+- pkg:maven/com.sun.mail/mailapi@1.6.7
+- pkg:maven/com.sun.mail/mailapi@1.6.7?classifier=sources
 - pkg:maven/com.sun.mail/mailapi@2.0.0
 - pkg:maven/com.sun.mail/mailapi@2.0.0-RC1
 - pkg:maven/com.sun.mail/mailapi@2.0.0-RC1?classifier=sources
@@ -62,3 +64,5 @@
 - pkg:maven/com.sun.mail/mailapi@2.0.0-RC6
 - pkg:maven/com.sun.mail/mailapi@2.0.0-RC6?classifier=sources
 - pkg:maven/com.sun.mail/mailapi@2.0.0?classifier=sources
+- pkg:maven/com.sun.mail/mailapi@2.0.1
+- pkg:maven/com.sun.mail/mailapi@2.0.1?classifier=sources

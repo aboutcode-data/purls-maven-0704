@@ -16,3 +16,5 @@
 - pkg:maven/de.telekom.test/bdd-web-app@1.8.1
 - pkg:maven/de.telekom.test/bdd-web-app@1.8.1?classifier=sources
 - pkg:maven/de.telekom.test/bdd-web-app@1.8?classifier=sources
+- pkg:maven/de.telekom.test/bdd-web-app@1.9
+- pkg:maven/de.telekom.test/bdd-web-app@1.9?classifier=sources

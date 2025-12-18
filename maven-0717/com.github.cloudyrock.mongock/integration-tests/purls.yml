@@ -1,0 +1,4 @@
+- pkg:maven/com.github.cloudyrock.mongock/integration-tests@5.0.1.BETA
+- pkg:maven/com.github.cloudyrock.mongock/integration-tests@5.0.1.BETA?classifier=sources
+- pkg:maven/com.github.cloudyrock.mongock/integration-tests@5.0.2.BETA
+- pkg:maven/com.github.cloudyrock.mongock/integration-tests@5.0.2.BETA?classifier=sources

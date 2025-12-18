@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss/jboss-transaction-spi-jakarta@7.6.1.Final
+- pkg:maven/org.jboss/jboss-transaction-spi-jakarta@7.6.1.Final?classifier=sources

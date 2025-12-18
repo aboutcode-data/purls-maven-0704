@@ -1,1 +1,3 @@
 - pkg:maven/org.odpi.egeria/analytics-modeling-client@2.7
+- pkg:maven/org.odpi.egeria/analytics-modeling-client@2.8
+- pkg:maven/org.odpi.egeria/analytics-modeling-client@2.9

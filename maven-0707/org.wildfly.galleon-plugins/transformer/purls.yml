@@ -20,3 +20,7 @@
 - pkg:maven/org.wildfly.galleon-plugins/transformer@5.1.0.Final?classifier=sources
 - pkg:maven/org.wildfly.galleon-plugins/transformer@5.1.1.Final
 - pkg:maven/org.wildfly.galleon-plugins/transformer@5.1.1.Final?classifier=sources
+- pkg:maven/org.wildfly.galleon-plugins/transformer@5.1.2.Final
+- pkg:maven/org.wildfly.galleon-plugins/transformer@5.1.2.Final?classifier=sources
+- pkg:maven/org.wildfly.galleon-plugins/transformer@5.1.3.Final
+- pkg:maven/org.wildfly.galleon-plugins/transformer@5.1.3.Final?classifier=sources

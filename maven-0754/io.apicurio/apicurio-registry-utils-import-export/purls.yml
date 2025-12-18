@@ -1,0 +1,2 @@
+- pkg:maven/io.apicurio/apicurio-registry-utils-import-export@2.0.0.Final
+- pkg:maven/io.apicurio/apicurio-registry-utils-import-export@2.0.0.Final?classifier=sources

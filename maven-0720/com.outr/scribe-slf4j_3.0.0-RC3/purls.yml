@@ -1,0 +1,2 @@
+- pkg:maven/com.outr/scribe-slf4j_3.0.0-RC3@3.5.4
+- pkg:maven/com.outr/scribe-slf4j_3.0.0-RC3@3.5.4?classifier=sources

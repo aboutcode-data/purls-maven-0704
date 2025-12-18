@@ -1,0 +1,2 @@
+- pkg:maven/ai.eye2you/libuvccamera@2018.10.2?classifier=sources
+- pkg:maven/ai.eye2you/libuvccamera@2018.10.2?type=aar

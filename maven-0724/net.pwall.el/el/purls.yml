@@ -8,3 +8,4 @@
 - pkg:maven/net.pwall.el/el@3.0?classifier=sources
 - pkg:maven/net.pwall.el/el@4.0
 - pkg:maven/net.pwall.el/el@4.0?classifier=sources
+- pkg:maven/net.pwall.el/el@4.1?classifier=sources

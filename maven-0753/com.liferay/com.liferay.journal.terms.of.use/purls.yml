@@ -137,3 +137,6 @@
 - pkg:maven/com.liferay/com.liferay.journal.terms.of.use@5.0.7
 - pkg:maven/com.liferay/com.liferay.journal.terms.of.use@5.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.terms.of.use@5.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.journal.terms.of.use@6.0.0
+- pkg:maven/com.liferay/com.liferay.journal.terms.of.use@6.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.terms.of.use@6.0.0?classifier=sources-commercial

@@ -36,3 +36,11 @@
 - pkg:maven/net.mahdilamb/colormap@0.9.45
 - pkg:maven/net.mahdilamb/colormap@0.9.45?classifier=sources
 - pkg:maven/net.mahdilamb/colormap@0.9.4?classifier=sources
+- pkg:maven/net.mahdilamb/colormap@0.9.50
+- pkg:maven/net.mahdilamb/colormap@0.9.50?classifier=sources
+- pkg:maven/net.mahdilamb/colormap@0.9.51
+- pkg:maven/net.mahdilamb/colormap@0.9.511
+- pkg:maven/net.mahdilamb/colormap@0.9.511?classifier=sources
+- pkg:maven/net.mahdilamb/colormap@0.9.51?classifier=sources
+- pkg:maven/net.mahdilamb/colormap@0.9.6
+- pkg:maven/net.mahdilamb/colormap@0.9.6?classifier=sources

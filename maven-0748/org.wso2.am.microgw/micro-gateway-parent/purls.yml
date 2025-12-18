@@ -13,3 +13,5 @@
 - pkg:maven/org.wso2.am.microgw/micro-gateway-parent@3.0.0-alpha?classifier=source-release&type=zip
 - pkg:maven/org.wso2.am.microgw/micro-gateway-parent@3.0.0-beta?classifier=source-release&type=zip
 - pkg:maven/org.wso2.am.microgw/micro-gateway-parent@3.0.0-m2?classifier=source-release&type=zip
+- pkg:maven/org.wso2.am.microgw/micro-gateway-parent@4.0.0-m8?classifier=source-release&type=zip
+- pkg:maven/org.wso2.am.microgw/micro-gateway-parent@4.0.0-m9?classifier=source-release&type=zip

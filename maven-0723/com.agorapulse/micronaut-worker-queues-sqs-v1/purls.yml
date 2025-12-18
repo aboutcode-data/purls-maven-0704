@@ -1,0 +1,2 @@
+- pkg:maven/com.agorapulse/micronaut-worker-queues-sqs-v1@1.0.2?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-worker-queues-sqs-v1@1.0.3?classifier=sources

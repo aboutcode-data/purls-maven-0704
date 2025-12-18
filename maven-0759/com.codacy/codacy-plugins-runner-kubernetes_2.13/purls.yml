@@ -1,0 +1,6 @@
+- pkg:maven/com.codacy/codacy-plugins-runner-kubernetes_2.13@23.1.0_play_2.7
+- pkg:maven/com.codacy/codacy-plugins-runner-kubernetes_2.13@23.1.0_play_2.7?classifier=sources
+- pkg:maven/com.codacy/codacy-plugins-runner-kubernetes_2.13@23.1.1_play_2.7
+- pkg:maven/com.codacy/codacy-plugins-runner-kubernetes_2.13@23.1.1_play_2.7?classifier=sources
+- pkg:maven/com.codacy/codacy-plugins-runner-kubernetes_2.13@23.1.2_play_2.7
+- pkg:maven/com.codacy/codacy-plugins-runner-kubernetes_2.13@23.1.2_play_2.7?classifier=sources

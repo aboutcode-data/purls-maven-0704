@@ -1,0 +1,6 @@
+- pkg:maven/com.immomo.xengine/xeengine_android@4.4.1.20210428.1000?classifier=sources
+- pkg:maven/com.immomo.xengine/xeengine_android@4.4.1.20210428.1000?type=aar
+- pkg:maven/com.immomo.xengine/xeengine_android@4.4.4.20210428.1000?classifier=sources
+- pkg:maven/com.immomo.xengine/xeengine_android@4.4.4.20210428.1000?type=aar
+- pkg:maven/com.immomo.xengine/xeengine_android@4.4.9.20210425.1607?classifier=sources
+- pkg:maven/com.immomo.xengine/xeengine_android@4.4.9.20210425.1607?type=aar

@@ -8,3 +8,5 @@
 - pkg:maven/net.luohuasheng.bee/lhs-bee-rest-message@1.0.7?classifier=sources
 - pkg:maven/net.luohuasheng.bee/lhs-bee-rest-message@1.0.8
 - pkg:maven/net.luohuasheng.bee/lhs-bee-rest-message@1.0.8?classifier=sources
+- pkg:maven/net.luohuasheng.bee/lhs-bee-rest-message@1.0.9
+- pkg:maven/net.luohuasheng.bee/lhs-bee-rest-message@1.0.9?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.bolyartech.forge/base@7.6.1
+- pkg:maven/com.bolyartech.forge/base@7.6.1?classifier=sources

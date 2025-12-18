@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.hono/hono-client-application-amqp@1.7.0
+- pkg:maven/org.eclipse.hono/hono-client-application-amqp@1.7.0?classifier=sources
+- pkg:maven/org.eclipse.hono/hono-client-application-amqp@1.7.1
+- pkg:maven/org.eclipse.hono/hono-client-application-amqp@1.7.1?classifier=sources

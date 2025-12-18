@@ -1,3 +1,5 @@
 - pkg:maven/io.arrow-kt/arrow-integrations-retrofit-adapter@0.10.5
 - pkg:maven/io.arrow-kt/arrow-integrations-retrofit-adapter@0.10.5?classifier=sources
 - pkg:maven/io.arrow-kt/arrow-integrations-retrofit-adapter@0.11.0?classifier=sources
+- pkg:maven/io.arrow-kt/arrow-integrations-retrofit-adapter@0.12.0?classifier=sources
+- pkg:maven/io.arrow-kt/arrow-integrations-retrofit-adapter@0.12.1?classifier=sources

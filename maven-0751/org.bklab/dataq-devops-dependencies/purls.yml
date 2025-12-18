@@ -1,0 +1,2 @@
+- pkg:maven/org.bklab/dataq-devops-dependencies@1.1.8
+- pkg:maven/org.bklab/dataq-devops-dependencies@1.1.8?classifier=sources

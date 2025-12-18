@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/octokit__openapi-types@6.0.0
+- pkg:maven/org.webjars.npm/octokit__openapi-types@6.0.0?classifier=sources

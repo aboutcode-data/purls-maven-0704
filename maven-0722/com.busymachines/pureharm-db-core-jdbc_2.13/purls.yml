@@ -1,0 +1,12 @@
+- pkg:maven/com.busymachines/pureharm-db-core-jdbc_2.13@0.1.0
+- pkg:maven/com.busymachines/pureharm-db-core-jdbc_2.13@0.1.0-556c9fc
+- pkg:maven/com.busymachines/pureharm-db-core-jdbc_2.13@0.1.0-556c9fc?classifier=sources
+- pkg:maven/com.busymachines/pureharm-db-core-jdbc_2.13@0.1.0-5ebd616
+- pkg:maven/com.busymachines/pureharm-db-core-jdbc_2.13@0.1.0-5ebd616?classifier=sources
+- pkg:maven/com.busymachines/pureharm-db-core-jdbc_2.13@0.1.0?classifier=sources
+- pkg:maven/com.busymachines/pureharm-db-core-jdbc_2.13@0.2.0
+- pkg:maven/com.busymachines/pureharm-db-core-jdbc_2.13@0.2.0?classifier=sources
+- pkg:maven/com.busymachines/pureharm-db-core-jdbc_2.13@0.3.0
+- pkg:maven/com.busymachines/pureharm-db-core-jdbc_2.13@0.3.0?classifier=sources
+- pkg:maven/com.busymachines/pureharm-db-core-jdbc_2.13@0.4.0
+- pkg:maven/com.busymachines/pureharm-db-core-jdbc_2.13@0.4.0?classifier=sources

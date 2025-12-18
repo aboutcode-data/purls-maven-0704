@@ -58,3 +58,4 @@
 - pkg:maven/com.mozu/mozu-api-android@2.4.1-RC1?type=aar
 - pkg:maven/com.mozu/mozu-api-android@2.4.2-RC1?type=aar
 - pkg:maven/com.mozu/mozu-api-android@2.5.0-RC1?type=aar
+- pkg:maven/com.mozu/mozu-api-android@2.6.0-RC1?type=aar

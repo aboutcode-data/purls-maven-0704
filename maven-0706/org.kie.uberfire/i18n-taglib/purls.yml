@@ -160,6 +160,10 @@
 - pkg:maven/org.kie.uberfire/i18n-taglib@7.50.0.Final?classifier=sources
 - pkg:maven/org.kie.uberfire/i18n-taglib@7.51.0.Final
 - pkg:maven/org.kie.uberfire/i18n-taglib@7.51.0.Final?classifier=sources
+- pkg:maven/org.kie.uberfire/i18n-taglib@7.52.0.Final
+- pkg:maven/org.kie.uberfire/i18n-taglib@7.52.0.Final?classifier=sources
+- pkg:maven/org.kie.uberfire/i18n-taglib@7.53.0.Final
+- pkg:maven/org.kie.uberfire/i18n-taglib@7.53.0.Final?classifier=sources
 - pkg:maven/org.kie.uberfire/i18n-taglib@7.6.0.Final
 - pkg:maven/org.kie.uberfire/i18n-taglib@7.6.0.Final?classifier=sources
 - pkg:maven/org.kie.uberfire/i18n-taglib@7.7.0.Final

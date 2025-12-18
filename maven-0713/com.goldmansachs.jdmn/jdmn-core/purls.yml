@@ -76,3 +76,5 @@
 - pkg:maven/com.goldmansachs.jdmn/jdmn-core@4.2.3?classifier=sources
 - pkg:maven/com.goldmansachs.jdmn/jdmn-core@4.2.4
 - pkg:maven/com.goldmansachs.jdmn/jdmn-core@4.2.4?classifier=sources
+- pkg:maven/com.goldmansachs.jdmn/jdmn-core@5.0.0
+- pkg:maven/com.goldmansachs.jdmn/jdmn-core@5.0.0?classifier=sources

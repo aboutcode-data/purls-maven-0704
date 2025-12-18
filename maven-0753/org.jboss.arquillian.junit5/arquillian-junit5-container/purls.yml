@@ -3,3 +3,4 @@
 - pkg:maven/org.jboss.arquillian.junit5/arquillian-junit5-container@1.7.0.Alpha6?classifier=sources
 - pkg:maven/org.jboss.arquillian.junit5/arquillian-junit5-container@1.7.0.Alpha7?classifier=sources
 - pkg:maven/org.jboss.arquillian.junit5/arquillian-junit5-container@1.7.0.Alpha8?classifier=sources
+- pkg:maven/org.jboss.arquillian.junit5/arquillian-junit5-container@1.7.0.Alpha9?classifier=sources

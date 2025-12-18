@@ -1,0 +1,2 @@
+- pkg:maven/io.findify/clickhouse-akka-stream_2.13@0.4.6
+- pkg:maven/io.findify/clickhouse-akka-stream_2.13@0.4.6?classifier=sources

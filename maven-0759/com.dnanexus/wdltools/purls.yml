@@ -68,6 +68,10 @@
 - pkg:maven/com.dnanexus/wdltools@0.12.6?classifier=sources
 - pkg:maven/com.dnanexus/wdltools@0.12.7
 - pkg:maven/com.dnanexus/wdltools@0.12.7?classifier=sources
+- pkg:maven/com.dnanexus/wdltools@0.12.8
+- pkg:maven/com.dnanexus/wdltools@0.12.8?classifier=sources
+- pkg:maven/com.dnanexus/wdltools@0.12.9
+- pkg:maven/com.dnanexus/wdltools@0.12.9?classifier=sources
 - pkg:maven/com.dnanexus/wdltools@0.3.0
 - pkg:maven/com.dnanexus/wdltools@0.3.0?classifier=sources
 - pkg:maven/com.dnanexus/wdltools@0.3.1

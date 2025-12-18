@@ -1,0 +1,2 @@
+- pkg:maven/lu.uni.serval/flakime-core@0.1.2
+- pkg:maven/lu.uni.serval/flakime-core@0.1.2?classifier=sources
