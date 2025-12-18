@@ -1,0 +1,2 @@
+- pkg:maven/com.sap.cloud.sdk.datamodel/openapi-generator-maven-plugin@3.40.0
+- pkg:maven/com.sap.cloud.sdk.datamodel/openapi-generator-maven-plugin@3.40.0?classifier=sources

@@ -78,3 +78,5 @@
 - pkg:maven/com.force.api/force-partner-api@50.0.0?classifier=sources
 - pkg:maven/com.force.api/force-partner-api@51.0.0?classifier=sources
 - pkg:maven/com.force.api/force-partner-api@51.1.0?classifier=sources
+- pkg:maven/com.force.api/force-partner-api@51.2.0
+- pkg:maven/com.force.api/force-partner-api@51.2.0?classifier=sources

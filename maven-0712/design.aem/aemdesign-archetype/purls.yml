@@ -15,3 +15,9 @@
 - pkg:maven/design.aem/aemdesign-archetype@1.0.79?classifier=sources
 - pkg:maven/design.aem/aemdesign-archetype@1.0.80?classifier=sources
 - pkg:maven/design.aem/aemdesign-archetype@1.0.81?classifier=sources
+- pkg:maven/design.aem/aemdesign-archetype@1.0.82?classifier=sources
+- pkg:maven/design.aem/aemdesign-archetype@1.0.83?classifier=sources
+- pkg:maven/design.aem/aemdesign-archetype@1.0.87?classifier=sources
+- pkg:maven/design.aem/aemdesign-archetype@1.0.89?classifier=sources
+- pkg:maven/design.aem/aemdesign-archetype@1.0.90?classifier=sources
+- pkg:maven/design.aem/aemdesign-archetype@1.0.91?classifier=sources

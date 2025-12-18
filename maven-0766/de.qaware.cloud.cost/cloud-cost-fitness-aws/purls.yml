@@ -1,0 +1,2 @@
+- pkg:maven/de.qaware.cloud.cost/cloud-cost-fitness-aws@1.0.1
+- pkg:maven/de.qaware.cloud.cost/cloud-cost-fitness-aws@1.0.1?classifier=sources

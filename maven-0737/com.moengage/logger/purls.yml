@@ -1,0 +1,3 @@
+- pkg:maven/com.moengage/logger@0.0.1?classifier=sources
+- pkg:maven/com.moengage/logger@0.0.2?classifier=sources
+- pkg:maven/com.moengage/logger@0.0.3?classifier=sources

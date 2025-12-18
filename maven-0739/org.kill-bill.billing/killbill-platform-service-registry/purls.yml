@@ -60,3 +60,7 @@
 - pkg:maven/org.kill-bill.billing/killbill-platform-service-registry@0.40.3?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-platform-service-registry@0.40.4
 - pkg:maven/org.kill-bill.billing/killbill-platform-service-registry@0.40.4?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-platform-service-registry@0.40.5
+- pkg:maven/org.kill-bill.billing/killbill-platform-service-registry@0.40.5?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-platform-service-registry@0.40.6
+- pkg:maven/org.kill-bill.billing/killbill-platform-service-registry@0.40.6?classifier=sources

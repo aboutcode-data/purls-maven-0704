@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.hawkbit/hawkbit-extension-artifact-repository-gcs@0.3.0M7
+- pkg:maven/org.eclipse.hawkbit/hawkbit-extension-artifact-repository-gcs@0.3.0M7?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.dropbox.kaiken/kaiken-scoping-navgraph@1.0.5?classifier=sources
+- pkg:maven/com.dropbox.kaiken/kaiken-scoping-navgraph@1.0.6?classifier=sources

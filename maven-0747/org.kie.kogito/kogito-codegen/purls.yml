@@ -58,3 +58,5 @@
 - pkg:maven/org.kie.kogito/kogito-codegen@1.0.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-codegen@1.1.0.Final
 - pkg:maven/org.kie.kogito/kogito-codegen@1.1.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-codegen@1.2.0.Final
+- pkg:maven/org.kie.kogito/kogito-codegen@1.2.0.Final?classifier=sources

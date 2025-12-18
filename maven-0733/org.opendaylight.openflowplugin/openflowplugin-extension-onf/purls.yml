@@ -10,6 +10,10 @@
 - pkg:maven/org.opendaylight.openflowplugin/openflowplugin-extension-onf@0.11.0?classifier=sources
 - pkg:maven/org.opendaylight.openflowplugin/openflowplugin-extension-onf@0.11.1
 - pkg:maven/org.opendaylight.openflowplugin/openflowplugin-extension-onf@0.11.1?classifier=sources
+- pkg:maven/org.opendaylight.openflowplugin/openflowplugin-extension-onf@0.11.2
+- pkg:maven/org.opendaylight.openflowplugin/openflowplugin-extension-onf@0.11.2?classifier=sources
+- pkg:maven/org.opendaylight.openflowplugin/openflowplugin-extension-onf@0.11.3
+- pkg:maven/org.opendaylight.openflowplugin/openflowplugin-extension-onf@0.11.3?classifier=sources
 - pkg:maven/org.opendaylight.openflowplugin/openflowplugin-extension-onf@0.4.0-Carbon
 - pkg:maven/org.opendaylight.openflowplugin/openflowplugin-extension-onf@0.4.1-Carbon
 - pkg:maven/org.opendaylight.openflowplugin/openflowplugin-extension-onf@0.4.2-Carbon

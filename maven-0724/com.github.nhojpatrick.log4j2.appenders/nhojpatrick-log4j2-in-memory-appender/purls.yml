@@ -1,0 +1,2 @@
+- pkg:maven/com.github.nhojpatrick.log4j2.appenders/nhojpatrick-log4j2-in-memory-appender@1.0.0
+- pkg:maven/com.github.nhojpatrick.log4j2.appenders/nhojpatrick-log4j2-in-memory-appender@1.0.0?classifier=sources

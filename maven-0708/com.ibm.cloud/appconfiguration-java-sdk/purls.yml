@@ -1,0 +1,4 @@
+- pkg:maven/com.ibm.cloud/appconfiguration-java-sdk@0.0.9
+- pkg:maven/com.ibm.cloud/appconfiguration-java-sdk@0.0.9?classifier=sources
+- pkg:maven/com.ibm.cloud/appconfiguration-java-sdk@1.0.0
+- pkg:maven/com.ibm.cloud/appconfiguration-java-sdk@1.0.0?classifier=sources

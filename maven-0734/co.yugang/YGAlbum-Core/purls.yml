@@ -1,0 +1,4 @@
+- pkg:maven/co.yugang/YGAlbum-Core@1.0.0?classifier=sources
+- pkg:maven/co.yugang/YGAlbum-Core@1.0.0?type=aar
+- pkg:maven/co.yugang/YGAlbum-Core@1.0.1?classifier=sources
+- pkg:maven/co.yugang/YGAlbum-Core@1.0.1?type=aar

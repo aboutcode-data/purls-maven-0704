@@ -648,6 +648,8 @@
 - pkg:maven/net.nemerosa.ontrack/ontrack-acceptance@3.43.3?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-acceptance@3.43.4
 - pkg:maven/net.nemerosa.ontrack/ontrack-acceptance@3.43.4?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-acceptance@3.43.5
+- pkg:maven/net.nemerosa.ontrack/ontrack-acceptance@3.43.5?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-acceptance@experimental-pipeline-2521992
 - pkg:maven/net.nemerosa.ontrack/ontrack-acceptance@experimental-pipeline-2521992?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-acceptance@experimental-pipeline-3acef09

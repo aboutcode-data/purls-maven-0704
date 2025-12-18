@@ -1,0 +1,4 @@
+- pkg:maven/com.markelytics/surveySDK@3.0.0?classifier=sources
+- pkg:maven/com.markelytics/surveySDK@3.0.0?type=aar
+- pkg:maven/com.markelytics/surveySDK@3.1.0?classifier=sources
+- pkg:maven/com.markelytics/surveySDK@3.1.0?type=aar

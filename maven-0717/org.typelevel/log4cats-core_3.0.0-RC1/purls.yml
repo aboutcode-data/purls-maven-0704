@@ -1,0 +1,4 @@
+- pkg:maven/org.typelevel/log4cats-core_3.0.0-RC1@1.2.0
+- pkg:maven/org.typelevel/log4cats-core_3.0.0-RC1@1.2.0?classifier=sources
+- pkg:maven/org.typelevel/log4cats-core_3.0.0-RC1@2.0.0-RC1
+- pkg:maven/org.typelevel/log4cats-core_3.0.0-RC1@2.0.0-RC1?classifier=sources

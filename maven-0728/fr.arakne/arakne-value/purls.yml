@@ -2,3 +2,9 @@
 - pkg:maven/fr.arakne/arakne-value@0.1-alpha?classifier=sources
 - pkg:maven/fr.arakne/arakne-value@0.2-alpha
 - pkg:maven/fr.arakne/arakne-value@0.2-alpha?classifier=sources
+- pkg:maven/fr.arakne/arakne-value@0.3-alpha
+- pkg:maven/fr.arakne/arakne-value@0.3-alpha?classifier=sources
+- pkg:maven/fr.arakne/arakne-value@0.4-alpha
+- pkg:maven/fr.arakne/arakne-value@0.4-alpha?classifier=sources
+- pkg:maven/fr.arakne/arakne-value@0.5-alpha
+- pkg:maven/fr.arakne/arakne-value@0.5-alpha?classifier=sources

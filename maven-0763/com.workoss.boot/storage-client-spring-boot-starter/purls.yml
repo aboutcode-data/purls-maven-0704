@@ -1,0 +1,2 @@
+- pkg:maven/com.workoss.boot/storage-client-spring-boot-starter@1.0.8
+- pkg:maven/com.workoss.boot/storage-client-spring-boot-starter@1.0.8?classifier=sources

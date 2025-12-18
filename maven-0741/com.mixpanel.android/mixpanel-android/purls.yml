@@ -121,3 +121,5 @@
 - pkg:maven/com.mixpanel.android/mixpanel-android@5.8.5?type=aar
 - pkg:maven/com.mixpanel.android/mixpanel-android@5.8.6?classifier=sources
 - pkg:maven/com.mixpanel.android/mixpanel-android@5.8.6?type=aar
+- pkg:maven/com.mixpanel.android/mixpanel-android@5.8.7?classifier=sources
+- pkg:maven/com.mixpanel.android/mixpanel-android@5.8.7?type=aar

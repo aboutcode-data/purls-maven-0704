@@ -1,0 +1,2 @@
+- pkg:maven/de.alpharogroup/auth-application@1?classifier=sources
+- pkg:maven/de.alpharogroup/auth-application@2?classifier=sources

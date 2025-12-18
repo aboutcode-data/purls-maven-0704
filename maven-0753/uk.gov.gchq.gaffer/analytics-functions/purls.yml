@@ -22,3 +22,5 @@
 - pkg:maven/uk.gov.gchq.gaffer/analytics-functions@1.13.0?classifier=sources
 - pkg:maven/uk.gov.gchq.gaffer/analytics-functions@1.13.1
 - pkg:maven/uk.gov.gchq.gaffer/analytics-functions@1.13.1?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/analytics-functions@1.15.0
+- pkg:maven/uk.gov.gchq.gaffer/analytics-functions@1.15.0?classifier=sources

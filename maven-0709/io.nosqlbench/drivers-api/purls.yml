@@ -10,3 +10,4 @@
 - pkg:maven/io.nosqlbench/drivers-api@3.12.155
 - pkg:maven/io.nosqlbench/drivers-api@3.12.200
 - pkg:maven/io.nosqlbench/drivers-api@3.12.201
+- pkg:maven/io.nosqlbench/drivers-api@3.12.202

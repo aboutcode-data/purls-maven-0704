@@ -1,0 +1,2 @@
+- pkg:maven/com.aoindustries/aoserv-webservices-book@1.84.13
+- pkg:maven/com.aoindustries/aoserv-webservices-book@1.84.13?classifier=sources

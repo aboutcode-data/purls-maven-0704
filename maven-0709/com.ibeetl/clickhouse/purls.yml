@@ -1,0 +1,2 @@
+- pkg:maven/com.ibeetl/clickhouse@3.2.12-RELEASE
+- pkg:maven/com.ibeetl/clickhouse@3.2.12-RELEASE?classifier=sources

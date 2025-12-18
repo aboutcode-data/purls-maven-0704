@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.arrow/arrow-memory-netty@1.0.1?classifier=sources
 - pkg:maven/org.apache.arrow/arrow-memory-netty@2.0.0
 - pkg:maven/org.apache.arrow/arrow-memory-netty@2.0.0?classifier=sources
+- pkg:maven/org.apache.arrow/arrow-memory-netty@3.0.0
+- pkg:maven/org.apache.arrow/arrow-memory-netty@3.0.0?classifier=sources

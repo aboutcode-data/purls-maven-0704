@@ -130,10 +130,16 @@
 - pkg:maven/org.kie/kie-karaf-itests-domain-model@7.47.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-karaf-itests-domain-model@7.48.0.Final
 - pkg:maven/org.kie/kie-karaf-itests-domain-model@7.48.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-karaf-itests-domain-model@7.49.0.Final
+- pkg:maven/org.kie/kie-karaf-itests-domain-model@7.49.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-karaf-itests-domain-model@7.5.0.Final
 - pkg:maven/org.kie/kie-karaf-itests-domain-model@7.5.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-karaf-itests-domain-model@7.5.0.t018
 - pkg:maven/org.kie/kie-karaf-itests-domain-model@7.5.0.t018?classifier=sources
+- pkg:maven/org.kie/kie-karaf-itests-domain-model@7.50.0.Final
+- pkg:maven/org.kie/kie-karaf-itests-domain-model@7.50.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-karaf-itests-domain-model@7.51.0.Final
+- pkg:maven/org.kie/kie-karaf-itests-domain-model@7.51.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-karaf-itests-domain-model@7.6.0.Final
 - pkg:maven/org.kie/kie-karaf-itests-domain-model@7.6.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-karaf-itests-domain-model@7.6.0.t022

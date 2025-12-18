@@ -18,3 +18,5 @@
 - pkg:maven/com.tuntunhz.tools/wallet-sdk@0.0.8-snapshot
 - pkg:maven/com.tuntunhz.tools/wallet-sdk@0.0.8-snapshot?classifier=sources
 - pkg:maven/com.tuntunhz.tools/wallet-sdk@0.0.8?classifier=sources
+- pkg:maven/com.tuntunhz.tools/wallet-sdk@0.0.9
+- pkg:maven/com.tuntunhz.tools/wallet-sdk@0.0.9?classifier=sources

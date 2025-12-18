@@ -72,4 +72,10 @@
 - pkg:maven/org.wso2.charon/charon-parent@3.3.28?classifier=source-release&type=zip
 - pkg:maven/org.wso2.charon/charon-parent@3.3.29?classifier=source-release&type=zip
 - pkg:maven/org.wso2.charon/charon-parent@3.3.30?classifier=source-release&type=zip
+- pkg:maven/org.wso2.charon/charon-parent@3.3.31?classifier=source-release&type=zip
+- pkg:maven/org.wso2.charon/charon-parent@3.3.32?classifier=source-release&type=zip
+- pkg:maven/org.wso2.charon/charon-parent@3.3.33?classifier=source-release&type=zip
+- pkg:maven/org.wso2.charon/charon-parent@3.3.34?classifier=source-release&type=zip
+- pkg:maven/org.wso2.charon/charon-parent@3.3.35?classifier=source-release&type=zip
+- pkg:maven/org.wso2.charon/charon-parent@3.3.36?classifier=source-release&type=zip
 - pkg:maven/org.wso2.charon/charon-parent@3.3.3?classifier=source-release&type=zip

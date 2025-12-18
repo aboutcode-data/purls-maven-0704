@@ -24,3 +24,4 @@
 - pkg:maven/io.github.fomin.oas-gen/oas-gen-cli@0.0.33?classifier=sources
 - pkg:maven/io.github.fomin.oas-gen/oas-gen-cli@0.0.34?classifier=sources
 - pkg:maven/io.github.fomin.oas-gen/oas-gen-cli@0.0.35?classifier=sources
+- pkg:maven/io.github.fomin.oas-gen/oas-gen-cli@0.0.37?classifier=sources

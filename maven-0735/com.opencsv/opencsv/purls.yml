@@ -43,3 +43,4 @@
 - pkg:maven/com.opencsv/opencsv@5.2
 - pkg:maven/com.opencsv/opencsv@5.2?classifier=sources
 - pkg:maven/com.opencsv/opencsv@5.3?classifier=sources
+- pkg:maven/com.opencsv/opencsv@5.4?classifier=sources

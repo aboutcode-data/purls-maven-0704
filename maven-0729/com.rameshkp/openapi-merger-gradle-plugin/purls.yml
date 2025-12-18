@@ -1,1 +1,2 @@
 - pkg:maven/com.rameshkp/openapi-merger-gradle-plugin@1.0.2?classifier=sources
+- pkg:maven/com.rameshkp/openapi-merger-gradle-plugin@1.0.3?classifier=sources

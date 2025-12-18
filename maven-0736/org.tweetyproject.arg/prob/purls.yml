@@ -1,0 +1,4 @@
+- pkg:maven/org.tweetyproject.arg/prob@1.18
+- pkg:maven/org.tweetyproject.arg/prob@1.18?classifier=sources
+- pkg:maven/org.tweetyproject.arg/prob@1.19
+- pkg:maven/org.tweetyproject.arg/prob@1.19?classifier=sources

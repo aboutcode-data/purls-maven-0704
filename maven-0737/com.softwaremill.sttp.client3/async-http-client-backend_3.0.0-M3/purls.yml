@@ -4,3 +4,9 @@
 - pkg:maven/com.softwaremill.sttp.client3/async-http-client-backend_3.0.0-M3@3.0.0-RC15
 - pkg:maven/com.softwaremill.sttp.client3/async-http-client-backend_3.0.0-M3@3.0.0-RC15?classifier=sources
 - pkg:maven/com.softwaremill.sttp.client3/async-http-client-backend_3.0.0-M3@3.0.0?classifier=sources
+- pkg:maven/com.softwaremill.sttp.client3/async-http-client-backend_3.0.0-M3@3.1.0
+- pkg:maven/com.softwaremill.sttp.client3/async-http-client-backend_3.0.0-M3@3.1.0?classifier=sources
+- pkg:maven/com.softwaremill.sttp.client3/async-http-client-backend_3.0.0-M3@3.1.1
+- pkg:maven/com.softwaremill.sttp.client3/async-http-client-backend_3.0.0-M3@3.1.1?classifier=sources
+- pkg:maven/com.softwaremill.sttp.client3/async-http-client-backend_3.0.0-M3@3.1.2
+- pkg:maven/com.softwaremill.sttp.client3/async-http-client-backend_3.0.0-M3@3.1.2?classifier=sources

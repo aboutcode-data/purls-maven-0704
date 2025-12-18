@@ -20,3 +20,7 @@
 - pkg:maven/fun.hereis.code/all@1.9.RLS?classifier=sources
 - pkg:maven/fun.hereis.code/all@2.0.RLS
 - pkg:maven/fun.hereis.code/all@2.0.RLS?classifier=sources
+- pkg:maven/fun.hereis.code/all@2.1.RLS
+- pkg:maven/fun.hereis.code/all@2.1.RLS?classifier=sources
+- pkg:maven/fun.hereis.code/all@3.0.RLS
+- pkg:maven/fun.hereis.code/all@3.0.RLS?classifier=sources

@@ -122,6 +122,8 @@
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-elasticsearch@3.43.3?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-elasticsearch@3.43.4
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-elasticsearch@3.43.4?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-elasticsearch@3.43.5
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-elasticsearch@3.43.5?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-elasticsearch@feature-732-back-to-central-5e58285
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-elasticsearch@feature-732-back-to-central-5e58285?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-elasticsearch@feature-735-ui-publication-7c8bc12

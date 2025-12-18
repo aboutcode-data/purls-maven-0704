@@ -7,3 +7,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-restapi@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-restapi@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-restapi@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-restapi@RELEASE123?classifier=sources

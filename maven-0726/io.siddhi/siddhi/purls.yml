@@ -19,6 +19,9 @@
 - pkg:maven/io.siddhi/siddhi@5.1.14?classifier=source-release&type=zip
 - pkg:maven/io.siddhi/siddhi@5.1.15?classifier=source-release&type=zip
 - pkg:maven/io.siddhi/siddhi@5.1.16?classifier=source-release&type=zip
+- pkg:maven/io.siddhi/siddhi@5.1.17?classifier=source-release&type=zip
+- pkg:maven/io.siddhi/siddhi@5.1.18?classifier=source-release&type=zip
+- pkg:maven/io.siddhi/siddhi@5.1.19?classifier=source-release&type=zip
 - pkg:maven/io.siddhi/siddhi@5.1.1?classifier=source-release&type=zip
 - pkg:maven/io.siddhi/siddhi@5.1.2?classifier=source-release&type=zip
 - pkg:maven/io.siddhi/siddhi@5.1.3?classifier=source-release&type=zip

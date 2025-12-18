@@ -1,0 +1,4 @@
+- pkg:maven/de.naturzukunft.rdf4j/activitystreams@0.0.3
+- pkg:maven/de.naturzukunft.rdf4j/activitystreams@0.0.3?classifier=sources
+- pkg:maven/de.naturzukunft.rdf4j/activitystreams@0.0.5
+- pkg:maven/de.naturzukunft.rdf4j/activitystreams@0.0.5?classifier=sources

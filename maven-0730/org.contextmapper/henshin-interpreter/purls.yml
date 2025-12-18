@@ -1,1 +1,2 @@
 - pkg:maven/org.contextmapper/henshin-interpreter@1.4.0?classifier=sources
+- pkg:maven/org.contextmapper/henshin-interpreter@1.6.0?classifier=sources

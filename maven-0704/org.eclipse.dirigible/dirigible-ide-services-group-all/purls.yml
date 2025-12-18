@@ -7,6 +7,7 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-services-group-all@3.2.6
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-services-group-all@3.2.7
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-services-group-all@3.2.8
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-services-group-all@3.2.9
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-services-group-all@3.3.0
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-services-group-all@3.3.1
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-services-group-all@3.3.2
@@ -29,3 +30,10 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-services-group-all@5.4.0
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-services-group-all@5.5.0
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-services-group-all@5.6.0
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-services-group-all@5.7.0
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-services-group-all@5.7.1
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-services-group-all@5.8.0
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-services-group-all@5.8.1
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-services-group-all@5.8.2
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-services-group-all@5.8.3
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-services-group-all@5.8.4

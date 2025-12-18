@@ -1,0 +1,4 @@
+- pkg:maven/io.github.chris-zen/prometheus-datadog-bridge_2.10@0.1.5%2B1-5d2e2d78
+- pkg:maven/io.github.chris-zen/prometheus-datadog-bridge_2.10@0.1.5%2B1-5d2e2d78?classifier=sources
+- pkg:maven/io.github.chris-zen/prometheus-datadog-bridge_2.10@0.1.6
+- pkg:maven/io.github.chris-zen/prometheus-datadog-bridge_2.10@0.1.6?classifier=sources

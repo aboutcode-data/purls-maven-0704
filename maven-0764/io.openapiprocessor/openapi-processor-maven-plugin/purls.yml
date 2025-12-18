@@ -1,0 +1,2 @@
+- pkg:maven/io.openapiprocessor/openapi-processor-maven-plugin@2021.1
+- pkg:maven/io.openapiprocessor/openapi-processor-maven-plugin@2021.1?classifier=sources

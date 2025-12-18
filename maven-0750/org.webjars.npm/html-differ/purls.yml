@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/html-differ@1.4.0
+- pkg:maven/org.webjars.npm/html-differ@1.4.0?classifier=sources

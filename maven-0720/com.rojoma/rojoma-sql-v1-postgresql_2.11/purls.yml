@@ -1,0 +1,2 @@
+- pkg:maven/com.rojoma/rojoma-sql-v1-postgresql_2.11@0.0.1
+- pkg:maven/com.rojoma/rojoma-sql-v1-postgresql_2.11@0.0.1?classifier=sources

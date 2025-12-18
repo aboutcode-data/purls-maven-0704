@@ -40,3 +40,7 @@
 - pkg:maven/com.axibase/aggregation-log-filter-logback@2.0.4?classifier=sources
 - pkg:maven/com.axibase/aggregation-log-filter-logback@2.0.5
 - pkg:maven/com.axibase/aggregation-log-filter-logback@2.0.5?classifier=sources
+- pkg:maven/com.axibase/aggregation-log-filter-logback@2.0.6
+- pkg:maven/com.axibase/aggregation-log-filter-logback@2.0.6?classifier=sources
+- pkg:maven/com.axibase/aggregation-log-filter-logback@3.0.0
+- pkg:maven/com.axibase/aggregation-log-filter-logback@3.0.0?classifier=sources

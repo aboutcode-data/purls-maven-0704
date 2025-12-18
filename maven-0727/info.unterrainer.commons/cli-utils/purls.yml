@@ -4,3 +4,7 @@
 - pkg:maven/info.unterrainer.commons/cli-utils@0.2.5?classifier=sources
 - pkg:maven/info.unterrainer.commons/cli-utils@0.2.7
 - pkg:maven/info.unterrainer.commons/cli-utils@0.2.7?classifier=sources
+- pkg:maven/info.unterrainer.commons/cli-utils@0.2.8
+- pkg:maven/info.unterrainer.commons/cli-utils@0.2.8?classifier=sources
+- pkg:maven/info.unterrainer.commons/cli-utils@0.2.9
+- pkg:maven/info.unterrainer.commons/cli-utils@0.2.9?classifier=sources

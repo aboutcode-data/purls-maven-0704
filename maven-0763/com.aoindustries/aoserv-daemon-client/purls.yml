@@ -18,3 +18,5 @@
 - pkg:maven/com.aoindustries/aoserv-daemon-client@1.84.11?classifier=sources
 - pkg:maven/com.aoindustries/aoserv-daemon-client@1.84.12
 - pkg:maven/com.aoindustries/aoserv-daemon-client@1.84.12?classifier=sources
+- pkg:maven/com.aoindustries/aoserv-daemon-client@1.84.13
+- pkg:maven/com.aoindustries/aoserv-daemon-client@1.84.13?classifier=sources

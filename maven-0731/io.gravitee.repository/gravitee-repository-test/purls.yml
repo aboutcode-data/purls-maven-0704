@@ -65,6 +65,7 @@
 - pkg:maven/io.gravitee.repository/gravitee-repository-test@3.0.5
 - pkg:maven/io.gravitee.repository/gravitee-repository-test@3.0.6
 - pkg:maven/io.gravitee.repository/gravitee-repository-test@3.0.7
+- pkg:maven/io.gravitee.repository/gravitee-repository-test@3.0.8
 - pkg:maven/io.gravitee.repository/gravitee-repository-test@3.1.0
 - pkg:maven/io.gravitee.repository/gravitee-repository-test@3.1.1
 - pkg:maven/io.gravitee.repository/gravitee-repository-test@3.1.2
@@ -75,4 +76,9 @@
 - pkg:maven/io.gravitee.repository/gravitee-repository-test@3.3.1
 - pkg:maven/io.gravitee.repository/gravitee-repository-test@3.4.0
 - pkg:maven/io.gravitee.repository/gravitee-repository-test@3.4.1
+- pkg:maven/io.gravitee.repository/gravitee-repository-test@3.4.2
 - pkg:maven/io.gravitee.repository/gravitee-repository-test@3.5.0
+- pkg:maven/io.gravitee.repository/gravitee-repository-test@3.5.1
+- pkg:maven/io.gravitee.repository/gravitee-repository-test@3.5.2
+- pkg:maven/io.gravitee.repository/gravitee-repository-test@3.6.0
+- pkg:maven/io.gravitee.repository/gravitee-repository-test@3.6.1

@@ -1,0 +1,2 @@
+- pkg:maven/org.jeecgframework.boot/hibernate-re@2.4.2?classifier=sources
+- pkg:maven/org.jeecgframework.boot/hibernate-re@2.4.3-RC?classifier=sources

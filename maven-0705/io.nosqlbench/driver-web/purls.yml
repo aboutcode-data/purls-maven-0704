@@ -102,6 +102,8 @@
 - pkg:maven/io.nosqlbench/driver-web@3.12.200?classifier=sources
 - pkg:maven/io.nosqlbench/driver-web@3.12.201
 - pkg:maven/io.nosqlbench/driver-web@3.12.201?classifier=sources
+- pkg:maven/io.nosqlbench/driver-web@3.12.202
+- pkg:maven/io.nosqlbench/driver-web@3.12.202?classifier=sources
 - pkg:maven/io.nosqlbench/driver-web@3.12.83
 - pkg:maven/io.nosqlbench/driver-web@3.12.83?classifier=sources
 - pkg:maven/io.nosqlbench/driver-web@3.12.84

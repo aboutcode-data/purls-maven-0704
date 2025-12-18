@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/math-expression-evaluator@1.2.17?classifier=sources
 - pkg:maven/org.webjars.npm/math-expression-evaluator@1.2.22
 - pkg:maven/org.webjars.npm/math-expression-evaluator@1.2.22?classifier=sources
+- pkg:maven/org.webjars.npm/math-expression-evaluator@1.3.7
+- pkg:maven/org.webjars.npm/math-expression-evaluator@1.3.7?classifier=sources

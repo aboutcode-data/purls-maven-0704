@@ -1,0 +1,4 @@
+- pkg:maven/com.sksamuel.scapegoat/scalac-scapegoat-plugin_2.13.4@1.4.7
+- pkg:maven/com.sksamuel.scapegoat/scalac-scapegoat-plugin_2.13.4@1.4.7?classifier=sources
+- pkg:maven/com.sksamuel.scapegoat/scalac-scapegoat-plugin_2.13.4@1.4.8
+- pkg:maven/com.sksamuel.scapegoat/scalac-scapegoat-plugin_2.13.4@1.4.8?classifier=sources

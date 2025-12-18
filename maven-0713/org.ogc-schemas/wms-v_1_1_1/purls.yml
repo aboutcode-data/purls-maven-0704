@@ -1,0 +1,2 @@
+- pkg:maven/org.ogc-schemas/wms-v_1_1_1@3.0.0
+- pkg:maven/org.ogc-schemas/wms-v_1_1_1@3.0.0?classifier=sources

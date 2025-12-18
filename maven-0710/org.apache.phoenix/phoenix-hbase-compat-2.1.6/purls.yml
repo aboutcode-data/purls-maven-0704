@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.phoenix/phoenix-hbase-compat-2.1.6@5.1.0
+- pkg:maven/org.apache.phoenix/phoenix-hbase-compat-2.1.6@5.1.0?classifier=sources

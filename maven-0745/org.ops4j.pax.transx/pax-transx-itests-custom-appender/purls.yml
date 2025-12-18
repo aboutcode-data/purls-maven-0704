@@ -1,0 +1,2 @@
+- pkg:maven/org.ops4j.pax.transx/pax-transx-itests-custom-appender@0.5.0
+- pkg:maven/org.ops4j.pax.transx/pax-transx-itests-custom-appender@0.5.0?classifier=sources

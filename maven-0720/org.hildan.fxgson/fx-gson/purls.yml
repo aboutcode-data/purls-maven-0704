@@ -6,3 +6,5 @@
 - pkg:maven/org.hildan.fxgson/fx-gson@3.1.2?classifier=sources
 - pkg:maven/org.hildan.fxgson/fx-gson@4.0.0
 - pkg:maven/org.hildan.fxgson/fx-gson@4.0.0?classifier=sources
+- pkg:maven/org.hildan.fxgson/fx-gson@4.0.1
+- pkg:maven/org.hildan.fxgson/fx-gson@4.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.hono/hono-client-kafka-common@1.6.0
+- pkg:maven/org.eclipse.hono/hono-client-kafka-common@1.6.0?classifier=sources

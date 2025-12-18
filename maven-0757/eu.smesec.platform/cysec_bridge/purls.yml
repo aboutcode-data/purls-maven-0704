@@ -1,0 +1,2 @@
+- pkg:maven/eu.smesec.platform/cysec_bridge@0.2.0
+- pkg:maven/eu.smesec.platform/cysec_bridge@0.2.0?classifier=sources

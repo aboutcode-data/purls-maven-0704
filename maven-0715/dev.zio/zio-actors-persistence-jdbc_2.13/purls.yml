@@ -6,3 +6,5 @@
 - pkg:maven/dev.zio/zio-actors-persistence-jdbc_2.13@0.0.7?classifier=sources
 - pkg:maven/dev.zio/zio-actors-persistence-jdbc_2.13@0.0.8
 - pkg:maven/dev.zio/zio-actors-persistence-jdbc_2.13@0.0.8?classifier=sources
+- pkg:maven/dev.zio/zio-actors-persistence-jdbc_2.13@0.0.9
+- pkg:maven/dev.zio/zio-actors-persistence-jdbc_2.13@0.0.9?classifier=sources

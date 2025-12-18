@@ -10,3 +10,4 @@
 - pkg:maven/org.fxyz3d/fxyz3d@0.5.1?classifier=sources
 - pkg:maven/org.fxyz3d/fxyz3d@0.5.2
 - pkg:maven/org.fxyz3d/fxyz3d@0.5.2?classifier=sources
+- pkg:maven/org.fxyz3d/fxyz3d@0.5.3?classifier=sources

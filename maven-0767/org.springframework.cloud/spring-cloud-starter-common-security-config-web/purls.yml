@@ -18,3 +18,4 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-common-security-config-web@1.4.2
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-common-security-config-web@1.4.3
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-common-security-config-web@1.5.0
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-common-security-config-web@1.5.1

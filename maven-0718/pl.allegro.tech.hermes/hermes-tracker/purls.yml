@@ -239,3 +239,5 @@
 - pkg:maven/pl.allegro.tech.hermes/hermes-tracker@1.7.0?classifier=sources
 - pkg:maven/pl.allegro.tech.hermes/hermes-tracker@1.8.0?classifier=sources
 - pkg:maven/pl.allegro.tech.hermes/hermes-tracker@1.8.1?classifier=sources
+- pkg:maven/pl.allegro.tech.hermes/hermes-tracker@1.8.2?classifier=sources
+- pkg:maven/pl.allegro.tech.hermes/hermes-tracker@1.8.3?classifier=sources

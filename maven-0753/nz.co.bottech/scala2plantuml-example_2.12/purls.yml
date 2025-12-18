@@ -1,0 +1,4 @@
+- pkg:maven/nz.co.bottech/scala2plantuml-example_2.12@0.2.0
+- pkg:maven/nz.co.bottech/scala2plantuml-example_2.12@0.2.0?classifier=sources
+- pkg:maven/nz.co.bottech/scala2plantuml-example_2.12@0.3.0
+- pkg:maven/nz.co.bottech/scala2plantuml-example_2.12@0.3.0?classifier=sources

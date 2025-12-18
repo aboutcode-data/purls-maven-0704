@@ -1,2 +1,4 @@
 - pkg:maven/com.batch.android/firebase-dispatcher@1.0.0?classifier=sources
 - pkg:maven/com.batch.android/firebase-dispatcher@1.0.0?type=aar
+- pkg:maven/com.batch.android/firebase-dispatcher@2.0.0?classifier=sources
+- pkg:maven/com.batch.android/firebase-dispatcher@2.0.0?type=aar

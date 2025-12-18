@@ -120,5 +120,9 @@
 - pkg:maven/io.netty/netty-testsuite-autobahn@4.1.57.Final?classifier=sources
 - pkg:maven/io.netty/netty-testsuite-autobahn@4.1.58.Final
 - pkg:maven/io.netty/netty-testsuite-autobahn@4.1.58.Final?classifier=sources
+- pkg:maven/io.netty/netty-testsuite-autobahn@4.1.59.Final
+- pkg:maven/io.netty/netty-testsuite-autobahn@4.1.59.Final?classifier=sources
+- pkg:maven/io.netty/netty-testsuite-autobahn@4.1.60.Final
+- pkg:maven/io.netty/netty-testsuite-autobahn@4.1.60.Final?classifier=sources
 - pkg:maven/io.netty/netty-testsuite-autobahn@4.1.9.Final
 - pkg:maven/io.netty/netty-testsuite-autobahn@4.1.9.Final?classifier=sources

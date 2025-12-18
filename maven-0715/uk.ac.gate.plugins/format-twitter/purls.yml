@@ -6,3 +6,5 @@
 - pkg:maven/uk.ac.gate.plugins/format-twitter@8.6?classifier=sources
 - pkg:maven/uk.ac.gate.plugins/format-twitter@8.7
 - pkg:maven/uk.ac.gate.plugins/format-twitter@8.7?classifier=sources
+- pkg:maven/uk.ac.gate.plugins/format-twitter@8.8
+- pkg:maven/uk.ac.gate.plugins/format-twitter@8.8?classifier=sources

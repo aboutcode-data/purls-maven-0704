@@ -10,6 +10,7 @@
 - pkg:maven/com.datomic/client-api@0.8.51
 - pkg:maven/com.datomic/client-api@0.8.52
 - pkg:maven/com.datomic/client-api@0.8.54
+- pkg:maven/com.datomic/client-api@0.8.55
 - pkg:maven/com.datomic/client-api@0.8.6
 - pkg:maven/com.datomic/client-api@0.8.7
 - pkg:maven/com.datomic/client-api@0.8.8

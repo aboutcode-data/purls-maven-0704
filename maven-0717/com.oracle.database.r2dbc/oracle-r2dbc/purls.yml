@@ -1,0 +1,2 @@
+- pkg:maven/com.oracle.database.r2dbc/oracle-r2dbc@0.1.0
+- pkg:maven/com.oracle.database.r2dbc/oracle-r2dbc@0.1.0?classifier=sources

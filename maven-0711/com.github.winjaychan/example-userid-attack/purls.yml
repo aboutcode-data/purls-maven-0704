@@ -1,0 +1,2 @@
+- pkg:maven/com.github.winjaychan/example-userid-attack@0.0.2
+- pkg:maven/com.github.winjaychan/example-userid-attack@0.0.2?classifier=sources

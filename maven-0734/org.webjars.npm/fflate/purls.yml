@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/fflate@0.3.10?classifier=sources
 - pkg:maven/org.webjars.npm/fflate@0.3.11
 - pkg:maven/org.webjars.npm/fflate@0.3.11?classifier=sources
+- pkg:maven/org.webjars.npm/fflate@0.4.8
+- pkg:maven/org.webjars.npm/fflate@0.4.8?classifier=sources

@@ -126,3 +126,7 @@
 - pkg:maven/com.playtika.testcontainers/embedded-couchbase@1.9?classifier=sources
 - pkg:maven/com.playtika.testcontainers/embedded-couchbase@2.0.0
 - pkg:maven/com.playtika.testcontainers/embedded-couchbase@2.0.0?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-couchbase@2.0.3
+- pkg:maven/com.playtika.testcontainers/embedded-couchbase@2.0.3?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-couchbase@2.0.4
+- pkg:maven/com.playtika.testcontainers/embedded-couchbase@2.0.4?classifier=sources

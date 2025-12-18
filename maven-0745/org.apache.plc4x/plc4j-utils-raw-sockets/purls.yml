@@ -14,3 +14,5 @@
 - pkg:maven/org.apache.plc4x/plc4j-utils-raw-sockets@0.6.0?classifier=sources
 - pkg:maven/org.apache.plc4x/plc4j-utils-raw-sockets@0.7.0
 - pkg:maven/org.apache.plc4x/plc4j-utils-raw-sockets@0.7.0?classifier=sources
+- pkg:maven/org.apache.plc4x/plc4j-utils-raw-sockets@0.8.0
+- pkg:maven/org.apache.plc4x/plc4j-utils-raw-sockets@0.8.0?classifier=sources

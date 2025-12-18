@@ -1,0 +1,2 @@
+- pkg:maven/com.codecommit/cats-effect-testing-scalatest-scalacheck_3.0.0-M3@0.5.1
+- pkg:maven/com.codecommit/cats-effect-testing-scalatest-scalacheck_3.0.0-M3@0.5.1?classifier=sources

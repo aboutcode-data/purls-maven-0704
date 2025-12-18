@@ -1,0 +1,6 @@
+- pkg:maven/io.karte.android/variables@2.0.0?classifier=sources
+- pkg:maven/io.karte.android/variables@2.0.0?type=aar
+- pkg:maven/io.karte.android/variables@2.1.0?classifier=sources
+- pkg:maven/io.karte.android/variables@2.1.0?type=aar
+- pkg:maven/io.karte.android/variables@2.2.0?classifier=sources
+- pkg:maven/io.karte.android/variables@2.2.0?type=aar

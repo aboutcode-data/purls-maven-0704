@@ -1,0 +1,4 @@
+- pkg:maven/software.amazon.awsconstructs/lambdasagemakerendpoint@1.92.0
+- pkg:maven/software.amazon.awsconstructs/lambdasagemakerendpoint@1.92.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/lambdasagemakerendpoint@1.93.0
+- pkg:maven/software.amazon.awsconstructs/lambdasagemakerendpoint@1.93.0?classifier=sources

@@ -50,3 +50,5 @@
 - pkg:maven/vip.justlive/oxygen-web-undertow@3.0.3?classifier=sources
 - pkg:maven/vip.justlive/oxygen-web-undertow@3.0.4
 - pkg:maven/vip.justlive/oxygen-web-undertow@3.0.4?classifier=sources
+- pkg:maven/vip.justlive/oxygen-web-undertow@3.0.5
+- pkg:maven/vip.justlive/oxygen-web-undertow@3.0.5?classifier=sources

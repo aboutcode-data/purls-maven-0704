@@ -28,3 +28,5 @@
 - pkg:maven/com.github.daixuyang/mp-util@1.1.2.RELEASE?classifier=sources
 - pkg:maven/com.github.daixuyang/mp-util@1.1.3.RELEASE
 - pkg:maven/com.github.daixuyang/mp-util@1.1.3.RELEASE?classifier=sources
+- pkg:maven/com.github.daixuyang/mp-util@1.1.4.RELEASE
+- pkg:maven/com.github.daixuyang/mp-util@1.1.4.RELEASE?classifier=sources

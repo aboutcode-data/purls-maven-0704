@@ -1,0 +1,2 @@
+- pkg:maven/com.github.sjoerdvankreel/xt.audio@1.8?classifier=sources
+- pkg:maven/com.github.sjoerdvankreel/xt.audio@1.9?classifier=sources

@@ -10,6 +10,8 @@
 - pkg:maven/foundation.fluent.api/fluent-config-generator@2.14?classifier=sources
 - pkg:maven/foundation.fluent.api/fluent-config-generator@2.15
 - pkg:maven/foundation.fluent.api/fluent-config-generator@2.15?classifier=sources
+- pkg:maven/foundation.fluent.api/fluent-config-generator@2.16
+- pkg:maven/foundation.fluent.api/fluent-config-generator@2.16?classifier=sources
 - pkg:maven/foundation.fluent.api/fluent-config-generator@2.4
 - pkg:maven/foundation.fluent.api/fluent-config-generator@2.4?classifier=sources
 - pkg:maven/foundation.fluent.api/fluent-config-generator@2.5

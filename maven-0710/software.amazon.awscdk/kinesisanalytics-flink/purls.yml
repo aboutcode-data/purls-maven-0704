@@ -1,0 +1,14 @@
+- pkg:maven/software.amazon.awscdk/kinesisanalytics-flink@1.90.0
+- pkg:maven/software.amazon.awscdk/kinesisanalytics-flink@1.90.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/kinesisanalytics-flink@1.90.1
+- pkg:maven/software.amazon.awscdk/kinesisanalytics-flink@1.90.1?classifier=sources
+- pkg:maven/software.amazon.awscdk/kinesisanalytics-flink@1.91.0
+- pkg:maven/software.amazon.awscdk/kinesisanalytics-flink@1.91.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/kinesisanalytics-flink@1.92.0
+- pkg:maven/software.amazon.awscdk/kinesisanalytics-flink@1.92.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/kinesisanalytics-flink@1.93.0
+- pkg:maven/software.amazon.awscdk/kinesisanalytics-flink@1.93.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/kinesisanalytics-flink@1.94.0
+- pkg:maven/software.amazon.awscdk/kinesisanalytics-flink@1.94.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/kinesisanalytics-flink@1.94.1
+- pkg:maven/software.amazon.awscdk/kinesisanalytics-flink@1.94.1?classifier=sources

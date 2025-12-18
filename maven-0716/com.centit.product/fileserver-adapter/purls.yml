@@ -1,0 +1,2 @@
+- pkg:maven/com.centit.product/fileserver-adapter@3.2.2101
+- pkg:maven/com.centit.product/fileserver-adapter@3.2.2101?classifier=sources

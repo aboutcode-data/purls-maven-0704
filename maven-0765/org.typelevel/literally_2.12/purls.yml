@@ -1,0 +1,14 @@
+- pkg:maven/org.typelevel/literally_2.12@0.1-0bd5541
+- pkg:maven/org.typelevel/literally_2.12@0.1-0bd5541?classifier=sources
+- pkg:maven/org.typelevel/literally_2.12@0.1-138de63
+- pkg:maven/org.typelevel/literally_2.12@0.1-138de63?classifier=sources
+- pkg:maven/org.typelevel/literally_2.12@0.1-360f22d
+- pkg:maven/org.typelevel/literally_2.12@0.1-360f22d?classifier=sources
+- pkg:maven/org.typelevel/literally_2.12@0.1-8d62589
+- pkg:maven/org.typelevel/literally_2.12@0.1-8d62589?classifier=sources
+- pkg:maven/org.typelevel/literally_2.12@0.1-99aa7e5
+- pkg:maven/org.typelevel/literally_2.12@0.1-99aa7e5?classifier=sources
+- pkg:maven/org.typelevel/literally_2.12@0.1-ac03098
+- pkg:maven/org.typelevel/literally_2.12@0.1-ac03098?classifier=sources
+- pkg:maven/org.typelevel/literally_2.12@1.0.0-RC1
+- pkg:maven/org.typelevel/literally_2.12@1.0.0-RC1?classifier=sources

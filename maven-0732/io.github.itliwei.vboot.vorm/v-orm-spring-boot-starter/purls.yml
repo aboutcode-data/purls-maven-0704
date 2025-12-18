@@ -1,0 +1,2 @@
+- pkg:maven/io.github.itliwei.vboot.vorm/v-orm-spring-boot-starter@1.0.0-RELEASE
+- pkg:maven/io.github.itliwei.vboot.vorm/v-orm-spring-boot-starter@1.0.0-RELEASE?classifier=sources

@@ -3,3 +3,4 @@
 - pkg:maven/com.aftia.plugin/aem-build-maven-plugin.test@1.1.4
 - pkg:maven/com.aftia.plugin/aem-build-maven-plugin.test@1.2.0
 - pkg:maven/com.aftia.plugin/aem-build-maven-plugin.test@1.2.1
+- pkg:maven/com.aftia.plugin/aem-build-maven-plugin.test@1.2.2

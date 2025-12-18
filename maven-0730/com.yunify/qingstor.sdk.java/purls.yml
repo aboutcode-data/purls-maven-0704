@@ -82,3 +82,4 @@
 - pkg:maven/com.yunify/qingstor.sdk.java@2.3.4?classifier=sources
 - pkg:maven/com.yunify/qingstor.sdk.java@2.4.0?classifier=sources
 - pkg:maven/com.yunify/qingstor.sdk.java@2.5.0?classifier=sources
+- pkg:maven/com.yunify/qingstor.sdk.java@2.5.1?classifier=sources

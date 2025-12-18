@@ -20,3 +20,5 @@
 - pkg:maven/com.cognitect.aws/workmail@801.2.686.0?classifier=sources
 - pkg:maven/com.cognitect.aws/workmail@809.2.784.0
 - pkg:maven/com.cognitect.aws/workmail@809.2.784.0?classifier=sources
+- pkg:maven/com.cognitect.aws/workmail@811.2.844.0
+- pkg:maven/com.cognitect.aws/workmail@811.2.844.0?classifier=sources

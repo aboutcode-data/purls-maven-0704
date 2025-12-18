@@ -1,0 +1,2 @@
+- pkg:maven/org.sakaiproject.gradebookng/gradebookng-bundle@21.0
+- pkg:maven/org.sakaiproject.gradebookng/gradebookng-bundle@21.0?classifier=sources

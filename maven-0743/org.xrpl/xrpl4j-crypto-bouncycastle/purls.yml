@@ -1,0 +1,2 @@
+- pkg:maven/org.xrpl/xrpl4j-crypto-bouncycastle@1.2.0
+- pkg:maven/org.xrpl/xrpl4j-crypto-bouncycastle@1.2.0?classifier=sources

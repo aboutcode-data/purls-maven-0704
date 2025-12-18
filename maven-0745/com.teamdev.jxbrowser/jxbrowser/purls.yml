@@ -1,0 +1,2 @@
+- pkg:maven/com.teamdev.jxbrowser/jxbrowser@7.12.2
+- pkg:maven/com.teamdev.jxbrowser/jxbrowser@7.12.2?classifier=sources

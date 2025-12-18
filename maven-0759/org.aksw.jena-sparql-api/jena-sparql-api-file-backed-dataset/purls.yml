@@ -1,0 +1,2 @@
+- pkg:maven/org.aksw.jena-sparql-api/jena-sparql-api-file-backed-dataset@3.17.0-1
+- pkg:maven/org.aksw.jena-sparql-api/jena-sparql-api-file-backed-dataset@3.17.0-1?classifier=sources

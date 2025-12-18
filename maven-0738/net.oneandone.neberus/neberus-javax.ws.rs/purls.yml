@@ -14,3 +14,5 @@
 - pkg:maven/net.oneandone.neberus/neberus-javax.ws.rs@1.4.0?classifier=sources
 - pkg:maven/net.oneandone.neberus/neberus-javax.ws.rs@2.0.0
 - pkg:maven/net.oneandone.neberus/neberus-javax.ws.rs@2.0.0?classifier=sources
+- pkg:maven/net.oneandone.neberus/neberus-javax.ws.rs@3.0.0-RC1
+- pkg:maven/net.oneandone.neberus/neberus-javax.ws.rs@3.0.0-RC1?classifier=sources

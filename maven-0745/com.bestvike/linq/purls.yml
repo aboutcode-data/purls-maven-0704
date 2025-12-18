@@ -10,3 +10,5 @@
 - pkg:maven/com.bestvike/linq@3.0.0?classifier=sources
 - pkg:maven/com.bestvike/linq@3.1.0
 - pkg:maven/com.bestvike/linq@3.1.0?classifier=sources
+- pkg:maven/com.bestvike/linq@5.0.0
+- pkg:maven/com.bestvike/linq@5.0.0?classifier=sources

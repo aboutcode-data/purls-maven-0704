@@ -10,3 +10,7 @@
 - pkg:maven/io.streamthoughts/azkarra-json-serializers@0.7.4?classifier=sources
 - pkg:maven/io.streamthoughts/azkarra-json-serializers@0.8.0
 - pkg:maven/io.streamthoughts/azkarra-json-serializers@0.8.0?classifier=sources
+- pkg:maven/io.streamthoughts/azkarra-json-serializers@0.9.0
+- pkg:maven/io.streamthoughts/azkarra-json-serializers@0.9.0?classifier=sources
+- pkg:maven/io.streamthoughts/azkarra-json-serializers@0.9.1
+- pkg:maven/io.streamthoughts/azkarra-json-serializers@0.9.1?classifier=sources

@@ -182,3 +182,9 @@
 - pkg:maven/io.github.portlek/configs-bukkit@4.9.9.6?classifier=sources
 - pkg:maven/io.github.portlek/configs-bukkit@4.9.9?classifier=sources
 - pkg:maven/io.github.portlek/configs-bukkit@4.9?classifier=sources
+- pkg:maven/io.github.portlek/configs-bukkit@5.8.0
+- pkg:maven/io.github.portlek/configs-bukkit@5.8.0?classifier=sources
+- pkg:maven/io.github.portlek/configs-bukkit@5.9.0
+- pkg:maven/io.github.portlek/configs-bukkit@5.9.0?classifier=sources
+- pkg:maven/io.github.portlek/configs-bukkit@5.9.1
+- pkg:maven/io.github.portlek/configs-bukkit@5.9.1?classifier=sources

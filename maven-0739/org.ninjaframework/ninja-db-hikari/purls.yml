@@ -14,3 +14,7 @@
 - pkg:maven/org.ninjaframework/ninja-db-hikari@1.0.0-beta7
 - pkg:maven/org.ninjaframework/ninja-db-hikari@1.0.0-beta7?classifier=sources
 - pkg:maven/org.ninjaframework/ninja-db-hikari@1.0.0?classifier=sources
+- pkg:maven/org.ninjaframework/ninja-db-hikari@1.0.1
+- pkg:maven/org.ninjaframework/ninja-db-hikari@1.0.1?classifier=sources
+- pkg:maven/org.ninjaframework/ninja-db-hikari@1.0.2
+- pkg:maven/org.ninjaframework/ninja-db-hikari@1.0.2?classifier=sources

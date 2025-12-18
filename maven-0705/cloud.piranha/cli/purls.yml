@@ -6,3 +6,7 @@
 - pkg:maven/cloud.piranha/cli@20.8.0?classifier=sources
 - pkg:maven/cloud.piranha/cli@20.9.0
 - pkg:maven/cloud.piranha/cli@20.9.0?classifier=sources
+- pkg:maven/cloud.piranha/cli@21.2.0
+- pkg:maven/cloud.piranha/cli@21.2.0?classifier=sources
+- pkg:maven/cloud.piranha/cli@21.3.0
+- pkg:maven/cloud.piranha/cli@21.3.0?classifier=sources

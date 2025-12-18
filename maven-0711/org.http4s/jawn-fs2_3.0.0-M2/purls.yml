@@ -1,0 +1,4 @@
+- pkg:maven/org.http4s/jawn-fs2_3.0.0-M2@1.0.1
+- pkg:maven/org.http4s/jawn-fs2_3.0.0-M2@1.0.1-RC3
+- pkg:maven/org.http4s/jawn-fs2_3.0.0-M2@1.0.1-RC3?classifier=sources
+- pkg:maven/org.http4s/jawn-fs2_3.0.0-M2@1.0.1?classifier=sources

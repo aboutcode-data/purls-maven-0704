@@ -6,6 +6,8 @@
 - pkg:maven/org.ow2.authzforce/authzforce-ce-pap-dao-flat-file@11.0.0?classifier=sources
 - pkg:maven/org.ow2.authzforce/authzforce-ce-pap-dao-flat-file@12.0.0
 - pkg:maven/org.ow2.authzforce/authzforce-ce-pap-dao-flat-file@12.0.0?classifier=sources
+- pkg:maven/org.ow2.authzforce/authzforce-ce-pap-dao-flat-file@13.0.0
+- pkg:maven/org.ow2.authzforce/authzforce-ce-pap-dao-flat-file@13.0.0?classifier=sources
 - pkg:maven/org.ow2.authzforce/authzforce-ce-pap-dao-flat-file@4.0.0
 - pkg:maven/org.ow2.authzforce/authzforce-ce-pap-dao-flat-file@4.0.0?classifier=sources
 - pkg:maven/org.ow2.authzforce/authzforce-ce-pap-dao-flat-file@5.0.0

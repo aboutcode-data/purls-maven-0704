@@ -18,3 +18,7 @@
 - pkg:maven/com.fengwenyi/api-result@2.2.0.RELEASE?classifier=sources
 - pkg:maven/com.fengwenyi/api-result@2.2.1.RELEASE
 - pkg:maven/com.fengwenyi/api-result@2.2.1.RELEASE?classifier=sources
+- pkg:maven/com.fengwenyi/api-result@2.3.0
+- pkg:maven/com.fengwenyi/api-result@2.3.0?classifier=sources
+- pkg:maven/com.fengwenyi/api-result@2.3.1
+- pkg:maven/com.fengwenyi/api-result@2.3.1?classifier=sources

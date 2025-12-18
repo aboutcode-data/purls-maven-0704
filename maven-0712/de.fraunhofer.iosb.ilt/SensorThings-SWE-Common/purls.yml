@@ -1,0 +1,2 @@
+- pkg:maven/de.fraunhofer.iosb.ilt/SensorThings-SWE-Common@0.6
+- pkg:maven/de.fraunhofer.iosb.ilt/SensorThings-SWE-Common@0.6?classifier=sources

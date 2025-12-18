@@ -1,0 +1,4 @@
+- pkg:maven/com.softwaremill.sttp.shared/core_native0.4_2.11@1.1.0
+- pkg:maven/com.softwaremill.sttp.shared/core_native0.4_2.11@1.1.0?classifier=sources
+- pkg:maven/com.softwaremill.sttp.shared/core_native0.4_2.11@1.1.1
+- pkg:maven/com.softwaremill.sttp.shared/core_native0.4_2.11@1.1.1?classifier=sources

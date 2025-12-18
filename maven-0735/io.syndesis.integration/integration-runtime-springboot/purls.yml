@@ -1,5 +1,7 @@
 - pkg:maven/io.syndesis.integration/integration-runtime-springboot@1.10.0
 - pkg:maven/io.syndesis.integration/integration-runtime-springboot@1.10.0?classifier=sources
+- pkg:maven/io.syndesis.integration/integration-runtime-springboot@1.11.0
+- pkg:maven/io.syndesis.integration/integration-runtime-springboot@1.11.0?classifier=sources
 - pkg:maven/io.syndesis.integration/integration-runtime-springboot@1.6.0
 - pkg:maven/io.syndesis.integration/integration-runtime-springboot@1.6.0?classifier=sources
 - pkg:maven/io.syndesis.integration/integration-runtime-springboot@1.6.1

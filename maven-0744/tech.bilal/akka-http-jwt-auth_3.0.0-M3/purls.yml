@@ -1,0 +1,4 @@
+- pkg:maven/tech.bilal/akka-http-jwt-auth_3.0.0-M3@0.0.2-beta
+- pkg:maven/tech.bilal/akka-http-jwt-auth_3.0.0-M3@0.0.2-beta?classifier=sources
+- pkg:maven/tech.bilal/akka-http-jwt-auth_3.0.0-M3@0.0.3-beta
+- pkg:maven/tech.bilal/akka-http-jwt-auth_3.0.0-M3@0.0.3-beta?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.github.a982338665/lf-open-java-swagger2word@1.0.0-RELEASE
 - pkg:maven/com.github.a982338665/lf-open-java-swagger2word@1.0.0-RELEASE?classifier=sources
+- pkg:maven/com.github.a982338665/lf-open-java-swagger2word@1.0.2-RELEASE
+- pkg:maven/com.github.a982338665/lf-open-java-swagger2word@1.0.2-RELEASE?classifier=sources

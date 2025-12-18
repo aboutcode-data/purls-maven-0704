@@ -1,2 +1,4 @@
 - pkg:maven/com.centit.framework/centit-ip-app-boot-jdbc-config@2.1.2007
 - pkg:maven/com.centit.framework/centit-ip-app-boot-jdbc-config@2.1.2007?classifier=sources
+- pkg:maven/com.centit.framework/centit-ip-app-boot-jdbc-config@5.0.2101
+- pkg:maven/com.centit.framework/centit-ip-app-boot-jdbc-config@5.0.2101?classifier=sources

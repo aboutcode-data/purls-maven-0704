@@ -2,3 +2,6 @@
 - pkg:maven/cloud.piranha.war/piranha-war-webapp@20.11.0?type=war
 - pkg:maven/cloud.piranha.war/piranha-war-webapp@20.12.0?type=war
 - pkg:maven/cloud.piranha.war/piranha-war-webapp@20.9.0?type=war
+- pkg:maven/cloud.piranha.war/piranha-war-webapp@21.1.0?type=war
+- pkg:maven/cloud.piranha.war/piranha-war-webapp@21.2.0?type=war
+- pkg:maven/cloud.piranha.war/piranha-war-webapp@21.3.0?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/com.sfxcode.templating/pebble-scala_3.0.0-RC1@1.0.0
+- pkg:maven/com.sfxcode.templating/pebble-scala_3.0.0-RC1@1.0.0?classifier=sources
