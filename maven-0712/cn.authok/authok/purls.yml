@@ -1,0 +1,2 @@
+- pkg:maven/cn.authok/authok@1.35.0?classifier=sources
+- pkg:maven/cn.authok/authok@1.35.1?classifier=sources

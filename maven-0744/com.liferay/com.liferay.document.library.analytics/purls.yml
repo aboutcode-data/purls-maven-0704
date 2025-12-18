@@ -25,6 +25,9 @@
 - pkg:maven/com.liferay/com.liferay.document.library.analytics@1.0.8
 - pkg:maven/com.liferay/com.liferay.document.library.analytics@1.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.analytics@1.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.analytics@1.0.9
+- pkg:maven/com.liferay/com.liferay.document.library.analytics@1.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.analytics@1.0.9?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.analytics@2.0.0
 - pkg:maven/com.liferay/com.liferay.document.library.analytics@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.analytics@2.0.0?classifier=sources-commercial
@@ -49,6 +52,12 @@
 - pkg:maven/com.liferay/com.liferay.document.library.analytics@2.0.7
 - pkg:maven/com.liferay/com.liferay.document.library.analytics@2.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.analytics@2.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.analytics@2.0.8
+- pkg:maven/com.liferay/com.liferay.document.library.analytics@2.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.analytics@2.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.analytics@2.0.9
+- pkg:maven/com.liferay/com.liferay.document.library.analytics@2.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.analytics@2.0.9?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.analytics@3.0.0
 - pkg:maven/com.liferay/com.liferay.document.library.analytics@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.analytics@3.0.0?classifier=sources-commercial
@@ -65,6 +74,9 @@
 - pkg:maven/com.liferay/com.liferay.document.library.analytics@3.0.13
 - pkg:maven/com.liferay/com.liferay.document.library.analytics@3.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.analytics@3.0.13?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.analytics@3.0.14
+- pkg:maven/com.liferay/com.liferay.document.library.analytics@3.0.14?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.analytics@3.0.14?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.analytics@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.analytics@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.analytics@3.0.2
@@ -101,6 +113,9 @@
 - pkg:maven/com.liferay/com.liferay.document.library.analytics@4.0.11
 - pkg:maven/com.liferay/com.liferay.document.library.analytics@4.0.11?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.analytics@4.0.11?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.analytics@4.0.12
+- pkg:maven/com.liferay/com.liferay.document.library.analytics@4.0.12?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.analytics@4.0.12?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.analytics@4.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.analytics@4.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.analytics@4.0.2

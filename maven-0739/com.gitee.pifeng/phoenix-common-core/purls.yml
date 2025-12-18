@@ -1,0 +1,4 @@
+- pkg:maven/com.gitee.pifeng/phoenix-common-core@1.0.0.RELEASE
+- pkg:maven/com.gitee.pifeng/phoenix-common-core@1.0.0.RELEASE?classifier=sources
+- pkg:maven/com.gitee.pifeng/phoenix-common-core@1.1.0.RELEASE
+- pkg:maven/com.gitee.pifeng/phoenix-common-core@1.1.0.RELEASE?classifier=sources

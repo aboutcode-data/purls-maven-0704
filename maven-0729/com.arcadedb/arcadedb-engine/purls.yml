@@ -4,7 +4,13 @@
 - pkg:maven/com.arcadedb/arcadedb-engine@21.10.2?classifier=sources
 - pkg:maven/com.arcadedb/arcadedb-engine@21.11.1
 - pkg:maven/com.arcadedb/arcadedb-engine@21.11.1?classifier=sources
+- pkg:maven/com.arcadedb/arcadedb-engine@21.12.1
+- pkg:maven/com.arcadedb/arcadedb-engine@21.12.1?classifier=sources
 - pkg:maven/com.arcadedb/arcadedb-engine@21.9.1
 - pkg:maven/com.arcadedb/arcadedb-engine@21.9.1-beta
 - pkg:maven/com.arcadedb/arcadedb-engine@21.9.1-beta?classifier=sources
 - pkg:maven/com.arcadedb/arcadedb-engine@21.9.1?classifier=sources
+- pkg:maven/com.arcadedb/arcadedb-engine@22.1.1
+- pkg:maven/com.arcadedb/arcadedb-engine@22.1.1?classifier=sources
+- pkg:maven/com.arcadedb/arcadedb-engine@22.1.2
+- pkg:maven/com.arcadedb/arcadedb-engine@22.1.2?classifier=sources

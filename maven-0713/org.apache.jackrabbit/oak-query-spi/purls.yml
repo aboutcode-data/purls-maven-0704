@@ -62,6 +62,8 @@
 - pkg:maven/org.apache.jackrabbit/oak-query-spi@1.38.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-query-spi@1.40.0
 - pkg:maven/org.apache.jackrabbit/oak-query-spi@1.40.0?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-query-spi@1.42.0
+- pkg:maven/org.apache.jackrabbit/oak-query-spi@1.42.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-query-spi@1.7.10
 - pkg:maven/org.apache.jackrabbit/oak-query-spi@1.7.10?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-query-spi@1.7.11

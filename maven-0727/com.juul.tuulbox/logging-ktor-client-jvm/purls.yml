@@ -1,3 +1,4 @@
 - pkg:maven/com.juul.tuulbox/logging-ktor-client-jvm@4.6.0?classifier=sources
 - pkg:maven/com.juul.tuulbox/logging-ktor-client-jvm@4.7.0?classifier=sources
 - pkg:maven/com.juul.tuulbox/logging-ktor-client-jvm@4.8.0?classifier=sources
+- pkg:maven/com.juul.tuulbox/logging-ktor-client-jvm@5.0.0?classifier=sources

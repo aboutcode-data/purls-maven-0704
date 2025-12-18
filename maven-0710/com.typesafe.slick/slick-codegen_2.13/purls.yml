@@ -2,3 +2,5 @@
 - pkg:maven/com.typesafe.slick/slick-codegen_2.13@3.3.2?classifier=sources
 - pkg:maven/com.typesafe.slick/slick-codegen_2.13@3.3.3
 - pkg:maven/com.typesafe.slick/slick-codegen_2.13@3.3.3?classifier=sources
+- pkg:maven/com.typesafe.slick/slick-codegen_2.13@3.4.0-M1
+- pkg:maven/com.typesafe.slick/slick-codegen_2.13@3.4.0-M1?classifier=sources

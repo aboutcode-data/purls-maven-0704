@@ -1,0 +1,2 @@
+- pkg:maven/net.frogmouth.chronyjava/java-chrony-candm@0.7
+- pkg:maven/net.frogmouth.chronyjava/java-chrony-candm@0.7?classifier=sources

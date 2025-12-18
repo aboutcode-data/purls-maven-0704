@@ -4,3 +4,5 @@
 - pkg:maven/com.gitee.bodboy/poi-utils@0.0.3-Release?classifier=sources
 - pkg:maven/com.gitee.bodboy/poi-utils@0.0.4-Release
 - pkg:maven/com.gitee.bodboy/poi-utils@0.0.4-Release?classifier=sources
+- pkg:maven/com.gitee.bodboy/poi-utils@0.0.5-Release
+- pkg:maven/com.gitee.bodboy/poi-utils@0.0.5-Release?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/me.2bab/polyfill-res@0.4.0?classifier=sources
+- pkg:maven/me.2bab/polyfill-res@0.4.1?classifier=sources

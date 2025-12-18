@@ -272,3 +272,5 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-core@4.5.8?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-core@4.5.9
 - pkg:maven/com.aliyun/aliyun-java-sdk-core@4.5.9?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-core@4.6.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-core@4.6.0?classifier=sources

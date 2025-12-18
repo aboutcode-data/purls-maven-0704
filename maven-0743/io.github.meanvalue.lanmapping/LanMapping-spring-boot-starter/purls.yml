@@ -1,0 +1,4 @@
+- pkg:maven/io.github.meanvalue.lanmapping/LanMapping-spring-boot-starter@1.4
+- pkg:maven/io.github.meanvalue.lanmapping/LanMapping-spring-boot-starter@1.4?classifier=sources
+- pkg:maven/io.github.meanvalue.lanmapping/LanMapping-spring-boot-starter@1.7
+- pkg:maven/io.github.meanvalue.lanmapping/LanMapping-spring-boot-starter@1.7?classifier=sources

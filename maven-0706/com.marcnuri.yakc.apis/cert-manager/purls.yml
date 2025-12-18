@@ -18,3 +18,4 @@
 - pkg:maven/com.marcnuri.yakc.apis/cert-manager@0.0.23?classifier=sources
 - pkg:maven/com.marcnuri.yakc.apis/cert-manager@0.0.24
 - pkg:maven/com.marcnuri.yakc.apis/cert-manager@0.0.24?classifier=sources
+- pkg:maven/com.marcnuri.yakc.apis/cert-manager@0.0.25?classifier=sources

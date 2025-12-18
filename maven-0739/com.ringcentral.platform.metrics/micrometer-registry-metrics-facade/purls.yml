@@ -1,0 +1,2 @@
+- pkg:maven/com.ringcentral.platform.metrics/micrometer-registry-metrics-facade@2.0.0-RELEASE
+- pkg:maven/com.ringcentral.platform.metrics/micrometer-registry-metrics-facade@2.0.0-RELEASE?classifier=sources

@@ -120,6 +120,9 @@
 - pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@2.0.38
 - pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@2.0.38?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@2.0.38?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@2.0.39
+- pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@2.0.39?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@2.0.39?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@2.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@2.0.4
@@ -231,6 +234,9 @@
 - pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@3.0.36
 - pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@3.0.36?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@3.0.36?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@3.0.37
+- pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@3.0.37?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@3.0.37?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@3.0.4
@@ -351,6 +357,9 @@
 - pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@4.0.4
+- pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@4.0.40
+- pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@4.0.40?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@4.0.40?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@4.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@4.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@4.0.5
@@ -447,6 +456,9 @@
 - pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@5.0.34
 - pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@5.0.34?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@5.0.34?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@5.0.35
+- pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@5.0.35?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@5.0.35?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@5.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@5.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@5.0.4
@@ -477,6 +489,9 @@
 - pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@6.0.11
 - pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@6.0.11?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@6.0.11?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@6.0.12
+- pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@6.0.12?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@6.0.12?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@6.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@6.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.categories.navigation.web@6.0.2

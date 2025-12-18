@@ -88,3 +88,11 @@
 - pkg:maven/io.smallrye.config/smallrye-config@2.6.0?classifier=sources
 - pkg:maven/io.smallrye.config/smallrye-config@2.6.1
 - pkg:maven/io.smallrye.config/smallrye-config@2.6.1?classifier=sources
+- pkg:maven/io.smallrye.config/smallrye-config@2.7.0
+- pkg:maven/io.smallrye.config/smallrye-config@2.7.0?classifier=sources
+- pkg:maven/io.smallrye.config/smallrye-config@2.8.0
+- pkg:maven/io.smallrye.config/smallrye-config@2.8.0?classifier=sources
+- pkg:maven/io.smallrye.config/smallrye-config@2.8.1
+- pkg:maven/io.smallrye.config/smallrye-config@2.8.1?classifier=sources
+- pkg:maven/io.smallrye.config/smallrye-config@3.0.0-RC1
+- pkg:maven/io.smallrye.config/smallrye-config@3.0.0-RC1?classifier=sources

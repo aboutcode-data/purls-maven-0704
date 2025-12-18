@@ -1,2 +1,4 @@
 - pkg:maven/com.aliyun/dts20200101@1.8.4
 - pkg:maven/com.aliyun/dts20200101@1.8.4?classifier=sources
+- pkg:maven/com.aliyun/dts20200101@1.8.7
+- pkg:maven/com.aliyun/dts20200101@1.8.7?classifier=sources

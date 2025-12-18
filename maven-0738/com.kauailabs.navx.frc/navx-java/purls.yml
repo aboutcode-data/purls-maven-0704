@@ -31,3 +31,10 @@
 - pkg:maven/com.kauailabs.navx.frc/navx-java@4.0.428?classifier=sources
 - pkg:maven/com.kauailabs.navx.frc/navx-java@4.0.429?classifier=sources
 - pkg:maven/com.kauailabs.navx.frc/navx-java@4.0.433?classifier=sources
+- pkg:maven/com.kauailabs.navx.frc/navx-java@4.0.434?classifier=sources
+- pkg:maven/com.kauailabs.navx.frc/navx-java@4.0.435?classifier=sources
+- pkg:maven/com.kauailabs.navx.frc/navx-java@4.0.436?classifier=sources
+- pkg:maven/com.kauailabs.navx.frc/navx-java@4.0.439?classifier=sources
+- pkg:maven/com.kauailabs.navx.frc/navx-java@4.0.440?classifier=sources
+- pkg:maven/com.kauailabs.navx.frc/navx-java@4.0.441?classifier=sources
+- pkg:maven/com.kauailabs.navx.frc/navx-java@4.0.442?classifier=sources

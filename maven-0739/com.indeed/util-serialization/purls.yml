@@ -34,4 +34,6 @@
 - pkg:maven/com.indeed/util-serialization@1.0.33?classifier=sources
 - pkg:maven/com.indeed/util-serialization@1.0.34?classifier=sources
 - pkg:maven/com.indeed/util-serialization@1.0.35?classifier=sources
+- pkg:maven/com.indeed/util-serialization@1.0.36-dev-ossplugin-d7871c3?classifier=sources
 - pkg:maven/com.indeed/util-serialization@1.0.36?classifier=sources
+- pkg:maven/com.indeed/util-serialization@1.0.48-4beacb3?classifier=sources

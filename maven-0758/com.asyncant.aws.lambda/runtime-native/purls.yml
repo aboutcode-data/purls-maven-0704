@@ -1,0 +1,1 @@
+- pkg:maven/com.asyncant.aws.lambda/runtime-native@0.8?classifier=sources

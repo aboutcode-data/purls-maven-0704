@@ -1,4 +1,6 @@
 - pkg:maven/com.rover12421.android.hide/libcore@11.0.0_r17
 - pkg:maven/com.rover12421.android.hide/libcore@11.0.0_r17?classifier=sources
+- pkg:maven/com.rover12421.android.hide/libcore@12.0.0_r16
+- pkg:maven/com.rover12421.android.hide/libcore@12.0.0_r16?classifier=sources
 - pkg:maven/com.rover12421.android.hide/libcore@android-11.0.0_r17
 - pkg:maven/com.rover12421.android.hide/libcore@android-11.0.0_r17?classifier=sources

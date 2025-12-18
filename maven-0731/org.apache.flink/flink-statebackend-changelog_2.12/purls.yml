@@ -6,3 +6,7 @@
 - pkg:maven/org.apache.flink/flink-statebackend-changelog_2.12@1.13.2?classifier=sources
 - pkg:maven/org.apache.flink/flink-statebackend-changelog_2.12@1.13.3
 - pkg:maven/org.apache.flink/flink-statebackend-changelog_2.12@1.13.3?classifier=sources
+- pkg:maven/org.apache.flink/flink-statebackend-changelog_2.12@1.13.4
+- pkg:maven/org.apache.flink/flink-statebackend-changelog_2.12@1.13.4?classifier=sources
+- pkg:maven/org.apache.flink/flink-statebackend-changelog_2.12@1.13.5
+- pkg:maven/org.apache.flink/flink-statebackend-changelog_2.12@1.13.5?classifier=sources

@@ -8,6 +8,8 @@
 - pkg:maven/com.syntaxphoenix.syntaxapi/net@2.0.13?classifier=sources
 - pkg:maven/com.syntaxphoenix.syntaxapi/net@2.0.14
 - pkg:maven/com.syntaxphoenix.syntaxapi/net@2.0.14?classifier=sources
+- pkg:maven/com.syntaxphoenix.syntaxapi/net@2.0.15
+- pkg:maven/com.syntaxphoenix.syntaxapi/net@2.0.15?classifier=sources
 - pkg:maven/com.syntaxphoenix.syntaxapi/net@2.0.3
 - pkg:maven/com.syntaxphoenix.syntaxapi/net@2.0.3?classifier=sources
 - pkg:maven/com.syntaxphoenix.syntaxapi/net@2.0.4

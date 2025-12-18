@@ -1,4 +1,8 @@
 - pkg:maven/com.github.matthew123cl/CQApexDeepLinkSdk@1.0.0?type=aar
 - pkg:maven/com.github.matthew123cl/CQApexDeepLinkSdk@1.0.2.1?type=aar
 - pkg:maven/com.github.matthew123cl/CQApexDeepLinkSdk@1.0.2.2?type=aar
+- pkg:maven/com.github.matthew123cl/CQApexDeepLinkSdk@1.0.2.4?type=aar
+- pkg:maven/com.github.matthew123cl/CQApexDeepLinkSdk@1.0.2.5?type=aar
+- pkg:maven/com.github.matthew123cl/CQApexDeepLinkSdk@1.0.2.7?type=aar
+- pkg:maven/com.github.matthew123cl/CQApexDeepLinkSdk@1.0.2.9.1?type=aar
 - pkg:maven/com.github.matthew123cl/CQApexDeepLinkSdk@1.0.2?type=aar

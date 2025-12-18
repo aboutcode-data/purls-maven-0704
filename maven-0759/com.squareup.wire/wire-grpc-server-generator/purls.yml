@@ -28,3 +28,5 @@
 - pkg:maven/com.squareup.wire/wire-grpc-server-generator@4.0.0-alpha.6?classifier=sources
 - pkg:maven/com.squareup.wire/wire-grpc-server-generator@4.0.0-alpha.7
 - pkg:maven/com.squareup.wire/wire-grpc-server-generator@4.0.0-alpha.7?classifier=sources
+- pkg:maven/com.squareup.wire/wire-grpc-server-generator@4.0.0?classifier=sources
+- pkg:maven/com.squareup.wire/wire-grpc-server-generator@4.0.1?classifier=sources

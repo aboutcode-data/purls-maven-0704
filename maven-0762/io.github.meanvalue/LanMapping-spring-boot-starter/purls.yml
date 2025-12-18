@@ -1,0 +1,2 @@
+- pkg:maven/io.github.meanvalue/LanMapping-spring-boot-starter@1.8
+- pkg:maven/io.github.meanvalue/LanMapping-spring-boot-starter@1.8?classifier=sources

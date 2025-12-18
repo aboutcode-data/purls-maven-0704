@@ -30,3 +30,5 @@
 - pkg:maven/com.linchtech/boot-starter@1.0.2-RELEASE?classifier=sources
 - pkg:maven/com.linchtech/boot-starter@1.0.3-RELEASE
 - pkg:maven/com.linchtech/boot-starter@1.0.3-RELEASE?classifier=sources
+- pkg:maven/com.linchtech/boot-starter@1.0.5-RELEASE
+- pkg:maven/com.linchtech/boot-starter@1.0.5-RELEASE?classifier=sources

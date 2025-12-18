@@ -1,0 +1,4 @@
+- pkg:maven/io.github.raistlintao/sparkmodelhelper_2.12@1.1.0
+- pkg:maven/io.github.raistlintao/sparkmodelhelper_2.12@1.1.0?classifier=sources
+- pkg:maven/io.github.raistlintao/sparkmodelhelper_2.12@1.2.0
+- pkg:maven/io.github.raistlintao/sparkmodelhelper_2.12@1.2.0?classifier=sources

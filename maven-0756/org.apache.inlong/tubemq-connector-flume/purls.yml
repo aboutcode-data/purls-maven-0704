@@ -2,5 +2,7 @@
 - pkg:maven/org.apache.inlong/tubemq-connector-flume@0.10.0-incubating?classifier=sources
 - pkg:maven/org.apache.inlong/tubemq-connector-flume@0.11.0-incubating
 - pkg:maven/org.apache.inlong/tubemq-connector-flume@0.11.0-incubating?classifier=sources
+- pkg:maven/org.apache.inlong/tubemq-connector-flume@0.12.0-incubating
+- pkg:maven/org.apache.inlong/tubemq-connector-flume@0.12.0-incubating?classifier=sources
 - pkg:maven/org.apache.inlong/tubemq-connector-flume@0.9.0-incubating
 - pkg:maven/org.apache.inlong/tubemq-connector-flume@0.9.0-incubating?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/cool.linco.common/shiroweb@2.0.1-RELEASE?classifier=sources
 - pkg:maven/cool.linco.common/shiroweb@2.0.2-RELEASE
 - pkg:maven/cool.linco.common/shiroweb@2.0.2-RELEASE?classifier=sources
+- pkg:maven/cool.linco.common/shiroweb@2.0.3-RELEASE
+- pkg:maven/cool.linco.common/shiroweb@2.0.3-RELEASE?classifier=sources

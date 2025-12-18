@@ -249,3 +249,4 @@
 - pkg:maven/com.bbossgroups/bboss-websocket@5.8.1?classifier=sources
 - pkg:maven/com.bbossgroups/bboss-websocket@5.8.2?classifier=sources
 - pkg:maven/com.bbossgroups/bboss-websocket@5.8.3?classifier=sources
+- pkg:maven/com.bbossgroups/bboss-websocket@5.8.5?classifier=sources

@@ -1,9 +1,14 @@
+- pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.1.0
 - pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.1.0-rc10
 - pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.1.0-rc10?classifier=sources
 - pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.1.0-rc11
 - pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.1.0-rc11?classifier=sources
 - pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.1.0-rc12
 - pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.1.0-rc12?classifier=sources
+- pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.1.0-rc17
+- pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.1.0-rc17?classifier=sources
+- pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.1.0-rc19
+- pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.1.0-rc19?classifier=sources
 - pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.1.0-rc2
 - pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.1.0-rc2?classifier=sources
 - pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.1.0-rc3
@@ -20,3 +25,6 @@
 - pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.1.0-rc8?classifier=sources
 - pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.1.0-rc9
 - pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.1.0-rc9?classifier=sources
+- pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.1.0?classifier=sources
+- pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.1.1
+- pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.1.1?classifier=sources

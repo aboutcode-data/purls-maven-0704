@@ -16,6 +16,10 @@
 - pkg:maven/com.mapp.sdk/mapp-android@6.0.17-special13?type=aar
 - pkg:maven/com.mapp.sdk/mapp-android@6.0.17-special14?classifier=sources
 - pkg:maven/com.mapp.sdk/mapp-android@6.0.17-special14?type=aar
+- pkg:maven/com.mapp.sdk/mapp-android@6.0.17-special15?classifier=sources
+- pkg:maven/com.mapp.sdk/mapp-android@6.0.17-special15?type=aar
+- pkg:maven/com.mapp.sdk/mapp-android@6.0.17-special17?classifier=sources
+- pkg:maven/com.mapp.sdk/mapp-android@6.0.17-special17?type=aar
 - pkg:maven/com.mapp.sdk/mapp-android@6.0.17-special1?classifier=sources
 - pkg:maven/com.mapp.sdk/mapp-android@6.0.17-special1?type=aar
 - pkg:maven/com.mapp.sdk/mapp-android@6.0.17-special2?classifier=sources

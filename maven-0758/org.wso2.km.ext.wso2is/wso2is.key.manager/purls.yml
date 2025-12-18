@@ -92,3 +92,7 @@
 - pkg:maven/org.wso2.km.ext.wso2is/wso2is.key.manager@1.2.9?classifier=sources
 - pkg:maven/org.wso2.km.ext.wso2is/wso2is.key.manager@1.3.0
 - pkg:maven/org.wso2.km.ext.wso2is/wso2is.key.manager@1.3.0?classifier=sources
+- pkg:maven/org.wso2.km.ext.wso2is/wso2is.key.manager@1.4.0
+- pkg:maven/org.wso2.km.ext.wso2is/wso2is.key.manager@1.4.0?classifier=sources
+- pkg:maven/org.wso2.km.ext.wso2is/wso2is.key.manager@1.4.1
+- pkg:maven/org.wso2.km.ext.wso2is/wso2is.key.manager@1.4.1?classifier=sources

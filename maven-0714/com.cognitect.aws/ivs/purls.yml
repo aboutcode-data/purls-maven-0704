@@ -10,3 +10,5 @@
 - pkg:maven/com.cognitect.aws/ivs@811.2.889.0?classifier=sources
 - pkg:maven/com.cognitect.aws/ivs@814.2.1012.0
 - pkg:maven/com.cognitect.aws/ivs@814.2.1012.0?classifier=sources
+- pkg:maven/com.cognitect.aws/ivs@814.2.1053.0
+- pkg:maven/com.cognitect.aws/ivs@814.2.1053.0?classifier=sources

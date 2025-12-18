@@ -1,0 +1,2 @@
+- pkg:maven/com.bizmda.bizsip/sample-app@1.0.0.Beta9
+- pkg:maven/com.bizmda.bizsip/sample-app@1.0.0.Beta9?classifier=sources

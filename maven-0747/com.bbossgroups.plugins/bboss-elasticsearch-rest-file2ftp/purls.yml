@@ -11,3 +11,4 @@
 - pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-rest-file2ftp@6.3.6?classifier=sources
 - pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-rest-file2ftp@6.3.7?classifier=sources
 - pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-rest-file2ftp@6.3.8?classifier=sources
+- pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-rest-file2ftp@6.3.9?classifier=sources

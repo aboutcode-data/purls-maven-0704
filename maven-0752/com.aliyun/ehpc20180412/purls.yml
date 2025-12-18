@@ -6,6 +6,8 @@
 - pkg:maven/com.aliyun/ehpc20180412@1.14.10?classifier=sources
 - pkg:maven/com.aliyun/ehpc20180412@1.14.11
 - pkg:maven/com.aliyun/ehpc20180412@1.14.11?classifier=sources
+- pkg:maven/com.aliyun/ehpc20180412@1.14.12
+- pkg:maven/com.aliyun/ehpc20180412@1.14.12?classifier=sources
 - pkg:maven/com.aliyun/ehpc20180412@1.14.8
 - pkg:maven/com.aliyun/ehpc20180412@1.14.8?classifier=sources
 - pkg:maven/com.aliyun/ehpc20180412@1.14.9

@@ -17,3 +17,5 @@
 - pkg:maven/com.criteo.publisher/criteo-publisher-sdk-development@4.5.0-20211102.1359?classifier=sources
 - pkg:maven/com.criteo.publisher/criteo-publisher-sdk-development@4.6.0-20211103.0814?classifier=sources
 - pkg:maven/com.criteo.publisher/criteo-publisher-sdk-development@4.6.0-20211103.1414?classifier=sources
+- pkg:maven/com.criteo.publisher/criteo-publisher-sdk-development@4.6.0-20211208.1506?classifier=sources
+- pkg:maven/com.criteo.publisher/criteo-publisher-sdk-development@4.6.0-20211214.1024?classifier=sources

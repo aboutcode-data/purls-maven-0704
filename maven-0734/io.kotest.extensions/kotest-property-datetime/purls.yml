@@ -1,1 +1,2 @@
 - pkg:maven/io.kotest.extensions/kotest-property-datetime@1.0.0?classifier=sources
+- pkg:maven/io.kotest.extensions/kotest-property-datetime@1.1.0?classifier=sources

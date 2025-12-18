@@ -40,6 +40,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.media.api@1.2.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.media.api@1.2.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.media.api@1.2.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.media.api@1.2.1
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.media.api@1.2.1?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.media.api@1.2.1?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.media.api@2.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.media.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.media.api@2.0.0?classifier=sources-commercial
@@ -49,6 +52,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.media.api@2.1.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.media.api@2.1.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.media.api@2.1.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.media.api@2.1.1
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.media.api@2.1.1?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.media.api@2.1.1?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.media.api@3.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.media.api@3.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.media.api@3.0.0?classifier=sources-commercial
@@ -76,6 +82,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.media.api@3.1.1
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.media.api@3.1.1?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.media.api@3.1.1?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.media.api@3.1.2
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.media.api@3.1.2?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.media.api@3.1.2?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.media.api@4.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.media.api@4.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.media.api@4.0.0?classifier=sources-commercial

@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/el-admin-layout@0.9.4?classifier=sources
 - pkg:maven/org.webjars.npm/el-admin-layout@0.9.5
 - pkg:maven/org.webjars.npm/el-admin-layout@0.9.5?classifier=sources
+- pkg:maven/org.webjars.npm/el-admin-layout@0.9.7
+- pkg:maven/org.webjars.npm/el-admin-layout@0.9.7?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/de.simpleworks.staf/surefire-maven-plugin@0.50
 - pkg:maven/de.simpleworks.staf/surefire-maven-plugin@0.50?classifier=sources
+- pkg:maven/de.simpleworks.staf/surefire-maven-plugin@0.60
+- pkg:maven/de.simpleworks.staf/surefire-maven-plugin@0.60?classifier=sources

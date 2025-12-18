@@ -1,0 +1,2 @@
+- pkg:maven/org.openmole.scaladget/bootstrapnative_sjs1_3@1.9.1
+- pkg:maven/org.openmole.scaladget/bootstrapnative_sjs1_3@1.9.1?classifier=sources

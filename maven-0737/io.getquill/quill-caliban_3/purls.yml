@@ -1,0 +1,2 @@
+- pkg:maven/io.getquill/quill-caliban_3@3.12.0.Beta1.7
+- pkg:maven/io.getquill/quill-caliban_3@3.12.0.Beta1.7?classifier=sources

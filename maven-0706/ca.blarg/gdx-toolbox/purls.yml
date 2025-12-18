@@ -1,0 +1,2 @@
+- pkg:maven/ca.blarg/gdx-toolbox@0.1
+- pkg:maven/ca.blarg/gdx-toolbox@0.1?classifier=sources

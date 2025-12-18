@@ -14,3 +14,5 @@
 - pkg:maven/int.esa.ccsds.mo/TRANSPORT_GEN@1.1?classifier=sources
 - pkg:maven/int.esa.ccsds.mo/TRANSPORT_GEN@1.7
 - pkg:maven/int.esa.ccsds.mo/TRANSPORT_GEN@1.7?classifier=sources
+- pkg:maven/int.esa.ccsds.mo/TRANSPORT_GEN@8.0
+- pkg:maven/int.esa.ccsds.mo/TRANSPORT_GEN@8.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/io.github.amerainc/no-excel@2021.12.22
+- pkg:maven/io.github.amerainc/no-excel@2021.12.22?classifier=sources
+- pkg:maven/io.github.amerainc/no-excel@2021.12.23
+- pkg:maven/io.github.amerainc/no-excel@2021.12.23?classifier=sources
+- pkg:maven/io.github.amerainc/no-excel@2021.12.24
+- pkg:maven/io.github.amerainc/no-excel@2021.12.24?classifier=sources

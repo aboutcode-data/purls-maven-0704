@@ -1,0 +1,2 @@
+- pkg:maven/io.github.alexarchambault.tmp.ipcsocket/ipcsocket@1.4.1-aa-5-1
+- pkg:maven/io.github.alexarchambault.tmp.ipcsocket/ipcsocket@1.4.1-aa-5-1?classifier=sources

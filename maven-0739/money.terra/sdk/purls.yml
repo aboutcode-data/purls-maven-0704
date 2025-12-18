@@ -1,1 +1,2 @@
 - pkg:maven/money.terra/sdk@0.20.1?classifier=sources
+- pkg:maven/money.terra/sdk@0.20.2?classifier=sources

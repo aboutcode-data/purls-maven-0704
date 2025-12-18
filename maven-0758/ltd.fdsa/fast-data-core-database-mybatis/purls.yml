@@ -1,0 +1,8 @@
+- pkg:maven/ltd.fdsa/fast-data-core-database-mybatis@1.0.0-RELEASE
+- pkg:maven/ltd.fdsa/fast-data-core-database-mybatis@1.0.0-RELEASE?classifier=sources
+- pkg:maven/ltd.fdsa/fast-data-core-database-mybatis@1.0.1
+- pkg:maven/ltd.fdsa/fast-data-core-database-mybatis@1.0.1?classifier=sources
+- pkg:maven/ltd.fdsa/fast-data-core-database-mybatis@1.0.2
+- pkg:maven/ltd.fdsa/fast-data-core-database-mybatis@1.0.2?classifier=sources
+- pkg:maven/ltd.fdsa/fast-data-core-database-mybatis@1.0.3
+- pkg:maven/ltd.fdsa/fast-data-core-database-mybatis@1.0.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.adobe.aem.guides/aem-cif-guides-venia.ui.config@2012.12.01?classifier=sources
+- pkg:maven/com.adobe.aem.guides/aem-cif-guides-venia.ui.config@2021.12.01?classifier=sources

@@ -44,3 +44,5 @@
 - pkg:maven/us.oyanglul/dhall-generic_3@0.3.65?classifier=sources
 - pkg:maven/us.oyanglul/dhall-generic_3@0.3.66
 - pkg:maven/us.oyanglul/dhall-generic_3@0.3.66?classifier=sources
+- pkg:maven/us.oyanglul/dhall-generic_3@0.3.73
+- pkg:maven/us.oyanglul/dhall-generic_3@0.3.73?classifier=sources

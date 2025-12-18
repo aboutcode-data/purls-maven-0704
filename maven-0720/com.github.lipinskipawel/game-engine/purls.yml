@@ -12,3 +12,4 @@
 - pkg:maven/com.github.lipinskipawel/game-engine@3.5.0?classifier=sources
 - pkg:maven/com.github.lipinskipawel/game-engine@4.0.0
 - pkg:maven/com.github.lipinskipawel/game-engine@4.0.0?classifier=sources
+- pkg:maven/com.github.lipinskipawel/game-engine@5.0.0?classifier=sources

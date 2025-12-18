@@ -1,0 +1,4 @@
+- pkg:maven/org.tpolecat/natchez-http4s_sjs1_3@0.2.1
+- pkg:maven/org.tpolecat/natchez-http4s_sjs1_3@0.2.1?classifier=sources
+- pkg:maven/org.tpolecat/natchez-http4s_sjs1_3@0.3.2
+- pkg:maven/org.tpolecat/natchez-http4s_sjs1_3@0.3.2?classifier=sources

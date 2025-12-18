@@ -440,3 +440,9 @@
 - pkg:maven/com.github.binarywang/weixin-java-mp@4.2.0?classifier=sources
 - pkg:maven/com.github.binarywang/weixin-java-mp@4.2.1.B
 - pkg:maven/com.github.binarywang/weixin-java-mp@4.2.1.B?classifier=sources
+- pkg:maven/com.github.binarywang/weixin-java-mp@4.2.2.B
+- pkg:maven/com.github.binarywang/weixin-java-mp@4.2.2.B?classifier=sources
+- pkg:maven/com.github.binarywang/weixin-java-mp@4.2.3.B
+- pkg:maven/com.github.binarywang/weixin-java-mp@4.2.3.B?classifier=sources
+- pkg:maven/com.github.binarywang/weixin-java-mp@4.2.4.B
+- pkg:maven/com.github.binarywang/weixin-java-mp@4.2.4.B?classifier=sources

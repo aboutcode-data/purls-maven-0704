@@ -16,3 +16,5 @@
 - pkg:maven/eu.mulk.quarkus-googlecloud-jsonlogging/quarkus-googlecloud-jsonlogging@3.1.1?classifier=sources
 - pkg:maven/eu.mulk.quarkus-googlecloud-jsonlogging/quarkus-googlecloud-jsonlogging@3.1.2
 - pkg:maven/eu.mulk.quarkus-googlecloud-jsonlogging/quarkus-googlecloud-jsonlogging@3.1.2?classifier=sources
+- pkg:maven/eu.mulk.quarkus-googlecloud-jsonlogging/quarkus-googlecloud-jsonlogging@3.1.3
+- pkg:maven/eu.mulk.quarkus-googlecloud-jsonlogging/quarkus-googlecloud-jsonlogging@3.1.3?classifier=sources

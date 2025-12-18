@@ -14,3 +14,5 @@
 - pkg:maven/org.apache.jspwiki/jspwiki-util@2.11.0.M8
 - pkg:maven/org.apache.jspwiki/jspwiki-util@2.11.0.M8?classifier=sources
 - pkg:maven/org.apache.jspwiki/jspwiki-util@2.11.0?classifier=sources
+- pkg:maven/org.apache.jspwiki/jspwiki-util@2.11.1
+- pkg:maven/org.apache.jspwiki/jspwiki-util@2.11.1?classifier=sources

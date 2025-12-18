@@ -31,6 +31,9 @@
 - pkg:maven/com.liferay/com.liferay.journal.item.selector.api@1.1.7
 - pkg:maven/com.liferay/com.liferay.journal.item.selector.api@1.1.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.item.selector.api@1.1.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.journal.item.selector.api@1.1.8
+- pkg:maven/com.liferay/com.liferay.journal.item.selector.api@1.1.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.item.selector.api@1.1.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.journal.item.selector.api@2.0.0
 - pkg:maven/com.liferay/com.liferay.journal.item.selector.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.item.selector.api@2.0.0?classifier=sources-commercial
@@ -52,6 +55,9 @@
 - pkg:maven/com.liferay/com.liferay.journal.item.selector.api@2.1.5
 - pkg:maven/com.liferay/com.liferay.journal.item.selector.api@2.1.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.item.selector.api@2.1.5?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.journal.item.selector.api@2.1.6
+- pkg:maven/com.liferay/com.liferay.journal.item.selector.api@2.1.6?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.item.selector.api@2.1.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.journal.item.selector.api@3.0.0
 - pkg:maven/com.liferay/com.liferay.journal.item.selector.api@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.item.selector.api@3.0.0?classifier=sources-commercial
@@ -73,6 +79,9 @@
 - pkg:maven/com.liferay/com.liferay.journal.item.selector.api@3.0.6
 - pkg:maven/com.liferay/com.liferay.journal.item.selector.api@3.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.item.selector.api@3.0.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.journal.item.selector.api@3.0.7
+- pkg:maven/com.liferay/com.liferay.journal.item.selector.api@3.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.item.selector.api@3.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.journal.item.selector.api@4.0.0
 - pkg:maven/com.liferay/com.liferay.journal.item.selector.api@4.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.item.selector.api@4.0.0?classifier=sources-commercial
@@ -91,6 +100,9 @@
 - pkg:maven/com.liferay/com.liferay.journal.item.selector.api@4.0.5
 - pkg:maven/com.liferay/com.liferay.journal.item.selector.api@4.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.item.selector.api@4.0.5?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.journal.item.selector.api@4.0.6
+- pkg:maven/com.liferay/com.liferay.journal.item.selector.api@4.0.6?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.item.selector.api@4.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.journal.item.selector.api@5.0.0
 - pkg:maven/com.liferay/com.liferay.journal.item.selector.api@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.item.selector.api@5.0.0?classifier=sources-commercial

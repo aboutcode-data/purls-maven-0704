@@ -137,5 +137,11 @@
 - pkg:maven/com.mixpanel.android/mixpanel-android@5.9.4?type=aar
 - pkg:maven/com.mixpanel.android/mixpanel-android@5.9.5?classifier=sources
 - pkg:maven/com.mixpanel.android/mixpanel-android@5.9.5?type=aar
+- pkg:maven/com.mixpanel.android/mixpanel-android@5.9.6?classifier=sources
+- pkg:maven/com.mixpanel.android/mixpanel-android@5.9.6?type=aar
 - pkg:maven/com.mixpanel.android/mixpanel-android@6.0.0-beta1?classifier=sources
 - pkg:maven/com.mixpanel.android/mixpanel-android@6.0.0-beta1?type=aar
+- pkg:maven/com.mixpanel.android/mixpanel-android@6.0.0-beta2?classifier=sources
+- pkg:maven/com.mixpanel.android/mixpanel-android@6.0.0-beta2?type=aar
+- pkg:maven/com.mixpanel.android/mixpanel-android@6.0.0?classifier=sources
+- pkg:maven/com.mixpanel.android/mixpanel-android@6.0.0?type=aar

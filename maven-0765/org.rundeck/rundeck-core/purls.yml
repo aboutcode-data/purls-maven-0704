@@ -294,6 +294,12 @@
 - pkg:maven/org.rundeck/rundeck-core@3.3.14-rc1-20210825?classifier=sources
 - pkg:maven/org.rundeck/rundeck-core@3.3.15-20211210
 - pkg:maven/org.rundeck/rundeck-core@3.3.15-20211210?classifier=sources
+- pkg:maven/org.rundeck/rundeck-core@3.3.16-20211214
+- pkg:maven/org.rundeck/rundeck-core@3.3.16-20211214?classifier=sources
+- pkg:maven/org.rundeck/rundeck-core@3.3.17-20211221
+- pkg:maven/org.rundeck/rundeck-core@3.3.17-20211221?classifier=sources
+- pkg:maven/org.rundeck/rundeck-core@3.3.17-rc1-20211220
+- pkg:maven/org.rundeck/rundeck-core@3.3.17-rc1-20211220?classifier=sources
 - pkg:maven/org.rundeck/rundeck-core@3.3.2-20200727
 - pkg:maven/org.rundeck/rundeck-core@3.3.2-20200727?classifier=sources
 - pkg:maven/org.rundeck/rundeck-core@3.3.2-20200817
@@ -386,6 +392,14 @@
 - pkg:maven/org.rundeck/rundeck-core@3.4.1-rc2-20210705?classifier=sources
 - pkg:maven/org.rundeck/rundeck-core@3.4.1-rc3-20210709
 - pkg:maven/org.rundeck/rundeck-core@3.4.1-rc3-20210709?classifier=sources
+- pkg:maven/org.rundeck/rundeck-core@3.4.10-rc1-20220105
+- pkg:maven/org.rundeck/rundeck-core@3.4.10-rc1-20220105?classifier=sources
+- pkg:maven/org.rundeck/rundeck-core@3.4.10-rc2-20220107
+- pkg:maven/org.rundeck/rundeck-core@3.4.10-rc2-20220107?classifier=sources
+- pkg:maven/org.rundeck/rundeck-core@3.4.10-rc3-20220111
+- pkg:maven/org.rundeck/rundeck-core@3.4.10-rc3-20220111?classifier=sources
+- pkg:maven/org.rundeck/rundeck-core@3.4.10-rc4-20220114
+- pkg:maven/org.rundeck/rundeck-core@3.4.10-rc4-20220114?classifier=sources
 - pkg:maven/org.rundeck/rundeck-core@3.4.2-20210803
 - pkg:maven/org.rundeck/rundeck-core@3.4.2-20210803?classifier=sources
 - pkg:maven/org.rundeck/rundeck-core@3.4.2-rc1-20210726
@@ -432,3 +446,9 @@
 - pkg:maven/org.rundeck/rundeck-core@3.4.7-rc3-20211207?classifier=sources
 - pkg:maven/org.rundeck/rundeck-core@3.4.7-rc4-20211210
 - pkg:maven/org.rundeck/rundeck-core@3.4.7-rc4-20211210?classifier=sources
+- pkg:maven/org.rundeck/rundeck-core@3.4.8-20211214
+- pkg:maven/org.rundeck/rundeck-core@3.4.8-20211214?classifier=sources
+- pkg:maven/org.rundeck/rundeck-core@3.4.9-20211221
+- pkg:maven/org.rundeck/rundeck-core@3.4.9-20211221?classifier=sources
+- pkg:maven/org.rundeck/rundeck-core@3.4.9-rc1-20211220
+- pkg:maven/org.rundeck/rundeck-core@3.4.9-rc1-20211220?classifier=sources

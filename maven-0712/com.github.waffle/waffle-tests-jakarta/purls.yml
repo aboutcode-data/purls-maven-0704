@@ -2,3 +2,7 @@
 - pkg:maven/com.github.waffle/waffle-tests-jakarta@2.3.0?classifier=sources
 - pkg:maven/com.github.waffle/waffle-tests-jakarta@3.0.0
 - pkg:maven/com.github.waffle/waffle-tests-jakarta@3.0.0?classifier=sources
+- pkg:maven/com.github.waffle/waffle-tests-jakarta@3.1.0
+- pkg:maven/com.github.waffle/waffle-tests-jakarta@3.1.0?classifier=sources
+- pkg:maven/com.github.waffle/waffle-tests-jakarta@3.1.1
+- pkg:maven/com.github.waffle/waffle-tests-jakarta@3.1.1?classifier=sources

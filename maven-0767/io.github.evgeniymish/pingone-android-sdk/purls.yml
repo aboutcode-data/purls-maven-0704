@@ -1,1 +1,3 @@
 - pkg:maven/io.github.evgeniymish/pingone-android-sdk@1.1.0?classifier=sources
+- pkg:maven/io.github.evgeniymish/pingone-android-sdk@1.1.1?classifier=sources
+- pkg:maven/io.github.evgeniymish/pingone-android-sdk@1.1.2-alpha?classifier=sources

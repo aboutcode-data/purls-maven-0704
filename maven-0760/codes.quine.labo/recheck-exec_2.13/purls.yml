@@ -1,0 +1,4 @@
+- pkg:maven/codes.quine.labo/recheck-exec_2.13@4.2.0
+- pkg:maven/codes.quine.labo/recheck-exec_2.13@4.2.0?classifier=sources
+- pkg:maven/codes.quine.labo/recheck-exec_2.13@4.2.1
+- pkg:maven/codes.quine.labo/recheck-exec_2.13@4.2.1?classifier=sources

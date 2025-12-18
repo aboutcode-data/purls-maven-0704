@@ -1,0 +1,2 @@
+- pkg:maven/eu.fbk.dh/tint-derived@0.3
+- pkg:maven/eu.fbk.dh/tint-derived@0.3?classifier=sources

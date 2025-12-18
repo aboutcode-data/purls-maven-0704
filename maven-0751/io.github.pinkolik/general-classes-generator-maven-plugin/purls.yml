@@ -12,3 +12,5 @@
 - pkg:maven/io.github.pinkolik/general-classes-generator-maven-plugin@1.1.1-RELEASE?classifier=sources
 - pkg:maven/io.github.pinkolik/general-classes-generator-maven-plugin@1.1.2-RELEASE
 - pkg:maven/io.github.pinkolik/general-classes-generator-maven-plugin@1.1.2-RELEASE?classifier=sources
+- pkg:maven/io.github.pinkolik/general-classes-generator-maven-plugin@1.1.3-RELEASE
+- pkg:maven/io.github.pinkolik/general-classes-generator-maven-plugin@1.1.3-RELEASE?classifier=sources

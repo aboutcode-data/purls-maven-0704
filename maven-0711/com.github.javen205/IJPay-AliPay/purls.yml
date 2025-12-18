@@ -59,3 +59,5 @@
 - pkg:maven/com.github.javen205/IJPay-AliPay@2.7.9
 - pkg:maven/com.github.javen205/IJPay-AliPay@2.7.9?classifier=sources
 - pkg:maven/com.github.javen205/IJPay-AliPay@2.7?classifier=sources
+- pkg:maven/com.github.javen205/IJPay-AliPay@2.8.0
+- pkg:maven/com.github.javen205/IJPay-AliPay@2.8.0?classifier=sources

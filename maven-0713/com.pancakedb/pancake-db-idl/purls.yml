@@ -1,0 +1,2 @@
+- pkg:maven/com.pancakedb/pancake-db-idl@0.1.0
+- pkg:maven/com.pancakedb/pancake-db-idl@0.1.0?classifier=sources

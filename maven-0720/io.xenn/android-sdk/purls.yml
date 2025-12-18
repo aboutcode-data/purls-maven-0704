@@ -31,4 +31,5 @@
 - pkg:maven/io.xenn/android-sdk@3.2.3?type=aar
 - pkg:maven/io.xenn/android-sdk@3.2.4?type=aar
 - pkg:maven/io.xenn/android-sdk@3.2.5?type=aar
+- pkg:maven/io.xenn/android-sdk@3.2.6?type=aar
 - pkg:maven/io.xenn/android-sdk@3.2?type=aar

@@ -14,5 +14,11 @@
 - pkg:maven/io.github.rafaelsramos/hermeslogger@0.0.3-SNAP7?type=aar
 - pkg:maven/io.github.rafaelsramos/hermeslogger@0.0.3-SNAP8?classifier=sources
 - pkg:maven/io.github.rafaelsramos/hermeslogger@0.0.3-SNAP8?type=aar
+- pkg:maven/io.github.rafaelsramos/hermeslogger@0.0.3-SNAP9?classifier=sources
+- pkg:maven/io.github.rafaelsramos/hermeslogger@0.0.3-SNAP9?type=aar
 - pkg:maven/io.github.rafaelsramos/hermeslogger@0.0.3-SNAP?classifier=sources
 - pkg:maven/io.github.rafaelsramos/hermeslogger@0.0.3-SNAP?type=aar
+- pkg:maven/io.github.rafaelsramos/hermeslogger@0.1.0?classifier=sources
+- pkg:maven/io.github.rafaelsramos/hermeslogger@0.1.0?type=aar
+- pkg:maven/io.github.rafaelsramos/hermeslogger@0.2.0-snapshot?classifier=sources
+- pkg:maven/io.github.rafaelsramos/hermeslogger@0.2.0-snapshot?type=aar

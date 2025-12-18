@@ -87,3 +87,4 @@
 - pkg:maven/com.tngtech.jgiven/jgiven-examples@1.0.0-RC7?classifier=sources
 - pkg:maven/com.tngtech.jgiven/jgiven-examples@1.0.0?classifier=sources
 - pkg:maven/com.tngtech.jgiven/jgiven-examples@1.1.0?classifier=sources
+- pkg:maven/com.tngtech.jgiven/jgiven-examples@1.2.0?classifier=sources

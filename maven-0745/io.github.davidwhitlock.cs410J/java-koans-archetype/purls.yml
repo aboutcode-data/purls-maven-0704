@@ -6,3 +6,4 @@
 - pkg:maven/io.github.davidwhitlock.cs410J/java-koans-archetype@2021.2.0?classifier=sources
 - pkg:maven/io.github.davidwhitlock.cs410J/java-koans-archetype@2021.3.0?classifier=sources
 - pkg:maven/io.github.davidwhitlock.cs410J/java-koans-archetype@2021.4.0?classifier=sources
+- pkg:maven/io.github.davidwhitlock.cs410J/java-koans-archetype@2022.0.0?classifier=sources

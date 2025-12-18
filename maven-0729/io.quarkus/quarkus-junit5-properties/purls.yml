@@ -1,0 +1,6 @@
+- pkg:maven/io.quarkus/quarkus-junit5-properties@2.6.0.Final
+- pkg:maven/io.quarkus/quarkus-junit5-properties@2.6.0.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-junit5-properties@2.6.1.Final
+- pkg:maven/io.quarkus/quarkus-junit5-properties@2.6.1.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-junit5-properties@2.6.2.Final
+- pkg:maven/io.quarkus/quarkus-junit5-properties@2.6.2.Final?classifier=sources

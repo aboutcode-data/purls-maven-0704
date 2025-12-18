@@ -1,0 +1,2 @@
+- pkg:maven/ltd.fdsa/self-describing-data-object@1.0.0-RELEASE
+- pkg:maven/ltd.fdsa/self-describing-data-object@1.0.0-RELEASE?classifier=sources

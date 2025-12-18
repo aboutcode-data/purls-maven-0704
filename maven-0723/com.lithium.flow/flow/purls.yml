@@ -146,6 +146,7 @@
 - pkg:maven/com.lithium.flow/flow@0.7.39?classifier=sources
 - pkg:maven/com.lithium.flow/flow@0.7.3?classifier=sources
 - pkg:maven/com.lithium.flow/flow@0.7.4
+- pkg:maven/com.lithium.flow/flow@0.7.40?classifier=sources
 - pkg:maven/com.lithium.flow/flow@0.7.4?classifier=sources
 - pkg:maven/com.lithium.flow/flow@0.7.5
 - pkg:maven/com.lithium.flow/flow@0.7.5?classifier=sources

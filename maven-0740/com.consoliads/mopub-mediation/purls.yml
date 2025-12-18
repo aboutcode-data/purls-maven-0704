@@ -1,0 +1,2 @@
+- pkg:maven/com.consoliads/mopub-mediation@v5.18.0-1.0?classifier=sources
+- pkg:maven/com.consoliads/mopub-mediation@v5.18.0?classifier=sources
