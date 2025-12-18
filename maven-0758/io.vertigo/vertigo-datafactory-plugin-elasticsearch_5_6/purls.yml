@@ -1,0 +1,2 @@
+- pkg:maven/io.vertigo/vertigo-datafactory-plugin-elasticsearch_5_6@3.0.0-RC
+- pkg:maven/io.vertigo/vertigo-datafactory-plugin-elasticsearch_5_6@3.0.0-RC?classifier=sources

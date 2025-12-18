@@ -804,6 +804,12 @@
 - pkg:maven/com.google.apis/google-api-services-androidenterprise@v1-rev20200704-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-androidenterprise@v1-rev20200704-1.30.9
 - pkg:maven/com.google.apis/google-api-services-androidenterprise@v1-rev20200704-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-androidenterprise@v1-rev20200801-1.30.10
+- pkg:maven/com.google.apis/google-api-services-androidenterprise@v1-rev20200801-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-androidenterprise@v1-rev20200825-1.30.10
+- pkg:maven/com.google.apis/google-api-services-androidenterprise@v1-rev20200825-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-androidenterprise@v1-rev20200915-1.30.10
+- pkg:maven/com.google.apis/google-api-services-androidenterprise@v1-rev20200915-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-androidenterprise@v1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-androidenterprise@v1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-androidenterprise@v1-rev21-1.19.1

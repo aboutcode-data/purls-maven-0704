@@ -1,0 +1,2 @@
+- pkg:maven/com.danielasfregola/random-data-generator_sjs1_2.13@2.9
+- pkg:maven/com.danielasfregola/random-data-generator_sjs1_2.13@2.9?classifier=sources

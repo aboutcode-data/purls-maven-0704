@@ -164,3 +164,9 @@
 - pkg:maven/org.sonarsource.sonarqube/sonar-ws@8.4.0.35506?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-ws@8.4.1.35646
 - pkg:maven/org.sonarsource.sonarqube/sonar-ws@8.4.1.35646?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-ws@8.4.2.36762
+- pkg:maven/org.sonarsource.sonarqube/sonar-ws@8.4.2.36762?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-ws@8.5.0.37579
+- pkg:maven/org.sonarsource.sonarqube/sonar-ws@8.5.0.37579?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-ws@8.5.1.38104
+- pkg:maven/org.sonarsource.sonarqube/sonar-ws@8.5.1.38104?classifier=sources

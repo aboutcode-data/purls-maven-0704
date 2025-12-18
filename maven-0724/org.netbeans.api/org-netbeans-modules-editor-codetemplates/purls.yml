@@ -4,5 +4,7 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-codetemplates@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-codetemplates@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-codetemplates@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-editor-codetemplates@RELEASE120-u1?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-codetemplates@RELEASE120?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-editor-codetemplates@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-codetemplates@RELEASE90?classifier=sources

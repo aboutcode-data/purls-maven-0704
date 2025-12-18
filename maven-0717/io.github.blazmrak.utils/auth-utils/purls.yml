@@ -1,0 +1,2 @@
+- pkg:maven/io.github.blazmrak.utils/auth-utils@0.1.0
+- pkg:maven/io.github.blazmrak.utils/auth-utils@0.1.0?classifier=sources

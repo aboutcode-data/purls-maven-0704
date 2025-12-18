@@ -2,3 +2,5 @@
 - pkg:maven/com.compstak/circe-geojson-postgis_2.12@9.0.4?classifier=sources
 - pkg:maven/com.compstak/circe-geojson-postgis_2.12@9.0.5
 - pkg:maven/com.compstak/circe-geojson-postgis_2.12@9.0.5?classifier=sources
+- pkg:maven/com.compstak/circe-geojson-postgis_2.12@9.1.0
+- pkg:maven/com.compstak/circe-geojson-postgis_2.12@9.1.0?classifier=sources

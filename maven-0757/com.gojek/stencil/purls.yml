@@ -18,3 +18,7 @@
 - pkg:maven/com.gojek/stencil@4.0.0?classifier=sources
 - pkg:maven/com.gojek/stencil@4.0.1
 - pkg:maven/com.gojek/stencil@4.0.1?classifier=sources
+- pkg:maven/com.gojek/stencil@4.1.0
+- pkg:maven/com.gojek/stencil@4.1.0?classifier=sources
+- pkg:maven/com.gojek/stencil@4.2.0
+- pkg:maven/com.gojek/stencil@4.2.0?classifier=sources

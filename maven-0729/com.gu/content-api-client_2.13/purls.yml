@@ -18,3 +18,5 @@
 - pkg:maven/com.gu/content-api-client_2.13@17.0?classifier=sources
 - pkg:maven/com.gu/content-api-client_2.13@17.1
 - pkg:maven/com.gu/content-api-client_2.13@17.1?classifier=sources
+- pkg:maven/com.gu/content-api-client_2.13@17.2
+- pkg:maven/com.gu/content-api-client_2.13@17.2?classifier=sources

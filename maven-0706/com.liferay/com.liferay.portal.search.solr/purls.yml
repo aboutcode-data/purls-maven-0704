@@ -97,6 +97,12 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.solr@2.0.43
 - pkg:maven/com.liferay/com.liferay.portal.search.solr@2.0.43?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.solr@2.0.43?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.solr@2.0.44
+- pkg:maven/com.liferay/com.liferay.portal.search.solr@2.0.44?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.solr@2.0.44?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.solr@2.0.45
+- pkg:maven/com.liferay/com.liferay.portal.search.solr@2.0.45?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.solr@2.0.45?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.solr@2.0.46
 - pkg:maven/com.liferay/com.liferay.portal.search.solr@2.0.46?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.solr@2.0.46?classifier=sources-commercial
@@ -193,6 +199,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.solr@2.0.75
 - pkg:maven/com.liferay/com.liferay.portal.search.solr@2.0.75?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.solr@2.0.75?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.solr@2.0.76
+- pkg:maven/com.liferay/com.liferay.portal.search.solr@2.0.76?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.solr@2.0.76?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.solr@2.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.solr@2.0.8
 - pkg:maven/com.liferay/com.liferay.portal.search.solr@2.0.8?classifier=sources
@@ -270,3 +279,12 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.solr@3.0.6
 - pkg:maven/com.liferay/com.liferay.portal.search.solr@3.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.solr@3.0.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.solr@3.0.7
+- pkg:maven/com.liferay/com.liferay.portal.search.solr@3.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.solr@3.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.solr@3.0.8
+- pkg:maven/com.liferay/com.liferay.portal.search.solr@3.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.solr@3.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.solr@3.0.9
+- pkg:maven/com.liferay/com.liferay.portal.search.solr@3.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.solr@3.0.9?classifier=sources-commercial

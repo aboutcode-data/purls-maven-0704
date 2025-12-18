@@ -10,3 +10,13 @@
 - pkg:maven/org.nlpub/watset@2.2.7?classifier=sources
 - pkg:maven/org.nlpub/watset@2.2.8
 - pkg:maven/org.nlpub/watset@2.2.8?classifier=sources
+- pkg:maven/org.nlpub/watset@2.3.0
+- pkg:maven/org.nlpub/watset@2.3.0?classifier=sources
+- pkg:maven/org.nlpub/watset@2.3.1
+- pkg:maven/org.nlpub/watset@2.3.1?classifier=sources
+- pkg:maven/org.nlpub/watset@2.4.0
+- pkg:maven/org.nlpub/watset@2.4.0?classifier=sources
+- pkg:maven/org.nlpub/watset@2.5.0
+- pkg:maven/org.nlpub/watset@2.5.0?classifier=sources
+- pkg:maven/org.nlpub/watset@2.5.1
+- pkg:maven/org.nlpub/watset@2.5.1?classifier=sources

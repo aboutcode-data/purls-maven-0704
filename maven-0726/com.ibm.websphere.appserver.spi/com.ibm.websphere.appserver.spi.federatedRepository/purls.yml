@@ -28,3 +28,6 @@
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.federatedRepository@1.2.41
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.federatedRepository@1.2.42
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.federatedRepository@1.2.43
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.federatedRepository@1.2.44
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.federatedRepository@1.2.45
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.federatedRepository@1.2.46

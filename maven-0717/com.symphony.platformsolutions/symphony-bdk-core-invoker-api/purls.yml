@@ -1,0 +1,2 @@
+- pkg:maven/com.symphony.platformsolutions/symphony-bdk-core-invoker-api@1.2.1.BETA
+- pkg:maven/com.symphony.platformsolutions/symphony-bdk-core-invoker-api@1.2.1.BETA?classifier=sources

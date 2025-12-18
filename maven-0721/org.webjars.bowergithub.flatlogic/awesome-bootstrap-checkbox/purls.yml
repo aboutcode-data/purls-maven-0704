@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bowergithub.flatlogic/awesome-bootstrap-checkbox@0.3.7
 - pkg:maven/org.webjars.bowergithub.flatlogic/awesome-bootstrap-checkbox@0.3.7?classifier=sources
+- pkg:maven/org.webjars.bowergithub.flatlogic/awesome-bootstrap-checkbox@1.0.1
+- pkg:maven/org.webjars.bowergithub.flatlogic/awesome-bootstrap-checkbox@1.0.1?classifier=sources

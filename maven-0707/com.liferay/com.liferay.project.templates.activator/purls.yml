@@ -205,6 +205,9 @@
 - pkg:maven/com.liferay/com.liferay.project.templates.activator@1.0.72
 - pkg:maven/com.liferay/com.liferay.project.templates.activator@1.0.72?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.activator@1.0.72?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.project.templates.activator@1.0.73
+- pkg:maven/com.liferay/com.liferay.project.templates.activator@1.0.73?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates.activator@1.0.73?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.project.templates.activator@1.0.74
 - pkg:maven/com.liferay/com.liferay.project.templates.activator@1.0.74?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.activator@1.0.74?classifier=sources-commercial

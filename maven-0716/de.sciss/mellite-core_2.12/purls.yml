@@ -22,3 +22,9 @@
 - pkg:maven/de.sciss/mellite-core_2.12@2.45.6?classifier=sources
 - pkg:maven/de.sciss/mellite-core_2.12@2.45.7
 - pkg:maven/de.sciss/mellite-core_2.12@2.45.7?classifier=sources
+- pkg:maven/de.sciss/mellite-core_2.12@2.45.8
+- pkg:maven/de.sciss/mellite-core_2.12@2.45.8?classifier=sources
+- pkg:maven/de.sciss/mellite-core_2.12@2.45.9
+- pkg:maven/de.sciss/mellite-core_2.12@2.45.9?classifier=sources
+- pkg:maven/de.sciss/mellite-core_2.12@3.0.0
+- pkg:maven/de.sciss/mellite-core_2.12@3.0.0?classifier=sources

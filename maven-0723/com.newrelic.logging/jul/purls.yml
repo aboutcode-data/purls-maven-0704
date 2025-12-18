@@ -9,3 +9,4 @@
 - pkg:maven/com.newrelic.logging/jul@1.2
 - pkg:maven/com.newrelic.logging/jul@1.2?classifier=sources
 - pkg:maven/com.newrelic.logging/jul@2.0?classifier=sources
+- pkg:maven/com.newrelic.logging/jul@2.1?classifier=sources

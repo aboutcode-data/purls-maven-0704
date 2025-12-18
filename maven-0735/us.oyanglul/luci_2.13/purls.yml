@@ -1,0 +1,4 @@
+- pkg:maven/us.oyanglul/luci_2.13@0.7.0
+- pkg:maven/us.oyanglul/luci_2.13@0.7.0?classifier=sources
+- pkg:maven/us.oyanglul/luci_2.13@1.0.0-RC1
+- pkg:maven/us.oyanglul/luci_2.13@1.0.0-RC1?classifier=sources

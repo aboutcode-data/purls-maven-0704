@@ -8,6 +8,11 @@
 - pkg:maven/org.wso2.carbon.extension.identity.oauth2.grantType.jwt/org.wso2.carbon.extension.identity.oauth2.jwt.feature@1.0.17?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.oauth2.grantType.jwt/org.wso2.carbon.extension.identity.oauth2.jwt.feature@1.0.18?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.oauth2.grantType.jwt/org.wso2.carbon.extension.identity.oauth2.jwt.feature@1.0.19?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.oauth2.grantType.jwt/org.wso2.carbon.extension.identity.oauth2.jwt.feature@1.0.27?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.oauth2.grantType.jwt/org.wso2.carbon.extension.identity.oauth2.jwt.feature@1.0.28?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.oauth2.grantType.jwt/org.wso2.carbon.extension.identity.oauth2.jwt.feature@1.0.29?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.oauth2.grantType.jwt/org.wso2.carbon.extension.identity.oauth2.jwt.feature@1.0.30?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.oauth2.grantType.jwt/org.wso2.carbon.extension.identity.oauth2.jwt.feature@1.0.31?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.oauth2.grantType.jwt/org.wso2.carbon.extension.identity.oauth2.jwt.feature@1.0.4?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.oauth2.grantType.jwt/org.wso2.carbon.extension.identity.oauth2.jwt.feature@1.0.5?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.oauth2.grantType.jwt/org.wso2.carbon.extension.identity.oauth2.jwt.feature@1.0.6?classifier=source-release&type=zip

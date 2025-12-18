@@ -1,0 +1,2 @@
+- pkg:maven/io.github.vigoo/zio-aws-appflow_2.12@2.14.7.0
+- pkg:maven/io.github.vigoo/zio-aws-appflow_2.12@2.14.7.0?classifier=sources

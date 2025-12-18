@@ -8,3 +8,5 @@
 - pkg:maven/org.bsc.maven.plugin/bulk-deploy@2.0-rc2
 - pkg:maven/org.bsc.maven.plugin/bulk-deploy@2.0-rc2?classifier=sources
 - pkg:maven/org.bsc.maven.plugin/bulk-deploy@2.0?classifier=sources
+- pkg:maven/org.bsc.maven.plugin/bulk-deploy@2.1
+- pkg:maven/org.bsc.maven.plugin/bulk-deploy@2.1?classifier=sources

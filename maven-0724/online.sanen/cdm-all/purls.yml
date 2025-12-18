@@ -18,3 +18,5 @@
 - pkg:maven/online.sanen/cdm-all@2.2.7?classifier=sources
 - pkg:maven/online.sanen/cdm-all@2.2.8
 - pkg:maven/online.sanen/cdm-all@2.2.8?classifier=sources
+- pkg:maven/online.sanen/cdm-all@2.2.9
+- pkg:maven/online.sanen/cdm-all@2.2.9?classifier=sources

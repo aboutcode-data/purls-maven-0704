@@ -38,3 +38,9 @@
 - pkg:maven/io.prestosql/presto-password-authenticators@337?classifier=sources
 - pkg:maven/io.prestosql/presto-password-authenticators@338?classifier=sources
 - pkg:maven/io.prestosql/presto-password-authenticators@339?classifier=sources
+- pkg:maven/io.prestosql/presto-password-authenticators@340?classifier=sources
+- pkg:maven/io.prestosql/presto-password-authenticators@341?classifier=sources
+- pkg:maven/io.prestosql/presto-password-authenticators@342?classifier=sources
+- pkg:maven/io.prestosql/presto-password-authenticators@343?classifier=sources
+- pkg:maven/io.prestosql/presto-password-authenticators@344?classifier=sources
+- pkg:maven/io.prestosql/presto-password-authenticators@345?classifier=sources

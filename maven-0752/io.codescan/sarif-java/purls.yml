@@ -1,0 +1,2 @@
+- pkg:maven/io.codescan/sarif-java@1.0
+- pkg:maven/io.codescan/sarif-java@1.0?classifier=sources

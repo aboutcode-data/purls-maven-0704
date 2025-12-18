@@ -104,3 +104,5 @@
 - pkg:maven/org.minijax/minijax-archetype-quickstart@0.4.17
 - pkg:maven/org.minijax/minijax-archetype-quickstart@0.4.17?classifier=sources
 - pkg:maven/org.minijax/minijax-archetype-quickstart@0.4.1?classifier=sources
+- pkg:maven/org.minijax/minijax-archetype-quickstart@0.5.1
+- pkg:maven/org.minijax/minijax-archetype-quickstart@0.5.1?classifier=sources

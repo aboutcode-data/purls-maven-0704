@@ -1,0 +1,2 @@
+- pkg:maven/com.github.mrpowers/spark-stringmetric_2.11@0.3.0
+- pkg:maven/com.github.mrpowers/spark-stringmetric_2.11@0.3.0?classifier=sources

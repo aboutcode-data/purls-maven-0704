@@ -1,0 +1,4 @@
+- pkg:maven/org.mini2Dx/mini2dx-core@2.0.0-alpha.33
+- pkg:maven/org.mini2Dx/mini2dx-core@2.0.0-alpha.33?classifier=sources
+- pkg:maven/org.mini2Dx/mini2dx-core@2.0.0-alpha.34
+- pkg:maven/org.mini2Dx/mini2dx-core@2.0.0-alpha.34?classifier=sources

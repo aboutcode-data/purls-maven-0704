@@ -30,3 +30,5 @@
 - pkg:maven/org.droolsassert/da-utils@2.0.8?classifier=sources
 - pkg:maven/org.droolsassert/da-utils@2.0.9
 - pkg:maven/org.droolsassert/da-utils@2.0.9?classifier=sources
+- pkg:maven/org.droolsassert/da-utils@2.1.0
+- pkg:maven/org.droolsassert/da-utils@2.1.0?classifier=sources

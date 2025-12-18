@@ -1,0 +1,4 @@
+- pkg:maven/org.openurp.edu.evaluation/openurp-edu-evaluation-clazz@0.0.14
+- pkg:maven/org.openurp.edu.evaluation/openurp-edu-evaluation-clazz@0.0.14?classifier=sources
+- pkg:maven/org.openurp.edu.evaluation/openurp-edu-evaluation-clazz@0.0.15
+- pkg:maven/org.openurp.edu.evaluation/openurp-edu-evaluation-clazz@0.0.15?classifier=sources

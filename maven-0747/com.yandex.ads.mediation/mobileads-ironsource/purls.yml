@@ -12,3 +12,5 @@
 - pkg:maven/com.yandex.ads.mediation/mobileads-ironsource@0.6.0?type=aar
 - pkg:maven/com.yandex.ads.mediation/mobileads-ironsource@0.7.0?classifier=sources
 - pkg:maven/com.yandex.ads.mediation/mobileads-ironsource@0.7.0?type=aar
+- pkg:maven/com.yandex.ads.mediation/mobileads-ironsource@0.8.0?classifier=sources
+- pkg:maven/com.yandex.ads.mediation/mobileads-ironsource@0.8.0?type=aar

@@ -5,4 +5,6 @@
 - pkg:maven/cn.vertxup/zero-crud@0.5.1?classifier=sources
 - pkg:maven/cn.vertxup/zero-crud@0.5.2
 - pkg:maven/cn.vertxup/zero-crud@0.5.2?classifier=sources
+- pkg:maven/cn.vertxup/zero-crud@0.5.4
+- pkg:maven/cn.vertxup/zero-crud@0.5.4?classifier=sources
 - pkg:maven/cn.vertxup/zero-crud@0.5?classifier=sources

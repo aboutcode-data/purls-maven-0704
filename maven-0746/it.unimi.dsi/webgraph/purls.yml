@@ -44,3 +44,5 @@
 - pkg:maven/it.unimi.dsi/webgraph@3.6.2?classifier=sources
 - pkg:maven/it.unimi.dsi/webgraph@3.6.3
 - pkg:maven/it.unimi.dsi/webgraph@3.6.3?classifier=sources
+- pkg:maven/it.unimi.dsi/webgraph@3.6.5
+- pkg:maven/it.unimi.dsi/webgraph@3.6.5?classifier=sources

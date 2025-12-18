@@ -1,0 +1,2 @@
+- pkg:maven/com.softwaremill.sttp.client3/play-json_sjs1_2.13@3.0.0-RC6
+- pkg:maven/com.softwaremill.sttp.client3/play-json_sjs1_2.13@3.0.0-RC6?classifier=sources

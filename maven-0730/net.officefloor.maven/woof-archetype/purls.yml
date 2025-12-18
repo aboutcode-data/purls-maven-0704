@@ -36,6 +36,7 @@
 - pkg:maven/net.officefloor.maven/woof-archetype@3.24.0?classifier=sources
 - pkg:maven/net.officefloor.maven/woof-archetype@3.25.0?classifier=sources
 - pkg:maven/net.officefloor.maven/woof-archetype@3.26.0?classifier=sources
+- pkg:maven/net.officefloor.maven/woof-archetype@3.27.0?classifier=sources
 - pkg:maven/net.officefloor.maven/woof-archetype@3.3.0?classifier=sources
 - pkg:maven/net.officefloor.maven/woof-archetype@3.4.0?classifier=sources
 - pkg:maven/net.officefloor.maven/woof-archetype@3.5.0?classifier=sources

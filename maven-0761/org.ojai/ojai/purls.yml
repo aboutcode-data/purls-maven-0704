@@ -8,3 +8,7 @@
 - pkg:maven/org.ojai/ojai@2.0?classifier=sources
 - pkg:maven/org.ojai/ojai@3.0
 - pkg:maven/org.ojai/ojai@3.0?classifier=sources
+- pkg:maven/org.ojai/ojai@3.1
+- pkg:maven/org.ojai/ojai@3.1-mapr
+- pkg:maven/org.ojai/ojai@3.1-mapr?classifier=sources
+- pkg:maven/org.ojai/ojai@3.1?classifier=sources

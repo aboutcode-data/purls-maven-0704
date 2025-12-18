@@ -24,3 +24,5 @@
 - pkg:maven/org.wildfly/wildfly-servlet-dist-legacy@20.0.0.Beta1?type=zip
 - pkg:maven/org.wildfly/wildfly-servlet-dist-legacy@20.0.0.Final
 - pkg:maven/org.wildfly/wildfly-servlet-dist-legacy@20.0.1.Final
+- pkg:maven/org.wildfly/wildfly-servlet-dist-legacy@21.0.0.Beta1
+- pkg:maven/org.wildfly/wildfly-servlet-dist-legacy@21.0.0.Final

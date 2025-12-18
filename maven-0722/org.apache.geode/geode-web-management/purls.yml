@@ -4,6 +4,8 @@
 - pkg:maven/org.apache.geode/geode-web-management@1.11.0?type=war
 - pkg:maven/org.apache.geode/geode-web-management@1.12.0?classifier=sources
 - pkg:maven/org.apache.geode/geode-web-management@1.12.0?type=war
+- pkg:maven/org.apache.geode/geode-web-management@1.13.0?classifier=sources
+- pkg:maven/org.apache.geode/geode-web-management@1.13.0?type=war
 - pkg:maven/org.apache.geode/geode-web-management@1.9.0
 - pkg:maven/org.apache.geode/geode-web-management@1.9.0?classifier=sources
 - pkg:maven/org.apache.geode/geode-web-management@1.9.1

@@ -26,3 +26,7 @@
 - pkg:maven/com.github.billzabob/fordeckmacia_2.13@1.0.1?classifier=sources
 - pkg:maven/com.github.billzabob/fordeckmacia_2.13@1.0.2
 - pkg:maven/com.github.billzabob/fordeckmacia_2.13@1.0.2?classifier=sources
+- pkg:maven/com.github.billzabob/fordeckmacia_2.13@1.0.3
+- pkg:maven/com.github.billzabob/fordeckmacia_2.13@1.0.3?classifier=sources
+- pkg:maven/com.github.billzabob/fordeckmacia_2.13@1.0.4
+- pkg:maven/com.github.billzabob/fordeckmacia_2.13@1.0.4?classifier=sources

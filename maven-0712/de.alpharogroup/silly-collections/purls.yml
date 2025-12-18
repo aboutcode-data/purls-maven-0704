@@ -104,4 +104,8 @@
 - pkg:maven/de.alpharogroup/silly-collections@8.1?classifier=sources
 - pkg:maven/de.alpharogroup/silly-collections@8.2
 - pkg:maven/de.alpharogroup/silly-collections@8.2?classifier=sources
+- pkg:maven/de.alpharogroup/silly-collections@8.3
+- pkg:maven/de.alpharogroup/silly-collections@8.3?classifier=sources
+- pkg:maven/de.alpharogroup/silly-collections@8.4
+- pkg:maven/de.alpharogroup/silly-collections@8.4?classifier=sources
 - pkg:maven/de.alpharogroup/silly-collections@8?classifier=sources

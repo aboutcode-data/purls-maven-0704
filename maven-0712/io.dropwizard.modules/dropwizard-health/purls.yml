@@ -8,3 +8,5 @@
 - pkg:maven/io.dropwizard.modules/dropwizard-health@1.4.0?classifier=sources
 - pkg:maven/io.dropwizard.modules/dropwizard-health@1.5.0
 - pkg:maven/io.dropwizard.modules/dropwizard-health@1.5.0?classifier=sources
+- pkg:maven/io.dropwizard.modules/dropwizard-health@1.6.0
+- pkg:maven/io.dropwizard.modules/dropwizard-health@1.6.0?classifier=sources

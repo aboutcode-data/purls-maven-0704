@@ -88,6 +88,8 @@
 - pkg:maven/org.codehaus.cargo/cargo-daemon-webapp@1.7.14?type=war
 - pkg:maven/org.codehaus.cargo/cargo-daemon-webapp@1.7.15?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-daemon-webapp@1.7.15?type=war
+- pkg:maven/org.codehaus.cargo/cargo-daemon-webapp@1.7.16?classifier=sources
+- pkg:maven/org.codehaus.cargo/cargo-daemon-webapp@1.7.16?type=war
 - pkg:maven/org.codehaus.cargo/cargo-daemon-webapp@1.7.1?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-daemon-webapp@1.7.1?type=war
 - pkg:maven/org.codehaus.cargo/cargo-daemon-webapp@1.7.2?classifier=sources
@@ -106,3 +108,9 @@
 - pkg:maven/org.codehaus.cargo/cargo-daemon-webapp@1.7.8?type=war
 - pkg:maven/org.codehaus.cargo/cargo-daemon-webapp@1.7.9?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-daemon-webapp@1.7.9?type=war
+- pkg:maven/org.codehaus.cargo/cargo-daemon-webapp@1.8.0?classifier=sources
+- pkg:maven/org.codehaus.cargo/cargo-daemon-webapp@1.8.0?type=war
+- pkg:maven/org.codehaus.cargo/cargo-daemon-webapp@1.8.1?classifier=sources
+- pkg:maven/org.codehaus.cargo/cargo-daemon-webapp@1.8.1?type=war
+- pkg:maven/org.codehaus.cargo/cargo-daemon-webapp@1.8.2?classifier=sources
+- pkg:maven/org.codehaus.cargo/cargo-daemon-webapp@1.8.2?type=war

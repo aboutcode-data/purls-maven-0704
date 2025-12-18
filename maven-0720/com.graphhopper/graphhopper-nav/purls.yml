@@ -1,0 +1,8 @@
+- pkg:maven/com.graphhopper/graphhopper-nav@2.0
+- pkg:maven/com.graphhopper/graphhopper-nav@2.0-pre2
+- pkg:maven/com.graphhopper/graphhopper-nav@2.0-pre2?classifier=sources
+- pkg:maven/com.graphhopper/graphhopper-nav@2.0-pre3
+- pkg:maven/com.graphhopper/graphhopper-nav@2.0-pre3?classifier=sources
+- pkg:maven/com.graphhopper/graphhopper-nav@2.0?classifier=sources
+- pkg:maven/com.graphhopper/graphhopper-nav@2.1
+- pkg:maven/com.graphhopper/graphhopper-nav@2.1?classifier=sources

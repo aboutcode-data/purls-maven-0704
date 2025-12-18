@@ -20,3 +20,5 @@
 - pkg:maven/net.sf.ebus/net@5.3.3?classifier=sources
 - pkg:maven/net.sf.ebus/net@5.3.4
 - pkg:maven/net.sf.ebus/net@5.3.4?classifier=sources
+- pkg:maven/net.sf.ebus/net@5.3.5
+- pkg:maven/net.sf.ebus/net@5.3.5?classifier=sources

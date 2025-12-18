@@ -5,3 +5,4 @@
 - pkg:maven/de.mhus.ports/vaadin-ckeditor@1.6.1
 - pkg:maven/de.mhus.ports/vaadin-ckeditor@6.2.0
 - pkg:maven/de.mhus.ports/vaadin-ckeditor@7.0.0
+- pkg:maven/de.mhus.ports/vaadin-ckeditor@7.1.0

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.hbase.thirdparty/hbase-shaded-jetty@3.4.0
+- pkg:maven/org.apache.hbase.thirdparty/hbase-shaded-jetty@3.4.0?classifier=sources

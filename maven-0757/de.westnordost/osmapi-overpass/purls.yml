@@ -1,2 +1,4 @@
 - pkg:maven/de.westnordost/osmapi-overpass@1.0
 - pkg:maven/de.westnordost/osmapi-overpass@1.0?classifier=sources
+- pkg:maven/de.westnordost/osmapi-overpass@1.1
+- pkg:maven/de.westnordost/osmapi-overpass@1.1?classifier=sources

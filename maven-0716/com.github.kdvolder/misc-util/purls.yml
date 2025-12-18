@@ -4,3 +4,5 @@
 - pkg:maven/com.github.kdvolder/misc-util@0.0.1-M2?classifier=sources
 - pkg:maven/com.github.kdvolder/misc-util@0.0.2-RELEASE
 - pkg:maven/com.github.kdvolder/misc-util@0.0.2-RELEASE?classifier=sources
+- pkg:maven/com.github.kdvolder/misc-util@0.0.3-RELEASE
+- pkg:maven/com.github.kdvolder/misc-util@0.0.3-RELEASE?classifier=sources

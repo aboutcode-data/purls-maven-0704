@@ -2,3 +2,7 @@
 - pkg:maven/com.airbnb.android/mvrx-mocking@2.0.0-alpha4?classifier=sources
 - pkg:maven/com.airbnb.android/mvrx-mocking@2.0.0-alpha5?classifier=sources
 - pkg:maven/com.airbnb.android/mvrx-mocking@2.0.0-alpha6?classifier=sources
+- pkg:maven/com.airbnb.android/mvrx-mocking@2.0.0-alpha7?classifier=sources
+- pkg:maven/com.airbnb.android/mvrx-mocking@2.0.0-alpha8?classifier=sources
+- pkg:maven/com.airbnb.android/mvrx-mocking@2.0.0-beta1?classifier=sources
+- pkg:maven/com.airbnb.android/mvrx-mocking@2.0.0-beta2?classifier=sources

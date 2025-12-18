@@ -60,3 +60,7 @@
 - pkg:maven/org.dmfs/jems-testing@1.39?classifier=sources
 - pkg:maven/org.dmfs/jems-testing@1.40
 - pkg:maven/org.dmfs/jems-testing@1.40?classifier=sources
+- pkg:maven/org.dmfs/jems-testing@1.41
+- pkg:maven/org.dmfs/jems-testing@1.41?classifier=sources
+- pkg:maven/org.dmfs/jems-testing@1.43
+- pkg:maven/org.dmfs/jems-testing@1.43?classifier=sources

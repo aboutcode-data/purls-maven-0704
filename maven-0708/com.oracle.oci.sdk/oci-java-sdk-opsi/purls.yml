@@ -1,0 +1,2 @@
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-opsi@1.25.1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-opsi@1.25.1?classifier=sources

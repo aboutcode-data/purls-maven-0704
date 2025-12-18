@@ -13,3 +13,5 @@
 - pkg:maven/cn.4coder/struts@0.0.7?classifier=sources
 - pkg:maven/cn.4coder/struts@0.0.8
 - pkg:maven/cn.4coder/struts@0.0.8?classifier=sources
+- pkg:maven/cn.4coder/struts@1.0.0
+- pkg:maven/cn.4coder/struts@1.0.0?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/com.typesafe.akka/akka-contrib_2.13@2.5.30?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-contrib_2.13@2.5.31
 - pkg:maven/com.typesafe.akka/akka-contrib_2.13@2.5.31?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-contrib_2.13@2.5.32
+- pkg:maven/com.typesafe.akka/akka-contrib_2.13@2.5.32?classifier=sources

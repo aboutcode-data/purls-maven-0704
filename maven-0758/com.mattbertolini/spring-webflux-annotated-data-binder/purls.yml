@@ -1,1 +1,2 @@
 - pkg:maven/com.mattbertolini/spring-webflux-annotated-data-binder@0.1.0?classifier=sources
+- pkg:maven/com.mattbertolini/spring-webflux-annotated-data-binder@0.2.0?classifier=sources

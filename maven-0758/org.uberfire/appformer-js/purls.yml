@@ -26,3 +26,12 @@
 - pkg:maven/org.uberfire/appformer-js@7.40.0.Final
 - pkg:maven/org.uberfire/appformer-js@7.41.0.Final
 - pkg:maven/org.uberfire/appformer-js@7.41.0.t20200723
+- pkg:maven/org.uberfire/appformer-js@7.42.0.Final
+- pkg:maven/org.uberfire/appformer-js@7.43.0.Final
+- pkg:maven/org.uberfire/appformer-js@7.43.0.t20200824
+- pkg:maven/org.uberfire/appformer-js@7.43.1.Final
+- pkg:maven/org.uberfire/appformer-js@7.44.0.Final
+- pkg:maven/org.uberfire/appformer-js@7.45.0.Final
+- pkg:maven/org.uberfire/appformer-js@7.45.0.t20201009
+- pkg:maven/org.uberfire/appformer-js@7.45.0.t20201014
+- pkg:maven/org.uberfire/appformer-js@7.46.0.t20201030

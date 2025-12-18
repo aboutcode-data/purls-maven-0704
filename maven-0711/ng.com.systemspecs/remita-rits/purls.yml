@@ -1,0 +1,6 @@
+- pkg:maven/ng.com.systemspecs/remita-rits@0.0.3
+- pkg:maven/ng.com.systemspecs/remita-rits@0.0.3?classifier=sources
+- pkg:maven/ng.com.systemspecs/remita-rits@0.0.4
+- pkg:maven/ng.com.systemspecs/remita-rits@0.0.4?classifier=sources
+- pkg:maven/ng.com.systemspecs/remita-rits@1.0.0
+- pkg:maven/ng.com.systemspecs/remita-rits@1.0.0?classifier=sources

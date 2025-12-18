@@ -1,3 +1,5 @@
 - pkg:maven/io.github.project-openubl/quarkus-bouncycastle@1.1.0.RC1
 - pkg:maven/io.github.project-openubl/quarkus-bouncycastle@1.2.0.Final
 - pkg:maven/io.github.project-openubl/quarkus-bouncycastle@1.2.0.RC1
+- pkg:maven/io.github.project-openubl/quarkus-bouncycastle@1.2.1.Final
+- pkg:maven/io.github.project-openubl/quarkus-bouncycastle@1.2.2.Final

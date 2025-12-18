@@ -2,3 +2,11 @@
 - pkg:maven/com.github.deutschebank.symphony/symphony-maven-build-reporter@4.55.12?classifier=sources
 - pkg:maven/com.github.deutschebank.symphony/symphony-maven-build-reporter@4.55.13
 - pkg:maven/com.github.deutschebank.symphony/symphony-maven-build-reporter@4.55.13?classifier=sources
+- pkg:maven/com.github.deutschebank.symphony/symphony-maven-build-reporter@4.59.2
+- pkg:maven/com.github.deutschebank.symphony/symphony-maven-build-reporter@4.59.2?classifier=sources
+- pkg:maven/com.github.deutschebank.symphony/symphony-maven-build-reporter@4.59.5
+- pkg:maven/com.github.deutschebank.symphony/symphony-maven-build-reporter@4.59.5?classifier=sources
+- pkg:maven/com.github.deutschebank.symphony/symphony-maven-build-reporter@4.59.6
+- pkg:maven/com.github.deutschebank.symphony/symphony-maven-build-reporter@4.59.6?classifier=sources
+- pkg:maven/com.github.deutschebank.symphony/symphony-maven-build-reporter@4.59.8
+- pkg:maven/com.github.deutschebank.symphony/symphony-maven-build-reporter@4.59.8?classifier=sources

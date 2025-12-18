@@ -1,0 +1,2 @@
+- pkg:maven/io.debezium/debezium-connector-vitess@1.4.0.Alpha1
+- pkg:maven/io.debezium/debezium-connector-vitess@1.4.0.Alpha1?classifier=sources

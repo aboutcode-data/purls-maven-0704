@@ -87,3 +87,13 @@
 - pkg:maven/uk.co.real-logic/artio-session-fixt-codecs@0.69?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-session-fixt-codecs@0.70?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-session-fixt-codecs@0.71?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-session-fixt-codecs@0.72?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-session-fixt-codecs@0.73?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-session-fixt-codecs@0.74?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-session-fixt-codecs@0.75?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-session-fixt-codecs@0.76?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-session-fixt-codecs@0.77?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-session-fixt-codecs@0.78?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-session-fixt-codecs@0.79?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-session-fixt-codecs@0.80?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-session-fixt-codecs@0.81?classifier=sources

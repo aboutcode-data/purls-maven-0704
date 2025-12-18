@@ -45,3 +45,5 @@
 - pkg:maven/com.google.cloud.tools/appengine-gradle-plugin@2.2.0
 - pkg:maven/com.google.cloud.tools/appengine-gradle-plugin@2.2.0?classifier=sources
 - pkg:maven/com.google.cloud.tools/appengine-gradle-plugin@2.3.0?classifier=sources
+- pkg:maven/com.google.cloud.tools/appengine-gradle-plugin@2.4.0?classifier=sources
+- pkg:maven/com.google.cloud.tools/appengine-gradle-plugin@2.4.1?classifier=sources

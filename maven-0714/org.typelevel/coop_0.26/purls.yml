@@ -1,0 +1,2 @@
+- pkg:maven/org.typelevel/coop_0.26@1.0-7a160eb
+- pkg:maven/org.typelevel/coop_0.26@1.0-7a160eb?classifier=sources

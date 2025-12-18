@@ -51,6 +51,8 @@
 - pkg:maven/org.json4s/json4s-ast_2.11@3.6.0-RC1?classifier=sources
 - pkg:maven/org.json4s/json4s-ast_2.11@3.6.0?classifier=sources
 - pkg:maven/org.json4s/json4s-ast_2.11@3.6.1
+- pkg:maven/org.json4s/json4s-ast_2.11@3.6.10
+- pkg:maven/org.json4s/json4s-ast_2.11@3.6.10?classifier=sources
 - pkg:maven/org.json4s/json4s-ast_2.11@3.6.1?classifier=sources
 - pkg:maven/org.json4s/json4s-ast_2.11@3.6.2
 - pkg:maven/org.json4s/json4s-ast_2.11@3.6.2?classifier=sources
@@ -80,5 +82,7 @@
 - pkg:maven/org.json4s/json4s-ast_2.11@3.7.0-M5?classifier=sources
 - pkg:maven/org.json4s/json4s-ast_2.11@3.7.0-M6
 - pkg:maven/org.json4s/json4s-ast_2.11@3.7.0-M6?classifier=sources
+- pkg:maven/org.json4s/json4s-ast_2.11@3.7.0-M7
+- pkg:maven/org.json4s/json4s-ast_2.11@3.7.0-M7?classifier=sources
 - pkg:maven/org.json4s/json4s-ast_2.11@4.0.0-M1
 - pkg:maven/org.json4s/json4s-ast_2.11@4.0.0-M1?classifier=sources

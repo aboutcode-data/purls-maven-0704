@@ -9,3 +9,5 @@
 - pkg:maven/ai.tock/tock-bot-api-webhook@20.3.2-1
 - pkg:maven/ai.tock/tock-bot-api-webhook@20.3.2-2
 - pkg:maven/ai.tock/tock-bot-api-webhook@20.3.3
+- pkg:maven/ai.tock/tock-bot-api-webhook@20.3.4
+- pkg:maven/ai.tock/tock-bot-api-webhook@20.9.0

@@ -6,3 +6,9 @@
 - pkg:maven/net.wicp.tams/common-es-plugin@3.6.0?classifier=sources
 - pkg:maven/net.wicp.tams/common-es-plugin@3.6.4
 - pkg:maven/net.wicp.tams/common-es-plugin@3.6.4?classifier=sources
+- pkg:maven/net.wicp.tams/common-es-plugin@5.6.11
+- pkg:maven/net.wicp.tams/common-es-plugin@5.6.11?classifier=sources
+- pkg:maven/net.wicp.tams/common-es-plugin@6.3.4
+- pkg:maven/net.wicp.tams/common-es-plugin@6.3.4?classifier=sources
+- pkg:maven/net.wicp.tams/common-es-plugin@7.6.2
+- pkg:maven/net.wicp.tams/common-es-plugin@7.6.2?classifier=sources

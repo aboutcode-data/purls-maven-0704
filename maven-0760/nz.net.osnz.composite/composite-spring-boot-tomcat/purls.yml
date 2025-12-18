@@ -20,3 +20,7 @@
 - pkg:maven/nz.net.osnz.composite/composite-spring-boot-tomcat@5.19
 - pkg:maven/nz.net.osnz.composite/composite-spring-boot-tomcat@5.21
 - pkg:maven/nz.net.osnz.composite/composite-spring-boot-tomcat@5.22
+- pkg:maven/nz.net.osnz.composite/composite-spring-boot-tomcat@5.23
+- pkg:maven/nz.net.osnz.composite/composite-spring-boot-tomcat@5.24
+- pkg:maven/nz.net.osnz.composite/composite-spring-boot-tomcat@5.25
+- pkg:maven/nz.net.osnz.composite/composite-spring-boot-tomcat@5.26

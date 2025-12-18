@@ -1,0 +1,2 @@
+- pkg:maven/io.bootique.jersey/bootique-jersey-client-instrumented@2.0.M1
+- pkg:maven/io.bootique.jersey/bootique-jersey-client-instrumented@2.0.M1?classifier=sources

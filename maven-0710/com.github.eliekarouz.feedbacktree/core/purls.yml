@@ -1,2 +1,5 @@
 - pkg:maven/com.github.eliekarouz.feedbacktree/core@0.10.1?classifier=sources
+- pkg:maven/com.github.eliekarouz.feedbacktree/core@0.10.2?classifier=sources
 - pkg:maven/com.github.eliekarouz.feedbacktree/core@0.10?classifier=sources
+- pkg:maven/com.github.eliekarouz.feedbacktree/core@0.11.1?classifier=sources
+- pkg:maven/com.github.eliekarouz.feedbacktree/core@0.11?classifier=sources

@@ -5,6 +5,7 @@
 - pkg:maven/org.ops4j.pax.exam.archetypes/exam-osgi-archetype@4.13.1?classifier=sources
 - pkg:maven/org.ops4j.pax.exam.archetypes/exam-osgi-archetype@4.13.2?classifier=sources
 - pkg:maven/org.ops4j.pax.exam.archetypes/exam-osgi-archetype@4.13.3?classifier=sources
+- pkg:maven/org.ops4j.pax.exam.archetypes/exam-osgi-archetype@4.13.4?classifier=sources
 - pkg:maven/org.ops4j.pax.exam.archetypes/exam-osgi-archetype@4.3.0?classifier=sources
 - pkg:maven/org.ops4j.pax.exam.archetypes/exam-osgi-archetype@4.4.0?classifier=sources
 - pkg:maven/org.ops4j.pax.exam.archetypes/exam-osgi-archetype@4.5.0?classifier=sources

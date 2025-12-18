@@ -22,3 +22,5 @@
 - pkg:maven/com.cognitect.aws/ecr@798.2.678.0?classifier=sources
 - pkg:maven/com.cognitect.aws/ecr@801.2.708.0
 - pkg:maven/com.cognitect.aws/ecr@801.2.708.0?classifier=sources
+- pkg:maven/com.cognitect.aws/ecr@807.2.729.0
+- pkg:maven/com.cognitect.aws/ecr@807.2.729.0?classifier=sources

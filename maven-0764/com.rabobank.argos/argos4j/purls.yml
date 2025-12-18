@@ -12,3 +12,5 @@
 - pkg:maven/com.rabobank.argos/argos4j@0.0.1-RC9
 - pkg:maven/com.rabobank.argos/argos4j@0.0.1-RC9?classifier=sources
 - pkg:maven/com.rabobank.argos/argos4j@0.0.1?classifier=sources
+- pkg:maven/com.rabobank.argos/argos4j@0.1.0
+- pkg:maven/com.rabobank.argos/argos4j@0.1.0?classifier=sources

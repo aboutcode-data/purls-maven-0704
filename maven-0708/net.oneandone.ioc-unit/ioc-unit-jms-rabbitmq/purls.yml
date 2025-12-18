@@ -10,3 +10,5 @@
 - pkg:maven/net.oneandone.ioc-unit/ioc-unit-jms-rabbitmq@2.0.32?classifier=sources
 - pkg:maven/net.oneandone.ioc-unit/ioc-unit-jms-rabbitmq@2.0.33
 - pkg:maven/net.oneandone.ioc-unit/ioc-unit-jms-rabbitmq@2.0.33?classifier=sources
+- pkg:maven/net.oneandone.ioc-unit/ioc-unit-jms-rabbitmq@2.0.34
+- pkg:maven/net.oneandone.ioc-unit/ioc-unit-jms-rabbitmq@2.0.34?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.fujion.webjars/webjar-systemjs-plugin-babel@0.0.25
+- pkg:maven/org.fujion.webjars/webjar-systemjs-plugin-babel@0.0.25-1

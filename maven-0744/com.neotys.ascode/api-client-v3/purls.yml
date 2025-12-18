@@ -1,0 +1,2 @@
+- pkg:maven/com.neotys.ascode/api-client-v3@1.0.18
+- pkg:maven/com.neotys.ascode/api-client-v3@1.0.18?classifier=sources

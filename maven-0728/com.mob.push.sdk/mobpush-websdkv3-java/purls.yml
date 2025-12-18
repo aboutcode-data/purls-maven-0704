@@ -1,2 +1,10 @@
 - pkg:maven/com.mob.push.sdk/mobpush-websdkv3-java@1.0.0
 - pkg:maven/com.mob.push.sdk/mobpush-websdkv3-java@1.0.0?classifier=sources
+- pkg:maven/com.mob.push.sdk/mobpush-websdkv3-java@1.0.2
+- pkg:maven/com.mob.push.sdk/mobpush-websdkv3-java@1.0.2?classifier=sources
+- pkg:maven/com.mob.push.sdk/mobpush-websdkv3-java@1.0.3
+- pkg:maven/com.mob.push.sdk/mobpush-websdkv3-java@1.0.3?classifier=sources
+- pkg:maven/com.mob.push.sdk/mobpush-websdkv3-java@1.0.4
+- pkg:maven/com.mob.push.sdk/mobpush-websdkv3-java@1.0.4?classifier=sources
+- pkg:maven/com.mob.push.sdk/mobpush-websdkv3-java@2.0.0
+- pkg:maven/com.mob.push.sdk/mobpush-websdkv3-java@2.0.0?classifier=sources

@@ -48,3 +48,5 @@
 - pkg:maven/com.sun.xml.ws/httpspi-servlet@3.0.0-M2?classifier=sources
 - pkg:maven/com.sun.xml.ws/httpspi-servlet@3.0.0-M3
 - pkg:maven/com.sun.xml.ws/httpspi-servlet@3.0.0-M3?classifier=sources
+- pkg:maven/com.sun.xml.ws/httpspi-servlet@3.0.0-M4
+- pkg:maven/com.sun.xml.ws/httpspi-servlet@3.0.0-M4?classifier=sources

@@ -144,3 +144,13 @@
 - pkg:maven/org.opendaylight.mdsal/mdsal-eos-dom-simple@6.0.3?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-eos-dom-simple@6.0.4
 - pkg:maven/org.opendaylight.mdsal/mdsal-eos-dom-simple@6.0.4?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-eos-dom-simple@6.0.5
+- pkg:maven/org.opendaylight.mdsal/mdsal-eos-dom-simple@6.0.5?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-eos-dom-simple@6.0.6
+- pkg:maven/org.opendaylight.mdsal/mdsal-eos-dom-simple@6.0.6?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-eos-dom-simple@6.0.7
+- pkg:maven/org.opendaylight.mdsal/mdsal-eos-dom-simple@6.0.7?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-eos-dom-simple@7.0.0
+- pkg:maven/org.opendaylight.mdsal/mdsal-eos-dom-simple@7.0.0?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-eos-dom-simple@7.0.1
+- pkg:maven/org.opendaylight.mdsal/mdsal-eos-dom-simple@7.0.1?classifier=sources

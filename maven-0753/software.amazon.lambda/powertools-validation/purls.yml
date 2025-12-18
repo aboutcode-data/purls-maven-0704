@@ -1,0 +1,2 @@
+- pkg:maven/software.amazon.lambda/powertools-validation@0.6.0-beta
+- pkg:maven/software.amazon.lambda/powertools-validation@0.6.0-beta?classifier=sources

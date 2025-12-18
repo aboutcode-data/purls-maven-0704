@@ -2,3 +2,5 @@
 - pkg:maven/pl.wrzasq.commons/commons-dynamodb@1.1.4?classifier=sources
 - pkg:maven/pl.wrzasq.commons/commons-dynamodb@1.1.5
 - pkg:maven/pl.wrzasq.commons/commons-dynamodb@1.1.5?classifier=sources
+- pkg:maven/pl.wrzasq.commons/commons-dynamodb@1.2.0
+- pkg:maven/pl.wrzasq.commons/commons-dynamodb@1.2.0?classifier=sources

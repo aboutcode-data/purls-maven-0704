@@ -2,3 +2,5 @@
 - pkg:maven/com.github.ppodgorsek/spring-social-facebook-web@5.0.0?classifier=sources
 - pkg:maven/com.github.ppodgorsek/spring-social-facebook-web@7.0.0
 - pkg:maven/com.github.ppodgorsek/spring-social-facebook-web@7.0.0?classifier=sources
+- pkg:maven/com.github.ppodgorsek/spring-social-facebook-web@8.0.0
+- pkg:maven/com.github.ppodgorsek/spring-social-facebook-web@8.0.0?classifier=sources

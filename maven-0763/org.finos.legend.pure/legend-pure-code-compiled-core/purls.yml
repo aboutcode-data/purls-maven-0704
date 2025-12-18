@@ -1,0 +1,4 @@
+- pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-core@0.0.8
+- pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-core@0.0.8?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-core@1.0.0
+- pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-core@1.0.0?classifier=sources

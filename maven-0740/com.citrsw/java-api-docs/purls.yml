@@ -1,0 +1,6 @@
+- pkg:maven/com.citrsw/java-api-docs@1.0.0-beta
+- pkg:maven/com.citrsw/java-api-docs@1.0.0-beta?classifier=sources
+- pkg:maven/com.citrsw/java-api-docs@1.1.0-beta
+- pkg:maven/com.citrsw/java-api-docs@1.1.0-beta?classifier=sources
+- pkg:maven/com.citrsw/java-api-docs@1.2.0-beta
+- pkg:maven/com.citrsw/java-api-docs@1.2.0-beta?classifier=sources

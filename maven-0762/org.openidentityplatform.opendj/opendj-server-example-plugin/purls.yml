@@ -1,0 +1,2 @@
+- pkg:maven/org.openidentityplatform.opendj/opendj-server-example-plugin@4.4.7?classifier=sources
+- pkg:maven/org.openidentityplatform.opendj/opendj-server-example-plugin@4.4.7?type=zip

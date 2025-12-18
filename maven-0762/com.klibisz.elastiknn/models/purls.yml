@@ -1,0 +1,4 @@
+- pkg:maven/com.klibisz.elastiknn/models@0.1.0-PRE30?classifier=sources
+- pkg:maven/com.klibisz.elastiknn/models@0.1.0-PRE40?classifier=sources
+- pkg:maven/com.klibisz.elastiknn/models@0.1.0-PRE41?classifier=sources
+- pkg:maven/com.klibisz.elastiknn/models@0.1.0-PRE42?classifier=sources

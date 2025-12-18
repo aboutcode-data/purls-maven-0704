@@ -10,3 +10,5 @@
 - pkg:maven/xyz.tneciv/submission-limiter@Qin.RELEASE?classifier=sources
 - pkg:maven/xyz.tneciv/submission-limiter@Qin.SR1
 - pkg:maven/xyz.tneciv/submission-limiter@Qin.SR1?classifier=sources
+- pkg:maven/xyz.tneciv/submission-limiter@Qin.SR2
+- pkg:maven/xyz.tneciv/submission-limiter@Qin.SR2?classifier=sources

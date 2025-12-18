@@ -1,0 +1,6 @@
+- pkg:maven/org.opendaylight.yangtools/rfc6643-model-api@5.0.6
+- pkg:maven/org.opendaylight.yangtools/rfc6643-model-api@5.0.6?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/rfc6643-model-api@5.0.7
+- pkg:maven/org.opendaylight.yangtools/rfc6643-model-api@5.0.7?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/rfc6643-model-api@6.0.0
+- pkg:maven/org.opendaylight.yangtools/rfc6643-model-api@6.0.0?classifier=sources

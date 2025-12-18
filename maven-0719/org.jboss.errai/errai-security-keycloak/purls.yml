@@ -60,6 +60,8 @@
 - pkg:maven/org.jboss.errai/errai-security-keycloak@4.1.2.Final?classifier=sources
 - pkg:maven/org.jboss.errai/errai-security-keycloak@4.1.3.Final
 - pkg:maven/org.jboss.errai/errai-security-keycloak@4.1.3.Final?classifier=sources
+- pkg:maven/org.jboss.errai/errai-security-keycloak@4.10.0.Final
+- pkg:maven/org.jboss.errai/errai-security-keycloak@4.10.0.Final?classifier=sources
 - pkg:maven/org.jboss.errai/errai-security-keycloak@4.2.0.Final
 - pkg:maven/org.jboss.errai/errai-security-keycloak@4.2.0.Final?classifier=sources
 - pkg:maven/org.jboss.errai/errai-security-keycloak@4.2.1.Final
@@ -90,3 +92,5 @@
 - pkg:maven/org.jboss.errai/errai-security-keycloak@4.7.0.Final?classifier=sources
 - pkg:maven/org.jboss.errai/errai-security-keycloak@4.8.0.Final
 - pkg:maven/org.jboss.errai/errai-security-keycloak@4.8.0.Final?classifier=sources
+- pkg:maven/org.jboss.errai/errai-security-keycloak@4.9.0.Final
+- pkg:maven/org.jboss.errai/errai-security-keycloak@4.9.0.Final?classifier=sources

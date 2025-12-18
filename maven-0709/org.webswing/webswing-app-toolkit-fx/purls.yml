@@ -43,4 +43,10 @@
 - pkg:maven/org.webswing/webswing-app-toolkit-fx@20.1.2?classifier=sources
 - pkg:maven/org.webswing/webswing-app-toolkit-fx@20.1.3
 - pkg:maven/org.webswing/webswing-app-toolkit-fx@20.1.3?classifier=sources
+- pkg:maven/org.webswing/webswing-app-toolkit-fx@20.1.4
+- pkg:maven/org.webswing/webswing-app-toolkit-fx@20.1.4?classifier=sources
+- pkg:maven/org.webswing/webswing-app-toolkit-fx@20.1.5
+- pkg:maven/org.webswing/webswing-app-toolkit-fx@20.1.5?classifier=sources
+- pkg:maven/org.webswing/webswing-app-toolkit-fx@20.1.6
+- pkg:maven/org.webswing/webswing-app-toolkit-fx@20.1.6?classifier=sources
 - pkg:maven/org.webswing/webswing-app-toolkit-fx@20.1?classifier=sources

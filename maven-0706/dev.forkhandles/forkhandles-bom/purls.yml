@@ -1,2 +1,10 @@
 - pkg:maven/dev.forkhandles/forkhandles-bom@0.14.0.0
 - pkg:maven/dev.forkhandles/forkhandles-bom@0.14.0.0?classifier=sources
+- pkg:maven/dev.forkhandles/forkhandles-bom@0.18.0.0
+- pkg:maven/dev.forkhandles/forkhandles-bom@0.18.0.0?classifier=sources
+- pkg:maven/dev.forkhandles/forkhandles-bom@1.0.0.0
+- pkg:maven/dev.forkhandles/forkhandles-bom@1.0.0.0?classifier=sources
+- pkg:maven/dev.forkhandles/forkhandles-bom@1.1.0.0
+- pkg:maven/dev.forkhandles/forkhandles-bom@1.1.0.0?classifier=sources
+- pkg:maven/dev.forkhandles/forkhandles-bom@1.2.0.0
+- pkg:maven/dev.forkhandles/forkhandles-bom@1.2.0.0?classifier=sources

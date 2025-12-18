@@ -1,0 +1,2 @@
+- pkg:maven/org.hswebframework.web/hsweb-authorization-oauth2@4.0.8
+- pkg:maven/org.hswebframework.web/hsweb-authorization-oauth2@4.0.8?classifier=sources

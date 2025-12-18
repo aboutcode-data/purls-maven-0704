@@ -1,0 +1,4 @@
+- pkg:maven/com.github.wujiuye/easy-mybatis-plus-generator@2.0.1-RELEASE
+- pkg:maven/com.github.wujiuye/easy-mybatis-plus-generator@2.0.1-RELEASE?classifier=sources
+- pkg:maven/com.github.wujiuye/easy-mybatis-plus-generator@3.3.2
+- pkg:maven/com.github.wujiuye/easy-mybatis-plus-generator@3.3.2?classifier=sources

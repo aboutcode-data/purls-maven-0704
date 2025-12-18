@@ -1,0 +1,4 @@
+- pkg:maven/org.seasar.doma/doma-mock@2.42.0?classifier=sources
+- pkg:maven/org.seasar.doma/doma-mock@2.43.0?classifier=sources
+- pkg:maven/org.seasar.doma/doma-mock@2.44.0?classifier=sources
+- pkg:maven/org.seasar.doma/doma-mock@2.44.1?classifier=sources

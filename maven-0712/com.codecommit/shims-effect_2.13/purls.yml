@@ -10,3 +10,5 @@
 - pkg:maven/com.codecommit/shims-effect_2.13@2.1-5b1126a?classifier=sources
 - pkg:maven/com.codecommit/shims-effect_2.13@2.1.0
 - pkg:maven/com.codecommit/shims-effect_2.13@2.1.0?classifier=sources
+- pkg:maven/com.codecommit/shims-effect_2.13@2.2.0
+- pkg:maven/com.codecommit/shims-effect_2.13@2.2.0?classifier=sources

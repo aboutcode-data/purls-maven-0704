@@ -2,3 +2,7 @@
 - pkg:maven/cz.zakjan/objectpath@0.0.5?classifier=sources
 - pkg:maven/cz.zakjan/objectpath@1.0.0
 - pkg:maven/cz.zakjan/objectpath@1.0.0?classifier=sources
+- pkg:maven/cz.zakjan/objectpath@1.0.1
+- pkg:maven/cz.zakjan/objectpath@1.0.1?classifier=sources
+- pkg:maven/cz.zakjan/objectpath@1.0.2
+- pkg:maven/cz.zakjan/objectpath@1.0.2?classifier=sources

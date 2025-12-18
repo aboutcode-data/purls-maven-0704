@@ -20,3 +20,5 @@
 - pkg:maven/de.adorsys.xs2a.adapter/adorsys-integ-adapter@0.0.9?classifier=sources
 - pkg:maven/de.adorsys.xs2a.adapter/adorsys-integ-adapter@0.1.0
 - pkg:maven/de.adorsys.xs2a.adapter/adorsys-integ-adapter@0.1.0?classifier=sources
+- pkg:maven/de.adorsys.xs2a.adapter/adorsys-integ-adapter@0.1.1
+- pkg:maven/de.adorsys.xs2a.adapter/adorsys-integ-adapter@0.1.1?classifier=sources

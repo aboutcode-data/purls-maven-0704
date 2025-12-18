@@ -1,0 +1,2 @@
+- pkg:maven/de.alxgrk/spring-selenium-pool-core@1.0.0
+- pkg:maven/de.alxgrk/spring-selenium-pool-core@1.0.0?classifier=sources

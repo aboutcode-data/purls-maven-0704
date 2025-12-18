@@ -8,3 +8,4 @@
 - pkg:maven/org.apache.ranger/conditions-enrichers@1.1.0
 - pkg:maven/org.apache.ranger/conditions-enrichers@1.2.0
 - pkg:maven/org.apache.ranger/conditions-enrichers@2.0.0
+- pkg:maven/org.apache.ranger/conditions-enrichers@2.1.0

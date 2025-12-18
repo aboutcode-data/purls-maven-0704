@@ -10,7 +10,11 @@
 - pkg:maven/com.vaadin/vaadin-tabs-testbench@2.0.4?classifier=sources
 - pkg:maven/com.vaadin/vaadin-tabs-testbench@2.1.0
 - pkg:maven/com.vaadin/vaadin-tabs-testbench@2.1.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-tabs-testbench@2.2.0
+- pkg:maven/com.vaadin/vaadin-tabs-testbench@2.2.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-tabs-testbench@3.0.0
 - pkg:maven/com.vaadin/vaadin-tabs-testbench@3.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-tabs-testbench@3.1.0
 - pkg:maven/com.vaadin/vaadin-tabs-testbench@3.1.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-tabs-testbench@4.0.0
+- pkg:maven/com.vaadin/vaadin-tabs-testbench@4.0.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/cn.com.antcloud.api/antcloud-api-rights@1.0.7?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-rights@1.1.8
 - pkg:maven/cn.com.antcloud.api/antcloud-api-rights@1.1.8?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-rights@1.2.1
+- pkg:maven/cn.com.antcloud.api/antcloud-api-rights@1.2.1?classifier=sources

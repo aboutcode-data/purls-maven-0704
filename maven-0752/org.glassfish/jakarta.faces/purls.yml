@@ -13,4 +13,6 @@
 - pkg:maven/org.glassfish/jakarta.faces@3.0.0
 - pkg:maven/org.glassfish/jakarta.faces@3.0.0-RC1
 - pkg:maven/org.glassfish/jakarta.faces@3.0.0-RC1?classifier=sources
+- pkg:maven/org.glassfish/jakarta.faces@3.0.0-RC3
+- pkg:maven/org.glassfish/jakarta.faces@3.0.0-RC3?classifier=sources
 - pkg:maven/org.glassfish/jakarta.faces@3.0.0?classifier=sources

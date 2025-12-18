@@ -1,0 +1,2 @@
+- pkg:maven/io.easybest/spring-data-mybatis-core@2.0.1.RELEASE
+- pkg:maven/io.easybest/spring-data-mybatis-core@2.0.1.RELEASE?classifier=sources

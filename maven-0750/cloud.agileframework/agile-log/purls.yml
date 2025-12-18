@@ -1,0 +1,4 @@
+- pkg:maven/cloud.agileframework/agile-log@2.0.0
+- pkg:maven/cloud.agileframework/agile-log@2.0.0?classifier=sources
+- pkg:maven/cloud.agileframework/agile-log@2.0.5
+- pkg:maven/cloud.agileframework/agile-log@2.0.5?classifier=sources

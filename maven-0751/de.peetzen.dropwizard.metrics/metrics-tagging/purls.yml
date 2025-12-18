@@ -1,0 +1,2 @@
+- pkg:maven/de.peetzen.dropwizard.metrics/metrics-tagging@1.0.0?classifier=sources
+- pkg:maven/de.peetzen.dropwizard.metrics/metrics-tagging@1.0.1?classifier=sources

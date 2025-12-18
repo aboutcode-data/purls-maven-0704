@@ -2,3 +2,5 @@
 - pkg:maven/ch.epfl.scala/test-agent@0.13.17-sourcedeps?classifier=sources
 - pkg:maven/ch.epfl.scala/test-agent@1.1.0-sourcedeps
 - pkg:maven/ch.epfl.scala/test-agent@1.1.0-sourcedeps?classifier=sources
+- pkg:maven/ch.epfl.scala/test-agent@1.4.0-M2%2B31-debc9a28
+- pkg:maven/ch.epfl.scala/test-agent@1.4.0-M2%2B31-debc9a28?classifier=sources

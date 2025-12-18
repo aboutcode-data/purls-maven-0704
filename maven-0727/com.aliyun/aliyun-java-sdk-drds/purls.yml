@@ -20,6 +20,16 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-drds@2.6.0?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-drds@2.6.3
 - pkg:maven/com.aliyun/aliyun-java-sdk-drds@2.6.3?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-drds@201710161
+- pkg:maven/com.aliyun/aliyun-java-sdk-drds@201710161?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-drds@2019-01-23
+- pkg:maven/com.aliyun/aliyun-java-sdk-drds@2019-01-23?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-drds@20190123
+- pkg:maven/com.aliyun/aliyun-java-sdk-drds@20190123?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-drds@20200901
+- pkg:maven/com.aliyun/aliyun-java-sdk-drds@20200901?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-drds@202009031
+- pkg:maven/com.aliyun/aliyun-java-sdk-drds@202009031?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-drds@4.0.0
 - pkg:maven/com.aliyun/aliyun-java-sdk-drds@4.0.0?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-drds@4.1.0

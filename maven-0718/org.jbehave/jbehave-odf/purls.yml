@@ -186,3 +186,5 @@
 - pkg:maven/org.jbehave/jbehave-odf@4.6.3
 - pkg:maven/org.jbehave/jbehave-odf@4.6.3?classifier=sources
 - pkg:maven/org.jbehave/jbehave-odf@4.6?classifier=sources
+- pkg:maven/org.jbehave/jbehave-odf@4.7
+- pkg:maven/org.jbehave/jbehave-odf@4.7?classifier=sources

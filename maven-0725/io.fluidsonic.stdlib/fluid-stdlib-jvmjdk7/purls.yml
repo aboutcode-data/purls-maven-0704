@@ -1,1 +1,2 @@
 - pkg:maven/io.fluidsonic.stdlib/fluid-stdlib-jvmjdk7@0.10.0?classifier=sources
+- pkg:maven/io.fluidsonic.stdlib/fluid-stdlib-jvmjdk7@0.10.1?classifier=sources

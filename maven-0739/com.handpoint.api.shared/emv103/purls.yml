@@ -1,0 +1,3 @@
+- pkg:maven/com.handpoint.api.shared/emv103@5.11.0?classifier=sources
+- pkg:maven/com.handpoint.api.shared/emv103@5.11.0?type=aar
+- pkg:maven/com.handpoint.api.shared/emv103@5.12.0-RC.3?classifier=sources

@@ -64,3 +64,5 @@
 - pkg:maven/org.apache.cxf.systests/cxf-systests-cdi-owb-no-apps@3.3.6?classifier=sources
 - pkg:maven/org.apache.cxf.systests/cxf-systests-cdi-owb-no-apps@3.3.7
 - pkg:maven/org.apache.cxf.systests/cxf-systests-cdi-owb-no-apps@3.3.7?classifier=sources
+- pkg:maven/org.apache.cxf.systests/cxf-systests-cdi-owb-no-apps@3.4.0
+- pkg:maven/org.apache.cxf.systests/cxf-systests-cdi-owb-no-apps@3.4.0?classifier=sources

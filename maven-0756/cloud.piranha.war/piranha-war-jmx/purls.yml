@@ -1,0 +1,4 @@
+- pkg:maven/cloud.piranha.war/piranha-war-jmx@20.10.0?classifier=sources
+- pkg:maven/cloud.piranha.war/piranha-war-jmx@20.10.0?type=war
+- pkg:maven/cloud.piranha.war/piranha-war-jmx@20.9.0?classifier=sources
+- pkg:maven/cloud.piranha.war/piranha-war-jmx@20.9.0?type=war

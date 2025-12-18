@@ -1,0 +1,2 @@
+- pkg:maven/org.javalite/app-config-spec@2.4-j8
+- pkg:maven/org.javalite/app-config-spec@2.4-j8?classifier=sources

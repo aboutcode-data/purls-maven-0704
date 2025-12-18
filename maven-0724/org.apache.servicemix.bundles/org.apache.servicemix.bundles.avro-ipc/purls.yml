@@ -1,3 +1,7 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.avro-ipc@1.10.0_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.avro-ipc@1.10.0_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.avro-ipc@1.10.0_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.avro-ipc@1.10.0_1?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.avro-ipc@1.5.3_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.avro-ipc@1.5.3_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.avro-ipc@1.6.1_1

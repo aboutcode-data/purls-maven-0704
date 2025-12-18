@@ -4,3 +4,5 @@
 - pkg:maven/app.cash.contour/contour@0.1.6?type=aar
 - pkg:maven/app.cash.contour/contour@0.1.7?classifier=sources
 - pkg:maven/app.cash.contour/contour@0.1.7?type=aar
+- pkg:maven/app.cash.contour/contour@1.0.0?classifier=sources
+- pkg:maven/app.cash.contour/contour@1.0.0?type=aar

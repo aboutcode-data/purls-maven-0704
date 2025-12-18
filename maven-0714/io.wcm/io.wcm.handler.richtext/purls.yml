@@ -22,3 +22,5 @@
 - pkg:maven/io.wcm/io.wcm.handler.richtext@1.3.2?classifier=sources
 - pkg:maven/io.wcm/io.wcm.handler.richtext@1.3.4
 - pkg:maven/io.wcm/io.wcm.handler.richtext@1.3.4?classifier=sources
+- pkg:maven/io.wcm/io.wcm.handler.richtext@1.4.0
+- pkg:maven/io.wcm/io.wcm.handler.richtext@1.4.0?classifier=sources

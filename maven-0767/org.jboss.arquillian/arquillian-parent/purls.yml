@@ -11,3 +11,5 @@
 - pkg:maven/org.jboss.arquillian/arquillian-parent@1.6.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.arquillian/arquillian-parent@1.7.0.Alpha1?classifier=source-release&type=zip
 - pkg:maven/org.jboss.arquillian/arquillian-parent@1.7.0.Alpha2?classifier=source-release&type=zip
+- pkg:maven/org.jboss.arquillian/arquillian-parent@1.7.0.Alpha3?classifier=source-release&type=zip
+- pkg:maven/org.jboss.arquillian/arquillian-parent@1.7.0.Alpha4?classifier=source-release&type=zip
