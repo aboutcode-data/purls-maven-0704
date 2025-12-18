@@ -1,0 +1,8 @@
+- pkg:maven/top.sanguohf.egg/yang-sql-starter@1.0-release
+- pkg:maven/top.sanguohf.egg/yang-sql-starter@1.0-release?classifier=sources
+- pkg:maven/top.sanguohf.egg/yang-sql-starter@1.0.3-release
+- pkg:maven/top.sanguohf.egg/yang-sql-starter@1.0.3-release?classifier=sources
+- pkg:maven/top.sanguohf.egg/yang-sql-starter@1.0.4-release
+- pkg:maven/top.sanguohf.egg/yang-sql-starter@1.0.4-release?classifier=sources
+- pkg:maven/top.sanguohf.egg/yang-sql-starter@1.0.5-release
+- pkg:maven/top.sanguohf.egg/yang-sql-starter@1.0.5-release?classifier=sources

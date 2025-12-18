@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/suggestions-jquery@17.12.0
+- pkg:maven/org.webjars.npm/suggestions-jquery@17.12.0?classifier=sources

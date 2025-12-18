@@ -1,2 +1,6 @@
 - pkg:maven/gov.nasa.pds/transform@1.10.0
 - pkg:maven/gov.nasa.pds/transform@1.10.0?classifier=sources
+- pkg:maven/gov.nasa.pds/transform@1.11.0
+- pkg:maven/gov.nasa.pds/transform@1.11.0?classifier=sources
+- pkg:maven/gov.nasa.pds/transform@1.11.1
+- pkg:maven/gov.nasa.pds/transform@1.11.1?classifier=sources

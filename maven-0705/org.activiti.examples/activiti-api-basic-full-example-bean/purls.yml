@@ -1,0 +1,2 @@
+- pkg:maven/org.activiti.examples/activiti-api-basic-full-example-bean@7.1.0.M6
+- pkg:maven/org.activiti.examples/activiti-api-basic-full-example-bean@7.1.0.M6?classifier=sources

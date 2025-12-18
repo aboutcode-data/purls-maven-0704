@@ -61,6 +61,12 @@
 - pkg:maven/com.typesafe.akka/akka-osgi_2.12@2.5.25?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-osgi_2.12@2.5.26
 - pkg:maven/com.typesafe.akka/akka-osgi_2.12@2.5.26?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-osgi_2.12@2.5.27
+- pkg:maven/com.typesafe.akka/akka-osgi_2.12@2.5.27?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-osgi_2.12@2.5.28
+- pkg:maven/com.typesafe.akka/akka-osgi_2.12@2.5.28?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-osgi_2.12@2.5.29
+- pkg:maven/com.typesafe.akka/akka-osgi_2.12@2.5.29?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-osgi_2.12@2.5.2?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-osgi_2.12@2.5.3
 - pkg:maven/com.typesafe.akka/akka-osgi_2.12@2.5.3?classifier=sources
@@ -76,6 +82,7 @@
 - pkg:maven/com.typesafe.akka/akka-osgi_2.12@2.5.8?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-osgi_2.12@2.5.9
 - pkg:maven/com.typesafe.akka/akka-osgi_2.12@2.5.9?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-osgi_2.12@2.6.0
 - pkg:maven/com.typesafe.akka/akka-osgi_2.12@2.6.0-M1
 - pkg:maven/com.typesafe.akka/akka-osgi_2.12@2.6.0-M1?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-osgi_2.12@2.6.0-M2
@@ -96,3 +103,10 @@
 - pkg:maven/com.typesafe.akka/akka-osgi_2.12@2.6.0-RC1?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-osgi_2.12@2.6.0-RC2
 - pkg:maven/com.typesafe.akka/akka-osgi_2.12@2.6.0-RC2?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-osgi_2.12@2.6.0?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-osgi_2.12@2.6.1
+- pkg:maven/com.typesafe.akka/akka-osgi_2.12@2.6.1?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-osgi_2.12@2.6.2
+- pkg:maven/com.typesafe.akka/akka-osgi_2.12@2.6.2?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-osgi_2.12@2.6.3
+- pkg:maven/com.typesafe.akka/akka-osgi_2.12@2.6.3?classifier=sources

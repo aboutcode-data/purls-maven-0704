@@ -22,3 +22,4 @@
 - pkg:maven/org.apache.cxf.fediz/fediz@1.4.3?classifier=source-release&type=zip
 - pkg:maven/org.apache.cxf.fediz/fediz@1.4.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.cxf.fediz/fediz@1.4.5?classifier=source-release&type=zip
+- pkg:maven/org.apache.cxf.fediz/fediz@1.4.6?classifier=source-release&type=zip

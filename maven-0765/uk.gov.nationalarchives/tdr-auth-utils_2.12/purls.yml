@@ -1,0 +1,2 @@
+- pkg:maven/uk.gov.nationalarchives/tdr-auth-utils_2.12@0.0.1
+- pkg:maven/uk.gov.nationalarchives/tdr-auth-utils_2.12@0.0.1?classifier=sources

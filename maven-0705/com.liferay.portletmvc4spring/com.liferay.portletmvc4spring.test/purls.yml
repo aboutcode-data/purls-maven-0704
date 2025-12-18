@@ -1,2 +1,6 @@
 - pkg:maven/com.liferay.portletmvc4spring/com.liferay.portletmvc4spring.test@5.1.0
 - pkg:maven/com.liferay.portletmvc4spring/com.liferay.portletmvc4spring.test@5.1.0?classifier=sources
+- pkg:maven/com.liferay.portletmvc4spring/com.liferay.portletmvc4spring.test@5.1.1
+- pkg:maven/com.liferay.portletmvc4spring/com.liferay.portletmvc4spring.test@5.1.1?classifier=sources
+- pkg:maven/com.liferay.portletmvc4spring/com.liferay.portletmvc4spring.test@5.2.0
+- pkg:maven/com.liferay.portletmvc4spring/com.liferay.portletmvc4spring.test@5.2.0?classifier=sources

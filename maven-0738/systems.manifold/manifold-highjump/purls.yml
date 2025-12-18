@@ -1,0 +1,8 @@
+- pkg:maven/systems.manifold/manifold-highjump@2019.1.30
+- pkg:maven/systems.manifold/manifold-highjump@2019.1.30?classifier=sources
+- pkg:maven/systems.manifold/manifold-highjump@2019.1.31
+- pkg:maven/systems.manifold/manifold-highjump@2019.1.31?classifier=sources
+- pkg:maven/systems.manifold/manifold-highjump@2019.1.32
+- pkg:maven/systems.manifold/manifold-highjump@2019.1.32?classifier=sources
+- pkg:maven/systems.manifold/manifold-highjump@2020.1.1
+- pkg:maven/systems.manifold/manifold-highjump@2020.1.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.thesamet.scalapb/scalapb-runtime_sjs1_2.13@0.10.0-M5
+- pkg:maven/com.thesamet.scalapb/scalapb-runtime_sjs1_2.13@0.10.0-M5?classifier=sources

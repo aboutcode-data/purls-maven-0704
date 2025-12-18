@@ -1,2 +1,3 @@
 - pkg:maven/net.sf.loggersoft.kotlin/kotlin-utils@0.77
 - pkg:maven/net.sf.loggersoft.kotlin/kotlin-utils@0.77?classifier=sources
+- pkg:maven/net.sf.loggersoft.kotlin/kotlin-utils@0.79?classifier=sources

@@ -6,6 +6,13 @@
 - pkg:maven/org.finra.herd/herd-docs-javadoc@0.106.0
 - pkg:maven/org.finra.herd/herd-docs-javadoc@0.107.0
 - pkg:maven/org.finra.herd/herd-docs-javadoc@0.108.0
+- pkg:maven/org.finra.herd/herd-docs-javadoc@0.109.0
+- pkg:maven/org.finra.herd/herd-docs-javadoc@0.110.0
+- pkg:maven/org.finra.herd/herd-docs-javadoc@0.111.0
+- pkg:maven/org.finra.herd/herd-docs-javadoc@0.112.0
+- pkg:maven/org.finra.herd/herd-docs-javadoc@0.113.0
+- pkg:maven/org.finra.herd/herd-docs-javadoc@0.114.0
+- pkg:maven/org.finra.herd/herd-docs-javadoc@0.115.0
 - pkg:maven/org.finra.herd/herd-docs-javadoc@0.20.0
 - pkg:maven/org.finra.herd/herd-docs-javadoc@0.21.0
 - pkg:maven/org.finra.herd/herd-docs-javadoc@0.22.0

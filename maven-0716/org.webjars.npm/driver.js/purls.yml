@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/driver.js@0.5.2
 - pkg:maven/org.webjars.npm/driver.js@0.5.2?classifier=sources
+- pkg:maven/org.webjars.npm/driver.js@0.9.8
+- pkg:maven/org.webjars.npm/driver.js@0.9.8?classifier=sources

@@ -16,6 +16,8 @@
 - pkg:maven/org.webjars.bower/bootstrap-table@1.14.2?classifier=sources
 - pkg:maven/org.webjars.bower/bootstrap-table@1.15.4
 - pkg:maven/org.webjars.bower/bootstrap-table@1.15.4?classifier=sources
+- pkg:maven/org.webjars.bower/bootstrap-table@1.15.5
+- pkg:maven/org.webjars.bower/bootstrap-table@1.15.5?classifier=sources
 - pkg:maven/org.webjars.bower/bootstrap-table@1.2.3
 - pkg:maven/org.webjars.bower/bootstrap-table@1.2.3?classifier=sources
 - pkg:maven/org.webjars.bower/bootstrap-table@1.2.4

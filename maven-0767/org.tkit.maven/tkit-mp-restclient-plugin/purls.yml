@@ -1,0 +1,2 @@
+- pkg:maven/org.tkit.maven/tkit-mp-restclient-plugin@0.1.0
+- pkg:maven/org.tkit.maven/tkit-mp-restclient-plugin@0.1.0?classifier=sources

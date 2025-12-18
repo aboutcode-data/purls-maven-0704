@@ -1,0 +1,4 @@
+- pkg:maven/com.geirsson/test-agent@1.4.0-forkmain
+- pkg:maven/com.geirsson/test-agent@1.4.0-forkmain?classifier=sources
+- pkg:maven/com.geirsson/test-agent@1.4.1-forkmain
+- pkg:maven/com.geirsson/test-agent@1.4.1-forkmain?classifier=sources

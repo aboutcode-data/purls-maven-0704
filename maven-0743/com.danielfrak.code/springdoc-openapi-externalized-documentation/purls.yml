@@ -1,0 +1,2 @@
+- pkg:maven/com.danielfrak.code/springdoc-openapi-externalized-documentation@1.0.0
+- pkg:maven/com.danielfrak.code/springdoc-openapi-externalized-documentation@1.0.0?classifier=sources

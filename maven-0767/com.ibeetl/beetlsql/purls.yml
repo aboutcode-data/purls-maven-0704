@@ -159,6 +159,12 @@
 - pkg:maven/com.ibeetl/beetlsql@2.12.15.RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/beetlsql@2.12.16.RELEASE
 - pkg:maven/com.ibeetl/beetlsql@2.12.16.RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/beetlsql@2.12.17.RELEASE
+- pkg:maven/com.ibeetl/beetlsql@2.12.17.RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/beetlsql@2.12.18.RELEASE
+- pkg:maven/com.ibeetl/beetlsql@2.12.18.RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/beetlsql@2.12.19.RELEASE
+- pkg:maven/com.ibeetl/beetlsql@2.12.19.RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/beetlsql@2.12.2.RELEASE
 - pkg:maven/com.ibeetl/beetlsql@2.12.2.RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/beetlsql@2.12.3.RELEASE

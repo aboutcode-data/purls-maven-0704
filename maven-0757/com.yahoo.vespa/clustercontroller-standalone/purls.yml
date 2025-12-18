@@ -308,8 +308,16 @@
 - pkg:maven/com.yahoo.vespa/clustercontroller-standalone@7.13.75?classifier=sources
 - pkg:maven/com.yahoo.vespa/clustercontroller-standalone@7.132.16
 - pkg:maven/com.yahoo.vespa/clustercontroller-standalone@7.132.16?classifier=sources
+- pkg:maven/com.yahoo.vespa/clustercontroller-standalone@7.133.13
+- pkg:maven/com.yahoo.vespa/clustercontroller-standalone@7.133.13?classifier=sources
+- pkg:maven/com.yahoo.vespa/clustercontroller-standalone@7.136.13
+- pkg:maven/com.yahoo.vespa/clustercontroller-standalone@7.136.13?classifier=sources
+- pkg:maven/com.yahoo.vespa/clustercontroller-standalone@7.138.15
+- pkg:maven/com.yahoo.vespa/clustercontroller-standalone@7.138.15?classifier=sources
 - pkg:maven/com.yahoo.vespa/clustercontroller-standalone@7.14.17
 - pkg:maven/com.yahoo.vespa/clustercontroller-standalone@7.14.17?classifier=sources
+- pkg:maven/com.yahoo.vespa/clustercontroller-standalone@7.140.12
+- pkg:maven/com.yahoo.vespa/clustercontroller-standalone@7.140.12?classifier=sources
 - pkg:maven/com.yahoo.vespa/clustercontroller-standalone@7.15.21
 - pkg:maven/com.yahoo.vespa/clustercontroller-standalone@7.15.21?classifier=sources
 - pkg:maven/com.yahoo.vespa/clustercontroller-standalone@7.16.38

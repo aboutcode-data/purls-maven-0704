@@ -1,1 +1,2 @@
+- pkg:maven/org.hrodberaht.inject.plugin/test-spring-solr@3.0.0
 - pkg:maven/org.hrodberaht.inject.plugin/test-spring-solr@3.0.0-RC1

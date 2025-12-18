@@ -2,3 +2,5 @@
 - pkg:maven/com.sdl.delivery/ugc-api@10.0.0-1015?classifier=sources
 - pkg:maven/com.sdl.delivery/ugc-api@10.1.0-1018
 - pkg:maven/com.sdl.delivery/ugc-api@10.1.0-1018?classifier=sources
+- pkg:maven/com.sdl.delivery/ugc-api@10.1.1-1013
+- pkg:maven/com.sdl.delivery/ugc-api@10.1.1-1013?classifier=sources

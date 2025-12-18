@@ -4,5 +4,15 @@
 - pkg:maven/com.velopayments.api/java-api-model@2.12.1?classifier=sources
 - pkg:maven/com.velopayments.api/java-api-model@2.12.4
 - pkg:maven/com.velopayments.api/java-api-model@2.12.4?classifier=sources
+- pkg:maven/com.velopayments.api/java-api-model@2.12.5
+- pkg:maven/com.velopayments.api/java-api-model@2.12.5?classifier=sources
+- pkg:maven/com.velopayments.api/java-api-model@2.18.113
+- pkg:maven/com.velopayments.api/java-api-model@2.18.113?classifier=sources
+- pkg:maven/com.velopayments.api/java-api-model@2.19.36
+- pkg:maven/com.velopayments.api/java-api-model@2.19.36?classifier=sources
+- pkg:maven/com.velopayments.api/java-api-model@2.20.11
+- pkg:maven/com.velopayments.api/java-api-model@2.20.11?classifier=sources
+- pkg:maven/com.velopayments.api/java-api-model@2.22.10
+- pkg:maven/com.velopayments.api/java-api-model@2.22.10?classifier=sources
 - pkg:maven/com.velopayments.api/java-api-model@2.6.0
 - pkg:maven/com.velopayments.api/java-api-model@2.6.0?classifier=sources

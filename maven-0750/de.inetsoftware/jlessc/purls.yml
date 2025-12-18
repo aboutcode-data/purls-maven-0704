@@ -14,3 +14,5 @@
 - pkg:maven/de.inetsoftware/jlessc@1.7?classifier=sources
 - pkg:maven/de.inetsoftware/jlessc@1.8
 - pkg:maven/de.inetsoftware/jlessc@1.8?classifier=sources
+- pkg:maven/de.inetsoftware/jlessc@1.9
+- pkg:maven/de.inetsoftware/jlessc@1.9?classifier=sources

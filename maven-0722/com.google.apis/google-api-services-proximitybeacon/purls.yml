@@ -336,6 +336,10 @@
 - pkg:maven/com.google.apis/google-api-services-proximitybeacon@v1beta1-rev50-1.24.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-proximitybeacon@v1beta1-rev50-1.25.0
 - pkg:maven/com.google.apis/google-api-services-proximitybeacon@v1beta1-rev50-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-proximitybeacon@v1beta1-rev53-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-proximitybeacon@v1beta1-rev53-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-proximitybeacon@v1beta1-rev53-1.25.0
+- pkg:maven/com.google.apis/google-api-services-proximitybeacon@v1beta1-rev53-1.25.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-proximitybeacon@v1beta1-rev6-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-proximitybeacon@v1beta1-rev6-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-proximitybeacon@v1beta1-rev6-1.20.0

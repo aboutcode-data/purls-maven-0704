@@ -1,0 +1,14 @@
+- pkg:maven/ch.epfl.lamp/dotty-tastydoc_0.23@0.23.0-bin-20200203-2ced64f-NIGHTLY
+- pkg:maven/ch.epfl.lamp/dotty-tastydoc_0.23@0.23.0-bin-20200203-2ced64f-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty-tastydoc_0.23@0.23.0-bin-20200204-46aec62-NIGHTLY
+- pkg:maven/ch.epfl.lamp/dotty-tastydoc_0.23@0.23.0-bin-20200204-46aec62-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty-tastydoc_0.23@0.23.0-bin-20200205-3f919dd-NIGHTLY
+- pkg:maven/ch.epfl.lamp/dotty-tastydoc_0.23@0.23.0-bin-20200205-3f919dd-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty-tastydoc_0.23@0.23.0-bin-20200206-4d2ef01-NIGHTLY
+- pkg:maven/ch.epfl.lamp/dotty-tastydoc_0.23@0.23.0-bin-20200206-4d2ef01-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty-tastydoc_0.23@0.23.0-bin-20200207-5674066-NIGHTLY
+- pkg:maven/ch.epfl.lamp/dotty-tastydoc_0.23@0.23.0-bin-20200207-5674066-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty-tastydoc_0.23@0.23.0-bin-20200208-ce39ddb-NIGHTLY
+- pkg:maven/ch.epfl.lamp/dotty-tastydoc_0.23@0.23.0-bin-20200208-ce39ddb-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty-tastydoc_0.23@0.23.0-bin-20200209-25cdd9e-NIGHTLY
+- pkg:maven/ch.epfl.lamp/dotty-tastydoc_0.23@0.23.0-bin-20200209-25cdd9e-NIGHTLY?classifier=sources

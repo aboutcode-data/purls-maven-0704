@@ -110,3 +110,5 @@
 - pkg:maven/com.netflix.nebula/nebula-dependency-recommender@8.2.0?classifier=sources
 - pkg:maven/com.netflix.nebula/nebula-dependency-recommender@9.0.0
 - pkg:maven/com.netflix.nebula/nebula-dependency-recommender@9.0.0?classifier=sources
+- pkg:maven/com.netflix.nebula/nebula-dependency-recommender@9.0.1-rc.2?classifier=sources
+- pkg:maven/com.netflix.nebula/nebula-dependency-recommender@9.0.2?classifier=sources

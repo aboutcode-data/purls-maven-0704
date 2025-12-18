@@ -6,3 +6,5 @@
 - pkg:maven/de.carne.common/java-boot@2.7.0?classifier=sources
 - pkg:maven/de.carne.common/java-boot@2.8.0
 - pkg:maven/de.carne.common/java-boot@2.8.0?classifier=sources
+- pkg:maven/de.carne.common/java-boot@2.9.0
+- pkg:maven/de.carne.common/java-boot@2.9.0?classifier=sources

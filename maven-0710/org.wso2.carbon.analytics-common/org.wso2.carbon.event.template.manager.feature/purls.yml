@@ -60,3 +60,5 @@
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.template.manager.feature@5.2.11?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.template.manager.feature@5.2.12?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.template.manager.feature@5.2.13?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.template.manager.feature@5.2.19?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.template.manager.feature@5.2.23?classifier=sources

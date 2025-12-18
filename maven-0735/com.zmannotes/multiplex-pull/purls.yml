@@ -1,0 +1,6 @@
+- pkg:maven/com.zmannotes/multiplex-pull@1.0.2
+- pkg:maven/com.zmannotes/multiplex-pull@1.0.2?classifier=sources
+- pkg:maven/com.zmannotes/multiplex-pull@2.1.2
+- pkg:maven/com.zmannotes/multiplex-pull@2.1.2?classifier=sources
+- pkg:maven/com.zmannotes/multiplex-pull@2.1.3
+- pkg:maven/com.zmannotes/multiplex-pull@2.1.3?classifier=sources

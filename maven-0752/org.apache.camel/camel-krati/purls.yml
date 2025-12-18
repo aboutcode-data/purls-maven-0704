@@ -172,6 +172,10 @@
 - pkg:maven/org.apache.camel/camel-krati@2.24.1?classifier=sources
 - pkg:maven/org.apache.camel/camel-krati@2.24.2
 - pkg:maven/org.apache.camel/camel-krati@2.24.2?classifier=sources
+- pkg:maven/org.apache.camel/camel-krati@2.24.3
+- pkg:maven/org.apache.camel/camel-krati@2.24.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-krati@2.25.0
+- pkg:maven/org.apache.camel/camel-krati@2.25.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-krati@2.9.0
 - pkg:maven/org.apache.camel/camel-krati@2.9.0-RC1
 - pkg:maven/org.apache.camel/camel-krati@2.9.0?classifier=sources

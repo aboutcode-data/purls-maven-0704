@@ -14,3 +14,4 @@
 - pkg:maven/tech.aiq/aiqkit@2.0.8?type=aar
 - pkg:maven/tech.aiq/aiqkit@2.0.9?type=aar
 - pkg:maven/tech.aiq/aiqkit@2.0?type=aar
+- pkg:maven/tech.aiq/aiqkit@3.0?type=aar

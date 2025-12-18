@@ -1,0 +1,2 @@
+- pkg:maven/hu.blackbelt.mapper/mapper-api@1.0.0
+- pkg:maven/hu.blackbelt.mapper/mapper-api@1.0.0?classifier=sources

@@ -24,3 +24,5 @@
 - pkg:maven/com.openhtmltopdf/openhtmltopdf-java2d@0.0.1-RC21?classifier=sources
 - pkg:maven/com.openhtmltopdf/openhtmltopdf-java2d@1.0.0
 - pkg:maven/com.openhtmltopdf/openhtmltopdf-java2d@1.0.0?classifier=sources
+- pkg:maven/com.openhtmltopdf/openhtmltopdf-java2d@1.0.1
+- pkg:maven/com.openhtmltopdf/openhtmltopdf-java2d@1.0.1?classifier=sources

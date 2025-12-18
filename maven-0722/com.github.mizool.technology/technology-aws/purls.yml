@@ -63,6 +63,10 @@
 - pkg:maven/com.github.mizool.technology/technology-aws@0.33?classifier=sources
 - pkg:maven/com.github.mizool.technology/technology-aws@0.34
 - pkg:maven/com.github.mizool.technology/technology-aws@0.34?classifier=sources
+- pkg:maven/com.github.mizool.technology/technology-aws@0.35
+- pkg:maven/com.github.mizool.technology/technology-aws@0.35?classifier=sources
+- pkg:maven/com.github.mizool.technology/technology-aws@0.36
+- pkg:maven/com.github.mizool.technology/technology-aws@0.36?classifier=sources
 - pkg:maven/com.github.mizool.technology/technology-aws@0.3?classifier=sources
 - pkg:maven/com.github.mizool.technology/technology-aws@0.4
 - pkg:maven/com.github.mizool.technology/technology-aws@0.4?classifier=sources

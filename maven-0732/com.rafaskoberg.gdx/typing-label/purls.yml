@@ -16,3 +16,5 @@
 - pkg:maven/com.rafaskoberg.gdx/typing-label@1.0.7?classifier=sources
 - pkg:maven/com.rafaskoberg.gdx/typing-label@1.1.0
 - pkg:maven/com.rafaskoberg.gdx/typing-label@1.1.0?classifier=sources
+- pkg:maven/com.rafaskoberg.gdx/typing-label@1.2.0
+- pkg:maven/com.rafaskoberg.gdx/typing-label@1.2.0?classifier=sources

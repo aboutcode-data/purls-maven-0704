@@ -1,0 +1,8 @@
+- pkg:maven/com.diluv.catalejo/Catalejo@0.1.12
+- pkg:maven/com.diluv.catalejo/Catalejo@0.1.12?classifier=sources
+- pkg:maven/com.diluv.catalejo/Catalejo@0.1.16
+- pkg:maven/com.diluv.catalejo/Catalejo@0.1.16?classifier=sources
+- pkg:maven/com.diluv.catalejo/Catalejo@0.1.22
+- pkg:maven/com.diluv.catalejo/Catalejo@0.1.22?classifier=sources
+- pkg:maven/com.diluv.catalejo/Catalejo@0.1.4-snapshot
+- pkg:maven/com.diluv.catalejo/Catalejo@0.1.4-snapshot?classifier=sources

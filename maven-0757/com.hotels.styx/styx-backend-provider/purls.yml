@@ -1,0 +1,2 @@
+- pkg:maven/com.hotels.styx/styx-backend-provider@0.0.1.beta6
+- pkg:maven/com.hotels.styx/styx-backend-provider@0.0.1.beta6?classifier=sources

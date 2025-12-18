@@ -12,6 +12,12 @@
 - pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment@1.11.1?classifier=sources
 - pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment@1.11.2
 - pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment@1.11.2?classifier=sources
+- pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment@1.11.3
+- pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment@1.11.3?classifier=sources
+- pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment@1.11.4
+- pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment@1.11.4?classifier=sources
+- pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment@1.11.5
+- pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment@1.11.5?classifier=sources
 - pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment@1.7.4
 - pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment@1.7.4?classifier=sources
 - pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment@1.8.0
@@ -32,3 +38,9 @@
 - pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment@1.9.0?classifier=sources
 - pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment@1.9.1
 - pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment@1.9.1?classifier=sources
+- pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment@2.0.0
+- pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment@2.0.0?classifier=sources
+- pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment@2.0.1
+- pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment@2.0.1?classifier=sources
+- pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment@2.0.2
+- pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment@2.0.2?classifier=sources

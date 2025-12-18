@@ -1,0 +1,2 @@
+- pkg:maven/io.github.embeddedkafka/embedded-kafka_2.13@2.4.0
+- pkg:maven/io.github.embeddedkafka/embedded-kafka_2.13@2.4.0?classifier=sources

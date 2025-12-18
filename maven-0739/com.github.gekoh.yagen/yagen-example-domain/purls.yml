@@ -98,3 +98,5 @@
 - pkg:maven/com.github.gekoh.yagen/yagen-example-domain@2.5.9?classifier=sources
 - pkg:maven/com.github.gekoh.yagen/yagen-example-domain@3.0
 - pkg:maven/com.github.gekoh.yagen/yagen-example-domain@3.0?classifier=sources
+- pkg:maven/com.github.gekoh.yagen/yagen-example-domain@3.1
+- pkg:maven/com.github.gekoh.yagen/yagen-example-domain@3.1?classifier=sources

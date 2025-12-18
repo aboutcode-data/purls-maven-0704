@@ -1,3 +1,5 @@
+- pkg:maven/org.jbundle.util.other/org.jbundle.util.other.terminal@0.7.10?classifier=sources
+- pkg:maven/org.jbundle.util.other/org.jbundle.util.other.terminal@0.7.10?type=war
 - pkg:maven/org.jbundle.util.other/org.jbundle.util.other.terminal@0.7.7?classifier=sources
 - pkg:maven/org.jbundle.util.other/org.jbundle.util.other.terminal@0.7.7?type=war
 - pkg:maven/org.jbundle.util.other/org.jbundle.util.other.terminal@0.7.8?classifier=sources

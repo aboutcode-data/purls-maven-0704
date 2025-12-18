@@ -1,0 +1,2 @@
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-swagger@1.0.0
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-swagger@1.0.0?classifier=sources

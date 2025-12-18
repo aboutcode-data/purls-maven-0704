@@ -22,3 +22,5 @@
 - pkg:maven/co.fs2/fs2-reactive-streams_2.11@2.0.0?classifier=sources
 - pkg:maven/co.fs2/fs2-reactive-streams_2.11@2.0.1
 - pkg:maven/co.fs2/fs2-reactive-streams_2.11@2.0.1?classifier=sources
+- pkg:maven/co.fs2/fs2-reactive-streams_2.11@2.1.0
+- pkg:maven/co.fs2/fs2-reactive-streams_2.11@2.1.0?classifier=sources

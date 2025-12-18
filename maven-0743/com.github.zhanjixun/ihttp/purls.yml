@@ -1,0 +1,2 @@
+- pkg:maven/com.github.zhanjixun/ihttp@19.10
+- pkg:maven/com.github.zhanjixun/ihttp@19.10?classifier=sources

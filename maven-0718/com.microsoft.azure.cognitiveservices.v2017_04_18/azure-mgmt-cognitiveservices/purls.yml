@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure.cognitiveservices.v2017_04_18/azure-mgmt-cognitiveservices@1.0.0-beta-2
+- pkg:maven/com.microsoft.azure.cognitiveservices.v2017_04_18/azure-mgmt-cognitiveservices@1.0.0-beta-2?classifier=sources

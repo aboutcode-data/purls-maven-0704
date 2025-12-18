@@ -1,0 +1,2 @@
+- pkg:maven/com.mageddo.kafka/kafka-producer@1.1.0
+- pkg:maven/com.mageddo.kafka/kafka-producer@1.1.0?classifier=sources

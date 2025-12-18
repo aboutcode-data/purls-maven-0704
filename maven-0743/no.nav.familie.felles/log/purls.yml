@@ -28,5 +28,7 @@
 - pkg:maven/no.nav.familie.felles/log@1.0_20191029223639_40f00f9?classifier=sources
 - pkg:maven/no.nav.familie.felles/log@1.0_20191101145453_96ece0d
 - pkg:maven/no.nav.familie.felles/log@1.0_20191101145453_96ece0d?classifier=sources
+- pkg:maven/no.nav.familie.felles/log@1.0_20191106113227_c2ad869
+- pkg:maven/no.nav.familie.felles/log@1.0_20191106113227_c2ad869?classifier=sources
 - pkg:maven/no.nav.familie.felles/log@1_20190816094816_6f81a4d
 - pkg:maven/no.nav.familie.felles/log@1_20190816094816_6f81a4d?classifier=sources

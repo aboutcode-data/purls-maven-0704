@@ -18,6 +18,8 @@
 - pkg:maven/org.web3j/pantheon@4.2.0-android
 - pkg:maven/org.web3j/pantheon@4.2.0-android?classifier=sources
 - pkg:maven/org.web3j/pantheon@4.2.0?classifier=sources
+- pkg:maven/org.web3j/pantheon@4.2.1-android
+- pkg:maven/org.web3j/pantheon@4.2.1-android?classifier=sources
 - pkg:maven/org.web3j/pantheon@4.3.0
 - pkg:maven/org.web3j/pantheon@4.3.0?classifier=sources
 - pkg:maven/org.web3j/pantheon@4.3.1

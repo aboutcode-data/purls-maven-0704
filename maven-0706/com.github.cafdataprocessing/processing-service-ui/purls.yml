@@ -4,3 +4,4 @@
 - pkg:maven/com.github.cafdataprocessing/processing-service-ui@1.3.0-70?type=war
 - pkg:maven/com.github.cafdataprocessing/processing-service-ui@1.4.0-274?type=war
 - pkg:maven/com.github.cafdataprocessing/processing-service-ui@1.5.0-390?type=war
+- pkg:maven/com.github.cafdataprocessing/processing-service-ui@1.6.0-1?type=war

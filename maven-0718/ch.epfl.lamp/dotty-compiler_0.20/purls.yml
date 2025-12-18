@@ -1,3 +1,6 @@
+- pkg:maven/ch.epfl.lamp/dotty-compiler_0.20@0.20.0
+- pkg:maven/ch.epfl.lamp/dotty-compiler_0.20@0.20.0-RC1
+- pkg:maven/ch.epfl.lamp/dotty-compiler_0.20@0.20.0-RC1?classifier=sources
 - pkg:maven/ch.epfl.lamp/dotty-compiler_0.20@0.20.0-bin-20190923-10091bd-NIGHTLY
 - pkg:maven/ch.epfl.lamp/dotty-compiler_0.20@0.20.0-bin-20190923-10091bd-NIGHTLY?classifier=sources
 - pkg:maven/ch.epfl.lamp/dotty-compiler_0.20@0.20.0-bin-20190924-5bcb1ce-NIGHTLY
@@ -48,3 +51,10 @@
 - pkg:maven/ch.epfl.lamp/dotty-compiler_0.20@0.20.0-bin-20191024-1d5e6ed-NIGHTLY?classifier=sources
 - pkg:maven/ch.epfl.lamp/dotty-compiler_0.20@0.20.0-bin-20191026-d2db509-NIGHTLY
 - pkg:maven/ch.epfl.lamp/dotty-compiler_0.20@0.20.0-bin-20191026-d2db509-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty-compiler_0.20@0.20.0-bin-20191028-d06a5ff-NIGHTLY
+- pkg:maven/ch.epfl.lamp/dotty-compiler_0.20@0.20.0-bin-20191028-d06a5ff-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty-compiler_0.20@0.20.0-bin-20191029-d56060d-NIGHTLY
+- pkg:maven/ch.epfl.lamp/dotty-compiler_0.20@0.20.0-bin-20191029-d56060d-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty-compiler_0.20@0.20.0-bin-20191030-1fe9555-NIGHTLY
+- pkg:maven/ch.epfl.lamp/dotty-compiler_0.20@0.20.0-bin-20191030-1fe9555-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty-compiler_0.20@0.20.0?classifier=sources

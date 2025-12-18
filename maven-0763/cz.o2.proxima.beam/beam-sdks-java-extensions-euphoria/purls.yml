@@ -1,0 +1,6 @@
+- pkg:maven/cz.o2.proxima.beam/beam-sdks-java-extensions-euphoria@0.3-b91560
+- pkg:maven/cz.o2.proxima.beam/beam-sdks-java-extensions-euphoria@0.3-b91560?classifier=sources
+- pkg:maven/cz.o2.proxima.beam/beam-sdks-java-extensions-euphoria@0.3.0-rc1
+- pkg:maven/cz.o2.proxima.beam/beam-sdks-java-extensions-euphoria@0.3.0-rc1-ab3f0b
+- pkg:maven/cz.o2.proxima.beam/beam-sdks-java-extensions-euphoria@0.3.0-rc1-ab3f0b?classifier=sources
+- pkg:maven/cz.o2.proxima.beam/beam-sdks-java-extensions-euphoria@0.3.0-rc1?classifier=sources

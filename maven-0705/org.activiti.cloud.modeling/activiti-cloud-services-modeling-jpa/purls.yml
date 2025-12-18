@@ -1,0 +1,2 @@
+- pkg:maven/org.activiti.cloud.modeling/activiti-cloud-services-modeling-jpa@7.1.0.M6
+- pkg:maven/org.activiti.cloud.modeling/activiti-cloud-services-modeling-jpa@7.1.0.M6?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.bower/sass.js@0.10.0?classifier=sources
 - pkg:maven/org.webjars.bower/sass.js@0.10.6
 - pkg:maven/org.webjars.bower/sass.js@0.10.6?classifier=sources
+- pkg:maven/org.webjars.bower/sass.js@0.11.1
+- pkg:maven/org.webjars.bower/sass.js@0.11.1?classifier=sources

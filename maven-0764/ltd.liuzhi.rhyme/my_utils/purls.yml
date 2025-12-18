@@ -1,0 +1,4 @@
+- pkg:maven/ltd.liuzhi.rhyme/my_utils@1.0-RELEASE
+- pkg:maven/ltd.liuzhi.rhyme/my_utils@1.0-RELEASE?classifier=sources
+- pkg:maven/ltd.liuzhi.rhyme/my_utils@1.01-RELEASE
+- pkg:maven/ltd.liuzhi.rhyme/my_utils@1.01-RELEASE?classifier=sources

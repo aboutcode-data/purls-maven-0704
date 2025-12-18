@@ -1,2 +1,4 @@
 - pkg:maven/com.newrelic.agent.extension/class-histogram-extension@1.0.0
 - pkg:maven/com.newrelic.agent.extension/class-histogram-extension@1.0.0?classifier=sources
+- pkg:maven/com.newrelic.agent.extension/class-histogram-extension@1.1.0
+- pkg:maven/com.newrelic.agent.extension/class-histogram-extension@1.1.0?classifier=sources

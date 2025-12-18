@@ -1,0 +1,2 @@
+- pkg:maven/com.xdev-software/vaadin-maps-leaflet-flow@1.0.2
+- pkg:maven/com.xdev-software/vaadin-maps-leaflet-flow@1.0.2?classifier=sources

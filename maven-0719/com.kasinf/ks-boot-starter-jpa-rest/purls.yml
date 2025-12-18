@@ -1,1 +1,4 @@
+- pkg:maven/com.kasinf/ks-boot-starter-jpa-rest@1.0.10.RELEASE
 - pkg:maven/com.kasinf/ks-boot-starter-jpa-rest@1.0.7.RELEASE
+- pkg:maven/com.kasinf/ks-boot-starter-jpa-rest@1.0.8.RELEASE
+- pkg:maven/com.kasinf/ks-boot-starter-jpa-rest@1.0.9.RELEASE

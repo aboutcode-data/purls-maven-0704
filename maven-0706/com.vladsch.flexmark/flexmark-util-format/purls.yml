@@ -1,0 +1,4 @@
+- pkg:maven/com.vladsch.flexmark/flexmark-util-format@0.60.0
+- pkg:maven/com.vladsch.flexmark/flexmark-util-format@0.60.0?classifier=sources
+- pkg:maven/com.vladsch.flexmark/flexmark-util-format@0.60.2
+- pkg:maven/com.vladsch.flexmark/flexmark-util-format@0.60.2?classifier=sources

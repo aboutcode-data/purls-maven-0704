@@ -1,0 +1,4 @@
+- pkg:maven/org.neo4j/neo4j-monitoring@4.0.0
+- pkg:maven/org.neo4j/neo4j-monitoring@4.0.0-rc01
+- pkg:maven/org.neo4j/neo4j-monitoring@4.0.0-rc01?classifier=sources
+- pkg:maven/org.neo4j/neo4j-monitoring@4.0.0?classifier=sources

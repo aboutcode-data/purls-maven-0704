@@ -28,3 +28,5 @@
 - pkg:maven/com.ing.baker/baker-recipe-dsl_2.12@3.0.0-RC
 - pkg:maven/com.ing.baker/baker-recipe-dsl_2.12@3.0.0-RC?classifier=sources
 - pkg:maven/com.ing.baker/baker-recipe-dsl_2.12@3.0.0?classifier=sources
+- pkg:maven/com.ing.baker/baker-recipe-dsl_2.12@3.0.1
+- pkg:maven/com.ing.baker/baker-recipe-dsl_2.12@3.0.1?classifier=sources

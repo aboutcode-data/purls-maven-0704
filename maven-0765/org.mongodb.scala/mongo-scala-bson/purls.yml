@@ -1,0 +1,1 @@
+- pkg:maven/org.mongodb.scala/mongo-scala-bson@4.0.0-beta1?classifier=sources

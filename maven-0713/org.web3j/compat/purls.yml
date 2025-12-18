@@ -2,3 +2,5 @@
 - pkg:maven/org.web3j/compat@4.1.0-android?classifier=sources
 - pkg:maven/org.web3j/compat@4.2.0-android
 - pkg:maven/org.web3j/compat@4.2.0-android?classifier=sources
+- pkg:maven/org.web3j/compat@4.2.1-android
+- pkg:maven/org.web3j/compat@4.2.1-android?classifier=sources

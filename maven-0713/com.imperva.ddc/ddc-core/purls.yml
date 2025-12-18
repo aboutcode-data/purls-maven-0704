@@ -10,3 +10,5 @@
 - pkg:maven/com.imperva.ddc/ddc-core@7.3.4.0.0.0?classifier=sources
 - pkg:maven/com.imperva.ddc/ddc-core@7.3.5.0.0.0
 - pkg:maven/com.imperva.ddc/ddc-core@7.3.5.0.0.0?classifier=sources
+- pkg:maven/com.imperva.ddc/ddc-core@7.3.6.0.0.0
+- pkg:maven/com.imperva.ddc/ddc-core@7.3.6.0.0.0?classifier=sources

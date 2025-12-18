@@ -16,3 +16,7 @@
 - pkg:maven/org.wso2.transport.file/org.wso2.transport.file@6.0.59?classifier=sources
 - pkg:maven/org.wso2.transport.file/org.wso2.transport.file@6.0.60
 - pkg:maven/org.wso2.transport.file/org.wso2.transport.file@6.0.60?classifier=sources
+- pkg:maven/org.wso2.transport.file/org.wso2.transport.file@6.0.62
+- pkg:maven/org.wso2.transport.file/org.wso2.transport.file@6.0.62?classifier=sources
+- pkg:maven/org.wso2.transport.file/org.wso2.transport.file@6.0.63
+- pkg:maven/org.wso2.transport.file/org.wso2.transport.file@6.0.63?classifier=sources

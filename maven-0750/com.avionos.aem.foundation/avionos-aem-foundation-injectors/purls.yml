@@ -1,0 +1,4 @@
+- pkg:maven/com.avionos.aem.foundation/avionos-aem-foundation-injectors@1.0.0
+- pkg:maven/com.avionos.aem.foundation/avionos-aem-foundation-injectors@1.0.0?classifier=sources
+- pkg:maven/com.avionos.aem.foundation/avionos-aem-foundation-injectors@1.1.0
+- pkg:maven/com.avionos.aem.foundation/avionos-aem-foundation-injectors@1.1.0?classifier=sources

@@ -7,4 +7,12 @@
 - pkg:maven/com.github.fanzezhen/utils@1.0.3?classifier=sources
 - pkg:maven/com.github.fanzezhen/utils@1.0.4
 - pkg:maven/com.github.fanzezhen/utils@1.0.4?classifier=sources
+- pkg:maven/com.github.fanzezhen/utils@1.0.9
+- pkg:maven/com.github.fanzezhen/utils@1.0.9?classifier=sources
 - pkg:maven/com.github.fanzezhen/utils@1.0?classifier=sources
+- pkg:maven/com.github.fanzezhen/utils@1.1.0
+- pkg:maven/com.github.fanzezhen/utils@1.1.0?classifier=sources
+- pkg:maven/com.github.fanzezhen/utils@1.1.1
+- pkg:maven/com.github.fanzezhen/utils@1.1.1?classifier=sources
+- pkg:maven/com.github.fanzezhen/utils@1.1.2
+- pkg:maven/com.github.fanzezhen/utils@1.1.2?classifier=sources

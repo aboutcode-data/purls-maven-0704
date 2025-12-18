@@ -1,0 +1,8 @@
+- pkg:maven/com.clovellytech/h4sm-auth-client_sjs0.6_2.12@0.0.38
+- pkg:maven/com.clovellytech/h4sm-auth-client_sjs0.6_2.12@0.0.38?classifier=sources
+- pkg:maven/com.clovellytech/h4sm-auth-client_sjs0.6_2.12@0.0.39
+- pkg:maven/com.clovellytech/h4sm-auth-client_sjs0.6_2.12@0.0.39?classifier=sources
+- pkg:maven/com.clovellytech/h4sm-auth-client_sjs0.6_2.12@0.0.40
+- pkg:maven/com.clovellytech/h4sm-auth-client_sjs0.6_2.12@0.0.40?classifier=sources
+- pkg:maven/com.clovellytech/h4sm-auth-client_sjs0.6_2.12@0.0.41
+- pkg:maven/com.clovellytech/h4sm-auth-client_sjs0.6_2.12@0.0.41?classifier=sources

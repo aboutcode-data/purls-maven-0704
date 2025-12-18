@@ -1,0 +1,2 @@
+- pkg:maven/io.elepay/elepay-java-sdk@1.1.2
+- pkg:maven/io.elepay/elepay-java-sdk@1.1.2?classifier=sources

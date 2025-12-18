@@ -1,0 +1,2 @@
+- pkg:maven/com.freeletics.flowredux/flowredux-watchosarm32@0.2.0?classifier=sources
+- pkg:maven/com.freeletics.flowredux/flowredux-watchosarm32@0.2.1?classifier=sources

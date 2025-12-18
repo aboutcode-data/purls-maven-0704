@@ -32,3 +32,5 @@
 - pkg:maven/org.jmxtrans/jmxtrans-examples@269?classifier=sources
 - pkg:maven/org.jmxtrans/jmxtrans-examples@270
 - pkg:maven/org.jmxtrans/jmxtrans-examples@270?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-examples@271
+- pkg:maven/org.jmxtrans/jmxtrans-examples@271?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/uk.ac.cam.ch.wwmm/chemicalTagger@1.4.0
 - pkg:maven/uk.ac.cam.ch.wwmm/chemicalTagger@1.4.0?classifier=sources
+- pkg:maven/uk.ac.cam.ch.wwmm/chemicalTagger@1.5.0
+- pkg:maven/uk.ac.cam.ch.wwmm/chemicalTagger@1.5.0?classifier=sources

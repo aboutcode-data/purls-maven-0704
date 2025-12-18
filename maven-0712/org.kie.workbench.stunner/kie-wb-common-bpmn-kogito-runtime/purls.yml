@@ -1,0 +1,6 @@
+- pkg:maven/org.kie.workbench.stunner/kie-wb-common-bpmn-kogito-runtime@7.29.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.stunner/kie-wb-common-bpmn-kogito-runtime@7.29.0.Final?type=war
+- pkg:maven/org.kie.workbench.stunner/kie-wb-common-bpmn-kogito-runtime@7.30.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.stunner/kie-wb-common-bpmn-kogito-runtime@7.30.0.Final?type=war
+- pkg:maven/org.kie.workbench.stunner/kie-wb-common-bpmn-kogito-runtime@7.31.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.stunner/kie-wb-common-bpmn-kogito-runtime@7.31.0.Final?type=war

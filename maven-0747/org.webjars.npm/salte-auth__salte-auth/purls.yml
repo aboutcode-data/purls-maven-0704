@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/salte-auth__salte-auth@2.14.2
+- pkg:maven/org.webjars.npm/salte-auth__salte-auth@2.14.2?classifier=sources
+- pkg:maven/org.webjars.npm/salte-auth__salte-auth@3.0.0-rc.9
+- pkg:maven/org.webjars.npm/salte-auth__salte-auth@3.0.0-rc.9?classifier=sources

@@ -8,3 +8,11 @@
 - pkg:maven/org.rapidpm/rapidpm-vaadin-flow-commons@04.04.00-RPM?classifier=sources
 - pkg:maven/org.rapidpm/rapidpm-vaadin-flow-commons@04.05.00-RPM
 - pkg:maven/org.rapidpm/rapidpm-vaadin-flow-commons@04.05.00-RPM?classifier=sources
+- pkg:maven/org.rapidpm/rapidpm-vaadin-flow-commons@04.05.01-RPM
+- pkg:maven/org.rapidpm/rapidpm-vaadin-flow-commons@04.05.01-RPM?classifier=sources
+- pkg:maven/org.rapidpm/rapidpm-vaadin-flow-commons@04.05.02-RPM
+- pkg:maven/org.rapidpm/rapidpm-vaadin-flow-commons@04.05.02-RPM?classifier=sources
+- pkg:maven/org.rapidpm/rapidpm-vaadin-flow-commons@04.05.03-RPM
+- pkg:maven/org.rapidpm/rapidpm-vaadin-flow-commons@04.05.03-RPM?classifier=sources
+- pkg:maven/org.rapidpm/rapidpm-vaadin-flow-commons@04.06.00-RPM
+- pkg:maven/org.rapidpm/rapidpm-vaadin-flow-commons@04.06.00-RPM?classifier=sources

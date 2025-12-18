@@ -1,2 +1,4 @@
 - pkg:maven/hr.laplacian.laplas/laplas-commons_2.12@0.1.2
 - pkg:maven/hr.laplacian.laplas/laplas-commons_2.12@0.1.2?classifier=sources
+- pkg:maven/hr.laplacian.laplas/laplas-commons_2.12@0.2.0
+- pkg:maven/hr.laplacian.laplas/laplas-commons_2.12@0.2.0?classifier=sources

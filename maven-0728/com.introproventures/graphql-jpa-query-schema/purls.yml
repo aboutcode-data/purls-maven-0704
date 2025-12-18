@@ -57,6 +57,10 @@
 - pkg:maven/com.introproventures/graphql-jpa-query-schema@0.3.34?classifier=sources
 - pkg:maven/com.introproventures/graphql-jpa-query-schema@0.3.35
 - pkg:maven/com.introproventures/graphql-jpa-query-schema@0.3.35?classifier=sources
+- pkg:maven/com.introproventures/graphql-jpa-query-schema@0.3.36
+- pkg:maven/com.introproventures/graphql-jpa-query-schema@0.3.36?classifier=sources
+- pkg:maven/com.introproventures/graphql-jpa-query-schema@0.3.37
+- pkg:maven/com.introproventures/graphql-jpa-query-schema@0.3.37?classifier=sources
 - pkg:maven/com.introproventures/graphql-jpa-query-schema@0.3.3?classifier=sources
 - pkg:maven/com.introproventures/graphql-jpa-query-schema@0.3.4
 - pkg:maven/com.introproventures/graphql-jpa-query-schema@0.3.4?classifier=sources
@@ -70,3 +74,5 @@
 - pkg:maven/com.introproventures/graphql-jpa-query-schema@0.3.8?classifier=sources
 - pkg:maven/com.introproventures/graphql-jpa-query-schema@0.3.9
 - pkg:maven/com.introproventures/graphql-jpa-query-schema@0.3.9?classifier=sources
+- pkg:maven/com.introproventures/graphql-jpa-query-schema@0.4.0
+- pkg:maven/com.introproventures/graphql-jpa-query-schema@0.4.0?classifier=sources

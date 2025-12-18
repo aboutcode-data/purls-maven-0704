@@ -1,2 +1,4 @@
 - pkg:maven/org.leapframework/spring-boot-starter-jmms-test@0.6.1
 - pkg:maven/org.leapframework/spring-boot-starter-jmms-test@0.6.1?classifier=sources
+- pkg:maven/org.leapframework/spring-boot-starter-jmms-test@0.6.2
+- pkg:maven/org.leapframework/spring-boot-starter-jmms-test@0.6.2?classifier=sources

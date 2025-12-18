@@ -96,6 +96,14 @@
 - pkg:maven/org.webjars.npm/swagger-ui-dist@3.23.8?classifier=sources
 - pkg:maven/org.webjars.npm/swagger-ui-dist@3.24.0
 - pkg:maven/org.webjars.npm/swagger-ui-dist@3.24.0?classifier=sources
+- pkg:maven/org.webjars.npm/swagger-ui-dist@3.24.1
+- pkg:maven/org.webjars.npm/swagger-ui-dist@3.24.1?classifier=sources
+- pkg:maven/org.webjars.npm/swagger-ui-dist@3.24.2
+- pkg:maven/org.webjars.npm/swagger-ui-dist@3.24.2?classifier=sources
+- pkg:maven/org.webjars.npm/swagger-ui-dist@3.24.3
+- pkg:maven/org.webjars.npm/swagger-ui-dist@3.24.3?classifier=sources
+- pkg:maven/org.webjars.npm/swagger-ui-dist@3.25.0
+- pkg:maven/org.webjars.npm/swagger-ui-dist@3.25.0?classifier=sources
 - pkg:maven/org.webjars.npm/swagger-ui-dist@3.3.2
 - pkg:maven/org.webjars.npm/swagger-ui-dist@3.3.2?classifier=sources
 - pkg:maven/org.webjars.npm/swagger-ui-dist@3.4.0

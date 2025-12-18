@@ -4,3 +4,5 @@
 - pkg:maven/com.cognitect.aws/qldb-session@746.2.533.0?classifier=sources
 - pkg:maven/com.cognitect.aws/qldb-session@747.2.533.0
 - pkg:maven/com.cognitect.aws/qldb-session@747.2.533.0?classifier=sources
+- pkg:maven/com.cognitect.aws/qldb-session@770.2.568.0
+- pkg:maven/com.cognitect.aws/qldb-session@770.2.568.0?classifier=sources

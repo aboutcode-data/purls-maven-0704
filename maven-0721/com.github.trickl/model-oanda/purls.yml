@@ -16,6 +16,8 @@
 - pkg:maven/com.github.trickl/model-oanda@untagged-502ff924ba38d2ca4e36?classifier=sources
 - pkg:maven/com.github.trickl/model-oanda@untagged-54a05130f5a9bc6b8ea0
 - pkg:maven/com.github.trickl/model-oanda@untagged-54a05130f5a9bc6b8ea0?classifier=sources
+- pkg:maven/com.github.trickl/model-oanda@untagged-5f9a69c7978600fee539
+- pkg:maven/com.github.trickl/model-oanda@untagged-5f9a69c7978600fee539?classifier=sources
 - pkg:maven/com.github.trickl/model-oanda@untagged-7f6be49dbaa3bd6c07a4
 - pkg:maven/com.github.trickl/model-oanda@untagged-7f6be49dbaa3bd6c07a4?classifier=sources
 - pkg:maven/com.github.trickl/model-oanda@untagged-9ba5bb672c4b5aa1dea5

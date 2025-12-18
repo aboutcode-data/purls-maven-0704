@@ -1,0 +1,2 @@
+- pkg:maven/org.aksw.jena-sparql-api/jena-sparql-api-conjure@3.13.1-1
+- pkg:maven/org.aksw.jena-sparql-api/jena-sparql-api-conjure@3.13.1-1?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/im.ene.kohii/kohii-androidx@1.0.0.2010004-B0?classifier=sources
+- pkg:maven/im.ene.kohii/kohii-androidx@1.0.0.2010004-B0?type=aar
+- pkg:maven/im.ene.kohii/kohii-androidx@1.0.0.2010004-B1?classifier=sources
+- pkg:maven/im.ene.kohii/kohii-androidx@1.0.0.2010004-B1?type=aar
+- pkg:maven/im.ene.kohii/kohii-androidx@1.0.0.2010004-B2?classifier=sources
+- pkg:maven/im.ene.kohii/kohii-androidx@1.0.0.2010004-B2?type=aar
+- pkg:maven/im.ene.kohii/kohii-androidx@1.0.0.2010004-beta.3?classifier=sources
+- pkg:maven/im.ene.kohii/kohii-androidx@1.0.0.2010004-beta.3?type=aar
+- pkg:maven/im.ene.kohii/kohii-androidx@1.0.0.2010004-beta.4?classifier=sources
+- pkg:maven/im.ene.kohii/kohii-androidx@1.0.0.2010004-beta.4?type=aar

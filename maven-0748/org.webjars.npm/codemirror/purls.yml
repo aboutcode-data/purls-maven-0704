@@ -106,6 +106,12 @@
 - pkg:maven/org.webjars.npm/codemirror@5.48.4?classifier=sources
 - pkg:maven/org.webjars.npm/codemirror@5.49.2
 - pkg:maven/org.webjars.npm/codemirror@5.49.2?classifier=sources
+- pkg:maven/org.webjars.npm/codemirror@5.50.0
+- pkg:maven/org.webjars.npm/codemirror@5.50.0?classifier=sources
+- pkg:maven/org.webjars.npm/codemirror@5.50.2
+- pkg:maven/org.webjars.npm/codemirror@5.50.2?classifier=sources
+- pkg:maven/org.webjars.npm/codemirror@5.51.0
+- pkg:maven/org.webjars.npm/codemirror@5.51.0?classifier=sources
 - pkg:maven/org.webjars.npm/codemirror@5.8.0
 - pkg:maven/org.webjars.npm/codemirror@5.8.0?classifier=sources
 - pkg:maven/org.webjars.npm/codemirror@5.9.0

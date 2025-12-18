@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/picomatch@2.0.7
 - pkg:maven/org.webjars.npm/picomatch@2.0.7?classifier=sources
+- pkg:maven/org.webjars.npm/picomatch@2.2.1
+- pkg:maven/org.webjars.npm/picomatch@2.2.1?classifier=sources

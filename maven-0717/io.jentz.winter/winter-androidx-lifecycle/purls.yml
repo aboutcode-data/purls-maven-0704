@@ -6,3 +6,5 @@
 - pkg:maven/io.jentz.winter/winter-androidx-lifecycle@0.4.0?type=aar
 - pkg:maven/io.jentz.winter/winter-androidx-lifecycle@0.5.0?classifier=sources
 - pkg:maven/io.jentz.winter/winter-androidx-lifecycle@0.5.0?type=aar
+- pkg:maven/io.jentz.winter/winter-androidx-lifecycle@0.6.0?classifier=sources
+- pkg:maven/io.jentz.winter/winter-androidx-lifecycle@0.6.0?type=aar

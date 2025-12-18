@@ -1,2 +1,4 @@
 - pkg:maven/com.indoqa.solr/spatial-clustering@7.5.0
+- pkg:maven/com.indoqa.solr/spatial-clustering@7.5.0-1
+- pkg:maven/com.indoqa.solr/spatial-clustering@7.5.0-1?classifier=sources
 - pkg:maven/com.indoqa.solr/spatial-clustering@7.5.0?classifier=sources

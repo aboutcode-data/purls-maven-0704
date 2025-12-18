@@ -1,0 +1,4 @@
+- pkg:maven/fr.ird.observe.toolkit/i18n@4.20
+- pkg:maven/fr.ird.observe.toolkit/i18n@4.20?classifier=sources
+- pkg:maven/fr.ird.observe.toolkit/i18n@4.21
+- pkg:maven/fr.ird.observe.toolkit/i18n@4.21?classifier=sources

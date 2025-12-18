@@ -16,3 +16,15 @@
 - pkg:maven/io.github.rocketmix/rocketmix-routing-server@1.0.29?type=war
 - pkg:maven/io.github.rocketmix/rocketmix-routing-server@1.0.30?classifier=sources
 - pkg:maven/io.github.rocketmix/rocketmix-routing-server@1.0.30?type=war
+- pkg:maven/io.github.rocketmix/rocketmix-routing-server@1.0.31?classifier=sources
+- pkg:maven/io.github.rocketmix/rocketmix-routing-server@1.0.31?type=war
+- pkg:maven/io.github.rocketmix/rocketmix-routing-server@1.0.32?classifier=sources
+- pkg:maven/io.github.rocketmix/rocketmix-routing-server@1.0.32?type=war
+- pkg:maven/io.github.rocketmix/rocketmix-routing-server@1.0.33?classifier=sources
+- pkg:maven/io.github.rocketmix/rocketmix-routing-server@1.0.33?type=war
+- pkg:maven/io.github.rocketmix/rocketmix-routing-server@1.0.34?classifier=sources
+- pkg:maven/io.github.rocketmix/rocketmix-routing-server@1.0.34?type=war
+- pkg:maven/io.github.rocketmix/rocketmix-routing-server@1.0.35?classifier=sources
+- pkg:maven/io.github.rocketmix/rocketmix-routing-server@1.0.35?type=war
+- pkg:maven/io.github.rocketmix/rocketmix-routing-server@1.0.36?classifier=sources
+- pkg:maven/io.github.rocketmix/rocketmix-routing-server@1.0.36?type=war

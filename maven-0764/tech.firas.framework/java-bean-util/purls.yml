@@ -1,0 +1,2 @@
+- pkg:maven/tech.firas.framework/java-bean-util@0.1.0
+- pkg:maven/tech.firas.framework/java-bean-util@0.1.0?classifier=sources

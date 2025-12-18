@@ -1,2 +1,10 @@
 - pkg:maven/org.springframework.boot/spring-boot-starter-rsocket@2.2.0.RELEASE
 - pkg:maven/org.springframework.boot/spring-boot-starter-rsocket@2.2.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-starter-rsocket@2.2.1.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-rsocket@2.2.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-starter-rsocket@2.2.2.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-rsocket@2.2.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-starter-rsocket@2.2.3.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-rsocket@2.2.3.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-starter-rsocket@2.2.4.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-rsocket@2.2.4.RELEASE?classifier=sources

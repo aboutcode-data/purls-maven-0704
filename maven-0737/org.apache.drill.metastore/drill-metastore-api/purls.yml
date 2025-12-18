@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.drill.metastore/drill-metastore-api@1.17.0
+- pkg:maven/org.apache.drill.metastore/drill-metastore-api@1.17.0?classifier=sources

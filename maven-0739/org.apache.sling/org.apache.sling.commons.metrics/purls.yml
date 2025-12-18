@@ -13,3 +13,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.commons.metrics@1.2.6
 - pkg:maven/org.apache.sling/org.apache.sling.commons.metrics@1.2.6?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.commons.metrics@1.2.6?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.commons.metrics@1.2.8
+- pkg:maven/org.apache.sling/org.apache.sling.commons.metrics@1.2.8?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.commons.metrics@1.2.8?classifier=sources

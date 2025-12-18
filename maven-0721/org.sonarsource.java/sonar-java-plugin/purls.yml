@@ -51,3 +51,5 @@
 - pkg:maven/org.sonarsource.java/sonar-java-plugin@5.9.0.16391?classifier=sources
 - pkg:maven/org.sonarsource.java/sonar-java-plugin@5.9.1.16423?classifier=sources
 - pkg:maven/org.sonarsource.java/sonar-java-plugin@5.9.2.16552?classifier=sources
+- pkg:maven/org.sonarsource.java/sonar-java-plugin@6.0.0.20538?classifier=sources
+- pkg:maven/org.sonarsource.java/sonar-java-plugin@6.0.1.20589?classifier=sources

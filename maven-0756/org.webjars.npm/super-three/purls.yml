@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/super-three@0.102.2
 - pkg:maven/org.webjars.npm/super-three@0.102.2?classifier=sources
+- pkg:maven/org.webjars.npm/super-three@0.111.5
+- pkg:maven/org.webjars.npm/super-three@0.111.5?classifier=sources

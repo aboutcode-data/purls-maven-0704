@@ -11,6 +11,16 @@
 - pkg:maven/kz.greetgo.kafka/greetgo.kafka@1.4.1
 - pkg:maven/kz.greetgo.kafka/greetgo.kafka@1.4.1?classifier=sources
 - pkg:maven/kz.greetgo.kafka/greetgo.kafka@1.5.10
+- pkg:maven/kz.greetgo.kafka/greetgo.kafka@1.5.11
+- pkg:maven/kz.greetgo.kafka/greetgo.kafka@1.5.11?classifier=sources
+- pkg:maven/kz.greetgo.kafka/greetgo.kafka@1.5.12
+- pkg:maven/kz.greetgo.kafka/greetgo.kafka@1.5.12?classifier=sources
+- pkg:maven/kz.greetgo.kafka/greetgo.kafka@1.5.13
+- pkg:maven/kz.greetgo.kafka/greetgo.kafka@1.5.13?classifier=sources
+- pkg:maven/kz.greetgo.kafka/greetgo.kafka@1.5.14
+- pkg:maven/kz.greetgo.kafka/greetgo.kafka@1.5.14?classifier=sources
+- pkg:maven/kz.greetgo.kafka/greetgo.kafka@1.5.15
+- pkg:maven/kz.greetgo.kafka/greetgo.kafka@1.5.15?classifier=sources
 - pkg:maven/kz.greetgo.kafka/greetgo.kafka@1.5.2
 - pkg:maven/kz.greetgo.kafka/greetgo.kafka@1.5.2?classifier=sources
 - pkg:maven/kz.greetgo.kafka/greetgo.kafka@1.5.3

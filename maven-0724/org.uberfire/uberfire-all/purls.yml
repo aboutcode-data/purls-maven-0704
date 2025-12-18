@@ -95,3 +95,8 @@
 - pkg:maven/org.uberfire/uberfire-all@2.8.0.Final
 - pkg:maven/org.uberfire/uberfire-all@2.9.0.Final
 - pkg:maven/org.uberfire/uberfire-all@7.28.0.Final
+- pkg:maven/org.uberfire/uberfire-all@7.29.0.Final
+- pkg:maven/org.uberfire/uberfire-all@7.30.0.Final
+- pkg:maven/org.uberfire/uberfire-all@7.31.0.Final
+- pkg:maven/org.uberfire/uberfire-all@7.32.0.Final
+- pkg:maven/org.uberfire/uberfire-all@7.32.0.k20191223

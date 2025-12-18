@@ -18,3 +18,7 @@
 - pkg:maven/cn.ucloud/ucloud-sdk-java-umem@0.8.2.5-release?classifier=sources
 - pkg:maven/cn.ucloud/ucloud-sdk-java-umem@0.8.2.6-release
 - pkg:maven/cn.ucloud/ucloud-sdk-java-umem@0.8.2.6-release?classifier=sources
+- pkg:maven/cn.ucloud/ucloud-sdk-java-umem@0.8.2.7-release
+- pkg:maven/cn.ucloud/ucloud-sdk-java-umem@0.8.2.7-release?classifier=sources
+- pkg:maven/cn.ucloud/ucloud-sdk-java-umem@0.8.2.8-release
+- pkg:maven/cn.ucloud/ucloud-sdk-java-umem@0.8.2.8-release?classifier=sources

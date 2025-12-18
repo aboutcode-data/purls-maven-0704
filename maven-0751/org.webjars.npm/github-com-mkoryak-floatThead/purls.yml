@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/github-com-mkoryak-floatThead@1.2.10
+- pkg:maven/org.webjars.npm/github-com-mkoryak-floatThead@1.2.10?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-mkoryak-floatThead@2.1.4
+- pkg:maven/org.webjars.npm/github-com-mkoryak-floatThead@2.1.4?classifier=sources

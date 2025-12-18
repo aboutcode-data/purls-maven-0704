@@ -240,3 +240,5 @@
 - pkg:maven/com.google.api-ads/adwords-axis@4.6.0?classifier=sources
 - pkg:maven/com.google.api-ads/adwords-axis@4.7.0
 - pkg:maven/com.google.api-ads/adwords-axis@4.7.0?classifier=sources
+- pkg:maven/com.google.api-ads/adwords-axis@4.8.0
+- pkg:maven/com.google.api-ads/adwords-axis@4.8.0?classifier=sources

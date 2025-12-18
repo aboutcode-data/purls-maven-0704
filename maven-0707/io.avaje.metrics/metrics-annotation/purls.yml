@@ -1,0 +1,4 @@
+- pkg:maven/io.avaje.metrics/metrics-annotation@8.1
+- pkg:maven/io.avaje.metrics/metrics-annotation@8.1?classifier=sources
+- pkg:maven/io.avaje.metrics/metrics-annotation@8.2
+- pkg:maven/io.avaje.metrics/metrics-annotation@8.2?classifier=sources

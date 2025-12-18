@@ -10,3 +10,5 @@
 - pkg:maven/org.arakhne.afc.core/inputoutput@15.2?classifier=sources
 - pkg:maven/org.arakhne.afc.core/inputoutput@16.0
 - pkg:maven/org.arakhne.afc.core/inputoutput@16.0?classifier=sources
+- pkg:maven/org.arakhne.afc.core/inputoutput@17.0
+- pkg:maven/org.arakhne.afc.core/inputoutput@17.0?classifier=sources

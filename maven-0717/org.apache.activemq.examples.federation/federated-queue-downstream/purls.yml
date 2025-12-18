@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.activemq.examples.federation/federated-queue-downstream@2.11.0
+- pkg:maven/org.apache.activemq.examples.federation/federated-queue-downstream@2.11.0?classifier=sources

@@ -26,3 +26,5 @@
 - pkg:maven/com.github.trickl/assertj-json-serialize@untagged-a7147541f7196c9362d5?classifier=sources
 - pkg:maven/com.github.trickl/assertj-json-serialize@untagged-a783bc6836ea4407ad01
 - pkg:maven/com.github.trickl/assertj-json-serialize@untagged-a783bc6836ea4407ad01?classifier=sources
+- pkg:maven/com.github.trickl/assertj-json-serialize@untagged-f43edacdc4ad0bb9845d
+- pkg:maven/com.github.trickl/assertj-json-serialize@untagged-f43edacdc4ad0bb9845d?classifier=sources

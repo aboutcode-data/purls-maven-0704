@@ -4,3 +4,5 @@
 - pkg:maven/com.cognitect.aws/eventbridge@746.2.533.0?classifier=sources
 - pkg:maven/com.cognitect.aws/eventbridge@757.2.545.0
 - pkg:maven/com.cognitect.aws/eventbridge@757.2.545.0?classifier=sources
+- pkg:maven/com.cognitect.aws/eventbridge@770.2.568.0
+- pkg:maven/com.cognitect.aws/eventbridge@770.2.568.0?classifier=sources

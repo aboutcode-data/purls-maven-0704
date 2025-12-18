@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/rmc-drawer@0.4.11
+- pkg:maven/org.webjars.npm/rmc-drawer@0.4.11?classifier=sources

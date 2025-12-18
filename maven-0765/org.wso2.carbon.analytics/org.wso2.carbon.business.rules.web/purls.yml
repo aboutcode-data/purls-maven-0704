@@ -855,6 +855,8 @@
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.business.rules.web@2.1.3
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.business.rules.web@2.1.34
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.business.rules.web@2.1.34?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.business.rules.web@2.1.35
+- pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.business.rules.web@2.1.35?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.business.rules.web@2.1.3?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.business.rules.web@2.1.4
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.business.rules.web@2.1.4?classifier=sources
@@ -880,6 +882,12 @@
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.business.rules.web@3.0.14?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.business.rules.web@3.0.15
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.business.rules.web@3.0.15?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.business.rules.web@3.0.18
+- pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.business.rules.web@3.0.18?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.business.rules.web@3.0.24
+- pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.business.rules.web@3.0.24?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.business.rules.web@3.0.26
+- pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.business.rules.web@3.0.26?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.business.rules.web@3.0.8
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.business.rules.web@3.0.8?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.business.rules.web@3.0.9

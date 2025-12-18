@@ -2,3 +2,5 @@
 - pkg:maven/de.erdlet.jcrud/jcrud@0.3?classifier=sources
 - pkg:maven/de.erdlet.jcrud/jcrud@0.4
 - pkg:maven/de.erdlet.jcrud/jcrud@0.4?classifier=sources
+- pkg:maven/de.erdlet.jcrud/jcrud@1.0.0
+- pkg:maven/de.erdlet.jcrud/jcrud@1.0.0?classifier=sources

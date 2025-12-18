@@ -1,2 +1,4 @@
 - pkg:maven/org.activiti.cloud.rb/activiti-cloud-starter-runtime-bundle-it@7.1.0.M3.1
 - pkg:maven/org.activiti.cloud.rb/activiti-cloud-starter-runtime-bundle-it@7.1.0.M4
+- pkg:maven/org.activiti.cloud.rb/activiti-cloud-starter-runtime-bundle-it@7.1.0.M5
+- pkg:maven/org.activiti.cloud.rb/activiti-cloud-starter-runtime-bundle-it@7.1.0.M6

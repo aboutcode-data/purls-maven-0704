@@ -99,6 +99,14 @@
 - pkg:maven/com.gitee.l0km/common-bean@1.1.44?classifier=sources
 - pkg:maven/com.gitee.l0km/common-bean@1.1.45
 - pkg:maven/com.gitee.l0km/common-bean@1.1.45?classifier=sources
+- pkg:maven/com.gitee.l0km/common-bean@1.1.46
+- pkg:maven/com.gitee.l0km/common-bean@1.1.46?classifier=sources
+- pkg:maven/com.gitee.l0km/common-bean@1.1.47
+- pkg:maven/com.gitee.l0km/common-bean@1.1.47?classifier=sources
+- pkg:maven/com.gitee.l0km/common-bean@1.1.48
+- pkg:maven/com.gitee.l0km/common-bean@1.1.48?classifier=sources
+- pkg:maven/com.gitee.l0km/common-bean@1.1.49
+- pkg:maven/com.gitee.l0km/common-bean@1.1.49?classifier=sources
 - pkg:maven/com.gitee.l0km/common-bean@1.1.4?classifier=sources
 - pkg:maven/com.gitee.l0km/common-bean@1.1.5
 - pkg:maven/com.gitee.l0km/common-bean@1.1.5?classifier=sources

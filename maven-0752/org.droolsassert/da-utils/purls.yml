@@ -1,0 +1,12 @@
+- pkg:maven/org.droolsassert/da-utils@1.6.15
+- pkg:maven/org.droolsassert/da-utils@1.6.15?classifier=sources
+- pkg:maven/org.droolsassert/da-utils@1.6.17
+- pkg:maven/org.droolsassert/da-utils@1.6.17?classifier=sources
+- pkg:maven/org.droolsassert/da-utils@1.7.15
+- pkg:maven/org.droolsassert/da-utils@1.7.15?classifier=sources
+- pkg:maven/org.droolsassert/da-utils@1.7.16
+- pkg:maven/org.droolsassert/da-utils@1.7.16?classifier=sources
+- pkg:maven/org.droolsassert/da-utils@1.7.17
+- pkg:maven/org.droolsassert/da-utils@1.7.17?classifier=sources
+- pkg:maven/org.droolsassert/da-utils@2.0.0
+- pkg:maven/org.droolsassert/da-utils@2.0.0?classifier=sources

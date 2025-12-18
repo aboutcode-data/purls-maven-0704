@@ -1,0 +1,6 @@
+- pkg:maven/dev.zio/project_2.12@0.1.0
+- pkg:maven/dev.zio/project_2.12@0.1.0?classifier=sources
+- pkg:maven/dev.zio/project_2.12@1.0.0-RC2
+- pkg:maven/dev.zio/project_2.12@1.0.0-RC2?classifier=sources
+- pkg:maven/dev.zio/project_2.12@b49a17729750807b4087f6346f3316fc21060b50
+- pkg:maven/dev.zio/project_2.12@b49a17729750807b4087f6346f3316fc21060b50?classifier=sources

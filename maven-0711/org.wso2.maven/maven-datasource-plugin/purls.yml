@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.maven/maven-datasource-plugin@5.2.16
+- pkg:maven/org.wso2.maven/maven-datasource-plugin@5.2.16?classifier=sources

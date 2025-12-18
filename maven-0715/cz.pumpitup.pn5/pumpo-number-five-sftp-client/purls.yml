@@ -1,0 +1,8 @@
+- pkg:maven/cz.pumpitup.pn5/pumpo-number-five-sftp-client@0.0.3
+- pkg:maven/cz.pumpitup.pn5/pumpo-number-five-sftp-client@0.0.3?classifier=sources
+- pkg:maven/cz.pumpitup.pn5/pumpo-number-five-sftp-client@0.0.4
+- pkg:maven/cz.pumpitup.pn5/pumpo-number-five-sftp-client@0.0.4?classifier=sources
+- pkg:maven/cz.pumpitup.pn5/pumpo-number-five-sftp-client@0.0.5
+- pkg:maven/cz.pumpitup.pn5/pumpo-number-five-sftp-client@0.0.5?classifier=sources
+- pkg:maven/cz.pumpitup.pn5/pumpo-number-five-sftp-client@0.0.6
+- pkg:maven/cz.pumpitup.pn5/pumpo-number-five-sftp-client@0.0.6?classifier=sources

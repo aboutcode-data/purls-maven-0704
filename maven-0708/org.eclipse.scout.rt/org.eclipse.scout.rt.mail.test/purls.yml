@@ -1,3 +1,6 @@
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@10.0.2
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@10.0.2-alpha.1
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@10.0.3
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@8.0.0.014
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@8.0.0.016_Simrel_2018_09_M2
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@8.0.0.018_Simrel_2018_09_M3
@@ -24,3 +27,8 @@
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@9.0.0.024_Simrel_2019_09_RC1
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@9.0.0.025_Simrel_2019_09
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@9.0.0.028_Simrel_2019_12_M1
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@9.0.0.030_Simrel_2019_12_M2
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@9.0.0.031_Simrel_2019_12_M3
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@9.0.0.032_Simrel_2019_12_RC1
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@9.0.0.033_Simrel_2019_12
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail.test@9.0.0.034

@@ -46,5 +46,7 @@
 - pkg:maven/com.crescendocollective.magnolia/crescendo-module-essentials@1.5.5?classifier=sources
 - pkg:maven/com.crescendocollective.magnolia/crescendo-module-essentials@1.5.6
 - pkg:maven/com.crescendocollective.magnolia/crescendo-module-essentials@1.5.6?classifier=sources
+- pkg:maven/com.crescendocollective.magnolia/crescendo-module-essentials@1.5.7
+- pkg:maven/com.crescendocollective.magnolia/crescendo-module-essentials@1.5.7?classifier=sources
 - pkg:maven/com.crescendocollective.magnolia/crescendo-module-essentials@2.0.0
 - pkg:maven/com.crescendocollective.magnolia/crescendo-module-essentials@2.0.0?classifier=sources

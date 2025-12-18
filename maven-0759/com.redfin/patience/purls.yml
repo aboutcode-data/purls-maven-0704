@@ -34,3 +34,5 @@
 - pkg:maven/com.redfin/patience@3.6.0?classifier=sources
 - pkg:maven/com.redfin/patience@4.0.0
 - pkg:maven/com.redfin/patience@4.0.0?classifier=sources
+- pkg:maven/com.redfin/patience@5.0.0
+- pkg:maven/com.redfin/patience@5.0.0?classifier=sources

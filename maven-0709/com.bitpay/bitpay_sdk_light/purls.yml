@@ -1,0 +1,2 @@
+- pkg:maven/com.bitpay/bitpay_sdk_light@1.3.1912
+- pkg:maven/com.bitpay/bitpay_sdk_light@1.3.1912?classifier=sources

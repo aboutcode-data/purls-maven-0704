@@ -8,3 +8,7 @@
 - pkg:maven/de.lars-sh/utils-annotations@0.9.3?classifier=sources
 - pkg:maven/de.lars-sh/utils-annotations@0.9.4
 - pkg:maven/de.lars-sh/utils-annotations@0.9.4?classifier=sources
+- pkg:maven/de.lars-sh/utils-annotations@0.9.5
+- pkg:maven/de.lars-sh/utils-annotations@0.9.5?classifier=sources
+- pkg:maven/de.lars-sh/utils-annotations@0.9.6
+- pkg:maven/de.lars-sh/utils-annotations@0.9.6?classifier=sources

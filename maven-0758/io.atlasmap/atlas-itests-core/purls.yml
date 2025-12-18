@@ -61,3 +61,8 @@
 - pkg:maven/io.atlasmap/atlas-itests-core@1.42.7
 - pkg:maven/io.atlasmap/atlas-itests-core@1.42.8
 - pkg:maven/io.atlasmap/atlas-itests-core@1.42.9
+- pkg:maven/io.atlasmap/atlas-itests-core@1.43.0
+- pkg:maven/io.atlasmap/atlas-itests-core@1.43.1
+- pkg:maven/io.atlasmap/atlas-itests-core@1.43.2
+- pkg:maven/io.atlasmap/atlas-itests-core@1.43.3
+- pkg:maven/io.atlasmap/atlas-itests-core@1.43.4

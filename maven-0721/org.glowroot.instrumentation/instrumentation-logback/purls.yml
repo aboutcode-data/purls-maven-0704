@@ -16,3 +16,5 @@
 - pkg:maven/org.glowroot.instrumentation/instrumentation-logback@0.14.7?classifier=sources
 - pkg:maven/org.glowroot.instrumentation/instrumentation-logback@0.14.8
 - pkg:maven/org.glowroot.instrumentation/instrumentation-logback@0.14.8?classifier=sources
+- pkg:maven/org.glowroot.instrumentation/instrumentation-logback@0.14.9
+- pkg:maven/org.glowroot.instrumentation/instrumentation-logback@0.14.9?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/org.bdgenomics.adam/adam-cli-spark2_2.11@0.28.0?classifier=sources
 - pkg:maven/org.bdgenomics.adam/adam-cli-spark2_2.11@0.29.0
 - pkg:maven/org.bdgenomics.adam/adam-cli-spark2_2.11@0.29.0?classifier=sources
+- pkg:maven/org.bdgenomics.adam/adam-cli-spark2_2.11@0.30.0
+- pkg:maven/org.bdgenomics.adam/adam-cli-spark2_2.11@0.30.0?classifier=sources

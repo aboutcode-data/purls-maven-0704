@@ -172,6 +172,10 @@
 - pkg:maven/io.sundr.examples/codegen-example@0.2.7?classifier=sources
 - pkg:maven/io.sundr.examples/codegen-example@0.2.8
 - pkg:maven/io.sundr.examples/codegen-example@0.2.8?classifier=sources
+- pkg:maven/io.sundr.examples/codegen-example@0.20.0
+- pkg:maven/io.sundr.examples/codegen-example@0.20.0?classifier=sources
+- pkg:maven/io.sundr.examples/codegen-example@0.21.0
+- pkg:maven/io.sundr.examples/codegen-example@0.21.0?classifier=sources
 - pkg:maven/io.sundr.examples/codegen-example@0.3.0
 - pkg:maven/io.sundr.examples/codegen-example@0.3.0?classifier=sources
 - pkg:maven/io.sundr.examples/codegen-example@0.3.1

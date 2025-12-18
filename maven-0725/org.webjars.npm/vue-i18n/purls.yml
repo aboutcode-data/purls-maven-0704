@@ -18,6 +18,8 @@
 - pkg:maven/org.webjars.npm/vue-i18n@8.11.2?classifier=sources
 - pkg:maven/org.webjars.npm/vue-i18n@8.14.0
 - pkg:maven/org.webjars.npm/vue-i18n@8.14.0?classifier=sources
+- pkg:maven/org.webjars.npm/vue-i18n@8.15.3
+- pkg:maven/org.webjars.npm/vue-i18n@8.15.3?classifier=sources
 - pkg:maven/org.webjars.npm/vue-i18n@8.2.1
 - pkg:maven/org.webjars.npm/vue-i18n@8.2.1?classifier=sources
 - pkg:maven/org.webjars.npm/vue-i18n@8.3.0

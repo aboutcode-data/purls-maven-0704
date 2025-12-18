@@ -16,6 +16,8 @@
 - pkg:maven/com.linkedin.pegasus/multipart-mime@23.0.19?classifier=sources
 - pkg:maven/com.linkedin.pegasus/multipart-mime@24.0.2
 - pkg:maven/com.linkedin.pegasus/multipart-mime@24.0.2?classifier=sources
+- pkg:maven/com.linkedin.pegasus/multipart-mime@27.7.18
+- pkg:maven/com.linkedin.pegasus/multipart-mime@27.7.18?classifier=sources
 - pkg:maven/com.linkedin.pegasus/multipart-mime@5.0.19
 - pkg:maven/com.linkedin.pegasus/multipart-mime@5.0.19?classifier=sources
 - pkg:maven/com.linkedin.pegasus/multipart-mime@6.0.12

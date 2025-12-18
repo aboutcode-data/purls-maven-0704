@@ -1,0 +1,2 @@
+- pkg:maven/cn.eppdev.mlib/eppdev-mlib-sdk-hive-udf31@1.0.0
+- pkg:maven/cn.eppdev.mlib/eppdev-mlib-sdk-hive-udf31@1.0.0?classifier=sources

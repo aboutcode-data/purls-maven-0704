@@ -1,2 +1,4 @@
 - pkg:maven/au.com.gridstone.debugdrawer/debugdrawer@0.9.6?classifier=sources
 - pkg:maven/au.com.gridstone.debugdrawer/debugdrawer@0.9.6?type=aar
+- pkg:maven/au.com.gridstone.debugdrawer/debugdrawer@0.9.7?classifier=sources
+- pkg:maven/au.com.gridstone.debugdrawer/debugdrawer@0.9.7?type=aar

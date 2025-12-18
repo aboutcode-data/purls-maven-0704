@@ -1,0 +1,4 @@
+- pkg:maven/com.dynatrace.tools.android/gradle-plugin@8.181.1.1009
+- pkg:maven/com.dynatrace.tools.android/gradle-plugin@8.181.1.1009?classifier=sources
+- pkg:maven/com.dynatrace.tools.android/gradle-plugin@8.183.1.1009
+- pkg:maven/com.dynatrace.tools.android/gradle-plugin@8.183.1.1009?classifier=sources

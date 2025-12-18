@@ -192,3 +192,13 @@
 - pkg:maven/org.uberfire/uberfire-client-webapp@2.9.0.Final?type=war
 - pkg:maven/org.uberfire/uberfire-client-webapp@7.28.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-client-webapp@7.28.0.Final?type=war
+- pkg:maven/org.uberfire/uberfire-client-webapp@7.29.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-client-webapp@7.29.0.Final?type=war
+- pkg:maven/org.uberfire/uberfire-client-webapp@7.30.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-client-webapp@7.30.0.Final?type=war
+- pkg:maven/org.uberfire/uberfire-client-webapp@7.31.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-client-webapp@7.31.0.Final?type=war
+- pkg:maven/org.uberfire/uberfire-client-webapp@7.32.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-client-webapp@7.32.0.Final?type=war
+- pkg:maven/org.uberfire/uberfire-client-webapp@7.32.0.k20191223?classifier=sources
+- pkg:maven/org.uberfire/uberfire-client-webapp@7.32.0.k20191223?type=war

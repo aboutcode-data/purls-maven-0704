@@ -1,0 +1,4 @@
+- pkg:maven/com.github.hlvx/hlvx-dao@0.0.12a
+- pkg:maven/com.github.hlvx/hlvx-dao@0.0.12a?classifier=sources
+- pkg:maven/com.github.hlvx/hlvx-dao@0.0.13a
+- pkg:maven/com.github.hlvx/hlvx-dao@0.0.13a?classifier=sources

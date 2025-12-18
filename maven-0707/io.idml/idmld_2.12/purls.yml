@@ -62,3 +62,7 @@
 - pkg:maven/io.idml/idmld_2.12@2.0.1?classifier=sources
 - pkg:maven/io.idml/idmld_2.12@2.0.2
 - pkg:maven/io.idml/idmld_2.12@2.0.2?classifier=sources
+- pkg:maven/io.idml/idmld_2.12@2.1.0-RC1
+- pkg:maven/io.idml/idmld_2.12@2.1.0-RC1?classifier=sources
+- pkg:maven/io.idml/idmld_2.12@63488a16f994d8c0416bab30ec9ef2b0304a03b5
+- pkg:maven/io.idml/idmld_2.12@63488a16f994d8c0416bab30ec9ef2b0304a03b5?classifier=sources

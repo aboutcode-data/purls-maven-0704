@@ -16,6 +16,16 @@
 - pkg:maven/org.smartboot.http/smart-http-server@1.0.10.1214-beta?classifier=sources
 - pkg:maven/org.smartboot.http/smart-http-server@1.0.10.1231-beta?classifier=sources
 - pkg:maven/org.smartboot.http/smart-http-server@1.0.10?classifier=sources
+- pkg:maven/org.smartboot.http/smart-http-server@1.0.11.1106-beta?classifier=sources
+- pkg:maven/org.smartboot.http/smart-http-server@1.0.11.1107-beta?classifier=sources
+- pkg:maven/org.smartboot.http/smart-http-server@1.0.11.1111-beta?classifier=sources
+- pkg:maven/org.smartboot.http/smart-http-server@1.0.11.1112-beta?classifier=sources
+- pkg:maven/org.smartboot.http/smart-http-server@1.0.11?classifier=sources
+- pkg:maven/org.smartboot.http/smart-http-server@1.0.12
+- pkg:maven/org.smartboot.http/smart-http-server@1.0.12.rc-1?classifier=sources
+- pkg:maven/org.smartboot.http/smart-http-server@1.0.12.rc-2
+- pkg:maven/org.smartboot.http/smart-http-server@1.0.12.rc-2?classifier=sources
+- pkg:maven/org.smartboot.http/smart-http-server@1.0.12?classifier=sources
 - pkg:maven/org.smartboot.http/smart-http-server@1.0.1?classifier=sources
 - pkg:maven/org.smartboot.http/smart-http-server@1.0.2?classifier=sources
 - pkg:maven/org.smartboot.http/smart-http-server@1.0.3?classifier=sources

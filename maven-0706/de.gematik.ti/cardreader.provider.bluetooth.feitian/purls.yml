@@ -1,0 +1,2 @@
+- pkg:maven/de.gematik.ti/cardreader.provider.bluetooth.feitian@1.1.4?classifier=sources
+- pkg:maven/de.gematik.ti/cardreader.provider.bluetooth.feitian@1.1.4?type=aar

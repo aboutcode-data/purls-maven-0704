@@ -1,0 +1,2 @@
+- pkg:maven/com.github.DNAProject/DNA-java-sdk@2.0.0
+- pkg:maven/com.github.DNAProject/DNA-java-sdk@2.0.0?classifier=sources

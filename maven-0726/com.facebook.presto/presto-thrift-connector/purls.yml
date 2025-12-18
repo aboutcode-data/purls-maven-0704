@@ -47,3 +47,8 @@
 - pkg:maven/com.facebook.presto/presto-thrift-connector@0.225?classifier=sources
 - pkg:maven/com.facebook.presto/presto-thrift-connector@0.226?classifier=sources
 - pkg:maven/com.facebook.presto/presto-thrift-connector@0.227?classifier=sources
+- pkg:maven/com.facebook.presto/presto-thrift-connector@0.228?classifier=sources
+- pkg:maven/com.facebook.presto/presto-thrift-connector@0.229?classifier=sources
+- pkg:maven/com.facebook.presto/presto-thrift-connector@0.230?classifier=sources
+- pkg:maven/com.facebook.presto/presto-thrift-connector@0.231.1?classifier=sources
+- pkg:maven/com.facebook.presto/presto-thrift-connector@0.231?classifier=sources

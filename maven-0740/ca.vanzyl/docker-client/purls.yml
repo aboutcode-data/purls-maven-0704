@@ -1,0 +1,2 @@
+- pkg:maven/ca.vanzyl/docker-client@8.16.1
+- pkg:maven/ca.vanzyl/docker-client@8.16.1?classifier=sources
