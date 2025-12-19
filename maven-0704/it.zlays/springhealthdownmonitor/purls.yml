@@ -1,0 +1,2 @@
+- pkg:maven/it.zlays/springhealthdownmonitor@1.0.0
+- pkg:maven/it.zlays/springhealthdownmonitor@1.0.0?classifier=sources

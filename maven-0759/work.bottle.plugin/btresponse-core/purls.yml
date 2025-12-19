@@ -1,2 +1,4 @@
 - pkg:maven/work.bottle.plugin/btresponse-core@1.0.1-RELEASE
 - pkg:maven/work.bottle.plugin/btresponse-core@1.0.1-RELEASE?classifier=sources
+- pkg:maven/work.bottle.plugin/btresponse-core@1.0.2
+- pkg:maven/work.bottle.plugin/btresponse-core@1.0.2?classifier=sources

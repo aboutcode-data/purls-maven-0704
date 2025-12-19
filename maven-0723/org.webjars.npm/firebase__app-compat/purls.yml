@@ -1,2 +1,6 @@
 - pkg:maven/org.webjars.npm/firebase__app-compat@0.1.21
 - pkg:maven/org.webjars.npm/firebase__app-compat@0.1.21?classifier=sources
+- pkg:maven/org.webjars.npm/firebase__app-compat@0.1.23
+- pkg:maven/org.webjars.npm/firebase__app-compat@0.1.23?classifier=sources
+- pkg:maven/org.webjars.npm/firebase__app-compat@0.1.29
+- pkg:maven/org.webjars.npm/firebase__app-compat@0.1.29?classifier=sources

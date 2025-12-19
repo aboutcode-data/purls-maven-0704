@@ -13,7 +13,9 @@
 - pkg:maven/com.anaptecs.jeaf.core/jeaf-core-integration-test-jee-ear@1.6.16?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.core/jeaf-core-integration-test-jee-ear@1.6.17?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.core/jeaf-core-integration-test-jee-ear@1.6.18?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.core/jeaf-core-integration-test-jee-ear@1.6.19?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.core/jeaf-core-integration-test-jee-ear@1.6.1?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.core/jeaf-core-integration-test-jee-ear@1.6.20?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.core/jeaf-core-integration-test-jee-ear@1.6.2?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.core/jeaf-core-integration-test-jee-ear@1.6.3?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.core/jeaf-core-integration-test-jee-ear@1.6.4?classifier=sources

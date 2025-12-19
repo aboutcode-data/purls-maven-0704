@@ -4,3 +4,5 @@
 - pkg:maven/com.tangzc/mybatis-plus-ext-demo-actable-flyway@3.5.2-EXT140?classifier=sources
 - pkg:maven/com.tangzc/mybatis-plus-ext-demo-actable-flyway@3.5.2-EXT141
 - pkg:maven/com.tangzc/mybatis-plus-ext-demo-actable-flyway@3.5.2-EXT141?classifier=sources
+- pkg:maven/com.tangzc/mybatis-plus-ext-demo-actable-flyway@3.5.2-EXT142
+- pkg:maven/com.tangzc/mybatis-plus-ext-demo-actable-flyway@3.5.2-EXT142?classifier=sources

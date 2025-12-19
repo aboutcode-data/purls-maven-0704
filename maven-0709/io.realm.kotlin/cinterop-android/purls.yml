@@ -18,3 +18,5 @@
 - pkg:maven/io.realm.kotlin/cinterop-android@0.8.2?classifier=sources
 - pkg:maven/io.realm.kotlin/cinterop-android@0.9.0?classifier=sources
 - pkg:maven/io.realm.kotlin/cinterop-android@1.0.0?classifier=sources
+- pkg:maven/io.realm.kotlin/cinterop-android@1.0.1?classifier=sources
+- pkg:maven/io.realm.kotlin/cinterop-android@1.0.2?classifier=sources

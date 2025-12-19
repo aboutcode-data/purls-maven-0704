@@ -1,3 +1,4 @@
 - pkg:maven/info.laht.fmi4j/fmi-md@0.37.0?classifier=sources
 - pkg:maven/info.laht.fmi4j/fmi-md@0.37.1?classifier=sources
 - pkg:maven/info.laht.fmi4j/fmi-md@0.37.2?classifier=sources
+- pkg:maven/info.laht.fmi4j/fmi-md@0.38.0?classifier=sources

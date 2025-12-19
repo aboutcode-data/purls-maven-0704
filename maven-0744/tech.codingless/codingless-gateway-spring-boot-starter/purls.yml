@@ -1,0 +1,2 @@
+- pkg:maven/tech.codingless/codingless-gateway-spring-boot-starter@0.0.1
+- pkg:maven/tech.codingless/codingless-gateway-spring-boot-starter@0.0.1?classifier=sources

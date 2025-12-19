@@ -109,8 +109,14 @@
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.rest.jersey.client@22.0.12?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.rest.jersey.client@22.0.15
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.rest.jersey.client@22.0.15?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.rest.jersey.client@22.0.19
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.rest.jersey.client@22.0.19?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.rest.jersey.client@22.0.1?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.rest.jersey.client@22.0.2
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.rest.jersey.client@22.0.22
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.rest.jersey.client@22.0.22?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.rest.jersey.client@22.0.23
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.rest.jersey.client@22.0.23?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.rest.jersey.client@22.0.2?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.rest.jersey.client@8.0.0.004_Photon_RC1
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.rest.jersey.client@8.0.0.004_Photon_RC1?classifier=sources

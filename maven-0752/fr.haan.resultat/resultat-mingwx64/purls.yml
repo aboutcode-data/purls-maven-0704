@@ -1,0 +1,2 @@
+- pkg:maven/fr.haan.resultat/resultat-mingwx64@1.0.0-rc1?classifier=sources
+- pkg:maven/fr.haan.resultat/resultat-mingwx64@1.0.0?classifier=sources

@@ -202,3 +202,7 @@
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.input.adapter.websocket.endpoint@5.2.37?type=war
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.input.adapter.websocket.endpoint@5.2.38?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.input.adapter.websocket.endpoint@5.2.38?type=war
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.input.adapter.websocket.endpoint@5.2.44?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.input.adapter.websocket.endpoint@5.2.44?type=war
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.input.adapter.websocket.endpoint@5.2.45?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.input.adapter.websocket.endpoint@5.2.45?type=war

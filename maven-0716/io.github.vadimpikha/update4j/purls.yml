@@ -1,0 +1,2 @@
+- pkg:maven/io.github.vadimpikha/update4j@1.5.12
+- pkg:maven/io.github.vadimpikha/update4j@1.5.12?classifier=sources

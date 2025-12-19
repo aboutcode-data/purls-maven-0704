@@ -265,6 +265,8 @@
 - pkg:maven/org.http4s/http4s-servlet_2.13@1.0.0-M31?classifier=sources
 - pkg:maven/org.http4s/http4s-servlet_2.13@1.0.0-M32
 - pkg:maven/org.http4s/http4s-servlet_2.13@1.0.0-M32?classifier=sources
+- pkg:maven/org.http4s/http4s-servlet_2.13@1.0.0-M34
+- pkg:maven/org.http4s/http4s-servlet_2.13@1.0.0-M34?classifier=sources
 - pkg:maven/org.http4s/http4s-servlet_2.13@1.0.0-M3?classifier=sources
 - pkg:maven/org.http4s/http4s-servlet_2.13@1.0.0-M4
 - pkg:maven/org.http4s/http4s-servlet_2.13@1.0.0-M4?classifier=sources

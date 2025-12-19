@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.syncope.common.keymaster/syncope-common-keymaster-client-api@3.0.0-M0
+- pkg:maven/org.apache.syncope.common.keymaster/syncope-common-keymaster-client-api@3.0.0-M0?classifier=sources

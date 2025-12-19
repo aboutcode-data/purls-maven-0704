@@ -28,3 +28,9 @@
 - pkg:maven/io.getquill/quill-caliban_3@3.17.0.Beta3.0-RC2?classifier=sources
 - pkg:maven/io.getquill/quill-caliban_3@3.18.0
 - pkg:maven/io.getquill/quill-caliban_3@3.18.0?classifier=sources
+- pkg:maven/io.getquill/quill-caliban_3@3.19.0
+- pkg:maven/io.getquill/quill-caliban_3@3.19.0?classifier=sources
+- pkg:maven/io.getquill/quill-caliban_3@4.2.0
+- pkg:maven/io.getquill/quill-caliban_3@4.2.0?classifier=sources
+- pkg:maven/io.getquill/quill-caliban_3@4.3.0
+- pkg:maven/io.getquill/quill-caliban_3@4.3.0?classifier=sources

@@ -38,3 +38,5 @@
 - pkg:maven/com.aegisql.persistence/conveyor-persistence-core@1.5.2?classifier=sources
 - pkg:maven/com.aegisql.persistence/conveyor-persistence-core@1.5.3
 - pkg:maven/com.aegisql.persistence/conveyor-persistence-core@1.5.3?classifier=sources
+- pkg:maven/com.aegisql.persistence/conveyor-persistence-core@1.6.1
+- pkg:maven/com.aegisql.persistence/conveyor-persistence-core@1.6.1?classifier=sources

@@ -1,4 +1,14 @@
+- pkg:maven/org.camunda.community/camunda-engine-rest-client-complete-springboot-starter@7.12.3
+- pkg:maven/org.camunda.community/camunda-engine-rest-client-complete-springboot-starter@7.12.3?classifier=sources
 - pkg:maven/org.camunda.community/camunda-engine-rest-client-complete-springboot-starter@7.16.0-alpha1
 - pkg:maven/org.camunda.community/camunda-engine-rest-client-complete-springboot-starter@7.16.0-alpha1?classifier=sources
 - pkg:maven/org.camunda.community/camunda-engine-rest-client-complete-springboot-starter@7.17.0
 - pkg:maven/org.camunda.community/camunda-engine-rest-client-complete-springboot-starter@7.17.0?classifier=sources
+- pkg:maven/org.camunda.community/camunda-engine-rest-client-complete-springboot-starter@7.17.1
+- pkg:maven/org.camunda.community/camunda-engine-rest-client-complete-springboot-starter@7.17.1?classifier=sources
+- pkg:maven/org.camunda.community/camunda-engine-rest-client-complete-springboot-starter@7.17.2
+- pkg:maven/org.camunda.community/camunda-engine-rest-client-complete-springboot-starter@7.17.2?classifier=sources
+- pkg:maven/org.camunda.community/camunda-engine-rest-client-complete-springboot-starter@7.17.3
+- pkg:maven/org.camunda.community/camunda-engine-rest-client-complete-springboot-starter@7.17.3?classifier=sources
+- pkg:maven/org.camunda.community/camunda-engine-rest-client-complete-springboot-starter@7.17.4
+- pkg:maven/org.camunda.community/camunda-engine-rest-client-complete-springboot-starter@7.17.4?classifier=sources

@@ -15,3 +15,5 @@
 - pkg:maven/info.unterrainer.commons/cli-utils@0.2.8?classifier=sources
 - pkg:maven/info.unterrainer.commons/cli-utils@0.2.9
 - pkg:maven/info.unterrainer.commons/cli-utils@0.2.9?classifier=sources
+- pkg:maven/info.unterrainer.commons/cli-utils@0.3.0
+- pkg:maven/info.unterrainer.commons/cli-utils@0.3.0?classifier=sources

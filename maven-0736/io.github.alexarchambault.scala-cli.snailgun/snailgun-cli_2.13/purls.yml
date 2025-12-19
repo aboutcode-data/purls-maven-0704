@@ -1,0 +1,2 @@
+- pkg:maven/io.github.alexarchambault.scala-cli.snailgun/snailgun-cli_2.13@0.4.1-sc2
+- pkg:maven/io.github.alexarchambault.scala-cli.snailgun/snailgun-cli_2.13@0.4.1-sc2?classifier=sources

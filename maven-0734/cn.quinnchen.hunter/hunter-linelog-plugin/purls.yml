@@ -1,0 +1,2 @@
+- pkg:maven/cn.quinnchen.hunter/hunter-linelog-plugin@1.2.1?classifier=sources
+- pkg:maven/cn.quinnchen.hunter/hunter-linelog-plugin@1.2.3?classifier=sources

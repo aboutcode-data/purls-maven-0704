@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/aws-sdk__is-array-buffer@3.55.0
+- pkg:maven/org.webjars.npm/aws-sdk__is-array-buffer@3.55.0?classifier=sources
 - pkg:maven/org.webjars.npm/aws-sdk__is-array-buffer@3.6.1
 - pkg:maven/org.webjars.npm/aws-sdk__is-array-buffer@3.6.1?classifier=sources

@@ -16,3 +16,4 @@
 - pkg:maven/com.benasher44/uuid@0.3.1?classifier=sources
 - pkg:maven/com.benasher44/uuid@0.4.0?classifier=sources
 - pkg:maven/com.benasher44/uuid@0.4.1?classifier=sources
+- pkg:maven/com.benasher44/uuid@0.5.0?classifier=sources

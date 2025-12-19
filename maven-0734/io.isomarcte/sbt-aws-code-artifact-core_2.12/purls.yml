@@ -1,0 +1,2 @@
+- pkg:maven/io.isomarcte/sbt-aws-code-artifact-core_2.12@0.0.0.1-M0
+- pkg:maven/io.isomarcte/sbt-aws-code-artifact-core_2.12@0.0.0.1-M0?classifier=sources

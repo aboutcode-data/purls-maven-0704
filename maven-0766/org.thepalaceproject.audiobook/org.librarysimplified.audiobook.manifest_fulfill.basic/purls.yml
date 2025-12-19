@@ -7,3 +7,4 @@
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.manifest_fulfill.basic@6.9.0?classifier=sources
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.manifest_fulfill.basic@7.0.0?classifier=sources
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.manifest_fulfill.basic@7.0.1?classifier=sources
+- pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.manifest_fulfill.basic@8.0.0?classifier=sources

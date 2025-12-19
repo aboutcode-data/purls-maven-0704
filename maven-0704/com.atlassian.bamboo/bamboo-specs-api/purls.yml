@@ -157,6 +157,7 @@
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@7.1.4?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@7.2.0-rc3?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@7.2.0?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-api@7.2.10?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@7.2.1?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@7.2.2?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@7.2.3?classifier=sources
@@ -164,6 +165,8 @@
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@7.2.5?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@7.2.6?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@7.2.7?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-api@7.2.8?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-api@7.2.9?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@7.3.0-m08?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@8.0.0-BDEV-16109-m02?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@8.0.0-m02?classifier=sources
@@ -175,6 +178,7 @@
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@8.0.0?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@8.0.1-m01?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@8.0.1-m02?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-api@8.0.10?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@8.0.1?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@8.0.2?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@8.0.3?classifier=sources
@@ -200,3 +204,5 @@
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@8.2.2?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@8.2.3?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@8.2.4?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-api@8.2.5?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-api@9.0.0-aui?classifier=sources

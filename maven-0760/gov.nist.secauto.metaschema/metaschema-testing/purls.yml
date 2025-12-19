@@ -1,2 +1,6 @@
 - pkg:maven/gov.nist.secauto.metaschema/metaschema-testing@0.7.0
 - pkg:maven/gov.nist.secauto.metaschema/metaschema-testing@0.7.0?classifier=sources
+- pkg:maven/gov.nist.secauto.metaschema/metaschema-testing@0.8.0
+- pkg:maven/gov.nist.secauto.metaschema/metaschema-testing@0.8.0?classifier=sources
+- pkg:maven/gov.nist.secauto.metaschema/metaschema-testing@0.8.1
+- pkg:maven/gov.nist.secauto.metaschema/metaschema-testing@0.8.1?classifier=sources

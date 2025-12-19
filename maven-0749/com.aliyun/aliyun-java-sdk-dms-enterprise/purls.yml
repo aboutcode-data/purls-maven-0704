@@ -62,6 +62,8 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-dms-enterprise@1.36.0?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-dms-enterprise@1.37.0
 - pkg:maven/com.aliyun/aliyun-java-sdk-dms-enterprise@1.37.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-dms-enterprise@1.38.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-dms-enterprise@1.38.0?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-dms-enterprise@1.4.0
 - pkg:maven/com.aliyun/aliyun-java-sdk-dms-enterprise@1.4.0?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-dms-enterprise@1.5.0

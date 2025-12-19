@@ -1,0 +1,2 @@
+- pkg:maven/au.id.tmm.ausgeo/ausgeo-cats_3@0.4.0
+- pkg:maven/au.id.tmm.ausgeo/ausgeo-cats_3@0.4.0?classifier=sources

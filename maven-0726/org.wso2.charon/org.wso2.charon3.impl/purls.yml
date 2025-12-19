@@ -201,6 +201,8 @@
 - pkg:maven/org.wso2.charon/org.wso2.charon3.impl@3.4.22?classifier=sources
 - pkg:maven/org.wso2.charon/org.wso2.charon3.impl@3.4.23
 - pkg:maven/org.wso2.charon/org.wso2.charon3.impl@3.4.23?classifier=sources
+- pkg:maven/org.wso2.charon/org.wso2.charon3.impl@3.4.25
+- pkg:maven/org.wso2.charon/org.wso2.charon3.impl@3.4.25?classifier=sources
 - pkg:maven/org.wso2.charon/org.wso2.charon3.impl@3.4.2?classifier=sources
 - pkg:maven/org.wso2.charon/org.wso2.charon3.impl@3.4.3
 - pkg:maven/org.wso2.charon/org.wso2.charon3.impl@3.4.3?classifier=sources
@@ -216,3 +218,11 @@
 - pkg:maven/org.wso2.charon/org.wso2.charon3.impl@3.4.8?classifier=sources
 - pkg:maven/org.wso2.charon/org.wso2.charon3.impl@3.4.9
 - pkg:maven/org.wso2.charon/org.wso2.charon3.impl@3.4.9?classifier=sources
+- pkg:maven/org.wso2.charon/org.wso2.charon3.impl@4.0.0
+- pkg:maven/org.wso2.charon/org.wso2.charon3.impl@4.0.0?classifier=sources
+- pkg:maven/org.wso2.charon/org.wso2.charon3.impl@4.0.1
+- pkg:maven/org.wso2.charon/org.wso2.charon3.impl@4.0.1?classifier=sources
+- pkg:maven/org.wso2.charon/org.wso2.charon3.impl@4.0.2
+- pkg:maven/org.wso2.charon/org.wso2.charon3.impl@4.0.2?classifier=sources
+- pkg:maven/org.wso2.charon/org.wso2.charon3.impl@4.0.4
+- pkg:maven/org.wso2.charon/org.wso2.charon3.impl@4.0.4?classifier=sources

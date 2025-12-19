@@ -1,3 +1,4 @@
+- pkg:maven/org.microg/cronet-native@102.5005.125?classifier=sources
 - pkg:maven/org.microg/cronet-native@91.0.4472.120.1?classifier=sources
 - pkg:maven/org.microg/cronet-native@91.0.4472.120?classifier=sources
 - pkg:maven/org.microg/cronet-native@92.0.4509.1?classifier=sources

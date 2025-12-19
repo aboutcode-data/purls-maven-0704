@@ -22,3 +22,5 @@
 - pkg:maven/top.xiajibagao/crane-core@0.5.7?classifier=sources
 - pkg:maven/top.xiajibagao/crane-core@0.6.0
 - pkg:maven/top.xiajibagao/crane-core@0.6.0?classifier=sources
+- pkg:maven/top.xiajibagao/crane-core@0.6.1
+- pkg:maven/top.xiajibagao/crane-core@0.6.1?classifier=sources

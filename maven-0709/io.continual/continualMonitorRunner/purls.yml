@@ -4,3 +4,7 @@
 - pkg:maven/io.continual/continualMonitorRunner@0.2.30?classifier=sources
 - pkg:maven/io.continual/continualMonitorRunner@0.2.31
 - pkg:maven/io.continual/continualMonitorRunner@0.2.31?classifier=sources
+- pkg:maven/io.continual/continualMonitorRunner@0.2.32
+- pkg:maven/io.continual/continualMonitorRunner@0.2.32?classifier=sources
+- pkg:maven/io.continual/continualMonitorRunner@0.2.33
+- pkg:maven/io.continual/continualMonitorRunner@0.2.33?classifier=sources

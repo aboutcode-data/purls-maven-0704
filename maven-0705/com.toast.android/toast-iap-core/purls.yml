@@ -61,3 +61,4 @@
 - pkg:maven/com.toast.android/toast-iap-core@0.30.1?type=aar
 - pkg:maven/com.toast.android/toast-iap-core@0.31.0?type=aar
 - pkg:maven/com.toast.android/toast-iap-core@0.31.1?type=aar
+- pkg:maven/com.toast.android/toast-iap-core@1.0.0?type=aar

@@ -1,2 +1,4 @@
 - pkg:maven/org.dblock.log4jna/log4jna-api@2.0
 - pkg:maven/org.dblock.log4jna/log4jna-api@2.0?classifier=sources
+- pkg:maven/org.dblock.log4jna/log4jna-api@2.1.0
+- pkg:maven/org.dblock.log4jna/log4jna-api@2.1.0?classifier=sources

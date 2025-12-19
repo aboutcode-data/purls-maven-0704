@@ -247,6 +247,8 @@
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-jdbc@1.5.3.Final?classifier=sources
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-jdbc@1.5.3.SP1
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-jdbc@1.5.3.SP1?classifier=sources
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-jdbc@1.5.3.SP2
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-jdbc@1.5.3.SP2?classifier=sources
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-jdbc@1.5.4.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-jdbc@1.5.4.Final?classifier=sources
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-jdbc@1.5.5.Final

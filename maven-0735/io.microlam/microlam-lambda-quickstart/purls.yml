@@ -12,3 +12,4 @@
 - pkg:maven/io.microlam/microlam-lambda-quickstart@0.8.6?classifier=sources
 - pkg:maven/io.microlam/microlam-lambda-quickstart@0.8?classifier=sources
 - pkg:maven/io.microlam/microlam-lambda-quickstart@0.9.0?classifier=sources
+- pkg:maven/io.microlam/microlam-lambda-quickstart@0.9.1?classifier=sources

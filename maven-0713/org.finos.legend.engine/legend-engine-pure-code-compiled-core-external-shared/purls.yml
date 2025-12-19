@@ -8,3 +8,7 @@
 - pkg:maven/org.finos.legend.engine/legend-engine-pure-code-compiled-core-external-shared@3.6.2?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-pure-code-compiled-core-external-shared@3.7.0
 - pkg:maven/org.finos.legend.engine/legend-engine-pure-code-compiled-core-external-shared@3.7.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-pure-code-compiled-core-external-shared@3.8.0
+- pkg:maven/org.finos.legend.engine/legend-engine-pure-code-compiled-core-external-shared@3.8.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-pure-code-compiled-core-external-shared@3.8.1
+- pkg:maven/org.finos.legend.engine/legend-engine-pure-code-compiled-core-external-shared@3.8.1?classifier=sources

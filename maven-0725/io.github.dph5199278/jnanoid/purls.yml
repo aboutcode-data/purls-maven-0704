@@ -1,2 +1,4 @@
 - pkg:maven/io.github.dph5199278/jnanoid@jdk6
+- pkg:maven/io.github.dph5199278/jnanoid@jdk6.1
+- pkg:maven/io.github.dph5199278/jnanoid@jdk6.1?classifier=sources
 - pkg:maven/io.github.dph5199278/jnanoid@jdk6?classifier=sources

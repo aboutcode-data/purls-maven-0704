@@ -1,0 +1,2 @@
+- pkg:maven/io.smallrye/jandex@3.0.0-RC2
+- pkg:maven/io.smallrye/jandex@3.0.0-RC2?classifier=sources

@@ -192,6 +192,8 @@
 - pkg:maven/org.apereo.cas/cas-server-webapp-undertow@6.4.6.2?type=war
 - pkg:maven/org.apereo.cas/cas-server-webapp-undertow@6.4.6.3?type=war
 - pkg:maven/org.apereo.cas/cas-server-webapp-undertow@6.4.6.4?type=war
+- pkg:maven/org.apereo.cas/cas-server-webapp-undertow@6.4.6.5?type=war
+- pkg:maven/org.apereo.cas/cas-server-webapp-undertow@6.4.6.6?type=war
 - pkg:maven/org.apereo.cas/cas-server-webapp-undertow@6.4.6?type=war
 - pkg:maven/org.apereo.cas/cas-server-webapp-undertow@6.5.0-RC1?type=war
 - pkg:maven/org.apereo.cas/cas-server-webapp-undertow@6.5.0-RC2?type=war
@@ -204,9 +206,13 @@
 - pkg:maven/org.apereo.cas/cas-server-webapp-undertow@6.5.3?type=war
 - pkg:maven/org.apereo.cas/cas-server-webapp-undertow@6.5.4?type=war
 - pkg:maven/org.apereo.cas/cas-server-webapp-undertow@6.5.5?type=war
+- pkg:maven/org.apereo.cas/cas-server-webapp-undertow@6.5.6?type=war
+- pkg:maven/org.apereo.cas/cas-server-webapp-undertow@6.5.7?type=war
+- pkg:maven/org.apereo.cas/cas-server-webapp-undertow@6.5.8?type=war
 - pkg:maven/org.apereo.cas/cas-server-webapp-undertow@6.6.0-RC1?type=war
 - pkg:maven/org.apereo.cas/cas-server-webapp-undertow@6.6.0-RC2?type=war
 - pkg:maven/org.apereo.cas/cas-server-webapp-undertow@6.6.0-RC3?type=war
 - pkg:maven/org.apereo.cas/cas-server-webapp-undertow@6.6.0-RC4?type=war
+- pkg:maven/org.apereo.cas/cas-server-webapp-undertow@6.6.0-RC5?type=war
 - pkg:maven/org.apereo.cas/cas-server-webapp-undertow@v6.4.0-RC5?type=war
 - pkg:maven/org.apereo.cas/cas-server-webapp-undertow@v6.4.0-RC6?type=war

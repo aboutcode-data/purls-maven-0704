@@ -56,3 +56,5 @@
 - pkg:maven/net.pincette/pincette-mongo@3.0?classifier=sources
 - pkg:maven/net.pincette/pincette-mongo@3.1
 - pkg:maven/net.pincette/pincette-mongo@3.1?classifier=sources
+- pkg:maven/net.pincette/pincette-mongo@4.0
+- pkg:maven/net.pincette/pincette-mongo@4.0?classifier=sources

@@ -53,6 +53,7 @@
 - pkg:maven/co.dapi/connect@2.24.11?classifier=sources
 - pkg:maven/co.dapi/connect@2.24.12?classifier=sources
 - pkg:maven/co.dapi/connect@2.24.13?classifier=sources
+- pkg:maven/co.dapi/connect@2.24.14?classifier=sources
 - pkg:maven/co.dapi/connect@2.24.1?classifier=sources
 - pkg:maven/co.dapi/connect@2.24.2?classifier=sources
 - pkg:maven/co.dapi/connect@2.24.3?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.tahu/tahu-core@0.5.14
 - pkg:maven/org.eclipse.tahu/tahu-core@0.5.15
+- pkg:maven/org.eclipse.tahu/tahu-core@0.5.16
+- pkg:maven/org.eclipse.tahu/tahu-core@0.5.17

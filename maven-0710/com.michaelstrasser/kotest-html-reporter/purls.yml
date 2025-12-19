@@ -17,3 +17,4 @@
 - pkg:maven/com.michaelstrasser/kotest-html-reporter@0.4.0?classifier=sources
 - pkg:maven/com.michaelstrasser/kotest-html-reporter@0.5.0?classifier=sources
 - pkg:maven/com.michaelstrasser/kotest-html-reporter@0.6.0?classifier=sources
+- pkg:maven/com.michaelstrasser/kotest-html-reporter@0.6.1?classifier=sources

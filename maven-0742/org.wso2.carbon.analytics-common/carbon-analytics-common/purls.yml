@@ -72,3 +72,5 @@
 - pkg:maven/org.wso2.carbon.analytics-common/carbon-analytics-common@5.2.36?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.analytics-common/carbon-analytics-common@5.2.37?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.analytics-common/carbon-analytics-common@5.2.38?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.analytics-common/carbon-analytics-common@5.2.44?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.analytics-common/carbon-analytics-common@5.2.45?classifier=source-release&type=zip

@@ -76,6 +76,8 @@
 - pkg:maven/io.aeron/aeron-agent@1.38.0?classifier=sources
 - pkg:maven/io.aeron/aeron-agent@1.38.1
 - pkg:maven/io.aeron/aeron-agent@1.38.1?classifier=sources
+- pkg:maven/io.aeron/aeron-agent@1.39.0
+- pkg:maven/io.aeron/aeron-agent@1.39.0?classifier=sources
 - pkg:maven/io.aeron/aeron-agent@1.4.0?classifier=sources
 - pkg:maven/io.aeron/aeron-agent@1.4.1?classifier=sources
 - pkg:maven/io.aeron/aeron-agent@1.5.0?classifier=sources

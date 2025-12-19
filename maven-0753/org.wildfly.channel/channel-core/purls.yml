@@ -8,3 +8,11 @@
 - pkg:maven/org.wildfly.channel/channel-core@1.0.0.Alpha15?classifier=sources
 - pkg:maven/org.wildfly.channel/channel-core@1.0.0.Alpha16
 - pkg:maven/org.wildfly.channel/channel-core@1.0.0.Alpha16?classifier=sources
+- pkg:maven/org.wildfly.channel/channel-core@1.0.0.Alpha17
+- pkg:maven/org.wildfly.channel/channel-core@1.0.0.Alpha17?classifier=sources
+- pkg:maven/org.wildfly.channel/channel-core@1.0.0.Alpha18
+- pkg:maven/org.wildfly.channel/channel-core@1.0.0.Alpha18?classifier=sources
+- pkg:maven/org.wildfly.channel/channel-core@1.0.0.Beta1
+- pkg:maven/org.wildfly.channel/channel-core@1.0.0.Beta1?classifier=sources
+- pkg:maven/org.wildfly.channel/channel-core@1.0.0.Beta2
+- pkg:maven/org.wildfly.channel/channel-core@1.0.0.Beta2?classifier=sources

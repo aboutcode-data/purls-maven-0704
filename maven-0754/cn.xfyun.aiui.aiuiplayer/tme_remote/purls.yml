@@ -7,3 +7,8 @@
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/tme_remote@1045?classifier=sources
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/tme_remote@1046?classifier=sources
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/tme_remote@1047?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/tme_remote@1049?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/tme_remote@1050?type=aar
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/tme_remote@1051?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/tme_remote@1052?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/tme_remote@1053?classifier=sources

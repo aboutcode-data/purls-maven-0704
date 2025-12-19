@@ -154,6 +154,7 @@
 - pkg:maven/org.ops4j.pax.web.archetypes/wab-gwt-archetype@7.3.23?classifier=sources
 - pkg:maven/org.ops4j.pax.web.archetypes/wab-gwt-archetype@7.3.24?classifier=sources
 - pkg:maven/org.ops4j.pax.web.archetypes/wab-gwt-archetype@7.3.25?classifier=sources
+- pkg:maven/org.ops4j.pax.web.archetypes/wab-gwt-archetype@7.3.26?classifier=sources
 - pkg:maven/org.ops4j.pax.web.archetypes/wab-gwt-archetype@7.3.2?classifier=sources
 - pkg:maven/org.ops4j.pax.web.archetypes/wab-gwt-archetype@7.3.3?classifier=sources
 - pkg:maven/org.ops4j.pax.web.archetypes/wab-gwt-archetype@7.3.4?classifier=sources

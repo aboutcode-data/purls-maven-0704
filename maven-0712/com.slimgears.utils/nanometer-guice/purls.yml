@@ -13,3 +13,4 @@
 - pkg:maven/com.slimgears.utils/nanometer-guice@0.7.55?classifier=sources
 - pkg:maven/com.slimgears.utils/nanometer-guice@0.7.56?classifier=sources
 - pkg:maven/com.slimgears.utils/nanometer-guice@0.7.57?classifier=sources
+- pkg:maven/com.slimgears.utils/nanometer-guice@0.7.58?classifier=sources

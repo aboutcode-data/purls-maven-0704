@@ -1,0 +1,2 @@
+- pkg:maven/io.trino/trino-filesystem@393
+- pkg:maven/io.trino/trino-filesystem@393?classifier=sources

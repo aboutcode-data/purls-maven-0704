@@ -10,3 +10,7 @@
 - pkg:maven/dev.zio/zio-logging-slf4j-bridge_3@0.5.14?classifier=sources
 - pkg:maven/dev.zio/zio-logging-slf4j-bridge_3@0.5.9
 - pkg:maven/dev.zio/zio-logging-slf4j-bridge_3@0.5.9?classifier=sources
+- pkg:maven/dev.zio/zio-logging-slf4j-bridge_3@2.0.0
+- pkg:maven/dev.zio/zio-logging-slf4j-bridge_3@2.0.0?classifier=sources
+- pkg:maven/dev.zio/zio-logging-slf4j-bridge_3@2.0.1
+- pkg:maven/dev.zio/zio-logging-slf4j-bridge_3@2.0.1?classifier=sources

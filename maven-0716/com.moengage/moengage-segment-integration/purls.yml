@@ -35,8 +35,10 @@
 - pkg:maven/com.moengage/moengage-segment-integration@5.5.03?classifier=sources
 - pkg:maven/com.moengage/moengage-segment-integration@5.5.04?classifier=sources
 - pkg:maven/com.moengage/moengage-segment-integration@5.6.00?classifier=sources
+- pkg:maven/com.moengage/moengage-segment-integration@5.6.01?classifier=sources
 - pkg:maven/com.moengage/moengage-segment-integration@6.0.0?classifier=sources
 - pkg:maven/com.moengage/moengage-segment-integration@6.1.0?classifier=sources
 - pkg:maven/com.moengage/moengage-segment-integration@6.2.0?classifier=sources
 - pkg:maven/com.moengage/moengage-segment-integration@6.2.1?classifier=sources
 - pkg:maven/com.moengage/moengage-segment-integration@6.2.2?classifier=sources
+- pkg:maven/com.moengage/moengage-segment-integration@6.2.3?classifier=sources

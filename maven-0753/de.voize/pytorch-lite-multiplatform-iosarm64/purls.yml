@@ -1,0 +1,2 @@
+- pkg:maven/de.voize/pytorch-lite-multiplatform-iosarm64@0.3.3?classifier=sources
+- pkg:maven/de.voize/pytorch-lite-multiplatform-iosarm64@0.4.0?classifier=sources

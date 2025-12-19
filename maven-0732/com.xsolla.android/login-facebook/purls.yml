@@ -7,3 +7,4 @@
 - pkg:maven/com.xsolla.android/login-facebook@3.0.0?classifier=sources
 - pkg:maven/com.xsolla.android/login-facebook@3.1.0?classifier=sources
 - pkg:maven/com.xsolla.android/login-facebook@3.1.1?classifier=sources
+- pkg:maven/com.xsolla.android/login-facebook@4.0.0?classifier=sources

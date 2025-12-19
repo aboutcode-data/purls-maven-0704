@@ -6,3 +6,4 @@
 - pkg:maven/com.emc.ecs/nfs-client@1.0.2?classifier=sources
 - pkg:maven/com.emc.ecs/nfs-client@1.0.3
 - pkg:maven/com.emc.ecs/nfs-client@1.0.3?classifier=sources
+- pkg:maven/com.emc.ecs/nfs-client@1.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.gitlab.mateuszjaje/json-obfuscator_2.13@1.0.5
+- pkg:maven/io.gitlab.mateuszjaje/json-obfuscator_2.13@1.0.5?classifier=sources

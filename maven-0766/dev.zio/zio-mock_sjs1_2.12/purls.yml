@@ -6,3 +6,5 @@
 - pkg:maven/dev.zio/zio-mock_sjs1_2.12@1.0.0-RC5?classifier=sources
 - pkg:maven/dev.zio/zio-mock_sjs1_2.12@1.0.0-RC6
 - pkg:maven/dev.zio/zio-mock_sjs1_2.12@1.0.0-RC6?classifier=sources
+- pkg:maven/dev.zio/zio-mock_sjs1_2.12@1.0.0-RC8
+- pkg:maven/dev.zio/zio-mock_sjs1_2.12@1.0.0-RC8?classifier=sources

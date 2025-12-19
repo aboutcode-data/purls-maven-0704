@@ -6,3 +6,4 @@
 - pkg:maven/ch.dreipol/dreimultiplatform@1.4-1.6.10?classifier=sources
 - pkg:maven/ch.dreipol/dreimultiplatform@1.4?classifier=sources
 - pkg:maven/ch.dreipol/dreimultiplatform@1.5-1.6.10?classifier=sources
+- pkg:maven/ch.dreipol/dreimultiplatform@1.5-1.7.10?classifier=sources

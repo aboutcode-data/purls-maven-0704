@@ -403,6 +403,10 @@
 - pkg:maven/com.indeed/proctor-ant-plugin@1.9.65?classifier=sources
 - pkg:maven/com.indeed/proctor-ant-plugin@1.9.66
 - pkg:maven/com.indeed/proctor-ant-plugin@1.9.66?classifier=sources
+- pkg:maven/com.indeed/proctor-ant-plugin@1.9.67
+- pkg:maven/com.indeed/proctor-ant-plugin@1.9.67?classifier=sources
+- pkg:maven/com.indeed/proctor-ant-plugin@1.9.68
+- pkg:maven/com.indeed/proctor-ant-plugin@1.9.68?classifier=sources
 - pkg:maven/com.indeed/proctor-ant-plugin@1.9.6?classifier=sources
 - pkg:maven/com.indeed/proctor-ant-plugin@1.9.7
 - pkg:maven/com.indeed/proctor-ant-plugin@1.9.7?classifier=sources

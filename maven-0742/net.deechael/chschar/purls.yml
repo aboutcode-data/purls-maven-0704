@@ -1,0 +1,2 @@
+- pkg:maven/net.deechael/chschar@1.00.0
+- pkg:maven/net.deechael/chschar@1.00.0?classifier=sources

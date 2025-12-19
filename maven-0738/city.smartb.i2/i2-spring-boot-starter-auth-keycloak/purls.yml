@@ -1,1 +1,2 @@
 - pkg:maven/city.smartb.i2/i2-spring-boot-starter-auth-keycloak@0.8.3?classifier=sources
+- pkg:maven/city.smartb.i2/i2-spring-boot-starter-auth-keycloak@0.9.0?classifier=sources

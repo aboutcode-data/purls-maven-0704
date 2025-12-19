@@ -50,6 +50,10 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.influxdb-java@2.22_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.influxdb-java@2.22_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.influxdb-java@2.22_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.influxdb-java@2.23_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.influxdb-java@2.23_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.influxdb-java@2.23_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.influxdb-java@2.23_1?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.influxdb-java@2.3_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.influxdb-java@2.3_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.influxdb-java@2.3_1?classifier=src&type=tar.gz

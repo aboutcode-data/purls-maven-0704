@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-jonthornton-jquery-timepicker@1.13.18
+- pkg:maven/org.webjars.npm/github-com-jonthornton-jquery-timepicker@1.13.18?classifier=sources

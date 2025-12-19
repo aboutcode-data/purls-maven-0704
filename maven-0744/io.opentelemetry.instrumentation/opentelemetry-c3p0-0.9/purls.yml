@@ -1,0 +1,2 @@
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-c3p0-0.9@1.16.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-c3p0-0.9@1.17.0-alpha?classifier=sources

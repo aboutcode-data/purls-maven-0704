@@ -32,3 +32,9 @@
 - pkg:maven/travel.wink/affiliate-sdk-java@20.2.7?classifier=sources
 - pkg:maven/travel.wink/affiliate-sdk-java@21.0.0
 - pkg:maven/travel.wink/affiliate-sdk-java@21.0.0?classifier=sources
+- pkg:maven/travel.wink/affiliate-sdk-java@21.0.1
+- pkg:maven/travel.wink/affiliate-sdk-java@21.0.1?classifier=sources
+- pkg:maven/travel.wink/affiliate-sdk-java@21.1.0
+- pkg:maven/travel.wink/affiliate-sdk-java@21.1.0?classifier=sources
+- pkg:maven/travel.wink/affiliate-sdk-java@21.2.1
+- pkg:maven/travel.wink/affiliate-sdk-java@21.2.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.foxcapades.lib.kps/kpd@1.0.0?classifier=sources
+- pkg:maven/io.foxcapades.lib.kps/kpd@1.1.0?classifier=sources

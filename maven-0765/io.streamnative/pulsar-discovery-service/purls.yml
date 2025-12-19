@@ -110,6 +110,12 @@
 - pkg:maven/io.streamnative/pulsar-discovery-service@2.7.4.4?classifier=sources
 - pkg:maven/io.streamnative/pulsar-discovery-service@2.7.4.5
 - pkg:maven/io.streamnative/pulsar-discovery-service@2.7.4.5?classifier=sources
+- pkg:maven/io.streamnative/pulsar-discovery-service@2.7.4.6
+- pkg:maven/io.streamnative/pulsar-discovery-service@2.7.4.6?classifier=sources
+- pkg:maven/io.streamnative/pulsar-discovery-service@2.7.4.7
+- pkg:maven/io.streamnative/pulsar-discovery-service@2.7.4.7?classifier=sources
+- pkg:maven/io.streamnative/pulsar-discovery-service@2.7.4.8
+- pkg:maven/io.streamnative/pulsar-discovery-service@2.7.4.8?classifier=sources
 - pkg:maven/io.streamnative/pulsar-discovery-service@2.8.0-rc-202105092228
 - pkg:maven/io.streamnative/pulsar-discovery-service@2.8.0-rc-202105092228?classifier=sources
 - pkg:maven/io.streamnative/pulsar-discovery-service@2.8.0-rc-202105122233
@@ -318,6 +324,14 @@
 - pkg:maven/io.streamnative/pulsar-discovery-service@2.8.3.4?classifier=sources
 - pkg:maven/io.streamnative/pulsar-discovery-service@2.8.3.5
 - pkg:maven/io.streamnative/pulsar-discovery-service@2.8.3.5?classifier=sources
+- pkg:maven/io.streamnative/pulsar-discovery-service@2.8.3.6
+- pkg:maven/io.streamnative/pulsar-discovery-service@2.8.3.6?classifier=sources
+- pkg:maven/io.streamnative/pulsar-discovery-service@2.8.3.7
+- pkg:maven/io.streamnative/pulsar-discovery-service@2.8.3.7?classifier=sources
+- pkg:maven/io.streamnative/pulsar-discovery-service@2.8.3.8
+- pkg:maven/io.streamnative/pulsar-discovery-service@2.8.3.8?classifier=sources
+- pkg:maven/io.streamnative/pulsar-discovery-service@2.8.4.0-rc1
+- pkg:maven/io.streamnative/pulsar-discovery-service@2.8.4.0-rc1?classifier=sources
 - pkg:maven/io.streamnative/pulsar-discovery-service@2.9.0-rc-202106092205
 - pkg:maven/io.streamnative/pulsar-discovery-service@2.9.0-rc-202106092205?classifier=sources
 - pkg:maven/io.streamnative/pulsar-discovery-service@2.9.0-rc-202106122205

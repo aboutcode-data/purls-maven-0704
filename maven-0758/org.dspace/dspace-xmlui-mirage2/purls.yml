@@ -3,6 +3,7 @@
 - pkg:maven/org.dspace/dspace-xmlui-mirage2@5.0-rc3?type=war
 - pkg:maven/org.dspace/dspace-xmlui-mirage2@5.0?type=war
 - pkg:maven/org.dspace/dspace-xmlui-mirage2@5.10?type=war
+- pkg:maven/org.dspace/dspace-xmlui-mirage2@5.11?type=war
 - pkg:maven/org.dspace/dspace-xmlui-mirage2@5.1?type=war
 - pkg:maven/org.dspace/dspace-xmlui-mirage2@5.2?type=war
 - pkg:maven/org.dspace/dspace-xmlui-mirage2@5.3?type=war
@@ -20,3 +21,4 @@
 - pkg:maven/org.dspace/dspace-xmlui-mirage2@6.1?type=war
 - pkg:maven/org.dspace/dspace-xmlui-mirage2@6.2?type=war
 - pkg:maven/org.dspace/dspace-xmlui-mirage2@6.3?type=war
+- pkg:maven/org.dspace/dspace-xmlui-mirage2@6.4?type=war

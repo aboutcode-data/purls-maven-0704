@@ -2,3 +2,5 @@
 - pkg:maven/com.gu/play-brotli-filter_2.12@0.4?classifier=sources
 - pkg:maven/com.gu/play-brotli-filter_2.12@0.5
 - pkg:maven/com.gu/play-brotli-filter_2.12@0.5?classifier=sources
+- pkg:maven/com.gu/play-brotli-filter_2.12@0.6
+- pkg:maven/com.gu/play-brotli-filter_2.12@0.6?classifier=sources

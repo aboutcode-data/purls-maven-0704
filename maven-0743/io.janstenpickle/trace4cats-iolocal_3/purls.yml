@@ -1,3 +1,13 @@
+- pkg:maven/io.janstenpickle/trace4cats-iolocal_3@0.13.1%2B101-e3262b46
+- pkg:maven/io.janstenpickle/trace4cats-iolocal_3@0.13.1%2B101-e3262b46?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-iolocal_3@0.13.1%2B106-d0c19130
+- pkg:maven/io.janstenpickle/trace4cats-iolocal_3@0.13.1%2B106-d0c19130?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-iolocal_3@0.13.1%2B108-e5f14927
+- pkg:maven/io.janstenpickle/trace4cats-iolocal_3@0.13.1%2B108-e5f14927?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-iolocal_3@0.13.1%2B110-f0adea73
+- pkg:maven/io.janstenpickle/trace4cats-iolocal_3@0.13.1%2B110-f0adea73?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-iolocal_3@0.13.1%2B114-c5a4b269
+- pkg:maven/io.janstenpickle/trace4cats-iolocal_3@0.13.1%2B114-c5a4b269?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-iolocal_3@0.13.1%2B40-bcd8fd98
 - pkg:maven/io.janstenpickle/trace4cats-iolocal_3@0.13.1%2B40-bcd8fd98?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-iolocal_3@0.13.1%2B43-115b73cf
@@ -10,3 +20,7 @@
 - pkg:maven/io.janstenpickle/trace4cats-iolocal_3@0.13.1%2B67-a7d9b849?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-iolocal_3@0.13.1%2B69-4962454c
 - pkg:maven/io.janstenpickle/trace4cats-iolocal_3@0.13.1%2B69-4962454c?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-iolocal_3@0.13.1%2B93-3b55f15a
+- pkg:maven/io.janstenpickle/trace4cats-iolocal_3@0.13.1%2B93-3b55f15a?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-iolocal_3@0.14.0
+- pkg:maven/io.janstenpickle/trace4cats-iolocal_3@0.14.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/uk.ac.sussex.gdsc/gdsc-core-ij@2.0
+- pkg:maven/uk.ac.sussex.gdsc/gdsc-core-ij@2.0?classifier=sources

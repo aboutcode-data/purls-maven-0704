@@ -23,3 +23,5 @@
 - pkg:maven/org.apache.directory.fortress/fortress-rest@2.0.6?type=war
 - pkg:maven/org.apache.directory.fortress/fortress-rest@2.0.7?classifier=sources
 - pkg:maven/org.apache.directory.fortress/fortress-rest@2.0.7?type=war
+- pkg:maven/org.apache.directory.fortress/fortress-rest@2.0.8?classifier=sources
+- pkg:maven/org.apache.directory.fortress/fortress-rest@2.0.8?type=war

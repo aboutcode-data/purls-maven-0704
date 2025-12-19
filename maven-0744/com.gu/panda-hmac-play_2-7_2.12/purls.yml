@@ -1,0 +1,2 @@
+- pkg:maven/com.gu/panda-hmac-play_2-7_2.12@2.0.1
+- pkg:maven/com.gu/panda-hmac-play_2-7_2.12@2.0.1?classifier=sources

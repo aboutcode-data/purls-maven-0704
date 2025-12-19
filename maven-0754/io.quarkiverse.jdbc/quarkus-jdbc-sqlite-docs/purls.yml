@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.jdbc/quarkus-jdbc-sqlite-docs@1.0.2
+- pkg:maven/io.quarkiverse.jdbc/quarkus-jdbc-sqlite-docs@1.0.3

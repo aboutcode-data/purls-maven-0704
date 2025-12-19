@@ -8,3 +8,5 @@
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-ratpack-1.7@1.13.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-ratpack-1.7@1.14.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-ratpack-1.7@1.15.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-ratpack-1.7@1.16.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-ratpack-1.7@1.17.0-alpha?classifier=sources
