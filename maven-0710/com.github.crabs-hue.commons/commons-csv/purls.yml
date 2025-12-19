@@ -2,3 +2,5 @@
 - pkg:maven/com.github.crabs-hue.commons/commons-csv@0.11.0?classifier=sources
 - pkg:maven/com.github.crabs-hue.commons/commons-csv@0.12.0
 - pkg:maven/com.github.crabs-hue.commons/commons-csv@0.12.0?classifier=sources
+- pkg:maven/com.github.crabs-hue.commons/commons-csv@0.13.0
+- pkg:maven/com.github.crabs-hue.commons/commons-csv@0.13.0?classifier=sources

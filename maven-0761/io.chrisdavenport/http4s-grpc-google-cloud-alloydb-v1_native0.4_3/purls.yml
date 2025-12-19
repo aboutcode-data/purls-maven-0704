@@ -10,3 +10,7 @@
 - pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-alloydb-v1_native0.4_3@0.3.0%2B0.0.4?classifier=sources
 - pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-alloydb-v1_native0.4_3@0.4.0%2B0.0.4
 - pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-alloydb-v1_native0.4_3@0.4.0%2B0.0.4?classifier=sources
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-alloydb-v1_native0.4_3@0.4.0%2B0.0.5
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-alloydb-v1_native0.4_3@0.4.0%2B0.0.5?classifier=sources
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-alloydb-v1_native0.4_3@0.5.0%2B0.0.5
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-alloydb-v1_native0.4_3@0.5.0%2B0.0.5?classifier=sources

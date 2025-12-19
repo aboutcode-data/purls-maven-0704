@@ -6,3 +6,5 @@
 - pkg:maven/tech.neander/langoustine-app_native0.4_3@0.0.18?classifier=sources
 - pkg:maven/tech.neander/langoustine-app_native0.4_3@0.0.19
 - pkg:maven/tech.neander/langoustine-app_native0.4_3@0.0.19?classifier=sources
+- pkg:maven/tech.neander/langoustine-app_native0.4_3@0.0.20
+- pkg:maven/tech.neander/langoustine-app_native0.4_3@0.0.20?classifier=sources

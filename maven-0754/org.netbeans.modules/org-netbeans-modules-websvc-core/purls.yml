@@ -16,3 +16,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-core@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-core@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-core@RELEASE170?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-core@RELEASE180?classifier=sources

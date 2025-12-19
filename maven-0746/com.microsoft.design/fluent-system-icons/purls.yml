@@ -162,3 +162,5 @@
 - pkg:maven/com.microsoft.design/fluent-system-icons@1.1.199?type=aar
 - pkg:maven/com.microsoft.design/fluent-system-icons@1.1.200?classifier=sources
 - pkg:maven/com.microsoft.design/fluent-system-icons@1.1.200?type=aar
+- pkg:maven/com.microsoft.design/fluent-system-icons@1.1.201?classifier=sources
+- pkg:maven/com.microsoft.design/fluent-system-icons@1.1.201?type=aar

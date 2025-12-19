@@ -2,3 +2,4 @@
 - pkg:maven/com.decathlon.vitamin.compose/quantity-pickers@0.2.0-alpha02?classifier=sources
 - pkg:maven/com.decathlon.vitamin.compose/quantity-pickers@0.2.0?classifier=sources
 - pkg:maven/com.decathlon.vitamin.compose/quantity-pickers@0.3.0-beta01?classifier=sources
+- pkg:maven/com.decathlon.vitamin.compose/quantity-pickers@0.3.0-beta02?classifier=sources

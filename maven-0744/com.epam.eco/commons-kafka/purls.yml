@@ -46,3 +46,5 @@
 - pkg:maven/com.epam.eco/commons-kafka@2.0.7?classifier=sources
 - pkg:maven/com.epam.eco/commons-kafka@3.0.0
 - pkg:maven/com.epam.eco/commons-kafka@3.0.0?classifier=sources
+- pkg:maven/com.epam.eco/commons-kafka@3.0.1
+- pkg:maven/com.epam.eco/commons-kafka@3.0.1?classifier=sources

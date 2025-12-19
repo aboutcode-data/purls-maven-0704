@@ -8,3 +8,9 @@
 - pkg:maven/com.pulumi/nomad@0.4.1-alpha.1679335093%2B4a7a716e?classifier=sources
 - pkg:maven/com.pulumi/nomad@0.4.1-alpha.1679417018%2B85ba71bf?classifier=sources
 - pkg:maven/com.pulumi/nomad@0.4.1-alpha.1680909915%2B04bd7388?classifier=sources
+- pkg:maven/com.pulumi/nomad@0.4.1-alpha.1681934264%2Bd734e04a?classifier=sources
+- pkg:maven/com.pulumi/nomad@0.4.1-alpha.1682461165%2B56ffa9b0?classifier=sources
+- pkg:maven/com.pulumi/nomad@0.4.1?classifier=sources
+- pkg:maven/com.pulumi/nomad@0.4.2-alpha.1683266175%2Babb66dee?classifier=sources
+- pkg:maven/com.pulumi/nomad@0.4.2-alpha.1683352048%2B9ec37c71?classifier=sources
+- pkg:maven/com.pulumi/nomad@0.4.2-alpha.1683611299%2B8675d32d?classifier=sources

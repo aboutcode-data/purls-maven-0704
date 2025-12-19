@@ -1,1 +1,2 @@
 - pkg:maven/io.opentelemetry.javaagent/opentelemetry-javaagent-internal-logging-application@1.25.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.javaagent/opentelemetry-javaagent-internal-logging-application@1.25.1-alpha?classifier=sources

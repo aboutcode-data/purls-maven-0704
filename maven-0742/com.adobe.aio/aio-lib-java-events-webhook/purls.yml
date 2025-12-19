@@ -1,4 +1,6 @@
 - pkg:maven/com.adobe.aio/aio-lib-java-events-webhook@1.0.10
 - pkg:maven/com.adobe.aio/aio-lib-java-events-webhook@1.0.10?classifier=sources
+- pkg:maven/com.adobe.aio/aio-lib-java-events-webhook@1.0.12
+- pkg:maven/com.adobe.aio/aio-lib-java-events-webhook@1.0.12?classifier=sources
 - pkg:maven/com.adobe.aio/aio-lib-java-events-webhook@1.0.7
 - pkg:maven/com.adobe.aio/aio-lib-java-events-webhook@1.0.7?classifier=sources

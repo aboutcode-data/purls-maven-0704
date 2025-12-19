@@ -6,3 +6,5 @@
 - pkg:maven/io.kalix/kalix-java-sdk-spring-testkit@1.2.1-M2?classifier=sources
 - pkg:maven/io.kalix/kalix-java-sdk-spring-testkit@1.2.1-M3
 - pkg:maven/io.kalix/kalix-java-sdk-spring-testkit@1.2.1-M3?classifier=sources
+- pkg:maven/io.kalix/kalix-java-sdk-spring-testkit@1.2.1-M4
+- pkg:maven/io.kalix/kalix-java-sdk-spring-testkit@1.2.1-M4?classifier=sources

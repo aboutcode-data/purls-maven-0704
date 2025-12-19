@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-preactjs-preact-render-to-string@6.0.0
+- pkg:maven/org.webjars.npm/github-com-preactjs-preact-render-to-string@6.0.0?classifier=sources

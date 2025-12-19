@@ -1,2 +1,4 @@
 - pkg:maven/org.ximinghui/china-region@1.0
 - pkg:maven/org.ximinghui/china-region@1.0?classifier=sources
+- pkg:maven/org.ximinghui/china-region@1.1
+- pkg:maven/org.ximinghui/china-region@1.1?classifier=sources

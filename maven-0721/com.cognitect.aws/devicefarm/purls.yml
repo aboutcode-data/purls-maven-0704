@@ -24,3 +24,5 @@
 - pkg:maven/com.cognitect.aws/devicefarm@821.2.1107.0?classifier=sources
 - pkg:maven/com.cognitect.aws/devicefarm@825.2.1233.0
 - pkg:maven/com.cognitect.aws/devicefarm@825.2.1233.0?classifier=sources
+- pkg:maven/com.cognitect.aws/devicefarm@847.2.1365.0
+- pkg:maven/com.cognitect.aws/devicefarm@847.2.1365.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.pig4cloud.plugin/nacos-datasource-plugin-highgo@0.0.1
+- pkg:maven/com.pig4cloud.plugin/nacos-datasource-plugin-highgo@0.0.1?classifier=sources

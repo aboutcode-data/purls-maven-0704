@@ -2,3 +2,5 @@
 - pkg:maven/com.cognitect.aws/license-manager-user-subscriptions@822.2.1193.0?classifier=sources
 - pkg:maven/com.cognitect.aws/license-manager-user-subscriptions@825.2.1263.0
 - pkg:maven/com.cognitect.aws/license-manager-user-subscriptions@825.2.1263.0?classifier=sources
+- pkg:maven/com.cognitect.aws/license-manager-user-subscriptions@847.2.1365.0
+- pkg:maven/com.cognitect.aws/license-manager-user-subscriptions@847.2.1365.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/city.smartb.s2/s2-spring-boot-starter-sourcing-data-mongodb@0.12.0?classifier=sources
 - pkg:maven/city.smartb.s2/s2-spring-boot-starter-sourcing-data-mongodb@0.13.0?classifier=sources
+- pkg:maven/city.smartb.s2/s2-spring-boot-starter-sourcing-data-mongodb@0.14.0?classifier=sources
+- pkg:maven/city.smartb.s2/s2-spring-boot-starter-sourcing-data-mongodb@0.15.0?classifier=sources

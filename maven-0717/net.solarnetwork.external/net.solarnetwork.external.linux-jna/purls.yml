@@ -1,1 +1,3 @@
 - pkg:maven/net.solarnetwork.external/net.solarnetwork.external.linux-jna@1.1.0
+- pkg:maven/net.solarnetwork.external/net.solarnetwork.external.linux-jna@1.1.0.SN01
+- pkg:maven/net.solarnetwork.external/net.solarnetwork.external.linux-jna@1.1.1

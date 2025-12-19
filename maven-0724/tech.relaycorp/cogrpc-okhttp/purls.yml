@@ -5,3 +5,6 @@
 - pkg:maven/tech.relaycorp/cogrpc-okhttp@1.1.14?classifier=sources
 - pkg:maven/tech.relaycorp/cogrpc-okhttp@1.1.15?classifier=sources
 - pkg:maven/tech.relaycorp/cogrpc-okhttp@1.1.16?classifier=sources
+- pkg:maven/tech.relaycorp/cogrpc-okhttp@1.1.17?classifier=sources
+- pkg:maven/tech.relaycorp/cogrpc-okhttp@1.1.18?classifier=sources
+- pkg:maven/tech.relaycorp/cogrpc-okhttp@1.1.19?classifier=sources

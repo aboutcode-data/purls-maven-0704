@@ -1,1 +1,3 @@
 - pkg:maven/net.raumzeitfalle.registration/ejml-solver@0.0.5?classifier=sources
+- pkg:maven/net.raumzeitfalle.registration/ejml-solver@0.0.6?classifier=sources
+- pkg:maven/net.raumzeitfalle.registration/ejml-solver@0.0.7?classifier=sources

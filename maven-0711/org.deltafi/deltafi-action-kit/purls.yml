@@ -18,6 +18,10 @@
 - pkg:maven/org.deltafi/deltafi-action-kit@0.104.2?classifier=sources
 - pkg:maven/org.deltafi/deltafi-action-kit@0.104.4?classifier=sources
 - pkg:maven/org.deltafi/deltafi-action-kit@0.105.0?classifier=sources
+- pkg:maven/org.deltafi/deltafi-action-kit@0.106.0?classifier=sources
+- pkg:maven/org.deltafi/deltafi-action-kit@0.107.0?classifier=sources
+- pkg:maven/org.deltafi/deltafi-action-kit@0.108.0?classifier=sources
+- pkg:maven/org.deltafi/deltafi-action-kit@0.109.0?classifier=sources
 - pkg:maven/org.deltafi/deltafi-action-kit@0.21.4?classifier=sources
 - pkg:maven/org.deltafi/deltafi-action-kit@0.9.99?classifier=sources
 - pkg:maven/org.deltafi/deltafi-action-kit@0.95.0?classifier=sources
@@ -46,3 +50,7 @@
 - pkg:maven/org.deltafi/deltafi-action-kit@0.99.6?classifier=sources
 - pkg:maven/org.deltafi/deltafi-action-kit@0.99.7?classifier=sources
 - pkg:maven/org.deltafi/deltafi-action-kit@0.99.8?classifier=sources
+- pkg:maven/org.deltafi/deltafi-action-kit@0.999.998?classifier=sources
+- pkg:maven/org.deltafi/deltafi-action-kit@1.0.0-RC1?classifier=sources
+- pkg:maven/org.deltafi/deltafi-action-kit@1.0.0-RC2?classifier=sources
+- pkg:maven/org.deltafi/deltafi-action-kit@1.0.0-RC3?classifier=sources

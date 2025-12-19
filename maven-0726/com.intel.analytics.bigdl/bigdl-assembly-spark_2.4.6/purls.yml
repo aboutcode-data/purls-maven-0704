@@ -1,2 +1,3 @@
 - pkg:maven/com.intel.analytics.bigdl/bigdl-assembly-spark_2.4.6@2.1.0?type=zip
 - pkg:maven/com.intel.analytics.bigdl/bigdl-assembly-spark_2.4.6@2.2.0?type=zip
+- pkg:maven/com.intel.analytics.bigdl/bigdl-assembly-spark_2.4.6@2.3.0?type=zip

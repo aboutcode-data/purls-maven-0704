@@ -1,0 +1,2 @@
+- pkg:maven/dev.fitko.fitconnect.sdk/client@1.0.0-rc.1
+- pkg:maven/dev.fitko.fitconnect.sdk/client@1.0.0-rc.1?classifier=sources

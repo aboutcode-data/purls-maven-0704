@@ -4116,6 +4116,14 @@
 - pkg:maven/org.wso2.identity.apps/recovery-portal@1.6.29?type=war
 - pkg:maven/org.wso2.identity.apps/recovery-portal@1.6.2?classifier=sources
 - pkg:maven/org.wso2.identity.apps/recovery-portal@1.6.2?type=war
+- pkg:maven/org.wso2.identity.apps/recovery-portal@1.6.300?classifier=sources
+- pkg:maven/org.wso2.identity.apps/recovery-portal@1.6.300?type=war
+- pkg:maven/org.wso2.identity.apps/recovery-portal@1.6.301?classifier=sources
+- pkg:maven/org.wso2.identity.apps/recovery-portal@1.6.301?type=war
+- pkg:maven/org.wso2.identity.apps/recovery-portal@1.6.302?classifier=sources
+- pkg:maven/org.wso2.identity.apps/recovery-portal@1.6.302?type=war
+- pkg:maven/org.wso2.identity.apps/recovery-portal@1.6.303?classifier=sources
+- pkg:maven/org.wso2.identity.apps/recovery-portal@1.6.303?type=war
 - pkg:maven/org.wso2.identity.apps/recovery-portal@1.6.30?classifier=sources
 - pkg:maven/org.wso2.identity.apps/recovery-portal@1.6.30?type=war
 - pkg:maven/org.wso2.identity.apps/recovery-portal@1.6.31?classifier=sources

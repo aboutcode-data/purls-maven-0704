@@ -22,3 +22,5 @@
 - pkg:maven/com.google.cloud/google-cloud-spanner-executor@6.40.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-spanner-executor@6.40.1
 - pkg:maven/com.google.cloud/google-cloud-spanner-executor@6.40.1?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-spanner-executor@6.41.0
+- pkg:maven/com.google.cloud/google-cloud-spanner-executor@6.41.0?classifier=sources

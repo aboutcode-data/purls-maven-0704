@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/drag-event-service@1.1.10
+- pkg:maven/org.webjars.npm/drag-event-service@1.1.10?classifier=sources
 - pkg:maven/org.webjars.npm/drag-event-service@1.1.7
 - pkg:maven/org.webjars.npm/drag-event-service@1.1.7?classifier=sources

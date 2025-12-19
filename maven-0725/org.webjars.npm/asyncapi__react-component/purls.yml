@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/asyncapi__react-component@1.0.0-next.36?classifier=sources
 - pkg:maven/org.webjars.npm/asyncapi__react-component@1.0.0-next.44
 - pkg:maven/org.webjars.npm/asyncapi__react-component@1.0.0-next.44?classifier=sources
+- pkg:maven/org.webjars.npm/asyncapi__react-component@1.0.0-next.47
+- pkg:maven/org.webjars.npm/asyncapi__react-component@1.0.0-next.47?classifier=sources

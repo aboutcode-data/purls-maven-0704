@@ -1,0 +1,2 @@
+- pkg:maven/com.foursoft.harness.navext/navext-runtime@0.1.0
+- pkg:maven/com.foursoft.harness.navext/navext-runtime@0.1.0?classifier=sources

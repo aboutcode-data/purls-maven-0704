@@ -80,3 +80,7 @@
 - pkg:maven/com.c4-soft.springaddons/spring-addons-webflux-test@6.1.6?classifier=sources
 - pkg:maven/com.c4-soft.springaddons/spring-addons-webflux-test@6.1.7
 - pkg:maven/com.c4-soft.springaddons/spring-addons-webflux-test@6.1.7?classifier=sources
+- pkg:maven/com.c4-soft.springaddons/spring-addons-webflux-test@6.1.8
+- pkg:maven/com.c4-soft.springaddons/spring-addons-webflux-test@6.1.8?classifier=sources
+- pkg:maven/com.c4-soft.springaddons/spring-addons-webflux-test@6.1.9
+- pkg:maven/com.c4-soft.springaddons/spring-addons-webflux-test@6.1.9?classifier=sources

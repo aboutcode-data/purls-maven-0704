@@ -1,0 +1,2 @@
+- pkg:maven/sh.almond/channels-cross-3.2.0_2.13@0.14.0-RC1
+- pkg:maven/sh.almond/channels-cross-3.2.0_2.13@0.14.0-RC1?classifier=sources

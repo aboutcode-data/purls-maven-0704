@@ -56,6 +56,8 @@
 - pkg:maven/com.github.mjakubowski84/parquet4s-akka_2.13@2.10.0?classifier=sources
 - pkg:maven/com.github.mjakubowski84/parquet4s-akka_2.13@2.10.1
 - pkg:maven/com.github.mjakubowski84/parquet4s-akka_2.13@2.10.1?classifier=sources
+- pkg:maven/com.github.mjakubowski84/parquet4s-akka_2.13@2.11.0
+- pkg:maven/com.github.mjakubowski84/parquet4s-akka_2.13@2.11.0?classifier=sources
 - pkg:maven/com.github.mjakubowski84/parquet4s-akka_2.13@2.2.0
 - pkg:maven/com.github.mjakubowski84/parquet4s-akka_2.13@2.2.0?classifier=sources
 - pkg:maven/com.github.mjakubowski84/parquet4s-akka_2.13@2.3.0

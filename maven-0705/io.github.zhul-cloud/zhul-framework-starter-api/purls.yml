@@ -1,0 +1,2 @@
+- pkg:maven/io.github.zhul-cloud/zhul-framework-starter-api@1.3.0
+- pkg:maven/io.github.zhul-cloud/zhul-framework-starter-api@1.3.0?classifier=sources

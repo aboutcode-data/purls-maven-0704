@@ -21,3 +21,4 @@
 - pkg:maven/org.webpieces.aws/monitoring@2.1.59?classifier=sources
 - pkg:maven/org.webpieces.aws/monitoring@2.1.61?classifier=sources
 - pkg:maven/org.webpieces.aws/monitoring@2.1.62?classifier=sources
+- pkg:maven/org.webpieces.aws/monitoring@2.1.63?classifier=sources

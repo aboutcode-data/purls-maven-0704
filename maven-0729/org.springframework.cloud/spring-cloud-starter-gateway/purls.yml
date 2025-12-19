@@ -45,8 +45,11 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-gateway@3.1.4
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-gateway@3.1.5
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-gateway@3.1.6
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-gateway@3.1.7
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-gateway@4.0.0
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-gateway@4.0.1
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-gateway@4.0.2
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-gateway@4.0.3
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-gateway@4.0.4
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-gateway@4.0.5
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-gateway@4.0.6

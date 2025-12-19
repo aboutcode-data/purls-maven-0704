@@ -15,6 +15,14 @@
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-dbExtension-archetype@3.35.1?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-dbExtension-archetype@4.0.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-dbExtension-archetype@4.1.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-dbExtension-archetype@4.10.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-dbExtension-archetype@4.11.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-dbExtension-archetype@4.11.1?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-dbExtension-archetype@4.12.1?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-dbExtension-archetype@4.13.1?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-dbExtension-archetype@4.13.2?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-dbExtension-archetype@4.13.3?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-dbExtension-archetype@4.14.1?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-dbExtension-archetype@4.2.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-dbExtension-archetype@4.3.1?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-dbExtension-archetype@4.3.2?classifier=sources
@@ -32,3 +40,5 @@
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-dbExtension-archetype@4.6.2?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-dbExtension-archetype@4.7.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-dbExtension-archetype@4.7.1?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-dbExtension-archetype@4.8.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-dbExtension-archetype@4.9.0?classifier=sources

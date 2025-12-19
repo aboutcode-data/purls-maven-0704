@@ -16,3 +16,5 @@
 - pkg:maven/me.legrange/yaml-config@2.3.0?classifier=sources
 - pkg:maven/me.legrange/yaml-config@3.0.0
 - pkg:maven/me.legrange/yaml-config@3.0.0?classifier=sources
+- pkg:maven/me.legrange/yaml-config@3.0.1
+- pkg:maven/me.legrange/yaml-config@3.0.1?classifier=sources

@@ -5,6 +5,9 @@
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-server-connection@8.13.1.60852?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-server-connection@8.14.0.63103?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-server-connection@8.15.0.65216?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-server-connection@8.16.0.67686?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-server-connection@8.17.0.70351?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-server-connection@8.18.0.70939?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-server-connection@8.7.0.52152?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-server-connection@8.8.0.53224?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-server-connection@8.8.1.54103?classifier=sources

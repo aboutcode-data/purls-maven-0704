@@ -1,1 +1,3 @@
 - pkg:maven/pl.mareklangiewicz/upue-linuxx64@0.0.10?classifier=sources
+- pkg:maven/pl.mareklangiewicz/upue-linuxx64@0.0.11?classifier=sources
+- pkg:maven/pl.mareklangiewicz/upue-linuxx64@0.0.12?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/io.accur8/a8-sync-api_3@1.0.0-20230221_2041_master?classifier=sources
 - pkg:maven/io.accur8/a8-sync-api_3@1.0.0-20230303_1357_master
 - pkg:maven/io.accur8/a8-sync-api_3@1.0.0-20230303_1357_master?classifier=sources
+- pkg:maven/io.accur8/a8-sync-api_3@1.0.0-20230419_2025_master
+- pkg:maven/io.accur8/a8-sync-api_3@1.0.0-20230419_2025_master?classifier=sources

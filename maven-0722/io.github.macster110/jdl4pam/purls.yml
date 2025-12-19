@@ -4,3 +4,5 @@
 - pkg:maven/io.github.macster110/jdl4pam@0.0.93?classifier=sources
 - pkg:maven/io.github.macster110/jdl4pam@0.0.94
 - pkg:maven/io.github.macster110/jdl4pam@0.0.94?classifier=sources
+- pkg:maven/io.github.macster110/jdl4pam@0.0.96
+- pkg:maven/io.github.macster110/jdl4pam@0.0.96?classifier=sources

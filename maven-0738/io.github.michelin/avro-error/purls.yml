@@ -1,0 +1,4 @@
+- pkg:maven/io.github.michelin/avro-error@1.0.0-beta
+- pkg:maven/io.github.michelin/avro-error@1.0.0-beta?classifier=sources
+- pkg:maven/io.github.michelin/avro-error@2.0.0-beta
+- pkg:maven/io.github.michelin/avro-error@2.0.0-beta?classifier=sources

@@ -47,6 +47,8 @@
 - pkg:maven/com.uwyn.rife2/rife2@1.5.19?classifier=sources
 - pkg:maven/com.uwyn.rife2/rife2@1.5.1?classifier=sources
 - pkg:maven/com.uwyn.rife2/rife2@1.5.20?classifier=sources
+- pkg:maven/com.uwyn.rife2/rife2@1.5.21?classifier=sources
+- pkg:maven/com.uwyn.rife2/rife2@1.5.22?classifier=sources
 - pkg:maven/com.uwyn.rife2/rife2@1.5.2?classifier=sources
 - pkg:maven/com.uwyn.rife2/rife2@1.5.3?classifier=sources
 - pkg:maven/com.uwyn.rife2/rife2@1.5.4?classifier=sources
@@ -55,3 +57,7 @@
 - pkg:maven/com.uwyn.rife2/rife2@1.5.7?classifier=sources
 - pkg:maven/com.uwyn.rife2/rife2@1.5.8?classifier=sources
 - pkg:maven/com.uwyn.rife2/rife2@1.5.9?classifier=sources
+- pkg:maven/com.uwyn.rife2/rife2@1.6.0?classifier=sources
+- pkg:maven/com.uwyn.rife2/rife2@1.6.1?classifier=sources
+- pkg:maven/com.uwyn.rife2/rife2@1.6.2?classifier=sources
+- pkg:maven/com.uwyn.rife2/rife2@1.6.3?classifier=sources

@@ -12,6 +12,8 @@
 - pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@1.2.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@1.2.1
 - pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@1.2.1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@14.10.0
+- pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@14.10.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@14.5.0
 - pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@14.5.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@14.5.1
@@ -120,6 +122,8 @@
 - pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@14.9.6?classifier=sources
 - pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@14.9.7
 - pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@14.9.7?classifier=sources
+- pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@14.9.8
+- pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@14.9.8?classifier=sources
 - pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@18.0.0
 - pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@18.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@18.0.1
@@ -387,6 +391,8 @@
 - pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@23.3.10?classifier=sources
 - pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@23.3.11
 - pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@23.3.11?classifier=sources
+- pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@23.3.12
+- pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@23.3.12?classifier=sources
 - pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@23.3.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@23.3.2
 - pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@23.3.2?classifier=sources
@@ -414,6 +420,8 @@
 - pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@24.0.3?classifier=sources
 - pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@24.0.4
 - pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@24.0.4?classifier=sources
+- pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@24.0.5
+- pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@24.0.5?classifier=sources
 - pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@3.0.0
 - pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@3.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-confirm-dialog-testbench@3.1.0

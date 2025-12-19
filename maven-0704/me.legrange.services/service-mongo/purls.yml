@@ -84,3 +84,5 @@
 - pkg:maven/me.legrange.services/service-mongo@3.8.1?classifier=sources
 - pkg:maven/me.legrange.services/service-mongo@3.9.0
 - pkg:maven/me.legrange.services/service-mongo@3.9.0?classifier=sources
+- pkg:maven/me.legrange.services/service-mongo@4.0.0
+- pkg:maven/me.legrange.services/service-mongo@4.0.0?classifier=sources

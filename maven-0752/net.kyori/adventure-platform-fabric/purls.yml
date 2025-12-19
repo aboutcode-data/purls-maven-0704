@@ -9,6 +9,7 @@
 - pkg:maven/net.kyori/adventure-platform-fabric@5.4.0?classifier=sources
 - pkg:maven/net.kyori/adventure-platform-fabric@5.5.0?classifier=sources
 - pkg:maven/net.kyori/adventure-platform-fabric@5.5.1?classifier=sources
+- pkg:maven/net.kyori/adventure-platform-fabric@5.5.2?classifier=sources
 - pkg:maven/net.kyori/adventure-platform-fabric@5.6.0?classifier=sources
 - pkg:maven/net.kyori/adventure-platform-fabric@5.6.1?classifier=sources
 - pkg:maven/net.kyori/adventure-platform-fabric@5.7.0?classifier=sources

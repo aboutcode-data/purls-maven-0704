@@ -1136,6 +1136,12 @@
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@4.0.72
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@4.0.72?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@4.0.72?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.knowledge.base.web@4.0.73
+- pkg:maven/com.liferay/com.liferay.knowledge.base.web@4.0.73?classifier=sources
+- pkg:maven/com.liferay/com.liferay.knowledge.base.web@4.0.73?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.knowledge.base.web@4.0.74
+- pkg:maven/com.liferay/com.liferay.knowledge.base.web@4.0.74?classifier=sources
+- pkg:maven/com.liferay/com.liferay.knowledge.base.web@4.0.74?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@4.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@4.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@4.0.8
@@ -1418,5 +1424,14 @@
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@5.0.91
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@5.0.91?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@5.0.91?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.knowledge.base.web@5.0.92
+- pkg:maven/com.liferay/com.liferay.knowledge.base.web@5.0.92?classifier=sources
+- pkg:maven/com.liferay/com.liferay.knowledge.base.web@5.0.92?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.knowledge.base.web@5.0.93
+- pkg:maven/com.liferay/com.liferay.knowledge.base.web@5.0.93?classifier=sources
+- pkg:maven/com.liferay/com.liferay.knowledge.base.web@5.0.93?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.knowledge.base.web@5.0.94
+- pkg:maven/com.liferay/com.liferay.knowledge.base.web@5.0.94?classifier=sources
+- pkg:maven/com.liferay/com.liferay.knowledge.base.web@5.0.94?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@5.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@5.0.9?classifier=sources-commercial

@@ -124,6 +124,12 @@
 - pkg:maven/it.unibo.alchemist/alchemist-ui-tooling@25.15.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-ui-tooling@25.15.1?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-ui-tooling@25.15.2?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-ui-tooling@25.15.3?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-ui-tooling@25.15.4?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-ui-tooling@25.15.5?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-ui-tooling@25.16.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-ui-tooling@25.16.1?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-ui-tooling@25.16.2?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-ui-tooling@25.2.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-ui-tooling@25.2.1?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-ui-tooling@25.3.0?classifier=sources
@@ -140,6 +146,11 @@
 - pkg:maven/it.unibo.alchemist/alchemist-ui-tooling@25.9.1?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-ui-tooling@25.9.2?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-ui-tooling@25.9.3?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-ui-tooling@26.0.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-ui-tooling@26.0.1?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-ui-tooling@26.0.2?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-ui-tooling@26.0.3?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-ui-tooling@26.0.4?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-ui-tooling@9.3.0-dev1z1%2B0f186c167?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-ui-tooling@9.3.0-dev1z1%2B6808faab9?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-ui-tooling@9.3.0-dev1z1%2B782c1887e?classifier=sources

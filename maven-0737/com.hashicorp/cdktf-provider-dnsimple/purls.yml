@@ -178,3 +178,7 @@
 - pkg:maven/com.hashicorp/cdktf-provider-dnsimple@3.0.3?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-dnsimple@4.0.0
 - pkg:maven/com.hashicorp/cdktf-provider-dnsimple@4.0.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-dnsimple@5.0.0
+- pkg:maven/com.hashicorp/cdktf-provider-dnsimple@5.0.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-dnsimple@5.0.1
+- pkg:maven/com.hashicorp/cdktf-provider-dnsimple@5.0.1?classifier=sources

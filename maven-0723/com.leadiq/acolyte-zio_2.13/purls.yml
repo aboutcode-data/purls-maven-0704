@@ -9,7 +9,11 @@
 - pkg:maven/com.leadiq/acolyte-zio_2.13@1.0.0-RC3%2B64-94cc06b6?classifier=sources
 - pkg:maven/com.leadiq/acolyte-zio_2.13@1.0.0-RC3?classifier=sources
 - pkg:maven/com.leadiq/acolyte-zio_2.13@1.0.0-RC4
+- pkg:maven/com.leadiq/acolyte-zio_2.13@1.0.0-RC4%2B2-d4dfa758
+- pkg:maven/com.leadiq/acolyte-zio_2.13@1.0.0-RC4%2B2-d4dfa758?classifier=sources
 - pkg:maven/com.leadiq/acolyte-zio_2.13@1.0.0-RC4?classifier=sources
+- pkg:maven/com.leadiq/acolyte-zio_2.13@1.0.0-RC5
+- pkg:maven/com.leadiq/acolyte-zio_2.13@1.0.0-RC5?classifier=sources
 - pkg:maven/com.leadiq/acolyte-zio_2.13@2.0.0-RC1-1
 - pkg:maven/com.leadiq/acolyte-zio_2.13@2.0.0-RC1-1?classifier=sources
 - pkg:maven/com.leadiq/acolyte-zio_2.13@2.0.0-RC2
@@ -20,3 +24,5 @@
 - pkg:maven/com.leadiq/acolyte-zio_2.13@2.0.0-RC4?classifier=sources
 - pkg:maven/com.leadiq/acolyte-zio_2.13@2.0.0-RC5
 - pkg:maven/com.leadiq/acolyte-zio_2.13@2.0.0-RC5?classifier=sources
+- pkg:maven/com.leadiq/acolyte-zio_2.13@2.0.0-RC6
+- pkg:maven/com.leadiq/acolyte-zio_2.13@2.0.0-RC6?classifier=sources

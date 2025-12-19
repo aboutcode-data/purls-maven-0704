@@ -17,4 +17,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-testng-maven@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-testng-maven@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-testng-maven@RELEASE170?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-testng-maven@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-testng-maven@RELEASE90?classifier=sources

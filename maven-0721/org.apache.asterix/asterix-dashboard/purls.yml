@@ -5,3 +5,4 @@
 - pkg:maven/org.apache.asterix/asterix-dashboard@0.9.7
 - pkg:maven/org.apache.asterix/asterix-dashboard@0.9.7.1
 - pkg:maven/org.apache.asterix/asterix-dashboard@0.9.8
+- pkg:maven/org.apache.asterix/asterix-dashboard@0.9.8.1

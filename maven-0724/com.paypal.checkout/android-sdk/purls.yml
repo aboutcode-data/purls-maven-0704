@@ -1,5 +1,6 @@
 - pkg:maven/com.paypal.checkout/android-sdk@0.1.0?classifier=sources
 - pkg:maven/com.paypal.checkout/android-sdk@0.1.0?type=aar
+- pkg:maven/com.paypal.checkout/android-sdk@0.112.0?classifier=sources
 - pkg:maven/com.paypal.checkout/android-sdk@0.2.0?classifier=sources
 - pkg:maven/com.paypal.checkout/android-sdk@0.2.0?type=aar
 - pkg:maven/com.paypal.checkout/android-sdk@0.3.0?classifier=sources
@@ -28,6 +29,7 @@
 - pkg:maven/com.paypal.checkout/android-sdk@0.7.2?classifier=sources
 - pkg:maven/com.paypal.checkout/android-sdk@0.7.3?classifier=sources
 - pkg:maven/com.paypal.checkout/android-sdk@0.8.0?classifier=sources
+- pkg:maven/com.paypal.checkout/android-sdk@0.8.14?classifier=sources
 - pkg:maven/com.paypal.checkout/android-sdk@0.8.1?classifier=sources
 - pkg:maven/com.paypal.checkout/android-sdk@0.8.2?classifier=sources
 - pkg:maven/com.paypal.checkout/android-sdk@0.8.3?classifier=sources

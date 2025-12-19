@@ -20,3 +20,7 @@
 - pkg:maven/com.hashicorp/cdktf-provider-nomad@2.0.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-nomad@3.0.0
 - pkg:maven/com.hashicorp/cdktf-provider-nomad@3.0.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-nomad@4.0.0
+- pkg:maven/com.hashicorp/cdktf-provider-nomad@4.0.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-nomad@4.0.1
+- pkg:maven/com.hashicorp/cdktf-provider-nomad@4.0.1?classifier=sources

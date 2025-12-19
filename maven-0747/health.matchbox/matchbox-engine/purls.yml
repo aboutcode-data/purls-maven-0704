@@ -1,2 +1,4 @@
 - pkg:maven/health.matchbox/matchbox-engine@3.2.1
 - pkg:maven/health.matchbox/matchbox-engine@3.2.1?classifier=sources
+- pkg:maven/health.matchbox/matchbox-engine@3.2.2
+- pkg:maven/health.matchbox/matchbox-engine@3.2.2?classifier=sources
