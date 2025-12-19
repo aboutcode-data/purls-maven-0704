@@ -11,3 +11,4 @@
 - pkg:maven/tech.figure.objectstore.gateway/proto@3.2.0?classifier=sources
 - pkg:maven/tech.figure.objectstore.gateway/proto@3.2.1?classifier=sources
 - pkg:maven/tech.figure.objectstore.gateway/proto@3.3.0?classifier=sources
+- pkg:maven/tech.figure.objectstore.gateway/proto@3.3.1?classifier=sources

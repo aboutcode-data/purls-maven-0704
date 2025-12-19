@@ -15,3 +15,4 @@
 - pkg:maven/org.komapper/komapper-quarkus-jdbc-deployment@1.4.0?classifier=sources
 - pkg:maven/org.komapper/komapper-quarkus-jdbc-deployment@1.5.0?classifier=sources
 - pkg:maven/org.komapper/komapper-quarkus-jdbc-deployment@1.6.0?classifier=sources
+- pkg:maven/org.komapper/komapper-quarkus-jdbc-deployment@1.6.1?classifier=sources

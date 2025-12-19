@@ -1,0 +1,2 @@
+- pkg:maven/de.jensklingenberg.ktorfit/compiler-plugin@1.0.0-beta16?classifier=sources
+- pkg:maven/de.jensklingenberg.ktorfit/compiler-plugin@1.0.0-beta17?classifier=sources

@@ -10,3 +10,7 @@
 - pkg:maven/io.accur8/a8-codegen_2.13@0.1.0-20230102_1656_master?classifier=sources
 - pkg:maven/io.accur8/a8-codegen_2.13@0.1.0-20230102_1848_master
 - pkg:maven/io.accur8/a8-codegen_2.13@0.1.0-20230102_1848_master?classifier=sources
+- pkg:maven/io.accur8/a8-codegen_2.13@0.1.0-20230126_0731_master
+- pkg:maven/io.accur8/a8-codegen_2.13@0.1.0-20230126_0731_master?classifier=sources
+- pkg:maven/io.accur8/a8-codegen_2.13@0.1.0-20230203_0614_master
+- pkg:maven/io.accur8/a8-codegen_2.13@0.1.0-20230203_0614_master?classifier=sources

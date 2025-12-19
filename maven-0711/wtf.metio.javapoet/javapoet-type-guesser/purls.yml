@@ -10,5 +10,13 @@
 - pkg:maven/wtf.metio.javapoet/javapoet-type-guesser@2022.8.18?classifier=sources
 - pkg:maven/wtf.metio.javapoet/javapoet-type-guesser@2022.9.8
 - pkg:maven/wtf.metio.javapoet/javapoet-type-guesser@2022.9.8?classifier=sources
+- pkg:maven/wtf.metio.javapoet/javapoet-type-guesser@2023.1.12
+- pkg:maven/wtf.metio.javapoet/javapoet-type-guesser@2023.1.12?classifier=sources
+- pkg:maven/wtf.metio.javapoet/javapoet-type-guesser@2023.1.19
+- pkg:maven/wtf.metio.javapoet/javapoet-type-guesser@2023.1.19?classifier=sources
+- pkg:maven/wtf.metio.javapoet/javapoet-type-guesser@2023.1.26
+- pkg:maven/wtf.metio.javapoet/javapoet-type-guesser@2023.1.26?classifier=sources
 - pkg:maven/wtf.metio.javapoet/javapoet-type-guesser@2023.1.5
 - pkg:maven/wtf.metio.javapoet/javapoet-type-guesser@2023.1.5?classifier=sources
+- pkg:maven/wtf.metio.javapoet/javapoet-type-guesser@2023.2.9
+- pkg:maven/wtf.metio.javapoet/javapoet-type-guesser@2023.2.9?classifier=sources

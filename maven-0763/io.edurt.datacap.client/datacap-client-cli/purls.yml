@@ -1,0 +1,2 @@
+- pkg:maven/io.edurt.datacap.client/datacap-client-cli@1.4.0
+- pkg:maven/io.edurt.datacap.client/datacap-client-cli@1.4.0?classifier=sources

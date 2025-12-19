@@ -16,3 +16,4 @@
 - pkg:maven/org.apache.camel.kafkaconnector/itests-common-http@3.18.2?classifier=sources
 - pkg:maven/org.apache.camel.kafkaconnector/itests-common-http@3.19.0
 - pkg:maven/org.apache.camel.kafkaconnector/itests-common-http@3.19.0?classifier=sources
+- pkg:maven/org.apache.camel.kafkaconnector/itests-common-http@3.20.0?classifier=sources

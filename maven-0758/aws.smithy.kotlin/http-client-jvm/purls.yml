@@ -1,0 +1,1 @@
+- pkg:maven/aws.smithy.kotlin/http-client-jvm@0.15.2?classifier=sources

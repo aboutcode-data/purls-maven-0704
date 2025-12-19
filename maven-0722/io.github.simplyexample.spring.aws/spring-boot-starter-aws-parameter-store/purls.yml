@@ -1,0 +1,2 @@
+- pkg:maven/io.github.simplyexample.spring.aws/spring-boot-starter-aws-parameter-store@1.0.0
+- pkg:maven/io.github.simplyexample.spring.aws/spring-boot-starter-aws-parameter-store@1.0.0?classifier=sources

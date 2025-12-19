@@ -186,3 +186,5 @@
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.dbws@4.0.0-RC2
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.dbws@4.0.0-RC2?classifier=sources
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.dbws@4.0.0?classifier=sources
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.dbws@4.0.1-RC1
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.dbws@4.0.1-RC1?classifier=sources

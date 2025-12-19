@@ -1,2 +1,4 @@
 - pkg:maven/software.amazon.awscdk/cdk-asset-awscli-v2@0.0.0
 - pkg:maven/software.amazon.awscdk/cdk-asset-awscli-v2@0.0.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-asset-awscli-v2@0.0.1
+- pkg:maven/software.amazon.awscdk/cdk-asset-awscli-v2@0.0.1?classifier=sources

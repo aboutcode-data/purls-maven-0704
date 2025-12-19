@@ -12,3 +12,5 @@
 - pkg:maven/com.github.dabasan/jxm-mif@1.0.0?classifier=sources
 - pkg:maven/com.github.dabasan/jxm-mif@1.0.2
 - pkg:maven/com.github.dabasan/jxm-mif@1.0.2?classifier=sources
+- pkg:maven/com.github.dabasan/jxm-mif@1.0.3
+- pkg:maven/com.github.dabasan/jxm-mif@1.0.3?classifier=sources

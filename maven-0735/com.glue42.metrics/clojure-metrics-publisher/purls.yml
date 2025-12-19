@@ -1,0 +1,2 @@
+- pkg:maven/com.glue42.metrics/clojure-metrics-publisher@0.0.6
+- pkg:maven/com.glue42.metrics/clojure-metrics-publisher@0.0.6?classifier=sources

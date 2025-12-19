@@ -34,3 +34,4 @@
 - pkg:maven/com.marklogic/marklogic-client-api@5.5.3?classifier=sources
 - pkg:maven/com.marklogic/marklogic-client-api@5.5.4?classifier=sources
 - pkg:maven/com.marklogic/marklogic-client-api@6.0.0?classifier=sources
+- pkg:maven/com.marklogic/marklogic-client-api@6.1.0?classifier=sources

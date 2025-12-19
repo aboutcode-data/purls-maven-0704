@@ -2,3 +2,4 @@
 - pkg:maven/org.astarte-platform/devicesdk-android@1.0.0.alpha2?type=aar
 - pkg:maven/org.astarte-platform/devicesdk-android@1.0.0.alpha?classifier=sources
 - pkg:maven/org.astarte-platform/devicesdk-android@1.0.0.alpha?type=aar
+- pkg:maven/org.astarte-platform/devicesdk-android@1.1.0?classifier=sources

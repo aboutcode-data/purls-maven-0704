@@ -8,3 +8,4 @@
 - pkg:maven/org.xmlobjects.gml/gml-objects@1.0.0-rc.5?classifier=sources
 - pkg:maven/org.xmlobjects.gml/gml-objects@1.0.0?classifier=sources
 - pkg:maven/org.xmlobjects.gml/gml-objects@1.0.1?classifier=sources
+- pkg:maven/org.xmlobjects.gml/gml-objects@1.0.2?classifier=sources

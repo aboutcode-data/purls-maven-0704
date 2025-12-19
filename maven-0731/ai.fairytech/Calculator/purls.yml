@@ -1,0 +1,2 @@
+- pkg:maven/ai.fairytech/Calculator@0.1?classifier=sources
+- pkg:maven/ai.fairytech/Calculator@0.2?classifier=sources

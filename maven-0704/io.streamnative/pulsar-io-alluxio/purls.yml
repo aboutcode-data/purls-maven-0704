@@ -1,0 +1,2 @@
+- pkg:maven/io.streamnative/pulsar-io-alluxio@master-rc-daily
+- pkg:maven/io.streamnative/pulsar-io-alluxio@master-rc-daily?classifier=sources

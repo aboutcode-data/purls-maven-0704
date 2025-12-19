@@ -14,8 +14,11 @@
 - pkg:maven/org.wso2.msf4j/org.wso2.msf4j.feature@2.7.0?classifier=sources
 - pkg:maven/org.wso2.msf4j/org.wso2.msf4j.feature@2.7.7?classifier=sources
 - pkg:maven/org.wso2.msf4j/org.wso2.msf4j.feature@2.7.8?classifier=sources
+- pkg:maven/org.wso2.msf4j/org.wso2.msf4j.feature@2.8.10?classifier=sources
+- pkg:maven/org.wso2.msf4j/org.wso2.msf4j.feature@2.8.11?classifier=sources
 - pkg:maven/org.wso2.msf4j/org.wso2.msf4j.feature@2.8.2?classifier=sources
 - pkg:maven/org.wso2.msf4j/org.wso2.msf4j.feature@2.8.3?classifier=sources
 - pkg:maven/org.wso2.msf4j/org.wso2.msf4j.feature@2.8.4?classifier=sources
 - pkg:maven/org.wso2.msf4j/org.wso2.msf4j.feature@2.8.6?classifier=sources
 - pkg:maven/org.wso2.msf4j/org.wso2.msf4j.feature@2.8.7?classifier=sources
+- pkg:maven/org.wso2.msf4j/org.wso2.msf4j.feature@2.8.8?classifier=sources

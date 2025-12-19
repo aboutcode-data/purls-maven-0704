@@ -2,3 +2,5 @@
 - pkg:maven/org.jamgo/jamgo-app@5.0.0?classifier=sources
 - pkg:maven/org.jamgo/jamgo-app@6.0.0
 - pkg:maven/org.jamgo/jamgo-app@6.0.0?classifier=sources
+- pkg:maven/org.jamgo/jamgo-app@7.0.0-M1
+- pkg:maven/org.jamgo/jamgo-app@7.0.0-M1?classifier=sources

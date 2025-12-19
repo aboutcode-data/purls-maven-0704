@@ -134,3 +134,5 @@
 - pkg:maven/com.gitee.qdbp/qdbp-jdbc-core@4.1.8?classifier=sources
 - pkg:maven/com.gitee.qdbp/qdbp-jdbc-core@4.1.9
 - pkg:maven/com.gitee.qdbp/qdbp-jdbc-core@4.1.9?classifier=sources
+- pkg:maven/com.gitee.qdbp/qdbp-jdbc-core@4.2.0
+- pkg:maven/com.gitee.qdbp/qdbp-jdbc-core@4.2.0?classifier=sources

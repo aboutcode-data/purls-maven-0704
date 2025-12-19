@@ -166,3 +166,4 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-group-all@6.3.9
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-group-all@7.0.0
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-group-all@7.1.0
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-group-all@7.1.1

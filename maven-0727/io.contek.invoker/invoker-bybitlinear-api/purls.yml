@@ -35,3 +35,4 @@
 - pkg:maven/io.contek.invoker/invoker-bybitlinear-api@3.6.4?classifier=sources
 - pkg:maven/io.contek.invoker/invoker-bybitlinear-api@3.6.5?classifier=sources
 - pkg:maven/io.contek.invoker/invoker-bybitlinear-api@3.6.7?classifier=sources
+- pkg:maven/io.contek.invoker/invoker-bybitlinear-api@3.6.8?classifier=sources

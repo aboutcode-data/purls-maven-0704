@@ -1,0 +1,2 @@
+- pkg:maven/io.github.ollls/zio-quartz-h2_3@0.2.1
+- pkg:maven/io.github.ollls/zio-quartz-h2_3@0.2.1?classifier=sources

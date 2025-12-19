@@ -219,6 +219,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.solr@2.0.81
 - pkg:maven/com.liferay/com.liferay.portal.search.solr@2.0.81?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.solr@2.0.81?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.solr@2.0.82
+- pkg:maven/com.liferay/com.liferay.portal.search.solr@2.0.82?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.solr@2.0.82?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.solr@2.0.83
 - pkg:maven/com.liferay/com.liferay.portal.search.solr@2.0.83?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.solr@2.0.83?classifier=sources-commercial

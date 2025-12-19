@@ -166,3 +166,5 @@
 - pkg:maven/com.github.atool/fluent-mybatis@1.9.7?classifier=sources
 - pkg:maven/com.github.atool/fluent-mybatis@1.9.8
 - pkg:maven/com.github.atool/fluent-mybatis@1.9.8?classifier=sources
+- pkg:maven/com.github.atool/fluent-mybatis@1.9.9
+- pkg:maven/com.github.atool/fluent-mybatis@1.9.9?classifier=sources

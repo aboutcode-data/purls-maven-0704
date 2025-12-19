@@ -1,0 +1,2 @@
+- pkg:maven/network.mysterium/provider-node@1.19.8-rc2?classifier=sources
+- pkg:maven/network.mysterium/provider-node@1.19.8-rc2?type=aar

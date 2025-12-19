@@ -1,0 +1,4 @@
+- pkg:maven/xyz.funnone/cache4j-spring-boot-starter@2.3.9.RELEASE
+- pkg:maven/xyz.funnone/cache4j-spring-boot-starter@2.3.9.RELEASE?classifier=sources
+- pkg:maven/xyz.funnone/cache4j-spring-boot-starter@2.7.8
+- pkg:maven/xyz.funnone/cache4j-spring-boot-starter@2.7.8?classifier=sources

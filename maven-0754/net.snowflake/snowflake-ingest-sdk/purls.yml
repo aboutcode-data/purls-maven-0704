@@ -66,3 +66,5 @@
 - pkg:maven/net.snowflake/snowflake-ingest-sdk@1.0.2-beta.7
 - pkg:maven/net.snowflake/snowflake-ingest-sdk@1.0.2-beta.7?classifier=sources
 - pkg:maven/net.snowflake/snowflake-ingest-sdk@1.0.2-beta?classifier=sources
+- pkg:maven/net.snowflake/snowflake-ingest-sdk@1.0.3-beta
+- pkg:maven/net.snowflake/snowflake-ingest-sdk@1.0.3-beta?classifier=sources

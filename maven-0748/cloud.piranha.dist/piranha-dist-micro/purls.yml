@@ -1,2 +1,4 @@
 - pkg:maven/cloud.piranha.dist/piranha-dist-micro@22.12.0
 - pkg:maven/cloud.piranha.dist/piranha-dist-micro@22.12.0?classifier=sources
+- pkg:maven/cloud.piranha.dist/piranha-dist-micro@23.1.0
+- pkg:maven/cloud.piranha.dist/piranha-dist-micro@23.1.0?classifier=sources

@@ -16,5 +16,9 @@
 - pkg:maven/org.springframework.amqp/spring-rabbit-stream@2.4.7?classifier=sources
 - pkg:maven/org.springframework.amqp/spring-rabbit-stream@2.4.8
 - pkg:maven/org.springframework.amqp/spring-rabbit-stream@2.4.8?classifier=sources
+- pkg:maven/org.springframework.amqp/spring-rabbit-stream@2.4.9
+- pkg:maven/org.springframework.amqp/spring-rabbit-stream@2.4.9?classifier=sources
 - pkg:maven/org.springframework.amqp/spring-rabbit-stream@3.0.0
 - pkg:maven/org.springframework.amqp/spring-rabbit-stream@3.0.0?classifier=sources
+- pkg:maven/org.springframework.amqp/spring-rabbit-stream@3.0.1
+- pkg:maven/org.springframework.amqp/spring-rabbit-stream@3.0.1?classifier=sources

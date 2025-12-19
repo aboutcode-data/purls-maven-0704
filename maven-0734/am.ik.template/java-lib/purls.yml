@@ -1,0 +1,2 @@
+- pkg:maven/am.ik.template/java-lib@0.1.0
+- pkg:maven/am.ik.template/java-lib@0.1.0?classifier=sources

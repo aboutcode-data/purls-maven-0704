@@ -66,3 +66,4 @@
 - pkg:maven/org.zalando/riptide-spring-boot-starter@3.2.0
 - pkg:maven/org.zalando/riptide-spring-boot-starter@3.2.1
 - pkg:maven/org.zalando/riptide-spring-boot-starter@3.2.2
+- pkg:maven/org.zalando/riptide-spring-boot-starter@3.3.0

@@ -31,3 +31,7 @@
 - pkg:maven/com.google.android.horologist/horologist-network-awareness@0.2.3?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-network-awareness@0.2.4?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-network-awareness@0.2.5?classifier=sources
+- pkg:maven/com.google.android.horologist/horologist-network-awareness@0.2.7?classifier=sources
+- pkg:maven/com.google.android.horologist/horologist-network-awareness@0.2.8?classifier=sources
+- pkg:maven/com.google.android.horologist/horologist-network-awareness@0.3.0?classifier=sources
+- pkg:maven/com.google.android.horologist/horologist-network-awareness@0.3.1?classifier=sources

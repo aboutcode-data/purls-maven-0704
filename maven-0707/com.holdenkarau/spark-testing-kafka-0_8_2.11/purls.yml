@@ -80,3 +80,7 @@
 - pkg:maven/com.holdenkarau/spark-testing-kafka-0_8_2.11@2.4.5_0.14.0?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-kafka-0_8_2.11@2.4.8_1.3.0
 - pkg:maven/com.holdenkarau/spark-testing-kafka-0_8_2.11@2.4.8_1.3.0?classifier=sources
+- pkg:maven/com.holdenkarau/spark-testing-kafka-0_8_2.11@2.4.8_1.3.4
+- pkg:maven/com.holdenkarau/spark-testing-kafka-0_8_2.11@2.4.8_1.3.4?classifier=sources
+- pkg:maven/com.holdenkarau/spark-testing-kafka-0_8_2.11@2.4.8_1.4.0
+- pkg:maven/com.holdenkarau/spark-testing-kafka-0_8_2.11@2.4.8_1.4.0?classifier=sources

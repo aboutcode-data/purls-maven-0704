@@ -90,3 +90,5 @@
 - pkg:maven/org.jasig.portlet.notification/notification-portlet-webapp@4.7.2?type=war
 - pkg:maven/org.jasig.portlet.notification/notification-portlet-webapp@4.7.3?classifier=sources
 - pkg:maven/org.jasig.portlet.notification/notification-portlet-webapp@4.7.3?type=war
+- pkg:maven/org.jasig.portlet.notification/notification-portlet-webapp@4.8.0?classifier=sources
+- pkg:maven/org.jasig.portlet.notification/notification-portlet-webapp@4.8.0?type=war

@@ -3,6 +3,8 @@
 - pkg:maven/edu.iu.uits.lms/lms-canvas-services@5.0.10?classifier=sources
 - pkg:maven/edu.iu.uits.lms/lms-canvas-services@5.0.11
 - pkg:maven/edu.iu.uits.lms/lms-canvas-services@5.0.11?classifier=sources
+- pkg:maven/edu.iu.uits.lms/lms-canvas-services@5.0.12
+- pkg:maven/edu.iu.uits.lms/lms-canvas-services@5.0.12?classifier=sources
 - pkg:maven/edu.iu.uits.lms/lms-canvas-services@5.0.1?classifier=sources
 - pkg:maven/edu.iu.uits.lms/lms-canvas-services@5.0.2
 - pkg:maven/edu.iu.uits.lms/lms-canvas-services@5.0.2?classifier=sources

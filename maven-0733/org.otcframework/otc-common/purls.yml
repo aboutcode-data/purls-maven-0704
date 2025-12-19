@@ -6,3 +6,5 @@
 - pkg:maven/org.otcframework/otc-common@2.3
 - pkg:maven/org.otcframework/otc-common@2.4
 - pkg:maven/org.otcframework/otc-common@2.5
+- pkg:maven/org.otcframework/otc-common@2.6
+- pkg:maven/org.otcframework/otc-common@2.6?classifier=sources

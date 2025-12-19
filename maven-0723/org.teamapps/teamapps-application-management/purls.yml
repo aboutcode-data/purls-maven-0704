@@ -124,6 +124,12 @@
 - pkg:maven/org.teamapps/teamapps-application-management@0.9.162?classifier=sources
 - pkg:maven/org.teamapps/teamapps-application-management@0.9.163
 - pkg:maven/org.teamapps/teamapps-application-management@0.9.163?classifier=sources
+- pkg:maven/org.teamapps/teamapps-application-management@0.9.166
+- pkg:maven/org.teamapps/teamapps-application-management@0.9.166?classifier=sources
+- pkg:maven/org.teamapps/teamapps-application-management@0.9.167
+- pkg:maven/org.teamapps/teamapps-application-management@0.9.167?classifier=sources
+- pkg:maven/org.teamapps/teamapps-application-management@0.9.168
+- pkg:maven/org.teamapps/teamapps-application-management@0.9.168?classifier=sources
 - pkg:maven/org.teamapps/teamapps-application-management@0.9.22
 - pkg:maven/org.teamapps/teamapps-application-management@0.9.22?classifier=sources
 - pkg:maven/org.teamapps/teamapps-application-management@0.9.23

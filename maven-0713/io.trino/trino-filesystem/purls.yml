@@ -22,3 +22,5 @@
 - pkg:maven/io.trino/trino-filesystem@403?classifier=sources
 - pkg:maven/io.trino/trino-filesystem@405
 - pkg:maven/io.trino/trino-filesystem@405?classifier=sources
+- pkg:maven/io.trino/trino-filesystem@406
+- pkg:maven/io.trino/trino-filesystem@406?classifier=sources

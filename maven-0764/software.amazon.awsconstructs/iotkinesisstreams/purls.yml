@@ -180,6 +180,10 @@
 - pkg:maven/software.amazon.awsconstructs/iotkinesisstreams@2.3.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/iotkinesisstreams@2.30.0
 - pkg:maven/software.amazon.awsconstructs/iotkinesisstreams@2.30.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/iotkinesisstreams@2.31.0
+- pkg:maven/software.amazon.awsconstructs/iotkinesisstreams@2.31.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/iotkinesisstreams@2.32.0
+- pkg:maven/software.amazon.awsconstructs/iotkinesisstreams@2.32.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/iotkinesisstreams@2.4.0
 - pkg:maven/software.amazon.awsconstructs/iotkinesisstreams@2.4.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/iotkinesisstreams@2.5.0

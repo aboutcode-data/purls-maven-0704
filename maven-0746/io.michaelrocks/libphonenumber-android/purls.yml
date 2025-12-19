@@ -37,3 +37,4 @@
 - pkg:maven/io.michaelrocks/libphonenumber-android@8.13.2?classifier=sources
 - pkg:maven/io.michaelrocks/libphonenumber-android@8.13.3?classifier=sources
 - pkg:maven/io.michaelrocks/libphonenumber-android@8.13.4?classifier=sources
+- pkg:maven/io.michaelrocks/libphonenumber-android@8.13.5?classifier=sources

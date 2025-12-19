@@ -1,0 +1,2 @@
+- pkg:maven/io.github.redhat-appstudio.jvmbuild/hacbs-build-recipies-database@0.1
+- pkg:maven/io.github.redhat-appstudio.jvmbuild/hacbs-build-recipies-database@0.1?classifier=sources

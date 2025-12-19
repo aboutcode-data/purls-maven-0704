@@ -4,5 +4,7 @@
 - pkg:maven/org.orbisgis/postgis-jts-osgi@2.0.0?classifier=sources
 - pkg:maven/org.orbisgis/postgis-jts-osgi@2.1.0
 - pkg:maven/org.orbisgis/postgis-jts-osgi@2.1.0?classifier=sources
+- pkg:maven/org.orbisgis/postgis-jts-osgi@2.2.0
+- pkg:maven/org.orbisgis/postgis-jts-osgi@2.2.0?classifier=sources
 - pkg:maven/org.orbisgis/postgis-jts-osgi@5.0.1
 - pkg:maven/org.orbisgis/postgis-jts-osgi@5.0.1?classifier=sources

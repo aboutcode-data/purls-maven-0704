@@ -1,0 +1,2 @@
+- pkg:maven/one.microstream/microstream-integrations-spring-boot3@08.00.00-MS-EA2
+- pkg:maven/one.microstream/microstream-integrations-spring-boot3@08.00.00-MS-EA2?classifier=sources

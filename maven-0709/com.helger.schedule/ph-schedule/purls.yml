@@ -1,2 +1,4 @@
 - pkg:maven/com.helger.schedule/ph-schedule@4.2.0
 - pkg:maven/com.helger.schedule/ph-schedule@4.2.0?classifier=sources
+- pkg:maven/com.helger.schedule/ph-schedule@5.0.0
+- pkg:maven/com.helger.schedule/ph-schedule@5.0.0?classifier=sources

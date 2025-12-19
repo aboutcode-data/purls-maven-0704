@@ -1,1 +1,2 @@
 - pkg:maven/se.fnord/logtags@0.8?classifier=sources
+- pkg:maven/se.fnord/logtags@0.9?classifier=sources

@@ -4,3 +4,4 @@
 - pkg:maven/org.drools/drools-ruleunits-engine@8.31.0.Final
 - pkg:maven/org.drools/drools-ruleunits-engine@8.31.1.Final
 - pkg:maven/org.drools/drools-ruleunits-engine@8.32.0.Final
+- pkg:maven/org.drools/drools-ruleunits-engine@8.33.0.Final

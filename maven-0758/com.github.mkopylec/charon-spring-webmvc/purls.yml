@@ -14,3 +14,5 @@
 - pkg:maven/com.github.mkopylec/charon-spring-webmvc@4.7.0?classifier=sources
 - pkg:maven/com.github.mkopylec/charon-spring-webmvc@4.8.0?classifier=sources
 - pkg:maven/com.github.mkopylec/charon-spring-webmvc@4.9.0?classifier=sources
+- pkg:maven/com.github.mkopylec/charon-spring-webmvc@5.0.0?classifier=sources
+- pkg:maven/com.github.mkopylec/charon-spring-webmvc@5.1.0?classifier=sources

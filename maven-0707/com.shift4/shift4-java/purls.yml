@@ -1,1 +1,2 @@
 - pkg:maven/com.shift4/shift4-java@1.0.0?classifier=sources
+- pkg:maven/com.shift4/shift4-java@1.1.0?classifier=sources

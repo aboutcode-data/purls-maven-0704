@@ -2,3 +2,5 @@
 - pkg:maven/io.github.sevdokimov.logviewer/log-viewer-cli@1.0.1?type=zip
 - pkg:maven/io.github.sevdokimov.logviewer/log-viewer-cli@1.0.3?classifier=sources
 - pkg:maven/io.github.sevdokimov.logviewer/log-viewer-cli@1.0.3?type=zip
+- pkg:maven/io.github.sevdokimov.logviewer/log-viewer-cli@1.0.4?classifier=sources
+- pkg:maven/io.github.sevdokimov.logviewer/log-viewer-cli@1.0.4?type=zip

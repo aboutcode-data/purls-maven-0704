@@ -1,0 +1,1 @@
+- pkg:maven/org.komamitsu/spring-data-sqlite@1.0.0?classifier=sources

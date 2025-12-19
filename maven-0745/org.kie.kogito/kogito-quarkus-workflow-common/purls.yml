@@ -1,0 +1,2 @@
+- pkg:maven/org.kie.kogito/kogito-quarkus-workflow-common@1.33.0.Final
+- pkg:maven/org.kie.kogito/kogito-quarkus-workflow-common@1.33.0.Final?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.pivotal/pivotal-cloudfoundry-client-reactor@2.2.0.RELEASE
+- pkg:maven/io.pivotal/pivotal-cloudfoundry-client-reactor@2.2.0.RELEASE?classifier=sources

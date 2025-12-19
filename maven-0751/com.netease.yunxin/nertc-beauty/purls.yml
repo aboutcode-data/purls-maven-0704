@@ -2,6 +2,9 @@
 - pkg:maven/com.netease.yunxin/nertc-beauty@4.2.157?type=aar
 - pkg:maven/com.netease.yunxin/nertc-beauty@4.2.158?type=aar
 - pkg:maven/com.netease.yunxin/nertc-beauty@4.2.163?type=aar
+- pkg:maven/com.netease.yunxin/nertc-beauty@4.2.164?type=aar
+- pkg:maven/com.netease.yunxin/nertc-beauty@4.2.165?type=aar
+- pkg:maven/com.netease.yunxin/nertc-beauty@4.6.164?type=aar
 - pkg:maven/com.netease.yunxin/nertc-beauty@4.6.203?type=aar
 - pkg:maven/com.netease.yunxin/nertc-beauty@4.6.20?type=aar
 - pkg:maven/com.netease.yunxin/nertc-beauty@4.6.21?type=aar
@@ -9,3 +12,6 @@
 - pkg:maven/com.netease.yunxin/nertc-beauty@4.6.25?type=aar
 - pkg:maven/com.netease.yunxin/nertc-beauty@4.6.28?type=aar
 - pkg:maven/com.netease.yunxin/nertc-beauty@4.6.29?type=aar
+- pkg:maven/com.netease.yunxin/nertc-beauty@4.6.40?type=aar
+- pkg:maven/com.netease.yunxin/nertc-beauty@4.6.41?type=aar
+- pkg:maven/com.netease.yunxin/nertc-beauty@4.6.42?type=aar

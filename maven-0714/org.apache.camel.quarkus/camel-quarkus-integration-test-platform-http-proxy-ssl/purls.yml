@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-platform-http-proxy-ssl@2.13.2
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-platform-http-proxy-ssl@2.13.2?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-platform-http-proxy-ssl@2.16.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-platform-http-proxy-ssl@2.16.0?classifier=sources

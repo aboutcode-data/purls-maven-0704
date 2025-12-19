@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.pulsar/pulsar-client-reactive-api@0.1.0?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-client-reactive-api@0.2.0?classifier=sources

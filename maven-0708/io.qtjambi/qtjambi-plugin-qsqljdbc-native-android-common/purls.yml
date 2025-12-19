@@ -1,10 +1,12 @@
 - pkg:maven/io.qtjambi/qtjambi-plugin-qsqljdbc-native-android-common@5.15.10?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-plugin-qsqljdbc-native-android-common@5.15.11?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-plugin-qsqljdbc-native-android-common@5.15.12?classifier=sources
+- pkg:maven/io.qtjambi/qtjambi-plugin-qsqljdbc-native-android-common@5.15.13?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-plugin-qsqljdbc-native-android-common@5.15.7?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-plugin-qsqljdbc-native-android-common@5.15.8?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-plugin-qsqljdbc-native-android-common@5.15.9?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-plugin-qsqljdbc-native-android-common@6.2.10?classifier=sources
+- pkg:maven/io.qtjambi/qtjambi-plugin-qsqljdbc-native-android-common@6.2.11?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-plugin-qsqljdbc-native-android-common@6.2.5?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-plugin-qsqljdbc-native-android-common@6.2.6?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-plugin-qsqljdbc-native-android-common@6.2.7?classifier=sources
@@ -17,3 +19,4 @@
 - pkg:maven/io.qtjambi/qtjambi-plugin-qsqljdbc-native-android-common@6.4.0?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-plugin-qsqljdbc-native-android-common@6.4.1?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-plugin-qsqljdbc-native-android-common@6.4.2?classifier=sources
+- pkg:maven/io.qtjambi/qtjambi-plugin-qsqljdbc-native-android-common@6.4.3?classifier=sources

@@ -272,3 +272,5 @@
 - pkg:maven/io.nosqlbench/nb-api@4.17.31?classifier=sources
 - pkg:maven/io.nosqlbench/nb-api@4.17.32
 - pkg:maven/io.nosqlbench/nb-api@4.17.32?classifier=sources
+- pkg:maven/io.nosqlbench/nb-api@5.17.0
+- pkg:maven/io.nosqlbench/nb-api@5.17.0?classifier=sources

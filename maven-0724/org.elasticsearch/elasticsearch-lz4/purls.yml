@@ -24,6 +24,8 @@
 - pkg:maven/org.elasticsearch/elasticsearch-lz4@7.17.7?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-lz4@7.17.8
 - pkg:maven/org.elasticsearch/elasticsearch-lz4@7.17.8?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-lz4@7.17.9
+- pkg:maven/org.elasticsearch/elasticsearch-lz4@7.17.9?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-lz4@8.0.0
 - pkg:maven/org.elasticsearch/elasticsearch-lz4@8.0.0-beta1
 - pkg:maven/org.elasticsearch/elasticsearch-lz4@8.0.0-beta1?classifier=sources
@@ -74,3 +76,7 @@
 - pkg:maven/org.elasticsearch/elasticsearch-lz4@8.5.2?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-lz4@8.5.3
 - pkg:maven/org.elasticsearch/elasticsearch-lz4@8.5.3?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-lz4@8.6.0
+- pkg:maven/org.elasticsearch/elasticsearch-lz4@8.6.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-lz4@8.6.1
+- pkg:maven/org.elasticsearch/elasticsearch-lz4@8.6.1?classifier=sources

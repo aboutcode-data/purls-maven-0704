@@ -32,3 +32,5 @@
 - pkg:maven/com.bloomberg/selekt-android@0.16.2?classifier=sources
 - pkg:maven/com.bloomberg/selekt-android@0.16.3?classifier=sources
 - pkg:maven/com.bloomberg/selekt-android@0.16.4?classifier=sources
+- pkg:maven/com.bloomberg/selekt-android@0.17.0?classifier=sources
+- pkg:maven/com.bloomberg/selekt-android@0.17.1?classifier=sources

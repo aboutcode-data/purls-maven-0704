@@ -610,3 +610,9 @@
 - pkg:maven/net.openhft/chronicle-network@2.24ea2?classifier=sources
 - pkg:maven/net.openhft/chronicle-network@2.24ea3
 - pkg:maven/net.openhft/chronicle-network@2.24ea3?classifier=sources
+- pkg:maven/net.openhft/chronicle-network@2.24ea4
+- pkg:maven/net.openhft/chronicle-network@2.24ea4?classifier=sources
+- pkg:maven/net.openhft/chronicle-network@2.24ea5
+- pkg:maven/net.openhft/chronicle-network@2.24ea5?classifier=sources
+- pkg:maven/net.openhft/chronicle-network@2.24ea6
+- pkg:maven/net.openhft/chronicle-network@2.24ea6?classifier=sources

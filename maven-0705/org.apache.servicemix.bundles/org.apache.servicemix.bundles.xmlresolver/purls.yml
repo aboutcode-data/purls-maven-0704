@@ -4,3 +4,7 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xmlresolver@1.2_4
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xmlresolver@1.2_5
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xmlresolver@1.2_5?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xmlresolver@4.4.3_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xmlresolver@4.4.3_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xmlresolver@4.4.3_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xmlresolver@4.4.3_1?classifier=src&type=zip

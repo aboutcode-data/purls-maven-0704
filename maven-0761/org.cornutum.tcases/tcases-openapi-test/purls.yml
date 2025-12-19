@@ -14,3 +14,5 @@
 - pkg:maven/org.cornutum.tcases/tcases-openapi-test@3.8.6?classifier=sources
 - pkg:maven/org.cornutum.tcases/tcases-openapi-test@4.0.0
 - pkg:maven/org.cornutum.tcases/tcases-openapi-test@4.0.0?classifier=sources
+- pkg:maven/org.cornutum.tcases/tcases-openapi-test@4.0.1
+- pkg:maven/org.cornutum.tcases/tcases-openapi-test@4.0.1?classifier=sources

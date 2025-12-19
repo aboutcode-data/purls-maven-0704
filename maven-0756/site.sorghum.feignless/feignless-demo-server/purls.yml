@@ -1,0 +1,2 @@
+- pkg:maven/site.sorghum.feignless/feignless-demo-server@1.0.0
+- pkg:maven/site.sorghum.feignless/feignless-demo-server@1.0.0?classifier=sources

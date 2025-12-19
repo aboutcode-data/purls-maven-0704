@@ -1,2 +1,3 @@
 - pkg:maven/fi.evident.raudikko/raudikko@0.1.1?classifier=sources
+- pkg:maven/fi.evident.raudikko/raudikko@0.1.2?classifier=sources
 - pkg:maven/fi.evident.raudikko/raudikko@0.1?classifier=sources

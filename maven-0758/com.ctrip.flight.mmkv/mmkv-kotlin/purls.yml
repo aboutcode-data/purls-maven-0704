@@ -7,3 +7,4 @@
 - pkg:maven/com.ctrip.flight.mmkv/mmkv-kotlin@1.2.2?classifier=sources
 - pkg:maven/com.ctrip.flight.mmkv/mmkv-kotlin@1.2.4?classifier=sources
 - pkg:maven/com.ctrip.flight.mmkv/mmkv-kotlin@1.2.5-alpha01?classifier=sources
+- pkg:maven/com.ctrip.flight.mmkv/mmkv-kotlin@1.2.5?classifier=sources

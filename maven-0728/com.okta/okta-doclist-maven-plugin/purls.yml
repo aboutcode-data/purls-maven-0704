@@ -30,6 +30,10 @@
 - pkg:maven/com.okta/okta-doclist-maven-plugin@24?classifier=sources
 - pkg:maven/com.okta/okta-doclist-maven-plugin@25
 - pkg:maven/com.okta/okta-doclist-maven-plugin@25?classifier=sources
+- pkg:maven/com.okta/okta-doclist-maven-plugin@26
+- pkg:maven/com.okta/okta-doclist-maven-plugin@26?classifier=sources
+- pkg:maven/com.okta/okta-doclist-maven-plugin@27
+- pkg:maven/com.okta/okta-doclist-maven-plugin@27?classifier=sources
 - pkg:maven/com.okta/okta-doclist-maven-plugin@4
 - pkg:maven/com.okta/okta-doclist-maven-plugin@4?classifier=sources
 - pkg:maven/com.okta/okta-doclist-maven-plugin@5

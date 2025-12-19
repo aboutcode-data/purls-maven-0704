@@ -16,3 +16,5 @@
 - pkg:maven/org.esbtools.lightblue-notification-hook/lightblue-notification-hook-model@0.1.7?classifier=sources
 - pkg:maven/org.esbtools.lightblue-notification-hook/lightblue-notification-hook-model@0.1.8
 - pkg:maven/org.esbtools.lightblue-notification-hook/lightblue-notification-hook-model@0.1.8?classifier=sources
+- pkg:maven/org.esbtools.lightblue-notification-hook/lightblue-notification-hook-model@0.1.9
+- pkg:maven/org.esbtools.lightblue-notification-hook/lightblue-notification-hook-model@0.1.9?classifier=sources

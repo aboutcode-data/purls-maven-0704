@@ -81,3 +81,4 @@
 - pkg:maven/com.walmartlabs.concord.runtime/concord-runtime-common@1.97.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.runtime/concord-runtime-common@1.98.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.runtime/concord-runtime-common@1.98.1?classifier=sources
+- pkg:maven/com.walmartlabs.concord.runtime/concord-runtime-common@1.98.2?classifier=sources

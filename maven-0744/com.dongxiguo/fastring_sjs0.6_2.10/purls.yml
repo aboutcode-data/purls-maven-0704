@@ -93,4 +93,6 @@
 - pkg:maven/com.dongxiguo/fastring_sjs0.6_2.10@1.0.0%2B197-156d0aae?classifier=sources
 - pkg:maven/com.dongxiguo/fastring_sjs0.6_2.10@1.0.0%2B197-dd44d416
 - pkg:maven/com.dongxiguo/fastring_sjs0.6_2.10@1.0.0%2B197-dd44d416?classifier=sources
+- pkg:maven/com.dongxiguo/fastring_sjs0.6_2.10@1.0.0%2B323-c69fab04
+- pkg:maven/com.dongxiguo/fastring_sjs0.6_2.10@1.0.0%2B323-c69fab04?classifier=sources
 - pkg:maven/com.dongxiguo/fastring_sjs0.6_2.10@1.0.0?classifier=sources

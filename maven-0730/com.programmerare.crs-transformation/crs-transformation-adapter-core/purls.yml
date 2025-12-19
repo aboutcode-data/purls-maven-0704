@@ -3,3 +3,4 @@
 - pkg:maven/com.programmerare.crs-transformation/crs-transformation-adapter-core@1.1.0?classifier=sources
 - pkg:maven/com.programmerare.crs-transformation/crs-transformation-adapter-core@1.1.1?classifier=sources
 - pkg:maven/com.programmerare.crs-transformation/crs-transformation-adapter-core@2.0.0?classifier=sources
+- pkg:maven/com.programmerare.crs-transformation/crs-transformation-adapter-core@2.0.1?classifier=sources

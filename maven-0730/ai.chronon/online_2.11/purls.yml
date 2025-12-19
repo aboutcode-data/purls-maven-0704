@@ -23,6 +23,10 @@
 - pkg:maven/ai.chronon/online_2.11@0.0.2
 - pkg:maven/ai.chronon/online_2.11@0.0.20
 - pkg:maven/ai.chronon/online_2.11@0.0.20?classifier=sources
+- pkg:maven/ai.chronon/online_2.11@0.0.22
+- pkg:maven/ai.chronon/online_2.11@0.0.22?classifier=sources
+- pkg:maven/ai.chronon/online_2.11@0.0.23
+- pkg:maven/ai.chronon/online_2.11@0.0.23?classifier=sources
 - pkg:maven/ai.chronon/online_2.11@0.0.2?classifier=sources
 - pkg:maven/ai.chronon/online_2.11@0.0.3
 - pkg:maven/ai.chronon/online_2.11@0.0.3?classifier=sources
@@ -42,3 +46,9 @@
 - pkg:maven/ai.chronon/online_2.11@13_publish-0.0.12?classifier=sources
 - pkg:maven/ai.chronon/online_2.11@local
 - pkg:maven/ai.chronon/online_2.11@local?classifier=sources
+- pkg:maven/ai.chronon/online_2.11@thread_contention-0.0.23-dev
+- pkg:maven/ai.chronon/online_2.11@thread_contention-0.0.23-dev2
+- pkg:maven/ai.chronon/online_2.11@thread_contention-0.0.23-dev2?classifier=sources
+- pkg:maven/ai.chronon/online_2.11@thread_contention-0.0.23-dev3
+- pkg:maven/ai.chronon/online_2.11@thread_contention-0.0.23-dev3?classifier=sources
+- pkg:maven/ai.chronon/online_2.11@thread_contention-0.0.23-dev?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.lolhens/http4s-proxy_3@0.4.1
+- pkg:maven/de.lolhens/http4s-proxy_3@0.4.1?classifier=sources

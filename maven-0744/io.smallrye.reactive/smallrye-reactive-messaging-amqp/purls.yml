@@ -122,6 +122,10 @@
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-amqp@3.22.1.RC1
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-amqp@3.22.1.RC1?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-amqp@3.22.1?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-amqp@3.23.0
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-amqp@3.23.0.RC1
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-amqp@3.23.0.RC1?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-amqp@3.23.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-amqp@3.3.0
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-amqp@3.3.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-amqp@3.3.1
@@ -166,3 +170,9 @@
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-amqp@4.1.1.RC1
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-amqp@4.1.1.RC1?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-amqp@4.1.1?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-amqp@4.2.0
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-amqp@4.2.0.RC1
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-amqp@4.2.0.RC1?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-amqp@4.2.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-amqp@4.3.0
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-amqp@4.3.0?classifier=sources

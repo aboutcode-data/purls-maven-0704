@@ -1,3 +1,5 @@
+- pkg:maven/cn.sliew/milky-component@1.0.10
+- pkg:maven/cn.sliew/milky-component@1.0.10?classifier=sources
 - pkg:maven/cn.sliew/milky-component@1.0.3
 - pkg:maven/cn.sliew/milky-component@1.0.3?classifier=sources
 - pkg:maven/cn.sliew/milky-component@1.0.5
@@ -6,3 +8,5 @@
 - pkg:maven/cn.sliew/milky-component@1.0.6_8?classifier=sources
 - pkg:maven/cn.sliew/milky-component@1.0.7
 - pkg:maven/cn.sliew/milky-component@1.0.7?classifier=sources
+- pkg:maven/cn.sliew/milky-component@1.0.9
+- pkg:maven/cn.sliew/milky-component@1.0.9?classifier=sources

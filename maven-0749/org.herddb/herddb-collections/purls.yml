@@ -56,3 +56,5 @@
 - pkg:maven/org.herddb/herddb-collections@0.25.0?classifier=sources
 - pkg:maven/org.herddb/herddb-collections@0.26.0
 - pkg:maven/org.herddb/herddb-collections@0.26.0?classifier=sources
+- pkg:maven/org.herddb/herddb-collections@0.26.1
+- pkg:maven/org.herddb/herddb-collections@0.26.1?classifier=sources

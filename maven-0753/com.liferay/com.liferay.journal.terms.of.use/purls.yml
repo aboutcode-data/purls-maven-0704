@@ -67,6 +67,9 @@
 - pkg:maven/com.liferay/com.liferay.journal.terms.of.use@2.0.34
 - pkg:maven/com.liferay/com.liferay.journal.terms.of.use@2.0.34?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.terms.of.use@2.0.34?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.journal.terms.of.use@2.0.35
+- pkg:maven/com.liferay/com.liferay.journal.terms.of.use@2.0.35?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.terms.of.use@2.0.35?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.journal.terms.of.use@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.terms.of.use@2.0.4
 - pkg:maven/com.liferay/com.liferay.journal.terms.of.use@2.0.4?classifier=sources
@@ -161,6 +164,9 @@
 - pkg:maven/com.liferay/com.liferay.journal.terms.of.use@5.0.7
 - pkg:maven/com.liferay/com.liferay.journal.terms.of.use@5.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.terms.of.use@5.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.journal.terms.of.use@5.0.8
+- pkg:maven/com.liferay/com.liferay.journal.terms.of.use@5.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.terms.of.use@5.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.journal.terms.of.use@5.0.9
 - pkg:maven/com.liferay/com.liferay.journal.terms.of.use@5.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.terms.of.use@5.0.9?classifier=sources-commercial
@@ -168,6 +174,15 @@
 - pkg:maven/com.liferay/com.liferay.journal.terms.of.use@6.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.terms.of.use@6.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.journal.terms.of.use@6.0.1
+- pkg:maven/com.liferay/com.liferay.journal.terms.of.use@6.0.10
+- pkg:maven/com.liferay/com.liferay.journal.terms.of.use@6.0.10?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.terms.of.use@6.0.10?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.journal.terms.of.use@6.0.11
+- pkg:maven/com.liferay/com.liferay.journal.terms.of.use@6.0.11?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.terms.of.use@6.0.11?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.journal.terms.of.use@6.0.12
+- pkg:maven/com.liferay/com.liferay.journal.terms.of.use@6.0.12?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.terms.of.use@6.0.12?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.journal.terms.of.use@6.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.terms.of.use@6.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.journal.terms.of.use@6.0.2

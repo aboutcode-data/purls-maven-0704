@@ -1,0 +1,2 @@
+- pkg:maven/im.dart.boot/dart-boot-demo@1.0.2
+- pkg:maven/im.dart.boot/dart-boot-demo@1.0.2?classifier=sources

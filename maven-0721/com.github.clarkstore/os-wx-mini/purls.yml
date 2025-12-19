@@ -22,6 +22,8 @@
 - pkg:maven/com.github.clarkstore/os-wx-mini@0.1.9?classifier=sources
 - pkg:maven/com.github.clarkstore/os-wx-mini@0.17.0
 - pkg:maven/com.github.clarkstore/os-wx-mini@0.17.0?classifier=sources
+- pkg:maven/com.github.clarkstore/os-wx-mini@0.17.1
+- pkg:maven/com.github.clarkstore/os-wx-mini@0.17.1?classifier=sources
 - pkg:maven/com.github.clarkstore/os-wx-mini@0.2.0
 - pkg:maven/com.github.clarkstore/os-wx-mini@0.2.0?classifier=sources
 - pkg:maven/com.github.clarkstore/os-wx-mini@0.2.1
@@ -238,3 +240,5 @@
 - pkg:maven/com.github.clarkstore/os-wx-mini@0.6.9?classifier=sources
 - pkg:maven/com.github.clarkstore/os-wx-mini@0.8.0
 - pkg:maven/com.github.clarkstore/os-wx-mini@0.8.0?classifier=sources
+- pkg:maven/com.github.clarkstore/os-wx-mini@0.8.1
+- pkg:maven/com.github.clarkstore/os-wx-mini@0.8.1?classifier=sources

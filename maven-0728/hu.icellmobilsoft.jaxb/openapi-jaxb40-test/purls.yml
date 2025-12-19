@@ -1,0 +1,2 @@
+- pkg:maven/hu.icellmobilsoft.jaxb/openapi-jaxb40-test@2.0.0
+- pkg:maven/hu.icellmobilsoft.jaxb/openapi-jaxb40-test@2.0.0?classifier=sources

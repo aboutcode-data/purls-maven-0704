@@ -1,0 +1,4 @@
+- pkg:maven/top.tanmw/efficient-boot-idempotence-start@0.3.2
+- pkg:maven/top.tanmw/efficient-boot-idempotence-start@0.3.2?classifier=sources
+- pkg:maven/top.tanmw/efficient-boot-idempotence-start@0.4.3
+- pkg:maven/top.tanmw/efficient-boot-idempotence-start@0.4.3?classifier=sources

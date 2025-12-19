@@ -228,6 +228,11 @@
 - pkg:maven/org.http4k/http4k-serverless-gcf@4.35.2.0?classifier=sources
 - pkg:maven/org.http4k/http4k-serverless-gcf@4.35.3.0?classifier=sources
 - pkg:maven/org.http4k/http4k-serverless-gcf@4.35.4.0?classifier=sources
+- pkg:maven/org.http4k/http4k-serverless-gcf@4.36.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-serverless-gcf@4.37.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-serverless-gcf@4.38.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-serverless-gcf@4.38.0.1?classifier=sources
+- pkg:maven/org.http4k/http4k-serverless-gcf@4.39.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-serverless-gcf@4.4.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-serverless-gcf@4.4.0.1?classifier=sources
 - pkg:maven/org.http4k/http4k-serverless-gcf@4.4.1.0?classifier=sources
