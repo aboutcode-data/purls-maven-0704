@@ -4,3 +4,5 @@
 - pkg:maven/com.power4j.fist/fist-kit-cloud-gateway-security-core@2022.0.11?classifier=sources
 - pkg:maven/com.power4j.fist/fist-kit-cloud-gateway-security-core@2022.0.12
 - pkg:maven/com.power4j.fist/fist-kit-cloud-gateway-security-core@2022.0.12?classifier=sources
+- pkg:maven/com.power4j.fist/fist-kit-cloud-gateway-security-core@2022.0.13
+- pkg:maven/com.power4j.fist/fist-kit-cloud-gateway-security-core@2022.0.13?classifier=sources

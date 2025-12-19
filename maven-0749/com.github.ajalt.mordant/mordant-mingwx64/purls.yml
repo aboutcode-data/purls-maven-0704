@@ -6,3 +6,4 @@
 - pkg:maven/com.github.ajalt.mordant/mordant-mingwx64@2.0.0-beta6?classifier=sources
 - pkg:maven/com.github.ajalt.mordant/mordant-mingwx64@2.0.0-beta7?classifier=sources
 - pkg:maven/com.github.ajalt.mordant/mordant-mingwx64@2.0.0-beta8?classifier=sources
+- pkg:maven/com.github.ajalt.mordant/mordant-mingwx64@2.0.0-beta9?classifier=sources

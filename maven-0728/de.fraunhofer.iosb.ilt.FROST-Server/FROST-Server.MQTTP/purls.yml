@@ -30,3 +30,5 @@
 - pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.MQTTP@2.0.2?type=war
 - pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.MQTTP@2.0.3?classifier=sources
 - pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.MQTTP@2.0.3?type=war
+- pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.MQTTP@2.0.4?classifier=sources
+- pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.MQTTP@2.0.4?type=war

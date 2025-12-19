@@ -5,3 +5,6 @@
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-hibernate5-jakarta@2.13.4?classifier=sources
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-hibernate5-jakarta@2.14.0-rc1?classifier=sources
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-hibernate5-jakarta@2.14.0-rc2?classifier=sources
+- pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-hibernate5-jakarta@2.14.0-rc3?classifier=sources
+- pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-hibernate5-jakarta@2.14.0?classifier=sources
+- pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-hibernate5-jakarta@2.14.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/bd.com.shurjopay.plugin/sp-plugin-java@1.0.0
+- pkg:maven/bd.com.shurjopay.plugin/sp-plugin-java@1.0.0?classifier=sources

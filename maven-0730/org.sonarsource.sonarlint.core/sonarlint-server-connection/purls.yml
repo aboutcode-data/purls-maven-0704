@@ -1,3 +1,5 @@
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-server-connection@8.10.0.56343?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-server-connection@8.11.0.56591?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-server-connection@8.7.0.52152?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-server-connection@8.8.0.53224?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-server-connection@8.8.1.54103?classifier=sources

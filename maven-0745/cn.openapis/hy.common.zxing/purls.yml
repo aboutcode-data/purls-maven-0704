@@ -1,0 +1,2 @@
+- pkg:maven/cn.openapis/hy.common.zxing@3.4.1.a
+- pkg:maven/cn.openapis/hy.common.zxing@3.4.1.a?classifier=sources

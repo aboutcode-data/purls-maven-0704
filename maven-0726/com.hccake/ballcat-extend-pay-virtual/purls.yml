@@ -22,3 +22,7 @@
 - pkg:maven/com.hccake/ballcat-extend-pay-virtual@0.8.0?classifier=sources
 - pkg:maven/com.hccake/ballcat-extend-pay-virtual@0.9.0
 - pkg:maven/com.hccake/ballcat-extend-pay-virtual@0.9.0?classifier=sources
+- pkg:maven/com.hccake/ballcat-extend-pay-virtual@1.0.0
+- pkg:maven/com.hccake/ballcat-extend-pay-virtual@1.0.0?classifier=sources
+- pkg:maven/com.hccake/ballcat-extend-pay-virtual@1.0.1
+- pkg:maven/com.hccake/ballcat-extend-pay-virtual@1.0.1?classifier=sources

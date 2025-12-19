@@ -124,6 +124,12 @@
 - pkg:maven/com.google.apis/google-api-services-retail@v2-rev20220922-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-retail@v2-rev20221014-2.0.0
 - pkg:maven/com.google.apis/google-api-services-retail@v2-rev20221014-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-retail@v2-rev20221024-2.0.0
+- pkg:maven/com.google.apis/google-api-services-retail@v2-rev20221024-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-retail@v2-rev20221107-2.0.0
+- pkg:maven/com.google.apis/google-api-services-retail@v2-rev20221107-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-retail@v2-rev20221110-2.0.0
+- pkg:maven/com.google.apis/google-api-services-retail@v2-rev20221110-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-retail@v2alpha-rev20210129-1.31.0
 - pkg:maven/com.google.apis/google-api-services-retail@v2alpha-rev20210129-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-retail@v2alpha-rev20210205-1.31.0
@@ -256,6 +262,12 @@
 - pkg:maven/com.google.apis/google-api-services-retail@v2alpha-rev20220922-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-retail@v2alpha-rev20221014-2.0.0
 - pkg:maven/com.google.apis/google-api-services-retail@v2alpha-rev20221014-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-retail@v2alpha-rev20221024-2.0.0
+- pkg:maven/com.google.apis/google-api-services-retail@v2alpha-rev20221024-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-retail@v2alpha-rev20221107-2.0.0
+- pkg:maven/com.google.apis/google-api-services-retail@v2alpha-rev20221107-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-retail@v2alpha-rev20221110-2.0.0
+- pkg:maven/com.google.apis/google-api-services-retail@v2alpha-rev20221110-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-retail@v2beta-rev20210129-1.31.0
 - pkg:maven/com.google.apis/google-api-services-retail@v2beta-rev20210129-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-retail@v2beta-rev20210205-1.31.0
@@ -386,3 +398,9 @@
 - pkg:maven/com.google.apis/google-api-services-retail@v2beta-rev20220922-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-retail@v2beta-rev20221014-2.0.0
 - pkg:maven/com.google.apis/google-api-services-retail@v2beta-rev20221014-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-retail@v2beta-rev20221024-2.0.0
+- pkg:maven/com.google.apis/google-api-services-retail@v2beta-rev20221024-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-retail@v2beta-rev20221107-2.0.0
+- pkg:maven/com.google.apis/google-api-services-retail@v2beta-rev20221107-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-retail@v2beta-rev20221110-2.0.0
+- pkg:maven/com.google.apis/google-api-services-retail@v2beta-rev20221110-2.0.0?classifier=sources

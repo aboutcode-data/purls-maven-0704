@@ -1,5 +1,9 @@
 - pkg:maven/ch.postfinance/postfinancecheckout-java-sdk@4.0.10
 - pkg:maven/ch.postfinance/postfinancecheckout-java-sdk@4.0.10?classifier=sources
+- pkg:maven/ch.postfinance/postfinancecheckout-java-sdk@4.0.11
+- pkg:maven/ch.postfinance/postfinancecheckout-java-sdk@4.0.11?classifier=sources
+- pkg:maven/ch.postfinance/postfinancecheckout-java-sdk@4.0.15
+- pkg:maven/ch.postfinance/postfinancecheckout-java-sdk@4.0.15?classifier=sources
 - pkg:maven/ch.postfinance/postfinancecheckout-java-sdk@4.0.2
 - pkg:maven/ch.postfinance/postfinancecheckout-java-sdk@4.0.2?classifier=sources
 - pkg:maven/ch.postfinance/postfinancecheckout-java-sdk@4.0.5

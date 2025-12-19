@@ -10,3 +10,5 @@
 - pkg:maven/com.microfocus.octane.ciplugins/octane-gitlab-service@1.1.128?classifier=sources
 - pkg:maven/com.microfocus.octane.ciplugins/octane-gitlab-service@1.1.129
 - pkg:maven/com.microfocus.octane.ciplugins/octane-gitlab-service@1.1.129?classifier=sources
+- pkg:maven/com.microfocus.octane.ciplugins/octane-gitlab-service@1.1.130
+- pkg:maven/com.microfocus.octane.ciplugins/octane-gitlab-service@1.1.130?classifier=sources

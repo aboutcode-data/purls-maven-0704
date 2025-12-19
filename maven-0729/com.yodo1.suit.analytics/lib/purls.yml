@@ -1,1 +1,2 @@
+- pkg:maven/com.yodo1.suit.analytics/lib@6.1.11?classifier=sources
 - pkg:maven/com.yodo1.suit.analytics/lib@6.1.2?classifier=sources

@@ -66,3 +66,5 @@
 - pkg:maven/io.apiman/apiman-gateway-platforms-war-tomcat8-gateway@2.2.2.Final?type=war
 - pkg:maven/io.apiman/apiman-gateway-platforms-war-tomcat8-gateway@2.2.3.Final?classifier=sources
 - pkg:maven/io.apiman/apiman-gateway-platforms-war-tomcat8-gateway@2.2.3.Final?type=war
+- pkg:maven/io.apiman/apiman-gateway-platforms-war-tomcat8-gateway@3.0.0.RC6?classifier=sources
+- pkg:maven/io.apiman/apiman-gateway-platforms-war-tomcat8-gateway@3.0.0.RC6?type=war

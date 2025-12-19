@@ -48,3 +48,4 @@
 - pkg:maven/com.github.relateddigital/euromessage-android@4.6.3?type=aar
 - pkg:maven/com.github.relateddigital/euromessage-android@5.0.0?classifier=sources
 - pkg:maven/com.github.relateddigital/euromessage-android@5.0.0?type=aar
+- pkg:maven/com.github.relateddigital/euromessage-android@5.2.3-google?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.myhab.tools/graphql-java-linter@1.0?classifier=sources
+- pkg:maven/org.myhab.tools/graphql-java-linter@1.1?classifier=sources

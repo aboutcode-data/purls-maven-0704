@@ -1,0 +1,1 @@
+- pkg:maven/io.micrometer/micrometer-tracing-reporter-wavefront@1.0.0?classifier=sources

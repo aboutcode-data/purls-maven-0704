@@ -322,3 +322,4 @@
 - pkg:maven/org.grails/grails-docs@5.2.2?classifier=sources
 - pkg:maven/org.grails/grails-docs@5.2.3?classifier=sources
 - pkg:maven/org.grails/grails-docs@5.2.4?classifier=sources
+- pkg:maven/org.grails/grails-docs@5.2.5?classifier=sources

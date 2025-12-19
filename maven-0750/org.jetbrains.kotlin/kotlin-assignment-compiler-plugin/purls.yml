@@ -1,0 +1,2 @@
+- pkg:maven/org.jetbrains.kotlin/kotlin-assignment-compiler-plugin@1.8.0-Beta
+- pkg:maven/org.jetbrains.kotlin/kotlin-assignment-compiler-plugin@1.8.0-Beta?classifier=sources

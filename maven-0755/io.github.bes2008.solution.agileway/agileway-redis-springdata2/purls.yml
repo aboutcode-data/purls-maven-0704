@@ -1,2 +1,3 @@
 - pkg:maven/io.github.bes2008.solution.agileway/agileway-redis-springdata2@4.0.0
 - pkg:maven/io.github.bes2008.solution.agileway/agileway-redis-springdata2@4.0.0?classifier=sources
+- pkg:maven/io.github.bes2008.solution.agileway/agileway-redis-springdata2@4.0.1

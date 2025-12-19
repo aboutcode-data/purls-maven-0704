@@ -42,3 +42,6 @@
 - pkg:maven/uk.gov.ida/hub-saml-test-utils@3.4.6-15864?classifier=sources
 - pkg:maven/uk.gov.ida/hub-saml-test-utils@3.4.6-15865?classifier=sources
 - pkg:maven/uk.gov.ida/hub-saml-test-utils@3.4.6-15866?classifier=sources
+- pkg:maven/uk.gov.ida/hub-saml-test-utils@3.4.6-15867?classifier=sources
+- pkg:maven/uk.gov.ida/hub-saml-test-utils@3.4.6-15868?classifier=sources
+- pkg:maven/uk.gov.ida/hub-saml-test-utils@3.4.6-15869?classifier=sources

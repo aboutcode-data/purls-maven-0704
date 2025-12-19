@@ -28,6 +28,8 @@
 - pkg:maven/com.mdsol/mauth-common@10.0.2?classifier=sources
 - pkg:maven/com.mdsol/mauth-common@10.0.3
 - pkg:maven/com.mdsol/mauth-common@10.0.3?classifier=sources
+- pkg:maven/com.mdsol/mauth-common@10.1.0
+- pkg:maven/com.mdsol/mauth-common@10.1.0?classifier=sources
 - pkg:maven/com.mdsol/mauth-common@2.0.0
 - pkg:maven/com.mdsol/mauth-common@2.0.0?classifier=sources
 - pkg:maven/com.mdsol/mauth-common@2.0.1

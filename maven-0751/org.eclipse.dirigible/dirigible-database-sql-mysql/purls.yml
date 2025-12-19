@@ -8,3 +8,7 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-database-sql-mysql@6.3.25?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-database-sql-mysql@6.3.26
 - pkg:maven/org.eclipse.dirigible/dirigible-database-sql-mysql@6.3.26?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-database-sql-mysql@6.3.27
+- pkg:maven/org.eclipse.dirigible/dirigible-database-sql-mysql@6.3.27?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-database-sql-mysql@6.3.28
+- pkg:maven/org.eclipse.dirigible/dirigible-database-sql-mysql@6.3.28?classifier=sources

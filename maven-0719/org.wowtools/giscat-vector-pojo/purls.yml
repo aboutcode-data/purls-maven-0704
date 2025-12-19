@@ -10,3 +10,5 @@
 - pkg:maven/org.wowtools/giscat-vector-pojo@1.2.0-STABLE?classifier=sources
 - pkg:maven/org.wowtools/giscat-vector-pojo@1.3.0-STABLE
 - pkg:maven/org.wowtools/giscat-vector-pojo@1.3.0-STABLE?classifier=sources
+- pkg:maven/org.wowtools/giscat-vector-pojo@g1.5.0
+- pkg:maven/org.wowtools/giscat-vector-pojo@g1.5.0?classifier=sources

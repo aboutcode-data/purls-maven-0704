@@ -1,0 +1,2 @@
+- pkg:maven/com.netease.cloudmusic.mediacontrollersdk/mediacontrollersdk@1.0.3?classifier=sources
+- pkg:maven/com.netease.cloudmusic.mediacontrollersdk/mediacontrollersdk@1.0.4?classifier=sources

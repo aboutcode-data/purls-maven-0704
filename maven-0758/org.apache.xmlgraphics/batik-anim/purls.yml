@@ -8,6 +8,7 @@
 - pkg:maven/org.apache.xmlgraphics/batik-anim@1.13?classifier=sources
 - pkg:maven/org.apache.xmlgraphics/batik-anim@1.14?classifier=sources
 - pkg:maven/org.apache.xmlgraphics/batik-anim@1.15?classifier=sources
+- pkg:maven/org.apache.xmlgraphics/batik-anim@1.16?classifier=sources
 - pkg:maven/org.apache.xmlgraphics/batik-anim@1.7
 - pkg:maven/org.apache.xmlgraphics/batik-anim@1.7?classifier=sources
 - pkg:maven/org.apache.xmlgraphics/batik-anim@1.8

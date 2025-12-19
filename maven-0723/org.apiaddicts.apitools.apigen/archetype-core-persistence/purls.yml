@@ -1,2 +1,4 @@
 - pkg:maven/org.apiaddicts.apitools.apigen/archetype-core-persistence@0.3.0-RC5
 - pkg:maven/org.apiaddicts.apitools.apigen/archetype-core-persistence@0.3.0-RC5?classifier=sources
+- pkg:maven/org.apiaddicts.apitools.apigen/archetype-core-persistence@0.3.0-RC6
+- pkg:maven/org.apiaddicts.apitools.apigen/archetype-core-persistence@0.3.0-RC6?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/cc.ichangan/android-sdk@2.0.0?classifier=sources
+- pkg:maven/cc.ichangan/android-sdk@2.0.0?type=aar

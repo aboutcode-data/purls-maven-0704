@@ -12,3 +12,5 @@
 - pkg:maven/fr.arakne/arakne-value@0.6-alpha?classifier=sources
 - pkg:maven/fr.arakne/arakne-value@0.7-alpha
 - pkg:maven/fr.arakne/arakne-value@0.7-alpha?classifier=sources
+- pkg:maven/fr.arakne/arakne-value@0.8-alpha
+- pkg:maven/fr.arakne/arakne-value@0.8-alpha?classifier=sources

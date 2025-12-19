@@ -1,2 +1,6 @@
+- pkg:maven/org.webjars.npm/tiptap__extension-blockquote@2.0.0-beta.199
+- pkg:maven/org.webjars.npm/tiptap__extension-blockquote@2.0.0-beta.199?classifier=sources
+- pkg:maven/org.webjars.npm/tiptap__extension-blockquote@2.0.0-beta.202
+- pkg:maven/org.webjars.npm/tiptap__extension-blockquote@2.0.0-beta.202?classifier=sources
 - pkg:maven/org.webjars.npm/tiptap__extension-blockquote@2.0.0-beta.26
 - pkg:maven/org.webjars.npm/tiptap__extension-blockquote@2.0.0-beta.26?classifier=sources

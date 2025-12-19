@@ -1,0 +1,3 @@
+- pkg:maven/com.engagelab.plugin/oppo_msp_push@3.0.0.jjjj?classifier=sources
+- pkg:maven/com.engagelab.plugin/oppo_msp_push@3.0.0.jjjjkkk?classifier=sources
+- pkg:maven/com.engagelab.plugin/oppo_msp_push@3.0.0.p?classifier=sources

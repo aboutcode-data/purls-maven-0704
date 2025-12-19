@@ -133,6 +133,7 @@
 - pkg:maven/com.couchbase.client/core-io@1.7.22?classifier=sources
 - pkg:maven/com.couchbase.client/core-io@1.7.23
 - pkg:maven/com.couchbase.client/core-io@1.7.23?classifier=sources
+- pkg:maven/com.couchbase.client/core-io@1.7.24?classifier=sources
 - pkg:maven/com.couchbase.client/core-io@1.7.2?classifier=sources
 - pkg:maven/com.couchbase.client/core-io@1.7.3
 - pkg:maven/com.couchbase.client/core-io@1.7.3?classifier=sources

@@ -12,3 +12,15 @@
 - pkg:maven/io.github.elf4j/elf4j-tinylog@3.0.3?classifier=sources
 - pkg:maven/io.github.elf4j/elf4j-tinylog@4.0.0
 - pkg:maven/io.github.elf4j/elf4j-tinylog@4.0.0?classifier=sources
+- pkg:maven/io.github.elf4j/elf4j-tinylog@5.0.0
+- pkg:maven/io.github.elf4j/elf4j-tinylog@5.0.0?classifier=sources
+- pkg:maven/io.github.elf4j/elf4j-tinylog@6.0.0
+- pkg:maven/io.github.elf4j/elf4j-tinylog@6.0.0?classifier=sources
+- pkg:maven/io.github.elf4j/elf4j-tinylog@6.1.0
+- pkg:maven/io.github.elf4j/elf4j-tinylog@6.1.0?classifier=sources
+- pkg:maven/io.github.elf4j/elf4j-tinylog@6.2.0
+- pkg:maven/io.github.elf4j/elf4j-tinylog@6.2.0?classifier=sources
+- pkg:maven/io.github.elf4j/elf4j-tinylog@7.0.0
+- pkg:maven/io.github.elf4j/elf4j-tinylog@7.0.0?classifier=sources
+- pkg:maven/io.github.elf4j/elf4j-tinylog@8.0.0
+- pkg:maven/io.github.elf4j/elf4j-tinylog@8.0.0?classifier=sources

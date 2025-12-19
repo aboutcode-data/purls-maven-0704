@@ -191,6 +191,14 @@
 - pkg:maven/com.amazonaws/aws-android-sdk-auth-facebook@2.54.0?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-auth-facebook@2.55.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-auth-facebook@2.55.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-auth-facebook@2.56.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-auth-facebook@2.56.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-auth-facebook@2.57.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-auth-facebook@2.57.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-auth-facebook@2.58.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-auth-facebook@2.58.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-auth-facebook@2.59.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-auth-facebook@2.59.0?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-auth-facebook@2.6.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-auth-facebook@2.6.0?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-auth-facebook@2.6.10?classifier=sources

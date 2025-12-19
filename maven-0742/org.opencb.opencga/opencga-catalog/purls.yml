@@ -15,6 +15,8 @@
 - pkg:maven/org.opencb.opencga/opencga-catalog@2.2.0
 - pkg:maven/org.opencb.opencga/opencga-catalog@2.2.0?classifier=sources
 - pkg:maven/org.opencb.opencga/opencga-catalog@2.2.1
+- pkg:maven/org.opencb.opencga/opencga-catalog@2.2.10
+- pkg:maven/org.opencb.opencga/opencga-catalog@2.2.10?classifier=sources
 - pkg:maven/org.opencb.opencga/opencga-catalog@2.2.1?classifier=sources
 - pkg:maven/org.opencb.opencga/opencga-catalog@2.2.3
 - pkg:maven/org.opencb.opencga/opencga-catalog@2.2.3?classifier=sources
@@ -39,6 +41,8 @@
 - pkg:maven/org.opencb.opencga/opencga-catalog@2.4.0
 - pkg:maven/org.opencb.opencga/opencga-catalog@2.4.0?classifier=sources
 - pkg:maven/org.opencb.opencga/opencga-catalog@2.4.1
+- pkg:maven/org.opencb.opencga/opencga-catalog@2.4.10
+- pkg:maven/org.opencb.opencga/opencga-catalog@2.4.10?classifier=sources
 - pkg:maven/org.opencb.opencga/opencga-catalog@2.4.1?classifier=sources
 - pkg:maven/org.opencb.opencga/opencga-catalog@2.4.2
 - pkg:maven/org.opencb.opencga/opencga-catalog@2.4.2?classifier=sources
@@ -54,3 +58,5 @@
 - pkg:maven/org.opencb.opencga/opencga-catalog@2.4.8?classifier=sources
 - pkg:maven/org.opencb.opencga/opencga-catalog@2.4.9
 - pkg:maven/org.opencb.opencga/opencga-catalog@2.4.9?classifier=sources
+- pkg:maven/org.opencb.opencga/opencga-catalog@2.5.0
+- pkg:maven/org.opencb.opencga/opencga-catalog@2.5.0?classifier=sources

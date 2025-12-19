@@ -1,0 +1,6 @@
+- pkg:maven/cn.amossun/starter-mybatis-data-security@1.1.0-RELEASE
+- pkg:maven/cn.amossun/starter-mybatis-data-security@1.1.0-RELEASE?classifier=sources
+- pkg:maven/cn.amossun/starter-mybatis-data-security@1.2.0-RELEASE
+- pkg:maven/cn.amossun/starter-mybatis-data-security@1.2.0-RELEASE?classifier=sources
+- pkg:maven/cn.amossun/starter-mybatis-data-security@1.2.1-RELEASE
+- pkg:maven/cn.amossun/starter-mybatis-data-security@1.2.1-RELEASE?classifier=sources

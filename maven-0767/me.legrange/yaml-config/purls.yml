@@ -12,3 +12,5 @@
 - pkg:maven/me.legrange/yaml-config@2.2.2
 - pkg:maven/me.legrange/yaml-config@2.2.2?classifier=sources
 - pkg:maven/me.legrange/yaml-config@2.2?classifier=sources
+- pkg:maven/me.legrange/yaml-config@2.3.0
+- pkg:maven/me.legrange/yaml-config@2.3.0?classifier=sources

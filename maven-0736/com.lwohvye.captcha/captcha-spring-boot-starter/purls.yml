@@ -1,0 +1,2 @@
+- pkg:maven/com.lwohvye.captcha/captcha-spring-boot-starter@2.0.0
+- pkg:maven/com.lwohvye.captcha/captcha-spring-boot-starter@2.0.0?classifier=sources

@@ -102,3 +102,5 @@
 - pkg:maven/com.expediagroup.streamplatform/stream-registry-graphql-scalars@1.1.2?classifier=sources
 - pkg:maven/com.expediagroup.streamplatform/stream-registry-graphql-scalars@1.1.4
 - pkg:maven/com.expediagroup.streamplatform/stream-registry-graphql-scalars@1.1.4?classifier=sources
+- pkg:maven/com.expediagroup.streamplatform/stream-registry-graphql-scalars@1.2.1
+- pkg:maven/com.expediagroup.streamplatform/stream-registry-graphql-scalars@1.2.1?classifier=sources

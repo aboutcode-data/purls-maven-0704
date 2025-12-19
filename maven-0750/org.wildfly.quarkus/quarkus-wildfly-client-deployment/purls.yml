@@ -1,0 +1,2 @@
+- pkg:maven/org.wildfly.quarkus/quarkus-wildfly-client-deployment@0.0.1.Final
+- pkg:maven/org.wildfly.quarkus/quarkus-wildfly-client-deployment@0.0.1.Final?classifier=sources

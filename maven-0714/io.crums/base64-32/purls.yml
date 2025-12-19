@@ -1,0 +1,2 @@
+- pkg:maven/io.crums/base64-32@0.5.1
+- pkg:maven/io.crums/base64-32@0.5.1?classifier=sources

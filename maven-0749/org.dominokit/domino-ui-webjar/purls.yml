@@ -3,6 +3,7 @@
 - pkg:maven/org.dominokit/domino-ui-webjar@1.0.0-RC11
 - pkg:maven/org.dominokit/domino-ui-webjar@1.0.0-RC12
 - pkg:maven/org.dominokit/domino-ui-webjar@1.0.0-RC13
+- pkg:maven/org.dominokit/domino-ui-webjar@1.0.0-RC14
 - pkg:maven/org.dominokit/domino-ui-webjar@1.0.0-RC2
 - pkg:maven/org.dominokit/domino-ui-webjar@1.0.0-RC3
 - pkg:maven/org.dominokit/domino-ui-webjar@1.0.0-RC4

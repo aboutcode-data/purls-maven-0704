@@ -1,0 +1,2 @@
+- pkg:maven/io.github.irevive/union-derivation-core_native0.4_3@0.0.4
+- pkg:maven/io.github.irevive/union-derivation-core_native0.4_3@0.0.4?classifier=sources

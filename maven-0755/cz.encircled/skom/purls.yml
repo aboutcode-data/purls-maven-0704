@@ -1,0 +1,2 @@
+- pkg:maven/cz.encircled/skom@1.1
+- pkg:maven/cz.encircled/skom@1.1?classifier=sources

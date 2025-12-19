@@ -1,0 +1,2 @@
+- pkg:maven/org.geckoprojects.jakartars/org.gecko.rest.jersey.tck@6.0.0.RC1
+- pkg:maven/org.geckoprojects.jakartars/org.gecko.rest.jersey.tck@6.0.0.RC1?classifier=sources

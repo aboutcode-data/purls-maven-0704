@@ -36,3 +36,5 @@
 - pkg:maven/org.jboss.pnc.bacon/auth@2.2.3?classifier=sources
 - pkg:maven/org.jboss.pnc.bacon/auth@2.3.0
 - pkg:maven/org.jboss.pnc.bacon/auth@2.3.0?classifier=sources
+- pkg:maven/org.jboss.pnc.bacon/auth@2.4.0
+- pkg:maven/org.jboss.pnc.bacon/auth@2.4.0?classifier=sources

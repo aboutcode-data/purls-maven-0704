@@ -1,0 +1,2 @@
+- pkg:maven/io.monix/monix-testing-utest_3@0.4.0
+- pkg:maven/io.monix/monix-testing-utest_3@0.4.0?classifier=sources

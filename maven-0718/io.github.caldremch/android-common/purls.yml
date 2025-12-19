@@ -2,3 +2,4 @@
 - pkg:maven/io.github.caldremch/android-common@1.0.1-rc3?classifier=sources
 - pkg:maven/io.github.caldremch/android-common@1.0.1-rc7?classifier=sources
 - pkg:maven/io.github.caldremch/android-common@1.0.1-rc8?classifier=sources
+- pkg:maven/io.github.caldremch/android-common@1.0.2?classifier=sources

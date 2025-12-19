@@ -183,6 +183,10 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.opensaml@3.4.6_2?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.opensaml@3.4.6_2?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.opensaml@3.4.6_2?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.opensaml@3.4.6_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.opensaml@3.4.6_3?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.opensaml@3.4.6_3?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.opensaml@3.4.6_3?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.opensaml@4.0.1_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.opensaml@4.0.1_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.opensaml@4.0.1_1?classifier=src&type=tar.gz

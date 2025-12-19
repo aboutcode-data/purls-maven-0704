@@ -12,3 +12,5 @@
 - pkg:maven/com.freeletics.flowredux/flowredux-watchosarm32@0.8.0?classifier=sources
 - pkg:maven/com.freeletics.flowredux/flowredux-watchosarm32@0.9.0?classifier=sources
 - pkg:maven/com.freeletics.flowredux/flowredux-watchosarm32@1.0.0?classifier=sources
+- pkg:maven/com.freeletics.flowredux/flowredux-watchosarm32@1.0.1?classifier=sources
+- pkg:maven/com.freeletics.flowredux/flowredux-watchosarm32@1.0.2?classifier=sources

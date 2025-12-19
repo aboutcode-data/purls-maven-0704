@@ -1,0 +1,4 @@
+- pkg:maven/com.akvelon/cdap-salesforce-plugins@1.4.4
+- pkg:maven/com.akvelon/cdap-salesforce-plugins@1.4.4?classifier=sources
+- pkg:maven/com.akvelon/cdap-salesforce-plugins@1.5.2
+- pkg:maven/com.akvelon/cdap-salesforce-plugins@1.5.2?classifier=sources

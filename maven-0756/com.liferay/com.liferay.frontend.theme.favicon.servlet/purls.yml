@@ -119,6 +119,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.theme.favicon.servlet@4.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.favicon.servlet@4.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.favicon.servlet@4.0.2
+- pkg:maven/com.liferay/com.liferay.frontend.theme.favicon.servlet@4.0.22
+- pkg:maven/com.liferay/com.liferay.frontend.theme.favicon.servlet@4.0.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.theme.favicon.servlet@4.0.22?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.favicon.servlet@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.favicon.servlet@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.favicon.servlet@4.0.3
@@ -194,6 +197,12 @@
 - pkg:maven/com.liferay/com.liferay.frontend.theme.favicon.servlet@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.favicon.servlet@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.favicon.servlet@5.0.3
+- pkg:maven/com.liferay/com.liferay.frontend.theme.favicon.servlet@5.0.34
+- pkg:maven/com.liferay/com.liferay.frontend.theme.favicon.servlet@5.0.34?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.theme.favicon.servlet@5.0.34?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.theme.favicon.servlet@5.0.35
+- pkg:maven/com.liferay/com.liferay.frontend.theme.favicon.servlet@5.0.35?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.theme.favicon.servlet@5.0.35?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.favicon.servlet@5.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.favicon.servlet@5.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.favicon.servlet@5.0.4

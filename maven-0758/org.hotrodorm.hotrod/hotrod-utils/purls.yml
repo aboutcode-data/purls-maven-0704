@@ -30,3 +30,5 @@
 - pkg:maven/org.hotrodorm.hotrod/hotrod-utils@3.4.6?classifier=sources
 - pkg:maven/org.hotrodorm.hotrod/hotrod-utils@3.4.7
 - pkg:maven/org.hotrodorm.hotrod/hotrod-utils@3.4.7?classifier=sources
+- pkg:maven/org.hotrodorm.hotrod/hotrod-utils@3.4.8
+- pkg:maven/org.hotrodorm.hotrod/hotrod-utils@3.4.8?classifier=sources

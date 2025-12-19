@@ -26,3 +26,13 @@
 - pkg:maven/io.github.omzz15/beans@1.0.6-FTCRELEASE?classifier=sources
 - pkg:maven/io.github.omzz15/beans@1.0.6-RELEASE
 - pkg:maven/io.github.omzz15/beans@1.0.6-RELEASE?classifier=sources
+- pkg:maven/io.github.omzz15/beans@2.0.0-FTCRELEASE
+- pkg:maven/io.github.omzz15/beans@2.0.0-FTCRELEASE?classifier=sources
+- pkg:maven/io.github.omzz15/beans@2.0.1-FTCRELEASE
+- pkg:maven/io.github.omzz15/beans@2.0.1-FTCRELEASE?classifier=sources
+- pkg:maven/io.github.omzz15/beans@2.1.0-FTCRELEASE
+- pkg:maven/io.github.omzz15/beans@2.1.0-FTCRELEASE?classifier=sources
+- pkg:maven/io.github.omzz15/beans@2.1.1-FTCRELEASE
+- pkg:maven/io.github.omzz15/beans@2.1.1-FTCRELEASE?classifier=sources
+- pkg:maven/io.github.omzz15/beans@2.1.2-FTCRELEASE
+- pkg:maven/io.github.omzz15/beans@2.1.2-FTCRELEASE?classifier=sources

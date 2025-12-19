@@ -1,0 +1,2 @@
+- pkg:maven/com.github.xuwei-k/scala3profile_3@0.1.0
+- pkg:maven/com.github.xuwei-k/scala3profile_3@0.1.0?classifier=sources

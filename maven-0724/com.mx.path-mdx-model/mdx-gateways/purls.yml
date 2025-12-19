@@ -1,0 +1,3 @@
+- pkg:maven/com.mx.path-mdx-model/mdx-gateways@1.4.0?classifier=sources
+- pkg:maven/com.mx.path-mdx-model/mdx-gateways@1.5.0?classifier=sources
+- pkg:maven/com.mx.path-mdx-model/mdx-gateways@1.6.0?classifier=sources

@@ -16,5 +16,10 @@
 - pkg:maven/org.typelevel/protoc-gen-fs2-grpc@2.4.7
 - pkg:maven/org.typelevel/protoc-gen-fs2-grpc@2.4.8
 - pkg:maven/org.typelevel/protoc-gen-fs2-grpc@2.4.9
+- pkg:maven/org.typelevel/protoc-gen-fs2-grpc@2.5.0
 - pkg:maven/org.typelevel/protoc-gen-fs2-grpc@2.5.0-RC1
 - pkg:maven/org.typelevel/protoc-gen-fs2-grpc@2.5.0-RC2
+- pkg:maven/org.typelevel/protoc-gen-fs2-grpc@2.5.0-RC3
+- pkg:maven/org.typelevel/protoc-gen-fs2-grpc@2.5.1
+- pkg:maven/org.typelevel/protoc-gen-fs2-grpc@2.5.3
+- pkg:maven/org.typelevel/protoc-gen-fs2-grpc@2.5.4

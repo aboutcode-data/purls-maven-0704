@@ -293,6 +293,8 @@
 - pkg:maven/com.bazaarvoice.emodb/emodb-common-dropwizard@6.5.27?classifier=sources
 - pkg:maven/com.bazaarvoice.emodb/emodb-common-dropwizard@6.5.28
 - pkg:maven/com.bazaarvoice.emodb/emodb-common-dropwizard@6.5.28?classifier=sources
+- pkg:maven/com.bazaarvoice.emodb/emodb-common-dropwizard@6.5.29
+- pkg:maven/com.bazaarvoice.emodb/emodb-common-dropwizard@6.5.29?classifier=sources
 - pkg:maven/com.bazaarvoice.emodb/emodb-common-dropwizard@6.5.2?classifier=sources
 - pkg:maven/com.bazaarvoice.emodb/emodb-common-dropwizard@6.5.3
 - pkg:maven/com.bazaarvoice.emodb/emodb-common-dropwizard@6.5.3?classifier=sources

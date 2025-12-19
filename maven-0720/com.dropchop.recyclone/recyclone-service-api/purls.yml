@@ -1,0 +1,2 @@
+- pkg:maven/com.dropchop.recyclone/recyclone-service-api@1.0.0.Alpha
+- pkg:maven/com.dropchop.recyclone/recyclone-service-api@1.0.0.Alpha?classifier=sources

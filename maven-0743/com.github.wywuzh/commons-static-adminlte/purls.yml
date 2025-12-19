@@ -48,6 +48,9 @@
 - pkg:maven/com.github.wywuzh/commons-static-adminlte@2.6.1.RELEASE
 - pkg:maven/com.github.wywuzh/commons-static-adminlte@2.6.10.1.RELEASE
 - pkg:maven/com.github.wywuzh/commons-static-adminlte@2.6.10.RELEASE
+- pkg:maven/com.github.wywuzh/commons-static-adminlte@2.6.11.RELEASE
+- pkg:maven/com.github.wywuzh/commons-static-adminlte@2.6.12.RELEASE
+- pkg:maven/com.github.wywuzh/commons-static-adminlte@2.6.13.RELEASE
 - pkg:maven/com.github.wywuzh/commons-static-adminlte@2.6.2.RELEASE
 - pkg:maven/com.github.wywuzh/commons-static-adminlte@2.6.3.RELEASE
 - pkg:maven/com.github.wywuzh/commons-static-adminlte@2.6.4.RELEASE

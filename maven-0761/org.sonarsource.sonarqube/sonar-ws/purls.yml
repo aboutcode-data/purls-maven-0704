@@ -209,3 +209,4 @@
 - pkg:maven/org.sonarsource.sonarqube/sonar-ws@9.6.0.59041?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-ws@9.6.1.59531?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-ws@9.7.0.61563?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-ws@9.7.1.62043?classifier=sources

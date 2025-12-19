@@ -18,3 +18,5 @@
 - pkg:maven/org.roaringbitmap/bsi@0.9.31?classifier=sources
 - pkg:maven/org.roaringbitmap/bsi@0.9.32?classifier=sources
 - pkg:maven/org.roaringbitmap/bsi@0.9.33?classifier=sources
+- pkg:maven/org.roaringbitmap/bsi@0.9.34?classifier=sources
+- pkg:maven/org.roaringbitmap/bsi@0.9.35?classifier=sources

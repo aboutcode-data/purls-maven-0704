@@ -18,3 +18,4 @@
 - pkg:maven/io.kubernetes/e2e-tests@15.0.1
 - pkg:maven/io.kubernetes/e2e-tests@16.0.0
 - pkg:maven/io.kubernetes/e2e-tests@16.0.1
+- pkg:maven/io.kubernetes/e2e-tests@16.0.2

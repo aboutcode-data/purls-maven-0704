@@ -26,3 +26,5 @@
 - pkg:maven/com.cognitect.aws/iotwireless@822.2.1193.0?classifier=sources
 - pkg:maven/com.cognitect.aws/iotwireless@822.2.1205.0
 - pkg:maven/com.cognitect.aws/iotwireless@822.2.1205.0?classifier=sources
+- pkg:maven/com.cognitect.aws/iotwireless@825.2.1262.0
+- pkg:maven/com.cognitect.aws/iotwireless@825.2.1262.0?classifier=sources

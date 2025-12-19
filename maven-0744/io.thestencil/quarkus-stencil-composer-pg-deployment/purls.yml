@@ -109,6 +109,10 @@
 - pkg:maven/io.thestencil/quarkus-stencil-composer-pg-deployment@1.148.10?classifier=sources
 - pkg:maven/io.thestencil/quarkus-stencil-composer-pg-deployment@1.148.11
 - pkg:maven/io.thestencil/quarkus-stencil-composer-pg-deployment@1.148.11?classifier=sources
+- pkg:maven/io.thestencil/quarkus-stencil-composer-pg-deployment@1.148.12
+- pkg:maven/io.thestencil/quarkus-stencil-composer-pg-deployment@1.148.12?classifier=sources
+- pkg:maven/io.thestencil/quarkus-stencil-composer-pg-deployment@1.148.13
+- pkg:maven/io.thestencil/quarkus-stencil-composer-pg-deployment@1.148.13?classifier=sources
 - pkg:maven/io.thestencil/quarkus-stencil-composer-pg-deployment@1.148.2
 - pkg:maven/io.thestencil/quarkus-stencil-composer-pg-deployment@1.148.2?classifier=sources
 - pkg:maven/io.thestencil/quarkus-stencil-composer-pg-deployment@1.148.3

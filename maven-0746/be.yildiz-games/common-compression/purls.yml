@@ -32,3 +32,5 @@
 - pkg:maven/be.yildiz-games/common-compression@2.3.0?classifier=sources
 - pkg:maven/be.yildiz-games/common-compression@2.3.1
 - pkg:maven/be.yildiz-games/common-compression@2.3.1?classifier=sources
+- pkg:maven/be.yildiz-games/common-compression@2.3.2
+- pkg:maven/be.yildiz-games/common-compression@2.3.2?classifier=sources

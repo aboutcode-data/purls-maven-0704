@@ -1,5 +1,9 @@
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-welcome@1.11
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-welcome@1.11?classifier=sources
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-welcome@1.12
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-welcome@1.12?classifier=sources
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-welcome@1.13
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-welcome@1.13?classifier=sources
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-welcome@1.4
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-welcome@1.4?classifier=sources
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-welcome@1.5
@@ -12,3 +16,5 @@
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-welcome@1.8?classifier=sources
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-welcome@1.9
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-welcome@1.9?classifier=sources
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-welcome@2.0
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-welcome@2.0?classifier=sources

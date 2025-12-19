@@ -24,5 +24,13 @@
 - pkg:maven/in.hocg.boot/mybatis-plus-extensions-tpl-autoconfigure@1.0.45?classifier=sources
 - pkg:maven/in.hocg.boot/mybatis-plus-extensions-tpl-autoconfigure@1.0.47
 - pkg:maven/in.hocg.boot/mybatis-plus-extensions-tpl-autoconfigure@1.0.47?classifier=sources
+- pkg:maven/in.hocg.boot/mybatis-plus-extensions-tpl-autoconfigure@1.0.48
+- pkg:maven/in.hocg.boot/mybatis-plus-extensions-tpl-autoconfigure@1.0.48?classifier=sources
+- pkg:maven/in.hocg.boot/mybatis-plus-extensions-tpl-autoconfigure@1.0.49
+- pkg:maven/in.hocg.boot/mybatis-plus-extensions-tpl-autoconfigure@1.0.49?classifier=sources
+- pkg:maven/in.hocg.boot/mybatis-plus-extensions-tpl-autoconfigure@1.0.50
+- pkg:maven/in.hocg.boot/mybatis-plus-extensions-tpl-autoconfigure@1.0.50?classifier=sources
+- pkg:maven/in.hocg.boot/mybatis-plus-extensions-tpl-autoconfigure@1.0.51
+- pkg:maven/in.hocg.boot/mybatis-plus-extensions-tpl-autoconfigure@1.0.51?classifier=sources
 - pkg:maven/in.hocg.boot/mybatis-plus-extensions-tpl-autoconfigure@v1.0.46
 - pkg:maven/in.hocg.boot/mybatis-plus-extensions-tpl-autoconfigure@v1.0.46?classifier=sources

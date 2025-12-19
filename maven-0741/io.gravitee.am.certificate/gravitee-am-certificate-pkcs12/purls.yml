@@ -204,6 +204,8 @@
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-pkcs12@3.15.12?type=zip
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-pkcs12@3.15.13?classifier=sources
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-pkcs12@3.15.13?type=zip
+- pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-pkcs12@3.15.14?classifier=sources
+- pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-pkcs12@3.15.14?type=zip
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-pkcs12@3.15.1?classifier=sources
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-pkcs12@3.15.1?type=zip
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-pkcs12@3.15.2?classifier=sources
@@ -246,6 +248,12 @@
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-pkcs12@3.18.0-RC2?type=zip
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-pkcs12@3.18.0?classifier=sources
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-pkcs12@3.18.0?type=zip
+- pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-pkcs12@3.18.10?classifier=sources
+- pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-pkcs12@3.18.10?type=zip
+- pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-pkcs12@3.18.11?classifier=sources
+- pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-pkcs12@3.18.11?type=zip
+- pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-pkcs12@3.18.12?classifier=sources
+- pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-pkcs12@3.18.12?type=zip
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-pkcs12@3.18.1?classifier=sources
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-pkcs12@3.18.1?type=zip
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-pkcs12@3.18.2?classifier=sources
@@ -270,6 +278,8 @@
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-pkcs12@3.19.0?type=zip
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-pkcs12@3.19.1?classifier=sources
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-pkcs12@3.19.1?type=zip
+- pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-pkcs12@3.19.2?classifier=sources
+- pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-pkcs12@3.19.2?type=zip
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-pkcs12@3.2.0?classifier=sources
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-pkcs12@3.2.0?type=zip
 - pkg:maven/io.gravitee.am.certificate/gravitee-am-certificate-pkcs12@3.2.1?classifier=sources

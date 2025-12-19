@@ -8,3 +8,5 @@
 - pkg:maven/com.aoindustries/aoserv-webservices-book@1.90.0?classifier=sources
 - pkg:maven/com.aoindustries/aoserv-webservices-book@1.91.4
 - pkg:maven/com.aoindustries/aoserv-webservices-book@1.91.4?classifier=sources
+- pkg:maven/com.aoindustries/aoserv-webservices-book@1.91.7
+- pkg:maven/com.aoindustries/aoserv-webservices-book@1.91.7?classifier=sources
