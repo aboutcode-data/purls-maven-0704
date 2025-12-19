@@ -3,3 +3,4 @@
 - pkg:maven/com.swirlds/swirlds-jasperdb@0.22.1
 - pkg:maven/com.swirlds/swirlds-jasperdb@0.23.0
 - pkg:maven/com.swirlds/swirlds-jasperdb@0.23.1
+- pkg:maven/com.swirlds/swirlds-jasperdb@0.24.0

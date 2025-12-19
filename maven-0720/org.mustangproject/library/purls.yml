@@ -26,3 +26,5 @@
 - pkg:maven/org.mustangproject/library@2.3.3?classifier=sources
 - pkg:maven/org.mustangproject/library@2.4.0
 - pkg:maven/org.mustangproject/library@2.4.0?classifier=sources
+- pkg:maven/org.mustangproject/library@2.5.0
+- pkg:maven/org.mustangproject/library@2.5.0?classifier=sources

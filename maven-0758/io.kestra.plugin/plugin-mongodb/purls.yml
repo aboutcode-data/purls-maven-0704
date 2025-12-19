@@ -1,1 +1,2 @@
 - pkg:maven/io.kestra.plugin/plugin-mongodb@0.3.0?classifier=sources
+- pkg:maven/io.kestra.plugin/plugin-mongodb@0.4.0?classifier=sources

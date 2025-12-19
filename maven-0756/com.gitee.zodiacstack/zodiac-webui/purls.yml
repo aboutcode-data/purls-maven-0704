@@ -1,0 +1,4 @@
+- pkg:maven/com.gitee.zodiacstack/zodiac-webui@1.3.12
+- pkg:maven/com.gitee.zodiacstack/zodiac-webui@1.3.12?classifier=sources
+- pkg:maven/com.gitee.zodiacstack/zodiac-webui@1.4.0
+- pkg:maven/com.gitee.zodiacstack/zodiac-webui@1.4.0?classifier=sources

@@ -24,3 +24,5 @@
 - pkg:maven/io.michaelrocks/libphonenumber-android@8.12.42?classifier=sources
 - pkg:maven/io.michaelrocks/libphonenumber-android@8.12.43?classifier=sources
 - pkg:maven/io.michaelrocks/libphonenumber-android@8.12.44?classifier=sources
+- pkg:maven/io.michaelrocks/libphonenumber-android@8.12.45?classifier=sources
+- pkg:maven/io.michaelrocks/libphonenumber-android@8.12.46?classifier=sources

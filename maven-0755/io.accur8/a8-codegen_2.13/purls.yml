@@ -1,2 +1,4 @@
 - pkg:maven/io.accur8/a8-codegen_2.13@0.1.0-20220205_2049_master
 - pkg:maven/io.accur8/a8-codegen_2.13@0.1.0-20220205_2049_master?classifier=sources
+- pkg:maven/io.accur8/a8-codegen_2.13@0.1.0-20220331_1713_master
+- pkg:maven/io.accur8/a8-codegen_2.13@0.1.0-20220331_1713_master?classifier=sources

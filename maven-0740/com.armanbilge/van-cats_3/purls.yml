@@ -26,6 +26,10 @@
 - pkg:maven/com.armanbilge/van-cats_3@0.0-5cc07fe?classifier=sources
 - pkg:maven/com.armanbilge/van-cats_3@0.0-5dd1fa1
 - pkg:maven/com.armanbilge/van-cats_3@0.0-5dd1fa1?classifier=sources
+- pkg:maven/com.armanbilge/van-cats_3@0.0-62f4e06
+- pkg:maven/com.armanbilge/van-cats_3@0.0-62f4e06?classifier=sources
+- pkg:maven/com.armanbilge/van-cats_3@0.0-6c6bd4f
+- pkg:maven/com.armanbilge/van-cats_3@0.0-6c6bd4f?classifier=sources
 - pkg:maven/com.armanbilge/van-cats_3@0.0-7085839
 - pkg:maven/com.armanbilge/van-cats_3@0.0-7085839?classifier=sources
 - pkg:maven/com.armanbilge/van-cats_3@0.0-74c09c5
@@ -44,6 +48,8 @@
 - pkg:maven/com.armanbilge/van-cats_3@0.0-8a15f06?classifier=sources
 - pkg:maven/com.armanbilge/van-cats_3@0.0-9103667
 - pkg:maven/com.armanbilge/van-cats_3@0.0-9103667?classifier=sources
+- pkg:maven/com.armanbilge/van-cats_3@0.0-999e410
+- pkg:maven/com.armanbilge/van-cats_3@0.0-999e410?classifier=sources
 - pkg:maven/com.armanbilge/van-cats_3@0.0-9dfae4f
 - pkg:maven/com.armanbilge/van-cats_3@0.0-9dfae4f?classifier=sources
 - pkg:maven/com.armanbilge/van-cats_3@0.0-a49e826
@@ -72,8 +78,12 @@
 - pkg:maven/com.armanbilge/van-cats_3@0.0-d5539de?classifier=sources
 - pkg:maven/com.armanbilge/van-cats_3@0.0-d5ff473
 - pkg:maven/com.armanbilge/van-cats_3@0.0-d5ff473?classifier=sources
+- pkg:maven/com.armanbilge/van-cats_3@0.0-d607ecc
+- pkg:maven/com.armanbilge/van-cats_3@0.0-d607ecc?classifier=sources
 - pkg:maven/com.armanbilge/van-cats_3@0.0-d8cc22b
 - pkg:maven/com.armanbilge/van-cats_3@0.0-d8cc22b?classifier=sources
+- pkg:maven/com.armanbilge/van-cats_3@0.0-da19923
+- pkg:maven/com.armanbilge/van-cats_3@0.0-da19923?classifier=sources
 - pkg:maven/com.armanbilge/van-cats_3@0.0-dd88f13
 - pkg:maven/com.armanbilge/van-cats_3@0.0-dd88f13?classifier=sources
 - pkg:maven/com.armanbilge/van-cats_3@0.0-e07bbab
@@ -86,6 +96,10 @@
 - pkg:maven/com.armanbilge/van-cats_3@0.0-e882059?classifier=sources
 - pkg:maven/com.armanbilge/van-cats_3@0.0-f1a763c
 - pkg:maven/com.armanbilge/van-cats_3@0.0-f1a763c?classifier=sources
+- pkg:maven/com.armanbilge/van-cats_3@0.0-f80987d
+- pkg:maven/com.armanbilge/van-cats_3@0.0-f80987d?classifier=sources
+- pkg:maven/com.armanbilge/van-cats_3@0.0-f9f32cb
+- pkg:maven/com.armanbilge/van-cats_3@0.0-f9f32cb?classifier=sources
 - pkg:maven/com.armanbilge/van-cats_3@0.0-fa363a8
 - pkg:maven/com.armanbilge/van-cats_3@0.0-fa363a8?classifier=sources
 - pkg:maven/com.armanbilge/van-cats_3@0.0-fe7e42f

@@ -6,5 +6,7 @@
 - pkg:maven/nl.vroste/zio-kinesis_2.12@0.20.0?classifier=sources
 - pkg:maven/nl.vroste/zio-kinesis_2.12@0.21.0
 - pkg:maven/nl.vroste/zio-kinesis_2.12@0.21.0?classifier=sources
+- pkg:maven/nl.vroste/zio-kinesis_2.12@0.21.2
+- pkg:maven/nl.vroste/zio-kinesis_2.12@0.21.2?classifier=sources
 - pkg:maven/nl.vroste/zio-kinesis_2.12@5dd51766a6de8d3233c1846ad75deb185e05b8a0
 - pkg:maven/nl.vroste/zio-kinesis_2.12@5dd51766a6de8d3233c1846ad75deb185e05b8a0?classifier=sources

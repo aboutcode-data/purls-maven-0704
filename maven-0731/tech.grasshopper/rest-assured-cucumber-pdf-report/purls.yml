@@ -1,0 +1,6 @@
+- pkg:maven/tech.grasshopper/rest-assured-cucumber-pdf-report@1.0.0
+- pkg:maven/tech.grasshopper/rest-assured-cucumber-pdf-report@1.0.0?classifier=sources
+- pkg:maven/tech.grasshopper/rest-assured-cucumber-pdf-report@1.1.0
+- pkg:maven/tech.grasshopper/rest-assured-cucumber-pdf-report@1.1.0?classifier=sources
+- pkg:maven/tech.grasshopper/rest-assured-cucumber-pdf-report@1.1.1
+- pkg:maven/tech.grasshopper/rest-assured-cucumber-pdf-report@1.1.1?classifier=sources

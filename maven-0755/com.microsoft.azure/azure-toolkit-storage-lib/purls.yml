@@ -16,3 +16,13 @@
 - pkg:maven/com.microsoft.azure/azure-toolkit-storage-lib@0.15.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-toolkit-storage-lib@0.16.0
 - pkg:maven/com.microsoft.azure/azure-toolkit-storage-lib@0.16.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-toolkit-storage-lib@0.17.0
+- pkg:maven/com.microsoft.azure/azure-toolkit-storage-lib@0.17.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-toolkit-storage-lib@0.17.1
+- pkg:maven/com.microsoft.azure/azure-toolkit-storage-lib@0.17.1?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-toolkit-storage-lib@0.18.0
+- pkg:maven/com.microsoft.azure/azure-toolkit-storage-lib@0.18.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-toolkit-storage-lib@0.19.0
+- pkg:maven/com.microsoft.azure/azure-toolkit-storage-lib@0.19.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-toolkit-storage-lib@0.19.1
+- pkg:maven/com.microsoft.azure/azure-toolkit-storage-lib@0.19.1?classifier=sources

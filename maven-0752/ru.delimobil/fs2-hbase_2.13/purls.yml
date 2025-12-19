@@ -1,0 +1,4 @@
+- pkg:maven/ru.delimobil/fs2-hbase_2.13@0.1.0-RC1
+- pkg:maven/ru.delimobil/fs2-hbase_2.13@0.1.0-RC1?classifier=sources
+- pkg:maven/ru.delimobil/fs2-hbase_2.13@0.1.0-RC2
+- pkg:maven/ru.delimobil/fs2-hbase_2.13@0.1.0-RC2?classifier=sources

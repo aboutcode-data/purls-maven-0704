@@ -1,0 +1,4 @@
+- pkg:maven/io.github.lemiones/spring-boot-fluent-validator-core@1.0.2.RELEASE
+- pkg:maven/io.github.lemiones/spring-boot-fluent-validator-core@1.0.2.RELEASE?classifier=sources
+- pkg:maven/io.github.lemiones/spring-boot-fluent-validator-core@1.0.3.RELEASE
+- pkg:maven/io.github.lemiones/spring-boot-fluent-validator-core@1.0.3.RELEASE?classifier=sources

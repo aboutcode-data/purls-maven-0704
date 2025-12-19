@@ -51,6 +51,7 @@
 - pkg:maven/co.dapi/connect@2.24.0?classifier=sources
 - pkg:maven/co.dapi/connect@2.24.1?classifier=sources
 - pkg:maven/co.dapi/connect@2.24.2?classifier=sources
+- pkg:maven/co.dapi/connect@2.24.3?classifier=sources
 - pkg:maven/co.dapi/connect@2.3.0?classifier=sources
 - pkg:maven/co.dapi/connect@2.4.0?classifier=sources
 - pkg:maven/co.dapi/connect@2.4.1?classifier=sources

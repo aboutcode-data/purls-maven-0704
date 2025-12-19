@@ -360,3 +360,11 @@
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.secret.mgt.core@5.20.319?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.secret.mgt.core@5.20.320
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.secret.mgt.core@5.20.320?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.secret.mgt.core@5.20.321
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.secret.mgt.core@5.20.321?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.secret.mgt.core@5.20.322
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.secret.mgt.core@5.20.322?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.secret.mgt.core@5.20.323
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.secret.mgt.core@5.20.323?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.secret.mgt.core@5.20.324
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.secret.mgt.core@5.20.324?classifier=sources

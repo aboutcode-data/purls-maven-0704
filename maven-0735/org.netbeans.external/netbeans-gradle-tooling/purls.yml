@@ -11,3 +11,4 @@
 - pkg:maven/org.netbeans.external/netbeans-gradle-tooling@RELEASE124
 - pkg:maven/org.netbeans.external/netbeans-gradle-tooling@RELEASE125
 - pkg:maven/org.netbeans.external/netbeans-gradle-tooling@RELEASE126
+- pkg:maven/org.netbeans.external/netbeans-gradle-tooling@RELEASE130

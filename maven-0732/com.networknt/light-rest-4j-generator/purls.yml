@@ -164,3 +164,5 @@
 - pkg:maven/com.networknt/light-rest-4j-generator@2.0.8?classifier=sources
 - pkg:maven/com.networknt/light-rest-4j-generator@2.0.9
 - pkg:maven/com.networknt/light-rest-4j-generator@2.0.9?classifier=sources
+- pkg:maven/com.networknt/light-rest-4j-generator@2.1.0
+- pkg:maven/com.networknt/light-rest-4j-generator@2.1.0?classifier=sources

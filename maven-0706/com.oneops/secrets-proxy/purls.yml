@@ -22,3 +22,5 @@
 - pkg:maven/com.oneops/secrets-proxy@1.4.5?classifier=sources
 - pkg:maven/com.oneops/secrets-proxy@1.4.6
 - pkg:maven/com.oneops/secrets-proxy@1.4.6?classifier=sources
+- pkg:maven/com.oneops/secrets-proxy@1.5.0
+- pkg:maven/com.oneops/secrets-proxy@1.5.0?classifier=sources

@@ -1,4 +1,5 @@
 - pkg:maven/io.github.rossetti/JSLCore@R1.0.10?classifier=sources
+- pkg:maven/io.github.rossetti/JSLCore@R1.0.11?classifier=sources
 - pkg:maven/io.github.rossetti/JSLCore@R1.0.6?classifier=sources
 - pkg:maven/io.github.rossetti/JSLCore@R1.0.7?classifier=sources
 - pkg:maven/io.github.rossetti/JSLCore@R1.0.8?classifier=sources

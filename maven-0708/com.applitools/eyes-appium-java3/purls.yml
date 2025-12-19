@@ -22,6 +22,10 @@
 - pkg:maven/com.applitools/eyes-appium-java3@3.165.210_5?classifier=sources
 - pkg:maven/com.applitools/eyes-appium-java3@3.165.212_0
 - pkg:maven/com.applitools/eyes-appium-java3@3.165.212_0?classifier=sources
+- pkg:maven/com.applitools/eyes-appium-java3@3.165.2133_0
+- pkg:maven/com.applitools/eyes-appium-java3@3.165.2133_0?classifier=sources
+- pkg:maven/com.applitools/eyes-appium-java3@3.165.2133_1
+- pkg:maven/com.applitools/eyes-appium-java3@3.165.2133_1?classifier=sources
 - pkg:maven/com.applitools/eyes-appium-java3@3.172.1
 - pkg:maven/com.applitools/eyes-appium-java3@3.172.1?classifier=sources
 - pkg:maven/com.applitools/eyes-appium-java3@3.173.0
@@ -176,3 +180,15 @@
 - pkg:maven/com.applitools/eyes-appium-java3@3.211.1?classifier=sources
 - pkg:maven/com.applitools/eyes-appium-java3@3.212.0
 - pkg:maven/com.applitools/eyes-appium-java3@3.212.0?classifier=sources
+- pkg:maven/com.applitools/eyes-appium-java3@3.212.1
+- pkg:maven/com.applitools/eyes-appium-java3@3.212.1?classifier=sources
+- pkg:maven/com.applitools/eyes-appium-java3@3.213.0
+- pkg:maven/com.applitools/eyes-appium-java3@3.213.0-beta
+- pkg:maven/com.applitools/eyes-appium-java3@3.213.0-beta?classifier=sources
+- pkg:maven/com.applitools/eyes-appium-java3@3.213.0?classifier=sources
+- pkg:maven/com.applitools/eyes-appium-java3@3.213.1-beta
+- pkg:maven/com.applitools/eyes-appium-java3@3.213.1-beta?classifier=sources
+- pkg:maven/com.applitools/eyes-appium-java3@3.213.2-beta
+- pkg:maven/com.applitools/eyes-appium-java3@3.213.2-beta?classifier=sources
+- pkg:maven/com.applitools/eyes-appium-java3@3.213.3-beta
+- pkg:maven/com.applitools/eyes-appium-java3@3.213.3-beta?classifier=sources

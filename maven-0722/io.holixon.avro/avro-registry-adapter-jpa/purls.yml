@@ -1,0 +1,2 @@
+- pkg:maven/io.holixon.avro/avro-registry-adapter-jpa@0.1.0
+- pkg:maven/io.holixon.avro/avro-registry-adapter-jpa@0.1.0?classifier=sources

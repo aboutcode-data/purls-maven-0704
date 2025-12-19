@@ -1,0 +1,6 @@
+- pkg:maven/io.github.dailystruggle/EffectsAPI@1.0-ALPHA01
+- pkg:maven/io.github.dailystruggle/EffectsAPI@1.0-ALPHA01?classifier=sources
+- pkg:maven/io.github.dailystruggle/EffectsAPI@1.0-ALPHA02
+- pkg:maven/io.github.dailystruggle/EffectsAPI@1.0-ALPHA02?classifier=sources
+- pkg:maven/io.github.dailystruggle/EffectsAPI@1.0-ALPHA03
+- pkg:maven/io.github.dailystruggle/EffectsAPI@1.0-ALPHA03?classifier=sources

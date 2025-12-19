@@ -16,3 +16,4 @@
 - pkg:maven/org.jboss.resteasy/resteasy-jaxrs-all@5.0.2.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.resteasy/resteasy-jaxrs-all@6.0.0.Beta1?classifier=source-release&type=zip
 - pkg:maven/org.jboss.resteasy/resteasy-jaxrs-all@6.0.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.resteasy/resteasy-jaxrs-all@6.1.0.Alpha1?classifier=source-release&type=zip

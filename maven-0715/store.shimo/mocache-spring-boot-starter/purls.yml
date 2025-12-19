@@ -1,0 +1,2 @@
+- pkg:maven/store.shimo/mocache-spring-boot-starter@1.0.2-RELEASE
+- pkg:maven/store.shimo/mocache-spring-boot-starter@1.0.2-RELEASE?classifier=sources

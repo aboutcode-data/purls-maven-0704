@@ -1,0 +1,2 @@
+- pkg:maven/io.ciera/tool-core-masl@3.0.0-beta1
+- pkg:maven/io.ciera/tool-core-masl@3.0.0-beta1?classifier=sources

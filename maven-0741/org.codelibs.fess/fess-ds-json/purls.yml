@@ -40,3 +40,5 @@
 - pkg:maven/org.codelibs.fess/fess-ds-json@13.8.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-ds-json@13.9.0
 - pkg:maven/org.codelibs.fess/fess-ds-json@13.9.0?classifier=sources
+- pkg:maven/org.codelibs.fess/fess-ds-json@14.0.0
+- pkg:maven/org.codelibs.fess/fess-ds-json@14.0.0?classifier=sources

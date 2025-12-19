@@ -1,0 +1,2 @@
+- pkg:maven/org.http4k/http4k-client-fuel@4.25.7.0?classifier=sources
+- pkg:maven/org.http4k/http4k-client-fuel@4.25.8.0?classifier=sources

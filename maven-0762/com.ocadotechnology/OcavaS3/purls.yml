@@ -22,3 +22,5 @@
 - pkg:maven/com.ocadotechnology/OcavaS3@10.4?classifier=sources
 - pkg:maven/com.ocadotechnology/OcavaS3@10.8.17
 - pkg:maven/com.ocadotechnology/OcavaS3@10.8.17?classifier=sources
+- pkg:maven/com.ocadotechnology/OcavaS3@11.0.11.1
+- pkg:maven/com.ocadotechnology/OcavaS3@11.0.11.1?classifier=sources

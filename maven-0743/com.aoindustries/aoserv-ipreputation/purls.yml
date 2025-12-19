@@ -4,3 +4,5 @@
 - pkg:maven/com.aoindustries/aoserv-ipreputation@1.84.2?classifier=sources
 - pkg:maven/com.aoindustries/aoserv-ipreputation@1.85.0
 - pkg:maven/com.aoindustries/aoserv-ipreputation@1.85.0?classifier=sources
+- pkg:maven/com.aoindustries/aoserv-ipreputation@1.89.0
+- pkg:maven/com.aoindustries/aoserv-ipreputation@1.89.0?classifier=sources

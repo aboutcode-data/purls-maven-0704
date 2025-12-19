@@ -214,6 +214,8 @@
 - pkg:maven/io.sundr/dsl-annotations@0.50.2?classifier=sources
 - pkg:maven/io.sundr/dsl-annotations@0.50.3
 - pkg:maven/io.sundr/dsl-annotations@0.50.3?classifier=sources
+- pkg:maven/io.sundr/dsl-annotations@0.50.4
+- pkg:maven/io.sundr/dsl-annotations@0.50.4?classifier=sources
 - pkg:maven/io.sundr/dsl-annotations@0.6.0
 - pkg:maven/io.sundr/dsl-annotations@0.6.0?classifier=sources
 - pkg:maven/io.sundr/dsl-annotations@0.60.0
@@ -256,5 +258,15 @@
 - pkg:maven/io.sundr/dsl-annotations@0.9.2?classifier=sources
 - pkg:maven/io.sundr/dsl-annotations@0.9.3
 - pkg:maven/io.sundr/dsl-annotations@0.9.3?classifier=sources
+- pkg:maven/io.sundr/dsl-annotations@0.90.0
+- pkg:maven/io.sundr/dsl-annotations@0.90.0?classifier=sources
+- pkg:maven/io.sundr/dsl-annotations@0.90.1
+- pkg:maven/io.sundr/dsl-annotations@0.90.1?classifier=sources
+- pkg:maven/io.sundr/dsl-annotations@0.90.2
+- pkg:maven/io.sundr/dsl-annotations@0.90.2?classifier=sources
+- pkg:maven/io.sundr/dsl-annotations@0.90.3
+- pkg:maven/io.sundr/dsl-annotations@0.90.3?classifier=sources
+- pkg:maven/io.sundr/dsl-annotations@0.90.4
+- pkg:maven/io.sundr/dsl-annotations@0.90.4?classifier=sources
 - pkg:maven/io.sundr/dsl-annotations@1.14.0
 - pkg:maven/io.sundr/dsl-annotations@1.14.0?classifier=sources

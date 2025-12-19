@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/aliyun-java-sdk-cloudphone@1.0.4
+- pkg:maven/com.aliyun/aliyun-java-sdk-cloudphone@1.0.4?classifier=sources

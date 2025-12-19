@@ -1,0 +1,1 @@
+- pkg:maven/com.purej.pmd/sonar-pmd-plugin@3.4.0?classifier=sources

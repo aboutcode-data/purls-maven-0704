@@ -1,3 +1,5 @@
+- pkg:maven/org.archmix/legolas-mysql@1.0.10
+- pkg:maven/org.archmix/legolas-mysql@1.0.10?classifier=sources
 - pkg:maven/org.archmix/legolas-mysql@1.0.4
 - pkg:maven/org.archmix/legolas-mysql@1.0.4?classifier=sources
 - pkg:maven/org.archmix/legolas-mysql@1.0.5

@@ -12,3 +12,4 @@
 - pkg:maven/ru.vyarus.guicey/guicey-validation@5.4.1-1?classifier=sources
 - pkg:maven/ru.vyarus.guicey/guicey-validation@5.4.1-2?classifier=sources
 - pkg:maven/ru.vyarus.guicey/guicey-validation@5.4.2-1?classifier=sources
+- pkg:maven/ru.vyarus.guicey/guicey-validation@5.5.0-1?classifier=sources

@@ -26,6 +26,10 @@
 - pkg:maven/jakarta.enterprise/cdi-tck-ext-lib@4.0.0-RC3?classifier=sources
 - pkg:maven/jakarta.enterprise/cdi-tck-ext-lib@4.0.0-RC4
 - pkg:maven/jakarta.enterprise/cdi-tck-ext-lib@4.0.0-RC4?classifier=sources
+- pkg:maven/jakarta.enterprise/cdi-tck-ext-lib@4.0.0-RC7
+- pkg:maven/jakarta.enterprise/cdi-tck-ext-lib@4.0.0-RC7?classifier=sources
+- pkg:maven/jakarta.enterprise/cdi-tck-ext-lib@4.0.0-RC8
+- pkg:maven/jakarta.enterprise/cdi-tck-ext-lib@4.0.0-RC8?classifier=sources
 - pkg:maven/jakarta.enterprise/cdi-tck-ext-lib@4.0.0.Alpha4
 - pkg:maven/jakarta.enterprise/cdi-tck-ext-lib@4.0.0.Alpha4?classifier=sources
 - pkg:maven/jakarta.enterprise/cdi-tck-ext-lib@4.0.0.Alpha5

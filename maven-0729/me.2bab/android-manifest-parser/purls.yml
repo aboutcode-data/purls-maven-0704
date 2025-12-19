@@ -1,0 +1,4 @@
+- pkg:maven/me.2bab/android-manifest-parser@0.5.0?classifier=sources
+- pkg:maven/me.2bab/android-manifest-parser@0.6.0?classifier=sources
+- pkg:maven/me.2bab/android-manifest-parser@0.6.1?classifier=sources
+- pkg:maven/me.2bab/android-manifest-parser@0.6.2?classifier=sources

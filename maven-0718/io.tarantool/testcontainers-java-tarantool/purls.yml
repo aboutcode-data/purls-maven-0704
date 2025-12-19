@@ -22,3 +22,5 @@
 - pkg:maven/io.tarantool/testcontainers-java-tarantool@0.4.5?classifier=sources
 - pkg:maven/io.tarantool/testcontainers-java-tarantool@0.4.6
 - pkg:maven/io.tarantool/testcontainers-java-tarantool@0.4.6?classifier=sources
+- pkg:maven/io.tarantool/testcontainers-java-tarantool@0.4.7
+- pkg:maven/io.tarantool/testcontainers-java-tarantool@0.4.7?classifier=sources

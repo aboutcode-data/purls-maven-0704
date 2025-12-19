@@ -76,3 +76,11 @@
 - pkg:maven/com.codacy/codacy-plugins-runner-kubernetes_2.13@24.5.0_play_2.7?classifier=sources
 - pkg:maven/com.codacy/codacy-plugins-runner-kubernetes_2.13@24.5.1_play_2.7
 - pkg:maven/com.codacy/codacy-plugins-runner-kubernetes_2.13@24.5.1_play_2.7?classifier=sources
+- pkg:maven/com.codacy/codacy-plugins-runner-kubernetes_2.13@25.0.0-removetoolstest.4.0830268b_play_2.7
+- pkg:maven/com.codacy/codacy-plugins-runner-kubernetes_2.13@25.0.0-removetoolstest.4.0830268b_play_2.7?classifier=sources
+- pkg:maven/com.codacy/codacy-plugins-runner-kubernetes_2.13@25.0.0_play_2.7
+- pkg:maven/com.codacy/codacy-plugins-runner-kubernetes_2.13@25.0.0_play_2.7?classifier=sources
+- pkg:maven/com.codacy/codacy-plugins-runner-kubernetes_2.13@25.0.1_play_2.7
+- pkg:maven/com.codacy/codacy-plugins-runner-kubernetes_2.13@25.0.1_play_2.7?classifier=sources
+- pkg:maven/com.codacy/codacy-plugins-runner-kubernetes_2.13@26.0.0_play_2.7
+- pkg:maven/com.codacy/codacy-plugins-runner-kubernetes_2.13@26.0.0_play_2.7?classifier=sources

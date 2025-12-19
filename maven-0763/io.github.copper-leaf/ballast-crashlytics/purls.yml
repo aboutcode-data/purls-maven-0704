@@ -1,4 +1,7 @@
 - pkg:maven/io.github.copper-leaf/ballast-crashlytics@0.1.0?classifier=sources
+- pkg:maven/io.github.copper-leaf/ballast-crashlytics@0.10.0?classifier=sources
+- pkg:maven/io.github.copper-leaf/ballast-crashlytics@0.11.0?classifier=sources
+- pkg:maven/io.github.copper-leaf/ballast-crashlytics@0.12.0?classifier=sources
 - pkg:maven/io.github.copper-leaf/ballast-crashlytics@0.3.0?classifier=sources
 - pkg:maven/io.github.copper-leaf/ballast-crashlytics@0.4.0?classifier=sources
 - pkg:maven/io.github.copper-leaf/ballast-crashlytics@0.5.0?classifier=sources
@@ -7,3 +10,4 @@
 - pkg:maven/io.github.copper-leaf/ballast-crashlytics@0.8.0?classifier=sources
 - pkg:maven/io.github.copper-leaf/ballast-crashlytics@0.8.1?classifier=sources
 - pkg:maven/io.github.copper-leaf/ballast-crashlytics@0.8.2?classifier=sources
+- pkg:maven/io.github.copper-leaf/ballast-crashlytics@0.9.0?classifier=sources

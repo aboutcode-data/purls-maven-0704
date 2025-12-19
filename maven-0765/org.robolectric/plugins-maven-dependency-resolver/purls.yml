@@ -55,3 +55,4 @@
 - pkg:maven/org.robolectric/plugins-maven-dependency-resolver@4.7.2?classifier=sources
 - pkg:maven/org.robolectric/plugins-maven-dependency-resolver@4.7.3?classifier=sources
 - pkg:maven/org.robolectric/plugins-maven-dependency-resolver@4.7?classifier=sources
+- pkg:maven/org.robolectric/plugins-maven-dependency-resolver@4.8-alpha-1?classifier=sources

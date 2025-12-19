@@ -1,0 +1,4 @@
+- pkg:maven/tr.com.mantis.keycloak/keycloak-username-policy@16.1.0
+- pkg:maven/tr.com.mantis.keycloak/keycloak-username-policy@16.1.0?classifier=sources
+- pkg:maven/tr.com.mantis.keycloak/keycloak-username-policy@16.1.1
+- pkg:maven/tr.com.mantis.keycloak/keycloak-username-policy@16.1.1?classifier=sources

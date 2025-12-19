@@ -1,0 +1,1 @@
+- pkg:maven/com.squareup.okhttp3/okhttp-coroutines@5.0.0-alpha.6?classifier=sources

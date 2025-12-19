@@ -164,3 +164,5 @@
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-common@9.7.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-common@9.8.0
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-common@9.8.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-serializer-common@9.9.0
+- pkg:maven/org.wicketstuff/wicketstuff-serializer-common@9.9.0?classifier=sources

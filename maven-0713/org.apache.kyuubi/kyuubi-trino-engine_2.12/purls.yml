@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.kyuubi/kyuubi-trino-engine_2.12@1.5.0-incubating
+- pkg:maven/org.apache.kyuubi/kyuubi-trino-engine_2.12@1.5.0-incubating?classifier=sources

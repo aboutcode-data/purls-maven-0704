@@ -1,2 +1,3 @@
 - pkg:maven/com.revenuecat.purchases/purchases-store-google-unityiap@5.0.0-rc2?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-store-google-unityiap@5.0.0-rc3?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-store-google-unityiap@5.0.0?classifier=sources

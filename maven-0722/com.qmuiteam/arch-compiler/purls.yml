@@ -1,1 +1,2 @@
 - pkg:maven/com.qmuiteam/arch-compiler@2.0.1?classifier=sources
+- pkg:maven/com.qmuiteam/arch-compiler@2.1.0?classifier=sources

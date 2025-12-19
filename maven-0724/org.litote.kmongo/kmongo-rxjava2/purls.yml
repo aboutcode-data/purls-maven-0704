@@ -36,3 +36,4 @@
 - pkg:maven/org.litote.kmongo/kmongo-rxjava2@4.3.0
 - pkg:maven/org.litote.kmongo/kmongo-rxjava2@4.4.0
 - pkg:maven/org.litote.kmongo/kmongo-rxjava2@4.5.0
+- pkg:maven/org.litote.kmongo/kmongo-rxjava2@4.5.1

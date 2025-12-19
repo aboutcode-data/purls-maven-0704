@@ -1,0 +1,2 @@
+- pkg:maven/com.github.yongyongwang/servlet-validator@0.1.1
+- pkg:maven/com.github.yongyongwang/servlet-validator@0.1.1?classifier=sources

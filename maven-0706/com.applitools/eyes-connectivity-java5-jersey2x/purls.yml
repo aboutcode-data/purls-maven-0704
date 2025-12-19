@@ -1,0 +1,2 @@
+- pkg:maven/com.applitools/eyes-connectivity-java5-jersey2x@5.0.2
+- pkg:maven/com.applitools/eyes-connectivity-java5-jersey2x@5.0.2?classifier=sources

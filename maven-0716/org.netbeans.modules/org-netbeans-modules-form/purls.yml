@@ -12,4 +12,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-form@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-form@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-form@RELEASE126?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-form@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-form@RELEASE90?classifier=sources

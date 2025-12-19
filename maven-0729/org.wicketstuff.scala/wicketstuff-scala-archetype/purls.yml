@@ -109,3 +109,4 @@
 - pkg:maven/org.wicketstuff.scala/wicketstuff-scala-archetype@9.6.0?classifier=sources
 - pkg:maven/org.wicketstuff.scala/wicketstuff-scala-archetype@9.7.0?classifier=sources
 - pkg:maven/org.wicketstuff.scala/wicketstuff-scala-archetype@9.8.0?classifier=sources
+- pkg:maven/org.wicketstuff.scala/wicketstuff-scala-archetype@9.9.0?classifier=sources

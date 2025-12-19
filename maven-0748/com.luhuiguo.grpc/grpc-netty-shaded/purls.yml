@@ -4,3 +4,5 @@
 - pkg:maven/com.luhuiguo.grpc/grpc-netty-shaded@1.43.1.GM.2?classifier=sources
 - pkg:maven/com.luhuiguo.grpc/grpc-netty-shaded@1.43.1.GM?classifier=sources
 - pkg:maven/com.luhuiguo.grpc/grpc-netty-shaded@1.43.1?classifier=sources
+- pkg:maven/com.luhuiguo.grpc/grpc-netty-shaded@1.43.2.GM
+- pkg:maven/com.luhuiguo.grpc/grpc-netty-shaded@1.43.2.GM?classifier=sources

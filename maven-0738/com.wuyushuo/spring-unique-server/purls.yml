@@ -1,0 +1,2 @@
+- pkg:maven/com.wuyushuo/spring-unique-server@1.9.4
+- pkg:maven/com.wuyushuo/spring-unique-server@1.9.4?classifier=sources

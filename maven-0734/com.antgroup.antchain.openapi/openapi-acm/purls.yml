@@ -2,3 +2,5 @@
 - pkg:maven/com.antgroup.antchain.openapi/openapi-acm@1.0.17?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-acm@1.0.19
 - pkg:maven/com.antgroup.antchain.openapi/openapi-acm@1.0.19?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-acm@1.0.21
+- pkg:maven/com.antgroup.antchain.openapi/openapi-acm@1.0.21?classifier=sources

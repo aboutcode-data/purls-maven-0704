@@ -8,3 +8,4 @@
 - pkg:maven/org.netbeans.external/org-apache-xmlrpc@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.external/org-apache-xmlrpc@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.external/org-apache-xmlrpc@RELEASE126?classifier=sources
+- pkg:maven/org.netbeans.external/org-apache-xmlrpc@RELEASE130?classifier=sources

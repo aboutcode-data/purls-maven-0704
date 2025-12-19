@@ -4,3 +4,7 @@
 - pkg:maven/com.adobe.aem/aem-modernize-tools.core@2.0.14?classifier=sources
 - pkg:maven/com.adobe.aem/aem-modernize-tools.core@2.0.16
 - pkg:maven/com.adobe.aem/aem-modernize-tools.core@2.0.16?classifier=sources
+- pkg:maven/com.adobe.aem/aem-modernize-tools.core@2.0.18
+- pkg:maven/com.adobe.aem/aem-modernize-tools.core@2.0.18?classifier=sources
+- pkg:maven/com.adobe.aem/aem-modernize-tools.core@2.1.0
+- pkg:maven/com.adobe.aem/aem-modernize-tools.core@2.1.0?classifier=sources

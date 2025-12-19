@@ -1,3 +1,4 @@
 - pkg:maven/de.gematik.test/tiger-coverage@0.18.1
 - pkg:maven/de.gematik.test/tiger-coverage@0.19.1
 - pkg:maven/de.gematik.test/tiger-coverage@0.19.2
+- pkg:maven/de.gematik.test/tiger-coverage@0.19.3

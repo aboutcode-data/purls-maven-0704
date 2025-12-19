@@ -16,3 +16,5 @@
 - pkg:maven/org.testingisdocumenting.webtau/webtau-groovy-app@1.45?classifier=sources
 - pkg:maven/org.testingisdocumenting.webtau/webtau-groovy-app@1.46
 - pkg:maven/org.testingisdocumenting.webtau/webtau-groovy-app@1.46?classifier=sources
+- pkg:maven/org.testingisdocumenting.webtau/webtau-groovy-app@1.47
+- pkg:maven/org.testingisdocumenting.webtau/webtau-groovy-app@1.47?classifier=sources

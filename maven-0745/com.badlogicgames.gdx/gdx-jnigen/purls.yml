@@ -87,3 +87,5 @@
 - pkg:maven/com.badlogicgames.gdx/gdx-jnigen@2.1.4?classifier=sources
 - pkg:maven/com.badlogicgames.gdx/gdx-jnigen@2.2.0?classifier=sources
 - pkg:maven/com.badlogicgames.gdx/gdx-jnigen@2.2.1?classifier=sources
+- pkg:maven/com.badlogicgames.gdx/gdx-jnigen@2.3.0?classifier=sources
+- pkg:maven/com.badlogicgames.gdx/gdx-jnigen@2.3.1?classifier=sources

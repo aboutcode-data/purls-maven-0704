@@ -1,3 +1,7 @@
 - pkg:maven/hr.fer.grading/create-exercise@0.3.0?classifier=sources
 - pkg:maven/hr.fer.grading/create-exercise@0.4.0?classifier=sources
 - pkg:maven/hr.fer.grading/create-exercise@0.5.0?classifier=sources
+- pkg:maven/hr.fer.grading/create-exercise@0.6.0?classifier=sources
+- pkg:maven/hr.fer.grading/create-exercise@0.7.0?classifier=sources
+- pkg:maven/hr.fer.grading/create-exercise@0.8.0?classifier=sources
+- pkg:maven/hr.fer.grading/create-exercise@0.9.0?classifier=sources

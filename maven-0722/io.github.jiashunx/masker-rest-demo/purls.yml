@@ -50,3 +50,5 @@
 - pkg:maven/io.github.jiashunx/masker-rest-demo@1.6.7?classifier=sources
 - pkg:maven/io.github.jiashunx/masker-rest-demo@1.6.8
 - pkg:maven/io.github.jiashunx/masker-rest-demo@1.6.8?classifier=sources
+- pkg:maven/io.github.jiashunx/masker-rest-demo@1.7.1
+- pkg:maven/io.github.jiashunx/masker-rest-demo@1.7.1?classifier=sources

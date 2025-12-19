@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.resteasy/server-adapter-test-base@6.1.0.Alpha1
+- pkg:maven/org.jboss.resteasy/server-adapter-test-base@6.1.0.Alpha1?classifier=sources

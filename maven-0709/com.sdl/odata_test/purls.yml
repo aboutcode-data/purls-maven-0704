@@ -15,6 +15,10 @@
 - pkg:maven/com.sdl/odata_test@2.10.1
 - pkg:maven/com.sdl/odata_test@2.10.11
 - pkg:maven/com.sdl/odata_test@2.10.11?classifier=sources
+- pkg:maven/com.sdl/odata_test@2.10.12
+- pkg:maven/com.sdl/odata_test@2.10.12?classifier=sources
+- pkg:maven/com.sdl/odata_test@2.10.13
+- pkg:maven/com.sdl/odata_test@2.10.13?classifier=sources
 - pkg:maven/com.sdl/odata_test@2.10.1?classifier=sources
 - pkg:maven/com.sdl/odata_test@2.10.3
 - pkg:maven/com.sdl/odata_test@2.10.3?classifier=sources
@@ -110,6 +114,10 @@
 - pkg:maven/com.sdl/odata_test@2.6.6?classifier=sources
 - pkg:maven/com.sdl/odata_test@2.6.7
 - pkg:maven/com.sdl/odata_test@2.6.7?classifier=sources
+- pkg:maven/com.sdl/odata_test@2.6.8
+- pkg:maven/com.sdl/odata_test@2.6.8?classifier=sources
+- pkg:maven/com.sdl/odata_test@2.6.9
+- pkg:maven/com.sdl/odata_test@2.6.9?classifier=sources
 - pkg:maven/com.sdl/odata_test@2.7.0
 - pkg:maven/com.sdl/odata_test@2.7.0?classifier=sources
 - pkg:maven/com.sdl/odata_test@2.7.1
@@ -117,6 +125,8 @@
 - pkg:maven/com.sdl/odata_test@2.7.10?classifier=sources
 - pkg:maven/com.sdl/odata_test@2.7.11
 - pkg:maven/com.sdl/odata_test@2.7.11?classifier=sources
+- pkg:maven/com.sdl/odata_test@2.7.12
+- pkg:maven/com.sdl/odata_test@2.7.12?classifier=sources
 - pkg:maven/com.sdl/odata_test@2.7.1?classifier=sources
 - pkg:maven/com.sdl/odata_test@2.7.2
 - pkg:maven/com.sdl/odata_test@2.7.2?classifier=sources
@@ -139,6 +149,8 @@
 - pkg:maven/com.sdl/odata_test@2.8.1
 - pkg:maven/com.sdl/odata_test@2.8.10
 - pkg:maven/com.sdl/odata_test@2.8.10?classifier=sources
+- pkg:maven/com.sdl/odata_test@2.8.11
+- pkg:maven/com.sdl/odata_test@2.8.11?classifier=sources
 - pkg:maven/com.sdl/odata_test@2.8.1?classifier=sources
 - pkg:maven/com.sdl/odata_test@2.8.2
 - pkg:maven/com.sdl/odata_test@2.8.2?classifier=sources
@@ -168,3 +180,5 @@
 - pkg:maven/com.sdl/odata_test@2.9.4?classifier=sources
 - pkg:maven/com.sdl/odata_test@2.9.6
 - pkg:maven/com.sdl/odata_test@2.9.6?classifier=sources
+- pkg:maven/com.sdl/odata_test@2.9.7
+- pkg:maven/com.sdl/odata_test@2.9.7?classifier=sources

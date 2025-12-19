@@ -1,0 +1,8 @@
+- pkg:maven/dev.vality/swag-questionary-aggr@1.31-1dca351-client
+- pkg:maven/dev.vality/swag-questionary-aggr@1.31-1dca351-client?classifier=sources
+- pkg:maven/dev.vality/swag-questionary-aggr@1.31-1dca351-server
+- pkg:maven/dev.vality/swag-questionary-aggr@1.31-1dca351-server?classifier=sources
+- pkg:maven/dev.vality/swag-questionary-aggr@1.32-1dc5add-client
+- pkg:maven/dev.vality/swag-questionary-aggr@1.32-1dc5add-client?classifier=sources
+- pkg:maven/dev.vality/swag-questionary-aggr@1.32-1dc5add-server
+- pkg:maven/dev.vality/swag-questionary-aggr@1.32-1dc5add-server?classifier=sources

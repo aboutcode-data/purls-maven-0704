@@ -17,6 +17,10 @@
 - pkg:maven/com.lasmanis/checkstyle-config@0.0.4
 - pkg:maven/com.lasmanis/checkstyle-config@0.0.40
 - pkg:maven/com.lasmanis/checkstyle-config@0.0.40?classifier=sources
+- pkg:maven/com.lasmanis/checkstyle-config@0.0.45
+- pkg:maven/com.lasmanis/checkstyle-config@0.0.45?classifier=sources
+- pkg:maven/com.lasmanis/checkstyle-config@0.0.48
+- pkg:maven/com.lasmanis/checkstyle-config@0.0.48?classifier=sources
 - pkg:maven/com.lasmanis/checkstyle-config@0.0.4?classifier=sources
 - pkg:maven/com.lasmanis/checkstyle-config@0.0.5
 - pkg:maven/com.lasmanis/checkstyle-config@0.0.5?classifier=sources

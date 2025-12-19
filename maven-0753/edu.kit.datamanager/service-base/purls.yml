@@ -13,3 +13,5 @@
 - pkg:maven/edu.kit.datamanager/service-base@0.3.0?classifier=sources
 - pkg:maven/edu.kit.datamanager/service-base@0.3.1?classifier=sources
 - pkg:maven/edu.kit.datamanager/service-base@0.3.2?classifier=sources
+- pkg:maven/edu.kit.datamanager/service-base@1.0.0?classifier=sources
+- pkg:maven/edu.kit.datamanager/service-base@1.0.1?classifier=sources

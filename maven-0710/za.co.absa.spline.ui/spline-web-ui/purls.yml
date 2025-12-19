@@ -14,3 +14,5 @@
 - pkg:maven/za.co.absa.spline.ui/spline-web-ui@0.7.2?type=war
 - pkg:maven/za.co.absa.spline.ui/spline-web-ui@0.7.3?classifier=sources
 - pkg:maven/za.co.absa.spline.ui/spline-web-ui@0.7.3?type=war
+- pkg:maven/za.co.absa.spline.ui/spline-web-ui@0.7.4?classifier=sources
+- pkg:maven/za.co.absa.spline.ui/spline-web-ui@0.7.4?type=war

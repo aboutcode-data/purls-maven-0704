@@ -3,4 +3,6 @@
 - pkg:maven/com.uetty/common-excel@1.0.2-M
 - pkg:maven/com.uetty/common-excel@1.0.2-M?classifier=sources
 - pkg:maven/com.uetty/common-excel@1.0.3
+- pkg:maven/com.uetty/common-excel@1.0.3-SR
+- pkg:maven/com.uetty/common-excel@1.0.3-SR?classifier=sources
 - pkg:maven/com.uetty/common-excel@1.0.3?classifier=sources

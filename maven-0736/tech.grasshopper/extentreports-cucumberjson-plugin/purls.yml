@@ -20,6 +20,8 @@
 - pkg:maven/tech.grasshopper/extentreports-cucumberjson-plugin@2.1.0?classifier=sources
 - pkg:maven/tech.grasshopper/extentreports-cucumberjson-plugin@2.10.0
 - pkg:maven/tech.grasshopper/extentreports-cucumberjson-plugin@2.10.0?classifier=sources
+- pkg:maven/tech.grasshopper/extentreports-cucumberjson-plugin@2.11.0
+- pkg:maven/tech.grasshopper/extentreports-cucumberjson-plugin@2.11.0?classifier=sources
 - pkg:maven/tech.grasshopper/extentreports-cucumberjson-plugin@2.2.0
 - pkg:maven/tech.grasshopper/extentreports-cucumberjson-plugin@2.2.0?classifier=sources
 - pkg:maven/tech.grasshopper/extentreports-cucumberjson-plugin@2.3.0

@@ -36,3 +36,6 @@
 - pkg:maven/org.jetbrains.intellij.plugins/structure-teamcity@3.202?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/structure-teamcity@3.203?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/structure-teamcity@3.204?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-teamcity@3.206?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-teamcity@3.207?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-teamcity@3.208?classifier=sources

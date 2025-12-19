@@ -166,3 +166,5 @@
 - pkg:maven/org.wicketstuff/async-task-impl@9.7.0?classifier=sources
 - pkg:maven/org.wicketstuff/async-task-impl@9.8.0
 - pkg:maven/org.wicketstuff/async-task-impl@9.8.0?classifier=sources
+- pkg:maven/org.wicketstuff/async-task-impl@9.9.0
+- pkg:maven/org.wicketstuff/async-task-impl@9.9.0?classifier=sources

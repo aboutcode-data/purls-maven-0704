@@ -6,3 +6,5 @@
 - pkg:maven/io.github.fmpfeifer/libfqlite@1.56.03-beta?classifier=sources
 - pkg:maven/io.github.fmpfeifer/libfqlite@1.56.04-beta
 - pkg:maven/io.github.fmpfeifer/libfqlite@1.56.04-beta?classifier=sources
+- pkg:maven/io.github.fmpfeifer/libfqlite@1.57.0
+- pkg:maven/io.github.fmpfeifer/libfqlite@1.57.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.bpfaas/bpfaas-spring-cloud-stream-binder-rabbit-core@3.0.0.RELEASE
 - pkg:maven/com.bpfaas/bpfaas-spring-cloud-stream-binder-rabbit-core@3.0.0.RELEASE?classifier=sources
+- pkg:maven/com.bpfaas/bpfaas-spring-cloud-stream-binder-rabbit-core@3.0.1.RELEASE
+- pkg:maven/com.bpfaas/bpfaas-spring-cloud-stream-binder-rabbit-core@3.0.1.RELEASE?classifier=sources

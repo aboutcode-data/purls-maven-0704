@@ -150,6 +150,10 @@
 - pkg:maven/de.otto.synapse/synapse-edison@0.23.7?classifier=sources
 - pkg:maven/de.otto.synapse/synapse-edison@0.23.8
 - pkg:maven/de.otto.synapse/synapse-edison@0.23.8?classifier=sources
+- pkg:maven/de.otto.synapse/synapse-edison@0.24.0
+- pkg:maven/de.otto.synapse/synapse-edison@0.24.0?classifier=sources
+- pkg:maven/de.otto.synapse/synapse-edison@0.24.1
+- pkg:maven/de.otto.synapse/synapse-edison@0.24.1?classifier=sources
 - pkg:maven/de.otto.synapse/synapse-edison@0.5.0
 - pkg:maven/de.otto.synapse/synapse-edison@0.5.0?classifier=sources
 - pkg:maven/de.otto.synapse/synapse-edison@0.5.1

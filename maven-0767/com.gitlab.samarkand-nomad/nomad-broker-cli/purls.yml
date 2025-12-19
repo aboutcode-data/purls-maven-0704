@@ -16,3 +16,11 @@
 - pkg:maven/com.gitlab.samarkand-nomad/nomad-broker-cli@1.4.8a0?classifier=sources
 - pkg:maven/com.gitlab.samarkand-nomad/nomad-broker-cli@1.4.9
 - pkg:maven/com.gitlab.samarkand-nomad/nomad-broker-cli@1.4.9?classifier=sources
+- pkg:maven/com.gitlab.samarkand-nomad/nomad-broker-cli@1.5.0
+- pkg:maven/com.gitlab.samarkand-nomad/nomad-broker-cli@1.5.0?classifier=sources
+- pkg:maven/com.gitlab.samarkand-nomad/nomad-broker-cli@1.5.4
+- pkg:maven/com.gitlab.samarkand-nomad/nomad-broker-cli@1.5.4?classifier=sources
+- pkg:maven/com.gitlab.samarkand-nomad/nomad-broker-cli@1.6.0
+- pkg:maven/com.gitlab.samarkand-nomad/nomad-broker-cli@1.6.0?classifier=sources
+- pkg:maven/com.gitlab.samarkand-nomad/nomad-broker-cli@1.6.3
+- pkg:maven/com.gitlab.samarkand-nomad/nomad-broker-cli@1.6.3?classifier=sources

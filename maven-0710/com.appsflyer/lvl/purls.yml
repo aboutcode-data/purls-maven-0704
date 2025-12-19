@@ -27,3 +27,5 @@
 - pkg:maven/com.appsflyer/lvl@6.5.0?type=aar
 - pkg:maven/com.appsflyer/lvl@6.5.1?type=aar
 - pkg:maven/com.appsflyer/lvl@6.5.2?type=aar
+- pkg:maven/com.appsflyer/lvl@6.5.3?type=aar
+- pkg:maven/com.appsflyer/lvl@6.5.4?type=aar

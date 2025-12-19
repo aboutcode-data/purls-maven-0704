@@ -1,0 +1,2 @@
+- pkg:maven/com.adobe.aio.aem/aio-event-osgimapping@0.0.22
+- pkg:maven/com.adobe.aio.aem/aio-event-osgimapping@0.0.22?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.rubensousa.lista/lista@1.0.0-beta01?classifier=sources
+- pkg:maven/com.rubensousa.lista/lista@2.0.0?classifier=sources

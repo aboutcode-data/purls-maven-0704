@@ -7,3 +7,4 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-maven-archetypes-gcp-bom-examples@2.34.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-maven-archetypes-gcp-bom-examples@2.35.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-maven-archetypes-gcp-bom-examples@2.36.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-maven-archetypes-gcp-bom-examples@2.37.0?classifier=sources

@@ -1,3 +1,6 @@
 - pkg:maven/com.onemillionworlds/tamarin@1.0.0?classifier=sources
 - pkg:maven/com.onemillionworlds/tamarin@1.0.1?classifier=sources
 - pkg:maven/com.onemillionworlds/tamarin@1.1?classifier=sources
+- pkg:maven/com.onemillionworlds/tamarin@1.2.1?classifier=sources
+- pkg:maven/com.onemillionworlds/tamarin@1.2.2?classifier=sources
+- pkg:maven/com.onemillionworlds/tamarin@1.2?classifier=sources

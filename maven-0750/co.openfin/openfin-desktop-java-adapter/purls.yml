@@ -82,3 +82,5 @@
 - pkg:maven/co.openfin/openfin-desktop-java-adapter@8.2.0?classifier=sources
 - pkg:maven/co.openfin/openfin-desktop-java-adapter@9.1.0
 - pkg:maven/co.openfin/openfin-desktop-java-adapter@9.1.0?classifier=sources
+- pkg:maven/co.openfin/openfin-desktop-java-adapter@9.2.0
+- pkg:maven/co.openfin/openfin-desktop-java-adapter@9.2.0?classifier=sources
