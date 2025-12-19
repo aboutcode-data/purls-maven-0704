@@ -10,3 +10,17 @@
 - pkg:maven/io.github.soniccloudorg/sonic-vision-core@1.0.4-windows-x86?classifier=sources
 - pkg:maven/io.github.soniccloudorg/sonic-vision-core@1.0.4-windows-x86_64
 - pkg:maven/io.github.soniccloudorg/sonic-vision-core@1.0.4-windows-x86_64?classifier=sources
+- pkg:maven/io.github.soniccloudorg/sonic-vision-core@1.0.5-linux-arm64
+- pkg:maven/io.github.soniccloudorg/sonic-vision-core@1.0.5-linux-arm64?classifier=sources
+- pkg:maven/io.github.soniccloudorg/sonic-vision-core@1.0.5-linux-x86
+- pkg:maven/io.github.soniccloudorg/sonic-vision-core@1.0.5-linux-x86?classifier=sources
+- pkg:maven/io.github.soniccloudorg/sonic-vision-core@1.0.5-linux-x86_64
+- pkg:maven/io.github.soniccloudorg/sonic-vision-core@1.0.5-linux-x86_64?classifier=sources
+- pkg:maven/io.github.soniccloudorg/sonic-vision-core@1.0.5-macosx-arm64
+- pkg:maven/io.github.soniccloudorg/sonic-vision-core@1.0.5-macosx-arm64?classifier=sources
+- pkg:maven/io.github.soniccloudorg/sonic-vision-core@1.0.5-macosx-x86_64
+- pkg:maven/io.github.soniccloudorg/sonic-vision-core@1.0.5-macosx-x86_64?classifier=sources
+- pkg:maven/io.github.soniccloudorg/sonic-vision-core@1.0.5-windows-x86
+- pkg:maven/io.github.soniccloudorg/sonic-vision-core@1.0.5-windows-x86?classifier=sources
+- pkg:maven/io.github.soniccloudorg/sonic-vision-core@1.0.5-windows-x86_64
+- pkg:maven/io.github.soniccloudorg/sonic-vision-core@1.0.5-windows-x86_64?classifier=sources

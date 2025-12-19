@@ -1,0 +1,2 @@
+- pkg:maven/com.tigrisdata/tigris-spring-boot-autoconfigure@1.0.0-beta.4
+- pkg:maven/com.tigrisdata/tigris-spring-boot-autoconfigure@1.0.0-beta.4?classifier=sources

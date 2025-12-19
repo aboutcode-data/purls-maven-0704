@@ -1,0 +1,4 @@
+- pkg:maven/me.dehasi/jenkins-pipeline-linter-gradle-plugin@2022.10.10?classifier=sources
+- pkg:maven/me.dehasi/jenkins-pipeline-linter-gradle-plugin@2022.10.15?classifier=sources
+- pkg:maven/me.dehasi/jenkins-pipeline-linter-gradle-plugin@2022.10.16?classifier=sources
+- pkg:maven/me.dehasi/jenkins-pipeline-linter-gradle-plugin@2022.10.17?classifier=sources

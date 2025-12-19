@@ -39,3 +39,4 @@
 - pkg:maven/io.testerra/report-model@2.0-RC-8?classifier=sources
 - pkg:maven/io.testerra/report-model@2.0-RC-9?classifier=sources
 - pkg:maven/io.testerra/report-model@2.0?classifier=sources
+- pkg:maven/io.testerra/report-model@2.1?classifier=sources

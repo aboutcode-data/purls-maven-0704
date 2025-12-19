@@ -4,3 +4,4 @@
 - pkg:maven/org.hildan.krossbow/krossbow-stomp-kxserialization-json-jvm@4.0.2?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-stomp-kxserialization-json-jvm@4.0.3?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-stomp-kxserialization-json-jvm@4.1.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-stomp-kxserialization-json-jvm@4.2.0?classifier=sources

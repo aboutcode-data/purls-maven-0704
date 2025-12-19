@@ -598,3 +598,5 @@
 - pkg:maven/net.openhft/chronicle-network@2.23ea5?classifier=sources
 - pkg:maven/net.openhft/chronicle-network@2.23ea6
 - pkg:maven/net.openhft/chronicle-network@2.23ea6?classifier=sources
+- pkg:maven/net.openhft/chronicle-network@2.24ea0
+- pkg:maven/net.openhft/chronicle-network@2.24ea0?classifier=sources

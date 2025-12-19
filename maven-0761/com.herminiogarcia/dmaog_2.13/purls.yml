@@ -1,0 +1,2 @@
+- pkg:maven/com.herminiogarcia/dmaog_2.13@0.1.2
+- pkg:maven/com.herminiogarcia/dmaog_2.13@0.1.2?classifier=sources

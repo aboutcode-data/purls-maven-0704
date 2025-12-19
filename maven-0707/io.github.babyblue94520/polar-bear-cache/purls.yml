@@ -1,2 +1,4 @@
 - pkg:maven/io.github.babyblue94520/polar-bear-cache@1.0.0-RELEASE
 - pkg:maven/io.github.babyblue94520/polar-bear-cache@1.0.0-RELEASE?classifier=sources
+- pkg:maven/io.github.babyblue94520/polar-bear-cache@1.1.0-RELEASE
+- pkg:maven/io.github.babyblue94520/polar-bear-cache@1.1.0-RELEASE?classifier=sources

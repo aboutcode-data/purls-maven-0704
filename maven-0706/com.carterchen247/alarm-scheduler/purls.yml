@@ -1,1 +1,2 @@
 - pkg:maven/com.carterchen247/alarm-scheduler@1.0.4?classifier=sources
+- pkg:maven/com.carterchen247/alarm-scheduler@2.0.0?classifier=sources

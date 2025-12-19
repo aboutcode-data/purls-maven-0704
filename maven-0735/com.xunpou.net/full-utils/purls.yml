@@ -1,0 +1,4 @@
+- pkg:maven/com.xunpou.net/full-utils@1.0-release
+- pkg:maven/com.xunpou.net/full-utils@1.0-release?classifier=sources
+- pkg:maven/com.xunpou.net/full-utils@1.1
+- pkg:maven/com.xunpou.net/full-utils@1.1?classifier=sources

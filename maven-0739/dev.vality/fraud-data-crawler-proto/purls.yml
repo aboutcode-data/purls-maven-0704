@@ -1,2 +1,4 @@
 - pkg:maven/dev.vality/fraud-data-crawler-proto@1.5-de639c0
 - pkg:maven/dev.vality/fraud-data-crawler-proto@1.5-de639c0?classifier=sources
+- pkg:maven/dev.vality/fraud-data-crawler-proto@1.6-326f056
+- pkg:maven/dev.vality/fraud-data-crawler-proto@1.6-326f056?classifier=sources

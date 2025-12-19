@@ -76,3 +76,5 @@
 - pkg:maven/com.sap.hcp.cf.logging/logging-sample-app@3.6.1?type=war
 - pkg:maven/com.sap.hcp.cf.logging/logging-sample-app@3.6.2?classifier=sources
 - pkg:maven/com.sap.hcp.cf.logging/logging-sample-app@3.6.2?type=war
+- pkg:maven/com.sap.hcp.cf.logging/logging-sample-app@3.6.3?classifier=sources
+- pkg:maven/com.sap.hcp.cf.logging/logging-sample-app@3.6.3?type=war

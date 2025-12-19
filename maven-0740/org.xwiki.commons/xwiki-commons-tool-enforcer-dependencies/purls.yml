@@ -247,6 +247,8 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-enforcer-dependencies@13.10-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-enforcer-dependencies@13.10-rc-1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-enforcer-dependencies@13.10.1
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-enforcer-dependencies@13.10.10
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-enforcer-dependencies@13.10.10?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-enforcer-dependencies@13.10.1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-enforcer-dependencies@13.10.2
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-enforcer-dependencies@13.10.2?classifier=sources
@@ -343,6 +345,10 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-enforcer-dependencies@14.4.3?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-enforcer-dependencies@14.4.4
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-enforcer-dependencies@14.4.4?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-enforcer-dependencies@14.4.5
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-enforcer-dependencies@14.4.5?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-enforcer-dependencies@14.4.6
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-enforcer-dependencies@14.4.6?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-enforcer-dependencies@14.4?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-enforcer-dependencies@14.5
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-enforcer-dependencies@14.5?classifier=sources
@@ -358,6 +364,10 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-enforcer-dependencies@14.8-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-enforcer-dependencies@14.8-rc-1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-enforcer-dependencies@14.8?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-enforcer-dependencies@14.9
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-enforcer-dependencies@14.9-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-enforcer-dependencies@14.9-rc-1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-enforcer-dependencies@14.9?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-enforcer-dependencies@3.2
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-enforcer-dependencies@3.2-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-enforcer-dependencies@3.2-rc-1?classifier=sources

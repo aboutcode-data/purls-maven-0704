@@ -1,0 +1,2 @@
+- pkg:maven/com.github.lolgab/scala-native-crypto_native0.4_2.11@0.0.4
+- pkg:maven/com.github.lolgab/scala-native-crypto_native0.4_2.11@0.0.4?classifier=sources

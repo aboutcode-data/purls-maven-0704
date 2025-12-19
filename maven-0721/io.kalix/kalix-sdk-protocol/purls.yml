@@ -32,6 +32,10 @@
 - pkg:maven/io.kalix/kalix-sdk-protocol@1.0.1?type=zip
 - pkg:maven/io.kalix/kalix-sdk-protocol@1.0.20?classifier=sources
 - pkg:maven/io.kalix/kalix-sdk-protocol@1.0.20?type=zip
+- pkg:maven/io.kalix/kalix-sdk-protocol@1.0.21?classifier=sources
+- pkg:maven/io.kalix/kalix-sdk-protocol@1.0.21?type=zip
+- pkg:maven/io.kalix/kalix-sdk-protocol@1.0.22?classifier=sources
+- pkg:maven/io.kalix/kalix-sdk-protocol@1.0.22?type=zip
 - pkg:maven/io.kalix/kalix-sdk-protocol@1.0.2?classifier=sources
 - pkg:maven/io.kalix/kalix-sdk-protocol@1.0.2?type=zip
 - pkg:maven/io.kalix/kalix-sdk-protocol@1.0.3?classifier=sources

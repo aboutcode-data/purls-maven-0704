@@ -66,3 +66,5 @@
 - pkg:maven/org.apache.servicecomb/servicecomb-governance@2.7.8?classifier=sources
 - pkg:maven/org.apache.servicecomb/servicecomb-governance@2.7.9
 - pkg:maven/org.apache.servicecomb/servicecomb-governance@2.7.9?classifier=sources
+- pkg:maven/org.apache.servicecomb/servicecomb-governance@2.8.0
+- pkg:maven/org.apache.servicecomb/servicecomb-governance@2.8.0?classifier=sources

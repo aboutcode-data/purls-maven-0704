@@ -8,3 +8,7 @@
 - pkg:maven/info.novatec/camunda-process-instance-migrator@1.0.3?classifier=sources
 - pkg:maven/info.novatec/camunda-process-instance-migrator@1.0.4
 - pkg:maven/info.novatec/camunda-process-instance-migrator@1.0.4?classifier=sources
+- pkg:maven/info.novatec/camunda-process-instance-migrator@1.1.0
+- pkg:maven/info.novatec/camunda-process-instance-migrator@1.1.0?classifier=sources
+- pkg:maven/info.novatec/camunda-process-instance-migrator@1.1.1
+- pkg:maven/info.novatec/camunda-process-instance-migrator@1.1.1?classifier=sources

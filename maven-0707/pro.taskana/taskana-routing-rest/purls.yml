@@ -22,3 +22,5 @@
 - pkg:maven/pro.taskana/taskana-routing-rest@5.6.0?classifier=sources
 - pkg:maven/pro.taskana/taskana-routing-rest@5.7.0
 - pkg:maven/pro.taskana/taskana-routing-rest@5.7.0?classifier=sources
+- pkg:maven/pro.taskana/taskana-routing-rest@5.8.0
+- pkg:maven/pro.taskana/taskana-routing-rest@5.8.0?classifier=sources

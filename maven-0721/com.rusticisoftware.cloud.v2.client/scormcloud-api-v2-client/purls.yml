@@ -6,3 +6,5 @@
 - pkg:maven/com.rusticisoftware.cloud.v2.client/scormcloud-api-v2-client@1.0.1?classifier=sources
 - pkg:maven/com.rusticisoftware.cloud.v2.client/scormcloud-api-v2-client@2.0.0
 - pkg:maven/com.rusticisoftware.cloud.v2.client/scormcloud-api-v2-client@2.0.0?classifier=sources
+- pkg:maven/com.rusticisoftware.cloud.v2.client/scormcloud-api-v2-client@2.1.0
+- pkg:maven/com.rusticisoftware.cloud.v2.client/scormcloud-api-v2-client@2.1.0?classifier=sources

@@ -170,6 +170,14 @@
 - pkg:maven/software.amazon.awscdk/cloudfront-origins@1.174.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/cloudfront-origins@1.175.0
 - pkg:maven/software.amazon.awscdk/cloudfront-origins@1.175.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cloudfront-origins@1.176.0
+- pkg:maven/software.amazon.awscdk/cloudfront-origins@1.176.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cloudfront-origins@1.177.0
+- pkg:maven/software.amazon.awscdk/cloudfront-origins@1.177.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cloudfront-origins@1.178.0
+- pkg:maven/software.amazon.awscdk/cloudfront-origins@1.178.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cloudfront-origins@1.179.0
+- pkg:maven/software.amazon.awscdk/cloudfront-origins@1.179.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/cloudfront-origins@1.55.0
 - pkg:maven/software.amazon.awscdk/cloudfront-origins@1.55.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/cloudfront-origins@1.56.0

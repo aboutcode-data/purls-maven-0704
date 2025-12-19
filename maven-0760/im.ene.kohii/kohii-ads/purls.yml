@@ -26,3 +26,4 @@
 - pkg:maven/im.ene.kohii/kohii-ads@1.2.0.2011008-RC2?type=aar
 - pkg:maven/im.ene.kohii/kohii-ads@1.2.0.2011008?classifier=sources
 - pkg:maven/im.ene.kohii/kohii-ads@1.2.0.2011008?type=aar
+- pkg:maven/im.ene.kohii/kohii-ads@1.4.0.2017001?classifier=sources

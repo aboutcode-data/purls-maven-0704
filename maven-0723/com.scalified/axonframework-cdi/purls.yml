@@ -58,3 +58,5 @@
 - pkg:maven/com.scalified/axonframework-cdi@4.5.6-RC1?classifier=sources
 - pkg:maven/com.scalified/axonframework-cdi@4.5.7?classifier=sources
 - pkg:maven/com.scalified/axonframework-cdi@4.5.8?classifier=sources
+- pkg:maven/com.scalified/axonframework-cdi@4.6.0-RC1?classifier=sources
+- pkg:maven/com.scalified/axonframework-cdi@4.6.1-RC1?classifier=sources

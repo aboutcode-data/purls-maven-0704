@@ -1,0 +1,4 @@
+- pkg:maven/io.github.weiyijian/file-service-minio-starter@2.1-RELEASE
+- pkg:maven/io.github.weiyijian/file-service-minio-starter@2.1-RELEASE?classifier=sources
+- pkg:maven/io.github.weiyijian/file-service-minio-starter@2.1.1-RELEASE
+- pkg:maven/io.github.weiyijian/file-service-minio-starter@2.1.1-RELEASE?classifier=sources

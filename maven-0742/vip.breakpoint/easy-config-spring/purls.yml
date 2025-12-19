@@ -1,0 +1,4 @@
+- pkg:maven/vip.breakpoint/easy-config-spring@0.1.0
+- pkg:maven/vip.breakpoint/easy-config-spring@0.1.0?classifier=sources
+- pkg:maven/vip.breakpoint/easy-config-spring@1.0.0.RELEASE
+- pkg:maven/vip.breakpoint/easy-config-spring@1.0.0.RELEASE?classifier=sources

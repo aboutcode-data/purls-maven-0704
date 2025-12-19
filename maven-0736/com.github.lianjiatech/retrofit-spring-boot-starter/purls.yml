@@ -92,3 +92,5 @@
 - pkg:maven/com.github.lianjiatech/retrofit-spring-boot-starter@2.3.6?classifier=sources
 - pkg:maven/com.github.lianjiatech/retrofit-spring-boot-starter@2.3.7
 - pkg:maven/com.github.lianjiatech/retrofit-spring-boot-starter@2.3.7?classifier=sources
+- pkg:maven/com.github.lianjiatech/retrofit-spring-boot-starter@2.3.8
+- pkg:maven/com.github.lianjiatech/retrofit-spring-boot-starter@2.3.8?classifier=sources

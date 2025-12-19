@@ -153,5 +153,8 @@
 - pkg:maven/com.tradplusad/tradplus-adcolony@4.8.2.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-adcolony@4.8.3.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-adcolony@4.8.3.1.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-adcolony@4.8.3.10.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-adcolony@4.8.3.20.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-adcolony@4.8.4.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-adcolony@4.8.5.0.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-adcolony@4.8.6.0.1?type=aar

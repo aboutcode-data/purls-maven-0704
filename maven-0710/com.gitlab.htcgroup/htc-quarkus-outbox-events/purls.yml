@@ -1,0 +1,1 @@
+- pkg:maven/com.gitlab.htcgroup/htc-quarkus-outbox-events@0.0.1?classifier=sources

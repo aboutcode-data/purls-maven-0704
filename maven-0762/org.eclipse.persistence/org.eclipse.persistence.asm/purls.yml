@@ -154,3 +154,5 @@
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.asm@9.2.0?classifier=sources
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.asm@9.3.0
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.asm@9.3.0?classifier=sources
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.asm@9.4.0
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.asm@9.4.0?classifier=sources

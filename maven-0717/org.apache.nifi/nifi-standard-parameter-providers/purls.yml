@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.nifi/nifi-standard-parameter-providers@1.18.0
+- pkg:maven/org.apache.nifi/nifi-standard-parameter-providers@1.18.0?classifier=sources

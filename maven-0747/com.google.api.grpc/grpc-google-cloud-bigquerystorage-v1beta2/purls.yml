@@ -208,6 +208,8 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1beta2@0.136.1?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1beta2@0.136.2
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1beta2@0.136.2?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1beta2@0.136.3
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1beta2@0.136.3?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1beta2@0.137.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1beta2@0.137.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1beta2@0.138.0
@@ -236,6 +238,14 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1beta2@0.144.1?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1beta2@0.145.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1beta2@0.145.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1beta2@0.146.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1beta2@0.146.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1beta2@0.147.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1beta2@0.147.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1beta2@0.147.1
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1beta2@0.147.1?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1beta2@0.148.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1beta2@0.148.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1beta2@0.86.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1beta2@0.86.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1beta2@0.87.0

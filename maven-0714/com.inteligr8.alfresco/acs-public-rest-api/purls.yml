@@ -1,0 +1,12 @@
+- pkg:maven/com.inteligr8.alfresco/acs-public-rest-api@2.0.1-acs51
+- pkg:maven/com.inteligr8.alfresco/acs-public-rest-api@2.0.1-acs51?classifier=sources
+- pkg:maven/com.inteligr8.alfresco/acs-public-rest-api@2.0.1-acs52
+- pkg:maven/com.inteligr8.alfresco/acs-public-rest-api@2.0.1-acs52?classifier=sources
+- pkg:maven/com.inteligr8.alfresco/acs-public-rest-api@2.0.1-acs60
+- pkg:maven/com.inteligr8.alfresco/acs-public-rest-api@2.0.1-acs60?classifier=sources
+- pkg:maven/com.inteligr8.alfresco/acs-public-rest-api@2.0.1-acs61
+- pkg:maven/com.inteligr8.alfresco/acs-public-rest-api@2.0.1-acs61?classifier=sources
+- pkg:maven/com.inteligr8.alfresco/acs-public-rest-api@2.0.1-acs62
+- pkg:maven/com.inteligr8.alfresco/acs-public-rest-api@2.0.1-acs62?classifier=sources
+- pkg:maven/com.inteligr8.alfresco/acs-public-rest-api@2.0.1-acs7
+- pkg:maven/com.inteligr8.alfresco/acs-public-rest-api@2.0.1-acs7?classifier=sources

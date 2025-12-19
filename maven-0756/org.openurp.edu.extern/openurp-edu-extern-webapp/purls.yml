@@ -25,3 +25,5 @@
 - pkg:maven/org.openurp.edu.extern/openurp-edu-extern-webapp@0.0.8?type=war
 - pkg:maven/org.openurp.edu.extern/openurp-edu-extern-webapp@0.0.9?classifier=sources
 - pkg:maven/org.openurp.edu.extern/openurp-edu-extern-webapp@0.0.9?type=war
+- pkg:maven/org.openurp.edu.extern/openurp-edu-extern-webapp@0.1.0?classifier=sources
+- pkg:maven/org.openurp.edu.extern/openurp-edu-extern-webapp@0.1.1?classifier=sources

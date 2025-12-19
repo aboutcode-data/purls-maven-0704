@@ -43,6 +43,7 @@
 - pkg:maven/io.projectreactor/reactor-tools@3.4.21?classifier=sources
 - pkg:maven/io.projectreactor/reactor-tools@3.4.22?classifier=sources
 - pkg:maven/io.projectreactor/reactor-tools@3.4.23?classifier=sources
+- pkg:maven/io.projectreactor/reactor-tools@3.4.24?classifier=sources
 - pkg:maven/io.projectreactor/reactor-tools@3.4.2?classifier=sources
 - pkg:maven/io.projectreactor/reactor-tools@3.4.3?classifier=sources
 - pkg:maven/io.projectreactor/reactor-tools@3.4.4?classifier=sources

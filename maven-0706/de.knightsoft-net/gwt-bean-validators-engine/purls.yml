@@ -10,6 +10,10 @@
 - pkg:maven/de.knightsoft-net/gwt-bean-validators-engine@1.11.3?classifier=sources
 - pkg:maven/de.knightsoft-net/gwt-bean-validators-engine@1.11.4
 - pkg:maven/de.knightsoft-net/gwt-bean-validators-engine@1.11.4?classifier=sources
+- pkg:maven/de.knightsoft-net/gwt-bean-validators-engine@1.11.6
+- pkg:maven/de.knightsoft-net/gwt-bean-validators-engine@1.11.6?classifier=sources
+- pkg:maven/de.knightsoft-net/gwt-bean-validators-engine@1.11.7
+- pkg:maven/de.knightsoft-net/gwt-bean-validators-engine@1.11.7?classifier=sources
 - pkg:maven/de.knightsoft-net/gwt-bean-validators-engine@1.6.0
 - pkg:maven/de.knightsoft-net/gwt-bean-validators-engine@1.6.0?classifier=sources
 - pkg:maven/de.knightsoft-net/gwt-bean-validators-engine@1.7.0

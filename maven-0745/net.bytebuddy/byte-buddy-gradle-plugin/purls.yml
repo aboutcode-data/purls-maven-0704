@@ -105,6 +105,10 @@
 - pkg:maven/net.bytebuddy/byte-buddy-gradle-plugin@1.12.14?classifier=sources
 - pkg:maven/net.bytebuddy/byte-buddy-gradle-plugin@1.12.16
 - pkg:maven/net.bytebuddy/byte-buddy-gradle-plugin@1.12.16?classifier=sources
+- pkg:maven/net.bytebuddy/byte-buddy-gradle-plugin@1.12.17
+- pkg:maven/net.bytebuddy/byte-buddy-gradle-plugin@1.12.17?classifier=sources
+- pkg:maven/net.bytebuddy/byte-buddy-gradle-plugin@1.12.18
+- pkg:maven/net.bytebuddy/byte-buddy-gradle-plugin@1.12.18?classifier=sources
 - pkg:maven/net.bytebuddy/byte-buddy-gradle-plugin@1.12.1?classifier=sources
 - pkg:maven/net.bytebuddy/byte-buddy-gradle-plugin@1.12.2
 - pkg:maven/net.bytebuddy/byte-buddy-gradle-plugin@1.12.2?classifier=sources

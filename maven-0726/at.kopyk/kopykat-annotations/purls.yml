@@ -1,0 +1,2 @@
+- pkg:maven/at.kopyk/kopykat-annotations@1.0-rc6?classifier=sources
+- pkg:maven/at.kopyk/kopykat-annotations@1.0-rc7?classifier=sources

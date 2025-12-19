@@ -6,3 +6,5 @@
 - pkg:maven/io.fluidsonic.time/fluid-time-js@0.13.3?classifier=sources
 - pkg:maven/io.fluidsonic.time/fluid-time-js@0.14.0?classifier=sources
 - pkg:maven/io.fluidsonic.time/fluid-time-js@0.15.0?classifier=sources
+- pkg:maven/io.fluidsonic.time/fluid-time-js@0.16.0?classifier=sources
+- pkg:maven/io.fluidsonic.time/fluid-time-js@0.17.0?classifier=sources

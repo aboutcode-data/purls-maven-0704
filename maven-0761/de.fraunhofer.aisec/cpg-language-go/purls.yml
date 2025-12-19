@@ -26,3 +26,5 @@
 - pkg:maven/de.fraunhofer.aisec/cpg-language-go@4.6.2?classifier=sources
 - pkg:maven/de.fraunhofer.aisec/cpg-language-go@4.6.3
 - pkg:maven/de.fraunhofer.aisec/cpg-language-go@4.6.3?classifier=sources
+- pkg:maven/de.fraunhofer.aisec/cpg-language-go@5.0.0
+- pkg:maven/de.fraunhofer.aisec/cpg-language-go@5.0.0?classifier=sources

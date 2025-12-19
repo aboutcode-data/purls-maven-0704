@@ -28,3 +28,5 @@
 - pkg:maven/com.jgeppert.struts2.jquery/struts2-jquery-bootstrap-archetype-grid@4.0.3?classifier=sources
 - pkg:maven/com.jgeppert.struts2.jquery/struts2-jquery-bootstrap-archetype-grid@5.0.0
 - pkg:maven/com.jgeppert.struts2.jquery/struts2-jquery-bootstrap-archetype-grid@5.0.0?classifier=sources
+- pkg:maven/com.jgeppert.struts2.jquery/struts2-jquery-bootstrap-archetype-grid@5.0.1
+- pkg:maven/com.jgeppert.struts2.jquery/struts2-jquery-bootstrap-archetype-grid@5.0.1?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/group.rxcloud/cloud-runtimes-layotto@1.16.RELEASE?classifier=sources
 - pkg:maven/group.rxcloud/cloud-runtimes-layotto@1.17.RELEASE
 - pkg:maven/group.rxcloud/cloud-runtimes-layotto@1.17.RELEASE?classifier=sources
+- pkg:maven/group.rxcloud/cloud-runtimes-layotto@1.18.RELEASE
+- pkg:maven/group.rxcloud/cloud-runtimes-layotto@1.18.RELEASE?classifier=sources

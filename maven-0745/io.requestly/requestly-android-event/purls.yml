@@ -1,1 +1,6 @@
 - pkg:maven/io.requestly/requestly-android-event@2.1.0?classifier=sources
+- pkg:maven/io.requestly/requestly-android-event@2.1.1?classifier=sources
+- pkg:maven/io.requestly/requestly-android-event@2.2.0?classifier=sources
+- pkg:maven/io.requestly/requestly-android-event@2.3.0?classifier=sources
+- pkg:maven/io.requestly/requestly-android-event@2.4.0?classifier=sources
+- pkg:maven/io.requestly/requestly-android-event@2.4.1?classifier=sources

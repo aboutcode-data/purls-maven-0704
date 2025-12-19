@@ -1,0 +1,2 @@
+- pkg:maven/com.outr/scribe-cats_native0.4_3@3.10.4
+- pkg:maven/com.outr/scribe-cats_native0.4_3@3.10.4?classifier=sources

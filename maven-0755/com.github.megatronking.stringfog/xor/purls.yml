@@ -4,3 +4,4 @@
 - pkg:maven/com.github.megatronking.stringfog/xor@1.1.0?classifier=sources
 - pkg:maven/com.github.megatronking.stringfog/xor@3.0.0
 - pkg:maven/com.github.megatronking.stringfog/xor@3.0.0?classifier=sources
+- pkg:maven/com.github.megatronking.stringfog/xor@4.0.0?classifier=sources

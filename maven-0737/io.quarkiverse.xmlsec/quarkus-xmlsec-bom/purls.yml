@@ -1,1 +1,2 @@
 - pkg:maven/io.quarkiverse.xmlsec/quarkus-xmlsec-bom@1.1.0
+- pkg:maven/io.quarkiverse.xmlsec/quarkus-xmlsec-bom@1.1.1

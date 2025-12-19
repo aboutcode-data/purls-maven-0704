@@ -1,1 +1,2 @@
 - pkg:maven/guru.zoroark.tegral/tegral-openapi-ktor@0.0.2?classifier=sources
+- pkg:maven/guru.zoroark.tegral/tegral-openapi-ktor@0.0.3?classifier=sources

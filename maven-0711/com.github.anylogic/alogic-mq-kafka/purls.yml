@@ -1,2 +1,4 @@
 - pkg:maven/com.github.anylogic/alogic-mq-kafka@1.6.15
 - pkg:maven/com.github.anylogic/alogic-mq-kafka@1.6.15?classifier=sources
+- pkg:maven/com.github.anylogic/alogic-mq-kafka@1.6.16
+- pkg:maven/com.github.anylogic/alogic-mq-kafka@1.6.16?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.jetbrains.compose.runtime/runtime-watchossimulatorarm64@1.2.0-beta01?classifier=sources
+- pkg:maven/org.jetbrains.compose.runtime/runtime-watchossimulatorarm64@1.2.0?classifier=sources

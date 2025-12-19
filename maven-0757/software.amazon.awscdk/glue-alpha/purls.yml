@@ -126,6 +126,16 @@
 - pkg:maven/software.amazon.awscdk/glue-alpha@2.43.1-alpha.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/glue-alpha@2.44.0-alpha.0
 - pkg:maven/software.amazon.awscdk/glue-alpha@2.44.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/glue-alpha@2.45.0-alpha.0
+- pkg:maven/software.amazon.awscdk/glue-alpha@2.45.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/glue-alpha@2.46.0-alpha.0
+- pkg:maven/software.amazon.awscdk/glue-alpha@2.46.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/glue-alpha@2.47.0-alpha.0
+- pkg:maven/software.amazon.awscdk/glue-alpha@2.47.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/glue-alpha@2.48.0-alpha.0
+- pkg:maven/software.amazon.awscdk/glue-alpha@2.48.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/glue-alpha@2.49.0-alpha.0
+- pkg:maven/software.amazon.awscdk/glue-alpha@2.49.0-alpha.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/glue-alpha@2.5.0-alpha.0
 - pkg:maven/software.amazon.awscdk/glue-alpha@2.5.0-alpha.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/glue-alpha@2.6.0-alpha.0

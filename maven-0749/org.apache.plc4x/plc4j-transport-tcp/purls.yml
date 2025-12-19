@@ -1,3 +1,5 @@
+- pkg:maven/org.apache.plc4x/plc4j-transport-tcp@0.10.0
+- pkg:maven/org.apache.plc4x/plc4j-transport-tcp@0.10.0?classifier=sources
 - pkg:maven/org.apache.plc4x/plc4j-transport-tcp@0.7.0
 - pkg:maven/org.apache.plc4x/plc4j-transport-tcp@0.7.0?classifier=sources
 - pkg:maven/org.apache.plc4x/plc4j-transport-tcp@0.8.0

@@ -18,6 +18,8 @@
 - pkg:maven/org.jboss.windup.maven/nexus-indexer-parent@22.03.16.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.windup.maven/nexus-indexer-parent@22.03.21.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.windup.maven/nexus-indexer-parent@22.04.04.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.windup.maven/nexus-indexer-parent@22.09.28.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.windup.maven/nexus-indexer-parent@22.10.10.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.windup.maven/nexus-indexer-parent@2?classifier=source-release&type=zip
 - pkg:maven/org.jboss.windup.maven/nexus-indexer-parent@6.2?classifier=source-release&type=zip
 - pkg:maven/org.jboss.windup.maven/nexus-indexer-parent@6.4?classifier=source-release&type=zip

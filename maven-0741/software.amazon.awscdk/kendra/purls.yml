@@ -170,6 +170,14 @@
 - pkg:maven/software.amazon.awscdk/kendra@1.174.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/kendra@1.175.0
 - pkg:maven/software.amazon.awscdk/kendra@1.175.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/kendra@1.176.0
+- pkg:maven/software.amazon.awscdk/kendra@1.176.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/kendra@1.177.0
+- pkg:maven/software.amazon.awscdk/kendra@1.177.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/kendra@1.178.0
+- pkg:maven/software.amazon.awscdk/kendra@1.178.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/kendra@1.179.0
+- pkg:maven/software.amazon.awscdk/kendra@1.179.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/kendra@1.64.0
 - pkg:maven/software.amazon.awscdk/kendra@1.64.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/kendra@1.64.1

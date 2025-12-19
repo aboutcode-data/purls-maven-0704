@@ -12,3 +12,5 @@
 - pkg:maven/org.webjars.npm/fomantic-ui-css@2.8.7?classifier=sources
 - pkg:maven/org.webjars.npm/fomantic-ui-css@2.8.8
 - pkg:maven/org.webjars.npm/fomantic-ui-css@2.8.8?classifier=sources
+- pkg:maven/org.webjars.npm/fomantic-ui-css@2.9.0
+- pkg:maven/org.webjars.npm/fomantic-ui-css@2.9.0?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/com.dahuatech.icc/java-sdk-event@1.0.11
+- pkg:maven/com.dahuatech.icc/java-sdk-event@1.0.11?classifier=sources
 - pkg:maven/com.dahuatech.icc/java-sdk-event@1.0.3
 - pkg:maven/com.dahuatech.icc/java-sdk-event@1.0.3?classifier=sources
 - pkg:maven/com.dahuatech.icc/java-sdk-event@1.0.4

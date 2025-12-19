@@ -1,0 +1,2 @@
+- pkg:maven/io.opensergo/opensergo-java-sdk@0.1.0-alpha
+- pkg:maven/io.opensergo/opensergo-java-sdk@0.1.0-alpha?classifier=sources

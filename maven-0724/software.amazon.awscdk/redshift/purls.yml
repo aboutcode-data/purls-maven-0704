@@ -294,6 +294,14 @@
 - pkg:maven/software.amazon.awscdk/redshift@1.174.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/redshift@1.175.0
 - pkg:maven/software.amazon.awscdk/redshift@1.175.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/redshift@1.176.0
+- pkg:maven/software.amazon.awscdk/redshift@1.176.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/redshift@1.177.0
+- pkg:maven/software.amazon.awscdk/redshift@1.177.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/redshift@1.178.0
+- pkg:maven/software.amazon.awscdk/redshift@1.178.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/redshift@1.179.0
+- pkg:maven/software.amazon.awscdk/redshift@1.179.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/redshift@1.18.0
 - pkg:maven/software.amazon.awscdk/redshift@1.18.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/redshift@1.19.0

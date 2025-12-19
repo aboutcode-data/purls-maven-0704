@@ -1,0 +1,1 @@
+- pkg:maven/com.pulumi/fastly@5.1.0?classifier=sources

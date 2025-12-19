@@ -70,3 +70,11 @@
 - pkg:maven/software.amazon.awscdk/iotevents-actions@1.174.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/iotevents-actions@1.175.0
 - pkg:maven/software.amazon.awscdk/iotevents-actions@1.175.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/iotevents-actions@1.176.0
+- pkg:maven/software.amazon.awscdk/iotevents-actions@1.176.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/iotevents-actions@1.177.0
+- pkg:maven/software.amazon.awscdk/iotevents-actions@1.177.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/iotevents-actions@1.178.0
+- pkg:maven/software.amazon.awscdk/iotevents-actions@1.178.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/iotevents-actions@1.179.0
+- pkg:maven/software.amazon.awscdk/iotevents-actions@1.179.0?classifier=sources

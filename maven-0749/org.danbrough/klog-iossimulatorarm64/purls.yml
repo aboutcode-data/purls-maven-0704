@@ -1,0 +1,2 @@
+- pkg:maven/org.danbrough/klog-iossimulatorarm64@0.0.1-beta08?classifier=sources
+- pkg:maven/org.danbrough/klog-iossimulatorarm64@0.0.1?classifier=sources

@@ -10,6 +10,7 @@
 - pkg:maven/org.eclipse.emfcloud.modelserver/org.eclipse.emfcloud.modelserver.edit@0.8.0.I20220803?classifier=sources
 - pkg:maven/org.eclipse.emfcloud.modelserver/org.eclipse.emfcloud.modelserver.edit@0.8.0.I20220916?classifier=sources
 - pkg:maven/org.eclipse.emfcloud.modelserver/org.eclipse.emfcloud.modelserver.edit@0.8.0.I20220919?classifier=sources
+- pkg:maven/org.eclipse.emfcloud.modelserver/org.eclipse.emfcloud.modelserver.edit@0.8.0.I20220920?classifier=sources
 - pkg:maven/org.eclipse.emfcloud.modelserver/org.eclipse.emfcloud.modelserver.edit@0.8.0.RC01?classifier=sources
 - pkg:maven/org.eclipse.emfcloud.modelserver/org.eclipse.emfcloud.modelserver.edit@0.8.0.RC02?classifier=sources
 - pkg:maven/org.eclipse.emfcloud.modelserver/org.eclipse.emfcloud.modelserver.edit@0.8.0.RC03?classifier=sources

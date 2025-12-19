@@ -3,3 +3,5 @@
 - pkg:maven/org.hibernate.reactive/hibernate-reactive-core-jakarta@1.1.5.Final?classifier=sources
 - pkg:maven/org.hibernate.reactive/hibernate-reactive-core-jakarta@1.1.6.Final?classifier=sources
 - pkg:maven/org.hibernate.reactive/hibernate-reactive-core-jakarta@1.1.7.Final?classifier=sources
+- pkg:maven/org.hibernate.reactive/hibernate-reactive-core-jakarta@1.1.8.Final?classifier=sources
+- pkg:maven/org.hibernate.reactive/hibernate-reactive-core-jakarta@1.1.9.Final?classifier=sources

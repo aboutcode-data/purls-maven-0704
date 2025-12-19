@@ -1,2 +1,4 @@
 - pkg:maven/org.ogc-schemas/ic-v_2_1@3.0.0
 - pkg:maven/org.ogc-schemas/ic-v_2_1@3.0.0?classifier=sources
+- pkg:maven/org.ogc-schemas/ic-v_2_1@4.0.0
+- pkg:maven/org.ogc-schemas/ic-v_2_1@4.0.0?classifier=sources

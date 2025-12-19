@@ -1,4 +1,9 @@
+- pkg:maven/io.agora.rtm/rtm-special-sdk@1.4.10.208?type=aar
+- pkg:maven/io.agora.rtm/rtm-special-sdk@1.4.10.209?type=aar
 - pkg:maven/io.agora.rtm/rtm-special-sdk@1.4.9.212?type=aar
+- pkg:maven/io.agora.rtm/rtm-special-sdk@1.5.2.601?type=aar
+- pkg:maven/io.agora.rtm/rtm-special-sdk@1.5.2.602_test_rtm?type=aar
 - pkg:maven/io.agora.rtm/rtm-special-sdk@1.6.0.101?type=aar
 - pkg:maven/io.agora.rtm/rtm-special-sdk@1.6.0.201?type=aar
 - pkg:maven/io.agora.rtm/rtm-special-sdk@1.6.0.202?type=aar
+- pkg:maven/io.agora.rtm/rtm-special-sdk@1.6.0.203?type=aar

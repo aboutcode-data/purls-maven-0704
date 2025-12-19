@@ -4,3 +4,5 @@
 - pkg:maven/de.elnarion.asciidoc/asciidoc-extension-remoteplantuml@0.9.1?classifier=sources
 - pkg:maven/de.elnarion.asciidoc/asciidoc-extension-remoteplantuml@0.9.2
 - pkg:maven/de.elnarion.asciidoc/asciidoc-extension-remoteplantuml@0.9.2?classifier=sources
+- pkg:maven/de.elnarion.asciidoc/asciidoc-extension-remoteplantuml@1.0.0
+- pkg:maven/de.elnarion.asciidoc/asciidoc-extension-remoteplantuml@1.0.0?classifier=sources

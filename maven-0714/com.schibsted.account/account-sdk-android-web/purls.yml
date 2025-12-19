@@ -22,3 +22,5 @@
 - pkg:maven/com.schibsted.account/account-sdk-android-web@2.5.0?classifier=sources
 - pkg:maven/com.schibsted.account/account-sdk-android-web@3.0.0?classifier=sources
 - pkg:maven/com.schibsted.account/account-sdk-android-web@4.0.0?classifier=sources
+- pkg:maven/com.schibsted.account/account-sdk-android-web@4.0.1?classifier=sources
+- pkg:maven/com.schibsted.account/account-sdk-android-web@4.1.0?classifier=sources

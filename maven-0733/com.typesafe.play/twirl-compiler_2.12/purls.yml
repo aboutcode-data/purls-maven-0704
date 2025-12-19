@@ -66,3 +66,5 @@
 - pkg:maven/com.typesafe.play/twirl-compiler_2.12@1.6.0-M4?classifier=sources
 - pkg:maven/com.typesafe.play/twirl-compiler_2.12@1.6.0-M6
 - pkg:maven/com.typesafe.play/twirl-compiler_2.12@1.6.0-M6?classifier=sources
+- pkg:maven/com.typesafe.play/twirl-compiler_2.12@1.6.0-M7
+- pkg:maven/com.typesafe.play/twirl-compiler_2.12@1.6.0-M7?classifier=sources

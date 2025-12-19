@@ -4,5 +4,11 @@
 - pkg:maven/com.aliyun/qualitycheck20190115@1.0.1?classifier=sources
 - pkg:maven/com.aliyun/qualitycheck20190115@4.1.0
 - pkg:maven/com.aliyun/qualitycheck20190115@4.1.0?classifier=sources
+- pkg:maven/com.aliyun/qualitycheck20190115@4.12.0
+- pkg:maven/com.aliyun/qualitycheck20190115@4.12.0?classifier=sources
+- pkg:maven/com.aliyun/qualitycheck20190115@4.12.1
+- pkg:maven/com.aliyun/qualitycheck20190115@4.12.1?classifier=sources
+- pkg:maven/com.aliyun/qualitycheck20190115@4.12.2
+- pkg:maven/com.aliyun/qualitycheck20190115@4.12.2?classifier=sources
 - pkg:maven/com.aliyun/qualitycheck20190115@4.2.0
 - pkg:maven/com.aliyun/qualitycheck20190115@4.2.0?classifier=sources

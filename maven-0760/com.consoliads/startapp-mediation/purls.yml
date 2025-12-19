@@ -1,3 +1,4 @@
+- pkg:maven/com.consoliads/startapp-mediation@v4.10.2-1.0?classifier=sources
 - pkg:maven/com.consoliads/startapp-mediation@v4.8.11-1.0?classifier=sources
 - pkg:maven/com.consoliads/startapp-mediation@v4.8.11-1.1?classifier=sources
 - pkg:maven/com.consoliads/startapp-mediation@v4.8.11?classifier=sources

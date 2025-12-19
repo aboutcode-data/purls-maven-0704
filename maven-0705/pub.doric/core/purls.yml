@@ -70,6 +70,8 @@
 - pkg:maven/pub.doric/core@0.10.39?type=aar
 - pkg:maven/pub.doric/core@0.10.3?classifier=sources
 - pkg:maven/pub.doric/core@0.10.3?type=aar
+- pkg:maven/pub.doric/core@0.10.40?classifier=sources
+- pkg:maven/pub.doric/core@0.10.40?type=aar
 - pkg:maven/pub.doric/core@0.10.4?classifier=sources
 - pkg:maven/pub.doric/core@0.10.4?type=aar
 - pkg:maven/pub.doric/core@0.10.5?classifier=sources

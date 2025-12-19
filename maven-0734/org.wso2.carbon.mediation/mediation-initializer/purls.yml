@@ -131,6 +131,7 @@
 - pkg:maven/org.wso2.carbon.mediation/mediation-initializer@4.7.139?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.mediation/mediation-initializer@4.7.140?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.mediation/mediation-initializer@4.7.141?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.mediation/mediation-initializer@4.7.142?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.mediation/mediation-initializer@4.7.16?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.mediation/mediation-initializer@4.7.17?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.mediation/mediation-initializer@4.7.18?classifier=source-release&type=zip

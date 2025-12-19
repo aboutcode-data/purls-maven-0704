@@ -1,0 +1,3 @@
+- pkg:maven/org.danbrough.kotlinxtras.sonatype/org.danbrough.kotlinxtras.sonatype.gradle.plugin@0.0.1-beta03?classifier=sources
+- pkg:maven/org.danbrough.kotlinxtras.sonatype/org.danbrough.kotlinxtras.sonatype.gradle.plugin@0.0.1-beta04?classifier=sources
+- pkg:maven/org.danbrough.kotlinxtras.sonatype/org.danbrough.kotlinxtras.sonatype.gradle.plugin@0.0.1-beta05?classifier=sources

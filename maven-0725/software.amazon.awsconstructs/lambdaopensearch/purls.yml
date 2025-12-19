@@ -1,0 +1,2 @@
+- pkg:maven/software.amazon.awsconstructs/lambdaopensearch@2.26.0
+- pkg:maven/software.amazon.awsconstructs/lambdaopensearch@2.26.0?classifier=sources

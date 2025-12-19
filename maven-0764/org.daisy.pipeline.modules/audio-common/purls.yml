@@ -12,3 +12,5 @@
 - pkg:maven/org.daisy.pipeline.modules/audio-common@3.0.3?classifier=sources
 - pkg:maven/org.daisy.pipeline.modules/audio-common@4.0.0
 - pkg:maven/org.daisy.pipeline.modules/audio-common@4.0.0?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules/audio-common@5.0.0
+- pkg:maven/org.daisy.pipeline.modules/audio-common@5.0.0?classifier=sources

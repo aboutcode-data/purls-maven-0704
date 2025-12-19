@@ -65,6 +65,8 @@
 - pkg:maven/org.wartremover/wartremover_2.12@2.4.2
 - pkg:maven/org.wartremover/wartremover_2.12@2.4.20
 - pkg:maven/org.wartremover/wartremover_2.12@2.4.20?classifier=sources
+- pkg:maven/org.wartremover/wartremover_2.12@2.4.21
+- pkg:maven/org.wartremover/wartremover_2.12@2.4.21?classifier=sources
 - pkg:maven/org.wartremover/wartremover_2.12@2.4.2?classifier=sources
 - pkg:maven/org.wartremover/wartremover_2.12@2.4.5
 - pkg:maven/org.wartremover/wartremover_2.12@2.4.5?classifier=sources

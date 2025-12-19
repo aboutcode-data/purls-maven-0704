@@ -1,2 +1,3 @@
 - pkg:maven/tr.com.inventiv/gastropaysdk@0.0.1-ALPHA?classifier=sources
 - pkg:maven/tr.com.inventiv/gastropaysdk@0.0.1-BETA?classifier=sources
+- pkg:maven/tr.com.inventiv/gastropaysdk@0.0.2-ALPHA?classifier=sources

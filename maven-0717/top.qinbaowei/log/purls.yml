@@ -1,1 +1,2 @@
 - pkg:maven/top.qinbaowei/log@1.0?classifier=sources
+- pkg:maven/top.qinbaowei/log@2.0?classifier=sources

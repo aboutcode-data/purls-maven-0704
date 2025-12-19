@@ -1,5 +1,7 @@
 - pkg:maven/com.jkoolcloud/jesl@0.1.5
 - pkg:maven/com.jkoolcloud/jesl@0.1.5?classifier=sources
+- pkg:maven/com.jkoolcloud/jesl@0.10.0
+- pkg:maven/com.jkoolcloud/jesl@0.10.0?classifier=sources
 - pkg:maven/com.jkoolcloud/jesl@0.2
 - pkg:maven/com.jkoolcloud/jesl@0.2?classifier=sources
 - pkg:maven/com.jkoolcloud/jesl@0.3

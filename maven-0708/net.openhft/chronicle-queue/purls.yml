@@ -610,6 +610,12 @@
 - pkg:maven/net.openhft/chronicle-queue@5.22.24?classifier=sources
 - pkg:maven/net.openhft/chronicle-queue@5.22.25
 - pkg:maven/net.openhft/chronicle-queue@5.22.25?classifier=sources
+- pkg:maven/net.openhft/chronicle-queue@5.22.26
+- pkg:maven/net.openhft/chronicle-queue@5.22.26?classifier=sources
+- pkg:maven/net.openhft/chronicle-queue@5.22.27
+- pkg:maven/net.openhft/chronicle-queue@5.22.27?classifier=sources
+- pkg:maven/net.openhft/chronicle-queue@5.22.28
+- pkg:maven/net.openhft/chronicle-queue@5.22.28?classifier=sources
 - pkg:maven/net.openhft/chronicle-queue@5.22ea1
 - pkg:maven/net.openhft/chronicle-queue@5.22ea10
 - pkg:maven/net.openhft/chronicle-queue@5.22ea10?classifier=sources
@@ -642,6 +648,10 @@
 - pkg:maven/net.openhft/chronicle-queue@5.22ea8?classifier=sources
 - pkg:maven/net.openhft/chronicle-queue@5.22ea9
 - pkg:maven/net.openhft/chronicle-queue@5.22ea9?classifier=sources
+- pkg:maven/net.openhft/chronicle-queue@5.23.35
+- pkg:maven/net.openhft/chronicle-queue@5.23.35?classifier=sources
+- pkg:maven/net.openhft/chronicle-queue@5.23.36
+- pkg:maven/net.openhft/chronicle-queue@5.23.36?classifier=sources
 - pkg:maven/net.openhft/chronicle-queue@5.23ea0
 - pkg:maven/net.openhft/chronicle-queue@5.23ea0?classifier=sources
 - pkg:maven/net.openhft/chronicle-queue@5.23ea1
@@ -682,3 +692,5 @@
 - pkg:maven/net.openhft/chronicle-queue@5.23ea7?classifier=sources
 - pkg:maven/net.openhft/chronicle-queue@5.23ea8
 - pkg:maven/net.openhft/chronicle-queue@5.23ea8?classifier=sources
+- pkg:maven/net.openhft/chronicle-queue@5.24ea0
+- pkg:maven/net.openhft/chronicle-queue@5.24ea0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/com.codbex.kronos/codbex-kronos-releng-buildpacks@0.2.0
+- pkg:maven/com.codbex.kronos/codbex-kronos-releng-buildpacks@0.3.0
