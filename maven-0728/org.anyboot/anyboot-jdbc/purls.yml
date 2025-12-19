@@ -56,5 +56,11 @@
 - pkg:maven/org.anyboot/anyboot-jdbc@8.5.2.2117-20220305?classifier=sources
 - pkg:maven/org.anyboot/anyboot-jdbc@8.5.2.2117-20220312
 - pkg:maven/org.anyboot/anyboot-jdbc@8.5.2.2117-20220312?classifier=sources
+- pkg:maven/org.anyboot/anyboot-jdbc@8.5.2.2312-20220501
+- pkg:maven/org.anyboot/anyboot-jdbc@8.5.2.2312-20220501?classifier=sources
 - pkg:maven/org.anyboot/anyboot-jdbc@8.5.3.255-beta1
 - pkg:maven/org.anyboot/anyboot-jdbc@8.5.3.255-beta1?classifier=sources
+- pkg:maven/org.anyboot/anyboot-jdbc@8.5.3.255-beta2
+- pkg:maven/org.anyboot/anyboot-jdbc@8.5.3.255-beta2?classifier=sources
+- pkg:maven/org.anyboot/anyboot-jdbc@8.5.3.255-beta3
+- pkg:maven/org.anyboot/anyboot-jdbc@8.5.3.255-beta3?classifier=sources

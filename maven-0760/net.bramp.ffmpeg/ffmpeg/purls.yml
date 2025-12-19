@@ -14,3 +14,5 @@
 - pkg:maven/net.bramp.ffmpeg/ffmpeg@0.6.2
 - pkg:maven/net.bramp.ffmpeg/ffmpeg@0.6.2?classifier=sources
 - pkg:maven/net.bramp.ffmpeg/ffmpeg@0.6?classifier=sources
+- pkg:maven/net.bramp.ffmpeg/ffmpeg@0.7.0
+- pkg:maven/net.bramp.ffmpeg/ffmpeg@0.7.0?classifier=sources

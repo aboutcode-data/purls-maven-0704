@@ -1,0 +1,4 @@
+- pkg:maven/codes.rafael.springstreaminterop/spring-stream-web-interop@1.0.0
+- pkg:maven/codes.rafael.springstreaminterop/spring-stream-web-interop@1.0.0?classifier=sources
+- pkg:maven/codes.rafael.springstreaminterop/spring-stream-web-interop@1.1.0
+- pkg:maven/codes.rafael.springstreaminterop/spring-stream-web-interop@1.1.0?classifier=sources

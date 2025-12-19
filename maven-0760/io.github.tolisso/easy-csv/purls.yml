@@ -1,0 +1,2 @@
+- pkg:maven/io.github.tolisso/easy-csv@1.0
+- pkg:maven/io.github.tolisso/easy-csv@1.0?classifier=sources

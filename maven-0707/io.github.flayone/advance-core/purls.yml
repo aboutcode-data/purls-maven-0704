@@ -9,3 +9,5 @@
 - pkg:maven/io.github.flayone/advance-core@3.5.5?type=aar
 - pkg:maven/io.github.flayone/advance-core@3.6.0.1?type=aar
 - pkg:maven/io.github.flayone/advance-core@3.6.0?type=aar
+- pkg:maven/io.github.flayone/advance-core@3.6.1.1?type=aar
+- pkg:maven/io.github.flayone/advance-core@3.6.1?type=aar

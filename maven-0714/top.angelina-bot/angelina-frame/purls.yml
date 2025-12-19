@@ -1,0 +1,2 @@
+- pkg:maven/top.angelina-bot/angelina-frame@1.0
+- pkg:maven/top.angelina-bot/angelina-frame@1.0?classifier=sources

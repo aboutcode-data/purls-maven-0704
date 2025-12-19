@@ -1,0 +1,6 @@
+- pkg:maven/se.irori.kafka/claim-check-interceptors-azure@0.7.0
+- pkg:maven/se.irori.kafka/claim-check-interceptors-azure@0.7.0?classifier=sources
+- pkg:maven/se.irori.kafka/claim-check-interceptors-azure@0.7.1
+- pkg:maven/se.irori.kafka/claim-check-interceptors-azure@0.7.1?classifier=sources
+- pkg:maven/se.irori.kafka/claim-check-interceptors-azure@1.0.0
+- pkg:maven/se.irori.kafka/claim-check-interceptors-azure@1.0.0?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/com.infor.m3/xtendm3-sdk@0.17.0?classifier=sources
 - pkg:maven/com.infor.m3/xtendm3-sdk@0.18.0
 - pkg:maven/com.infor.m3/xtendm3-sdk@0.18.0?classifier=sources
+- pkg:maven/com.infor.m3/xtendm3-sdk@0.18.1
+- pkg:maven/com.infor.m3/xtendm3-sdk@0.18.1?classifier=sources

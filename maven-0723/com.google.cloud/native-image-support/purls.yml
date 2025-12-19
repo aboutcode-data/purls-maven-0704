@@ -26,6 +26,12 @@
 - pkg:maven/com.google.cloud/native-image-support@0.12.8?classifier=sources
 - pkg:maven/com.google.cloud/native-image-support@0.12.9
 - pkg:maven/com.google.cloud/native-image-support@0.12.9?classifier=sources
+- pkg:maven/com.google.cloud/native-image-support@0.13.0
+- pkg:maven/com.google.cloud/native-image-support@0.13.0?classifier=sources
+- pkg:maven/com.google.cloud/native-image-support@0.13.1
+- pkg:maven/com.google.cloud/native-image-support@0.13.1?classifier=sources
+- pkg:maven/com.google.cloud/native-image-support@0.14.0
+- pkg:maven/com.google.cloud/native-image-support@0.14.0?classifier=sources
 - pkg:maven/com.google.cloud/native-image-support@0.8.0
 - pkg:maven/com.google.cloud/native-image-support@0.8.0?classifier=sources
 - pkg:maven/com.google.cloud/native-image-support@0.9.0

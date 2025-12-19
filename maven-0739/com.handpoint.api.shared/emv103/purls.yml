@@ -71,3 +71,7 @@
 - pkg:maven/com.handpoint.api.shared/emv103@6.6.6?type=aar
 - pkg:maven/com.handpoint.api.shared/emv103@6.6.7?classifier=sources
 - pkg:maven/com.handpoint.api.shared/emv103@6.6.7?type=aar
+- pkg:maven/com.handpoint.api.shared/emv103@6.7.0?classifier=sources
+- pkg:maven/com.handpoint.api.shared/emv103@6.7.0?type=aar
+- pkg:maven/com.handpoint.api.shared/emv103@6.7.1?classifier=sources
+- pkg:maven/com.handpoint.api.shared/emv103@6.7.1?type=aar

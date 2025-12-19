@@ -2,3 +2,5 @@
 - pkg:maven/com.io7m.jnfp/com.io7m.jnfp.documentation@0.1.2?type=zip
 - pkg:maven/com.io7m.jnfp/com.io7m.jnfp.documentation@1.0.0?classifier=sources
 - pkg:maven/com.io7m.jnfp/com.io7m.jnfp.documentation@1.0.0?type=zip
+- pkg:maven/com.io7m.jnfp/com.io7m.jnfp.documentation@3.0.0?classifier=sources
+- pkg:maven/com.io7m.jnfp/com.io7m.jnfp.documentation@3.0.0?type=zip

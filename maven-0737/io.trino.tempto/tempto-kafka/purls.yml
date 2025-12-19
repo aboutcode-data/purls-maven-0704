@@ -8,3 +8,5 @@
 - pkg:maven/io.trino.tempto/tempto-kafka@186?classifier=sources
 - pkg:maven/io.trino.tempto/tempto-kafka@187
 - pkg:maven/io.trino.tempto/tempto-kafka@187?classifier=sources
+- pkg:maven/io.trino.tempto/tempto-kafka@188
+- pkg:maven/io.trino.tempto/tempto-kafka@188?classifier=sources

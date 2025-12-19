@@ -26,3 +26,7 @@
 - pkg:maven/com.cognitect.aws/personalize@814.2.1053.0?classifier=sources
 - pkg:maven/com.cognitect.aws/personalize@814.2.1069.0
 - pkg:maven/com.cognitect.aws/personalize@814.2.1069.0?classifier=sources
+- pkg:maven/com.cognitect.aws/personalize@822.2.1109.0
+- pkg:maven/com.cognitect.aws/personalize@822.2.1109.0?classifier=sources
+- pkg:maven/com.cognitect.aws/personalize@822.2.1122.0
+- pkg:maven/com.cognitect.aws/personalize@822.2.1122.0?classifier=sources

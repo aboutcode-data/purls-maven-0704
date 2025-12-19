@@ -88,5 +88,15 @@
 - pkg:maven/dev.skomlach/biometric-api@2.0.86?classifier=sources
 - pkg:maven/dev.skomlach/biometric-api@2.0.87?classifier=sources
 - pkg:maven/dev.skomlach/biometric-api@2.0.88?classifier=sources
+- pkg:maven/dev.skomlach/biometric-api@2.0.89?classifier=sources
 - pkg:maven/dev.skomlach/biometric-api@2.0.8?classifier=sources
+- pkg:maven/dev.skomlach/biometric-api@2.0.90?classifier=sources
+- pkg:maven/dev.skomlach/biometric-api@2.0.91?classifier=sources
+- pkg:maven/dev.skomlach/biometric-api@2.0.92?classifier=sources
+- pkg:maven/dev.skomlach/biometric-api@2.0.93?classifier=sources
+- pkg:maven/dev.skomlach/biometric-api@2.0.94?classifier=sources
+- pkg:maven/dev.skomlach/biometric-api@2.0.95?classifier=sources
+- pkg:maven/dev.skomlach/biometric-api@2.0.96?classifier=sources
+- pkg:maven/dev.skomlach/biometric-api@2.0.97?classifier=sources
+- pkg:maven/dev.skomlach/biometric-api@2.0.98?classifier=sources
 - pkg:maven/dev.skomlach/biometric-api@2.0.9?classifier=sources

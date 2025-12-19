@@ -1,0 +1,2 @@
+- pkg:maven/me.kcybulski.bricks/bricks-api@2.1?classifier=sources
+- pkg:maven/me.kcybulski.bricks/bricks-api@2.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/jakarta.enterprise.concurrent/jakarta.enterprise.concurrent-tck@3.0.0
+- pkg:maven/jakarta.enterprise.concurrent/jakarta.enterprise.concurrent-tck@3.0.0?classifier=sources

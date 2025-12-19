@@ -1,1 +1,2 @@
 - pkg:maven/io.quarkiverse.renarde/quarkus-renarde-docs@1.0.0
+- pkg:maven/io.quarkiverse.renarde/quarkus-renarde-docs@1.0.1

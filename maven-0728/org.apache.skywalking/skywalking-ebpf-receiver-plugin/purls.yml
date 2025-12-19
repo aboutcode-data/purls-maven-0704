@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.skywalking/skywalking-ebpf-receiver-plugin@9.0.0
+- pkg:maven/org.apache.skywalking/skywalking-ebpf-receiver-plugin@9.0.0?classifier=sources

@@ -54,3 +54,5 @@
 - pkg:maven/org.cqfn.diktat/diktat-common@1.0.2?classifier=sources
 - pkg:maven/org.cqfn.diktat/diktat-common@1.0.3
 - pkg:maven/org.cqfn.diktat/diktat-common@1.0.3?classifier=sources
+- pkg:maven/org.cqfn.diktat/diktat-common@1.1.0
+- pkg:maven/org.cqfn.diktat/diktat-common@1.1.0?classifier=sources

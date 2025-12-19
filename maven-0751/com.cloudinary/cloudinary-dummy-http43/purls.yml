@@ -1,0 +1,4 @@
+- pkg:maven/com.cloudinary/cloudinary-dummy-http43@1.0.0-dummy
+- pkg:maven/com.cloudinary/cloudinary-dummy-http43@1.0.0-dummy?classifier=sources
+- pkg:maven/com.cloudinary/cloudinary-dummy-http43@1.0.1-dummy
+- pkg:maven/com.cloudinary/cloudinary-dummy-http43@1.0.1-dummy?classifier=sources

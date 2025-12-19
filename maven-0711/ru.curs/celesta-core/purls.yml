@@ -235,6 +235,8 @@
 - pkg:maven/ru.curs/celesta-core@7.4.2
 - pkg:maven/ru.curs/celesta-core@7.4.20
 - pkg:maven/ru.curs/celesta-core@7.4.20?classifier=sources
+- pkg:maven/ru.curs/celesta-core@7.4.21
+- pkg:maven/ru.curs/celesta-core@7.4.21?classifier=sources
 - pkg:maven/ru.curs/celesta-core@7.4.2?classifier=sources
 - pkg:maven/ru.curs/celesta-core@7.4.3
 - pkg:maven/ru.curs/celesta-core@7.4.3?classifier=sources

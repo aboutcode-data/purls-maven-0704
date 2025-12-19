@@ -2,5 +2,7 @@
 - pkg:maven/org.webjars.npm/regexp-tree@0.1.10?classifier=sources
 - pkg:maven/org.webjars.npm/regexp-tree@0.1.11
 - pkg:maven/org.webjars.npm/regexp-tree@0.1.11?classifier=sources
+- pkg:maven/org.webjars.npm/regexp-tree@0.1.24
+- pkg:maven/org.webjars.npm/regexp-tree@0.1.24?classifier=sources
 - pkg:maven/org.webjars.npm/regexp-tree@0.1.5
 - pkg:maven/org.webjars.npm/regexp-tree@0.1.5?classifier=sources

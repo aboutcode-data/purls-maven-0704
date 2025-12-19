@@ -1,2 +1,4 @@
 - pkg:maven/io.quarkiverse.jsch/quarkus-jsch@1.0.0
 - pkg:maven/io.quarkiverse.jsch/quarkus-jsch@1.0.0?classifier=sources
+- pkg:maven/io.quarkiverse.jsch/quarkus-jsch@2.0.0
+- pkg:maven/io.quarkiverse.jsch/quarkus-jsch@2.0.0?classifier=sources

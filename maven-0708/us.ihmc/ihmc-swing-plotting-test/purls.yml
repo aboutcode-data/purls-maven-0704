@@ -1,1 +1,2 @@
 - pkg:maven/us.ihmc/ihmc-swing-plotting-test@0.19.3?classifier=sources
+- pkg:maven/us.ihmc/ihmc-swing-plotting-test@0.19.4?classifier=sources

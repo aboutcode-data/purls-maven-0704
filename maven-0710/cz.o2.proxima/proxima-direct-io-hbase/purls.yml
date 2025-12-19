@@ -20,3 +20,5 @@
 - pkg:maven/cz.o2.proxima/proxima-direct-io-hbase@0.7.0?classifier=sources
 - pkg:maven/cz.o2.proxima/proxima-direct-io-hbase@0.8.0
 - pkg:maven/cz.o2.proxima/proxima-direct-io-hbase@0.8.0?classifier=sources
+- pkg:maven/cz.o2.proxima/proxima-direct-io-hbase@0.9.0
+- pkg:maven/cz.o2.proxima/proxima-direct-io-hbase@0.9.0?classifier=sources

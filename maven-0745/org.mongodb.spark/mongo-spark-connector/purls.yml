@@ -1,1 +1,2 @@
 - pkg:maven/org.mongodb.spark/mongo-spark-connector@10.0.0?classifier=sources
+- pkg:maven/org.mongodb.spark/mongo-spark-connector@10.0.1?classifier=sources

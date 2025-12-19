@@ -20,3 +20,5 @@
 - pkg:maven/com.huaweicloud.dubbo-servicecomb/dubbo-servicecomb-service-center-client@1.3.5?classifier=sources
 - pkg:maven/com.huaweicloud.dubbo-servicecomb/dubbo-servicecomb-service-center-client@1.3.6
 - pkg:maven/com.huaweicloud.dubbo-servicecomb/dubbo-servicecomb-service-center-client@1.3.6?classifier=sources
+- pkg:maven/com.huaweicloud.dubbo-servicecomb/dubbo-servicecomb-service-center-client@2.0.0-2.6.x
+- pkg:maven/com.huaweicloud.dubbo-servicecomb/dubbo-servicecomb-service-center-client@2.0.0-2.6.x?classifier=sources

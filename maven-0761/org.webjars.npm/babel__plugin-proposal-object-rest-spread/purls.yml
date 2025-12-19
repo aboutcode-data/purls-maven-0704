@@ -8,6 +8,8 @@
 - pkg:maven/org.webjars.npm/babel__plugin-proposal-object-rest-spread@7.16.7?classifier=sources
 - pkg:maven/org.webjars.npm/babel__plugin-proposal-object-rest-spread@7.17.3
 - pkg:maven/org.webjars.npm/babel__plugin-proposal-object-rest-spread@7.17.3?classifier=sources
+- pkg:maven/org.webjars.npm/babel__plugin-proposal-object-rest-spread@7.18.0
+- pkg:maven/org.webjars.npm/babel__plugin-proposal-object-rest-spread@7.18.0?classifier=sources
 - pkg:maven/org.webjars.npm/babel__plugin-proposal-object-rest-spread@7.3.4
 - pkg:maven/org.webjars.npm/babel__plugin-proposal-object-rest-spread@7.3.4?classifier=sources
 - pkg:maven/org.webjars.npm/babel__plugin-proposal-object-rest-spread@7.4.4

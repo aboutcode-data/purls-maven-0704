@@ -1,0 +1,2 @@
+- pkg:maven/org.archguard.scanner/archdoc@2.0.0-alpha.1?classifier=sources
+- pkg:maven/org.archguard.scanner/archdoc@2.0.0-alpha.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/ru.tinkoff/phobos-cats_2.13@0.15.0
+- pkg:maven/ru.tinkoff/phobos-cats_2.13@0.15.0?classifier=sources

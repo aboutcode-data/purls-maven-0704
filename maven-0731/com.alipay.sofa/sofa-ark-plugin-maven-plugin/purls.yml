@@ -32,3 +32,5 @@
 - pkg:maven/com.alipay.sofa/sofa-ark-plugin-maven-plugin@1.1.5?classifier=sources
 - pkg:maven/com.alipay.sofa/sofa-ark-plugin-maven-plugin@1.1.6
 - pkg:maven/com.alipay.sofa/sofa-ark-plugin-maven-plugin@1.1.6?classifier=sources
+- pkg:maven/com.alipay.sofa/sofa-ark-plugin-maven-plugin@2.0.0
+- pkg:maven/com.alipay.sofa/sofa-ark-plugin-maven-plugin@2.0.0?classifier=sources

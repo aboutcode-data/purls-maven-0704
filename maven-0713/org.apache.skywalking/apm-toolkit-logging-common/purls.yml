@@ -1,3 +1,5 @@
+- pkg:maven/org.apache.skywalking/apm-toolkit-logging-common@8.10.0
+- pkg:maven/org.apache.skywalking/apm-toolkit-logging-common@8.10.0?classifier=sources
 - pkg:maven/org.apache.skywalking/apm-toolkit-logging-common@8.4.0
 - pkg:maven/org.apache.skywalking/apm-toolkit-logging-common@8.4.0?classifier=sources
 - pkg:maven/org.apache.skywalking/apm-toolkit-logging-common@8.5.0

@@ -1,4 +1,5 @@
 - pkg:maven/com.ritense.valtimo/openzaak@9.1.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/openzaak@9.10.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/openzaak@9.2.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/openzaak@9.3.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/openzaak@9.4.0.RELEASE?classifier=sources
@@ -8,3 +9,4 @@
 - pkg:maven/com.ritense.valtimo/openzaak@9.7.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/openzaak@9.7.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/openzaak@9.8.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/openzaak@9.9.0.RELEASE?classifier=sources

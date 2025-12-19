@@ -2,3 +2,5 @@
 - pkg:maven/ru.primetalk/typed-ontology-metameta_3@0.2.3?classifier=sources
 - pkg:maven/ru.primetalk/typed-ontology-metameta_3@0.2.4
 - pkg:maven/ru.primetalk/typed-ontology-metameta_3@0.2.4?classifier=sources
+- pkg:maven/ru.primetalk/typed-ontology-metameta_3@0.2.5
+- pkg:maven/ru.primetalk/typed-ontology-metameta_3@0.2.5?classifier=sources

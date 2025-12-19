@@ -17,3 +17,4 @@
 - pkg:maven/com.tencent.edu/TIWCache@1.0.0.78?classifier=sources
 - pkg:maven/com.tencent.edu/TIWCache@1.0.0.79?classifier=sources
 - pkg:maven/com.tencent.edu/TIWCache@1.0.0.83?classifier=sources
+- pkg:maven/com.tencent.edu/TIWCache@1.0.0.85?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/cn.wisewe/docx4j-wisewe-convert@1.5.0.RELEASE
+- pkg:maven/cn.wisewe/docx4j-wisewe-convert@1.5.0.RELEASE?classifier=sources

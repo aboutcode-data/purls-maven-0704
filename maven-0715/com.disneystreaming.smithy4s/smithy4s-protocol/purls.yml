@@ -1,0 +1,6 @@
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-protocol@0.12.16
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-protocol@0.12.16-11-deaa5a36
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-protocol@0.12.16-11-deaa5a36?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-protocol@0.12.16-43-1071a140
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-protocol@0.12.16-43-1071a140?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-protocol@0.12.16?classifier=sources

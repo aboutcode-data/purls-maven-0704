@@ -155,6 +155,8 @@
 - pkg:maven/com.nimbusds/c2id-server-sdk@4.41?classifier=sources
 - pkg:maven/com.nimbusds/c2id-server-sdk@4.42
 - pkg:maven/com.nimbusds/c2id-server-sdk@4.42?classifier=sources
+- pkg:maven/com.nimbusds/c2id-server-sdk@4.43
+- pkg:maven/com.nimbusds/c2id-server-sdk@4.43?classifier=sources
 - pkg:maven/com.nimbusds/c2id-server-sdk@4.4?classifier=sources
 - pkg:maven/com.nimbusds/c2id-server-sdk@4.5
 - pkg:maven/com.nimbusds/c2id-server-sdk@4.5?classifier=sources

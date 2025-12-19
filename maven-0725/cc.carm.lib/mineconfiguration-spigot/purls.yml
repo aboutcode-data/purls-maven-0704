@@ -1,0 +1,10 @@
+- pkg:maven/cc.carm.lib/mineconfiguration-spigot@1.0.2
+- pkg:maven/cc.carm.lib/mineconfiguration-spigot@1.0.2?classifier=sources
+- pkg:maven/cc.carm.lib/mineconfiguration-spigot@1.1.4
+- pkg:maven/cc.carm.lib/mineconfiguration-spigot@1.1.4?classifier=sources
+- pkg:maven/cc.carm.lib/mineconfiguration-spigot@1.1.5
+- pkg:maven/cc.carm.lib/mineconfiguration-spigot@1.1.5?classifier=sources
+- pkg:maven/cc.carm.lib/mineconfiguration-spigot@1.1.7
+- pkg:maven/cc.carm.lib/mineconfiguration-spigot@1.1.7?classifier=sources
+- pkg:maven/cc.carm.lib/mineconfiguration-spigot@1.2.2
+- pkg:maven/cc.carm.lib/mineconfiguration-spigot@1.2.2?classifier=sources

@@ -15,3 +15,4 @@
 - pkg:maven/com.michaelstrasser/kotest-html-reporter@0.3.8?classifier=sources
 - pkg:maven/com.michaelstrasser/kotest-html-reporter@0.3.9?classifier=sources
 - pkg:maven/com.michaelstrasser/kotest-html-reporter@0.4.0?classifier=sources
+- pkg:maven/com.michaelstrasser/kotest-html-reporter@0.5.0?classifier=sources

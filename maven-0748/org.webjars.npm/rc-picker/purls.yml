@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/rc-picker@2.4.3?classifier=sources
 - pkg:maven/org.webjars.npm/rc-picker@2.5.19
 - pkg:maven/org.webjars.npm/rc-picker@2.5.19?classifier=sources
+- pkg:maven/org.webjars.npm/rc-picker@2.6.8
+- pkg:maven/org.webjars.npm/rc-picker@2.6.8?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.algolia/instantsearch-coroutines-extensions-jvm@3.0.0-beta01?classifier=sources
+- pkg:maven/com.algolia/instantsearch-coroutines-extensions-jvm@3.0.0-beta02?classifier=sources

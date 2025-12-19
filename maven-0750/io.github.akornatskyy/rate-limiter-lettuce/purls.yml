@@ -1,0 +1,2 @@
+- pkg:maven/io.github.akornatskyy/rate-limiter-lettuce@1.1.0
+- pkg:maven/io.github.akornatskyy/rate-limiter-lettuce@1.1.0?classifier=sources

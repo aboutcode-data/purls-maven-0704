@@ -1,0 +1,2 @@
+- pkg:maven/com.wudgaby.platform/optimistic-lock-spring-boot-starter@1.0.2
+- pkg:maven/com.wudgaby.platform/optimistic-lock-spring-boot-starter@1.0.2?classifier=sources

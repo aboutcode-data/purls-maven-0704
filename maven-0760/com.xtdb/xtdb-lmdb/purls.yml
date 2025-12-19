@@ -1,6 +1,7 @@
 - pkg:maven/com.xtdb/xtdb-lmdb@1.19.0
 - pkg:maven/com.xtdb/xtdb-lmdb@1.19.0-beta1
 - pkg:maven/com.xtdb/xtdb-lmdb@1.20.0
+- pkg:maven/com.xtdb/xtdb-lmdb@1.21.0
 - pkg:maven/com.xtdb/xtdb-lmdb@1.21.0-beta1
 - pkg:maven/com.xtdb/xtdb-lmdb@1.21.0-beta2
 - pkg:maven/com.xtdb/xtdb-lmdb@1.21.0-beta3

@@ -26,3 +26,5 @@
 - pkg:maven/com.squareup.misk/misk-actions@0.22.0?classifier=sources
 - pkg:maven/com.squareup.misk/misk-actions@0.23.0-20211108.2134-3a0d6d3?classifier=sources
 - pkg:maven/com.squareup.misk/misk-actions@0.23.0?classifier=sources
+- pkg:maven/com.squareup.misk/misk-actions@0.24.0?classifier=sources
+- pkg:maven/com.squareup.misk/misk-actions@0.25.0-20220427.1904-7803f66?classifier=sources

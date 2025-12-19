@@ -6,3 +6,15 @@
 - pkg:maven/dev.vality/swag-questionary-aggr@1.32-1dc5add-client?classifier=sources
 - pkg:maven/dev.vality/swag-questionary-aggr@1.32-1dc5add-server
 - pkg:maven/dev.vality/swag-questionary-aggr@1.32-1dc5add-server?classifier=sources
+- pkg:maven/dev.vality/swag-questionary-aggr@1.33-fe0c2dc-client
+- pkg:maven/dev.vality/swag-questionary-aggr@1.33-fe0c2dc-client?classifier=sources
+- pkg:maven/dev.vality/swag-questionary-aggr@1.33-fe0c2dc-server
+- pkg:maven/dev.vality/swag-questionary-aggr@1.33-fe0c2dc-server?classifier=sources
+- pkg:maven/dev.vality/swag-questionary-aggr@1.34-2e30dfc-client
+- pkg:maven/dev.vality/swag-questionary-aggr@1.34-2e30dfc-client?classifier=sources
+- pkg:maven/dev.vality/swag-questionary-aggr@1.34-2e30dfc-server
+- pkg:maven/dev.vality/swag-questionary-aggr@1.34-2e30dfc-server?classifier=sources
+- pkg:maven/dev.vality/swag-questionary-aggr@1.35-ed41741-client
+- pkg:maven/dev.vality/swag-questionary-aggr@1.35-ed41741-client?classifier=sources
+- pkg:maven/dev.vality/swag-questionary-aggr@1.35-ed41741-server
+- pkg:maven/dev.vality/swag-questionary-aggr@1.35-ed41741-server?classifier=sources

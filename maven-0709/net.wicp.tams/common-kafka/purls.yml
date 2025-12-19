@@ -4,3 +4,5 @@
 - pkg:maven/net.wicp.tams/common-kafka@3.6.15?classifier=sources
 - pkg:maven/net.wicp.tams/common-kafka@3.6.18
 - pkg:maven/net.wicp.tams/common-kafka@3.6.18?classifier=sources
+- pkg:maven/net.wicp.tams/common-kafka@3.6.20
+- pkg:maven/net.wicp.tams/common-kafka@3.6.20?classifier=sources

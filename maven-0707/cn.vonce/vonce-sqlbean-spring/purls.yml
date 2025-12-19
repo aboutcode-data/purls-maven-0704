@@ -26,3 +26,13 @@
 - pkg:maven/cn.vonce/vonce-sqlbean-spring@1.5.1-RELEASE
 - pkg:maven/cn.vonce/vonce-sqlbean-spring@1.5.1-RELEASE?classifier=sources
 - pkg:maven/cn.vonce/vonce-sqlbean-spring@1.5.1?classifier=sources
+- pkg:maven/cn.vonce/vonce-sqlbean-spring@1.5.2
+- pkg:maven/cn.vonce/vonce-sqlbean-spring@1.5.2-beta1
+- pkg:maven/cn.vonce/vonce-sqlbean-spring@1.5.2-beta1?classifier=sources
+- pkg:maven/cn.vonce/vonce-sqlbean-spring@1.5.2?classifier=sources
+- pkg:maven/cn.vonce/vonce-sqlbean-spring@1.5.3
+- pkg:maven/cn.vonce/vonce-sqlbean-spring@1.5.3?classifier=sources
+- pkg:maven/cn.vonce/vonce-sqlbean-spring@1.5.4
+- pkg:maven/cn.vonce/vonce-sqlbean-spring@1.5.4?classifier=sources
+- pkg:maven/cn.vonce/vonce-sqlbean-spring@1.5.5
+- pkg:maven/cn.vonce/vonce-sqlbean-spring@1.5.5?classifier=sources

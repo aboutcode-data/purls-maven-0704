@@ -6,3 +6,5 @@
 - pkg:maven/top.xiajibagao/mybatis-plus-join@2.1.0?classifier=sources
 - pkg:maven/top.xiajibagao/mybatis-plus-join@2.1.1
 - pkg:maven/top.xiajibagao/mybatis-plus-join@2.1.1?classifier=sources
+- pkg:maven/top.xiajibagao/mybatis-plus-join@2.2.2-alpha1
+- pkg:maven/top.xiajibagao/mybatis-plus-join@2.2.2-alpha1?classifier=sources

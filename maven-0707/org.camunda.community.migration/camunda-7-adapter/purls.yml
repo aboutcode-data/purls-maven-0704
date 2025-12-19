@@ -1,0 +1,2 @@
+- pkg:maven/org.camunda.community.migration/camunda-7-adapter@0.1.0
+- pkg:maven/org.camunda.community.migration/camunda-7-adapter@0.1.0?classifier=sources

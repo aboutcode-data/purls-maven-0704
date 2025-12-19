@@ -10,3 +10,5 @@
 - pkg:maven/io.github.cse1110/andy@0.26?classifier=sources
 - pkg:maven/io.github.cse1110/andy@0.27
 - pkg:maven/io.github.cse1110/andy@0.27?classifier=sources
+- pkg:maven/io.github.cse1110/andy@0.28
+- pkg:maven/io.github.cse1110/andy@0.28?classifier=sources

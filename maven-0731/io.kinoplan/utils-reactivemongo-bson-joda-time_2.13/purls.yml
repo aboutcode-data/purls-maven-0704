@@ -6,3 +6,5 @@
 - pkg:maven/io.kinoplan/utils-reactivemongo-bson-joda-time_2.13@0.0.6?classifier=sources
 - pkg:maven/io.kinoplan/utils-reactivemongo-bson-joda-time_2.13@0.0.7
 - pkg:maven/io.kinoplan/utils-reactivemongo-bson-joda-time_2.13@0.0.7?classifier=sources
+- pkg:maven/io.kinoplan/utils-reactivemongo-bson-joda-time_2.13@0.0.8
+- pkg:maven/io.kinoplan/utils-reactivemongo-bson-joda-time_2.13@0.0.8?classifier=sources

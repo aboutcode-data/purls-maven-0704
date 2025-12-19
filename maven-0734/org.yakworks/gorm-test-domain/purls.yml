@@ -60,3 +60,15 @@
 - pkg:maven/org.yakworks/gorm-test-domain@7.0.8-v.67?classifier=sources
 - pkg:maven/org.yakworks/gorm-test-domain@7.0.8-v.68
 - pkg:maven/org.yakworks/gorm-test-domain@7.0.8-v.68?classifier=sources
+- pkg:maven/org.yakworks/gorm-test-domain@7.0.8-v.69
+- pkg:maven/org.yakworks/gorm-test-domain@7.0.8-v.69?classifier=sources
+- pkg:maven/org.yakworks/gorm-test-domain@7.0.8-v.70
+- pkg:maven/org.yakworks/gorm-test-domain@7.0.8-v.70?classifier=sources
+- pkg:maven/org.yakworks/gorm-test-domain@7.0.8-v.71
+- pkg:maven/org.yakworks/gorm-test-domain@7.0.8-v.71?classifier=sources
+- pkg:maven/org.yakworks/gorm-test-domain@7.0.8-v.72
+- pkg:maven/org.yakworks/gorm-test-domain@7.0.8-v.72?classifier=sources
+- pkg:maven/org.yakworks/gorm-test-domain@7.0.8-v.73
+- pkg:maven/org.yakworks/gorm-test-domain@7.0.8-v.73?classifier=sources
+- pkg:maven/org.yakworks/gorm-test-domain@7.0.8-v.74
+- pkg:maven/org.yakworks/gorm-test-domain@7.0.8-v.74?classifier=sources

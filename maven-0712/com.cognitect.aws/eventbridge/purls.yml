@@ -26,3 +26,7 @@
 - pkg:maven/com.cognitect.aws/eventbridge@814.2.977.0?classifier=sources
 - pkg:maven/com.cognitect.aws/eventbridge@820.2.1083.0
 - pkg:maven/com.cognitect.aws/eventbridge@820.2.1083.0?classifier=sources
+- pkg:maven/com.cognitect.aws/eventbridge@821.2.1107.0
+- pkg:maven/com.cognitect.aws/eventbridge@821.2.1107.0?classifier=sources
+- pkg:maven/com.cognitect.aws/eventbridge@822.2.1122.0
+- pkg:maven/com.cognitect.aws/eventbridge@822.2.1122.0?classifier=sources

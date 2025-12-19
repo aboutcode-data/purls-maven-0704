@@ -39,3 +39,4 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-http-common-deployment@2.7.1
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-http-common-deployment@2.8.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-http-common-deployment@2.8.0-M1
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-http-common-deployment@2.9.0

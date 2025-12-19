@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/splidejs__splide@3.6.12
+- pkg:maven/org.webjars.npm/splidejs__splide@3.6.12?classifier=sources
+- pkg:maven/org.webjars.npm/splidejs__splide@4.0.6
+- pkg:maven/org.webjars.npm/splidejs__splide@4.0.6?classifier=sources

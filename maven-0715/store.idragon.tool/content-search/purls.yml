@@ -1,2 +1,4 @@
 - pkg:maven/store.idragon.tool/content-search@0.0.5-RELEASE
 - pkg:maven/store.idragon.tool/content-search@0.0.5-RELEASE?classifier=sources
+- pkg:maven/store.idragon.tool/content-search@0.0.6-RELEASE
+- pkg:maven/store.idragon.tool/content-search@0.0.6-RELEASE?classifier=sources

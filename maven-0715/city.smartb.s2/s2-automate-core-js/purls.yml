@@ -4,3 +4,5 @@
 - pkg:maven/city.smartb.s2/s2-automate-core-js@0.5.0?classifier=sources
 - pkg:maven/city.smartb.s2/s2-automate-core-js@0.5.1?classifier=sources
 - pkg:maven/city.smartb.s2/s2-automate-core-js@0.6.0?classifier=sources
+- pkg:maven/city.smartb.s2/s2-automate-core-js@0.7.0?classifier=sources
+- pkg:maven/city.smartb.s2/s2-automate-core-js@0.8.0?classifier=sources

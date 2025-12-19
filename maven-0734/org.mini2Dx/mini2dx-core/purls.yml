@@ -124,3 +124,5 @@
 - pkg:maven/org.mini2Dx/mini2dx-core@2.0.0-alpha.96?classifier=sources
 - pkg:maven/org.mini2Dx/mini2dx-core@2.0.0-alpha.97
 - pkg:maven/org.mini2Dx/mini2dx-core@2.0.0-alpha.97?classifier=sources
+- pkg:maven/org.mini2Dx/mini2dx-core@2.0.0-alpha.98
+- pkg:maven/org.mini2Dx/mini2dx-core@2.0.0-alpha.98?classifier=sources

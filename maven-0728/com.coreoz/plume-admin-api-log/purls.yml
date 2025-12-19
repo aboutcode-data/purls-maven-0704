@@ -20,3 +20,5 @@
 - pkg:maven/com.coreoz/plume-admin-api-log@2.1.2?classifier=sources
 - pkg:maven/com.coreoz/plume-admin-api-log@3.0.0
 - pkg:maven/com.coreoz/plume-admin-api-log@3.0.0?classifier=sources
+- pkg:maven/com.coreoz/plume-admin-api-log@4.0.0
+- pkg:maven/com.coreoz/plume-admin-api-log@4.0.0?classifier=sources

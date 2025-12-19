@@ -32,3 +32,8 @@
 - pkg:maven/io.github.kaustubhpatange/navigator@0.1-alpha34?classifier=sources
 - pkg:maven/io.github.kaustubhpatange/navigator@0.1-alpha35?classifier=sources
 - pkg:maven/io.github.kaustubhpatange/navigator@0.1-alpha36?classifier=sources
+- pkg:maven/io.github.kaustubhpatange/navigator@0.1-alpha37?classifier=sources
+- pkg:maven/io.github.kaustubhpatange/navigator@0.1-alpha38?classifier=sources
+- pkg:maven/io.github.kaustubhpatange/navigator@0.1-alpha39?classifier=sources
+- pkg:maven/io.github.kaustubhpatange/navigator@0.1-alpha40?classifier=sources
+- pkg:maven/io.github.kaustubhpatange/navigator@0.1-alpha41?classifier=sources

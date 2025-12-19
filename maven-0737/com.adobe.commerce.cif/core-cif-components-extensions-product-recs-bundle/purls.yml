@@ -16,3 +16,9 @@
 - pkg:maven/com.adobe.commerce.cif/core-cif-components-extensions-product-recs-bundle@2.5.0?classifier=sources
 - pkg:maven/com.adobe.commerce.cif/core-cif-components-extensions-product-recs-bundle@2.6.0
 - pkg:maven/com.adobe.commerce.cif/core-cif-components-extensions-product-recs-bundle@2.6.0?classifier=sources
+- pkg:maven/com.adobe.commerce.cif/core-cif-components-extensions-product-recs-bundle@2.7.0
+- pkg:maven/com.adobe.commerce.cif/core-cif-components-extensions-product-recs-bundle@2.7.0?classifier=sources
+- pkg:maven/com.adobe.commerce.cif/core-cif-components-extensions-product-recs-bundle@2.7.2
+- pkg:maven/com.adobe.commerce.cif/core-cif-components-extensions-product-recs-bundle@2.7.2?classifier=sources
+- pkg:maven/com.adobe.commerce.cif/core-cif-components-extensions-product-recs-bundle@2.8.0
+- pkg:maven/com.adobe.commerce.cif/core-cif-components-extensions-product-recs-bundle@2.8.0?classifier=sources

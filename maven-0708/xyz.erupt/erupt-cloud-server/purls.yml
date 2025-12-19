@@ -1,0 +1,14 @@
+- pkg:maven/xyz.erupt/erupt-cloud-server@1.10.7
+- pkg:maven/xyz.erupt/erupt-cloud-server@1.10.7-rc
+- pkg:maven/xyz.erupt/erupt-cloud-server@1.10.7-rc?classifier=sources
+- pkg:maven/xyz.erupt/erupt-cloud-server@1.10.7?classifier=sources
+- pkg:maven/xyz.erupt/erupt-cloud-server@1.10.8
+- pkg:maven/xyz.erupt/erupt-cloud-server@1.10.8-beta
+- pkg:maven/xyz.erupt/erupt-cloud-server@1.10.8-beta.2
+- pkg:maven/xyz.erupt/erupt-cloud-server@1.10.8-beta.2?classifier=sources
+- pkg:maven/xyz.erupt/erupt-cloud-server@1.10.8-beta.3
+- pkg:maven/xyz.erupt/erupt-cloud-server@1.10.8-beta.3?classifier=sources
+- pkg:maven/xyz.erupt/erupt-cloud-server@1.10.8-beta.4
+- pkg:maven/xyz.erupt/erupt-cloud-server@1.10.8-beta.4?classifier=sources
+- pkg:maven/xyz.erupt/erupt-cloud-server@1.10.8-beta?classifier=sources
+- pkg:maven/xyz.erupt/erupt-cloud-server@1.10.8?classifier=sources

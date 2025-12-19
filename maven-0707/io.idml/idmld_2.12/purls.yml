@@ -66,6 +66,7 @@
 - pkg:maven/io.idml/idmld_2.12@2.0.4?classifier=sources
 - pkg:maven/io.idml/idmld_2.12@2.0.5
 - pkg:maven/io.idml/idmld_2.12@2.0.5?classifier=sources
+- pkg:maven/io.idml/idmld_2.12@2.1.0
 - pkg:maven/io.idml/idmld_2.12@2.1.0-RC1
 - pkg:maven/io.idml/idmld_2.12@2.1.0-RC10
 - pkg:maven/io.idml/idmld_2.12@2.1.0-RC10?classifier=sources
@@ -73,6 +74,8 @@
 - pkg:maven/io.idml/idmld_2.12@2.1.0-RC11?classifier=sources
 - pkg:maven/io.idml/idmld_2.12@2.1.0-RC12
 - pkg:maven/io.idml/idmld_2.12@2.1.0-RC12?classifier=sources
+- pkg:maven/io.idml/idmld_2.12@2.1.0-RC13
+- pkg:maven/io.idml/idmld_2.12@2.1.0-RC13?classifier=sources
 - pkg:maven/io.idml/idmld_2.12@2.1.0-RC1?classifier=sources
 - pkg:maven/io.idml/idmld_2.12@2.1.0-RC6
 - pkg:maven/io.idml/idmld_2.12@2.1.0-RC6?classifier=sources
@@ -80,5 +83,6 @@
 - pkg:maven/io.idml/idmld_2.12@2.1.0-RC8?classifier=sources
 - pkg:maven/io.idml/idmld_2.12@2.1.0-RC9
 - pkg:maven/io.idml/idmld_2.12@2.1.0-RC9?classifier=sources
+- pkg:maven/io.idml/idmld_2.12@2.1.0?classifier=sources
 - pkg:maven/io.idml/idmld_2.12@63488a16f994d8c0416bab30ec9ef2b0304a03b5
 - pkg:maven/io.idml/idmld_2.12@63488a16f994d8c0416bab30ec9ef2b0304a03b5?classifier=sources

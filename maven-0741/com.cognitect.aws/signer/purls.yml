@@ -12,3 +12,5 @@
 - pkg:maven/com.cognitect.aws/signer@794.2.635.0?classifier=sources
 - pkg:maven/com.cognitect.aws/signer@810.2.801.0
 - pkg:maven/com.cognitect.aws/signer@810.2.801.0?classifier=sources
+- pkg:maven/com.cognitect.aws/signer@822.2.1109.0
+- pkg:maven/com.cognitect.aws/signer@822.2.1109.0?classifier=sources

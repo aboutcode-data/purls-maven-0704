@@ -44,6 +44,16 @@
 - pkg:maven/io.github.q3769/semver-maven-plugin@20211209.1.0?classifier=sources
 - pkg:maven/io.github.q3769/semver-maven-plugin@20211209.1.1
 - pkg:maven/io.github.q3769/semver-maven-plugin@20211209.1.1?classifier=sources
+- pkg:maven/io.github.q3769/semver-maven-plugin@20211209.1.2
+- pkg:maven/io.github.q3769/semver-maven-plugin@20211209.1.2?classifier=sources
+- pkg:maven/io.github.q3769/semver-maven-plugin@20220505.0.0
+- pkg:maven/io.github.q3769/semver-maven-plugin@20220505.0.0?classifier=sources
+- pkg:maven/io.github.q3769/semver-maven-plugin@20220506.0.0
+- pkg:maven/io.github.q3769/semver-maven-plugin@20220506.0.0?classifier=sources
+- pkg:maven/io.github.q3769/semver-maven-plugin@20220509.0.0
+- pkg:maven/io.github.q3769/semver-maven-plugin@20220509.0.0?classifier=sources
+- pkg:maven/io.github.q3769/semver-maven-plugin@20220509.0.1
+- pkg:maven/io.github.q3769/semver-maven-plugin@20220509.0.1?classifier=sources
 - pkg:maven/io.github.q3769/semver-maven-plugin@3.0.0
 - pkg:maven/io.github.q3769/semver-maven-plugin@3.0.0?classifier=sources
 - pkg:maven/io.github.q3769/semver-maven-plugin@3.0.1

@@ -1,0 +1,6 @@
+- pkg:maven/io.github.akornatskyy/rate-limiter@1.0-SNAPHOT
+- pkg:maven/io.github.akornatskyy/rate-limiter@1.0-SNAPHOT?classifier=sources
+- pkg:maven/io.github.akornatskyy/rate-limiter@1.0.0
+- pkg:maven/io.github.akornatskyy/rate-limiter@1.0.0?classifier=sources
+- pkg:maven/io.github.akornatskyy/rate-limiter@1.1.0
+- pkg:maven/io.github.akornatskyy/rate-limiter@1.1.0?classifier=sources

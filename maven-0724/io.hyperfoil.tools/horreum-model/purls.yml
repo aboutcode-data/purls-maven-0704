@@ -1,0 +1,2 @@
+- pkg:maven/io.hyperfoil.tools/horreum-model@0.3
+- pkg:maven/io.hyperfoil.tools/horreum-model@0.3?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.google.android.horologist/horologist-composables@0.0.16?classifier=sources
+- pkg:maven/com.google.android.horologist/horologist-composables@0.0.17?classifier=sources
+- pkg:maven/com.google.android.horologist/horologist-composables@0.0.18?classifier=sources
+- pkg:maven/com.google.android.horologist/horologist-composables@0.0.19?classifier=sources

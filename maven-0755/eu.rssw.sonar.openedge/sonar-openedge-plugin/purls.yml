@@ -18,6 +18,7 @@
 - pkg:maven/eu.rssw.sonar.openedge/sonar-openedge-plugin@2.14.7?classifier=sources
 - pkg:maven/eu.rssw.sonar.openedge/sonar-openedge-plugin@2.14.8?classifier=sources
 - pkg:maven/eu.rssw.sonar.openedge/sonar-openedge-plugin@2.14.9?classifier=sources
+- pkg:maven/eu.rssw.sonar.openedge/sonar-openedge-plugin@2.15.0?classifier=sources
 - pkg:maven/eu.rssw.sonar.openedge/sonar-openedge-plugin@2.2.0?classifier=sources
 - pkg:maven/eu.rssw.sonar.openedge/sonar-openedge-plugin@2.2.1?classifier=sources
 - pkg:maven/eu.rssw.sonar.openedge/sonar-openedge-plugin@2.2.4?classifier=sources

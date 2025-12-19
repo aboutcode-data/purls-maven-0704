@@ -2,5 +2,7 @@
 - pkg:maven/org.webjars.npm/redoc-cli@0.10.4?classifier=sources
 - pkg:maven/org.webjars.npm/redoc-cli@0.11.4
 - pkg:maven/org.webjars.npm/redoc-cli@0.11.4?classifier=sources
+- pkg:maven/org.webjars.npm/redoc-cli@0.13.14
+- pkg:maven/org.webjars.npm/redoc-cli@0.13.14?classifier=sources
 - pkg:maven/org.webjars.npm/redoc-cli@0.9.8
 - pkg:maven/org.webjars.npm/redoc-cli@0.9.8?classifier=sources

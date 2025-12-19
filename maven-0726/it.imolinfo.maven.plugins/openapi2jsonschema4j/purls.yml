@@ -1,2 +1,4 @@
 - pkg:maven/it.imolinfo.maven.plugins/openapi2jsonschema4j@1.0.0
 - pkg:maven/it.imolinfo.maven.plugins/openapi2jsonschema4j@1.0.0?classifier=sources
+- pkg:maven/it.imolinfo.maven.plugins/openapi2jsonschema4j@1.0.1
+- pkg:maven/it.imolinfo.maven.plugins/openapi2jsonschema4j@1.0.1?classifier=sources

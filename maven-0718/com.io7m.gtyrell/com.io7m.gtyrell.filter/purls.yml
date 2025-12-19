@@ -2,3 +2,5 @@
 - pkg:maven/com.io7m.gtyrell/com.io7m.gtyrell.filter@2.0.0?classifier=sources
 - pkg:maven/com.io7m.gtyrell/com.io7m.gtyrell.filter@2.1.0
 - pkg:maven/com.io7m.gtyrell/com.io7m.gtyrell.filter@2.1.0?classifier=sources
+- pkg:maven/com.io7m.gtyrell/com.io7m.gtyrell.filter@3.0.0
+- pkg:maven/com.io7m.gtyrell/com.io7m.gtyrell.filter@3.0.0?classifier=sources
