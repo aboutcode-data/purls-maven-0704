@@ -1,0 +1,5 @@
+- pkg:maven/com.bybutter.sisyphus.middleware/sisyphus-kafka2@1.7.20?classifier=sources
+- pkg:maven/com.bybutter.sisyphus.middleware/sisyphus-kafka2@1.7.21?classifier=sources
+- pkg:maven/com.bybutter.sisyphus.middleware/sisyphus-kafka2@2.0.0?classifier=sources
+- pkg:maven/com.bybutter.sisyphus.middleware/sisyphus-kafka2@2.0.10?classifier=sources
+- pkg:maven/com.bybutter.sisyphus.middleware/sisyphus-kafka2@2.0.11?classifier=sources

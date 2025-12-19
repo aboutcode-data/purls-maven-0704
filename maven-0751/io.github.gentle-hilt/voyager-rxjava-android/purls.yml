@@ -1,0 +1,3 @@
+- pkg:maven/io.github.gentle-hilt/voyager-rxjava-android@10.0.0-rc06?classifier=sources
+- pkg:maven/io.github.gentle-hilt/voyager-rxjava-android@11.0.0-rc06?classifier=sources
+- pkg:maven/io.github.gentle-hilt/voyager-rxjava-android@12.0.0-rc06?classifier=sources

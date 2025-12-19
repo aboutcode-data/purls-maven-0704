@@ -98,3 +98,15 @@
 - pkg:maven/io.docops/asciidoctorj-docops-panel@2023.25?classifier=sources
 - pkg:maven/io.docops/asciidoctorj-docops-panel@2023.26
 - pkg:maven/io.docops/asciidoctorj-docops-panel@2023.26?classifier=sources
+- pkg:maven/io.docops/asciidoctorj-docops-panel@2023.28
+- pkg:maven/io.docops/asciidoctorj-docops-panel@2023.28?classifier=sources
+- pkg:maven/io.docops/asciidoctorj-docops-panel@2023.29
+- pkg:maven/io.docops/asciidoctorj-docops-panel@2023.29?classifier=sources
+- pkg:maven/io.docops/asciidoctorj-docops-panel@2023.30
+- pkg:maven/io.docops/asciidoctorj-docops-panel@2023.30?classifier=sources
+- pkg:maven/io.docops/asciidoctorj-docops-panel@2023.31
+- pkg:maven/io.docops/asciidoctorj-docops-panel@2023.31?classifier=sources
+- pkg:maven/io.docops/asciidoctorj-docops-panel@2023.32
+- pkg:maven/io.docops/asciidoctorj-docops-panel@2023.32?classifier=sources
+- pkg:maven/io.docops/asciidoctorj-docops-panel@2023.33
+- pkg:maven/io.docops/asciidoctorj-docops-panel@2023.33?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.Arjen10/geoserver-manager@1.8.0
+- pkg:maven/io.github.Arjen10/geoserver-manager@1.8.0?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/hu.blackbelt.bundles.eclipse-epsilon/org.eclipse.epsilon@2.3.0_1?classifier=sources
 - pkg:maven/hu.blackbelt.bundles.eclipse-epsilon/org.eclipse.epsilon@2.4.0_1
 - pkg:maven/hu.blackbelt.bundles.eclipse-epsilon/org.eclipse.epsilon@2.4.0_1?classifier=sources
+- pkg:maven/hu.blackbelt.bundles.eclipse-epsilon/org.eclipse.epsilon@2.4.0_2
+- pkg:maven/hu.blackbelt.bundles.eclipse-epsilon/org.eclipse.epsilon@2.4.0_3

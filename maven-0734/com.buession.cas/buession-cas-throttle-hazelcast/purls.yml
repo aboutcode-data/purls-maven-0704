@@ -1,0 +1,2 @@
+- pkg:maven/com.buession.cas/buession-cas-throttle-hazelcast@2.3.0
+- pkg:maven/com.buession.cas/buession-cas-throttle-hazelcast@2.3.0?classifier=sources

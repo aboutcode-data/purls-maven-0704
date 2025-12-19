@@ -1,0 +1,2 @@
+- pkg:maven/com.dji/wpmzsdk@1.0.0.14?classifier=sources
+- pkg:maven/com.dji/wpmzsdk@1.0.1.0?classifier=sources

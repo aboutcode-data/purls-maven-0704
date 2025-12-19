@@ -118,3 +118,5 @@
 - pkg:maven/com.liferay/com.liferay.journal.uad@6.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.uad@7.0.0
 - pkg:maven/com.liferay/com.liferay.journal.uad@7.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.uad@8.0.0
+- pkg:maven/com.liferay/com.liferay.journal.uad@8.0.0?classifier=sources

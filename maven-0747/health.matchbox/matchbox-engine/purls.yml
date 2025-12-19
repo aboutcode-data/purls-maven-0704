@@ -6,3 +6,9 @@
 - pkg:maven/health.matchbox/matchbox-engine@3.2.3?classifier=sources
 - pkg:maven/health.matchbox/matchbox-engine@3.3.0
 - pkg:maven/health.matchbox/matchbox-engine@3.3.0?classifier=sources
+- pkg:maven/health.matchbox/matchbox-engine@3.3.1
+- pkg:maven/health.matchbox/matchbox-engine@3.3.1?classifier=sources
+- pkg:maven/health.matchbox/matchbox-engine@3.3.2
+- pkg:maven/health.matchbox/matchbox-engine@3.3.2?classifier=sources
+- pkg:maven/health.matchbox/matchbox-engine@3.3.3
+- pkg:maven/health.matchbox/matchbox-engine@3.3.3?classifier=sources

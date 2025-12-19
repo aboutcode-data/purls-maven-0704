@@ -8,3 +8,5 @@
 - pkg:maven/com.admin4j/lock-core@0.2.2?classifier=sources
 - pkg:maven/com.admin4j/lock-core@0.2.3
 - pkg:maven/com.admin4j/lock-core@0.2.3?classifier=sources
+- pkg:maven/com.admin4j/lock-core@0.8.0
+- pkg:maven/com.admin4j/lock-core@0.8.0?classifier=sources

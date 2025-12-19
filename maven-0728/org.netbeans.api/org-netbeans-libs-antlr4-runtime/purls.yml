@@ -18,4 +18,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-antlr4-runtime@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-antlr4-runtime@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-antlr4-runtime@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-antlr4-runtime@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-antlr4-runtime@RELEASE90?classifier=sources

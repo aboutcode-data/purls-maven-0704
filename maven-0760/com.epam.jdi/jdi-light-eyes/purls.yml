@@ -72,6 +72,8 @@
 - pkg:maven/com.epam.jdi/jdi-light-eyes@1.4.10?classifier=sources
 - pkg:maven/com.epam.jdi/jdi-light-eyes@1.4.11
 - pkg:maven/com.epam.jdi/jdi-light-eyes@1.4.11?classifier=sources
+- pkg:maven/com.epam.jdi/jdi-light-eyes@1.4.12
+- pkg:maven/com.epam.jdi/jdi-light-eyes@1.4.12?classifier=sources
 - pkg:maven/com.epam.jdi/jdi-light-eyes@1.4.6
 - pkg:maven/com.epam.jdi/jdi-light-eyes@1.4.6?classifier=sources
 - pkg:maven/com.epam.jdi/jdi-light-eyes@1.4.7
@@ -80,3 +82,5 @@
 - pkg:maven/com.epam.jdi/jdi-light-eyes@1.4.8?classifier=sources
 - pkg:maven/com.epam.jdi/jdi-light-eyes@1.4.9
 - pkg:maven/com.epam.jdi/jdi-light-eyes@1.4.9?classifier=sources
+- pkg:maven/com.epam.jdi/jdi-light-eyes@1.5.0
+- pkg:maven/com.epam.jdi/jdi-light-eyes@1.5.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.qlangtech.tis/tis-logback-flume-server@1.0.0
+- pkg:maven/com.qlangtech.tis/tis-logback-flume-server@1.0.0?classifier=sources

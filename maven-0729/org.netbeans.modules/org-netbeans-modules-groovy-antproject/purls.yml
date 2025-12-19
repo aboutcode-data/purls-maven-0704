@@ -18,3 +18,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-antproject@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-antproject@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-antproject@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-antproject@RELEASE190?classifier=sources

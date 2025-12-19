@@ -66,3 +66,5 @@
 - pkg:maven/io.kjson/kjson-pointer@4.6?classifier=sources
 - pkg:maven/io.kjson/kjson-pointer@4.7
 - pkg:maven/io.kjson/kjson-pointer@4.7?classifier=sources
+- pkg:maven/io.kjson/kjson-pointer@5.0
+- pkg:maven/io.kjson/kjson-pointer@5.0?classifier=sources

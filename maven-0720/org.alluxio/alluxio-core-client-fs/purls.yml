@@ -120,3 +120,7 @@
 - pkg:maven/org.alluxio/alluxio-core-client-fs@300?classifier=sources
 - pkg:maven/org.alluxio/alluxio-core-client-fs@301
 - pkg:maven/org.alluxio/alluxio-core-client-fs@301?classifier=sources
+- pkg:maven/org.alluxio/alluxio-core-client-fs@302
+- pkg:maven/org.alluxio/alluxio-core-client-fs@302?classifier=sources
+- pkg:maven/org.alluxio/alluxio-core-client-fs@303
+- pkg:maven/org.alluxio/alluxio-core-client-fs@303?classifier=sources

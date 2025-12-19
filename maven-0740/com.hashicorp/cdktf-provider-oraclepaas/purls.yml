@@ -22,3 +22,5 @@
 - pkg:maven/com.hashicorp/cdktf-provider-oraclepaas@4.0.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-oraclepaas@5.0.0
 - pkg:maven/com.hashicorp/cdktf-provider-oraclepaas@5.0.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-oraclepaas@6.0.0
+- pkg:maven/com.hashicorp/cdktf-provider-oraclepaas@6.0.0?classifier=sources

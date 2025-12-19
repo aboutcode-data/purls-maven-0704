@@ -95,6 +95,12 @@
 - pkg:maven/name.remal.gradle-plugins.toolkit/toolkit@0.61.0?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.toolkit/toolkit@0.61.1?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.toolkit/toolkit@0.61.2?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.toolkit/toolkit@0.61.3?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.toolkit/toolkit@0.61.4?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.toolkit/toolkit@0.62.0?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.toolkit/toolkit@0.62.1?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.toolkit/toolkit@0.62.2?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.toolkit/toolkit@0.62.3?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.toolkit/toolkit@0.7.0?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.toolkit/toolkit@0.8.0?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.toolkit/toolkit@0.9.0?classifier=sources

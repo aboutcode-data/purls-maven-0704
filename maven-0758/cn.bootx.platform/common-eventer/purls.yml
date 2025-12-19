@@ -1,0 +1,2 @@
+- pkg:maven/cn.bootx.platform/common-eventer@1.3.3
+- pkg:maven/cn.bootx.platform/common-eventer@1.3.3?classifier=sources

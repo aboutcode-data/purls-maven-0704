@@ -17,3 +17,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-utilities@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-utilities@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-utilities@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-utilities@RELEASE190?classifier=sources

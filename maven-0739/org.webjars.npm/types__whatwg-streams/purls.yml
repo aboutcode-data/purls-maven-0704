@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/types__whatwg-streams@0.0.2?classifier=sources
 - pkg:maven/org.webjars.npm/types__whatwg-streams@0.0.3
 - pkg:maven/org.webjars.npm/types__whatwg-streams@0.0.3?classifier=sources
+- pkg:maven/org.webjars.npm/types__whatwg-streams@3.2.1
+- pkg:maven/org.webjars.npm/types__whatwg-streams@3.2.1?classifier=sources

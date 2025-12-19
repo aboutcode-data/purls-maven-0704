@@ -1,0 +1,2 @@
+- pkg:maven/com.softwaremill.macwire/macrospekko_2.13@2.5.9
+- pkg:maven/com.softwaremill.macwire/macrospekko_2.13@2.5.9?classifier=sources

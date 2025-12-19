@@ -2,3 +2,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-project-dependency@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-project-dependency@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-project-dependency@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-project-dependency@RELEASE190?classifier=sources

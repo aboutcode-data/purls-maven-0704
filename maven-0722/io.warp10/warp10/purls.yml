@@ -14,3 +14,6 @@
 - pkg:maven/io.warp10/warp10@3.0.0-beta3?classifier=sources
 - pkg:maven/io.warp10/warp10@3.0.0-beta4?classifier=sources
 - pkg:maven/io.warp10/warp10@3.0.0?classifier=sources
+- pkg:maven/io.warp10/warp10@3.0.1?classifier=sources
+- pkg:maven/io.warp10/warp10@3.0.2?classifier=sources
+- pkg:maven/io.warp10/warp10@3.0.3?classifier=sources

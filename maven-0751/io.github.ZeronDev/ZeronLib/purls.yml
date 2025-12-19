@@ -24,3 +24,4 @@
 - pkg:maven/io.github.ZeronDev/ZeronLib@2.5.0?classifier=sources
 - pkg:maven/io.github.ZeronDev/ZeronLib@2.6.0?classifier=sources
 - pkg:maven/io.github.ZeronDev/ZeronLib@2.7.0?classifier=sources
+- pkg:maven/io.github.ZeronDev/ZeronLib@2.7.1?classifier=sources

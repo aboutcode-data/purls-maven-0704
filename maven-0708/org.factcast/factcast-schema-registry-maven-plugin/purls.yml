@@ -108,3 +108,5 @@
 - pkg:maven/org.factcast/factcast-schema-registry-maven-plugin@0.6.7?classifier=sources
 - pkg:maven/org.factcast/factcast-schema-registry-maven-plugin@0.6.8
 - pkg:maven/org.factcast/factcast-schema-registry-maven-plugin@0.6.8?classifier=sources
+- pkg:maven/org.factcast/factcast-schema-registry-maven-plugin@0.6.9
+- pkg:maven/org.factcast/factcast-schema-registry-maven-plugin@0.6.9?classifier=sources

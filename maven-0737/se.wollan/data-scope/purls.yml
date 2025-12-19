@@ -1,0 +1,2 @@
+- pkg:maven/se.wollan/data-scope@1.0.0-rc7?classifier=sources
+- pkg:maven/se.wollan/data-scope@1.0.0-rc8?classifier=sources

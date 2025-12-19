@@ -9,3 +9,9 @@
 - pkg:maven/dev.denwav.hypo/hypo-mappings@1.2.4?classifier=sources
 - pkg:maven/dev.denwav.hypo/hypo-mappings@1.2.5?classifier=sources
 - pkg:maven/dev.denwav.hypo/hypo-mappings@1.2.6?classifier=sources
+- pkg:maven/dev.denwav.hypo/hypo-mappings@1.2.7?classifier=sources
+- pkg:maven/dev.denwav.hypo/hypo-mappings@2.0.0?classifier=sources
+- pkg:maven/dev.denwav.hypo/hypo-mappings@2.1.0?classifier=sources
+- pkg:maven/dev.denwav.hypo/hypo-mappings@2.2.0?classifier=sources
+- pkg:maven/dev.denwav.hypo/hypo-mappings@2.2.1?classifier=sources
+- pkg:maven/dev.denwav.hypo/hypo-mappings@2.3.0?classifier=sources

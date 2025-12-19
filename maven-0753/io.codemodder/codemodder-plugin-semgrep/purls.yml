@@ -1,0 +1,2 @@
+- pkg:maven/io.codemodder/codemodder-plugin-semgrep@0.67.2?classifier=sources
+- pkg:maven/io.codemodder/codemodder-plugin-semgrep@0.67.3?classifier=sources

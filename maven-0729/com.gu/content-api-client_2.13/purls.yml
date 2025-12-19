@@ -132,3 +132,13 @@
 - pkg:maven/com.gu/content-api-client_2.13@19.3.0?classifier=sources
 - pkg:maven/com.gu/content-api-client_2.13@19.3.1
 - pkg:maven/com.gu/content-api-client_2.13@19.3.1?classifier=sources
+- pkg:maven/com.gu/content-api-client_2.13@19.3.2
+- pkg:maven/com.gu/content-api-client_2.13@19.3.2?classifier=sources
+- pkg:maven/com.gu/content-api-client_2.13@19.3.3-beta.1
+- pkg:maven/com.gu/content-api-client_2.13@19.3.3-beta.1?classifier=sources
+- pkg:maven/com.gu/content-api-client_2.13@19.4.0
+- pkg:maven/com.gu/content-api-client_2.13@19.4.0-beta.0
+- pkg:maven/com.gu/content-api-client_2.13@19.4.0-beta.0?classifier=sources
+- pkg:maven/com.gu/content-api-client_2.13@19.4.0-beta.1
+- pkg:maven/com.gu/content-api-client_2.13@19.4.0-beta.1?classifier=sources
+- pkg:maven/com.gu/content-api-client_2.13@19.4.0?classifier=sources

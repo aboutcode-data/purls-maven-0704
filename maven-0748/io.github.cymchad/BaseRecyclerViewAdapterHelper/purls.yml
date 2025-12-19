@@ -22,3 +22,5 @@
 - pkg:maven/io.github.cymchad/BaseRecyclerViewAdapterHelper@4.0.0-beta12?classifier=sources
 - pkg:maven/io.github.cymchad/BaseRecyclerViewAdapterHelper@4.0.0-beta13?classifier=sources
 - pkg:maven/io.github.cymchad/BaseRecyclerViewAdapterHelper@4.0.0-beta14?classifier=sources
+- pkg:maven/io.github.cymchad/BaseRecyclerViewAdapterHelper@4.0.0?classifier=sources
+- pkg:maven/io.github.cymchad/BaseRecyclerViewAdapterHelper@4.0.1?classifier=sources

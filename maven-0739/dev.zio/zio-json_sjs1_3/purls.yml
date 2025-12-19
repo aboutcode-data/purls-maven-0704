@@ -42,3 +42,5 @@
 - pkg:maven/dev.zio/zio-json_sjs1_3@0.5.0?classifier=sources
 - pkg:maven/dev.zio/zio-json_sjs1_3@0.6.0
 - pkg:maven/dev.zio/zio-json_sjs1_3@0.6.0?classifier=sources
+- pkg:maven/dev.zio/zio-json_sjs1_3@0.6.1
+- pkg:maven/dev.zio/zio-json_sjs1_3@0.6.1?classifier=sources

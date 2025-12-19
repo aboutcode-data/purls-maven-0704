@@ -18,3 +18,7 @@
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-sql-mysql-r2dbc@3.5.3
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-sql-mysql-r2dbc@3.5.4
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-sql-mysql-r2dbc@3.5.5
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-sql-mysql-r2dbc@3.6.0
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-sql-mysql-r2dbc@3.6.1
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-sql-mysql-r2dbc@3.6.2
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-sql-mysql-r2dbc@3.6.3

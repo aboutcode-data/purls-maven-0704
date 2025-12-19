@@ -3,3 +3,4 @@
 - pkg:maven/io.provenance.client/pb-grpc-client-common-kotlin@1.4.0?classifier=sources
 - pkg:maven/io.provenance.client/pb-grpc-client-common-kotlin@2.0.0?classifier=sources
 - pkg:maven/io.provenance.client/pb-grpc-client-common-kotlin@2.1.0?classifier=sources
+- pkg:maven/io.provenance.client/pb-grpc-client-common-kotlin@2.1.1?classifier=sources

@@ -29,4 +29,6 @@
 - pkg:maven/com.dolphindb/jdbc@1.30.22.2?classifier=sources
 - pkg:maven/com.dolphindb/jdbc@1.30.22.3
 - pkg:maven/com.dolphindb/jdbc@1.30.22.3?classifier=sources
+- pkg:maven/com.dolphindb/jdbc@1.30.22.4
+- pkg:maven/com.dolphindb/jdbc@1.30.22.4?classifier=sources
 - pkg:maven/com.dolphindb/jdbc@1.30?classifier=sources

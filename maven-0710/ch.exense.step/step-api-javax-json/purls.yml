@@ -1,0 +1,2 @@
+- pkg:maven/ch.exense.step/step-api-javax-json@1.0.0
+- pkg:maven/ch.exense.step/step-api-javax-json@1.0.0?classifier=sources

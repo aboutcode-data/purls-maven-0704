@@ -6,3 +6,5 @@
 - pkg:maven/com.chutneytesting/action-spi@1.7.1?classifier=sources
 - pkg:maven/com.chutneytesting/action-spi@2.0.0
 - pkg:maven/com.chutneytesting/action-spi@2.0.0?classifier=sources
+- pkg:maven/com.chutneytesting/action-spi@2.1.0
+- pkg:maven/com.chutneytesting/action-spi@2.1.0?classifier=sources

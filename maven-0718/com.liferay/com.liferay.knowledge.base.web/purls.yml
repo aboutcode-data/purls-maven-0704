@@ -658,6 +658,8 @@
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@2.0.96?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@2.0.97
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@2.0.97?classifier=sources
+- pkg:maven/com.liferay/com.liferay.knowledge.base.web@2.0.98
+- pkg:maven/com.liferay/com.liferay.knowledge.base.web@2.0.98?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@2.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@2.0.9?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@3.0.0
@@ -1166,6 +1168,7 @@
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@4.0.77?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@4.0.78
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@4.0.78?classifier=sources
+- pkg:maven/com.liferay/com.liferay.knowledge.base.web@4.0.79?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@4.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@4.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@4.0.8
@@ -1182,6 +1185,11 @@
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@5.0.100
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@5.0.100?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@5.0.100?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.knowledge.base.web@5.0.101
+- pkg:maven/com.liferay/com.liferay.knowledge.base.web@5.0.101?classifier=sources
+- pkg:maven/com.liferay/com.liferay.knowledge.base.web@5.0.102?classifier=sources
+- pkg:maven/com.liferay/com.liferay.knowledge.base.web@5.0.103?classifier=sources
+- pkg:maven/com.liferay/com.liferay.knowledge.base.web@5.0.104?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@5.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@5.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@5.0.11

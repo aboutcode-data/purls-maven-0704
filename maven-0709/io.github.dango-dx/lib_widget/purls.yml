@@ -1,0 +1,13 @@
+- pkg:maven/io.github.dango-dx/lib_widget@%24%7BVERSION_FUll%7D?classifier=sources
+- pkg:maven/io.github.dango-dx/lib_widget@%24%7BVERSION_INFIX%7D.%24%7BVERSION_FIX%7D?classifier=sources
+- pkg:maven/io.github.dango-dx/lib_widget@%24VERSION_INFIX.%24VERSION_FIX?classifier=sources
+- pkg:maven/io.github.dango-dx/lib_widget@1.0.0.0004?classifier=sources
+- pkg:maven/io.github.dango-dx/lib_widget@1.0.0?classifier=sources
+- pkg:maven/io.github.dango-dx/lib_widget@1.0.1?classifier=sources
+- pkg:maven/io.github.dango-dx/lib_widget@1.0.2?classifier=sources
+- pkg:maven/io.github.dango-dx/lib_widget@1.1.0?classifier=sources
+- pkg:maven/io.github.dango-dx/lib_widget@1.1.11?classifier=sources
+- pkg:maven/io.github.dango-dx/lib_widget@1.1.12?classifier=sources
+- pkg:maven/io.github.dango-dx/lib_widget@1.1.4?classifier=sources
+- pkg:maven/io.github.dango-dx/lib_widget@1.1.5?classifier=sources
+- pkg:maven/io.github.dango-dx/lib_widget@1.1.9?classifier=sources

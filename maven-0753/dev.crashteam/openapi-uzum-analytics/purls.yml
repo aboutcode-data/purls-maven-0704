@@ -6,6 +6,14 @@
 - pkg:maven/dev.crashteam/openapi-uzum-analytics@1.11-afbdcf0-client?classifier=sources
 - pkg:maven/dev.crashteam/openapi-uzum-analytics@1.11-afbdcf0-server
 - pkg:maven/dev.crashteam/openapi-uzum-analytics@1.11-afbdcf0-server?classifier=sources
+- pkg:maven/dev.crashteam/openapi-uzum-analytics@1.12-df88451-client
+- pkg:maven/dev.crashteam/openapi-uzum-analytics@1.12-df88451-client?classifier=sources
+- pkg:maven/dev.crashteam/openapi-uzum-analytics@1.12-df88451-server
+- pkg:maven/dev.crashteam/openapi-uzum-analytics@1.12-df88451-server?classifier=sources
+- pkg:maven/dev.crashteam/openapi-uzum-analytics@1.13-257a790-client
+- pkg:maven/dev.crashteam/openapi-uzum-analytics@1.13-257a790-client?classifier=sources
+- pkg:maven/dev.crashteam/openapi-uzum-analytics@1.13-257a790-server
+- pkg:maven/dev.crashteam/openapi-uzum-analytics@1.13-257a790-server?classifier=sources
 - pkg:maven/dev.crashteam/openapi-uzum-analytics@1.3-0aae9be-client
 - pkg:maven/dev.crashteam/openapi-uzum-analytics@1.3-0aae9be-client?classifier=sources
 - pkg:maven/dev.crashteam/openapi-uzum-analytics@1.3-0aae9be-server

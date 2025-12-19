@@ -28,3 +28,5 @@
 - pkg:maven/org.webjars.npm/babel__code-frame@7.8.0?classifier=sources
 - pkg:maven/org.webjars.npm/babel__code-frame@7.8.3
 - pkg:maven/org.webjars.npm/babel__code-frame@7.8.3?classifier=sources
+- pkg:maven/org.webjars.npm/babel__code-frame@8.0.0-alpha.1
+- pkg:maven/org.webjars.npm/babel__code-frame@8.0.0-alpha.1?classifier=sources

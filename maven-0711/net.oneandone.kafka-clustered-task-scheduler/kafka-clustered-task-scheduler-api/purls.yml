@@ -1,0 +1,2 @@
+- pkg:maven/net.oneandone.kafka-clustered-task-scheduler/kafka-clustered-task-scheduler-api@0.0.7
+- pkg:maven/net.oneandone.kafka-clustered-task-scheduler/kafka-clustered-task-scheduler-api@0.0.7?classifier=sources

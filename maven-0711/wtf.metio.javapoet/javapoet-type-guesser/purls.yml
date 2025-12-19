@@ -32,3 +32,5 @@
 - pkg:maven/wtf.metio.javapoet/javapoet-type-guesser@2023.6.8?classifier=sources
 - pkg:maven/wtf.metio.javapoet/javapoet-type-guesser@2023.7.6
 - pkg:maven/wtf.metio.javapoet/javapoet-type-guesser@2023.7.6?classifier=sources
+- pkg:maven/wtf.metio.javapoet/javapoet-type-guesser@2023.8.10
+- pkg:maven/wtf.metio.javapoet/javapoet-type-guesser@2023.8.10?classifier=sources

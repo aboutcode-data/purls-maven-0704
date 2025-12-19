@@ -18,3 +18,5 @@
 - pkg:maven/net.xdob.icap4j/icap4j@0.4.5?classifier=sources
 - pkg:maven/net.xdob.icap4j/icap4j@0.4.6
 - pkg:maven/net.xdob.icap4j/icap4j@0.4.6?classifier=sources
+- pkg:maven/net.xdob.icap4j/icap4j@0.4.9
+- pkg:maven/net.xdob.icap4j/icap4j@0.4.9?classifier=sources

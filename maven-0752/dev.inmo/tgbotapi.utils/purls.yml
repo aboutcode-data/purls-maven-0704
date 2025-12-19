@@ -94,3 +94,4 @@
 - pkg:maven/dev.inmo/tgbotapi.utils@8.0.1?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.utils@8.1.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.utils@9.0.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.utils@9.1.0?classifier=sources

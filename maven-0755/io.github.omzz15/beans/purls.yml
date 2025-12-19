@@ -36,3 +36,5 @@
 - pkg:maven/io.github.omzz15/beans@2.1.1-FTCRELEASE?classifier=sources
 - pkg:maven/io.github.omzz15/beans@2.1.2-FTCRELEASE
 - pkg:maven/io.github.omzz15/beans@2.1.2-FTCRELEASE?classifier=sources
+- pkg:maven/io.github.omzz15/beans@2.2.0-FTCRELEASE
+- pkg:maven/io.github.omzz15/beans@2.2.0-FTCRELEASE?classifier=sources

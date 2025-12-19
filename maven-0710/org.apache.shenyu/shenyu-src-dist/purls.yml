@@ -4,3 +4,4 @@
 - pkg:maven/org.apache.shenyu/shenyu-src-dist@2.4.3?classifier=src&type=zip
 - pkg:maven/org.apache.shenyu/shenyu-src-dist@2.5.0?classifier=src&type=zip
 - pkg:maven/org.apache.shenyu/shenyu-src-dist@2.5.1?classifier=src&type=zip
+- pkg:maven/org.apache.shenyu/shenyu-src-dist@2.6.0?classifier=src&type=zip

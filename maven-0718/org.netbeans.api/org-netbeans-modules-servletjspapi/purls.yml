@@ -17,3 +17,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-servletjspapi@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-servletjspapi@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-servletjspapi@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-servletjspapi@RELEASE190?classifier=sources

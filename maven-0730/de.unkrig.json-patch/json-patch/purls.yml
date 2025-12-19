@@ -1,0 +1,2 @@
+- pkg:maven/de.unkrig.json-patch/json-patch@0.0.2
+- pkg:maven/de.unkrig.json-patch/json-patch@0.0.2?classifier=sources

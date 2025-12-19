@@ -20,5 +20,7 @@
 - pkg:maven/io.github.osinn/spring-security-auth-starter@1.1.0?classifier=sources
 - pkg:maven/io.github.osinn/spring-security-auth-starter@1.1.1
 - pkg:maven/io.github.osinn/spring-security-auth-starter@1.1.1?classifier=sources
+- pkg:maven/io.github.osinn/spring-security-auth-starter@1.2
+- pkg:maven/io.github.osinn/spring-security-auth-starter@1.2?classifier=sources
 - pkg:maven/io.github.osinn/spring-security-auth-starter@2.0-beta0
 - pkg:maven/io.github.osinn/spring-security-auth-starter@2.0-beta0?classifier=sources

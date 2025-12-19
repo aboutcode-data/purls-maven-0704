@@ -1,0 +1,2 @@
+- pkg:maven/org.drewcarlson/ktsoup-ktor-iosarm64@0.2.0?classifier=sources
+- pkg:maven/org.drewcarlson/ktsoup-ktor-iosarm64@0.3.0?classifier=sources

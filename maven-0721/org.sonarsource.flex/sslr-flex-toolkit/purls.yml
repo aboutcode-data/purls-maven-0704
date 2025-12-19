@@ -1,3 +1,4 @@
+- pkg:maven/org.sonarsource.flex/sslr-flex-toolkit@2.10.0.3458?classifier=sources
 - pkg:maven/org.sonarsource.flex/sslr-flex-toolkit@2.2
 - pkg:maven/org.sonarsource.flex/sslr-flex-toolkit@2.2.1
 - pkg:maven/org.sonarsource.flex/sslr-flex-toolkit@2.2.1?classifier=sources

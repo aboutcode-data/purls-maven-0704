@@ -8,6 +8,8 @@
 - pkg:maven/com.github.cafaudit/caf-audit-schema@3.10.0-936?classifier=sources
 - pkg:maven/com.github.cafaudit/caf-audit-schema@3.11.0-991
 - pkg:maven/com.github.cafaudit/caf-audit-schema@3.11.0-991?classifier=sources
+- pkg:maven/com.github.cafaudit/caf-audit-schema@3.11.1-1033
+- pkg:maven/com.github.cafaudit/caf-audit-schema@3.11.1-1033?classifier=sources
 - pkg:maven/com.github.cafaudit/caf-audit-schema@3.2.0-83
 - pkg:maven/com.github.cafaudit/caf-audit-schema@3.2.0-83?classifier=sources
 - pkg:maven/com.github.cafaudit/caf-audit-schema@3.3.0-280

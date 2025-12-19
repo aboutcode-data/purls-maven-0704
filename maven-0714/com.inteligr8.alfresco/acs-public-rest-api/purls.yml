@@ -34,3 +34,7 @@
 - pkg:maven/com.inteligr8.alfresco/acs-public-rest-api@2.1.0-acs62?classifier=sources
 - pkg:maven/com.inteligr8.alfresco/acs-public-rest-api@2.1.0-acs7
 - pkg:maven/com.inteligr8.alfresco/acs-public-rest-api@2.1.0-acs7?classifier=sources
+- pkg:maven/com.inteligr8.alfresco/acs-public-rest-api@2.1.1-acs62
+- pkg:maven/com.inteligr8.alfresco/acs-public-rest-api@2.1.1-acs62?classifier=sources
+- pkg:maven/com.inteligr8.alfresco/acs-public-rest-api@2.1.1-acs7
+- pkg:maven/com.inteligr8.alfresco/acs-public-rest-api@2.1.1-acs7?classifier=sources

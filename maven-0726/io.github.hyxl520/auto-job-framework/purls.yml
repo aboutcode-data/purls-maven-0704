@@ -1,0 +1,2 @@
+- pkg:maven/io.github.hyxl520/auto-job-framework@0.9.6
+- pkg:maven/io.github.hyxl520/auto-job-framework@0.9.6?classifier=sources

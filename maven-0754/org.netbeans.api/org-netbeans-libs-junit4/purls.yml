@@ -18,4 +18,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-junit4@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-junit4@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-junit4@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-junit4@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-junit4@RELEASE90?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.oracle.cloud.spring/spring-cloud-oci-starter-notification@0.1.77
+- pkg:maven/com.oracle.cloud.spring/spring-cloud-oci-starter-notification@0.1.77?classifier=sources

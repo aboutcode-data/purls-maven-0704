@@ -2,3 +2,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-debug@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-debug@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-debug@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-debug@RELEASE190?classifier=sources

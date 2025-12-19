@@ -23,3 +23,9 @@
 - pkg:maven/io.github.sokchanbo/ui-stg@1.0.0-beta23?classifier=sources
 - pkg:maven/io.github.sokchanbo/ui-stg@1.0.0-beta24?classifier=sources
 - pkg:maven/io.github.sokchanbo/ui-stg@1.0.0-beta25?classifier=sources
+- pkg:maven/io.github.sokchanbo/ui-stg@1.0.0-beta26?classifier=sources
+- pkg:maven/io.github.sokchanbo/ui-stg@1.0.0-beta27?classifier=sources
+- pkg:maven/io.github.sokchanbo/ui-stg@1.0.0-beta28?classifier=sources
+- pkg:maven/io.github.sokchanbo/ui-stg@1.0.0-beta29?classifier=sources
+- pkg:maven/io.github.sokchanbo/ui-stg@1.0.0-beta30?classifier=sources
+- pkg:maven/io.github.sokchanbo/ui-stg@1.0.0?classifier=sources

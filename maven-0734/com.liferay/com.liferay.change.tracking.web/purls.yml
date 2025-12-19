@@ -223,6 +223,8 @@
 - pkg:maven/com.liferay/com.liferay.change.tracking.web@1.0.76?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.change.tracking.web@1.0.77
 - pkg:maven/com.liferay/com.liferay.change.tracking.web@1.0.77?classifier=sources
+- pkg:maven/com.liferay/com.liferay.change.tracking.web@1.0.78?classifier=sources
+- pkg:maven/com.liferay/com.liferay.change.tracking.web@1.0.79?classifier=sources
 - pkg:maven/com.liferay/com.liferay.change.tracking.web@1.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.change.tracking.web@1.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.change.tracking.web@1.0.8
@@ -254,6 +256,10 @@
 - pkg:maven/com.liferay/com.liferay.change.tracking.web@2.0.105
 - pkg:maven/com.liferay/com.liferay.change.tracking.web@2.0.105?classifier=sources
 - pkg:maven/com.liferay/com.liferay.change.tracking.web@2.0.105?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.change.tracking.web@2.0.106
+- pkg:maven/com.liferay/com.liferay.change.tracking.web@2.0.106?classifier=sources
+- pkg:maven/com.liferay/com.liferay.change.tracking.web@2.0.107?classifier=sources
+- pkg:maven/com.liferay/com.liferay.change.tracking.web@2.0.108?classifier=sources
 - pkg:maven/com.liferay/com.liferay.change.tracking.web@2.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.change.tracking.web@2.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.change.tracking.web@2.0.11

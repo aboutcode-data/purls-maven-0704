@@ -11,3 +11,5 @@
 - pkg:maven/com.kroegerama.openapi-kgen/cli@0.12.5?classifier=sources
 - pkg:maven/com.kroegerama.openapi-kgen/cli@0.13.0-rc01?classifier=sources
 - pkg:maven/com.kroegerama.openapi-kgen/cli@0.13.0?classifier=sources
+- pkg:maven/com.kroegerama.openapi-kgen/cli@0.14.0?classifier=sources
+- pkg:maven/com.kroegerama.openapi-kgen/cli@0.14.1?classifier=sources

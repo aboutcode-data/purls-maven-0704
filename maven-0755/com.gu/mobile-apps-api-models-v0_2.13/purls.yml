@@ -1,0 +1,6 @@
+- pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@0.0.18
+- pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@0.0.18?classifier=sources
+- pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@0.0.19
+- pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@0.0.19?classifier=sources
+- pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@0.0.20
+- pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@0.0.20?classifier=sources

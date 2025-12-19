@@ -14,3 +14,5 @@
 - pkg:maven/io.camunda.spring/spring-boot-starter-camunda-test-common@8.2.2?classifier=sources
 - pkg:maven/io.camunda.spring/spring-boot-starter-camunda-test-common@8.2.3
 - pkg:maven/io.camunda.spring/spring-boot-starter-camunda-test-common@8.2.3?classifier=sources
+- pkg:maven/io.camunda.spring/spring-boot-starter-camunda-test-common@8.2.4
+- pkg:maven/io.camunda.spring/spring-boot-starter-camunda-test-common@8.2.4?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/org.jboss.test/clusterbench@4.0.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.test/clusterbench@5.0.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.test/clusterbench@5.0.1.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.test/clusterbench@6.0.0.Final?classifier=source-release&type=zip

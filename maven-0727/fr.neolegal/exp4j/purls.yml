@@ -1,0 +1,2 @@
+- pkg:maven/fr.neolegal/exp4j@0.4.12
+- pkg:maven/fr.neolegal/exp4j@0.4.12?classifier=sources

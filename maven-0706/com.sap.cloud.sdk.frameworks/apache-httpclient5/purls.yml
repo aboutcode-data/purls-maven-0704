@@ -1,0 +1,4 @@
+- pkg:maven/com.sap.cloud.sdk.frameworks/apache-httpclient5@4.20.0
+- pkg:maven/com.sap.cloud.sdk.frameworks/apache-httpclient5@4.20.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.frameworks/apache-httpclient5@4.21.0
+- pkg:maven/com.sap.cloud.sdk.frameworks/apache-httpclient5@4.21.0?classifier=sources

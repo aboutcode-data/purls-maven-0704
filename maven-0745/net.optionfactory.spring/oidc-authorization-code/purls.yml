@@ -88,3 +88,5 @@
 - pkg:maven/net.optionfactory.spring/oidc-authorization-code@7.9?classifier=sources
 - pkg:maven/net.optionfactory.spring/oidc-authorization-code@8.0
 - pkg:maven/net.optionfactory.spring/oidc-authorization-code@8.0?classifier=sources
+- pkg:maven/net.optionfactory.spring/oidc-authorization-code@8.1
+- pkg:maven/net.optionfactory.spring/oidc-authorization-code@8.1?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/tech.grasshopper/rest-assured-cucumber-pdf-report@1.4.0?classifier=sources
 - pkg:maven/tech.grasshopper/rest-assured-cucumber-pdf-report@1.4.1
 - pkg:maven/tech.grasshopper/rest-assured-cucumber-pdf-report@1.4.1?classifier=sources
+- pkg:maven/tech.grasshopper/rest-assured-cucumber-pdf-report@1.5.0
+- pkg:maven/tech.grasshopper/rest-assured-cucumber-pdf-report@1.5.0?classifier=sources

@@ -4,3 +4,4 @@
 - pkg:maven/com.github.twitch4j/twitch4j-client-websocket@1.13.0?classifier=sources
 - pkg:maven/com.github.twitch4j/twitch4j-client-websocket@1.14.0?classifier=sources
 - pkg:maven/com.github.twitch4j/twitch4j-client-websocket@1.15.0?classifier=sources
+- pkg:maven/com.github.twitch4j/twitch4j-client-websocket@1.16.0?classifier=sources

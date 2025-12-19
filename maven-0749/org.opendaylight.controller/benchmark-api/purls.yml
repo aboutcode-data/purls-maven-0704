@@ -191,3 +191,4 @@
 - pkg:maven/org.opendaylight.controller/benchmark-api@7.0.9?classifier=sources
 - pkg:maven/org.opendaylight.controller/benchmark-api@8.0.0
 - pkg:maven/org.opendaylight.controller/benchmark-api@8.0.0?classifier=sources
+- pkg:maven/org.opendaylight.controller/benchmark-api@8.0.1?classifier=sources

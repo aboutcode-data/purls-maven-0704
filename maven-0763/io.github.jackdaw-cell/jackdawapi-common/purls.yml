@@ -1,0 +1,2 @@
+- pkg:maven/io.github.jackdaw-cell/jackdawapi-common@0.0.1
+- pkg:maven/io.github.jackdaw-cell/jackdawapi-common@0.0.1?classifier=sources
