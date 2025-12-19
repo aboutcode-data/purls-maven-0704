@@ -14,3 +14,5 @@
 - pkg:maven/com.cognitect.aws/nimble@822.2.1181.0?classifier=sources
 - pkg:maven/com.cognitect.aws/nimble@825.2.1233.0
 - pkg:maven/com.cognitect.aws/nimble@825.2.1233.0?classifier=sources
+- pkg:maven/com.cognitect.aws/nimble@825.2.1283.0
+- pkg:maven/com.cognitect.aws/nimble@825.2.1283.0?classifier=sources

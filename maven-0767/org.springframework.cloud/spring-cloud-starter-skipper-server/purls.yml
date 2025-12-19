@@ -50,3 +50,4 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-skipper-server@2.8.4
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-skipper-server@2.8.5
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-skipper-server@2.8.6
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-skipper-server@2.9.0

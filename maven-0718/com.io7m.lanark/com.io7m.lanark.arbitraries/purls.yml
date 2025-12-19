@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.lanark/com.io7m.lanark.arbitraries@1.0.0-beta0001
+- pkg:maven/com.io7m.lanark/com.io7m.lanark.arbitraries@1.0.0-beta0001?classifier=sources

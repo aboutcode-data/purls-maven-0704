@@ -7,3 +7,4 @@
 - pkg:maven/io.hexhacking/xdl@1.1.4?classifier=sources
 - pkg:maven/io.hexhacking/xdl@1.1.5?classifier=sources
 - pkg:maven/io.hexhacking/xdl@1.2.0?classifier=sources
+- pkg:maven/io.hexhacking/xdl@1.2.1?classifier=sources

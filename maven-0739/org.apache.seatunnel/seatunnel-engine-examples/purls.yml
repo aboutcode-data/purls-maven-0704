@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.seatunnel/seatunnel-engine-examples@2.3.0
+- pkg:maven/org.apache.seatunnel/seatunnel-engine-examples@2.3.0?classifier=sources

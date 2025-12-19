@@ -1,0 +1,4 @@
+- pkg:maven/io.github.micro164/EdiManipulation@1.0-SANPSHOT
+- pkg:maven/io.github.micro164/EdiManipulation@1.0-SANPSHOT?classifier=sources
+- pkg:maven/io.github.micro164/EdiManipulation@1.0.0
+- pkg:maven/io.github.micro164/EdiManipulation@1.0.0?classifier=sources

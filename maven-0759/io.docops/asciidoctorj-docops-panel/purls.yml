@@ -25,6 +25,10 @@
 - pkg:maven/io.docops/asciidoctorj-docops-panel@2022.2
 - pkg:maven/io.docops/asciidoctorj-docops-panel@2022.20
 - pkg:maven/io.docops/asciidoctorj-docops-panel@2022.20?classifier=sources
+- pkg:maven/io.docops/asciidoctorj-docops-panel@2022.21
+- pkg:maven/io.docops/asciidoctorj-docops-panel@2022.21?classifier=sources
+- pkg:maven/io.docops/asciidoctorj-docops-panel@2022.22
+- pkg:maven/io.docops/asciidoctorj-docops-panel@2022.22?classifier=sources
 - pkg:maven/io.docops/asciidoctorj-docops-panel@2022.2?classifier=sources
 - pkg:maven/io.docops/asciidoctorj-docops-panel@2022.3
 - pkg:maven/io.docops/asciidoctorj-docops-panel@2022.3?classifier=sources
@@ -40,3 +44,5 @@
 - pkg:maven/io.docops/asciidoctorj-docops-panel@2022.8?classifier=sources
 - pkg:maven/io.docops/asciidoctorj-docops-panel@2022.9
 - pkg:maven/io.docops/asciidoctorj-docops-panel@2022.9?classifier=sources
+- pkg:maven/io.docops/asciidoctorj-docops-panel@2023.00
+- pkg:maven/io.docops/asciidoctorj-docops-panel@2023.00?classifier=sources

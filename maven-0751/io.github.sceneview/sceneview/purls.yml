@@ -13,3 +13,4 @@
 - pkg:maven/io.github.sceneview/sceneview@0.7.0?classifier=sources
 - pkg:maven/io.github.sceneview/sceneview@0.8.0?classifier=sources
 - pkg:maven/io.github.sceneview/sceneview@0.9.0?classifier=sources
+- pkg:maven/io.github.sceneview/sceneview@1.0.0?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/com.wizzdi/flexicore-boot-dynamic-invokers-model@1.2.0?classifier=sources
 - pkg:maven/com.wizzdi/flexicore-boot-dynamic-invokers-model@2.0.0
 - pkg:maven/com.wizzdi/flexicore-boot-dynamic-invokers-model@2.0.0?classifier=sources
+- pkg:maven/com.wizzdi/flexicore-boot-dynamic-invokers-model@3.0.0
+- pkg:maven/com.wizzdi/flexicore-boot-dynamic-invokers-model@3.0.0?classifier=sources

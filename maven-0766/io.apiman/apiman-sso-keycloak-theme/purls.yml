@@ -1,2 +1,4 @@
+- pkg:maven/io.apiman/apiman-sso-keycloak-theme@3.0.0.Final
+- pkg:maven/io.apiman/apiman-sso-keycloak-theme@3.0.0.Final?classifier=sources
 - pkg:maven/io.apiman/apiman-sso-keycloak-theme@3.0.0.RC6
 - pkg:maven/io.apiman/apiman-sso-keycloak-theme@3.0.0.RC6?classifier=sources

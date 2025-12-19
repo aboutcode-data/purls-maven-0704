@@ -21,6 +21,9 @@
 - pkg:maven/me.ahoo.cosid/cosid-zookeeper@1.16.0?classifier=sources
 - pkg:maven/me.ahoo.cosid/cosid-zookeeper@1.16.2?classifier=sources
 - pkg:maven/me.ahoo.cosid/cosid-zookeeper@1.16.5?classifier=sources
+- pkg:maven/me.ahoo.cosid/cosid-zookeeper@1.16.6?classifier=sources
+- pkg:maven/me.ahoo.cosid/cosid-zookeeper@1.16.8?classifier=sources
+- pkg:maven/me.ahoo.cosid/cosid-zookeeper@1.16.9?classifier=sources
 - pkg:maven/me.ahoo.cosid/cosid-zookeeper@1.5.0?classifier=sources
 - pkg:maven/me.ahoo.cosid/cosid-zookeeper@1.5.1?classifier=sources
 - pkg:maven/me.ahoo.cosid/cosid-zookeeper@1.6.0?classifier=sources
@@ -57,3 +60,4 @@
 - pkg:maven/me.ahoo.cosid/cosid-zookeeper@1.9.0?classifier=sources
 - pkg:maven/me.ahoo.cosid/cosid-zookeeper@2.0.0-RC1?classifier=sources
 - pkg:maven/me.ahoo.cosid/cosid-zookeeper@2.0.0?classifier=sources
+- pkg:maven/me.ahoo.cosid/cosid-zookeeper@2.0.5?classifier=sources

@@ -52,6 +52,8 @@
 - pkg:maven/cn.net.vidyo/dylink-data-yd@2.1.0.36.RELEASE?classifier=sources
 - pkg:maven/cn.net.vidyo/dylink-data-yd@2.1.0.38.RELEASE
 - pkg:maven/cn.net.vidyo/dylink-data-yd@2.1.0.38.RELEASE?classifier=sources
+- pkg:maven/cn.net.vidyo/dylink-data-yd@2.1.0.39.RELEASE
+- pkg:maven/cn.net.vidyo/dylink-data-yd@2.1.0.39.RELEASE?classifier=sources
 - pkg:maven/cn.net.vidyo/dylink-data-yd@2.1.0.4.RELEASE
 - pkg:maven/cn.net.vidyo/dylink-data-yd@2.1.0.4.RELEASE?classifier=sources
 - pkg:maven/cn.net.vidyo/dylink-data-yd@2.1.0.5.RELEASE

@@ -6,3 +6,5 @@
 - pkg:maven/org.swisspush/cluster-watchdog@2.3.1?classifier=sources
 - pkg:maven/org.swisspush/cluster-watchdog@3.0.0
 - pkg:maven/org.swisspush/cluster-watchdog@3.0.0?classifier=sources
+- pkg:maven/org.swisspush/cluster-watchdog@3.0.1
+- pkg:maven/org.swisspush/cluster-watchdog@3.0.1?classifier=sources

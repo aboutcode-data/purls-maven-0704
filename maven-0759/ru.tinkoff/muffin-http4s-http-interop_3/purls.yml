@@ -1,2 +1,4 @@
 - pkg:maven/ru.tinkoff/muffin-http4s-http-interop_3@0.2.0
 - pkg:maven/ru.tinkoff/muffin-http4s-http-interop_3@0.2.0?classifier=sources
+- pkg:maven/ru.tinkoff/muffin-http4s-http-interop_3@0.2.1
+- pkg:maven/ru.tinkoff/muffin-http4s-http-interop_3@0.2.1?classifier=sources

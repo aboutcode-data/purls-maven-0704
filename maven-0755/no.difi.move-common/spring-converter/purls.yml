@@ -12,5 +12,7 @@
 - pkg:maven/no.difi.move-common/spring-converter@1.15.0?classifier=sources
 - pkg:maven/no.difi.move-common/spring-converter@1.16.0
 - pkg:maven/no.difi.move-common/spring-converter@1.16.0?classifier=sources
+- pkg:maven/no.difi.move-common/spring-converter@1.17.0
+- pkg:maven/no.difi.move-common/spring-converter@1.17.0?classifier=sources
 - pkg:maven/no.difi.move-common/spring-converter@1.9.0
 - pkg:maven/no.difi.move-common/spring-converter@1.9.0?classifier=sources

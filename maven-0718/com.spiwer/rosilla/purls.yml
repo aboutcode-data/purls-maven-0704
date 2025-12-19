@@ -6,5 +6,7 @@
 - pkg:maven/com.spiwer/rosilla@1.8.18?classifier=sources
 - pkg:maven/com.spiwer/rosilla@1.8.19
 - pkg:maven/com.spiwer/rosilla@1.8.19?classifier=sources
+- pkg:maven/com.spiwer/rosilla@1.8.20
+- pkg:maven/com.spiwer/rosilla@1.8.20?classifier=sources
 - pkg:maven/com.spiwer/rosilla@2.0.0
 - pkg:maven/com.spiwer/rosilla@2.0.0?classifier=sources

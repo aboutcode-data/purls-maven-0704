@@ -52,3 +52,11 @@
 - pkg:maven/org.instancio/instancio-processor@1.5.4?classifier=sources
 - pkg:maven/org.instancio/instancio-processor@1.6.0
 - pkg:maven/org.instancio/instancio-processor@1.6.0?classifier=sources
+- pkg:maven/org.instancio/instancio-processor@2.0.0
+- pkg:maven/org.instancio/instancio-processor@2.0.0?classifier=sources
+- pkg:maven/org.instancio/instancio-processor@2.1.0
+- pkg:maven/org.instancio/instancio-processor@2.1.0?classifier=sources
+- pkg:maven/org.instancio/instancio-processor@2.2.0
+- pkg:maven/org.instancio/instancio-processor@2.2.0?classifier=sources
+- pkg:maven/org.instancio/instancio-processor@2.3.0
+- pkg:maven/org.instancio/instancio-processor@2.3.0?classifier=sources

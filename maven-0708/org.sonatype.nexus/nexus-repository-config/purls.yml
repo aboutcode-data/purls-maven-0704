@@ -99,3 +99,7 @@
 - pkg:maven/org.sonatype.nexus/nexus-repository-config@3.42.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-repository-config@3.43.0-01
 - pkg:maven/org.sonatype.nexus/nexus-repository-config@3.43.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-repository-config@3.44.0-01
+- pkg:maven/org.sonatype.nexus/nexus-repository-config@3.44.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-repository-config@3.45.0-01
+- pkg:maven/org.sonatype.nexus/nexus-repository-config@3.45.0-01?classifier=sources

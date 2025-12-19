@@ -1,0 +1,2 @@
+- pkg:maven/io.github.simplifier-ag/spdf_2.12@1.4.1
+- pkg:maven/io.github.simplifier-ag/spdf_2.12@1.4.1?classifier=sources

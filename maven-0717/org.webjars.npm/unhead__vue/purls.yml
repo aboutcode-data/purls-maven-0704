@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/unhead__vue@1.0.14
+- pkg:maven/org.webjars.npm/unhead__vue@1.0.14?classifier=sources

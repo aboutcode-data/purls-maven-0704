@@ -1,4 +1,8 @@
 - pkg:maven/net.enilink.bundles/net.enilink.bundles.liftweb@2.6.3
 - pkg:maven/net.enilink.bundles/net.enilink.bundles.liftweb@2.6.3?classifier=sources
 - pkg:maven/net.enilink.bundles/net.enilink.bundles.liftweb@3.5.0
+- pkg:maven/net.enilink.bundles/net.enilink.bundles.liftweb@3.5.0-sp
+- pkg:maven/net.enilink.bundles/net.enilink.bundles.liftweb@3.5.0-sp2
+- pkg:maven/net.enilink.bundles/net.enilink.bundles.liftweb@3.5.0-sp2?classifier=sources
+- pkg:maven/net.enilink.bundles/net.enilink.bundles.liftweb@3.5.0-sp?classifier=sources
 - pkg:maven/net.enilink.bundles/net.enilink.bundles.liftweb@3.5.0?classifier=sources

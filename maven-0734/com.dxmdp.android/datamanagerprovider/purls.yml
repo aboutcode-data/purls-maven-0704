@@ -1,0 +1,2 @@
+- pkg:maven/com.dxmdp.android/datamanagerprovider@0.1.0?classifier=sources
+- pkg:maven/com.dxmdp.android/datamanagerprovider@0.1.1?classifier=sources

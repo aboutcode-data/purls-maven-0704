@@ -40,6 +40,10 @@
 - pkg:maven/tv.hd3g/mailkit@12.2.0?classifier=sources
 - pkg:maven/tv.hd3g/mailkit@12.2.1
 - pkg:maven/tv.hd3g/mailkit@12.2.1?classifier=sources
+- pkg:maven/tv.hd3g/mailkit@12.3.0
+- pkg:maven/tv.hd3g/mailkit@12.3.0?classifier=sources
+- pkg:maven/tv.hd3g/mailkit@12.3.1
+- pkg:maven/tv.hd3g/mailkit@12.3.1?classifier=sources
 - pkg:maven/tv.hd3g/mailkit@2.0.0
 - pkg:maven/tv.hd3g/mailkit@2.0.0?classifier=sources
 - pkg:maven/tv.hd3g/mailkit@2.0.1

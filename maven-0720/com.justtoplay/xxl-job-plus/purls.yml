@@ -1,2 +1,6 @@
 - pkg:maven/com.justtoplay/xxl-job-plus@2.3.1
+- pkg:maven/com.justtoplay/xxl-job-plus@2.3.1-n2
+- pkg:maven/com.justtoplay/xxl-job-plus@2.3.1-n2?classifier=sources
+- pkg:maven/com.justtoplay/xxl-job-plus@2.3.1-nacos2
+- pkg:maven/com.justtoplay/xxl-job-plus@2.3.1-nacos2?classifier=sources
 - pkg:maven/com.justtoplay/xxl-job-plus@2.3.1?classifier=sources

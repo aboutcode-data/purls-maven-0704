@@ -1,6 +1,8 @@
 - pkg:maven/com.github.trickl/assertj-json-serialize@0.1.0
 - pkg:maven/com.github.trickl/assertj-json-serialize@0.1.0?classifier=sources
 - pkg:maven/com.github.trickl/assertj-json-serialize@0.1.1
+- pkg:maven/com.github.trickl/assertj-json-serialize@0.1.10
+- pkg:maven/com.github.trickl/assertj-json-serialize@0.1.10?classifier=sources
 - pkg:maven/com.github.trickl/assertj-json-serialize@0.1.1?classifier=sources
 - pkg:maven/com.github.trickl/assertj-json-serialize@0.1.3
 - pkg:maven/com.github.trickl/assertj-json-serialize@0.1.3?classifier=sources
@@ -18,6 +20,8 @@
 - pkg:maven/com.github.trickl/assertj-json-serialize@0.1.9?classifier=sources
 - pkg:maven/com.github.trickl/assertj-json-serialize@untagged-1ec15f18109ebead7586
 - pkg:maven/com.github.trickl/assertj-json-serialize@untagged-1ec15f18109ebead7586?classifier=sources
+- pkg:maven/com.github.trickl/assertj-json-serialize@untagged-514a8b33d8f3f2106f04
+- pkg:maven/com.github.trickl/assertj-json-serialize@untagged-514a8b33d8f3f2106f04?classifier=sources
 - pkg:maven/com.github.trickl/assertj-json-serialize@untagged-87b0963bdb5aedb573c5
 - pkg:maven/com.github.trickl/assertj-json-serialize@untagged-87b0963bdb5aedb573c5?classifier=sources
 - pkg:maven/com.github.trickl/assertj-json-serialize@untagged-90d0ef5bcfba77e1bd98

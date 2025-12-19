@@ -6,3 +6,6 @@
 - pkg:maven/com.google.maps.android/maps-compose-widgets@2.7.0?classifier=sources
 - pkg:maven/com.google.maps.android/maps-compose-widgets@2.7.1?classifier=sources
 - pkg:maven/com.google.maps.android/maps-compose-widgets@2.7.2?classifier=sources
+- pkg:maven/com.google.maps.android/maps-compose-widgets@2.7.3?classifier=sources
+- pkg:maven/com.google.maps.android/maps-compose-widgets@2.7.4?classifier=sources
+- pkg:maven/com.google.maps.android/maps-compose-widgets@2.8.0?classifier=sources

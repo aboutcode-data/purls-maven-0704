@@ -6,3 +6,5 @@
 - pkg:maven/top.angelina-bot/angelina-frame@1.0.4
 - pkg:maven/top.angelina-bot/angelina-frame@1.0.4?classifier=sources
 - pkg:maven/top.angelina-bot/angelina-frame@1.0?classifier=sources
+- pkg:maven/top.angelina-bot/angelina-frame@1.1.0
+- pkg:maven/top.angelina-bot/angelina-frame@1.1.0?classifier=sources

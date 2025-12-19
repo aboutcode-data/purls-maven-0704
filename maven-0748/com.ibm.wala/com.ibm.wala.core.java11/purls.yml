@@ -1,1 +1,2 @@
 - pkg:maven/com.ibm.wala/com.ibm.wala.core.java11@1.5.8?classifier=sources
+- pkg:maven/com.ibm.wala/com.ibm.wala.core.java11@1.5.9?classifier=sources

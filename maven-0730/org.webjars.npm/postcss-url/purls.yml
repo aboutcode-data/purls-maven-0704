@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.npm/postcss-url@10.1.3
+- pkg:maven/org.webjars.npm/postcss-url@10.1.3?classifier=sources
 - pkg:maven/org.webjars.npm/postcss-url@5.1.2
 - pkg:maven/org.webjars.npm/postcss-url@5.1.2?classifier=sources
 - pkg:maven/org.webjars.npm/postcss-url@7.3.0

@@ -74,3 +74,7 @@
 - pkg:maven/io.github.ulisse1996/jaorm-sql-specific-postgre@1.8.2?classifier=sources
 - pkg:maven/io.github.ulisse1996/jaorm-sql-specific-postgre@1.9.0
 - pkg:maven/io.github.ulisse1996/jaorm-sql-specific-postgre@1.9.0?classifier=sources
+- pkg:maven/io.github.ulisse1996/jaorm-sql-specific-postgre@2.0.0-RC1
+- pkg:maven/io.github.ulisse1996/jaorm-sql-specific-postgre@2.0.0-RC1?classifier=sources
+- pkg:maven/io.github.ulisse1996/jaorm-sql-specific-postgre@2.0.0-RC2
+- pkg:maven/io.github.ulisse1996/jaorm-sql-specific-postgre@2.0.0-RC2?classifier=sources

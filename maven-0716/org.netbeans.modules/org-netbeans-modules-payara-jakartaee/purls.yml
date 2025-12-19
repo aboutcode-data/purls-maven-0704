@@ -13,3 +13,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-jakartaee@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-jakartaee@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-jakartaee@RELEASE150?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-jakartaee@RELEASE160?classifier=sources

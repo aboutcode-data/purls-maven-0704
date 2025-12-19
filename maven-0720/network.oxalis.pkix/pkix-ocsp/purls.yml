@@ -2,3 +2,5 @@
 - pkg:maven/network.oxalis.pkix/pkix-ocsp@1.0.0-RC3
 - pkg:maven/network.oxalis.pkix/pkix-ocsp@1.0.0-RC3?classifier=sources
 - pkg:maven/network.oxalis.pkix/pkix-ocsp@1.0.0?classifier=sources
+- pkg:maven/network.oxalis.pkix/pkix-ocsp@1.0.1
+- pkg:maven/network.oxalis.pkix/pkix-ocsp@1.0.1?classifier=sources

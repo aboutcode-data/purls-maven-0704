@@ -1,0 +1,2 @@
+- pkg:maven/io.gitee.needcoke/coke-for-spring@1.0.2-RELEASE
+- pkg:maven/io.gitee.needcoke/coke-for-spring@1.0.2-RELEASE?classifier=sources

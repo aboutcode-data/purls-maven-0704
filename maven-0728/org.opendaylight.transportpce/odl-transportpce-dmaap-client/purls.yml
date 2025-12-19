@@ -9,4 +9,5 @@
 - pkg:maven/org.opendaylight.transportpce/odl-transportpce-dmaap-client@4.3.0?classifier=sources
 - pkg:maven/org.opendaylight.transportpce/odl-transportpce-dmaap-client@5.0.0?classifier=sources
 - pkg:maven/org.opendaylight.transportpce/odl-transportpce-dmaap-client@5.1.0?classifier=sources
+- pkg:maven/org.opendaylight.transportpce/odl-transportpce-dmaap-client@5.2.0?classifier=sources
 - pkg:maven/org.opendaylight.transportpce/odl-transportpce-dmaap-client@6.0.0?classifier=sources

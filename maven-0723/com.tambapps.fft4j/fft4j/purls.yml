@@ -1,0 +1,2 @@
+- pkg:maven/com.tambapps.fft4j/fft4j@2.0
+- pkg:maven/com.tambapps.fft4j/fft4j@2.0?classifier=sources

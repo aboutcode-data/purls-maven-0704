@@ -16,3 +16,4 @@
 - pkg:maven/ly.count.android/sdk-plugin@22.02.3?classifier=sources
 - pkg:maven/ly.count.android/sdk-plugin@22.06.0?classifier=sources
 - pkg:maven/ly.count.android/sdk-plugin@22.06.1?classifier=sources
+- pkg:maven/ly.count.android/sdk-plugin@22.06.2?classifier=sources

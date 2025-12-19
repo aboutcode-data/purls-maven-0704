@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.pulsar/pulsar-client-tools-api@2.11.0
+- pkg:maven/org.apache.pulsar/pulsar-client-tools-api@2.11.0?classifier=sources

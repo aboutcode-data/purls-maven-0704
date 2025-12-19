@@ -17,3 +17,4 @@
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-ratpack-1.7@1.20.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-ratpack-1.7@1.20.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-ratpack-1.7@1.20.2-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-ratpack-1.7@1.21.0-alpha?classifier=sources

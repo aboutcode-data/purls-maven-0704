@@ -1,0 +1,2 @@
+- pkg:maven/io.github.disaster1-tesk/lock-layer-spring-boot-starter@1.1.0
+- pkg:maven/io.github.disaster1-tesk/lock-layer-spring-boot-starter@1.1.0?classifier=sources

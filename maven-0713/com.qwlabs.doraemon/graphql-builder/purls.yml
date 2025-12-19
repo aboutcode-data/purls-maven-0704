@@ -37,4 +37,10 @@
 - pkg:maven/com.qwlabs.doraemon/graphql-builder@0.1.50?classifier=sources
 - pkg:maven/com.qwlabs.doraemon/graphql-builder@0.1.51?classifier=sources
 - pkg:maven/com.qwlabs.doraemon/graphql-builder@0.1.52?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/graphql-builder@0.1.55?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/graphql-builder@0.1.56?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/graphql-builder@0.1.57?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/graphql-builder@0.1.58?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/graphql-builder@0.1.59?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/graphql-builder@0.1.60?classifier=sources
 - pkg:maven/com.qwlabs.doraemon/graphql-builder@0.1.9?classifier=sources

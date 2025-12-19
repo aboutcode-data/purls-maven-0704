@@ -8,3 +8,5 @@
 - pkg:maven/io.github.davidwhitlock.com.sandwich/java-koans@2022.0.0?classifier=sources
 - pkg:maven/io.github.davidwhitlock.com.sandwich/java-koans@2022.1.0
 - pkg:maven/io.github.davidwhitlock.com.sandwich/java-koans@2022.1.0?classifier=sources
+- pkg:maven/io.github.davidwhitlock.com.sandwich/java-koans@2023.0.0
+- pkg:maven/io.github.davidwhitlock.com.sandwich/java-koans@2023.0.0?classifier=sources

@@ -24,3 +24,11 @@
 - pkg:maven/org.mini2Dx/gdx-ai@2.0.0-alpha.8?classifier=sources
 - pkg:maven/org.mini2Dx/gdx-ai@2.0.0-alpha.9
 - pkg:maven/org.mini2Dx/gdx-ai@2.0.0-alpha.9?classifier=sources
+- pkg:maven/org.mini2Dx/gdx-ai@2.0.0-beta.14
+- pkg:maven/org.mini2Dx/gdx-ai@2.0.0-beta.14?classifier=sources
+- pkg:maven/org.mini2Dx/gdx-ai@2.0.0-beta.14b
+- pkg:maven/org.mini2Dx/gdx-ai@2.0.0-beta.14b?classifier=sources
+- pkg:maven/org.mini2Dx/gdx-ai@2.0.0-beta.14c
+- pkg:maven/org.mini2Dx/gdx-ai@2.0.0-beta.14c?classifier=sources
+- pkg:maven/org.mini2Dx/gdx-ai@2.0.0-beta.14d
+- pkg:maven/org.mini2Dx/gdx-ai@2.0.0-beta.14d?classifier=sources

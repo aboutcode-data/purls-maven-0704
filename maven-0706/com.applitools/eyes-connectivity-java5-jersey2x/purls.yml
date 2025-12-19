@@ -44,6 +44,12 @@
 - pkg:maven/com.applitools/eyes-connectivity-java5-jersey2x@5.33.0?classifier=sources
 - pkg:maven/com.applitools/eyes-connectivity-java5-jersey2x@5.35.0
 - pkg:maven/com.applitools/eyes-connectivity-java5-jersey2x@5.35.0?classifier=sources
+- pkg:maven/com.applitools/eyes-connectivity-java5-jersey2x@5.37.0
+- pkg:maven/com.applitools/eyes-connectivity-java5-jersey2x@5.37.0?classifier=sources
+- pkg:maven/com.applitools/eyes-connectivity-java5-jersey2x@5.38.0
+- pkg:maven/com.applitools/eyes-connectivity-java5-jersey2x@5.38.0?classifier=sources
+- pkg:maven/com.applitools/eyes-connectivity-java5-jersey2x@5.39.0
+- pkg:maven/com.applitools/eyes-connectivity-java5-jersey2x@5.39.0?classifier=sources
 - pkg:maven/com.applitools/eyes-connectivity-java5-jersey2x@5.4.0
 - pkg:maven/com.applitools/eyes-connectivity-java5-jersey2x@5.4.0?classifier=sources
 - pkg:maven/com.applitools/eyes-connectivity-java5-jersey2x@5.5.0

@@ -1,0 +1,2 @@
+- pkg:maven/io.takamaka.crypto/TKMSecurityProvider@1.0
+- pkg:maven/io.takamaka.crypto/TKMSecurityProvider@1.0?classifier=sources

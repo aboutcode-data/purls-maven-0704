@@ -1,1 +1,2 @@
 - pkg:maven/io.contek.viper/viper-execution-server@1.1.2?classifier=sources
+- pkg:maven/io.contek.viper/viper-execution-server@1.2.0?classifier=sources

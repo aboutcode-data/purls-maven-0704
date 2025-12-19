@@ -1,0 +1,4 @@
+- pkg:maven/io.github.alfeilex.tools.ide/devonfw-ide-configurator@2022.11.003
+- pkg:maven/io.github.alfeilex.tools.ide/devonfw-ide-configurator@2022.11.003?classifier=sources
+- pkg:maven/io.github.alfeilex.tools.ide/devonfw-ide-configurator@2022.11.004
+- pkg:maven/io.github.alfeilex.tools.ide/devonfw-ide-configurator@2022.11.004?classifier=sources

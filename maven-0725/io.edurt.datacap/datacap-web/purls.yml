@@ -1,2 +1,4 @@
 - pkg:maven/io.edurt.datacap/datacap-web@1.0.0.20221015
 - pkg:maven/io.edurt.datacap/datacap-web@1.1.0.20221115
+- pkg:maven/io.edurt.datacap/datacap-web@1.2.0
+- pkg:maven/io.edurt.datacap/datacap-web@1.3.0

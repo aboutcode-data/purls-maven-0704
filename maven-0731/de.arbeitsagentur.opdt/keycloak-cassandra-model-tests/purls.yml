@@ -1,0 +1,2 @@
+- pkg:maven/de.arbeitsagentur.opdt/keycloak-cassandra-model-tests@0.4.5-20.0.2
+- pkg:maven/de.arbeitsagentur.opdt/keycloak-cassandra-model-tests@0.4.5-20.0.2?classifier=sources

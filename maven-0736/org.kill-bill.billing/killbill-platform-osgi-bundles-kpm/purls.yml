@@ -44,3 +44,5 @@
 - pkg:maven/org.kill-bill.billing/killbill-platform-osgi-bundles-kpm@0.40.8?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-platform-osgi-bundles-kpm@0.40.9
 - pkg:maven/org.kill-bill.billing/killbill-platform-osgi-bundles-kpm@0.40.9?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-platform-osgi-bundles-kpm@0.41.0
+- pkg:maven/org.kill-bill.billing/killbill-platform-osgi-bundles-kpm@0.41.0?classifier=sources

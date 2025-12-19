@@ -13,4 +13,5 @@
 - pkg:maven/org.vitrivr/cottontaildb-proto@0.14.1?classifier=sources
 - pkg:maven/org.vitrivr/cottontaildb-proto@0.14.2?classifier=sources
 - pkg:maven/org.vitrivr/cottontaildb-proto@0.14.3?classifier=sources
+- pkg:maven/org.vitrivr/cottontaildb-proto@0.15.0?classifier=sources
 - pkg:maven/org.vitrivr/cottontaildb-proto@14.3?classifier=sources

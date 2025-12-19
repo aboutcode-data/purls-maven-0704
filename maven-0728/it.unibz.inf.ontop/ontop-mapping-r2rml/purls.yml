@@ -24,3 +24,5 @@
 - pkg:maven/it.unibz.inf.ontop/ontop-mapping-r2rml@4.2.1?classifier=sources
 - pkg:maven/it.unibz.inf.ontop/ontop-mapping-r2rml@4.2.2
 - pkg:maven/it.unibz.inf.ontop/ontop-mapping-r2rml@4.2.2?classifier=sources
+- pkg:maven/it.unibz.inf.ontop/ontop-mapping-r2rml@5.0.0
+- pkg:maven/it.unibz.inf.ontop/ontop-mapping-r2rml@5.0.0?classifier=sources

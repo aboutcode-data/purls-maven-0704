@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.seatunnel/seatunnel-e2e-common@2.3.0
+- pkg:maven/org.apache.seatunnel/seatunnel-e2e-common@2.3.0?classifier=sources

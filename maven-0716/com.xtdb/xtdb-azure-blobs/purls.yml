@@ -11,3 +11,4 @@
 - pkg:maven/com.xtdb/xtdb-azure-blobs@1.22.0-alpha2
 - pkg:maven/com.xtdb/xtdb-azure-blobs@1.22.0-rc1
 - pkg:maven/com.xtdb/xtdb-azure-blobs@1.22.1
+- pkg:maven/com.xtdb/xtdb-azure-blobs@1.22.2-rc1

@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/cli-width@2.2.1?classifier=sources
 - pkg:maven/org.webjars.npm/cli-width@3.0.0
 - pkg:maven/org.webjars.npm/cli-width@3.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/cli-width@4.0.0
+- pkg:maven/org.webjars.npm/cli-width@4.0.0?classifier=sources

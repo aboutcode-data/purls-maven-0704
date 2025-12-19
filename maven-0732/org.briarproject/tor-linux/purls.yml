@@ -2,3 +2,4 @@
 - pkg:maven/org.briarproject/tor-linux@0.4.5.12-2?classifier=sources
 - pkg:maven/org.briarproject/tor-linux@0.4.5.12?classifier=sources
 - pkg:maven/org.briarproject/tor-linux@0.4.5.14?classifier=sources
+- pkg:maven/org.briarproject/tor-linux@0.4.7.12?classifier=sources

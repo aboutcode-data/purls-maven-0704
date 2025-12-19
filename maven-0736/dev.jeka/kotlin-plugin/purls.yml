@@ -1,0 +1,4 @@
+- pkg:maven/dev.jeka/kotlin-plugin@0.10.3
+- pkg:maven/dev.jeka/kotlin-plugin@0.10.3?classifier=sources
+- pkg:maven/dev.jeka/kotlin-plugin@0.10.4
+- pkg:maven/dev.jeka/kotlin-plugin@0.10.4?classifier=sources

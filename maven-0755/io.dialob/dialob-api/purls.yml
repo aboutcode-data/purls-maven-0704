@@ -2,3 +2,5 @@
 - pkg:maven/io.dialob/dialob-api@2.2.2?classifier=sources
 - pkg:maven/io.dialob/dialob-api@2.2.3
 - pkg:maven/io.dialob/dialob-api@2.2.3?classifier=sources
+- pkg:maven/io.dialob/dialob-api@3.0.0
+- pkg:maven/io.dialob/dialob-api@3.0.0?classifier=sources

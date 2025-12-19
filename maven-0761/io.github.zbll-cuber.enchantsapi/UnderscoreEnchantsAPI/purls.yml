@@ -2,3 +2,9 @@
 - pkg:maven/io.github.zbll-cuber.enchantsapi/UnderscoreEnchantsAPI@2.0.10
 - pkg:maven/io.github.zbll-cuber.enchantsapi/UnderscoreEnchantsAPI@2.0.10?classifier=sources
 - pkg:maven/io.github.zbll-cuber.enchantsapi/UnderscoreEnchantsAPI@2.0.1?classifier=sources
+- pkg:maven/io.github.zbll-cuber.enchantsapi/UnderscoreEnchantsAPI@2.1
+- pkg:maven/io.github.zbll-cuber.enchantsapi/UnderscoreEnchantsAPI@2.1.1
+- pkg:maven/io.github.zbll-cuber.enchantsapi/UnderscoreEnchantsAPI@2.1.1?classifier=sources
+- pkg:maven/io.github.zbll-cuber.enchantsapi/UnderscoreEnchantsAPI@2.1.2
+- pkg:maven/io.github.zbll-cuber.enchantsapi/UnderscoreEnchantsAPI@2.1.2?classifier=sources
+- pkg:maven/io.github.zbll-cuber.enchantsapi/UnderscoreEnchantsAPI@2.1?classifier=sources

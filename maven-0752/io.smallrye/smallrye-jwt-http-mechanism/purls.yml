@@ -36,6 +36,10 @@
 - pkg:maven/io.smallrye/smallrye-jwt-http-mechanism@3.5.3?classifier=sources
 - pkg:maven/io.smallrye/smallrye-jwt-http-mechanism@3.5.4
 - pkg:maven/io.smallrye/smallrye-jwt-http-mechanism@3.5.4?classifier=sources
+- pkg:maven/io.smallrye/smallrye-jwt-http-mechanism@3.6.0
+- pkg:maven/io.smallrye/smallrye-jwt-http-mechanism@3.6.0?classifier=sources
+- pkg:maven/io.smallrye/smallrye-jwt-http-mechanism@3.6.1
+- pkg:maven/io.smallrye/smallrye-jwt-http-mechanism@3.6.1?classifier=sources
 - pkg:maven/io.smallrye/smallrye-jwt-http-mechanism@4.0.0
 - pkg:maven/io.smallrye/smallrye-jwt-http-mechanism@4.0.0-RC1
 - pkg:maven/io.smallrye/smallrye-jwt-http-mechanism@4.0.0-RC1?classifier=sources

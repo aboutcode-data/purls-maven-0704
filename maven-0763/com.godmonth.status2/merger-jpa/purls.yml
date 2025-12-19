@@ -1,0 +1,2 @@
+- pkg:maven/com.godmonth.status2/merger-jpa@2.2
+- pkg:maven/com.godmonth.status2/merger-jpa@2.2?classifier=sources

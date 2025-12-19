@@ -1,1 +1,2 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-debug@RELEASE150?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-debug@RELEASE160?classifier=sources

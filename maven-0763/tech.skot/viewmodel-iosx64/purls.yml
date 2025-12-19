@@ -69,5 +69,8 @@
 - pkg:maven/tech.skot/viewmodel-iosx64@1.1.79?classifier=sources
 - pkg:maven/tech.skot/viewmodel-iosx64@1.1.7?classifier=sources
 - pkg:maven/tech.skot/viewmodel-iosx64@1.1.80?classifier=sources
+- pkg:maven/tech.skot/viewmodel-iosx64@1.1.81?classifier=sources
+- pkg:maven/tech.skot/viewmodel-iosx64@1.1.82?classifier=sources
 - pkg:maven/tech.skot/viewmodel-iosx64@1.1.8?classifier=sources
 - pkg:maven/tech.skot/viewmodel-iosx64@1.1.9?classifier=sources
+- pkg:maven/tech.skot/viewmodel-iosx64@1.2.0?classifier=sources

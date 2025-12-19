@@ -8,3 +8,5 @@
 - pkg:maven/io.cdap.plugin/oracle-plugin@1.8.1?classifier=sources
 - pkg:maven/io.cdap.plugin/oracle-plugin@1.8.2
 - pkg:maven/io.cdap.plugin/oracle-plugin@1.8.2?classifier=sources
+- pkg:maven/io.cdap.plugin/oracle-plugin@1.9.0
+- pkg:maven/io.cdap.plugin/oracle-plugin@1.9.0?classifier=sources

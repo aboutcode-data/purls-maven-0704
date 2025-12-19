@@ -13,3 +13,5 @@
 - pkg:maven/com.pulumi/confluentcloud@1.5.0?classifier=sources
 - pkg:maven/com.pulumi/confluentcloud@1.6.0-alpha.1669246534%2Bc4e4206c?classifier=sources
 - pkg:maven/com.pulumi/confluentcloud@1.6.0?classifier=sources
+- pkg:maven/com.pulumi/confluentcloud@1.7.0-alpha.1670269955%2Baeaac693?classifier=sources
+- pkg:maven/com.pulumi/confluentcloud@1.7.0?classifier=sources

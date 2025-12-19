@@ -1,1 +1,2 @@
 - pkg:maven/com.tianscar/jme3-imgui-core@0.0.1?classifier=sources
+- pkg:maven/com.tianscar/jme3-imgui-core@1.0.0?classifier=sources

@@ -3,3 +3,4 @@
 - pkg:maven/cn.jiguang.sdk/jcore-custom@2.9.9?classifier=sources
 - pkg:maven/cn.jiguang.sdk/jcore-custom@3.0.3?classifier=sources
 - pkg:maven/cn.jiguang.sdk/jcore-custom@3.0.7?classifier=sources
+- pkg:maven/cn.jiguang.sdk/jcore-custom@4.0.2?classifier=sources

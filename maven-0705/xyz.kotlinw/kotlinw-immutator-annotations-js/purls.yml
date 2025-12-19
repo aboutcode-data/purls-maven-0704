@@ -1,1 +1,2 @@
 - pkg:maven/xyz.kotlinw/kotlinw-immutator-annotations-js@0.0.2?classifier=sources
+- pkg:maven/xyz.kotlinw/kotlinw-immutator-annotations-js@0.0.3?classifier=sources

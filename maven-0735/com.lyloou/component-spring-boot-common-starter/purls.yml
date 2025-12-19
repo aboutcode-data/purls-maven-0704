@@ -1,2 +1,4 @@
 - pkg:maven/com.lyloou/component-spring-boot-common-starter@1.0.57
 - pkg:maven/com.lyloou/component-spring-boot-common-starter@1.0.57?classifier=sources
+- pkg:maven/com.lyloou/component-spring-boot-common-starter@1.0.73
+- pkg:maven/com.lyloou/component-spring-boot-common-starter@1.0.73?classifier=sources

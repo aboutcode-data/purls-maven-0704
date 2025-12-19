@@ -1,0 +1,2 @@
+- pkg:maven/com.nineya.tool/dingtalk-spring-boot-starter@1.0.2
+- pkg:maven/com.nineya.tool/dingtalk-spring-boot-starter@1.0.2?classifier=sources
