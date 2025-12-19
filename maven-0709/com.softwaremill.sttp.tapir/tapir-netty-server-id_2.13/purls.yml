@@ -1,2 +1,4 @@
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-netty-server-id_2.13@0.1.1
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-netty-server-id_2.13@0.1.1?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-netty-server-id_2.13@0.2.1
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-netty-server-id_2.13@0.2.1?classifier=sources

@@ -193,6 +193,12 @@
 - pkg:maven/com.liferay/com.liferay.portal.lock.service@2.0.70
 - pkg:maven/com.liferay/com.liferay.portal.lock.service@2.0.70?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.lock.service@2.0.70?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.lock.service@2.0.71
+- pkg:maven/com.liferay/com.liferay.portal.lock.service@2.0.71?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.lock.service@2.0.71?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.lock.service@2.0.72
+- pkg:maven/com.liferay/com.liferay.portal.lock.service@2.0.72?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.lock.service@2.0.72?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.lock.service@2.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.lock.service@2.0.8
 - pkg:maven/com.liferay/com.liferay.portal.lock.service@2.0.8?classifier=sources
@@ -322,6 +328,11 @@
 - pkg:maven/com.liferay/com.liferay.portal.lock.service@3.0.46
 - pkg:maven/com.liferay/com.liferay.portal.lock.service@3.0.46?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.lock.service@3.0.46?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.lock.service@3.0.47
+- pkg:maven/com.liferay/com.liferay.portal.lock.service@3.0.47?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.lock.service@3.0.47?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.lock.service@3.0.48
+- pkg:maven/com.liferay/com.liferay.portal.lock.service@3.0.48?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.lock.service@3.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.lock.service@3.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.lock.service@3.0.5
@@ -433,6 +444,11 @@
 - pkg:maven/com.liferay/com.liferay.portal.lock.service@4.0.37
 - pkg:maven/com.liferay/com.liferay.portal.lock.service@4.0.37?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.lock.service@4.0.37?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.lock.service@4.0.38
+- pkg:maven/com.liferay/com.liferay.portal.lock.service@4.0.38?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.lock.service@4.0.38?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.lock.service@4.0.39
+- pkg:maven/com.liferay/com.liferay.portal.lock.service@4.0.39?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.lock.service@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.lock.service@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.lock.service@4.0.4
@@ -532,6 +548,8 @@
 - pkg:maven/com.liferay/com.liferay.portal.lock.service@5.0.32
 - pkg:maven/com.liferay/com.liferay.portal.lock.service@5.0.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.lock.service@5.0.32?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.lock.service@5.0.33
+- pkg:maven/com.liferay/com.liferay.portal.lock.service@5.0.33?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.lock.service@5.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.lock.service@5.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.lock.service@5.0.4
@@ -630,6 +648,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.lock.service@6.0.32
 - pkg:maven/com.liferay/com.liferay.portal.lock.service@6.0.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.lock.service@6.0.32?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.lock.service@6.0.33
+- pkg:maven/com.liferay/com.liferay.portal.lock.service@6.0.33?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.lock.service@6.0.33?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.lock.service@6.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.lock.service@6.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.lock.service@6.0.4

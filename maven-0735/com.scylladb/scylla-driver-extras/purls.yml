@@ -18,6 +18,8 @@
 - pkg:maven/com.scylladb/scylla-driver-extras@3.11.2.3?classifier=sources
 - pkg:maven/com.scylladb/scylla-driver-extras@3.11.2.4
 - pkg:maven/com.scylladb/scylla-driver-extras@3.11.2.4?classifier=sources
+- pkg:maven/com.scylladb/scylla-driver-extras@3.11.2.5
+- pkg:maven/com.scylladb/scylla-driver-extras@3.11.2.5?classifier=sources
 - pkg:maven/com.scylladb/scylla-driver-extras@3.7.1-scylla-0
 - pkg:maven/com.scylladb/scylla-driver-extras@3.7.1-scylla-0?classifier=sources
 - pkg:maven/com.scylladb/scylla-driver-extras@3.7.1-scylla-1

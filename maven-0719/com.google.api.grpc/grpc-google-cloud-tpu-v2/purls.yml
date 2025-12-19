@@ -18,6 +18,14 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-tpu-v2@2.18.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-tpu-v2@2.19.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-tpu-v2@2.19.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-tpu-v2@2.20.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-tpu-v2@2.20.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-tpu-v2@2.21.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-tpu-v2@2.21.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-tpu-v2@2.22.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-tpu-v2@2.22.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-tpu-v2@2.23.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-tpu-v2@2.23.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-tpu-v2@2.8.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-tpu-v2@2.8.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-tpu-v2@2.9.0

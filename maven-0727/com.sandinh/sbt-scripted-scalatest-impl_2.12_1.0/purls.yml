@@ -1,0 +1,2 @@
+- pkg:maven/com.sandinh/sbt-scripted-scalatest-impl_2.12_1.0@3.1.0
+- pkg:maven/com.sandinh/sbt-scripted-scalatest-impl_2.12_1.0@3.1.0?classifier=sources

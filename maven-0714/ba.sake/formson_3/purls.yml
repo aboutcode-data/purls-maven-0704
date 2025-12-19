@@ -1,0 +1,2 @@
+- pkg:maven/ba.sake/formson_3@0.0.1
+- pkg:maven/ba.sake/formson_3@0.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/cn.dev33/sa-token-redis-jackson@1.35.0.RC
+- pkg:maven/cn.dev33/sa-token-redis-jackson@1.35.0.RC?classifier=sources

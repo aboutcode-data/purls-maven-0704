@@ -29,6 +29,9 @@
 - pkg:maven/com.liferay/com.liferay.monitoring.lang@1.0.18
 - pkg:maven/com.liferay/com.liferay.monitoring.lang@1.0.18?classifier=sources
 - pkg:maven/com.liferay/com.liferay.monitoring.lang@1.0.18?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.monitoring.lang@1.0.19
+- pkg:maven/com.liferay/com.liferay.monitoring.lang@1.0.19?classifier=sources
+- pkg:maven/com.liferay/com.liferay.monitoring.lang@1.0.19?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.monitoring.lang@1.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.monitoring.lang@1.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.monitoring.lang@1.0.2
@@ -68,6 +71,9 @@
 - pkg:maven/com.liferay/com.liferay.monitoring.lang@2.0.12
 - pkg:maven/com.liferay/com.liferay.monitoring.lang@2.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.monitoring.lang@2.0.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.monitoring.lang@2.0.13
+- pkg:maven/com.liferay/com.liferay.monitoring.lang@2.0.13?classifier=sources
+- pkg:maven/com.liferay/com.liferay.monitoring.lang@2.0.13?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.monitoring.lang@2.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.monitoring.lang@2.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.monitoring.lang@2.0.2
@@ -113,6 +119,9 @@
 - pkg:maven/com.liferay/com.liferay.monitoring.lang@3.0.14
 - pkg:maven/com.liferay/com.liferay.monitoring.lang@3.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.monitoring.lang@3.0.14?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.monitoring.lang@3.0.15
+- pkg:maven/com.liferay/com.liferay.monitoring.lang@3.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.monitoring.lang@3.0.15?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.monitoring.lang@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.monitoring.lang@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.monitoring.lang@3.0.2

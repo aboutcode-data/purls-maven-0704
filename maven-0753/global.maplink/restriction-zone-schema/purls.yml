@@ -14,5 +14,7 @@
 - pkg:maven/global.maplink/restriction-zone-schema@1.4.16?classifier=sources
 - pkg:maven/global.maplink/restriction-zone-schema@1.4.17
 - pkg:maven/global.maplink/restriction-zone-schema@1.4.17?classifier=sources
+- pkg:maven/global.maplink/restriction-zone-schema@1.4.18
+- pkg:maven/global.maplink/restriction-zone-schema@1.4.18?classifier=sources
 - pkg:maven/global.maplink/restriction-zone-schema@1.4.9
 - pkg:maven/global.maplink/restriction-zone-schema@1.4.9?classifier=sources

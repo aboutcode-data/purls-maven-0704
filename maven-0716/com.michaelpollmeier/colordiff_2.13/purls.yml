@@ -2,5 +2,7 @@
 - pkg:maven/com.michaelpollmeier/colordiff_2.13@0.15?classifier=sources
 - pkg:maven/com.michaelpollmeier/colordiff_2.13@0.35
 - pkg:maven/com.michaelpollmeier/colordiff_2.13@0.35?classifier=sources
+- pkg:maven/com.michaelpollmeier/colordiff_2.13@0.36
+- pkg:maven/com.michaelpollmeier/colordiff_2.13@0.36?classifier=sources
 - pkg:maven/com.michaelpollmeier/colordiff_2.13@0.9
 - pkg:maven/com.michaelpollmeier/colordiff_2.13@0.9?classifier=sources

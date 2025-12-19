@@ -1,0 +1,2 @@
+- pkg:maven/de.cau.cs.kieler.swt.mock/org.eclipse.jface@0.1.0
+- pkg:maven/de.cau.cs.kieler.swt.mock/org.eclipse.jface@0.1.0?classifier=sources

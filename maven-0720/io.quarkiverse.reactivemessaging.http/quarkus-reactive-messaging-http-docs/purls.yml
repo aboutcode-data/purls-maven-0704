@@ -8,5 +8,8 @@
 - pkg:maven/io.quarkiverse.reactivemessaging.http/quarkus-reactive-messaging-http-docs@1.0.8
 - pkg:maven/io.quarkiverse.reactivemessaging.http/quarkus-reactive-messaging-http-docs@1.1.0
 - pkg:maven/io.quarkiverse.reactivemessaging.http/quarkus-reactive-messaging-http-docs@1.1.1
+- pkg:maven/io.quarkiverse.reactivemessaging.http/quarkus-reactive-messaging-http-docs@1.1.4
+- pkg:maven/io.quarkiverse.reactivemessaging.http/quarkus-reactive-messaging-http-docs@1.1.5
 - pkg:maven/io.quarkiverse.reactivemessaging.http/quarkus-reactive-messaging-http-docs@2.0.0.Alpha
 - pkg:maven/io.quarkiverse.reactivemessaging.http/quarkus-reactive-messaging-http-docs@2.0.1
+- pkg:maven/io.quarkiverse.reactivemessaging.http/quarkus-reactive-messaging-http-docs@2.0.2

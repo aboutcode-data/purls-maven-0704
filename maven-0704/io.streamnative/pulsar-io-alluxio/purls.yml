@@ -6,5 +6,7 @@
 - pkg:maven/io.streamnative/pulsar-io-alluxio@3.0.0.2?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-alluxio@3.0.0.3
 - pkg:maven/io.streamnative/pulsar-io-alluxio@3.0.0.3?classifier=sources
+- pkg:maven/io.streamnative/pulsar-io-alluxio@3.0.0.4
+- pkg:maven/io.streamnative/pulsar-io-alluxio@3.0.0.4?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-alluxio@master-rc-daily
 - pkg:maven/io.streamnative/pulsar-io-alluxio@master-rc-daily?classifier=sources

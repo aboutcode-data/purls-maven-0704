@@ -38,3 +38,5 @@
 - pkg:maven/org.entur.ror.helpers/calendar-helper@1.96?classifier=sources
 - pkg:maven/org.entur.ror.helpers/calendar-helper@1.97
 - pkg:maven/org.entur.ror.helpers/calendar-helper@1.97?classifier=sources
+- pkg:maven/org.entur.ror.helpers/calendar-helper@1.98
+- pkg:maven/org.entur.ror.helpers/calendar-helper@1.98?classifier=sources

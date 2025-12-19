@@ -8,3 +8,5 @@
 - pkg:maven/com.google.accompanist/accompanist-themeadapter-material@0.31.1-alpha?classifier=sources
 - pkg:maven/com.google.accompanist/accompanist-themeadapter-material@0.31.2-alpha?classifier=sources
 - pkg:maven/com.google.accompanist/accompanist-themeadapter-material@0.31.3-beta?classifier=sources
+- pkg:maven/com.google.accompanist/accompanist-themeadapter-material@0.31.4-beta?classifier=sources
+- pkg:maven/com.google.accompanist/accompanist-themeadapter-material@0.31.5-beta?classifier=sources

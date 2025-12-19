@@ -108,6 +108,7 @@
 - pkg:maven/com.azure/azure-cosmos@4.36.0?classifier=sources
 - pkg:maven/com.azure/azure-cosmos@4.37.0?classifier=sources
 - pkg:maven/com.azure/azure-cosmos@4.37.1?classifier=sources
+- pkg:maven/com.azure/azure-cosmos@4.37.2-hotfix?classifier=sources
 - pkg:maven/com.azure/azure-cosmos@4.38.0?classifier=sources
 - pkg:maven/com.azure/azure-cosmos@4.38.1?classifier=sources
 - pkg:maven/com.azure/azure-cosmos@4.39.0?classifier=sources
@@ -122,6 +123,9 @@
 - pkg:maven/com.azure/azure-cosmos@4.44.0?classifier=sources
 - pkg:maven/com.azure/azure-cosmos@4.45.0?classifier=sources
 - pkg:maven/com.azure/azure-cosmos@4.45.1?classifier=sources
+- pkg:maven/com.azure/azure-cosmos@4.46.0?classifier=sources
+- pkg:maven/com.azure/azure-cosmos@4.47.0?classifier=sources
+- pkg:maven/com.azure/azure-cosmos@4.48.0?classifier=sources
 - pkg:maven/com.azure/azure-cosmos@4.5.0
 - pkg:maven/com.azure/azure-cosmos@4.5.0?classifier=sources
 - pkg:maven/com.azure/azure-cosmos@4.5.1

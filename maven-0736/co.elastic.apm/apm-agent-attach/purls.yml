@@ -80,8 +80,12 @@
 - pkg:maven/co.elastic.apm/apm-agent-attach@1.37.0?classifier=sources
 - pkg:maven/co.elastic.apm/apm-agent-attach@1.38.0
 - pkg:maven/co.elastic.apm/apm-agent-attach@1.38.0?classifier=sources
+- pkg:maven/co.elastic.apm/apm-agent-attach@1.39.0
+- pkg:maven/co.elastic.apm/apm-agent-attach@1.39.0?classifier=sources
 - pkg:maven/co.elastic.apm/apm-agent-attach@1.4.0
 - pkg:maven/co.elastic.apm/apm-agent-attach@1.4.0?classifier=sources
+- pkg:maven/co.elastic.apm/apm-agent-attach@1.40.0
+- pkg:maven/co.elastic.apm/apm-agent-attach@1.40.0?classifier=sources
 - pkg:maven/co.elastic.apm/apm-agent-attach@1.5.0
 - pkg:maven/co.elastic.apm/apm-agent-attach@1.5.0?classifier=sources
 - pkg:maven/co.elastic.apm/apm-agent-attach@1.6.0

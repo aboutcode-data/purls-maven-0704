@@ -16,3 +16,9 @@
 - pkg:maven/de.trustable.cmp.client/cmpClient@1.2.3?classifier=sources
 - pkg:maven/de.trustable.cmp.client/cmpClient@2.0.0
 - pkg:maven/de.trustable.cmp.client/cmpClient@2.0.0?classifier=sources
+- pkg:maven/de.trustable.cmp.client/cmpClient@2.1.0
+- pkg:maven/de.trustable.cmp.client/cmpClient@2.1.0?classifier=sources
+- pkg:maven/de.trustable.cmp.client/cmpClient@3.0.0
+- pkg:maven/de.trustable.cmp.client/cmpClient@3.0.0?classifier=sources
+- pkg:maven/de.trustable.cmp.client/cmpClient@3.0.1
+- pkg:maven/de.trustable.cmp.client/cmpClient@3.0.1?classifier=sources

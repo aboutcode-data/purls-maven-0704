@@ -1,2 +1,5 @@
 - pkg:maven/com.boonlogic/boonamber@2.0.0?classifier=sources
 - pkg:maven/com.boonlogic/boonamber@2.0.2?classifier=sources
+- pkg:maven/com.boonlogic/boonamber@2.0.3?classifier=sources
+- pkg:maven/com.boonlogic/boonamber@2.0.4?classifier=sources
+- pkg:maven/com.boonlogic/boonamber@2.0.5?classifier=sources

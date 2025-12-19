@@ -44,3 +44,7 @@
 - pkg:maven/xyz.erupt/erupt-cloud-server@1.11.6?classifier=sources
 - pkg:maven/xyz.erupt/erupt-cloud-server@1.11.7
 - pkg:maven/xyz.erupt/erupt-cloud-server@1.11.7?classifier=sources
+- pkg:maven/xyz.erupt/erupt-cloud-server@1.12.0
+- pkg:maven/xyz.erupt/erupt-cloud-server@1.12.0?classifier=sources
+- pkg:maven/xyz.erupt/erupt-cloud-server@1.12.1
+- pkg:maven/xyz.erupt/erupt-cloud-server@1.12.1?classifier=sources

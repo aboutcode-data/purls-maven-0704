@@ -1,6 +1,7 @@
 - pkg:maven/com.walmartlabs.concord.server.plugins/oidc@1.100.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.server.plugins/oidc@1.101.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.server.plugins/oidc@1.102.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.server.plugins/oidc@1.103.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.server.plugins/oidc@1.44.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.server.plugins/oidc@1.45.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.server.plugins/oidc@1.46.0?classifier=sources

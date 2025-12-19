@@ -1,0 +1,2 @@
+- pkg:maven/org.noear/lettuce-solon-plugin@2.4.2-M1
+- pkg:maven/org.noear/lettuce-solon-plugin@2.4.2-M1?classifier=sources

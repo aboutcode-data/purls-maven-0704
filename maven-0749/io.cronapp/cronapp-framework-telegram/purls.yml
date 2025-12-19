@@ -171,4 +171,10 @@
 - pkg:maven/io.cronapp/cronapp-framework-telegram@2.9.5-SP.5?classifier=sources
 - pkg:maven/io.cronapp/cronapp-framework-telegram@2.9.5-SP.6
 - pkg:maven/io.cronapp/cronapp-framework-telegram@2.9.5-SP.6?classifier=sources
+- pkg:maven/io.cronapp/cronapp-framework-telegram@2.9.5-SP.7
+- pkg:maven/io.cronapp/cronapp-framework-telegram@2.9.5-SP.7?classifier=sources
+- pkg:maven/io.cronapp/cronapp-framework-telegram@2.9.5-SP.8
+- pkg:maven/io.cronapp/cronapp-framework-telegram@2.9.5-SP.8?classifier=sources
+- pkg:maven/io.cronapp/cronapp-framework-telegram@2.9.5-SP.9
+- pkg:maven/io.cronapp/cronapp-framework-telegram@2.9.5-SP.9?classifier=sources
 - pkg:maven/io.cronapp/cronapp-framework-telegram@2.9.5?classifier=sources

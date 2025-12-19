@@ -1,0 +1,2 @@
+- pkg:maven/com.hexascribe/vertexai-kt-iosx64@0.0.1?classifier=sources
+- pkg:maven/com.hexascribe/vertexai-kt-iosx64@1.0.0?classifier=sources

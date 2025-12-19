@@ -1,1 +1,2 @@
 - pkg:maven/com.moderntreasury/modern-treasury-java@0.0.1?classifier=sources
+- pkg:maven/com.moderntreasury/modern-treasury-java@1.0.1?classifier=sources

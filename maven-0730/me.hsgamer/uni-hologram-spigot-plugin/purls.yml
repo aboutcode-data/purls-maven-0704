@@ -12,3 +12,11 @@
 - pkg:maven/me.hsgamer/uni-hologram-spigot-plugin@1.5.5?classifier=sources
 - pkg:maven/me.hsgamer/uni-hologram-spigot-plugin@1.6.0
 - pkg:maven/me.hsgamer/uni-hologram-spigot-plugin@1.6.0?classifier=sources
+- pkg:maven/me.hsgamer/uni-hologram-spigot-plugin@2.0.0
+- pkg:maven/me.hsgamer/uni-hologram-spigot-plugin@2.0.0?classifier=sources
+- pkg:maven/me.hsgamer/uni-hologram-spigot-plugin@2.1.0
+- pkg:maven/me.hsgamer/uni-hologram-spigot-plugin@2.1.0?classifier=sources
+- pkg:maven/me.hsgamer/uni-hologram-spigot-plugin@2.1.1
+- pkg:maven/me.hsgamer/uni-hologram-spigot-plugin@2.1.1?classifier=sources
+- pkg:maven/me.hsgamer/uni-hologram-spigot-plugin@2.2.0
+- pkg:maven/me.hsgamer/uni-hologram-spigot-plugin@2.2.0?classifier=sources

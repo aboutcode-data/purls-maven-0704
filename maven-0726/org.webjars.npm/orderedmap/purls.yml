@@ -6,5 +6,7 @@
 - pkg:maven/org.webjars.npm/orderedmap@1.1.4?classifier=sources
 - pkg:maven/org.webjars.npm/orderedmap@1.1.5
 - pkg:maven/org.webjars.npm/orderedmap@1.1.5?classifier=sources
+- pkg:maven/org.webjars.npm/orderedmap@1.1.8
+- pkg:maven/org.webjars.npm/orderedmap@1.1.8?classifier=sources
 - pkg:maven/org.webjars.npm/orderedmap@2.1.0
 - pkg:maven/org.webjars.npm/orderedmap@2.1.0?classifier=sources

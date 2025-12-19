@@ -14,3 +14,5 @@
 - pkg:maven/gov.nist.secauto.oscal/liboscal-java@1.0.4.4
 - pkg:maven/gov.nist.secauto.oscal/liboscal-java@1.0.4.4?classifier=sources
 - pkg:maven/gov.nist.secauto.oscal/liboscal-java@1.0.4?classifier=sources
+- pkg:maven/gov.nist.secauto.oscal/liboscal-java@2.0.0
+- pkg:maven/gov.nist.secauto.oscal/liboscal-java@2.0.0?classifier=sources

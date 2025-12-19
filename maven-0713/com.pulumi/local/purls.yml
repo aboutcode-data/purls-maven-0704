@@ -1,0 +1,2 @@
+- pkg:maven/com.pulumi/local@0.0.1-alpha.1686871140%2Be9cc3d18?classifier=sources
+- pkg:maven/com.pulumi/local@0.0.1?classifier=sources

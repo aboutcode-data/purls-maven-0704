@@ -1,2 +1,4 @@
 - pkg:maven/ch.exense.step/step-ee-maven-plugin@3.22.0
 - pkg:maven/ch.exense.step/step-ee-maven-plugin@3.22.0?classifier=sources
+- pkg:maven/ch.exense.step/step-ee-maven-plugin@3.22.1
+- pkg:maven/ch.exense.step/step-ee-maven-plugin@3.22.1?classifier=sources

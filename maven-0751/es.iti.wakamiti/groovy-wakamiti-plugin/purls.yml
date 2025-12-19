@@ -1,0 +1,4 @@
+- pkg:maven/es.iti.wakamiti/groovy-wakamiti-plugin@2.2.0
+- pkg:maven/es.iti.wakamiti/groovy-wakamiti-plugin@2.2.0?classifier=sources
+- pkg:maven/es.iti.wakamiti/groovy-wakamiti-plugin@2.2.1
+- pkg:maven/es.iti.wakamiti/groovy-wakamiti-plugin@2.2.1?classifier=sources

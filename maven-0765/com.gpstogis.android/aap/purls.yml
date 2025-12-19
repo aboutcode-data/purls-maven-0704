@@ -1,1 +1,2 @@
 - pkg:maven/com.gpstogis.android/aap@0.0.3?classifier=sources
+- pkg:maven/com.gpstogis.android/aap@2.2.1?classifier=sources

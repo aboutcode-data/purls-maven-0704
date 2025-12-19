@@ -8,3 +8,4 @@
 - pkg:maven/it.nicolasfarabegoli.pulverization.crowdroom/acsos-2023-pulverization-crowd-room-js@1.1.6?classifier=sources
 - pkg:maven/it.nicolasfarabegoli.pulverization.crowdroom/acsos-2023-pulverization-crowd-room-js@1.1.7?classifier=sources
 - pkg:maven/it.nicolasfarabegoli.pulverization.crowdroom/acsos-2023-pulverization-crowd-room-js@1.1.8?classifier=sources
+- pkg:maven/it.nicolasfarabegoli.pulverization.crowdroom/acsos-2023-pulverization-crowd-room-js@1.1.9?classifier=sources

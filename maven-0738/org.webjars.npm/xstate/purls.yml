@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.npm/xstate@4.20.0
+- pkg:maven/org.webjars.npm/xstate@4.20.0?classifier=sources
 - pkg:maven/org.webjars.npm/xstate@4.33.0
 - pkg:maven/org.webjars.npm/xstate@4.33.0?classifier=sources
 - pkg:maven/org.webjars.npm/xstate@4.5.0

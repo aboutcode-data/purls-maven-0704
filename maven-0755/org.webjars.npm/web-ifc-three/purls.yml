@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/web-ifc-three@0.0.125
+- pkg:maven/org.webjars.npm/web-ifc-three@0.0.125?classifier=sources

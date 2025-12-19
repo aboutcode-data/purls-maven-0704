@@ -1,0 +1,4 @@
+- pkg:maven/com.trib3/metrics-guice@2.2.4554
+- pkg:maven/com.trib3/metrics-guice@2.2.4554?classifier=sources
+- pkg:maven/com.trib3/metrics-guice@2.2.4588
+- pkg:maven/com.trib3/metrics-guice@2.2.4588?classifier=sources

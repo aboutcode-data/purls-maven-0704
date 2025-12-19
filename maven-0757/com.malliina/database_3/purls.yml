@@ -1,0 +1,2 @@
+- pkg:maven/com.malliina/database_3@6.5.3
+- pkg:maven/com.malliina/database_3@6.5.3?classifier=sources

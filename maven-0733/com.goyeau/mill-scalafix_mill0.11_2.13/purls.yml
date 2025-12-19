@@ -1,0 +1,2 @@
+- pkg:maven/com.goyeau/mill-scalafix_mill0.11_2.13@0.3.1
+- pkg:maven/com.goyeau/mill-scalafix_mill0.11_2.13@0.3.1?classifier=sources

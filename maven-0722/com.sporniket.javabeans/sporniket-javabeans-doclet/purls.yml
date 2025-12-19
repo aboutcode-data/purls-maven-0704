@@ -38,3 +38,5 @@
 - pkg:maven/com.sporniket.javabeans/sporniket-javabeans-doclet@20.07.00?classifier=sources
 - pkg:maven/com.sporniket.javabeans/sporniket-javabeans-doclet@20.07.01
 - pkg:maven/com.sporniket.javabeans/sporniket-javabeans-doclet@20.07.01?classifier=sources
+- pkg:maven/com.sporniket.javabeans/sporniket-javabeans-doclet@23.07.00
+- pkg:maven/com.sporniket.javabeans/sporniket-javabeans-doclet@23.07.00?classifier=sources

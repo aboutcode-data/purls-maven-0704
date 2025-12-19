@@ -52,3 +52,7 @@
 - pkg:maven/pl.morgwai.base/grpc-utils@3.6?classifier=sources
 - pkg:maven/pl.morgwai.base/grpc-utils@4.0
 - pkg:maven/pl.morgwai.base/grpc-utils@4.0?classifier=sources
+- pkg:maven/pl.morgwai.base/grpc-utils@5.0
+- pkg:maven/pl.morgwai.base/grpc-utils@5.0?classifier=sources
+- pkg:maven/pl.morgwai.base/grpc-utils@5.1
+- pkg:maven/pl.morgwai.base/grpc-utils@5.1?classifier=sources

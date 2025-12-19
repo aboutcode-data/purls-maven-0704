@@ -1,0 +1,10 @@
+- pkg:maven/com.gccloud/gc-starter-plugins-xxl-job-common@2.2.0.RELEASE
+- pkg:maven/com.gccloud/gc-starter-plugins-xxl-job-common@2.2.0.RELEASE?classifier=sources
+- pkg:maven/com.gccloud/gc-starter-plugins-xxl-job-common@2.2.1.2023063001.Alpha
+- pkg:maven/com.gccloud/gc-starter-plugins-xxl-job-common@2.2.1.2023063001.Alpha?classifier=sources
+- pkg:maven/com.gccloud/gc-starter-plugins-xxl-job-common@2.2.1.RELEASE
+- pkg:maven/com.gccloud/gc-starter-plugins-xxl-job-common@2.2.1.RELEASE?classifier=sources
+- pkg:maven/com.gccloud/gc-starter-plugins-xxl-job-common@2.2.2.RELEASE
+- pkg:maven/com.gccloud/gc-starter-plugins-xxl-job-common@2.2.2.RELEASE?classifier=sources
+- pkg:maven/com.gccloud/gc-starter-plugins-xxl-job-common@2.3.0.RELEASE
+- pkg:maven/com.gccloud/gc-starter-plugins-xxl-job-common@2.3.0.RELEASE?classifier=sources

@@ -31,3 +31,4 @@
 - pkg:maven/org.opensearch/opensearch-job-scheduler-spi@2.6.0.0?classifier=sources
 - pkg:maven/org.opensearch/opensearch-job-scheduler-spi@2.7.0.0?classifier=sources
 - pkg:maven/org.opensearch/opensearch-job-scheduler-spi@2.8.0.0?classifier=sources
+- pkg:maven/org.opensearch/opensearch-job-scheduler-spi@2.9.0.0?classifier=sources

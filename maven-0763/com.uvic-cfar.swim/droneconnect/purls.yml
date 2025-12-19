@@ -1,2 +1,4 @@
 - pkg:maven/com.uvic-cfar.swim/droneconnect@1.0.0-alpha2
 - pkg:maven/com.uvic-cfar.swim/droneconnect@1.0.0-alpha2?classifier=sources
+- pkg:maven/com.uvic-cfar.swim/droneconnect@1.0.0-alpha3
+- pkg:maven/com.uvic-cfar.swim/droneconnect@1.0.0-alpha3?classifier=sources

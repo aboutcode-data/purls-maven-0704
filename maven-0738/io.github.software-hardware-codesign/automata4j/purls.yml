@@ -1,0 +1,2 @@
+- pkg:maven/io.github.software-hardware-codesign/automata4j@incubator
+- pkg:maven/io.github.software-hardware-codesign/automata4j@incubator?classifier=sources

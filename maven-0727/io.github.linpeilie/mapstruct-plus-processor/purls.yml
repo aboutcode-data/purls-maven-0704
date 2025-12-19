@@ -42,3 +42,5 @@
 - pkg:maven/io.github.linpeilie/mapstruct-plus-processor@1.3.3?classifier=sources
 - pkg:maven/io.github.linpeilie/mapstruct-plus-processor@1.3.4
 - pkg:maven/io.github.linpeilie/mapstruct-plus-processor@1.3.4?classifier=sources
+- pkg:maven/io.github.linpeilie/mapstruct-plus-processor@1.3.5
+- pkg:maven/io.github.linpeilie/mapstruct-plus-processor@1.3.5?classifier=sources

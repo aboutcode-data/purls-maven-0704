@@ -1,0 +1,14 @@
+- pkg:maven/com.fizzgate/fizz-aggregate-json-schema-validator-i18n-support@1.0.0
+- pkg:maven/com.fizzgate/fizz-aggregate-json-schema-validator-i18n-support@1.0.0?classifier=sources
+- pkg:maven/com.fizzgate/fizz-aggregate-json-schema-validator-i18n-support@1.0.1
+- pkg:maven/com.fizzgate/fizz-aggregate-json-schema-validator-i18n-support@1.0.1?classifier=sources
+- pkg:maven/com.fizzgate/fizz-aggregate-json-schema-validator-i18n-support@2.0.0
+- pkg:maven/com.fizzgate/fizz-aggregate-json-schema-validator-i18n-support@2.0.0?classifier=sources
+- pkg:maven/com.fizzgate/fizz-aggregate-json-schema-validator-i18n-support@2.0.1
+- pkg:maven/com.fizzgate/fizz-aggregate-json-schema-validator-i18n-support@2.0.1?classifier=sources
+- pkg:maven/com.fizzgate/fizz-aggregate-json-schema-validator-i18n-support@3.0.0
+- pkg:maven/com.fizzgate/fizz-aggregate-json-schema-validator-i18n-support@3.0.0?classifier=sources
+- pkg:maven/com.fizzgate/fizz-aggregate-json-schema-validator-i18n-support@3.0.1
+- pkg:maven/com.fizzgate/fizz-aggregate-json-schema-validator-i18n-support@3.0.1-beta1
+- pkg:maven/com.fizzgate/fizz-aggregate-json-schema-validator-i18n-support@3.0.1-beta1?classifier=sources
+- pkg:maven/com.fizzgate/fizz-aggregate-json-schema-validator-i18n-support@3.0.1?classifier=sources

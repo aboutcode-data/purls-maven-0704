@@ -270,6 +270,12 @@
 - pkg:maven/com.sap.cloud.lm.sl.cf/com.sap.cloud.lm.sl.cf.web@1.73.32?type=war
 - pkg:maven/com.sap.cloud.lm.sl.cf/com.sap.cloud.lm.sl.cf.web@1.73.33?classifier=sources
 - pkg:maven/com.sap.cloud.lm.sl.cf/com.sap.cloud.lm.sl.cf.web@1.73.33?type=war
+- pkg:maven/com.sap.cloud.lm.sl.cf/com.sap.cloud.lm.sl.cf.web@1.73.36?classifier=sources
+- pkg:maven/com.sap.cloud.lm.sl.cf/com.sap.cloud.lm.sl.cf.web@1.73.36?type=war
+- pkg:maven/com.sap.cloud.lm.sl.cf/com.sap.cloud.lm.sl.cf.web@1.73.38?classifier=sources
+- pkg:maven/com.sap.cloud.lm.sl.cf/com.sap.cloud.lm.sl.cf.web@1.73.38?type=war
+- pkg:maven/com.sap.cloud.lm.sl.cf/com.sap.cloud.lm.sl.cf.web@1.73.39?classifier=sources
+- pkg:maven/com.sap.cloud.lm.sl.cf/com.sap.cloud.lm.sl.cf.web@1.73.39?type=war
 - pkg:maven/com.sap.cloud.lm.sl.cf/com.sap.cloud.lm.sl.cf.web@1.73.3?classifier=sources
 - pkg:maven/com.sap.cloud.lm.sl.cf/com.sap.cloud.lm.sl.cf.web@1.73.3?type=war
 - pkg:maven/com.sap.cloud.lm.sl.cf/com.sap.cloud.lm.sl.cf.web@1.73.4?classifier=sources

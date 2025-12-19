@@ -1,0 +1,2 @@
+- pkg:maven/org.androidaudioplugin/compose-audio-controls-midi@0.2.0?classifier=sources
+- pkg:maven/org.androidaudioplugin/compose-audio-controls-midi@0.3.0?classifier=sources

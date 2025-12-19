@@ -15,3 +15,4 @@
 - pkg:maven/com.detmir.recycli/processors@1.7.0?classifier=sources
 - pkg:maven/com.detmir.recycli/processors@1.8.0?classifier=sources
 - pkg:maven/com.detmir.recycli/processors@1.9.0?classifier=sources
+- pkg:maven/com.detmir.recycli/processors@2.0.0?classifier=sources

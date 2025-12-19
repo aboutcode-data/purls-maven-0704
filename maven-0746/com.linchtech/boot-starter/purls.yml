@@ -32,6 +32,14 @@
 - pkg:maven/com.linchtech/boot-starter@1.0.11-RELEASE?classifier=sources
 - pkg:maven/com.linchtech/boot-starter@1.0.12-RELEASE
 - pkg:maven/com.linchtech/boot-starter@1.0.12-RELEASE?classifier=sources
+- pkg:maven/com.linchtech/boot-starter@1.0.14-RELEASE
+- pkg:maven/com.linchtech/boot-starter@1.0.14-RELEASE?classifier=sources
+- pkg:maven/com.linchtech/boot-starter@1.0.15-RELEASE
+- pkg:maven/com.linchtech/boot-starter@1.0.15-RELEASE?classifier=sources
+- pkg:maven/com.linchtech/boot-starter@1.0.17-RELEASE
+- pkg:maven/com.linchtech/boot-starter@1.0.17-RELEASE?classifier=sources
+- pkg:maven/com.linchtech/boot-starter@1.0.18-RELEASE
+- pkg:maven/com.linchtech/boot-starter@1.0.18-RELEASE?classifier=sources
 - pkg:maven/com.linchtech/boot-starter@1.0.2-RELEASE
 - pkg:maven/com.linchtech/boot-starter@1.0.2-RELEASE?classifier=sources
 - pkg:maven/com.linchtech/boot-starter@1.0.3-RELEASE

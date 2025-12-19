@@ -58,10 +58,14 @@
 - pkg:maven/com.liferay/com.liferay.portal.output.stream.container@4.0.7
 - pkg:maven/com.liferay/com.liferay.portal.output.stream.container@4.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.output.stream.container@4.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.output.stream.container@4.0.8
+- pkg:maven/com.liferay/com.liferay.portal.output.stream.container@4.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.output.stream.container@5.0.0
 - pkg:maven/com.liferay/com.liferay.portal.output.stream.container@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.output.stream.container@5.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.output.stream.container@5.0.1
+- pkg:maven/com.liferay/com.liferay.portal.output.stream.container@5.0.10
+- pkg:maven/com.liferay/com.liferay.portal.output.stream.container@5.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.output.stream.container@5.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.output.stream.container@5.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.output.stream.container@5.0.2
@@ -92,6 +96,8 @@
 - pkg:maven/com.liferay/com.liferay.portal.output.stream.container@6.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.output.stream.container@6.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.output.stream.container@6.0.1
+- pkg:maven/com.liferay/com.liferay.portal.output.stream.container@6.0.10
+- pkg:maven/com.liferay/com.liferay.portal.output.stream.container@6.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.output.stream.container@6.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.output.stream.container@6.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.output.stream.container@6.0.2

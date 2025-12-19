@@ -1,5 +1,7 @@
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-common@1.5.13
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-common@1.5.13?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-serializer-common@10.0.0-M1
+- pkg:maven/org.wicketstuff/wicketstuff-serializer-common@10.0.0-M1?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-common@6.11.1
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-common@6.11.1?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-common@6.12.0

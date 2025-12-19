@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.semantic-kernel.extensions/semantickernel-sequentialplanner-extension@0.2.6-alpha?classifier=sources
+- pkg:maven/com.microsoft.semantic-kernel.extensions/semantickernel-sequentialplanner-extension@0.2.7-alpha?classifier=sources

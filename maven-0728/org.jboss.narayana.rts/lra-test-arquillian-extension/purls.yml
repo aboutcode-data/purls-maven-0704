@@ -22,3 +22,5 @@
 - pkg:maven/org.jboss.narayana.rts/lra-test-arquillian-extension@6.0.0.Final?classifier=sources
 - pkg:maven/org.jboss.narayana.rts/lra-test-arquillian-extension@6.0.1.Final
 - pkg:maven/org.jboss.narayana.rts/lra-test-arquillian-extension@6.0.1.Final?classifier=sources
+- pkg:maven/org.jboss.narayana.rts/lra-test-arquillian-extension@7.0.0.Final
+- pkg:maven/org.jboss.narayana.rts/lra-test-arquillian-extension@7.0.0.Final?classifier=sources

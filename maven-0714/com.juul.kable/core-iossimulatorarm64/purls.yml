@@ -12,3 +12,4 @@
 - pkg:maven/com.juul.kable/core-iossimulatorarm64@0.21.0?classifier=sources
 - pkg:maven/com.juul.kable/core-iossimulatorarm64@0.22.0?classifier=sources
 - pkg:maven/com.juul.kable/core-iossimulatorarm64@0.23.0?classifier=sources
+- pkg:maven/com.juul.kable/core-iossimulatorarm64@0.24.0?classifier=sources

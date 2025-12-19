@@ -74,3 +74,7 @@
 - pkg:maven/travel.wink/affiliate-sdk-java@26.0.3?classifier=sources
 - pkg:maven/travel.wink/affiliate-sdk-java@26.1.1
 - pkg:maven/travel.wink/affiliate-sdk-java@26.1.1?classifier=sources
+- pkg:maven/travel.wink/affiliate-sdk-java@27.1.1
+- pkg:maven/travel.wink/affiliate-sdk-java@27.1.1?classifier=sources
+- pkg:maven/travel.wink/affiliate-sdk-java@29.0.0
+- pkg:maven/travel.wink/affiliate-sdk-java@29.0.0?classifier=sources

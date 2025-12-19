@@ -218,6 +218,11 @@
 - pkg:maven/com.liferay/com.liferay.headless.admin.workflow.impl@2.0.70
 - pkg:maven/com.liferay/com.liferay.headless.admin.workflow.impl@2.0.70?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.workflow.impl@2.0.70?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.admin.workflow.impl@2.0.71
+- pkg:maven/com.liferay/com.liferay.headless.admin.workflow.impl@2.0.71?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.admin.workflow.impl@2.0.71?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.admin.workflow.impl@2.0.72
+- pkg:maven/com.liferay/com.liferay.headless.admin.workflow.impl@2.0.72?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.workflow.impl@2.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.workflow.impl@2.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.headless.admin.workflow.impl@2.0.8
@@ -434,6 +439,11 @@
 - pkg:maven/com.liferay/com.liferay.headless.admin.workflow.impl@3.0.71
 - pkg:maven/com.liferay/com.liferay.headless.admin.workflow.impl@3.0.71?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.workflow.impl@3.0.71?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.admin.workflow.impl@3.0.72
+- pkg:maven/com.liferay/com.liferay.headless.admin.workflow.impl@3.0.72?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.admin.workflow.impl@3.0.72?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.admin.workflow.impl@3.0.73
+- pkg:maven/com.liferay/com.liferay.headless.admin.workflow.impl@3.0.73?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.workflow.impl@3.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.workflow.impl@3.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.headless.admin.workflow.impl@3.0.8
@@ -650,6 +660,8 @@
 - pkg:maven/com.liferay/com.liferay.headless.admin.workflow.impl@4.0.71
 - pkg:maven/com.liferay/com.liferay.headless.admin.workflow.impl@4.0.71?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.workflow.impl@4.0.71?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.admin.workflow.impl@4.0.72
+- pkg:maven/com.liferay/com.liferay.headless.admin.workflow.impl@4.0.72?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.workflow.impl@4.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.workflow.impl@4.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.headless.admin.workflow.impl@4.0.8
@@ -818,6 +830,9 @@
 - pkg:maven/com.liferay/com.liferay.headless.admin.workflow.impl@5.0.57
 - pkg:maven/com.liferay/com.liferay.headless.admin.workflow.impl@5.0.57?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.workflow.impl@5.0.57?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.admin.workflow.impl@5.0.58
+- pkg:maven/com.liferay/com.liferay.headless.admin.workflow.impl@5.0.58?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.admin.workflow.impl@5.0.58?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.headless.admin.workflow.impl@5.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.workflow.impl@5.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.headless.admin.workflow.impl@5.0.6

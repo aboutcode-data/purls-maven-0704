@@ -174,6 +174,12 @@
 - pkg:maven/com.liferay/com.liferay.project.templates.war.core.ext@1.0.151
 - pkg:maven/com.liferay/com.liferay.project.templates.war.core.ext@1.0.151?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.war.core.ext@1.0.151?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.project.templates.war.core.ext@1.0.152
+- pkg:maven/com.liferay/com.liferay.project.templates.war.core.ext@1.0.152?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates.war.core.ext@1.0.152?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.project.templates.war.core.ext@1.0.153
+- pkg:maven/com.liferay/com.liferay.project.templates.war.core.ext@1.0.153?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates.war.core.ext@1.0.153?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.project.templates.war.core.ext@1.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.war.core.ext@1.0.15?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.project.templates.war.core.ext@1.0.16

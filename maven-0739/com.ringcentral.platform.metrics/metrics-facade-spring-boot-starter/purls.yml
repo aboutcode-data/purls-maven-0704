@@ -4,3 +4,4 @@
 - pkg:maven/com.ringcentral.platform.metrics/metrics-facade-spring-boot-starter@2.1.1-RELEASE
 - pkg:maven/com.ringcentral.platform.metrics/metrics-facade-spring-boot-starter@3.0.0-RELEASE
 - pkg:maven/com.ringcentral.platform.metrics/metrics-facade-spring-boot-starter@3.1.0-RELEASE
+- pkg:maven/com.ringcentral.platform.metrics/metrics-facade-spring-boot-starter@3.2.0-RELEASE

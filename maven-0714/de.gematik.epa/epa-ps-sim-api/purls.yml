@@ -1,0 +1,2 @@
+- pkg:maven/de.gematik.epa/epa-ps-sim-api@1.1.1
+- pkg:maven/de.gematik.epa/epa-ps-sim-api@1.1.1?classifier=sources

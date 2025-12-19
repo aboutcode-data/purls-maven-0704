@@ -1,1 +1,2 @@
 - pkg:maven/cn.zhxu/bp-common@1.0.0?classifier=sources
+- pkg:maven/cn.zhxu/bp-common@1.1.0?classifier=sources

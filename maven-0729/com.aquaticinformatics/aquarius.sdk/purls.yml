@@ -92,3 +92,5 @@
 - pkg:maven/com.aquaticinformatics/aquarius.sdk@22.3.0?classifier=sources
 - pkg:maven/com.aquaticinformatics/aquarius.sdk@23.1.0
 - pkg:maven/com.aquaticinformatics/aquarius.sdk@23.1.0?classifier=sources
+- pkg:maven/com.aquaticinformatics/aquarius.sdk@23.2.1
+- pkg:maven/com.aquaticinformatics/aquarius.sdk@23.2.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.xuwei-k/unused-proto-plugin_2.12_1.0@0.1.4
+- pkg:maven/com.github.xuwei-k/unused-proto-plugin_2.12_1.0@0.1.4?classifier=sources
