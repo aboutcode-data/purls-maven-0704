@@ -22,3 +22,9 @@
 - pkg:maven/org.beangle.data/beangle-data-orm_3@5.4.6?classifier=sources
 - pkg:maven/org.beangle.data/beangle-data-orm_3@5.4.7
 - pkg:maven/org.beangle.data/beangle-data-orm_3@5.4.7?classifier=sources
+- pkg:maven/org.beangle.data/beangle-data-orm_3@5.4.8
+- pkg:maven/org.beangle.data/beangle-data-orm_3@5.4.8?classifier=sources
+- pkg:maven/org.beangle.data/beangle-data-orm_3@5.4.9
+- pkg:maven/org.beangle.data/beangle-data-orm_3@5.4.9?classifier=sources
+- pkg:maven/org.beangle.data/beangle-data-orm_3@5.5.0
+- pkg:maven/org.beangle.data/beangle-data-orm_3@5.5.0?classifier=sources

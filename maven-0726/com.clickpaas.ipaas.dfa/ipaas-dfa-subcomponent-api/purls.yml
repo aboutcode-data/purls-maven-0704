@@ -1,0 +1,2 @@
+- pkg:maven/com.clickpaas.ipaas.dfa/ipaas-dfa-subcomponent-api@1.0.0
+- pkg:maven/com.clickpaas.ipaas.dfa/ipaas-dfa-subcomponent-api@1.0.0?classifier=sources

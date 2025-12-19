@@ -1,2 +1,8 @@
 - pkg:maven/com.amido.stacks.modules/stacks-azure-cosmos@1.0.0
 - pkg:maven/com.amido.stacks.modules/stacks-azure-cosmos@1.0.0?classifier=sources
+- pkg:maven/com.amido.stacks.modules/stacks-azure-cosmos@2.0.0
+- pkg:maven/com.amido.stacks.modules/stacks-azure-cosmos@2.0.0?classifier=sources
+- pkg:maven/com.amido.stacks.modules/stacks-azure-cosmos@2.0.1
+- pkg:maven/com.amido.stacks.modules/stacks-azure-cosmos@2.0.1?classifier=sources
+- pkg:maven/com.amido.stacks.modules/stacks-azure-cosmos@2.1.1
+- pkg:maven/com.amido.stacks.modules/stacks-azure-cosmos@2.1.1?classifier=sources

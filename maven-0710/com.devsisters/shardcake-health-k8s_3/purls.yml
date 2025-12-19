@@ -1,0 +1,2 @@
+- pkg:maven/com.devsisters/shardcake-health-k8s_3@2.0.0
+- pkg:maven/com.devsisters/shardcake-health-k8s_3@2.0.0?classifier=sources

@@ -1,2 +1,10 @@
+- pkg:maven/com.alicp.jetcache/jetcache-redisson@2.7.0
 - pkg:maven/com.alicp.jetcache/jetcache-redisson@2.7.0.M2
 - pkg:maven/com.alicp.jetcache/jetcache-redisson@2.7.0.M2?classifier=sources
+- pkg:maven/com.alicp.jetcache/jetcache-redisson@2.7.0.RC
+- pkg:maven/com.alicp.jetcache/jetcache-redisson@2.7.0.RC2
+- pkg:maven/com.alicp.jetcache/jetcache-redisson@2.7.0.RC2?classifier=sources
+- pkg:maven/com.alicp.jetcache/jetcache-redisson@2.7.0.RC3
+- pkg:maven/com.alicp.jetcache/jetcache-redisson@2.7.0.RC3?classifier=sources
+- pkg:maven/com.alicp.jetcache/jetcache-redisson@2.7.0.RC?classifier=sources
+- pkg:maven/com.alicp.jetcache/jetcache-redisson@2.7.0?classifier=sources

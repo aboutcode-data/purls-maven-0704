@@ -23,6 +23,8 @@
 - pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment@1.11.15?classifier=sources
 - pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment@1.11.16
 - pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment@1.11.16?classifier=sources
+- pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment@1.11.17
+- pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment@1.11.17?classifier=sources
 - pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment@1.11.1?classifier=sources
 - pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment@1.11.2
 - pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment@1.11.2?classifier=sources
@@ -81,6 +83,8 @@
 - pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment@2.0.17?classifier=sources
 - pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment@2.0.18
 - pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment@2.0.18?classifier=sources
+- pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment@2.0.19
+- pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment@2.0.19?classifier=sources
 - pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment@2.0.1?classifier=sources
 - pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment@2.0.2
 - pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment@2.0.2?classifier=sources

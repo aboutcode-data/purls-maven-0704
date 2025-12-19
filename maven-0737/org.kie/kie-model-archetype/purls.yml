@@ -106,3 +106,4 @@
 - pkg:maven/org.kie/kie-model-archetype@8.24.1.Beta?classifier=sources
 - pkg:maven/org.kie/kie-model-archetype@8.25.0.Beta?classifier=sources
 - pkg:maven/org.kie/kie-model-archetype@8.26.0.Beta?classifier=sources
+- pkg:maven/org.kie/kie-model-archetype@8.27.0.Beta?classifier=sources

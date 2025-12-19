@@ -1,0 +1,2 @@
+- pkg:maven/io.github.web3study.cns/cnsj@0.0.3
+- pkg:maven/io.github.web3study.cns/cnsj@0.0.3?classifier=sources

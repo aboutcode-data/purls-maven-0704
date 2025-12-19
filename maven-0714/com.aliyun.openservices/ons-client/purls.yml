@@ -98,3 +98,7 @@
 - pkg:maven/com.aliyun.openservices/ons-client@2.0.1.Final?classifier=sources
 - pkg:maven/com.aliyun.openservices/ons-client@2.0.2.Final
 - pkg:maven/com.aliyun.openservices/ons-client@2.0.2.Final?classifier=sources
+- pkg:maven/com.aliyun.openservices/ons-client@2.0.3.Final
+- pkg:maven/com.aliyun.openservices/ons-client@2.0.3.Final?classifier=sources
+- pkg:maven/com.aliyun.openservices/ons-client@2.0.4.Final
+- pkg:maven/com.aliyun.openservices/ons-client@2.0.4.Final?classifier=sources

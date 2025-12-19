@@ -131,6 +131,10 @@
 - pkg:maven/io.github.cric96/scalapy-gym_2.12@0.1.7
 - pkg:maven/io.github.cric96/scalapy-gym_2.12@0.1.70
 - pkg:maven/io.github.cric96/scalapy-gym_2.12@0.1.70?classifier=sources
+- pkg:maven/io.github.cric96/scalapy-gym_2.12@0.1.72
+- pkg:maven/io.github.cric96/scalapy-gym_2.12@0.1.72?classifier=sources
+- pkg:maven/io.github.cric96/scalapy-gym_2.12@0.1.73
+- pkg:maven/io.github.cric96/scalapy-gym_2.12@0.1.73?classifier=sources
 - pkg:maven/io.github.cric96/scalapy-gym_2.12@0.1.7?classifier=sources
 - pkg:maven/io.github.cric96/scalapy-gym_2.12@0.1.8
 - pkg:maven/io.github.cric96/scalapy-gym_2.12@0.1.8?classifier=sources

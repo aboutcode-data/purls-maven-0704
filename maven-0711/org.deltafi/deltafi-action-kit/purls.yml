@@ -15,3 +15,5 @@
 - pkg:maven/org.deltafi/deltafi-action-kit@0.96.2?classifier=sources
 - pkg:maven/org.deltafi/deltafi-action-kit@0.96.3?classifier=sources
 - pkg:maven/org.deltafi/deltafi-action-kit@0.96.4?classifier=sources
+- pkg:maven/org.deltafi/deltafi-action-kit@0.97.0?classifier=sources
+- pkg:maven/org.deltafi/deltafi-action-kit@0.98.0?classifier=sources

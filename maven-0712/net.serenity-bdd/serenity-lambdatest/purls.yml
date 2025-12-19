@@ -62,3 +62,5 @@
 - pkg:maven/net.serenity-bdd/serenity-lambdatest@3.3.1?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-lambdatest@3.3.2
 - pkg:maven/net.serenity-bdd/serenity-lambdatest@3.3.2?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-lambdatest@3.3.4
+- pkg:maven/net.serenity-bdd/serenity-lambdatest@3.3.4?classifier=sources

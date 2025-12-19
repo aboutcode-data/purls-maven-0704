@@ -2,6 +2,9 @@
 - pkg:maven/com.graphql-java-kickstart/graphql-spring-boot-autoconfigure@11.0.0?classifier=sources
 - pkg:maven/com.graphql-java-kickstart/graphql-spring-boot-autoconfigure@11.1.0?classifier=sources
 - pkg:maven/com.graphql-java-kickstart/graphql-spring-boot-autoconfigure@12.0.0?classifier=sources
+- pkg:maven/com.graphql-java-kickstart/graphql-spring-boot-autoconfigure@13.0.0?classifier=sources
+- pkg:maven/com.graphql-java-kickstart/graphql-spring-boot-autoconfigure@13.0.1?classifier=sources
+- pkg:maven/com.graphql-java-kickstart/graphql-spring-boot-autoconfigure@14.0.0?classifier=sources
 - pkg:maven/com.graphql-java-kickstart/graphql-spring-boot-autoconfigure@5.0.3
 - pkg:maven/com.graphql-java-kickstart/graphql-spring-boot-autoconfigure@5.0.3?classifier=sources
 - pkg:maven/com.graphql-java-kickstart/graphql-spring-boot-autoconfigure@5.0.4

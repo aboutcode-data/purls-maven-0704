@@ -1,0 +1,6 @@
+- pkg:maven/tech.figure.objectstore.gateway/proto@3.0.0?classifier=sources
+- pkg:maven/tech.figure.objectstore.gateway/proto@3.0.1?classifier=sources
+- pkg:maven/tech.figure.objectstore.gateway/proto@3.0.2?classifier=sources
+- pkg:maven/tech.figure.objectstore.gateway/proto@3.0.3?classifier=sources
+- pkg:maven/tech.figure.objectstore.gateway/proto@3.0.4?classifier=sources
+- pkg:maven/tech.figure.objectstore.gateway/proto@3.0.5?classifier=sources

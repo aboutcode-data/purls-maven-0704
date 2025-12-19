@@ -2,5 +2,7 @@
 - pkg:maven/io.d11/zhttp-logging_2.12@1.0.0.0-RC29?classifier=sources
 - pkg:maven/io.d11/zhttp-logging_2.12@2.0.0-RC10
 - pkg:maven/io.d11/zhttp-logging_2.12@2.0.0-RC10?classifier=sources
+- pkg:maven/io.d11/zhttp-logging_2.12@2.0.0-RC11
+- pkg:maven/io.d11/zhttp-logging_2.12@2.0.0-RC11?classifier=sources
 - pkg:maven/io.d11/zhttp-logging_2.12@2.0.0-RC9
 - pkg:maven/io.d11/zhttp-logging_2.12@2.0.0-RC9?classifier=sources

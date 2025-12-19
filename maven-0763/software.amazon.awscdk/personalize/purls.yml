@@ -48,3 +48,17 @@
 - pkg:maven/software.amazon.awscdk/personalize@1.168.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/personalize@1.169.0
 - pkg:maven/software.amazon.awscdk/personalize@1.169.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/personalize@1.170.0
+- pkg:maven/software.amazon.awscdk/personalize@1.170.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/personalize@1.170.1
+- pkg:maven/software.amazon.awscdk/personalize@1.170.1?classifier=sources
+- pkg:maven/software.amazon.awscdk/personalize@1.171.0
+- pkg:maven/software.amazon.awscdk/personalize@1.171.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/personalize@1.172.0
+- pkg:maven/software.amazon.awscdk/personalize@1.172.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/personalize@1.173.0
+- pkg:maven/software.amazon.awscdk/personalize@1.173.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/personalize@1.174.0
+- pkg:maven/software.amazon.awscdk/personalize@1.174.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/personalize@1.175.0
+- pkg:maven/software.amazon.awscdk/personalize@1.175.0?classifier=sources

@@ -10,6 +10,8 @@
 - pkg:maven/org.webjars.npm/babel__plugin-transform-destructuring@7.17.3?classifier=sources
 - pkg:maven/org.webjars.npm/babel__plugin-transform-destructuring@7.18.0
 - pkg:maven/org.webjars.npm/babel__plugin-transform-destructuring@7.18.0?classifier=sources
+- pkg:maven/org.webjars.npm/babel__plugin-transform-destructuring@7.18.13
+- pkg:maven/org.webjars.npm/babel__plugin-transform-destructuring@7.18.13?classifier=sources
 - pkg:maven/org.webjars.npm/babel__plugin-transform-destructuring@7.3.2
 - pkg:maven/org.webjars.npm/babel__plugin-transform-destructuring@7.3.2?classifier=sources
 - pkg:maven/org.webjars.npm/babel__plugin-transform-destructuring@7.4.4

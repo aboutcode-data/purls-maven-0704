@@ -10,3 +10,5 @@
 - pkg:maven/com.xdev-software/vaadin-maps-leaflet-flow@1.0.6?classifier=sources
 - pkg:maven/com.xdev-software/vaadin-maps-leaflet-flow@1.1.0
 - pkg:maven/com.xdev-software/vaadin-maps-leaflet-flow@1.1.0?classifier=sources
+- pkg:maven/com.xdev-software/vaadin-maps-leaflet-flow@2.0.0
+- pkg:maven/com.xdev-software/vaadin-maps-leaflet-flow@2.0.0?classifier=sources

@@ -26,3 +26,5 @@
 - pkg:maven/com.github.agourlay/cornichon-test-framework_2.13@0.20.2?classifier=sources
 - pkg:maven/com.github.agourlay/cornichon-test-framework_2.13@0.20.3
 - pkg:maven/com.github.agourlay/cornichon-test-framework_2.13@0.20.3?classifier=sources
+- pkg:maven/com.github.agourlay/cornichon-test-framework_2.13@0.20.4
+- pkg:maven/com.github.agourlay/cornichon-test-framework_2.13@0.20.4?classifier=sources

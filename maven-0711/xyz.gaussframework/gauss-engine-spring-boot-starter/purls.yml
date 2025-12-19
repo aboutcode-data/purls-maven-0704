@@ -6,3 +6,5 @@
 - pkg:maven/xyz.gaussframework/gauss-engine-spring-boot-starter@2.2.6
 - pkg:maven/xyz.gaussframework/gauss-engine-spring-boot-starter@2.2.7
 - pkg:maven/xyz.gaussframework/gauss-engine-spring-boot-starter@2.2.8
+- pkg:maven/xyz.gaussframework/gauss-engine-spring-boot-starter@2.3.0
+- pkg:maven/xyz.gaussframework/gauss-engine-spring-boot-starter@2.3.1

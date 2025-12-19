@@ -1,1 +1,3 @@
 - pkg:maven/tech.fika.macaron/macaron-statesaver@0.0.1-beta03?classifier=sources
+- pkg:maven/tech.fika.macaron/macaron-statesaver@0.0.1-beta05?classifier=sources
+- pkg:maven/tech.fika.macaron/macaron-statesaver@0.0.1-beta4?classifier=sources

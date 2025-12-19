@@ -40,3 +40,7 @@
 - pkg:maven/cloud.piranha.maven.plugins/piranha-micro-maven-plugin@22.6.0?classifier=sources
 - pkg:maven/cloud.piranha.maven.plugins/piranha-micro-maven-plugin@22.7.0
 - pkg:maven/cloud.piranha.maven.plugins/piranha-micro-maven-plugin@22.7.0?classifier=sources
+- pkg:maven/cloud.piranha.maven.plugins/piranha-micro-maven-plugin@22.8.0
+- pkg:maven/cloud.piranha.maven.plugins/piranha-micro-maven-plugin@22.8.0?classifier=sources
+- pkg:maven/cloud.piranha.maven.plugins/piranha-micro-maven-plugin@22.9.0
+- pkg:maven/cloud.piranha.maven.plugins/piranha-micro-maven-plugin@22.9.0?classifier=sources

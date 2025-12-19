@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.dirigible/dirigible-database-sql-mysql@6.3.22
+- pkg:maven/org.eclipse.dirigible/dirigible-database-sql-mysql@6.3.22?classifier=sources

@@ -16,3 +16,4 @@
 - pkg:maven/org.jreleaser/jreleaser-tool-provider@1.0.0-RC2?classifier=sources
 - pkg:maven/org.jreleaser/jreleaser-tool-provider@1.0.0?classifier=sources
 - pkg:maven/org.jreleaser/jreleaser-tool-provider@1.1.0?classifier=sources
+- pkg:maven/org.jreleaser/jreleaser-tool-provider@1.2.0?classifier=sources

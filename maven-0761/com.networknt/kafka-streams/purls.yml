@@ -8,6 +8,12 @@
 - pkg:maven/com.networknt/kafka-streams@1.6.35?classifier=sources
 - pkg:maven/com.networknt/kafka-streams@1.6.36
 - pkg:maven/com.networknt/kafka-streams@1.6.36?classifier=sources
+- pkg:maven/com.networknt/kafka-streams@1.6.40
+- pkg:maven/com.networknt/kafka-streams@1.6.40?classifier=sources
+- pkg:maven/com.networknt/kafka-streams@1.6.41
+- pkg:maven/com.networknt/kafka-streams@1.6.41?classifier=sources
+- pkg:maven/com.networknt/kafka-streams@1.6.42
+- pkg:maven/com.networknt/kafka-streams@1.6.42?classifier=sources
 - pkg:maven/com.networknt/kafka-streams@2.0.18
 - pkg:maven/com.networknt/kafka-streams@2.0.18?classifier=sources
 - pkg:maven/com.networknt/kafka-streams@2.0.19

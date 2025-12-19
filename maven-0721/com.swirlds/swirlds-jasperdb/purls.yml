@@ -17,3 +17,7 @@
 - pkg:maven/com.swirlds/swirlds-jasperdb@0.27.1
 - pkg:maven/com.swirlds/swirlds-jasperdb@0.28.0
 - pkg:maven/com.swirlds/swirlds-jasperdb@0.28.1
+- pkg:maven/com.swirlds/swirlds-jasperdb@0.29.0
+- pkg:maven/com.swirlds/swirlds-jasperdb@0.29.1
+- pkg:maven/com.swirlds/swirlds-jasperdb@0.29.2
+- pkg:maven/com.swirlds/swirlds-jasperdb@0.30.0

@@ -13,3 +13,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-spring@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-spring@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-spring@RELEASE140?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-spring@RELEASE150?classifier=sources

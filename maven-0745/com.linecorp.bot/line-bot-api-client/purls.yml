@@ -99,3 +99,6 @@
 - pkg:maven/com.linecorp.bot/line-bot-api-client@4.7.0?classifier=sources
 - pkg:maven/com.linecorp.bot/line-bot-api-client@4.8.0?classifier=sources
 - pkg:maven/com.linecorp.bot/line-bot-api-client@4.9.0?classifier=sources
+- pkg:maven/com.linecorp.bot/line-bot-api-client@5.0.0?classifier=sources
+- pkg:maven/com.linecorp.bot/line-bot-api-client@5.0.1?classifier=sources
+- pkg:maven/com.linecorp.bot/line-bot-api-client@5.0.2?classifier=sources

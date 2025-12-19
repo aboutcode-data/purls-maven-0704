@@ -2,3 +2,5 @@
 - pkg:maven/wtf.metio.javapoet/javapoet-type-guesser@2022.8.11?classifier=sources
 - pkg:maven/wtf.metio.javapoet/javapoet-type-guesser@2022.8.18
 - pkg:maven/wtf.metio.javapoet/javapoet-type-guesser@2022.8.18?classifier=sources
+- pkg:maven/wtf.metio.javapoet/javapoet-type-guesser@2022.9.8
+- pkg:maven/wtf.metio.javapoet/javapoet-type-guesser@2022.9.8?classifier=sources

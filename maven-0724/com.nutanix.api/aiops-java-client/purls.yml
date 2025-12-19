@@ -1,0 +1,2 @@
+- pkg:maven/com.nutanix.api/aiops-java-client@4.0.1-alpha-1
+- pkg:maven/com.nutanix.api/aiops-java-client@4.0.1-alpha-1?classifier=sources

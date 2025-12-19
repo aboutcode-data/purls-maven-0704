@@ -71,10 +71,13 @@
 - pkg:maven/org.wildfly/wildfly-spec-api-test@26.1.0.Beta1
 - pkg:maven/org.wildfly/wildfly-spec-api-test@26.1.0.Final
 - pkg:maven/org.wildfly/wildfly-spec-api-test@26.1.1.Final
+- pkg:maven/org.wildfly/wildfly-spec-api-test@26.1.2.Final
 - pkg:maven/org.wildfly/wildfly-spec-api-test@27.0.0.Alpha1
 - pkg:maven/org.wildfly/wildfly-spec-api-test@27.0.0.Alpha2
 - pkg:maven/org.wildfly/wildfly-spec-api-test@27.0.0.Alpha3
 - pkg:maven/org.wildfly/wildfly-spec-api-test@27.0.0.Alpha4
+- pkg:maven/org.wildfly/wildfly-spec-api-test@27.0.0.Alpha5
+- pkg:maven/org.wildfly/wildfly-spec-api-test@27.0.0.Beta1
 - pkg:maven/org.wildfly/wildfly-spec-api-test@8.0.0.Alpha1
 - pkg:maven/org.wildfly/wildfly-spec-api-test@8.0.0.Alpha2
 - pkg:maven/org.wildfly/wildfly-spec-api-test@8.0.0.Alpha3

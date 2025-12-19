@@ -41,3 +41,6 @@
 - pkg:maven/io.trino/trino-password-authenticators@391?classifier=sources
 - pkg:maven/io.trino/trino-password-authenticators@392?classifier=sources
 - pkg:maven/io.trino/trino-password-authenticators@393?classifier=sources
+- pkg:maven/io.trino/trino-password-authenticators@394?classifier=sources
+- pkg:maven/io.trino/trino-password-authenticators@395?classifier=sources
+- pkg:maven/io.trino/trino-password-authenticators@396?classifier=sources

@@ -75,6 +75,8 @@
 - pkg:maven/org.commonjava.maven.galley/galley-cdi-embedder@1.0
 - pkg:maven/org.commonjava.maven.galley/galley-cdi-embedder@1.0?classifier=sources
 - pkg:maven/org.commonjava.maven.galley/galley-cdi-embedder@1.1
+- pkg:maven/org.commonjava.maven.galley/galley-cdi-embedder@1.10
+- pkg:maven/org.commonjava.maven.galley/galley-cdi-embedder@1.10?classifier=sources
 - pkg:maven/org.commonjava.maven.galley/galley-cdi-embedder@1.1?classifier=sources
 - pkg:maven/org.commonjava.maven.galley/galley-cdi-embedder@1.2
 - pkg:maven/org.commonjava.maven.galley/galley-cdi-embedder@1.2?classifier=sources

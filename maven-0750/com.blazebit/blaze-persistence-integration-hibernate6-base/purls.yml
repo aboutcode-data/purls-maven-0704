@@ -1,0 +1,2 @@
+- pkg:maven/com.blazebit/blaze-persistence-integration-hibernate6-base@1.6.7
+- pkg:maven/com.blazebit/blaze-persistence-integration-hibernate6-base@1.6.7?classifier=sources

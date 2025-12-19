@@ -177,3 +177,5 @@
 - pkg:maven/org.finos.legend.pure/legend-pure-m3-dsl-graph@3.5.0?classifier=sources
 - pkg:maven/org.finos.legend.pure/legend-pure-m3-dsl-graph@3.6.0
 - pkg:maven/org.finos.legend.pure/legend-pure-m3-dsl-graph@3.6.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-m3-dsl-graph@3.6.1
+- pkg:maven/org.finos.legend.pure/legend-pure-m3-dsl-graph@3.6.1?classifier=sources

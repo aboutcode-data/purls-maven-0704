@@ -7,3 +7,5 @@
 - pkg:maven/io.spinnaker.gate/gate-integrations-gremlin@6.55.0?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-integrations-gremlin@6.55.1?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-integrations-gremlin@6.55.2?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-integrations-gremlin@6.56.0?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-integrations-gremlin@6.57.0?classifier=sources

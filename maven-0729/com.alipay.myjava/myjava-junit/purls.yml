@@ -1,0 +1,2 @@
+- pkg:maven/com.alipay.myjava/myjava-junit@0.2.0
+- pkg:maven/com.alipay.myjava/myjava-junit@0.2.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.spiwer/rosilla@1.8.16
+- pkg:maven/com.spiwer/rosilla@1.8.16?classifier=sources
+- pkg:maven/com.spiwer/rosilla@1.8.17
+- pkg:maven/com.spiwer/rosilla@1.8.17?classifier=sources

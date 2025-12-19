@@ -46,3 +46,5 @@
 - pkg:maven/net.sourceforge.pmd/pmd-scala_2.12@6.47.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-scala_2.12@6.48.0
 - pkg:maven/net.sourceforge.pmd/pmd-scala_2.12@6.48.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-scala_2.12@6.49.0
+- pkg:maven/net.sourceforge.pmd/pmd-scala_2.12@6.49.0?classifier=sources

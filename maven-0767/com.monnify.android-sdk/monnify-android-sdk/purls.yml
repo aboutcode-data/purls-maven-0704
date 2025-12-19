@@ -43,3 +43,6 @@
 - pkg:maven/com.monnify.android-sdk/monnify-android-sdk@1.1.1?classifier=sources
 - pkg:maven/com.monnify.android-sdk/monnify-android-sdk@1.1.2?classifier=sources
 - pkg:maven/com.monnify.android-sdk/monnify-android-sdk@1.1.3?classifier=sources
+- pkg:maven/com.monnify.android-sdk/monnify-android-sdk@1.1.4?classifier=sources
+- pkg:maven/com.monnify.android-sdk/monnify-android-sdk@1.1.5?classifier=sources
+- pkg:maven/com.monnify.android-sdk/monnify-android-sdk@1.1.6?classifier=sources

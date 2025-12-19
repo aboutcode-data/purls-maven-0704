@@ -32,3 +32,5 @@
 - pkg:maven/com.zepben/network-verifier-lib@0.5.0?classifier=sources
 - pkg:maven/com.zepben/network-verifier-lib@0.6.0-SNAPSHOT1
 - pkg:maven/com.zepben/network-verifier-lib@0.6.0-SNAPSHOT1?classifier=sources
+- pkg:maven/com.zepben/network-verifier-lib@0.6.0-SNAPSHOT2
+- pkg:maven/com.zepben/network-verifier-lib@0.6.0-SNAPSHOT2?classifier=sources

@@ -52,6 +52,8 @@
 - pkg:maven/com.rapid7.docker/docker-image-analyzer@0.2.20?classifier=sources
 - pkg:maven/com.rapid7.docker/docker-image-analyzer@0.2.21
 - pkg:maven/com.rapid7.docker/docker-image-analyzer@0.2.21?classifier=sources
+- pkg:maven/com.rapid7.docker/docker-image-analyzer@0.2.22
+- pkg:maven/com.rapid7.docker/docker-image-analyzer@0.2.22?classifier=sources
 - pkg:maven/com.rapid7.docker/docker-image-analyzer@0.2.3
 - pkg:maven/com.rapid7.docker/docker-image-analyzer@0.2.3?classifier=sources
 - pkg:maven/com.rapid7.docker/docker-image-analyzer@0.2.5

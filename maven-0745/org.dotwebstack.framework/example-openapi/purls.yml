@@ -52,6 +52,10 @@
 - pkg:maven/org.dotwebstack.framework/example-openapi@0.3.125?classifier=sources
 - pkg:maven/org.dotwebstack.framework/example-openapi@0.3.126
 - pkg:maven/org.dotwebstack.framework/example-openapi@0.3.126?classifier=sources
+- pkg:maven/org.dotwebstack.framework/example-openapi@0.3.127
+- pkg:maven/org.dotwebstack.framework/example-openapi@0.3.127?classifier=sources
+- pkg:maven/org.dotwebstack.framework/example-openapi@0.3.128
+- pkg:maven/org.dotwebstack.framework/example-openapi@0.3.128?classifier=sources
 - pkg:maven/org.dotwebstack.framework/example-openapi@0.3.52
 - pkg:maven/org.dotwebstack.framework/example-openapi@0.3.52?classifier=sources
 - pkg:maven/org.dotwebstack.framework/example-openapi@0.3.53

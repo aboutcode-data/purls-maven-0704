@@ -6,6 +6,8 @@
 - pkg:maven/com.smartlogic.modelmanipulation/Semaphore-Model-Manipulation@5.4.0?classifier=sources
 - pkg:maven/com.smartlogic.modelmanipulation/Semaphore-Model-Manipulation@5.4.1
 - pkg:maven/com.smartlogic.modelmanipulation/Semaphore-Model-Manipulation@5.4.1?classifier=sources
+- pkg:maven/com.smartlogic.modelmanipulation/Semaphore-Model-Manipulation@5.4.2
+- pkg:maven/com.smartlogic.modelmanipulation/Semaphore-Model-Manipulation@5.4.2?classifier=sources
 - pkg:maven/com.smartlogic.modelmanipulation/Semaphore-Model-Manipulation@Semaphore-4.1.0
 - pkg:maven/com.smartlogic.modelmanipulation/Semaphore-Model-Manipulation@Semaphore-4.1.0?classifier=sources
 - pkg:maven/com.smartlogic.modelmanipulation/Semaphore-Model-Manipulation@Semaphore-4.1.1

@@ -2,6 +2,8 @@
 - pkg:maven/net.justmachinery/shade@0.5.10?classifier=sources
 - pkg:maven/net.justmachinery/shade@0.5.11
 - pkg:maven/net.justmachinery/shade@0.5.11?classifier=sources
+- pkg:maven/net.justmachinery/shade@0.5.12
+- pkg:maven/net.justmachinery/shade@0.5.12?classifier=sources
 - pkg:maven/net.justmachinery/shade@0.5.4
 - pkg:maven/net.justmachinery/shade@0.5.4?classifier=sources
 - pkg:maven/net.justmachinery/shade@0.5.5

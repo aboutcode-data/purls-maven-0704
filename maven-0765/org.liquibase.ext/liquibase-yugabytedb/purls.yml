@@ -10,6 +10,10 @@
 - pkg:maven/org.liquibase.ext/liquibase-yugabytedb@4.14.0?classifier=sources
 - pkg:maven/org.liquibase.ext/liquibase-yugabytedb@4.15.0
 - pkg:maven/org.liquibase.ext/liquibase-yugabytedb@4.15.0?classifier=sources
+- pkg:maven/org.liquibase.ext/liquibase-yugabytedb@4.16.0
+- pkg:maven/org.liquibase.ext/liquibase-yugabytedb@4.16.0?classifier=sources
+- pkg:maven/org.liquibase.ext/liquibase-yugabytedb@4.16.1
+- pkg:maven/org.liquibase.ext/liquibase-yugabytedb@4.16.1?classifier=sources
 - pkg:maven/org.liquibase.ext/liquibase-yugabytedb@4.4.1
 - pkg:maven/org.liquibase.ext/liquibase-yugabytedb@4.4.1?classifier=sources
 - pkg:maven/org.liquibase.ext/liquibase-yugabytedb@4.4.2

@@ -1,3 +1,6 @@
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.deployment.synchronizer@4.10.0
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.deployment.synchronizer@4.10.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.deployment.synchronizer@4.10.0?classifier=sources
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.deployment.synchronizer@4.2.4
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.deployment.synchronizer@4.2.4?classifier=sources
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.deployment.synchronizer@4.2.5
@@ -349,3 +352,6 @@
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.deployment.synchronizer@4.8.0
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.deployment.synchronizer@4.8.0?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.deployment.synchronizer@4.8.0?classifier=sources
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.deployment.synchronizer@4.8.8
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.deployment.synchronizer@4.8.8?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.deployment.synchronizer@4.8.8?classifier=sources

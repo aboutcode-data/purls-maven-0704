@@ -2,3 +2,5 @@
 - pkg:maven/com.telenav.kivakit/kivakit-internal-testing@1.6.0?classifier=sources
 - pkg:maven/com.telenav.kivakit/kivakit-internal-testing@1.6.2
 - pkg:maven/com.telenav.kivakit/kivakit-internal-testing@1.6.2?classifier=sources
+- pkg:maven/com.telenav.kivakit/kivakit-internal-testing@1.7.0
+- pkg:maven/com.telenav.kivakit/kivakit-internal-testing@1.7.0?classifier=sources

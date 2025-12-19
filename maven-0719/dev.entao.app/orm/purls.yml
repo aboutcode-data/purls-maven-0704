@@ -1,0 +1,2 @@
+- pkg:maven/dev.entao.app/orm@0.7.0?classifier=sources
+- pkg:maven/dev.entao.app/orm@0.8.0?classifier=sources

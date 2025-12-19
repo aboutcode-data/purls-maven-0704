@@ -1,0 +1,2 @@
+- pkg:maven/io.github.hpehl/maven-single-template@0.0.1.Final
+- pkg:maven/io.github.hpehl/maven-single-template@0.0.1.Final?classifier=sources

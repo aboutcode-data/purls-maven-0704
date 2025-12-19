@@ -10,3 +10,5 @@
 - pkg:maven/com.github.mvallim/spring-schema-registry@1.0.0?classifier=sources
 - pkg:maven/com.github.mvallim/spring-schema-registry@2.0.0
 - pkg:maven/com.github.mvallim/spring-schema-registry@2.0.0?classifier=sources
+- pkg:maven/com.github.mvallim/spring-schema-registry@2.1.0
+- pkg:maven/com.github.mvallim/spring-schema-registry@2.1.0?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/org.scalacheck/scalacheck_sjs1_2.12@1.15.4?classifier=sources
 - pkg:maven/org.scalacheck/scalacheck_sjs1_2.12@1.16.0
 - pkg:maven/org.scalacheck/scalacheck_sjs1_2.12@1.16.0?classifier=sources
+- pkg:maven/org.scalacheck/scalacheck_sjs1_2.12@1.17.0
+- pkg:maven/org.scalacheck/scalacheck_sjs1_2.12@1.17.0?classifier=sources

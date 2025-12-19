@@ -1,6 +1,8 @@
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-effect-zio_2.12@7.10.0
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-effect-zio_2.12@7.10.0?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-effect-zio_2.12@7.10.1
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-effect-zio_2.12@7.10.10
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-effect-zio_2.12@7.10.10?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-effect-zio_2.12@7.10.1?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-effect-zio_2.12@7.10.2
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-effect-zio_2.12@7.10.2?classifier=sources
@@ -36,6 +38,8 @@
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-effect-zio_2.12@7.12.2?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-effect-zio_2.12@7.12.3
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-effect-zio_2.12@7.12.3?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-effect-zio_2.12@7.12.4
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-effect-zio_2.12@7.12.4?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-effect-zio_2.12@7.13.0
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-effect-zio_2.12@7.13.0?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-effect-zio_2.12@7.14.0
@@ -72,6 +76,8 @@
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-effect-zio_2.12@7.17.2?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-effect-zio_2.12@7.17.3
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-effect-zio_2.12@7.17.3?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-effect-zio_2.12@7.17.4
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-effect-zio_2.12@7.17.4?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-effect-zio_2.12@7.3.4
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-effect-zio_2.12@7.3.4?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-effect-zio_2.12@7.3.5
@@ -122,3 +128,13 @@
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-effect-zio_2.12@8.2.2?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-effect-zio_2.12@8.3.0
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-effect-zio_2.12@8.3.0?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-effect-zio_2.12@8.3.1
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-effect-zio_2.12@8.3.1?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-effect-zio_2.12@8.3.2
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-effect-zio_2.12@8.3.2?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-effect-zio_2.12@8.4.0
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-effect-zio_2.12@8.4.0?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-effect-zio_2.12@8.4.1
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-effect-zio_2.12@8.4.1?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-effect-zio_2.12@8.4.2
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-effect-zio_2.12@8.4.2?classifier=sources

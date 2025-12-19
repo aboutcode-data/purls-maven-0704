@@ -2,3 +2,9 @@
 - pkg:maven/tech.codingless/codingless-mybaties-spring-boot-starter@0.0.16?classifier=sources
 - pkg:maven/tech.codingless/codingless-mybaties-spring-boot-starter@0.0.17
 - pkg:maven/tech.codingless/codingless-mybaties-spring-boot-starter@0.0.17?classifier=sources
+- pkg:maven/tech.codingless/codingless-mybaties-spring-boot-starter@0.0.18
+- pkg:maven/tech.codingless/codingless-mybaties-spring-boot-starter@0.0.18?classifier=sources
+- pkg:maven/tech.codingless/codingless-mybaties-spring-boot-starter@0.1.0
+- pkg:maven/tech.codingless/codingless-mybaties-spring-boot-starter@0.1.0?classifier=sources
+- pkg:maven/tech.codingless/codingless-mybaties-spring-boot-starter@0.1.1
+- pkg:maven/tech.codingless/codingless-mybaties-spring-boot-starter@0.1.1?classifier=sources

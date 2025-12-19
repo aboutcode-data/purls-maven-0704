@@ -1,0 +1,2 @@
+- pkg:maven/org.webpieces.aws/monitoring@2.1.36?classifier=sources
+- pkg:maven/org.webpieces.aws/monitoring@2.1.37?classifier=sources

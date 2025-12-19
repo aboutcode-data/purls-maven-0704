@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/fortawesome__free-brands-svg-icons@5.15.4
+- pkg:maven/org.webjars.npm/fortawesome__free-brands-svg-icons@5.15.4?classifier=sources
 - pkg:maven/org.webjars.npm/fortawesome__free-brands-svg-icons@6.1.1
 - pkg:maven/org.webjars.npm/fortawesome__free-brands-svg-icons@6.1.1?classifier=sources

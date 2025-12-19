@@ -1,0 +1,6 @@
+- pkg:maven/io.github.omzz15/beans@0.0.1-PRERELEASE
+- pkg:maven/io.github.omzz15/beans@0.0.1-PRERELEASE?classifier=sources
+- pkg:maven/io.github.omzz15/beans@0.0.3-PRERELEASE
+- pkg:maven/io.github.omzz15/beans@0.0.3-PRERELEASE?classifier=sources
+- pkg:maven/io.github.omzz15/beans@0.0.5-PRERELEASE
+- pkg:maven/io.github.omzz15/beans@0.0.5-PRERELEASE?classifier=sources

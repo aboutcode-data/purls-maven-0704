@@ -22,3 +22,5 @@
 - pkg:maven/org.kie.kogito/data-index-service-oracle@1.25.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/data-index-service-oracle@1.26.0.Final
 - pkg:maven/org.kie.kogito/data-index-service-oracle@1.26.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/data-index-service-oracle@1.27.0.Final
+- pkg:maven/org.kie.kogito/data-index-service-oracle@1.27.0.Final?classifier=sources

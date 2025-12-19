@@ -1,3 +1,4 @@
+- pkg:maven/org.sklsft.generator/generator-model@4.0.0
 - pkg:maven/org.sklsft.generator/generator-model@4.0.0-M1
 - pkg:maven/org.sklsft.generator/generator-model@4.0.0-M1-1
 - pkg:maven/org.sklsft.generator/generator-model@4.0.0-M1-1?classifier=sources
@@ -6,3 +7,6 @@
 - pkg:maven/org.sklsft.generator/generator-model@4.0.0-M2?classifier=sources
 - pkg:maven/org.sklsft.generator/generator-model@4.0.0-M3
 - pkg:maven/org.sklsft.generator/generator-model@4.0.0-M3?classifier=sources
+- pkg:maven/org.sklsft.generator/generator-model@4.0.0-M4
+- pkg:maven/org.sklsft.generator/generator-model@4.0.0-M4?classifier=sources
+- pkg:maven/org.sklsft.generator/generator-model@4.0.0?classifier=sources

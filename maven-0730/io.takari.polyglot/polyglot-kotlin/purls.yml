@@ -8,3 +8,4 @@
 - pkg:maven/io.takari.polyglot/polyglot-kotlin@0.4.6?classifier=sources
 - pkg:maven/io.takari.polyglot/polyglot-kotlin@0.4.7?classifier=sources
 - pkg:maven/io.takari.polyglot/polyglot-kotlin@0.4.8?classifier=sources
+- pkg:maven/io.takari.polyglot/polyglot-kotlin@0.4.9?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/dev.entao.app/json@0.6.0?classifier=sources
+- pkg:maven/dev.entao.app/json@0.7.0?classifier=sources
+- pkg:maven/dev.entao.app/json@0.7.2?classifier=sources

@@ -10,6 +10,8 @@
 - pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-codegen_2.13@0.5.0?classifier=sources
 - pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-codegen_2.13@0.5.1
 - pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-codegen_2.13@0.5.1?classifier=sources
+- pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-codegen_2.13@0.5.2
+- pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-codegen_2.13@0.5.2?classifier=sources
 - pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-codegen_2.13@0.6.0-test1
 - pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-codegen_2.13@0.6.0-test1?classifier=sources
 - pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-codegen_2.13@0.6.0-test2

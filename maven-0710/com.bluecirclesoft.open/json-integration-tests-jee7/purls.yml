@@ -24,3 +24,7 @@
 - pkg:maven/com.bluecirclesoft.open/json-integration-tests-jee7@0.27?classifier=sources
 - pkg:maven/com.bluecirclesoft.open/json-integration-tests-jee7@0.28
 - pkg:maven/com.bluecirclesoft.open/json-integration-tests-jee7@0.28?classifier=sources
+- pkg:maven/com.bluecirclesoft.open/json-integration-tests-jee7@0.30
+- pkg:maven/com.bluecirclesoft.open/json-integration-tests-jee7@0.30?classifier=sources
+- pkg:maven/com.bluecirclesoft.open/json-integration-tests-jee7@1.0
+- pkg:maven/com.bluecirclesoft.open/json-integration-tests-jee7@1.0?classifier=sources

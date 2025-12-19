@@ -1,0 +1,2 @@
+- pkg:maven/org.scalameta/mtags_3.2.2-RC1-bin-20220912-b5203de-NIGHTLY@0.11.8
+- pkg:maven/org.scalameta/mtags_3.2.2-RC1-bin-20220912-b5203de-NIGHTLY@0.11.8?classifier=sources

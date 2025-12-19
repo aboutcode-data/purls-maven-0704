@@ -38,3 +38,7 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-alidns@2.6.29?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-alidns@2.6.32
 - pkg:maven/com.aliyun/aliyun-java-sdk-alidns@2.6.32?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-alidns@2.7.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-alidns@2.7.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-alidns@3.0.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-alidns@3.0.0?classifier=sources

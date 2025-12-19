@@ -1,0 +1,2 @@
+- pkg:maven/org.virtuslab.scala-cli/config_3@0.1.15
+- pkg:maven/org.virtuslab.scala-cli/config_3@0.1.15?classifier=sources

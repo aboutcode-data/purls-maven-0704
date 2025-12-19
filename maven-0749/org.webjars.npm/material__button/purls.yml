@@ -120,5 +120,7 @@
 - pkg:maven/org.webjars.npm/material__button@6.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__button@7.0.0
 - pkg:maven/org.webjars.npm/material__button@7.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__button@8.0.0
+- pkg:maven/org.webjars.npm/material__button@8.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__button@9.0.0
 - pkg:maven/org.webjars.npm/material__button@9.0.0?classifier=sources

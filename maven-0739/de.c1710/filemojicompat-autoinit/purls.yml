@@ -3,3 +3,5 @@
 - pkg:maven/de.c1710/filemojicompat-autoinit@3.2.1?classifier=sources
 - pkg:maven/de.c1710/filemojicompat-autoinit@3.2.2?classifier=sources
 - pkg:maven/de.c1710/filemojicompat-autoinit@3.2.3?classifier=sources
+- pkg:maven/de.c1710/filemojicompat-autoinit@3.2.4?classifier=sources
+- pkg:maven/de.c1710/filemojicompat-autoinit@3.2.5?classifier=sources

@@ -8,6 +8,10 @@
 - pkg:maven/xyz.erupt/erupt-cloud-server@1.10.11?classifier=sources
 - pkg:maven/xyz.erupt/erupt-cloud-server@1.10.12
 - pkg:maven/xyz.erupt/erupt-cloud-server@1.10.12?classifier=sources
+- pkg:maven/xyz.erupt/erupt-cloud-server@1.10.13
+- pkg:maven/xyz.erupt/erupt-cloud-server@1.10.13?classifier=sources
+- pkg:maven/xyz.erupt/erupt-cloud-server@1.10.14
+- pkg:maven/xyz.erupt/erupt-cloud-server@1.10.14?classifier=sources
 - pkg:maven/xyz.erupt/erupt-cloud-server@1.10.7
 - pkg:maven/xyz.erupt/erupt-cloud-server@1.10.7-rc
 - pkg:maven/xyz.erupt/erupt-cloud-server@1.10.7-rc?classifier=sources

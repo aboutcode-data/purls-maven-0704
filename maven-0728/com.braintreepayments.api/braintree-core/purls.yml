@@ -8,6 +8,9 @@
 - pkg:maven/com.braintreepayments.api/braintree-core@4.11.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/braintree-core@4.12.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/braintree-core@4.13.0?classifier=sources
+- pkg:maven/com.braintreepayments.api/braintree-core@4.14.0?classifier=sources
+- pkg:maven/com.braintreepayments.api/braintree-core@4.15.0?classifier=sources
+- pkg:maven/com.braintreepayments.api/braintree-core@4.16.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/braintree-core@4.2.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/braintree-core@4.3.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/braintree-core@4.4.0?classifier=sources

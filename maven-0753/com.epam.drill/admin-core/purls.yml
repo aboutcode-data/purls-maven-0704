@@ -2,3 +2,6 @@
 - pkg:maven/com.epam.drill/admin-core@0.8.0-76?classifier=sources
 - pkg:maven/com.epam.drill/admin-core@0.8.0-77?classifier=sources
 - pkg:maven/com.epam.drill/admin-core@0.8.0-78?classifier=sources
+- pkg:maven/com.epam.drill/admin-core@0.8.0-79-fix-skip-js-coverage-serialize.0?classifier=sources
+- pkg:maven/com.epam.drill/admin-core@0.8.0-79-fix-skip-js-coverage-serialize.1?classifier=sources
+- pkg:maven/com.epam.drill/admin-core@0.8.0-79?classifier=sources

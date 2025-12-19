@@ -1,0 +1,2 @@
+- pkg:maven/io.github.hyfsy/hot-refresh-plugin-netty@1.2.4
+- pkg:maven/io.github.hyfsy/hot-refresh-plugin-netty@1.2.4?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/ru.kontur.mobile.visualfsm/visualfsm-providers@1.1.0?classifier=sources
+- pkg:maven/ru.kontur.mobile.visualfsm/visualfsm-providers@1.1.1?classifier=sources

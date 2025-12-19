@@ -36,3 +36,5 @@
 - pkg:maven/com.github.jobservice/worker-jobtracking@5.0.0-4?classifier=sources
 - pkg:maven/com.github.jobservice/worker-jobtracking@6.0.0-31
 - pkg:maven/com.github.jobservice/worker-jobtracking@6.0.0-31?classifier=sources
+- pkg:maven/com.github.jobservice/worker-jobtracking@6.0.1-54
+- pkg:maven/com.github.jobservice/worker-jobtracking@6.0.1-54?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.antgroup.antchain.openapi/openapi-saastest6@1.0.11
+- pkg:maven/com.antgroup.antchain.openapi/openapi-saastest6@1.0.11?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-saastest6@1.0.7
+- pkg:maven/com.antgroup.antchain.openapi/openapi-saastest6@1.0.7?classifier=sources

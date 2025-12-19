@@ -45,3 +45,4 @@
 - pkg:maven/com.klibisz.elastiknn/models@7.17.3.0?classifier=sources
 - pkg:maven/com.klibisz.elastiknn/models@7.17.4.0?classifier=sources
 - pkg:maven/com.klibisz.elastiknn/models@7.17.5.0?classifier=sources
+- pkg:maven/com.klibisz.elastiknn/models@7.17.6.0?classifier=sources

@@ -41,3 +41,6 @@
 - pkg:maven/io.quarkus.gizmo/gizmo@1.1.0.Final
 - pkg:maven/io.quarkus.gizmo/gizmo@1.1.0.Final?classifier=source-release&type=zip
 - pkg:maven/io.quarkus.gizmo/gizmo@1.1.0.Final?classifier=sources
+- pkg:maven/io.quarkus.gizmo/gizmo@1.2.0.Final
+- pkg:maven/io.quarkus.gizmo/gizmo@1.2.0.Final?classifier=source-release&type=zip
+- pkg:maven/io.quarkus.gizmo/gizmo@1.2.0.Final?classifier=sources
