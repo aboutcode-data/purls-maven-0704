@@ -1,0 +1,2 @@
+- pkg:maven/io.hawt.tests/hawtio-tests-springboot@2.17.1
+- pkg:maven/io.hawt.tests/hawtio-tests-springboot@2.17.1?classifier=sources

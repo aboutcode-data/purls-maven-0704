@@ -8,3 +8,4 @@
 - pkg:maven/gg.s9y/singularity-sdk-android@1.0.1-alpha.0?classifier=sources
 - pkg:maven/gg.s9y/singularity-sdk-android@1.0.1-beta.0?classifier=sources
 - pkg:maven/gg.s9y/singularity-sdk-android@1.0.2?classifier=sources
+- pkg:maven/gg.s9y/singularity-sdk-android@1.0.3?classifier=sources

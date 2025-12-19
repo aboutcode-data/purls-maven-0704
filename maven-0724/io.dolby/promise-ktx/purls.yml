@@ -2,3 +2,5 @@
 - pkg:maven/io.dolby/promise-ktx@2.7.4?classifier=sources
 - pkg:maven/io.dolby/promise-ktx@2.8.0?classifier=sources
 - pkg:maven/io.dolby/promise-ktx@2.8.1?classifier=sources
+- pkg:maven/io.dolby/promise-ktx@2.9.0?classifier=sources
+- pkg:maven/io.dolby/promise-ktx@2.9.1?classifier=sources

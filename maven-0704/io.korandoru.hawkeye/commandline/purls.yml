@@ -13,3 +13,4 @@
 - pkg:maven/io.korandoru.hawkeye/commandline@1.5.2
 - pkg:maven/io.korandoru.hawkeye/commandline@1.5.3
 - pkg:maven/io.korandoru.hawkeye/commandline@1.5.4
+- pkg:maven/io.korandoru.hawkeye/commandline@1.6.0

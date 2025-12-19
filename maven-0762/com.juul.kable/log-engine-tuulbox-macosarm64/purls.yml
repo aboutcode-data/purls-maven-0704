@@ -5,3 +5,5 @@
 - pkg:maven/com.juul.kable/log-engine-tuulbox-macosarm64@0.20.0?classifier=sources
 - pkg:maven/com.juul.kable/log-engine-tuulbox-macosarm64@0.20.1?classifier=sources
 - pkg:maven/com.juul.kable/log-engine-tuulbox-macosarm64@0.21.0?classifier=sources
+- pkg:maven/com.juul.kable/log-engine-tuulbox-macosarm64@0.22.0?classifier=sources
+- pkg:maven/com.juul.kable/log-engine-tuulbox-macosarm64@0.23.0?classifier=sources

@@ -15,3 +15,4 @@
 - pkg:maven/com.jashmore/avro-spring-cloud-schema-registry-sqs-client@4.3.0?classifier=sources
 - pkg:maven/com.jashmore/avro-spring-cloud-schema-registry-sqs-client@4.4.0?classifier=sources
 - pkg:maven/com.jashmore/avro-spring-cloud-schema-registry-sqs-client@5.0.0?classifier=sources
+- pkg:maven/com.jashmore/avro-spring-cloud-schema-registry-sqs-client@5.1.0?classifier=sources

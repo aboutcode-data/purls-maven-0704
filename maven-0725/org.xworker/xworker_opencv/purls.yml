@@ -1,0 +1,2 @@
+- pkg:maven/org.xworker/xworker_opencv@2.0.2
+- pkg:maven/org.xworker/xworker_opencv@2.0.2?classifier=sources

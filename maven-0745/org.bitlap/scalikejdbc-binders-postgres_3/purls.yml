@@ -1,0 +1,2 @@
+- pkg:maven/org.bitlap/scalikejdbc-binders-postgres_3@0.1.0
+- pkg:maven/org.bitlap/scalikejdbc-binders-postgres_3@0.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.skywalking/aws-firehose-receiver@9.4.0
+- pkg:maven/org.apache.skywalking/aws-firehose-receiver@9.4.0?classifier=sources

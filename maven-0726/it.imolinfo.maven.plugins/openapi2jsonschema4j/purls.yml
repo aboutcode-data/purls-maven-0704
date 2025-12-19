@@ -8,3 +8,5 @@
 - pkg:maven/it.imolinfo.maven.plugins/openapi2jsonschema4j@1.0.3?classifier=sources
 - pkg:maven/it.imolinfo.maven.plugins/openapi2jsonschema4j@1.0.4
 - pkg:maven/it.imolinfo.maven.plugins/openapi2jsonschema4j@1.0.4?classifier=sources
+- pkg:maven/it.imolinfo.maven.plugins/openapi2jsonschema4j@1.0.5
+- pkg:maven/it.imolinfo.maven.plugins/openapi2jsonschema4j@1.0.5?classifier=sources

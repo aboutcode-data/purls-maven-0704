@@ -1,2 +1,4 @@
 - pkg:maven/ai.promoted/deliveryclient@0.0.3
 - pkg:maven/ai.promoted/deliveryclient@0.0.3?classifier=sources
+- pkg:maven/ai.promoted/deliveryclient@0.0.9
+- pkg:maven/ai.promoted/deliveryclient@0.0.9?classifier=sources

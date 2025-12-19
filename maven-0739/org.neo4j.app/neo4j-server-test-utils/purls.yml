@@ -1,2 +1,4 @@
 - pkg:maven/org.neo4j.app/neo4j-server-test-utils@5.5.0
 - pkg:maven/org.neo4j.app/neo4j-server-test-utils@5.5.0?classifier=sources
+- pkg:maven/org.neo4j.app/neo4j-server-test-utils@5.6.0
+- pkg:maven/org.neo4j.app/neo4j-server-test-utils@5.6.0?classifier=sources

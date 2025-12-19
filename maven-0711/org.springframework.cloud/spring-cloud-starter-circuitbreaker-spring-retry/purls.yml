@@ -16,3 +16,4 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-circuitbreaker-spring-retry@2.1.5
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-circuitbreaker-spring-retry@2.1.6
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-circuitbreaker-spring-retry@3.0.0
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-circuitbreaker-spring-retry@3.0.1

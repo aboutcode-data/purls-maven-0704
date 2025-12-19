@@ -70,3 +70,11 @@
 - pkg:maven/io.apiman/apiman-gateway-platforms-war-tomcat8-gateway@3.0.0.Final?type=war
 - pkg:maven/io.apiman/apiman-gateway-platforms-war-tomcat8-gateway@3.0.0.RC6?classifier=sources
 - pkg:maven/io.apiman/apiman-gateway-platforms-war-tomcat8-gateway@3.0.0.RC6?type=war
+- pkg:maven/io.apiman/apiman-gateway-platforms-war-tomcat8-gateway@3.1.0.RC2?classifier=sources
+- pkg:maven/io.apiman/apiman-gateway-platforms-war-tomcat8-gateway@3.1.0.RC2?type=war
+- pkg:maven/io.apiman/apiman-gateway-platforms-war-tomcat8-gateway@3.1.0.RC4?classifier=sources
+- pkg:maven/io.apiman/apiman-gateway-platforms-war-tomcat8-gateway@3.1.0.RC4?type=war
+- pkg:maven/io.apiman/apiman-gateway-platforms-war-tomcat8-gateway@3.1.0.RC6?classifier=sources
+- pkg:maven/io.apiman/apiman-gateway-platforms-war-tomcat8-gateway@3.1.0.RC6?type=war
+- pkg:maven/io.apiman/apiman-gateway-platforms-war-tomcat8-gateway@3.1.1.Final?classifier=sources
+- pkg:maven/io.apiman/apiman-gateway-platforms-war-tomcat8-gateway@3.1.1.Final?type=war

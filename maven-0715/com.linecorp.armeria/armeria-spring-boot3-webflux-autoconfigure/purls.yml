@@ -1,0 +1,1 @@
+- pkg:maven/com.linecorp.armeria/armeria-spring-boot3-webflux-autoconfigure@1.23.1?classifier=sources

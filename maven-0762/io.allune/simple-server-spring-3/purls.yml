@@ -1,0 +1,2 @@
+- pkg:maven/io.allune/simple-server-spring-3@2.15.3
+- pkg:maven/io.allune/simple-server-spring-3@2.15.3?classifier=sources

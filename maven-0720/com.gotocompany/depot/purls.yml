@@ -1,1 +1,3 @@
 - pkg:maven/com.gotocompany/depot@0.1.0?classifier=sources
+- pkg:maven/com.gotocompany/depot@0.4.0?classifier=sources
+- pkg:maven/com.gotocompany/depot@0.4.1?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/biz.aQute/biz.aQute.quantity.library@1.10.0
+- pkg:maven/biz.aQute/biz.aQute.quantity.library@1.10.0?classifier=sources
 - pkg:maven/biz.aQute/biz.aQute.quantity.library@1.6.0
 - pkg:maven/biz.aQute/biz.aQute.quantity.library@1.6.0?classifier=sources
 - pkg:maven/biz.aQute/biz.aQute.quantity.library@1.7.0

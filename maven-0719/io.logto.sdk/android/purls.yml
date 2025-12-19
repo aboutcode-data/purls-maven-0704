@@ -4,3 +4,4 @@
 - pkg:maven/io.logto.sdk/android@1.0.0-alpha.2?classifier=sources
 - pkg:maven/io.logto.sdk/android@1.0.0-alpha.3?classifier=sources
 - pkg:maven/io.logto.sdk/android@1.0.0-rc.0?classifier=sources
+- pkg:maven/io.logto.sdk/android@1.0.0?classifier=sources

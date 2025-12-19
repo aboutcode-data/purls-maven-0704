@@ -9,6 +9,7 @@
 - pkg:maven/com.nablarch.profile/nablarch-web@5u18
 - pkg:maven/com.nablarch.profile/nablarch-web@5u19
 - pkg:maven/com.nablarch.profile/nablarch-web@5u20
+- pkg:maven/com.nablarch.profile/nablarch-web@5u22
 - pkg:maven/com.nablarch.profile/nablarch-web@5u6
 - pkg:maven/com.nablarch.profile/nablarch-web@5u7
 - pkg:maven/com.nablarch.profile/nablarch-web@5u8

@@ -34,3 +34,5 @@
 - pkg:maven/com.qiwenshare/ufop-spring-boot-starter@1.2.2?classifier=sources
 - pkg:maven/com.qiwenshare/ufop-spring-boot-starter@1.2.3
 - pkg:maven/com.qiwenshare/ufop-spring-boot-starter@1.2.3?classifier=sources
+- pkg:maven/com.qiwenshare/ufop-spring-boot-starter@1.2.5
+- pkg:maven/com.qiwenshare/ufop-spring-boot-starter@1.2.5?classifier=sources

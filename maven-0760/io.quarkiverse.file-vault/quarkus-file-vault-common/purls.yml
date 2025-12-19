@@ -1,2 +1,4 @@
 - pkg:maven/io.quarkiverse.file-vault/quarkus-file-vault-common@0.8.0
 - pkg:maven/io.quarkiverse.file-vault/quarkus-file-vault-common@0.8.0?classifier=sources
+- pkg:maven/io.quarkiverse.file-vault/quarkus-file-vault-common@2.0.0
+- pkg:maven/io.quarkiverse.file-vault/quarkus-file-vault-common@2.0.0?classifier=sources

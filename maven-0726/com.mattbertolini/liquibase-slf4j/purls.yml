@@ -14,3 +14,5 @@
 - pkg:maven/com.mattbertolini/liquibase-slf4j@4.0.0?classifier=sources
 - pkg:maven/com.mattbertolini/liquibase-slf4j@4.1.0
 - pkg:maven/com.mattbertolini/liquibase-slf4j@4.1.0?classifier=sources
+- pkg:maven/com.mattbertolini/liquibase-slf4j@5.0.0
+- pkg:maven/com.mattbertolini/liquibase-slf4j@5.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.gitee.zodiacstack/zodiac-seata@1.5.15
+- pkg:maven/com.gitee.zodiacstack/zodiac-seata@1.5.15?classifier=sources

@@ -1,3 +1,4 @@
+- pkg:maven/io.micronaut.azure/micronaut-azure-sdk@3.10.0?classifier=sources
 - pkg:maven/io.micronaut.azure/micronaut-azure-sdk@3.2.0?classifier=sources
 - pkg:maven/io.micronaut.azure/micronaut-azure-sdk@3.2.1?classifier=sources
 - pkg:maven/io.micronaut.azure/micronaut-azure-sdk@3.2.2?classifier=sources
@@ -11,5 +12,9 @@
 - pkg:maven/io.micronaut.azure/micronaut-azure-sdk@3.8.0?classifier=sources
 - pkg:maven/io.micronaut.azure/micronaut-azure-sdk@3.8.1?classifier=sources
 - pkg:maven/io.micronaut.azure/micronaut-azure-sdk@3.9.0?classifier=sources
+- pkg:maven/io.micronaut.azure/micronaut-azure-sdk@3.9.1?classifier=sources
 - pkg:maven/io.micronaut.azure/micronaut-azure-sdk@4.0.0?classifier=sources
 - pkg:maven/io.micronaut.azure/micronaut-azure-sdk@4.0.1?classifier=sources
+- pkg:maven/io.micronaut.azure/micronaut-azure-sdk@4.0.2?classifier=sources
+- pkg:maven/io.micronaut.azure/micronaut-azure-sdk@4.1.0?classifier=sources
+- pkg:maven/io.micronaut.azure/micronaut-azure-sdk@5.0.0-M1?classifier=sources

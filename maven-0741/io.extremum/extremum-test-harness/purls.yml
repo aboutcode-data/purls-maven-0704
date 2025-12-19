@@ -1,0 +1,4 @@
+- pkg:maven/io.extremum/extremum-test-harness@2.1.19
+- pkg:maven/io.extremum/extremum-test-harness@2.1.19?classifier=sources
+- pkg:maven/io.extremum/extremum-test-harness@3.0.0
+- pkg:maven/io.extremum/extremum-test-harness@3.0.0?classifier=sources

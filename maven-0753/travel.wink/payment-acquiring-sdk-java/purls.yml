@@ -48,3 +48,9 @@
 - pkg:maven/travel.wink/payment-acquiring-sdk-java@24.3.3?classifier=sources
 - pkg:maven/travel.wink/payment-acquiring-sdk-java@24.7.0
 - pkg:maven/travel.wink/payment-acquiring-sdk-java@24.7.0?classifier=sources
+- pkg:maven/travel.wink/payment-acquiring-sdk-java@25.0.3
+- pkg:maven/travel.wink/payment-acquiring-sdk-java@25.0.3?classifier=sources
+- pkg:maven/travel.wink/payment-acquiring-sdk-java@25.1.0
+- pkg:maven/travel.wink/payment-acquiring-sdk-java@25.1.0?classifier=sources
+- pkg:maven/travel.wink/payment-acquiring-sdk-java@25.2.3
+- pkg:maven/travel.wink/payment-acquiring-sdk-java@25.2.3?classifier=sources

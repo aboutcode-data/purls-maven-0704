@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/khanacademy__simple-markdown@0.8.6
+- pkg:maven/org.webjars.npm/khanacademy__simple-markdown@0.8.6?classifier=sources

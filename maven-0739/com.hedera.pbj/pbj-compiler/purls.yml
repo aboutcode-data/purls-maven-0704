@@ -5,3 +5,6 @@
 - pkg:maven/com.hedera.pbj/pbj-compiler@0.3.0?classifier=sources
 - pkg:maven/com.hedera.pbj/pbj-compiler@0.3.1?classifier=sources
 - pkg:maven/com.hedera.pbj/pbj-compiler@0.4.0?classifier=sources
+- pkg:maven/com.hedera.pbj/pbj-compiler@0.5.0?classifier=sources
+- pkg:maven/com.hedera.pbj/pbj-compiler@0.5.1?classifier=sources
+- pkg:maven/com.hedera.pbj/pbj-compiler@0.5.2?classifier=sources

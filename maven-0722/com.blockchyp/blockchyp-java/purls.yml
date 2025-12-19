@@ -68,6 +68,16 @@
 - pkg:maven/com.blockchyp/blockchyp-java@2.14.3?classifier=sources
 - pkg:maven/com.blockchyp/blockchyp-java@2.14.4
 - pkg:maven/com.blockchyp/blockchyp-java@2.14.4?classifier=sources
+- pkg:maven/com.blockchyp/blockchyp-java@2.15.10
+- pkg:maven/com.blockchyp/blockchyp-java@2.15.10?classifier=sources
+- pkg:maven/com.blockchyp/blockchyp-java@2.15.11
+- pkg:maven/com.blockchyp/blockchyp-java@2.15.11?classifier=sources
+- pkg:maven/com.blockchyp/blockchyp-java@2.15.13
+- pkg:maven/com.blockchyp/blockchyp-java@2.15.13?classifier=sources
+- pkg:maven/com.blockchyp/blockchyp-java@2.15.14
+- pkg:maven/com.blockchyp/blockchyp-java@2.15.14?classifier=sources
+- pkg:maven/com.blockchyp/blockchyp-java@2.15.15
+- pkg:maven/com.blockchyp/blockchyp-java@2.15.15?classifier=sources
 - pkg:maven/com.blockchyp/blockchyp-java@2.15.5
 - pkg:maven/com.blockchyp/blockchyp-java@2.15.5?classifier=sources
 - pkg:maven/com.blockchyp/blockchyp-java@2.15.6

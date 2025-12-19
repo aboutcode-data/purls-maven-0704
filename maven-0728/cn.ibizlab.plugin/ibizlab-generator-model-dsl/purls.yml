@@ -1,0 +1,2 @@
+- pkg:maven/cn.ibizlab.plugin/ibizlab-generator-model-dsl@1.0.5-zjc
+- pkg:maven/cn.ibizlab.plugin/ibizlab-generator-model-dsl@1.0.5-zjc?classifier=sources

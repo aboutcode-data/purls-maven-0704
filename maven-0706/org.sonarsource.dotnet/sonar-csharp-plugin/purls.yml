@@ -93,3 +93,4 @@
 - pkg:maven/org.sonarsource.dotnet/sonar-csharp-plugin@8.51.0.59060?classifier=sources
 - pkg:maven/org.sonarsource.dotnet/sonar-csharp-plugin@8.52.0.60960?classifier=sources
 - pkg:maven/org.sonarsource.dotnet/sonar-csharp-plugin@8.54.0.64047?classifier=sources
+- pkg:maven/org.sonarsource.dotnet/sonar-csharp-plugin@8.55.0.65544?classifier=sources

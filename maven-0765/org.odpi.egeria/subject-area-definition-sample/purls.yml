@@ -58,3 +58,4 @@
 - pkg:maven/org.odpi.egeria/subject-area-definition-sample@3.8?classifier=sources
 - pkg:maven/org.odpi.egeria/subject-area-definition-sample@3.9
 - pkg:maven/org.odpi.egeria/subject-area-definition-sample@3.9?classifier=sources
+- pkg:maven/org.odpi.egeria/subject-area-definition-sample@4.0?classifier=sources

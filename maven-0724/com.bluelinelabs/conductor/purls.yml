@@ -76,3 +76,5 @@
 - pkg:maven/com.bluelinelabs/conductor@3.1.8?classifier=sources
 - pkg:maven/com.bluelinelabs/conductor@3.1.9?classifier=sources
 - pkg:maven/com.bluelinelabs/conductor@3.2.0?classifier=sources
+- pkg:maven/com.bluelinelabs/conductor@4.0.0-preview-1?classifier=sources
+- pkg:maven/com.bluelinelabs/conductor@4.0.0-preview-2?classifier=sources

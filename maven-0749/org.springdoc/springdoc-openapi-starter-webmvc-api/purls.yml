@@ -26,3 +26,5 @@
 - pkg:maven/org.springdoc/springdoc-openapi-starter-webmvc-api@2.0.3?classifier=sources
 - pkg:maven/org.springdoc/springdoc-openapi-starter-webmvc-api@2.0.4
 - pkg:maven/org.springdoc/springdoc-openapi-starter-webmvc-api@2.0.4?classifier=sources
+- pkg:maven/org.springdoc/springdoc-openapi-starter-webmvc-api@2.1.0
+- pkg:maven/org.springdoc/springdoc-openapi-starter-webmvc-api@2.1.0?classifier=sources

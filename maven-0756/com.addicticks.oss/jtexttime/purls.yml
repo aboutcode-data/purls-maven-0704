@@ -4,3 +4,5 @@
 - pkg:maven/com.addicticks.oss/jtexttime@1.2.1?classifier=sources
 - pkg:maven/com.addicticks.oss/jtexttime@1.2.2
 - pkg:maven/com.addicticks.oss/jtexttime@1.2.2?classifier=sources
+- pkg:maven/com.addicticks.oss/jtexttime@2.0.0
+- pkg:maven/com.addicticks.oss/jtexttime@2.0.0?classifier=sources

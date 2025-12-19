@@ -109,6 +109,7 @@
 - pkg:maven/org.opendaylight.netconf/restconf-common-models@3.0.6?classifier=sources
 - pkg:maven/org.opendaylight.netconf/restconf-common-models@3.0.7?classifier=sources
 - pkg:maven/org.opendaylight.netconf/restconf-common-models@3.0.8?classifier=sources
+- pkg:maven/org.opendaylight.netconf/restconf-common-models@3.0.9?classifier=sources
 - pkg:maven/org.opendaylight.netconf/restconf-common-models@4.0.0
 - pkg:maven/org.opendaylight.netconf/restconf-common-models@4.0.0?classifier=sources
 - pkg:maven/org.opendaylight.netconf/restconf-common-models@4.0.1
@@ -123,3 +124,5 @@
 - pkg:maven/org.opendaylight.netconf/restconf-common-models@5.0.1?classifier=sources
 - pkg:maven/org.opendaylight.netconf/restconf-common-models@5.0.2?classifier=sources
 - pkg:maven/org.opendaylight.netconf/restconf-common-models@5.0.3?classifier=sources
+- pkg:maven/org.opendaylight.netconf/restconf-common-models@5.0.4
+- pkg:maven/org.opendaylight.netconf/restconf-common-models@5.0.4?classifier=sources

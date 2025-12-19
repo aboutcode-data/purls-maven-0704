@@ -34,3 +34,5 @@
 - pkg:maven/io.toolforge/service@0.0.40?classifier=sources
 - pkg:maven/io.toolforge/service@0.0.41
 - pkg:maven/io.toolforge/service@0.0.41?classifier=sources
+- pkg:maven/io.toolforge/service@0.0.42
+- pkg:maven/io.toolforge/service@0.0.42?classifier=sources

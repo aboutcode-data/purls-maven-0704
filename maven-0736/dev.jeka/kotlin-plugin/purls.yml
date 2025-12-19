@@ -1,5 +1,17 @@
 - pkg:maven/dev.jeka/kotlin-plugin@0.10.10
 - pkg:maven/dev.jeka/kotlin-plugin@0.10.10?classifier=sources
+- pkg:maven/dev.jeka/kotlin-plugin@0.10.11
+- pkg:maven/dev.jeka/kotlin-plugin@0.10.11?classifier=sources
+- pkg:maven/dev.jeka/kotlin-plugin@0.10.12
+- pkg:maven/dev.jeka/kotlin-plugin@0.10.12?classifier=sources
+- pkg:maven/dev.jeka/kotlin-plugin@0.10.13
+- pkg:maven/dev.jeka/kotlin-plugin@0.10.13?classifier=sources
+- pkg:maven/dev.jeka/kotlin-plugin@0.10.14
+- pkg:maven/dev.jeka/kotlin-plugin@0.10.14?classifier=sources
+- pkg:maven/dev.jeka/kotlin-plugin@0.10.15
+- pkg:maven/dev.jeka/kotlin-plugin@0.10.15?classifier=sources
+- pkg:maven/dev.jeka/kotlin-plugin@0.10.16
+- pkg:maven/dev.jeka/kotlin-plugin@0.10.16?classifier=sources
 - pkg:maven/dev.jeka/kotlin-plugin@0.10.3
 - pkg:maven/dev.jeka/kotlin-plugin@0.10.3?classifier=sources
 - pkg:maven/dev.jeka/kotlin-plugin@0.10.4

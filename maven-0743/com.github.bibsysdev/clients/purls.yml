@@ -1,0 +1,7 @@
+- pkg:maven/com.github.bibsysdev/clients@1.27.10?classifier=sources
+- pkg:maven/com.github.bibsysdev/clients@1.27.11?classifier=sources
+- pkg:maven/com.github.bibsysdev/clients@1.27.12?classifier=sources
+- pkg:maven/com.github.bibsysdev/clients@1.27.7?classifier=sources
+- pkg:maven/com.github.bibsysdev/clients@1.27.8?classifier=sources
+- pkg:maven/com.github.bibsysdev/clients@1.27.9?classifier=sources
+- pkg:maven/com.github.bibsysdev/clients@1.28.0?classifier=sources

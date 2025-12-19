@@ -12,3 +12,7 @@
 - pkg:maven/se.sundsvall.dept44/dept44-starter-webservicetemplate@1.31?classifier=sources
 - pkg:maven/se.sundsvall.dept44/dept44-starter-webservicetemplate@1.32
 - pkg:maven/se.sundsvall.dept44/dept44-starter-webservicetemplate@1.32?classifier=sources
+- pkg:maven/se.sundsvall.dept44/dept44-starter-webservicetemplate@1.33
+- pkg:maven/se.sundsvall.dept44/dept44-starter-webservicetemplate@1.33?classifier=sources
+- pkg:maven/se.sundsvall.dept44/dept44-starter-webservicetemplate@1.34
+- pkg:maven/se.sundsvall.dept44/dept44-starter-webservicetemplate@1.34?classifier=sources

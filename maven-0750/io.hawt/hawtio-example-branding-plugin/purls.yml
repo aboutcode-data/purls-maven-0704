@@ -1,0 +1,4 @@
+- pkg:maven/io.hawt/hawtio-example-branding-plugin@3.0-M3?classifier=sources
+- pkg:maven/io.hawt/hawtio-example-branding-plugin@3.0-M3?type=war
+- pkg:maven/io.hawt/hawtio-example-branding-plugin@3.0-M4?classifier=sources
+- pkg:maven/io.hawt/hawtio-example-branding-plugin@3.0-M4?type=war

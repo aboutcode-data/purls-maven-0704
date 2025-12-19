@@ -8,3 +8,5 @@
 - pkg:maven/cn.ibizlab.plugin/ibizlab-generator-plugin@1.0.3?classifier=sources
 - pkg:maven/cn.ibizlab.plugin/ibizlab-generator-plugin@1.0.4
 - pkg:maven/cn.ibizlab.plugin/ibizlab-generator-plugin@1.0.4?classifier=sources
+- pkg:maven/cn.ibizlab.plugin/ibizlab-generator-plugin@1.0.5-zjc
+- pkg:maven/cn.ibizlab.plugin/ibizlab-generator-plugin@1.0.5-zjc?classifier=sources

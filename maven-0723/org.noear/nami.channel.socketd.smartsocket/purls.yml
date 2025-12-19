@@ -421,9 +421,16 @@
 - pkg:maven/org.noear/nami.channel.socketd.smartsocket@2.2.0-M2
 - pkg:maven/org.noear/nami.channel.socketd.smartsocket@2.2.0-RC
 - pkg:maven/org.noear/nami.channel.socketd.smartsocket@2.2.1
+- pkg:maven/org.noear/nami.channel.socketd.smartsocket@2.2.10
+- pkg:maven/org.noear/nami.channel.socketd.smartsocket@2.2.11
+- pkg:maven/org.noear/nami.channel.socketd.smartsocket@2.2.11-M1
 - pkg:maven/org.noear/nami.channel.socketd.smartsocket@2.2.2
 - pkg:maven/org.noear/nami.channel.socketd.smartsocket@2.2.3
 - pkg:maven/org.noear/nami.channel.socketd.smartsocket@2.2.3-M1
 - pkg:maven/org.noear/nami.channel.socketd.smartsocket@2.2.4
 - pkg:maven/org.noear/nami.channel.socketd.smartsocket@2.2.4-M1
 - pkg:maven/org.noear/nami.channel.socketd.smartsocket@2.2.5
+- pkg:maven/org.noear/nami.channel.socketd.smartsocket@2.2.6
+- pkg:maven/org.noear/nami.channel.socketd.smartsocket@2.2.7
+- pkg:maven/org.noear/nami.channel.socketd.smartsocket@2.2.8
+- pkg:maven/org.noear/nami.channel.socketd.smartsocket@2.2.9

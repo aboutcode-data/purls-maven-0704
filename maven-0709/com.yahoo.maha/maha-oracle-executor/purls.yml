@@ -52,6 +52,12 @@
 - pkg:maven/com.yahoo.maha/maha-oracle-executor@6.128?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-oracle-executor@6.129
 - pkg:maven/com.yahoo.maha/maha-oracle-executor@6.129?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-oracle-executor@6.132
+- pkg:maven/com.yahoo.maha/maha-oracle-executor@6.132?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-oracle-executor@6.133
+- pkg:maven/com.yahoo.maha/maha-oracle-executor@6.133?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-oracle-executor@6.135
+- pkg:maven/com.yahoo.maha/maha-oracle-executor@6.135?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-oracle-executor@6.53
 - pkg:maven/com.yahoo.maha/maha-oracle-executor@6.53?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-oracle-executor@6.54

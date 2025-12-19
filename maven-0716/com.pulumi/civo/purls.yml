@@ -4,6 +4,7 @@
 - pkg:maven/com.pulumi/civo@2.3.1?classifier=sources
 - pkg:maven/com.pulumi/civo@2.3.2?classifier=sources
 - pkg:maven/com.pulumi/civo@2.3.3?classifier=sources
+- pkg:maven/com.pulumi/civo@2.3.4?classifier=sources
 - pkg:maven/com.pulumi/civo@2.4.0-alpha.1673372479%2B4daf0edb?classifier=sources
 - pkg:maven/com.pulumi/civo@2.4.0-alpha.1673415876%2Be0a3cc8e?classifier=sources
 - pkg:maven/com.pulumi/civo@2.4.0-alpha.1673555625%2Bc97e55d7?classifier=sources
@@ -14,3 +15,7 @@
 - pkg:maven/com.pulumi/civo@2.4.0-alpha.1677781715%2B72d180b2?classifier=sources
 - pkg:maven/com.pulumi/civo@2.4.0-alpha.1678160084%2B1d93576d?classifier=sources
 - pkg:maven/com.pulumi/civo@2.4.0-alpha.1678299611%2Be00d2eb3?classifier=sources
+- pkg:maven/com.pulumi/civo@2.4.0-alpha.1679333735%2B4b0a958f?classifier=sources
+- pkg:maven/com.pulumi/civo@2.4.0-alpha.1679413058%2Bb38aba39?classifier=sources
+- pkg:maven/com.pulumi/civo@2.4.0-alpha.1679928936%2Be7ebcbe6?classifier=sources
+- pkg:maven/com.pulumi/civo@2.4.0-alpha.1680907933%2Bc169dea2?classifier=sources

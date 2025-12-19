@@ -1,0 +1,2 @@
+- pkg:maven/io.github.otaka/swtlayoutbuilder@0.1
+- pkg:maven/io.github.otaka/swtlayoutbuilder@0.1?classifier=sources

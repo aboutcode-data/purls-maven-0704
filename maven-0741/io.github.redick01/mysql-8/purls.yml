@@ -1,0 +1,2 @@
+- pkg:maven/io.github.redick01/mysql-8@1.0.4-RELEASE
+- pkg:maven/io.github.redick01/mysql-8@1.0.4-RELEASE?classifier=sources

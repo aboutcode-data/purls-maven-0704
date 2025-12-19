@@ -117,6 +117,8 @@
 - pkg:maven/com.azure/azure-cosmos@4.4.0?classifier=sources
 - pkg:maven/com.azure/azure-cosmos@4.40.0?classifier=sources
 - pkg:maven/com.azure/azure-cosmos@4.41.0?classifier=sources
+- pkg:maven/com.azure/azure-cosmos@4.42.0?classifier=sources
+- pkg:maven/com.azure/azure-cosmos@4.43.0?classifier=sources
 - pkg:maven/com.azure/azure-cosmos@4.5.0
 - pkg:maven/com.azure/azure-cosmos@4.5.0?classifier=sources
 - pkg:maven/com.azure/azure-cosmos@4.5.1

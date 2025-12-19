@@ -2,3 +2,4 @@
 - pkg:maven/com.qcloud.cos/quic@1.5.30?type=aar
 - pkg:maven/com.qcloud.cos/quic@1.5.37?type=aar
 - pkg:maven/com.qcloud.cos/quic@1.5.38?type=aar
+- pkg:maven/com.qcloud.cos/quic@1.5.39?type=aar

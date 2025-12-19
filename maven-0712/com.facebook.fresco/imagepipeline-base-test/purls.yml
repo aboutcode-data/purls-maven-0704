@@ -62,3 +62,4 @@
 - pkg:maven/com.facebook.fresco/imagepipeline-base-test@2.3.0?type=aar
 - pkg:maven/com.facebook.fresco/imagepipeline-base-test@2.5.0?classifier=sources
 - pkg:maven/com.facebook.fresco/imagepipeline-base-test@2.6.0?classifier=sources
+- pkg:maven/com.facebook.fresco/imagepipeline-base-test@3.0.0?classifier=sources

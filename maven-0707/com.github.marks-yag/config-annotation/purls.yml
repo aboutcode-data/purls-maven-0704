@@ -24,3 +24,5 @@
 - pkg:maven/com.github.marks-yag/config-annotation@0.12.7?classifier=sources
 - pkg:maven/com.github.marks-yag/config-annotation@0.12.8
 - pkg:maven/com.github.marks-yag/config-annotation@0.12.8?classifier=sources
+- pkg:maven/com.github.marks-yag/config-annotation@0.13.0
+- pkg:maven/com.github.marks-yag/config-annotation@0.13.0?classifier=sources

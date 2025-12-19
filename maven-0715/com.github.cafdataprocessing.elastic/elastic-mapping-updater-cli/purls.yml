@@ -16,3 +16,5 @@
 - pkg:maven/com.github.cafdataprocessing.elastic/elastic-mapping-updater-cli@2.3.0-507?classifier=sources
 - pkg:maven/com.github.cafdataprocessing.elastic/elastic-mapping-updater-cli@2.4.0-518
 - pkg:maven/com.github.cafdataprocessing.elastic/elastic-mapping-updater-cli@2.4.0-518?classifier=sources
+- pkg:maven/com.github.cafdataprocessing.elastic/elastic-mapping-updater-cli@2.4.1-540
+- pkg:maven/com.github.cafdataprocessing.elastic/elastic-mapping-updater-cli@2.4.1-540?classifier=sources

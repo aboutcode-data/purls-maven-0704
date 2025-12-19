@@ -1,0 +1,2 @@
+- pkg:maven/com.sparrowzoo/sparrow-orm@1.0.0-RELEASE
+- pkg:maven/com.sparrowzoo/sparrow-orm@1.0.0-RELEASE?classifier=sources

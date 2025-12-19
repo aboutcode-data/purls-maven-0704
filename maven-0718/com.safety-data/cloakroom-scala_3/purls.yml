@@ -1,0 +1,4 @@
+- pkg:maven/com.safety-data/cloakroom-scala_3@0.5.10
+- pkg:maven/com.safety-data/cloakroom-scala_3@0.5.10?classifier=sources
+- pkg:maven/com.safety-data/cloakroom-scala_3@0.5.11
+- pkg:maven/com.safety-data/cloakroom-scala_3@0.5.11?classifier=sources

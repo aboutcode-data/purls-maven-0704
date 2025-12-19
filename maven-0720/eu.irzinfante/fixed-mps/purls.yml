@@ -16,3 +16,5 @@
 - pkg:maven/eu.irzinfante/fixed-mps@1.0.2?classifier=sources
 - pkg:maven/eu.irzinfante/fixed-mps@1.1.0
 - pkg:maven/eu.irzinfante/fixed-mps@1.1.0?classifier=sources
+- pkg:maven/eu.irzinfante/fixed-mps@1.1.1
+- pkg:maven/eu.irzinfante/fixed-mps@1.1.1?classifier=sources

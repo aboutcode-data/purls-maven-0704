@@ -56,3 +56,5 @@
 - pkg:maven/com.sksamuel.avro4s/avro4s-refined_2.12@4.0.9?classifier=sources
 - pkg:maven/com.sksamuel.avro4s/avro4s-refined_2.12@4.1.0
 - pkg:maven/com.sksamuel.avro4s/avro4s-refined_2.12@4.1.0?classifier=sources
+- pkg:maven/com.sksamuel.avro4s/avro4s-refined_2.12@4.1.1
+- pkg:maven/com.sksamuel.avro4s/avro4s-refined_2.12@4.1.1?classifier=sources

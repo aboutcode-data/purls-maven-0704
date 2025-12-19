@@ -43,3 +43,9 @@
 - pkg:maven/com.epam.healenium/healenium-web@3.3.0?classifier=sources
 - pkg:maven/com.epam.healenium/healenium-web@3.3.1
 - pkg:maven/com.epam.healenium/healenium-web@3.3.1?classifier=sources
+- pkg:maven/com.epam.healenium/healenium-web@3.4.0
+- pkg:maven/com.epam.healenium/healenium-web@3.4.0?classifier=sources
+- pkg:maven/com.epam.healenium/healenium-web@3.4.1
+- pkg:maven/com.epam.healenium/healenium-web@3.4.1?classifier=sources
+- pkg:maven/com.epam.healenium/healenium-web@3.4.2
+- pkg:maven/com.epam.healenium/healenium-web@3.4.2?classifier=sources

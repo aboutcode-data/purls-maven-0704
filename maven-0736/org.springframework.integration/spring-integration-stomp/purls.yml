@@ -206,6 +206,8 @@
 - pkg:maven/org.springframework.integration/spring-integration-stomp@5.5.15?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-stomp@5.5.16
 - pkg:maven/org.springframework.integration/spring-integration-stomp@5.5.16?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-stomp@5.5.17
+- pkg:maven/org.springframework.integration/spring-integration-stomp@5.5.17?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-stomp@5.5.1?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-stomp@5.5.2
 - pkg:maven/org.springframework.integration/spring-integration-stomp@5.5.2?classifier=sources
@@ -231,3 +233,5 @@
 - pkg:maven/org.springframework.integration/spring-integration-stomp@6.0.2?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-stomp@6.0.3
 - pkg:maven/org.springframework.integration/spring-integration-stomp@6.0.3?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-stomp@6.0.4
+- pkg:maven/org.springframework.integration/spring-integration-stomp@6.0.4?classifier=sources

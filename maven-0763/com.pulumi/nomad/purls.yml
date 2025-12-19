@@ -5,3 +5,6 @@
 - pkg:maven/com.pulumi/nomad@0.3.1-alpha.1675109007%2B042830b2?classifier=sources
 - pkg:maven/com.pulumi/nomad@0.4.0?classifier=sources
 - pkg:maven/com.pulumi/nomad@0.4.1-alpha.1677786295%2B15625556?classifier=sources
+- pkg:maven/com.pulumi/nomad@0.4.1-alpha.1679335093%2B4a7a716e?classifier=sources
+- pkg:maven/com.pulumi/nomad@0.4.1-alpha.1679417018%2B85ba71bf?classifier=sources
+- pkg:maven/com.pulumi/nomad@0.4.1-alpha.1680909915%2B04bd7388?classifier=sources

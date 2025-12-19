@@ -8,3 +8,5 @@
 - pkg:maven/br.usp.each.saeg/ba-dua-agent@0.6.0?classifier=sources
 - pkg:maven/br.usp.each.saeg/ba-dua-agent@0.7.0
 - pkg:maven/br.usp.each.saeg/ba-dua-agent@0.7.0?classifier=sources
+- pkg:maven/br.usp.each.saeg/ba-dua-agent@0.8.0
+- pkg:maven/br.usp.each.saeg/ba-dua-agent@0.8.0?classifier=sources

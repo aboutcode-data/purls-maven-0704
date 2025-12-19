@@ -8,3 +8,4 @@
 - pkg:maven/com.lightningkite.khrysalis/com.lightningkite.khrysalis.gradle.plugin@1.0.0-rc5?classifier=sources
 - pkg:maven/com.lightningkite.khrysalis/com.lightningkite.khrysalis.gradle.plugin@1.0.1?classifier=sources
 - pkg:maven/com.lightningkite.khrysalis/com.lightningkite.khrysalis.gradle.plugin@1.0.2?classifier=sources
+- pkg:maven/com.lightningkite.khrysalis/com.lightningkite.khrysalis.gradle.plugin@1.0.4?classifier=sources

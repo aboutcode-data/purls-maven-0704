@@ -378,6 +378,10 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.aws-java-sdk@1.12.394_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.aws-java-sdk@1.12.394_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.aws-java-sdk@1.12.394_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.aws-java-sdk@1.12.420_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.aws-java-sdk@1.12.420_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.aws-java-sdk@1.12.420_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.aws-java-sdk@1.12.420_1?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.aws-java-sdk@1.12.57_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.aws-java-sdk@1.12.57_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.aws-java-sdk@1.12.57_1?classifier=src&type=tar.gz

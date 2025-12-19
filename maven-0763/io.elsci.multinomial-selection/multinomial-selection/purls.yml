@@ -1,0 +1,2 @@
+- pkg:maven/io.elsci.multinomial-selection/multinomial-selection@0.1.0
+- pkg:maven/io.elsci.multinomial-selection/multinomial-selection@0.1.0?classifier=sources

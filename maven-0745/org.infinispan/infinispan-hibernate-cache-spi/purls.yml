@@ -226,6 +226,8 @@
 - pkg:maven/org.infinispan/infinispan-hibernate-cache-spi@14.0.6.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-hibernate-cache-spi@14.0.7.Final
 - pkg:maven/org.infinispan/infinispan-hibernate-cache-spi@14.0.7.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-hibernate-cache-spi@14.0.8.Final
+- pkg:maven/org.infinispan/infinispan-hibernate-cache-spi@14.0.8.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-hibernate-cache-spi@9.2.2.Final
 - pkg:maven/org.infinispan/infinispan-hibernate-cache-spi@9.2.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-hibernate-cache-spi@9.2.3.Final

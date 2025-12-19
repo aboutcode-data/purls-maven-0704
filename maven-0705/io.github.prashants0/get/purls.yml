@@ -1,0 +1,2 @@
+- pkg:maven/io.github.prashants0/get@2.0
+- pkg:maven/io.github.prashants0/get@2.0?classifier=sources

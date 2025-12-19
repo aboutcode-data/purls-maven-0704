@@ -4,3 +4,4 @@
 - pkg:maven/fr.lixbox.lixbox-common/lixbox-mail@11.1.2.14?classifier=sources
 - pkg:maven/fr.lixbox.lixbox-common/lixbox-mail@11.1.2.6?classifier=sources
 - pkg:maven/fr.lixbox.lixbox-common/lixbox-mail@11.1.2.7?classifier=sources
+- pkg:maven/fr.lixbox.lixbox-common/lixbox-mail@7.1.2.3?classifier=sources

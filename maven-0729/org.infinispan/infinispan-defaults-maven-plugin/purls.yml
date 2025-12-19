@@ -226,6 +226,8 @@
 - pkg:maven/org.infinispan/infinispan-defaults-maven-plugin@14.0.6.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-defaults-maven-plugin@14.0.7.Final
 - pkg:maven/org.infinispan/infinispan-defaults-maven-plugin@14.0.7.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-defaults-maven-plugin@14.0.8.Final
+- pkg:maven/org.infinispan/infinispan-defaults-maven-plugin@14.0.8.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-defaults-maven-plugin@9.0.0.Beta2
 - pkg:maven/org.infinispan/infinispan-defaults-maven-plugin@9.0.0.Beta2?classifier=sources
 - pkg:maven/org.infinispan/infinispan-defaults-maven-plugin@9.0.0.CR1

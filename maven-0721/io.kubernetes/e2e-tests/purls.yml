@@ -23,4 +23,5 @@
 - pkg:maven/io.kubernetes/e2e-tests@16.0.3
 - pkg:maven/io.kubernetes/e2e-tests@17.0.0
 - pkg:maven/io.kubernetes/e2e-tests@17.0.1
+- pkg:maven/io.kubernetes/e2e-tests@17.0.2
 - pkg:maven/io.kubernetes/e2e-tests@18.0.0

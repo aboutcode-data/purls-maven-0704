@@ -14,3 +14,9 @@
 - pkg:maven/software.amazon.awsconstructs/wafwebaclappsync@2.33.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/wafwebaclappsync@2.34.0
 - pkg:maven/software.amazon.awsconstructs/wafwebaclappsync@2.34.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/wafwebaclappsync@2.35.0
+- pkg:maven/software.amazon.awsconstructs/wafwebaclappsync@2.35.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/wafwebaclappsync@2.36.0
+- pkg:maven/software.amazon.awsconstructs/wafwebaclappsync@2.36.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/wafwebaclappsync@2.37.0
+- pkg:maven/software.amazon.awsconstructs/wafwebaclappsync@2.37.0?classifier=sources
