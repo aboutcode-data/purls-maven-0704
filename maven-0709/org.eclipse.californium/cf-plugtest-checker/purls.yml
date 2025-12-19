@@ -4,3 +4,5 @@
 - pkg:maven/org.eclipse.californium/cf-plugtest-checker@1.0.0-M3?classifier=sources
 - pkg:maven/org.eclipse.californium/cf-plugtest-checker@3.2.0
 - pkg:maven/org.eclipse.californium/cf-plugtest-checker@3.2.0?classifier=sources
+- pkg:maven/org.eclipse.californium/cf-plugtest-checker@3.3.0
+- pkg:maven/org.eclipse.californium/cf-plugtest-checker@3.3.0?classifier=sources

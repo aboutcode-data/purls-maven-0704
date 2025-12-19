@@ -7,3 +7,5 @@
 - pkg:maven/org.jreleaser/jdks-maven-plugin@0.8.0?classifier=sources
 - pkg:maven/org.jreleaser/jdks-maven-plugin@0.9.0?classifier=sources
 - pkg:maven/org.jreleaser/jdks-maven-plugin@0.9.1?classifier=sources
+- pkg:maven/org.jreleaser/jdks-maven-plugin@1.0.0-M1?classifier=sources
+- pkg:maven/org.jreleaser/jdks-maven-plugin@1.0.0-M2?classifier=sources

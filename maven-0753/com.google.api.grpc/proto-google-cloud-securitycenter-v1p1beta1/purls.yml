@@ -76,3 +76,5 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-securitycenter-v1p1beta1@0.98.1?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-securitycenter-v1p1beta1@0.98.2
 - pkg:maven/com.google.api.grpc/proto-google-cloud-securitycenter-v1p1beta1@0.98.2?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-securitycenter-v1p1beta1@0.99.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-securitycenter-v1p1beta1@0.99.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.github.cinpecan/deponder@0.0.2?classifier=sources
+- pkg:maven/io.github.cinpecan/deponder@0.02?classifier=sources
+- pkg:maven/io.github.cinpecan/deponder@v-0.01?classifier=sources
+- pkg:maven/io.github.cinpecan/deponder@v-0.02?classifier=sources

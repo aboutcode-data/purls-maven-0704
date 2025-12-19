@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-markedjs-marked@4.0.10
+- pkg:maven/org.webjars.npm/github-com-markedjs-marked@4.0.10?classifier=sources

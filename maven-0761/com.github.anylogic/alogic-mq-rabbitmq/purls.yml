@@ -1,0 +1,2 @@
+- pkg:maven/com.github.anylogic/alogic-mq-rabbitmq@1.6.15
+- pkg:maven/com.github.anylogic/alogic-mq-rabbitmq@1.6.15?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/io.github.shanqiang-sq/jstream-root@1.0.14?classifier=source-release&type=zip
+- pkg:maven/io.github.shanqiang-sq/jstream-root@1.0.15?classifier=source-release&type=zip
+- pkg:maven/io.github.shanqiang-sq/jstream-root@1.0.16?classifier=source-release&type=zip
+- pkg:maven/io.github.shanqiang-sq/jstream-root@1.0.17?classifier=source-release&type=zip
+- pkg:maven/io.github.shanqiang-sq/jstream-root@1.0.18?classifier=source-release&type=zip
+- pkg:maven/io.github.shanqiang-sq/jstream-root@1.0.20?classifier=source-release&type=zip

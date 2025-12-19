@@ -125,6 +125,10 @@
 - pkg:maven/org.catools/media@0.1.46?classifier=sources
 - pkg:maven/org.catools/media@0.1.47
 - pkg:maven/org.catools/media@0.1.47?classifier=sources
+- pkg:maven/org.catools/media@0.1.48
+- pkg:maven/org.catools/media@0.1.48?classifier=sources
+- pkg:maven/org.catools/media@0.1.49
+- pkg:maven/org.catools/media@0.1.49?classifier=sources
 - pkg:maven/org.catools/media@0.1.4?classifier=sources
 - pkg:maven/org.catools/media@0.1.5
 - pkg:maven/org.catools/media@0.1.5?classifier=sources

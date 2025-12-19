@@ -133,3 +133,8 @@
 - pkg:maven/com.google.appengine/appengine-tools-sdk@1.9.91
 - pkg:maven/com.google.appengine/appengine-tools-sdk@1.9.92
 - pkg:maven/com.google.appengine/appengine-tools-sdk@1.9.93
+- pkg:maven/com.google.appengine/appengine-tools-sdk@1.9.94
+- pkg:maven/com.google.appengine/appengine-tools-sdk@2.0.2
+- pkg:maven/com.google.appengine/appengine-tools-sdk@2.0.2?classifier=sources
+- pkg:maven/com.google.appengine/appengine-tools-sdk@2.0.3
+- pkg:maven/com.google.appengine/appengine-tools-sdk@2.0.3?classifier=sources

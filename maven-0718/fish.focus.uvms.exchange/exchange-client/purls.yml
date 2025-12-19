@@ -1,0 +1,2 @@
+- pkg:maven/fish.focus.uvms.exchange/exchange-client@5.3.23
+- pkg:maven/fish.focus.uvms.exchange/exchange-client@5.3.23?classifier=sources

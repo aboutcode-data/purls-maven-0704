@@ -1,0 +1,2 @@
+- pkg:maven/net.hserver.plugins.rpc/hserver-rpc-plugin@1.0
+- pkg:maven/net.hserver.plugins.rpc/hserver-rpc-plugin@1.0?classifier=sources

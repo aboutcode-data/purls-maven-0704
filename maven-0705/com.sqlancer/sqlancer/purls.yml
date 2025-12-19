@@ -4,3 +4,5 @@
 - pkg:maven/com.sqlancer/sqlancer@1.0?classifier=sources
 - pkg:maven/com.sqlancer/sqlancer@1.1.0
 - pkg:maven/com.sqlancer/sqlancer@1.1.0?classifier=sources
+- pkg:maven/com.sqlancer/sqlancer@2.0.0
+- pkg:maven/com.sqlancer/sqlancer@2.0.0?classifier=sources

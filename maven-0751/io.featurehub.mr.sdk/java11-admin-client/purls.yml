@@ -1,0 +1,2 @@
+- pkg:maven/io.featurehub.mr.sdk/java11-admin-client@1.1
+- pkg:maven/io.featurehub.mr.sdk/java11-admin-client@1.1?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.github.mvv.sager/sager-zio-interop-cats_2.12@0.1-M11?classifier=sources
 - pkg:maven/com.github.mvv.sager/sager-zio-interop-cats_2.12@0.1-M12
 - pkg:maven/com.github.mvv.sager/sager-zio-interop-cats_2.12@0.1-M12?classifier=sources
+- pkg:maven/com.github.mvv.sager/sager-zio-interop-cats_2.12@0.1-M13
+- pkg:maven/com.github.mvv.sager/sager-zio-interop-cats_2.12@0.1-M13?classifier=sources

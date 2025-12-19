@@ -4,3 +4,4 @@
 - pkg:maven/com.swrve.sdk.android/swrve-huawei@8.0.0?classifier=sources
 - pkg:maven/com.swrve.sdk.android/swrve-huawei@9.0.0?classifier=sources
 - pkg:maven/com.swrve.sdk.android/swrve-huawei@9.1.0?classifier=sources
+- pkg:maven/com.swrve.sdk.android/swrve-huawei@9.2.0?classifier=sources

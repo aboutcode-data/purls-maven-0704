@@ -12,3 +12,5 @@
 - pkg:maven/org.webjars.npm/intro.js@3.4.0?classifier=sources
 - pkg:maven/org.webjars.npm/intro.js@4.1.0
 - pkg:maven/org.webjars.npm/intro.js@4.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/intro.js@4.3.0
+- pkg:maven/org.webjars.npm/intro.js@4.3.0?classifier=sources

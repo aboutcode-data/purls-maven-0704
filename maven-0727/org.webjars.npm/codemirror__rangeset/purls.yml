@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/codemirror__rangeset@0.19.6
+- pkg:maven/org.webjars.npm/codemirror__rangeset@0.19.6?classifier=sources

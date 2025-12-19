@@ -12,3 +12,4 @@
 - pkg:maven/com.javiersc.gradle.plugins.kotlin.config/com.javiersc.gradle.plugins.kotlin.config.gradle.plugin@0.1.0-rc.37?classifier=sources
 - pkg:maven/com.javiersc.gradle.plugins.kotlin.config/com.javiersc.gradle.plugins.kotlin.config.gradle.plugin@0.1.0-rc.38?classifier=sources
 - pkg:maven/com.javiersc.gradle.plugins.kotlin.config/com.javiersc.gradle.plugins.kotlin.config.gradle.plugin@0.1.0-rc.39?classifier=sources
+- pkg:maven/com.javiersc.gradle.plugins.kotlin.config/com.javiersc.gradle.plugins.kotlin.config.gradle.plugin@0.1.0-rc.40?classifier=sources

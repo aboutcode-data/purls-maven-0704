@@ -1,0 +1,2 @@
+- pkg:maven/ch.ascendise.validator/validator@1.0.0
+- pkg:maven/ch.ascendise.validator/validator@1.0.0?classifier=sources

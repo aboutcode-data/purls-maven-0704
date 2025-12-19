@@ -27,3 +27,9 @@
 - pkg:maven/com.epam.healenium/healenium-web@3.1.7
 - pkg:maven/com.epam.healenium/healenium-web@3.1.7?classifier=sources
 - pkg:maven/com.epam.healenium/healenium-web@3.1?classifier=sources
+- pkg:maven/com.epam.healenium/healenium-web@3.2.0
+- pkg:maven/com.epam.healenium/healenium-web@3.2.0?classifier=sources
+- pkg:maven/com.epam.healenium/healenium-web@3.2.1
+- pkg:maven/com.epam.healenium/healenium-web@3.2.1?classifier=sources
+- pkg:maven/com.epam.healenium/healenium-web@3.2.2
+- pkg:maven/com.epam.healenium/healenium-web@3.2.2?classifier=sources

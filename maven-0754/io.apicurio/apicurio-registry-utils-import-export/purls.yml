@@ -18,3 +18,5 @@
 - pkg:maven/io.apicurio/apicurio-registry-utils-import-export@2.1.4.Final?classifier=sources
 - pkg:maven/io.apicurio/apicurio-registry-utils-import-export@2.1.5.Final
 - pkg:maven/io.apicurio/apicurio-registry-utils-import-export@2.1.5.Final?classifier=sources
+- pkg:maven/io.apicurio/apicurio-registry-utils-import-export@2.2.0.Final
+- pkg:maven/io.apicurio/apicurio-registry-utils-import-export@2.2.0.Final?classifier=sources

@@ -22,3 +22,4 @@
 - pkg:maven/com.avito.android/test-model@2021.39?classifier=sources
 - pkg:maven/com.avito.android/test-model@2021.40?classifier=sources
 - pkg:maven/com.avito.android/test-model@2021.41?classifier=sources
+- pkg:maven/com.avito.android/test-model@2021.42?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/com.rallyhealth/scalacheck-ops_1-14_2.12@2.8.0?classifier=sources
 - pkg:maven/com.rallyhealth/scalacheck-ops_1-14_2.12@2.8.1
 - pkg:maven/com.rallyhealth/scalacheck-ops_1-14_2.12@2.8.1?classifier=sources
+- pkg:maven/com.rallyhealth/scalacheck-ops_1-14_2.12@2.8.2
+- pkg:maven/com.rallyhealth/scalacheck-ops_1-14_2.12@2.8.2?classifier=sources

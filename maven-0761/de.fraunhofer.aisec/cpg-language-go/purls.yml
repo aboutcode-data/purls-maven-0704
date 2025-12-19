@@ -1,0 +1,2 @@
+- pkg:maven/de.fraunhofer.aisec/cpg-language-go@4.3.1
+- pkg:maven/de.fraunhofer.aisec/cpg-language-go@4.3.1?classifier=sources

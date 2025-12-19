@@ -1,1 +1,2 @@
 - pkg:maven/org.wso2.orbit.com.jayway.jsonpath/json-path@2.4.0.wso2v2
+- pkg:maven/org.wso2.orbit.com.jayway.jsonpath/json-path@2.6.0.wso2v1

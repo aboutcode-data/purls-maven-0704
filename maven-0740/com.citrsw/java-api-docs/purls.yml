@@ -40,3 +40,5 @@
 - pkg:maven/com.citrsw/java-api-docs@1.6.0-beta?classifier=sources
 - pkg:maven/com.citrsw/java-api-docs@1.6.1-beta
 - pkg:maven/com.citrsw/java-api-docs@1.6.1-beta?classifier=sources
+- pkg:maven/com.citrsw/java-api-docs@1.6.3
+- pkg:maven/com.citrsw/java-api-docs@1.6.3?classifier=sources

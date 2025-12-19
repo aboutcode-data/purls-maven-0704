@@ -28,6 +28,8 @@
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-7.0-hotrod@13.0.1.Final?classifier=sources
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-7.0-hotrod@13.0.2.Final
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-7.0-hotrod@13.0.2.Final?classifier=sources
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-7.0-hotrod@13.0.3.Final
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-7.0-hotrod@13.0.3.Final?classifier=sources
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-7.0-hotrod@2.0.0.Final
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-7.0-hotrod@2.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-7.0-hotrod@3.0.0.Final

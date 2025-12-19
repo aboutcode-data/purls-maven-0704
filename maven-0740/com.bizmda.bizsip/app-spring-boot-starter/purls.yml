@@ -1,2 +1,4 @@
+- pkg:maven/com.bizmda.bizsip/app-spring-boot-starter@1.0.0.Beta11
+- pkg:maven/com.bizmda.bizsip/app-spring-boot-starter@1.0.0.Beta11?classifier=sources
 - pkg:maven/com.bizmda.bizsip/app-spring-boot-starter@1.0.0.Beta9
 - pkg:maven/com.bizmda.bizsip/app-spring-boot-starter@1.0.0.Beta9?classifier=sources

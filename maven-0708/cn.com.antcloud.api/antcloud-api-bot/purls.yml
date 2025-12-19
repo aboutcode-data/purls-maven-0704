@@ -70,3 +70,5 @@
 - pkg:maven/cn.com.antcloud.api/antcloud-api-bot@1.6.53?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-bot@1.6.54
 - pkg:maven/cn.com.antcloud.api/antcloud-api-bot@1.6.54?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-bot@1.6.60
+- pkg:maven/cn.com.antcloud.api/antcloud-api-bot@1.6.60?classifier=sources

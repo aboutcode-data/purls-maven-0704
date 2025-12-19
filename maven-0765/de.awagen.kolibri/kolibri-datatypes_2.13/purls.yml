@@ -16,3 +16,5 @@
 - pkg:maven/de.awagen.kolibri/kolibri-datatypes_2.13@0.1.0-beta4?classifier=sources
 - pkg:maven/de.awagen.kolibri/kolibri-datatypes_2.13@0.1.0-rc0
 - pkg:maven/de.awagen.kolibri/kolibri-datatypes_2.13@0.1.0-rc0?classifier=sources
+- pkg:maven/de.awagen.kolibri/kolibri-datatypes_2.13@0.1.0-rc1
+- pkg:maven/de.awagen.kolibri/kolibri-datatypes_2.13@0.1.0-rc1?classifier=sources

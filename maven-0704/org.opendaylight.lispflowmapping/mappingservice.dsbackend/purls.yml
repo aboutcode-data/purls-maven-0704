@@ -33,7 +33,9 @@
 - pkg:maven/org.opendaylight.lispflowmapping/mappingservice.dsbackend@1.13.3
 - pkg:maven/org.opendaylight.lispflowmapping/mappingservice.dsbackend@1.13.3?classifier=sources
 - pkg:maven/org.opendaylight.lispflowmapping/mappingservice.dsbackend@1.13.4?classifier=sources
+- pkg:maven/org.opendaylight.lispflowmapping/mappingservice.dsbackend@1.13.5?classifier=sources
 - pkg:maven/org.opendaylight.lispflowmapping/mappingservice.dsbackend@1.14.1?classifier=sources
+- pkg:maven/org.opendaylight.lispflowmapping/mappingservice.dsbackend@1.14.2?classifier=sources
 - pkg:maven/org.opendaylight.lispflowmapping/mappingservice.dsbackend@1.4.0-Boron
 - pkg:maven/org.opendaylight.lispflowmapping/mappingservice.dsbackend@1.4.0-Boron?classifier=sources
 - pkg:maven/org.opendaylight.lispflowmapping/mappingservice.dsbackend@1.4.1-Boron-SR1

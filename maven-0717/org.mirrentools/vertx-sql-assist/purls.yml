@@ -36,3 +36,5 @@
 - pkg:maven/org.mirrentools/vertx-sql-assist@4.1.6?classifier=sources
 - pkg:maven/org.mirrentools/vertx-sql-assist@4.2.1
 - pkg:maven/org.mirrentools/vertx-sql-assist@4.2.1?classifier=sources
+- pkg:maven/org.mirrentools/vertx-sql-assist@4.2.4
+- pkg:maven/org.mirrentools/vertx-sql-assist@4.2.4?classifier=sources

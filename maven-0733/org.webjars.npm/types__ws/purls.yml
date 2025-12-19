@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/types__ws@8.2.2
+- pkg:maven/org.webjars.npm/types__ws@8.2.2?classifier=sources

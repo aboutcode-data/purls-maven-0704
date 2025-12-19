@@ -204,3 +204,6 @@
 - pkg:maven/org.glassfish.jersey.examples/extended-wadl-webapp@2.9?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/extended-wadl-webapp@2.9?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/extended-wadl-webapp@2.9?type=war
+- pkg:maven/org.glassfish.jersey.examples/extended-wadl-webapp@3.0.4?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/extended-wadl-webapp@3.0.4?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/extended-wadl-webapp@3.0.4?type=war

@@ -1,0 +1,12 @@
+- pkg:maven/io.lockstep/lockstepsdk@2021.39.690
+- pkg:maven/io.lockstep/lockstepsdk@2021.39.690?classifier=sources
+- pkg:maven/io.lockstep/lockstepsdk@2022.2.93.0
+- pkg:maven/io.lockstep/lockstepsdk@2022.2.93.0?classifier=sources
+- pkg:maven/io.lockstep/lockstepsdk@2022.3.26.0
+- pkg:maven/io.lockstep/lockstepsdk@2022.3.26.0?classifier=sources
+- pkg:maven/io.lockstep/lockstepsdk@2022.3.32.0
+- pkg:maven/io.lockstep/lockstepsdk@2022.3.32.0?classifier=sources
+- pkg:maven/io.lockstep/lockstepsdk@2022.4.32.0
+- pkg:maven/io.lockstep/lockstepsdk@2022.4.32.0?classifier=sources
+- pkg:maven/io.lockstep/lockstepsdk@2022.6.48.0
+- pkg:maven/io.lockstep/lockstepsdk@2022.6.48.0?classifier=sources

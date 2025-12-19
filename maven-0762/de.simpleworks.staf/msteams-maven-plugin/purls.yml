@@ -2,3 +2,9 @@
 - pkg:maven/de.simpleworks.staf/msteams-maven-plugin@0.50?classifier=sources
 - pkg:maven/de.simpleworks.staf/msteams-maven-plugin@0.60
 - pkg:maven/de.simpleworks.staf/msteams-maven-plugin@0.60?classifier=sources
+- pkg:maven/de.simpleworks.staf/msteams-maven-plugin@0.70
+- pkg:maven/de.simpleworks.staf/msteams-maven-plugin@0.70?classifier=sources
+- pkg:maven/de.simpleworks.staf/msteams-maven-plugin@0.80
+- pkg:maven/de.simpleworks.staf/msteams-maven-plugin@0.80?classifier=sources
+- pkg:maven/de.simpleworks.staf/msteams-maven-plugin@0.90
+- pkg:maven/de.simpleworks.staf/msteams-maven-plugin@0.90?classifier=sources

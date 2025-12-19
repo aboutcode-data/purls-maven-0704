@@ -1,0 +1,2 @@
+- pkg:maven/io.taig/babel-circe_3@0.5.0
+- pkg:maven/io.taig/babel-circe_3@0.5.0?classifier=sources

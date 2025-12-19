@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.tomee.patch/tomee-patch-core@0.6?classifier=sources
 - pkg:maven/org.apache.tomee.patch/tomee-patch-core@0.7
 - pkg:maven/org.apache.tomee.patch/tomee-patch-core@0.7?classifier=sources
+- pkg:maven/org.apache.tomee.patch/tomee-patch-core@0.8
+- pkg:maven/org.apache.tomee.patch/tomee-patch-core@0.8?classifier=sources

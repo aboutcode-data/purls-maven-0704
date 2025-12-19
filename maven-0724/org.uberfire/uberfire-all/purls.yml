@@ -142,3 +142,6 @@
 - pkg:maven/org.uberfire/uberfire-all@7.61.0.Final
 - pkg:maven/org.uberfire/uberfire-all@7.62.0.Final
 - pkg:maven/org.uberfire/uberfire-all@7.63.0.Final
+- pkg:maven/org.uberfire/uberfire-all@7.64.0.Final
+- pkg:maven/org.uberfire/uberfire-all@7.65.0.Final
+- pkg:maven/org.uberfire/uberfire-all@7.66.0.Final

@@ -76,3 +76,9 @@
 - pkg:maven/video.pano/rtc-simple@1.6.8.1?type=aar
 - pkg:maven/video.pano/rtc-simple@1.6.9?classifier=sources
 - pkg:maven/video.pano/rtc-simple@1.6.9?type=aar
+- pkg:maven/video.pano/rtc-simple@1.7.0.1?classifier=sources
+- pkg:maven/video.pano/rtc-simple@1.7.0.1?type=aar
+- pkg:maven/video.pano/rtc-simple@1.7.0?classifier=sources
+- pkg:maven/video.pano/rtc-simple@1.7.0?type=aar
+- pkg:maven/video.pano/rtc-simple@1.7.1?classifier=sources
+- pkg:maven/video.pano/rtc-simple@1.7.1?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-css@3.0.77
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-css@3.0.77?classifier=sources

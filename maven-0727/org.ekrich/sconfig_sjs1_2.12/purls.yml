@@ -36,3 +36,5 @@
 - pkg:maven/org.ekrich/sconfig_sjs1_2.12@1.4.7?classifier=sources
 - pkg:maven/org.ekrich/sconfig_sjs1_2.12@1.4.8
 - pkg:maven/org.ekrich/sconfig_sjs1_2.12@1.4.8?classifier=sources
+- pkg:maven/org.ekrich/sconfig_sjs1_2.12@1.4.9
+- pkg:maven/org.ekrich/sconfig_sjs1_2.12@1.4.9?classifier=sources

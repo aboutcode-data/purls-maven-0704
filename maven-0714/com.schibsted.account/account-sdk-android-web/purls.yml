@@ -4,3 +4,12 @@
 - pkg:maven/com.schibsted.account/account-sdk-android-web@2.1.0?classifier=sources
 - pkg:maven/com.schibsted.account/account-sdk-android-web@2.1.1?classifier=sources
 - pkg:maven/com.schibsted.account/account-sdk-android-web@2.1.2?classifier=sources
+- pkg:maven/com.schibsted.account/account-sdk-android-web@2.2.0?classifier=sources
+- pkg:maven/com.schibsted.account/account-sdk-android-web@2.3.0?classifier=sources
+- pkg:maven/com.schibsted.account/account-sdk-android-web@2.3.1?classifier=sources
+- pkg:maven/com.schibsted.account/account-sdk-android-web@2.3.2?classifier=sources
+- pkg:maven/com.schibsted.account/account-sdk-android-web@2.3.3?classifier=sources
+- pkg:maven/com.schibsted.account/account-sdk-android-web@2.3.4?classifier=sources
+- pkg:maven/com.schibsted.account/account-sdk-android-web@2.3.5?classifier=sources
+- pkg:maven/com.schibsted.account/account-sdk-android-web@2.3.6?classifier=sources
+- pkg:maven/com.schibsted.account/account-sdk-android-web@2.3.7?classifier=sources

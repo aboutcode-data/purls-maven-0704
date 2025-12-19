@@ -1,2 +1,4 @@
 - pkg:maven/io.github.z3r0x24/jAni@1.0.0
 - pkg:maven/io.github.z3r0x24/jAni@1.0.0?classifier=sources
+- pkg:maven/io.github.z3r0x24/jAni@1.0.1
+- pkg:maven/io.github.z3r0x24/jAni@1.0.1?classifier=sources

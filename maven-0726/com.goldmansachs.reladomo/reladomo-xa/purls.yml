@@ -19,3 +19,4 @@
 - pkg:maven/com.goldmansachs.reladomo/reladomo-xa@17.1.4
 - pkg:maven/com.goldmansachs.reladomo/reladomo-xa@17.1.4?classifier=sources
 - pkg:maven/com.goldmansachs.reladomo/reladomo-xa@18.0.0?classifier=sources
+- pkg:maven/com.goldmansachs.reladomo/reladomo-xa@18.1.0?classifier=sources

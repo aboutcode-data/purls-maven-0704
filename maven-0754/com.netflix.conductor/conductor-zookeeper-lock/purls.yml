@@ -173,6 +173,7 @@
 - pkg:maven/com.netflix.conductor/conductor-zookeeper-lock@2.31.5?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-zookeeper-lock@2.31.6?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-zookeeper-lock@2.31.7?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-zookeeper-lock@2.31.8?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-zookeeper-lock@3.0.0?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-zookeeper-lock@3.0.1?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-zookeeper-lock@3.0.2?classifier=sources
@@ -191,3 +192,7 @@
 - pkg:maven/com.netflix.conductor/conductor-zookeeper-lock@3.3.5?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-zookeeper-lock@3.3.6?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-zookeeper-lock@3.4.1?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-zookeeper-lock@3.4.2?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-zookeeper-lock@3.5.0?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-zookeeper-lock@3.5.1?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-zookeeper-lock@3.5.2?classifier=sources

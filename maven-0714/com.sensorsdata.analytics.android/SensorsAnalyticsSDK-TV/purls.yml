@@ -5,3 +5,4 @@
 - pkg:maven/com.sensorsdata.analytics.android/SensorsAnalyticsSDK-TV@5.2.3-tv?classifier=sources
 - pkg:maven/com.sensorsdata.analytics.android/SensorsAnalyticsSDK-TV@5.4.5-tv?classifier=sources
 - pkg:maven/com.sensorsdata.analytics.android/SensorsAnalyticsSDK-TV@6.0.2-tv?classifier=sources
+- pkg:maven/com.sensorsdata.analytics.android/SensorsAnalyticsSDK-TV@6.0.3-tv?classifier=sources

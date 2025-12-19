@@ -30,3 +30,5 @@
 - pkg:maven/com.github.angleshq/angles-java-core@1.0.34?classifier=sources
 - pkg:maven/com.github.angleshq/angles-java-core@1.0.35
 - pkg:maven/com.github.angleshq/angles-java-core@1.0.35?classifier=sources
+- pkg:maven/com.github.angleshq/angles-java-core@1.0.36
+- pkg:maven/com.github.angleshq/angles-java-core@1.0.36?classifier=sources

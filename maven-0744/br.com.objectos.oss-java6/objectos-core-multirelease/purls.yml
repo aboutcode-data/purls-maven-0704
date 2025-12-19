@@ -1,2 +1,4 @@
 - pkg:maven/br.com.objectos.oss-java6/objectos-core-multirelease@2.0.0
 - pkg:maven/br.com.objectos.oss-java6/objectos-core-multirelease@2.0.0?classifier=sources
+- pkg:maven/br.com.objectos.oss-java6/objectos-core-multirelease@3.0.0
+- pkg:maven/br.com.objectos.oss-java6/objectos-core-multirelease@3.0.0?classifier=sources

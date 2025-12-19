@@ -52,3 +52,5 @@
 - pkg:maven/edu.stanford.nlp/stanford-corenlp@4.3.1?classifier=sources
 - pkg:maven/edu.stanford.nlp/stanford-corenlp@4.3.2
 - pkg:maven/edu.stanford.nlp/stanford-corenlp@4.3.2?classifier=sources
+- pkg:maven/edu.stanford.nlp/stanford-corenlp@4.4.0
+- pkg:maven/edu.stanford.nlp/stanford-corenlp@4.4.0?classifier=sources

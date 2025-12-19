@@ -3,3 +3,5 @@
 - pkg:maven/de.acosix.alfresco.keycloak/de.acosix.alfresco.keycloak.repo@1.1.0-rc5?classifier=sources
 - pkg:maven/de.acosix.alfresco.keycloak/de.acosix.alfresco.keycloak.repo@1.1.0-rc6
 - pkg:maven/de.acosix.alfresco.keycloak/de.acosix.alfresco.keycloak.repo@1.1.0-rc6?classifier=sources
+- pkg:maven/de.acosix.alfresco.keycloak/de.acosix.alfresco.keycloak.repo@1.1.0-rc7
+- pkg:maven/de.acosix.alfresco.keycloak/de.acosix.alfresco.keycloak.repo@1.1.0-rc7?classifier=sources

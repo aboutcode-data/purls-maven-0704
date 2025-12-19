@@ -6,3 +6,7 @@
 - pkg:maven/org.scalameta/mdoc-cli_2.12@2.2.23?classifier=sources
 - pkg:maven/org.scalameta/mdoc-cli_2.12@2.2.24
 - pkg:maven/org.scalameta/mdoc-cli_2.12@2.2.24?classifier=sources
+- pkg:maven/org.scalameta/mdoc-cli_2.12@2.3.0
+- pkg:maven/org.scalameta/mdoc-cli_2.12@2.3.0?classifier=sources
+- pkg:maven/org.scalameta/mdoc-cli_2.12@2.3.1
+- pkg:maven/org.scalameta/mdoc-cli_2.12@2.3.1?classifier=sources

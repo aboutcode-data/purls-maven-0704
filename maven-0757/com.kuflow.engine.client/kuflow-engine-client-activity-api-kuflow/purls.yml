@@ -1,0 +1,2 @@
+- pkg:maven/com.kuflow.engine.client/kuflow-engine-client-activity-api-kuflow@0.0.4
+- pkg:maven/com.kuflow.engine.client/kuflow-engine-client-activity-api-kuflow@0.0.4?classifier=sources

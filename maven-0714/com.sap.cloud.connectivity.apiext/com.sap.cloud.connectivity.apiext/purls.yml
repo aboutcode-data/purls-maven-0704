@@ -1,0 +1,4 @@
+- pkg:maven/com.sap.cloud.connectivity.apiext/com.sap.cloud.connectivity.apiext@3.20.0
+- pkg:maven/com.sap.cloud.connectivity.apiext/com.sap.cloud.connectivity.apiext@3.20.0?classifier=sources
+- pkg:maven/com.sap.cloud.connectivity.apiext/com.sap.cloud.connectivity.apiext@3.21.0
+- pkg:maven/com.sap.cloud.connectivity.apiext/com.sap.cloud.connectivity.apiext@3.21.0?classifier=sources

@@ -4,3 +4,4 @@
 - pkg:maven/ai.expert/nlapi-java-sdk@2.2.0?classifier=sources
 - pkg:maven/ai.expert/nlapi-java-sdk@2.3.0?classifier=sources
 - pkg:maven/ai.expert/nlapi-java-sdk@2.3.1?classifier=sources
+- pkg:maven/ai.expert/nlapi-java-sdk@2.4.0?classifier=sources

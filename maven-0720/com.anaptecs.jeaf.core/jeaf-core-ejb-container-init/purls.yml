@@ -1,0 +1,4 @@
+- pkg:maven/com.anaptecs.jeaf.core/jeaf-core-ejb-container-init@1.6.10?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.core/jeaf-core-ejb-container-init@1.6.10?type=war
+- pkg:maven/com.anaptecs.jeaf.core/jeaf-core-ejb-container-init@1.6.11?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.core/jeaf-core-ejb-container-init@1.6.11?type=war

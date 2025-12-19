@@ -46,3 +46,7 @@
 - pkg:maven/net.optionfactory.spring/oidc-authorization-code@5.9?classifier=sources
 - pkg:maven/net.optionfactory.spring/oidc-authorization-code@6.0
 - pkg:maven/net.optionfactory.spring/oidc-authorization-code@6.0?classifier=sources
+- pkg:maven/net.optionfactory.spring/oidc-authorization-code@6.1
+- pkg:maven/net.optionfactory.spring/oidc-authorization-code@6.1?classifier=sources
+- pkg:maven/net.optionfactory.spring/oidc-authorization-code@6.2
+- pkg:maven/net.optionfactory.spring/oidc-authorization-code@6.2?classifier=sources

@@ -1,3 +1,7 @@
+- pkg:maven/org.wildfly.security/wildfly-elytron-jose-util@1.15.10.Final
+- pkg:maven/org.wildfly.security/wildfly-elytron-jose-util@1.15.10.Final?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-jose-util@1.15.11.Final
+- pkg:maven/org.wildfly.security/wildfly-elytron-jose-util@1.15.11.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-jose-util@1.15.7.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-jose-util@1.15.7.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-jose-util@1.15.8.Final
@@ -18,5 +22,7 @@
 - pkg:maven/org.wildfly.security/wildfly-elytron-jose-util@1.18.1.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-jose-util@1.18.2.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-jose-util@1.18.2.Final?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-jose-util@1.18.3.Final
+- pkg:maven/org.wildfly.security/wildfly-elytron-jose-util@1.18.3.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-jose-util@2.0.0.Beta1
 - pkg:maven/org.wildfly.security/wildfly-elytron-jose-util@2.0.0.Beta1?classifier=sources

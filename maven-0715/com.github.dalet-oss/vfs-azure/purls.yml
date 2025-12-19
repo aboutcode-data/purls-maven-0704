@@ -10,3 +10,5 @@
 - pkg:maven/com.github.dalet-oss/vfs-azure@4.0.3?classifier=sources
 - pkg:maven/com.github.dalet-oss/vfs-azure@4.2.0
 - pkg:maven/com.github.dalet-oss/vfs-azure@4.2.0?classifier=sources
+- pkg:maven/com.github.dalet-oss/vfs-azure@4.2.1
+- pkg:maven/com.github.dalet-oss/vfs-azure@4.2.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.ormr.kixiv/kixiv@0.1.0?classifier=sources
+- pkg:maven/net.ormr.kixiv/kixiv@0.2.0?classifier=sources

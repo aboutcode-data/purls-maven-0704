@@ -15,4 +15,6 @@
 - pkg:maven/org.agmip.translators/translator-apsim@1.3.7?classifier=sources
 - pkg:maven/org.agmip.translators/translator-apsim@1.3.8
 - pkg:maven/org.agmip.translators/translator-apsim@1.3.8?classifier=sources
+- pkg:maven/org.agmip.translators/translator-apsim@1.3.9
+- pkg:maven/org.agmip.translators/translator-apsim@1.3.9?classifier=sources
 - pkg:maven/org.agmip.translators/translator-apsim@1.3?classifier=sources

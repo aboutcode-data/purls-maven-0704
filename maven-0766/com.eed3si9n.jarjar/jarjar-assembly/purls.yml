@@ -1,0 +1,2 @@
+- pkg:maven/com.eed3si9n.jarjar/jarjar-assembly@1.8.1
+- pkg:maven/com.eed3si9n.jarjar/jarjar-assembly@1.8.1?classifier=sources

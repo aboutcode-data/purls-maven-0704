@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/microsoft__node-core-library@3.11.0
+- pkg:maven/org.webjars.npm/microsoft__node-core-library@3.11.0?classifier=sources

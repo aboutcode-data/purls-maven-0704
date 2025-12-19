@@ -1,0 +1,16 @@
+- pkg:maven/org.noear/jap-solon-plugin@1.6.24
+- pkg:maven/org.noear/jap-solon-plugin@1.6.24?classifier=sources
+- pkg:maven/org.noear/jap-solon-plugin@1.6.25
+- pkg:maven/org.noear/jap-solon-plugin@1.6.25-m1
+- pkg:maven/org.noear/jap-solon-plugin@1.6.25-m1?classifier=sources
+- pkg:maven/org.noear/jap-solon-plugin@1.6.25-m2
+- pkg:maven/org.noear/jap-solon-plugin@1.6.25-m2?classifier=sources
+- pkg:maven/org.noear/jap-solon-plugin@1.6.25?classifier=sources
+- pkg:maven/org.noear/jap-solon-plugin@1.6.26
+- pkg:maven/org.noear/jap-solon-plugin@1.6.26-m1
+- pkg:maven/org.noear/jap-solon-plugin@1.6.26-m1?classifier=sources
+- pkg:maven/org.noear/jap-solon-plugin@1.6.26?classifier=sources
+- pkg:maven/org.noear/jap-solon-plugin@1.6.27-m1
+- pkg:maven/org.noear/jap-solon-plugin@1.6.27-m1?classifier=sources
+- pkg:maven/org.noear/jap-solon-plugin@1.6.27-m2
+- pkg:maven/org.noear/jap-solon-plugin@1.6.27-m2?classifier=sources

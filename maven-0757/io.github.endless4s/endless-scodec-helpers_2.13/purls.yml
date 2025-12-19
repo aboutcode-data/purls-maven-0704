@@ -18,3 +18,5 @@
 - pkg:maven/io.github.endless4s/endless-scodec-helpers_2.13@0.14.3?classifier=sources
 - pkg:maven/io.github.endless4s/endless-scodec-helpers_2.13@0.14.4
 - pkg:maven/io.github.endless4s/endless-scodec-helpers_2.13@0.14.4?classifier=sources
+- pkg:maven/io.github.endless4s/endless-scodec-helpers_2.13@0.14.5
+- pkg:maven/io.github.endless4s/endless-scodec-helpers_2.13@0.14.5?classifier=sources

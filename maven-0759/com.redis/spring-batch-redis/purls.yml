@@ -24,3 +24,6 @@
 - pkg:maven/com.redis/spring-batch-redis@2.23.8?classifier=sources
 - pkg:maven/com.redis/spring-batch-redis@2.23.9?classifier=sources
 - pkg:maven/com.redis/spring-batch-redis@2.24.0?classifier=sources
+- pkg:maven/com.redis/spring-batch-redis@2.25.0?classifier=sources
+- pkg:maven/com.redis/spring-batch-redis@2.25.1?classifier=sources
+- pkg:maven/com.redis/spring-batch-redis@2.26.0?classifier=sources

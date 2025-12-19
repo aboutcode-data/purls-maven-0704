@@ -10,6 +10,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-datetime-yui@8.12.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datetime-yui@8.13.0
 - pkg:maven/org.wicketstuff/wicketstuff-datetime-yui@8.13.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-datetime-yui@8.14.0
+- pkg:maven/org.wicketstuff/wicketstuff-datetime-yui@8.14.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datetime-yui@8.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-datetime-yui@8.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datetime-yui@8.3.0
@@ -56,3 +58,5 @@
 - pkg:maven/org.wicketstuff/wicketstuff-datetime-yui@9.6.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datetime-yui@9.7.0
 - pkg:maven/org.wicketstuff/wicketstuff-datetime-yui@9.7.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-datetime-yui@9.8.0
+- pkg:maven/org.wicketstuff/wicketstuff-datetime-yui@9.8.0?classifier=sources

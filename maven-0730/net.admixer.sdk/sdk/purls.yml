@@ -32,3 +32,7 @@
 - pkg:maven/net.admixer.sdk/sdk@1.4.1?type=aar
 - pkg:maven/net.admixer.sdk/sdk@1.4.2?type=aar
 - pkg:maven/net.admixer.sdk/sdk@1.4.3?type=aar
+- pkg:maven/net.admixer.sdk/sdk@1.4.4?type=aar
+- pkg:maven/net.admixer.sdk/sdk@1.4.5?type=aar
+- pkg:maven/net.admixer.sdk/sdk@1.4.6?type=aar
+- pkg:maven/net.admixer.sdk/sdk@1.4.7?type=aar

@@ -14,3 +14,13 @@
 - pkg:maven/io.getstream/stream-chat-android-compose@4.24.0-beta?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-compose@4.25.0-beta?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-compose@4.25.1-beta?classifier=sources
+- pkg:maven/io.getstream/stream-chat-android-compose@4.26.0-beta?classifier=sources
+- pkg:maven/io.getstream/stream-chat-android-compose@4.27.0-beta?classifier=sources
+- pkg:maven/io.getstream/stream-chat-android-compose@4.27.1-beta?classifier=sources
+- pkg:maven/io.getstream/stream-chat-android-compose@4.27.2-beta?classifier=sources
+- pkg:maven/io.getstream/stream-chat-android-compose@4.28.0-beta?classifier=sources
+- pkg:maven/io.getstream/stream-chat-android-compose@4.28.1-beta?classifier=sources
+- pkg:maven/io.getstream/stream-chat-android-compose@4.28.2-beta?classifier=sources
+- pkg:maven/io.getstream/stream-chat-android-compose@4.28.3-beta?classifier=sources
+- pkg:maven/io.getstream/stream-chat-android-compose@4.28.4-beta?classifier=sources
+- pkg:maven/io.getstream/stream-chat-android-compose@4.29.0-beta?classifier=sources

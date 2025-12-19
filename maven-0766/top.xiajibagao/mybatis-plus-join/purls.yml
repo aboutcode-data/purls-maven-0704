@@ -1,0 +1,8 @@
+- pkg:maven/top.xiajibagao/mybatis-plus-join@1.0.0
+- pkg:maven/top.xiajibagao/mybatis-plus-join@1.0.0?classifier=sources
+- pkg:maven/top.xiajibagao/mybatis-plus-join@2.0.0
+- pkg:maven/top.xiajibagao/mybatis-plus-join@2.0.0?classifier=sources
+- pkg:maven/top.xiajibagao/mybatis-plus-join@2.1.0
+- pkg:maven/top.xiajibagao/mybatis-plus-join@2.1.0?classifier=sources
+- pkg:maven/top.xiajibagao/mybatis-plus-join@2.1.1
+- pkg:maven/top.xiajibagao/mybatis-plus-join@2.1.1?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.jboss.narayana.rts/lra-test-arquillian-extension@5.12.2.Final?classifier=sources
 - pkg:maven/org.jboss.narayana.rts/lra-test-arquillian-extension@5.12.4.Final
 - pkg:maven/org.jboss.narayana.rts/lra-test-arquillian-extension@5.12.4.Final?classifier=sources
+- pkg:maven/org.jboss.narayana.rts/lra-test-arquillian-extension@5.12.5.Final
+- pkg:maven/org.jboss.narayana.rts/lra-test-arquillian-extension@5.12.5.Final?classifier=sources

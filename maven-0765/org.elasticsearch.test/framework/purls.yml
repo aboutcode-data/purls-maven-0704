@@ -270,6 +270,8 @@
 - pkg:maven/org.elasticsearch.test/framework@7.16.2?classifier=sources
 - pkg:maven/org.elasticsearch.test/framework@7.16.3
 - pkg:maven/org.elasticsearch.test/framework@7.16.3?classifier=sources
+- pkg:maven/org.elasticsearch.test/framework@7.17.0
+- pkg:maven/org.elasticsearch.test/framework@7.17.0?classifier=sources
 - pkg:maven/org.elasticsearch.test/framework@7.2.0
 - pkg:maven/org.elasticsearch.test/framework@7.2.0?classifier=sources
 - pkg:maven/org.elasticsearch.test/framework@7.2.1
@@ -314,6 +316,7 @@
 - pkg:maven/org.elasticsearch.test/framework@7.9.2?classifier=sources
 - pkg:maven/org.elasticsearch.test/framework@7.9.3
 - pkg:maven/org.elasticsearch.test/framework@7.9.3?classifier=sources
+- pkg:maven/org.elasticsearch.test/framework@8.0.0
 - pkg:maven/org.elasticsearch.test/framework@8.0.0-alpha1
 - pkg:maven/org.elasticsearch.test/framework@8.0.0-alpha1?classifier=sources
 - pkg:maven/org.elasticsearch.test/framework@8.0.0-alpha2
@@ -322,3 +325,6 @@
 - pkg:maven/org.elasticsearch.test/framework@8.0.0-beta1?classifier=sources
 - pkg:maven/org.elasticsearch.test/framework@8.0.0-rc1
 - pkg:maven/org.elasticsearch.test/framework@8.0.0-rc1?classifier=sources
+- pkg:maven/org.elasticsearch.test/framework@8.0.0-rc2
+- pkg:maven/org.elasticsearch.test/framework@8.0.0-rc2?classifier=sources
+- pkg:maven/org.elasticsearch.test/framework@8.0.0?classifier=sources

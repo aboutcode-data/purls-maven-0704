@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/babel-plugin-transform-react-remove-prop-types@0.4.24
+- pkg:maven/org.webjars.npm/babel-plugin-transform-react-remove-prop-types@0.4.24?classifier=sources

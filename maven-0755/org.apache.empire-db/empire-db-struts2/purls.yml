@@ -26,3 +26,5 @@
 - pkg:maven/org.apache.empire-db/empire-db-struts2@2.4.7?classifier=sources
 - pkg:maven/org.apache.empire-db/empire-db-struts2@2.5.0
 - pkg:maven/org.apache.empire-db/empire-db-struts2@2.5.0?classifier=sources
+- pkg:maven/org.apache.empire-db/empire-db-struts2@2.5.1
+- pkg:maven/org.apache.empire-db/empire-db-struts2@2.5.1?classifier=sources

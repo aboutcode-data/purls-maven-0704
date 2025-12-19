@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/prismarine-biome@1.1.2
+- pkg:maven/org.webjars.npm/prismarine-biome@1.1.2?classifier=sources

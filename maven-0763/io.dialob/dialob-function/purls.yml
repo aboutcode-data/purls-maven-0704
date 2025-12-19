@@ -1,0 +1,2 @@
+- pkg:maven/io.dialob/dialob-function@2.1.2
+- pkg:maven/io.dialob/dialob-function@2.1.2?classifier=sources

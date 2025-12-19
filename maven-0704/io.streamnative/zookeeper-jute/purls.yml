@@ -1,0 +1,4 @@
+- pkg:maven/io.streamnative/zookeeper-jute@3.6.3.1
+- pkg:maven/io.streamnative/zookeeper-jute@3.6.3.1-rc-1
+- pkg:maven/io.streamnative/zookeeper-jute@3.6.3.1-rc-1?classifier=sources
+- pkg:maven/io.streamnative/zookeeper-jute@3.6.3.1?classifier=sources

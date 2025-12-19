@@ -1,0 +1,2 @@
+- pkg:maven/dev.struchkov.haiti.utils/haiti-utils-network@0.0.4
+- pkg:maven/dev.struchkov.haiti.utils/haiti-utils-network@0.0.4?classifier=sources

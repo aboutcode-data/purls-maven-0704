@@ -1,0 +1,2 @@
+- pkg:maven/fish.focus.uvms.usm/jwt-handler-api@2.2.13
+- pkg:maven/fish.focus.uvms.usm/jwt-handler-api@2.2.13?classifier=sources

@@ -40,3 +40,11 @@
 - pkg:maven/com.sap.cloud.sdk.datamodel/openapi-generator-maven-plugin@3.59.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.datamodel/openapi-generator-maven-plugin@3.60.0
 - pkg:maven/com.sap.cloud.sdk.datamodel/openapi-generator-maven-plugin@3.60.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.datamodel/openapi-generator-maven-plugin@3.61.0
+- pkg:maven/com.sap.cloud.sdk.datamodel/openapi-generator-maven-plugin@3.61.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.datamodel/openapi-generator-maven-plugin@3.62.0
+- pkg:maven/com.sap.cloud.sdk.datamodel/openapi-generator-maven-plugin@3.62.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.datamodel/openapi-generator-maven-plugin@3.63.0
+- pkg:maven/com.sap.cloud.sdk.datamodel/openapi-generator-maven-plugin@3.63.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.datamodel/openapi-generator-maven-plugin@3.64.0
+- pkg:maven/com.sap.cloud.sdk.datamodel/openapi-generator-maven-plugin@3.64.0?classifier=sources

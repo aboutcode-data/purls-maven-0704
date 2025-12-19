@@ -14,5 +14,7 @@
 - pkg:maven/org.webjars.npm/vue-select@3.10.5?classifier=sources
 - pkg:maven/org.webjars.npm/vue-select@3.10.8
 - pkg:maven/org.webjars.npm/vue-select@3.10.8?classifier=sources
+- pkg:maven/org.webjars.npm/vue-select@3.16.0
+- pkg:maven/org.webjars.npm/vue-select@3.16.0?classifier=sources
 - pkg:maven/org.webjars.npm/vue-select@3.4.0
 - pkg:maven/org.webjars.npm/vue-select@3.4.0?classifier=sources

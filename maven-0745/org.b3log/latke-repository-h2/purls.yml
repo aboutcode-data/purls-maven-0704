@@ -409,6 +409,8 @@
 - pkg:maven/org.b3log/latke-repository-h2@3.4.22?classifier=sources
 - pkg:maven/org.b3log/latke-repository-h2@3.4.23
 - pkg:maven/org.b3log/latke-repository-h2@3.4.23?classifier=sources
+- pkg:maven/org.b3log/latke-repository-h2@3.4.24
+- pkg:maven/org.b3log/latke-repository-h2@3.4.24?classifier=sources
 - pkg:maven/org.b3log/latke-repository-h2@3.4.2?classifier=sources
 - pkg:maven/org.b3log/latke-repository-h2@3.4.3
 - pkg:maven/org.b3log/latke-repository-h2@3.4.3?classifier=sources

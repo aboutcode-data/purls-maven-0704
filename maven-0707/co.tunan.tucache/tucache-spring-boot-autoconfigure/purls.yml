@@ -4,3 +4,5 @@
 - pkg:maven/co.tunan.tucache/tucache-spring-boot-autoconfigure@1.0.1.RELEASE
 - pkg:maven/co.tunan.tucache/tucache-spring-boot-autoconfigure@1.0.1.RELEASE?classifier=sources
 - pkg:maven/co.tunan.tucache/tucache-spring-boot-autoconfigure@1.0.1?classifier=sources
+- pkg:maven/co.tunan.tucache/tucache-spring-boot-autoconfigure@1.0.2.RELEASE
+- pkg:maven/co.tunan.tucache/tucache-spring-boot-autoconfigure@1.0.2.RELEASE?classifier=sources

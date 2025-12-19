@@ -1,0 +1,2 @@
+- pkg:maven/com.dimafeng/testcontainers-scala-gcloud_3@0.40.1
+- pkg:maven/com.dimafeng/testcontainers-scala-gcloud_3@0.40.1?classifier=sources

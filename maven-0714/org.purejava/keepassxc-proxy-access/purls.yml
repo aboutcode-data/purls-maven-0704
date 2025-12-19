@@ -12,3 +12,7 @@
 - pkg:maven/org.purejava/keepassxc-proxy-access@0.0.6?classifier=sources
 - pkg:maven/org.purejava/keepassxc-proxy-access@0.0.7
 - pkg:maven/org.purejava/keepassxc-proxy-access@0.0.7?classifier=sources
+- pkg:maven/org.purejava/keepassxc-proxy-access@1.0.0
+- pkg:maven/org.purejava/keepassxc-proxy-access@1.0.0?classifier=sources
+- pkg:maven/org.purejava/keepassxc-proxy-access@1.0.1
+- pkg:maven/org.purejava/keepassxc-proxy-access@1.0.1?classifier=sources
