@@ -262,6 +262,10 @@
 - pkg:maven/org.flywaydb/flyway-commandline@8.5.10?type=zip
 - pkg:maven/org.flywaydb/flyway-commandline@8.5.11?classifier=sources
 - pkg:maven/org.flywaydb/flyway-commandline@8.5.11?type=zip
+- pkg:maven/org.flywaydb/flyway-commandline@8.5.12?classifier=sources
+- pkg:maven/org.flywaydb/flyway-commandline@8.5.12?type=zip
+- pkg:maven/org.flywaydb/flyway-commandline@8.5.13?classifier=sources
+- pkg:maven/org.flywaydb/flyway-commandline@8.5.13?type=zip
 - pkg:maven/org.flywaydb/flyway-commandline@8.5.1?classifier=sources
 - pkg:maven/org.flywaydb/flyway-commandline@8.5.1?type=zip
 - pkg:maven/org.flywaydb/flyway-commandline@8.5.2?classifier=sources

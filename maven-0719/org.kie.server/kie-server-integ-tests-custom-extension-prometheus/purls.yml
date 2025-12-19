@@ -98,3 +98,7 @@
 - pkg:maven/org.kie.server/kie-server-integ-tests-custom-extension-prometheus@7.68.0.Final?classifier=sources
 - pkg:maven/org.kie.server/kie-server-integ-tests-custom-extension-prometheus@7.69.0.Final
 - pkg:maven/org.kie.server/kie-server-integ-tests-custom-extension-prometheus@7.69.0.Final?classifier=sources
+- pkg:maven/org.kie.server/kie-server-integ-tests-custom-extension-prometheus@7.70.0.Final
+- pkg:maven/org.kie.server/kie-server-integ-tests-custom-extension-prometheus@7.70.0.Final?classifier=sources
+- pkg:maven/org.kie.server/kie-server-integ-tests-custom-extension-prometheus@7.71.0.Final
+- pkg:maven/org.kie.server/kie-server-integ-tests-custom-extension-prometheus@7.71.0.Final?classifier=sources

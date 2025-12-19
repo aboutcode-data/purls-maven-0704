@@ -1,0 +1,2 @@
+- pkg:maven/app.cash.wisp/wisp-ssl@0.0.1-alpha?classifier=sources
+- pkg:maven/app.cash.wisp/wisp-ssl@1.0.0?classifier=sources

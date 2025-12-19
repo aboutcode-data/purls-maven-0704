@@ -40,3 +40,5 @@
 - pkg:maven/cn.vorbote/webdev-spring-boot-autoconfigure@3.0.0.BETA
 - pkg:maven/cn.vorbote/webdev-spring-boot-autoconfigure@3.0.0.BETA?classifier=sources
 - pkg:maven/cn.vorbote/webdev-spring-boot-autoconfigure@3.0.0?classifier=sources
+- pkg:maven/cn.vorbote/webdev-spring-boot-autoconfigure@3.1.0
+- pkg:maven/cn.vorbote/webdev-spring-boot-autoconfigure@3.1.0?classifier=sources

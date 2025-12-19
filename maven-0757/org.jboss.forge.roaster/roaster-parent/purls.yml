@@ -48,6 +48,7 @@
 - pkg:maven/org.jboss.forge.roaster/roaster-parent@2.23.1.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.forge.roaster/roaster-parent@2.23.2.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.forge.roaster/roaster-parent@2.24.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.forge.roaster/roaster-parent@2.25.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.forge.roaster/roaster-parent@2.3.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.forge.roaster/roaster-parent@2.4.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.forge.roaster/roaster-parent@2.5.0.Final?classifier=source-release&type=zip

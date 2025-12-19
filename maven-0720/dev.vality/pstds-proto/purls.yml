@@ -8,3 +8,5 @@
 - pkg:maven/dev.vality/pstds-proto@1.25-01e1855?classifier=sources
 - pkg:maven/dev.vality/pstds-proto@1.26-c56c6fb
 - pkg:maven/dev.vality/pstds-proto@1.26-c56c6fb?classifier=sources
+- pkg:maven/dev.vality/pstds-proto@1.27-54b34f8
+- pkg:maven/dev.vality/pstds-proto@1.27-54b34f8?classifier=sources

@@ -5,3 +5,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-autosave@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-autosave@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-autosave@RELEASE130?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-autosave@RELEASE140?classifier=sources

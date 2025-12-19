@@ -1,4 +1,12 @@
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring@1.0.0-spring25x
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring@1.0.0-spring25x?classifier=sources
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring@1.0.1-spring25x
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring@1.0.1-spring25x?classifier=sources
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring@1.0.2-spring26x
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring@1.0.2-spring26x?classifier=sources
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring@1.1.0-spring25x
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring@1.1.0-spring25x?classifier=sources
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring@1.1.0-spring26x
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring@1.1.0-spring26x?classifier=sources
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring@1.1.0-spring27x
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring@1.1.0-spring27x?classifier=sources

@@ -8,6 +8,8 @@
 - pkg:maven/io.axway.alf/alf-slf4j@0.15.0?classifier=sources
 - pkg:maven/io.axway.alf/alf-slf4j@0.16.0
 - pkg:maven/io.axway.alf/alf-slf4j@0.16.0?classifier=sources
+- pkg:maven/io.axway.alf/alf-slf4j@0.17.0
+- pkg:maven/io.axway.alf/alf-slf4j@0.17.0?classifier=sources
 - pkg:maven/io.axway.alf/alf-slf4j@0.2.0
 - pkg:maven/io.axway.alf/alf-slf4j@0.2.0?classifier=sources
 - pkg:maven/io.axway.alf/alf-slf4j@0.3.0

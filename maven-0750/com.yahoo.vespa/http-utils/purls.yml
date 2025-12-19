@@ -666,6 +666,16 @@
 - pkg:maven/com.yahoo.vespa/http-utils@7.581.33?classifier=sources
 - pkg:maven/com.yahoo.vespa/http-utils@7.585.20
 - pkg:maven/com.yahoo.vespa/http-utils@7.585.20?classifier=sources
+- pkg:maven/com.yahoo.vespa/http-utils@7.586.113
+- pkg:maven/com.yahoo.vespa/http-utils@7.586.113?classifier=sources
+- pkg:maven/com.yahoo.vespa/http-utils@7.588.57
+- pkg:maven/com.yahoo.vespa/http-utils@7.588.57?classifier=sources
+- pkg:maven/com.yahoo.vespa/http-utils@7.589.25
+- pkg:maven/com.yahoo.vespa/http-utils@7.589.25?classifier=sources
+- pkg:maven/com.yahoo.vespa/http-utils@7.593.6
+- pkg:maven/com.yahoo.vespa/http-utils@7.593.6?classifier=sources
+- pkg:maven/com.yahoo.vespa/http-utils@7.594.36
+- pkg:maven/com.yahoo.vespa/http-utils@7.594.36?classifier=sources
 - pkg:maven/com.yahoo.vespa/http-utils@7.60.51
 - pkg:maven/com.yahoo.vespa/http-utils@7.60.51?classifier=sources
 - pkg:maven/com.yahoo.vespa/http-utils@7.61.10
@@ -724,3 +734,7 @@
 - pkg:maven/com.yahoo.vespa/http-utils@7.92.7?classifier=sources
 - pkg:maven/com.yahoo.vespa/http-utils@7.99.22
 - pkg:maven/com.yahoo.vespa/http-utils@7.99.22?classifier=sources
+- pkg:maven/com.yahoo.vespa/http-utils@8.4.15
+- pkg:maven/com.yahoo.vespa/http-utils@8.4.15?classifier=sources
+- pkg:maven/com.yahoo.vespa/http-utils@8.7.17
+- pkg:maven/com.yahoo.vespa/http-utils@8.7.17?classifier=sources

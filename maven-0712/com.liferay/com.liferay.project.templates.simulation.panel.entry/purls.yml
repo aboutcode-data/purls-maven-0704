@@ -200,6 +200,12 @@
 - pkg:maven/com.liferay/com.liferay.project.templates.simulation.panel.entry@1.0.162
 - pkg:maven/com.liferay/com.liferay.project.templates.simulation.panel.entry@1.0.162?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.simulation.panel.entry@1.0.162?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.project.templates.simulation.panel.entry@1.0.163
+- pkg:maven/com.liferay/com.liferay.project.templates.simulation.panel.entry@1.0.163?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates.simulation.panel.entry@1.0.163?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.project.templates.simulation.panel.entry@1.0.164
+- pkg:maven/com.liferay/com.liferay.project.templates.simulation.panel.entry@1.0.164?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates.simulation.panel.entry@1.0.164?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.project.templates.simulation.panel.entry@1.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.simulation.panel.entry@1.0.16?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.project.templates.simulation.panel.entry@1.0.17

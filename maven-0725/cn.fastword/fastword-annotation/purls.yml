@@ -1,0 +1,10 @@
+- pkg:maven/cn.fastword/fastword-annotation@0.0.1-RELEASES
+- pkg:maven/cn.fastword/fastword-annotation@0.0.1-RELEASES?classifier=sources
+- pkg:maven/cn.fastword/fastword-annotation@0.0.1.1-RELEASES
+- pkg:maven/cn.fastword/fastword-annotation@0.0.1.1-RELEASES?classifier=sources
+- pkg:maven/cn.fastword/fastword-annotation@0.0.1.1b-RELEASES
+- pkg:maven/cn.fastword/fastword-annotation@0.0.1.1b-RELEASES?classifier=sources
+- pkg:maven/cn.fastword/fastword-annotation@0.0.1.2
+- pkg:maven/cn.fastword/fastword-annotation@0.0.1.2?classifier=sources
+- pkg:maven/cn.fastword/fastword-annotation@0.0.1.3
+- pkg:maven/cn.fastword/fastword-annotation@0.0.1.3?classifier=sources

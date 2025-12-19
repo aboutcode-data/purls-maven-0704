@@ -10,6 +10,8 @@
 - pkg:maven/org.glassfish.tyrus.ext/tyrus-client-java8@1.17?classifier=sources
 - pkg:maven/org.glassfish.tyrus.ext/tyrus-client-java8@1.18
 - pkg:maven/org.glassfish.tyrus.ext/tyrus-client-java8@1.18?classifier=sources
+- pkg:maven/org.glassfish.tyrus.ext/tyrus-client-java8@1.19
+- pkg:maven/org.glassfish.tyrus.ext/tyrus-client-java8@1.19?classifier=sources
 - pkg:maven/org.glassfish.tyrus.ext/tyrus-client-java8@2.0.0
 - pkg:maven/org.glassfish.tyrus.ext/tyrus-client-java8@2.0.0-M1
 - pkg:maven/org.glassfish.tyrus.ext/tyrus-client-java8@2.0.0-M1?classifier=sources
@@ -24,3 +26,9 @@
 - pkg:maven/org.glassfish.tyrus.ext/tyrus-client-java8@2.0.1?classifier=sources
 - pkg:maven/org.glassfish.tyrus.ext/tyrus-client-java8@2.0.2
 - pkg:maven/org.glassfish.tyrus.ext/tyrus-client-java8@2.0.2?classifier=sources
+- pkg:maven/org.glassfish.tyrus.ext/tyrus-client-java8@2.1.0-M1
+- pkg:maven/org.glassfish.tyrus.ext/tyrus-client-java8@2.1.0-M1?classifier=sources
+- pkg:maven/org.glassfish.tyrus.ext/tyrus-client-java8@2.1.0-M2
+- pkg:maven/org.glassfish.tyrus.ext/tyrus-client-java8@2.1.0-M2?classifier=sources
+- pkg:maven/org.glassfish.tyrus.ext/tyrus-client-java8@2.1.0-M4
+- pkg:maven/org.glassfish.tyrus.ext/tyrus-client-java8@2.1.0-M4?classifier=sources

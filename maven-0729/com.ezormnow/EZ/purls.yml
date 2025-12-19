@@ -14,3 +14,5 @@
 - pkg:maven/com.ezormnow/EZ@1.6-RELEASE?classifier=sources
 - pkg:maven/com.ezormnow/EZ@1.7-RELEASE
 - pkg:maven/com.ezormnow/EZ@1.7-RELEASE?classifier=sources
+- pkg:maven/com.ezormnow/EZ@1.8-RELEASE
+- pkg:maven/com.ezormnow/EZ@1.8-RELEASE?classifier=sources

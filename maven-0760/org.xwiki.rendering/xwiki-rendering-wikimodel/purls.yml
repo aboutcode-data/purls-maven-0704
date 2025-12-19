@@ -257,6 +257,8 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-wikimodel@13.10.5?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-wikimodel@13.10.6
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-wikimodel@13.10.6?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-wikimodel@13.10.7
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-wikimodel@13.10.7?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-wikimodel@13.10?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-wikimodel@13.1?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-wikimodel@13.2

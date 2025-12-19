@@ -5,3 +5,5 @@
 - pkg:maven/com.arkivanov.decompose/decompose-watchossimulatorarm64@0.6.0-native-compose-01?classifier=sources
 - pkg:maven/com.arkivanov.decompose/decompose-watchossimulatorarm64@0.6.0-native-compose?classifier=sources
 - pkg:maven/com.arkivanov.decompose/decompose-watchossimulatorarm64@0.6.0?classifier=sources
+- pkg:maven/com.arkivanov.decompose/decompose-watchossimulatorarm64@0.7.0-native-compose-01?classifier=sources
+- pkg:maven/com.arkivanov.decompose/decompose-watchossimulatorarm64@0.7.0?classifier=sources

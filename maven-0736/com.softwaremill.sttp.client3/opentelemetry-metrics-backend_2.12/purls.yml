@@ -1,0 +1,2 @@
+- pkg:maven/com.softwaremill.sttp.client3/opentelemetry-metrics-backend_2.12@3.6.2
+- pkg:maven/com.softwaremill.sttp.client3/opentelemetry-metrics-backend_2.12@3.6.2?classifier=sources

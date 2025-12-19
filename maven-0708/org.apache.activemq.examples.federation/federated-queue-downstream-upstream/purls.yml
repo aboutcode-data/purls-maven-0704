@@ -24,3 +24,7 @@
 - pkg:maven/org.apache.activemq.examples.federation/federated-queue-downstream-upstream@2.21.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.federation/federated-queue-downstream-upstream@2.22.0
 - pkg:maven/org.apache.activemq.examples.federation/federated-queue-downstream-upstream@2.22.0?classifier=sources
+- pkg:maven/org.apache.activemq.examples.federation/federated-queue-downstream-upstream@2.23.0
+- pkg:maven/org.apache.activemq.examples.federation/federated-queue-downstream-upstream@2.23.0?classifier=sources
+- pkg:maven/org.apache.activemq.examples.federation/federated-queue-downstream-upstream@2.23.1
+- pkg:maven/org.apache.activemq.examples.federation/federated-queue-downstream-upstream@2.23.1?classifier=sources

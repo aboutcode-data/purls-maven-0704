@@ -1,2 +1,4 @@
 - pkg:maven/io.contek.zeus/zeus-client-utils@1.9.4?classifier=sources
+- pkg:maven/io.contek.zeus/zeus-client-utils@2.12.2?classifier=sources
+- pkg:maven/io.contek.zeus/zeus-client-utils@2.12.3?classifier=sources
 - pkg:maven/io.contek.zeus/zeus-client-utils@2.2.0?classifier=sources

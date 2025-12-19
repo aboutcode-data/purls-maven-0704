@@ -90,6 +90,12 @@
 - pkg:maven/com.approvaltests/approvaltests-util@15.4.0?classifier=sources
 - pkg:maven/com.approvaltests/approvaltests-util@15.5.0
 - pkg:maven/com.approvaltests/approvaltests-util@15.5.0?classifier=sources
+- pkg:maven/com.approvaltests/approvaltests-util@15.6.0
+- pkg:maven/com.approvaltests/approvaltests-util@15.6.0?classifier=sources
+- pkg:maven/com.approvaltests/approvaltests-util@15.7.0
+- pkg:maven/com.approvaltests/approvaltests-util@15.7.0?classifier=sources
+- pkg:maven/com.approvaltests/approvaltests-util@15.8.0
+- pkg:maven/com.approvaltests/approvaltests-util@15.8.0?classifier=sources
 - pkg:maven/com.approvaltests/approvaltests-util@2.0.0
 - pkg:maven/com.approvaltests/approvaltests-util@2.0.0?classifier=sources
 - pkg:maven/com.approvaltests/approvaltests-util@2.0.1

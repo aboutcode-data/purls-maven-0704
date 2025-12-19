@@ -3,3 +3,4 @@
 - pkg:maven/com.landawn/abacus-query@0.8?classifier=sources
 - pkg:maven/com.landawn/abacus-query@1.0?classifier=sources
 - pkg:maven/com.landawn/abacus-query@1.1?classifier=sources
+- pkg:maven/com.landawn/abacus-query@1.2?classifier=sources

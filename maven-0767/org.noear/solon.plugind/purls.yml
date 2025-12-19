@@ -1,0 +1,4 @@
+- pkg:maven/org.noear/solon.plugind@1.7.9-M3
+- pkg:maven/org.noear/solon.plugind@1.7.9-M3?classifier=sources
+- pkg:maven/org.noear/solon.plugind@1.7.9-M4
+- pkg:maven/org.noear/solon.plugind@1.7.9-M4?classifier=sources

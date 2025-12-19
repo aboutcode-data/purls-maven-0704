@@ -1,2 +1,6 @@
 - pkg:maven/io.github.yongzheng7/atom-core@1.0.0?classifier=sources
 - pkg:maven/io.github.yongzheng7/atom-core@1.0.0?type=aar
+- pkg:maven/io.github.yongzheng7/atom-core@4.0.0?classifier=sources
+- pkg:maven/io.github.yongzheng7/atom-core@4.0.0?type=aar
+- pkg:maven/io.github.yongzheng7/atom-core@5.0.0?classifier=sources
+- pkg:maven/io.github.yongzheng7/atom-core@5.0.0?type=aar

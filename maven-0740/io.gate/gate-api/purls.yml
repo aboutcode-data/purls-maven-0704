@@ -24,3 +24,5 @@
 - pkg:maven/io.gate/gate-api@6.23.3?classifier=sources
 - pkg:maven/io.gate/gate-api@6.23.4
 - pkg:maven/io.gate/gate-api@6.23.4?classifier=sources
+- pkg:maven/io.gate/gate-api@6.24.0
+- pkg:maven/io.gate/gate-api@6.24.0?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/com.cryptlex.android.lexactivator/lexactivator@3.18.2?classifier=sources
 - pkg:maven/com.cryptlex.android.lexactivator/lexactivator@3.18.3?classifier=sources
 - pkg:maven/com.cryptlex.android.lexactivator/lexactivator@3.18.4?classifier=sources
+- pkg:maven/com.cryptlex.android.lexactivator/lexactivator@3.19.0?classifier=sources
+- pkg:maven/com.cryptlex.android.lexactivator/lexactivator@3.19.1?classifier=sources

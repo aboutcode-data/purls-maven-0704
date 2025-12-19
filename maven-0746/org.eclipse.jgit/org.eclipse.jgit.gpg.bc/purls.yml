@@ -8,6 +8,8 @@
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.gpg.bc@5.12.0.202106070339-r?classifier=sources
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.gpg.bc@5.13.0.202109080827-r
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.gpg.bc@5.13.0.202109080827-r?classifier=sources
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.gpg.bc@5.13.1.202206130422-r
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.gpg.bc@5.13.1.202206130422-r?classifier=sources
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.gpg.bc@5.8.0.202006091008-r
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.gpg.bc@5.8.0.202006091008-r?classifier=sources
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.gpg.bc@5.8.1.202007141445-r
@@ -18,3 +20,5 @@
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.gpg.bc@6.0.0.202111291000-r?classifier=sources
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.gpg.bc@6.1.0.202203080745-r
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.gpg.bc@6.1.0.202203080745-r?classifier=sources
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.gpg.bc@6.2.0.202206071550-r
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.gpg.bc@6.2.0.202206071550-r?classifier=sources

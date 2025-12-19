@@ -4,3 +4,5 @@
 - pkg:maven/cn.bee-cloud/beecloud-service-core@1.0.1?classifier=sources
 - pkg:maven/cn.bee-cloud/beecloud-service-core@1.0.2
 - pkg:maven/cn.bee-cloud/beecloud-service-core@1.0.2?classifier=sources
+- pkg:maven/cn.bee-cloud/beecloud-service-core@6.0.01
+- pkg:maven/cn.bee-cloud/beecloud-service-core@6.0.01?classifier=sources

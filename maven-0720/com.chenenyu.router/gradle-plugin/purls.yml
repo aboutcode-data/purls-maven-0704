@@ -3,3 +3,4 @@
 - pkg:maven/com.chenenyu.router/gradle-plugin@1.7.6
 - pkg:maven/com.chenenyu.router/gradle-plugin@1.7.6?classifier=sources
 - pkg:maven/com.chenenyu.router/gradle-plugin@1.8.0?classifier=sources
+- pkg:maven/com.chenenyu.router/gradle-plugin@1.8.1?classifier=sources

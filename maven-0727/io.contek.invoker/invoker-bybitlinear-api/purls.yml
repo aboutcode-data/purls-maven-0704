@@ -1,0 +1,2 @@
+- pkg:maven/io.contek.invoker/invoker-bybitlinear-api@2.19.0?classifier=sources
+- pkg:maven/io.contek.invoker/invoker-bybitlinear-api@2.19.1?classifier=sources

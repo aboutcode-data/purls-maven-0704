@@ -79,6 +79,10 @@
 - pkg:maven/com.adobe.cq/core.wcm.components.junit.core@2.2.0?classifier=sources
 - pkg:maven/com.adobe.cq/core.wcm.components.junit.core@2.2.2
 - pkg:maven/com.adobe.cq/core.wcm.components.junit.core@2.2.2?classifier=sources
+- pkg:maven/com.adobe.cq/core.wcm.components.junit.core@2.20.0
+- pkg:maven/com.adobe.cq/core.wcm.components.junit.core@2.20.0?classifier=sources
+- pkg:maven/com.adobe.cq/core.wcm.components.junit.core@2.20.2
+- pkg:maven/com.adobe.cq/core.wcm.components.junit.core@2.20.2?classifier=sources
 - pkg:maven/com.adobe.cq/core.wcm.components.junit.core@2.3.0
 - pkg:maven/com.adobe.cq/core.wcm.components.junit.core@2.3.0?classifier=sources
 - pkg:maven/com.adobe.cq/core.wcm.components.junit.core@2.3.2

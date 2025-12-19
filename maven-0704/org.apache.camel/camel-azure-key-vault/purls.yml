@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel/camel-azure-key-vault@3.17.0
+- pkg:maven/org.apache.camel/camel-azure-key-vault@3.17.0?classifier=sources

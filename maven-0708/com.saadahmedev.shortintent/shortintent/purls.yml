@@ -1,0 +1,6 @@
+- pkg:maven/com.saadahmedev.shortintent/shortintent@1.0.0?classifier=sources
+- pkg:maven/com.saadahmedev.shortintent/shortintent@1.0.0?type=aar
+- pkg:maven/com.saadahmedev.shortintent/shortintent@2.0.0?classifier=sources
+- pkg:maven/com.saadahmedev.shortintent/shortintent@2.0.0?type=aar
+- pkg:maven/com.saadahmedev.shortintent/shortintent@3.0.0?classifier=sources
+- pkg:maven/com.saadahmedev.shortintent/shortintent@3.0.0?type=aar

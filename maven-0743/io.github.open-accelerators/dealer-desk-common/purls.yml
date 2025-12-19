@@ -1,0 +1,2 @@
+- pkg:maven/io.github.open-accelerators/dealer-desk-common@1.0.2
+- pkg:maven/io.github.open-accelerators/dealer-desk-common@1.0.2?classifier=sources

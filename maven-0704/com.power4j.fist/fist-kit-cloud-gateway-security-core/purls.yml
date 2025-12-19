@@ -1,0 +1,2 @@
+- pkg:maven/com.power4j.fist/fist-kit-cloud-gateway-security-core@2022.0.10
+- pkg:maven/com.power4j.fist/fist-kit-cloud-gateway-security-core@2022.0.10?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/xyz.cssxsh/meme-helper@1.0.3?classifier=sources
+- pkg:maven/xyz.cssxsh/meme-helper@1.0.4?classifier=sources
+- pkg:maven/xyz.cssxsh/meme-helper@1.1.0?classifier=sources
+- pkg:maven/xyz.cssxsh/meme-helper@1.1.1?classifier=sources

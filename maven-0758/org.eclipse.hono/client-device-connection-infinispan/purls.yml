@@ -76,3 +76,5 @@
 - pkg:maven/org.eclipse.hono/client-device-connection-infinispan@1.9.0?classifier=sources
 - pkg:maven/org.eclipse.hono/client-device-connection-infinispan@1.9.1
 - pkg:maven/org.eclipse.hono/client-device-connection-infinispan@1.9.1?classifier=sources
+- pkg:maven/org.eclipse.hono/client-device-connection-infinispan@2.0.0
+- pkg:maven/org.eclipse.hono/client-device-connection-infinispan@2.0.0?classifier=sources

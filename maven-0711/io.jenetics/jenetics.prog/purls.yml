@@ -28,3 +28,4 @@
 - pkg:maven/io.jenetics/jenetics.prog@6.2.0?classifier=sources
 - pkg:maven/io.jenetics/jenetics.prog@6.3.0?classifier=sources
 - pkg:maven/io.jenetics/jenetics.prog@7.0.0?classifier=sources
+- pkg:maven/io.jenetics/jenetics.prog@7.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/dev.vhonta/scala-ql-json_2.12@0.2.0-RC1
+- pkg:maven/dev.vhonta/scala-ql-json_2.12@0.2.0-RC1?classifier=sources

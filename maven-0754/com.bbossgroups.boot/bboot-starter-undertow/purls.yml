@@ -49,3 +49,4 @@
 - pkg:maven/com.bbossgroups.boot/bboot-starter-undertow@5.8.9?classifier=sources
 - pkg:maven/com.bbossgroups.boot/bboot-starter-undertow@5.9.0?classifier=sources
 - pkg:maven/com.bbossgroups.boot/bboot-starter-undertow@5.9.3?classifier=sources
+- pkg:maven/com.bbossgroups.boot/bboot-starter-undertow@5.9.5?classifier=sources

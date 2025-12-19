@@ -7,3 +7,4 @@
 - pkg:maven/org.drewcarlson/coingecko-tvosarm64@0.4.0-beta02?classifier=sources
 - pkg:maven/org.drewcarlson/coingecko-tvosarm64@0.4.0?classifier=sources
 - pkg:maven/org.drewcarlson/coingecko-tvosarm64@0.4.1?classifier=sources
+- pkg:maven/org.drewcarlson/coingecko-tvosarm64@1.0.0-alpha01?classifier=sources

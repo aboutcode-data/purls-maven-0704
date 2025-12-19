@@ -1,3 +1,4 @@
 - pkg:maven/com.norswap/uranium@1.0.10-ALPHA?classifier=sources
 - pkg:maven/com.norswap/uranium@1.0.11-ALPHA?classifier=sources
+- pkg:maven/com.norswap/uranium@1.0.12-ALPHA?classifier=sources
 - pkg:maven/com.norswap/uranium@1.0.9-ALPHA?classifier=sources

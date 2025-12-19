@@ -125,3 +125,9 @@
 - pkg:maven/com.ithit.webdav.integration/android-integration@5.1.5291?classifier=sources
 - pkg:maven/com.ithit.webdav.integration/android-integration@5.1.5314
 - pkg:maven/com.ithit.webdav.integration/android-integration@5.1.5314?classifier=sources
+- pkg:maven/com.ithit.webdav.integration/android-integration@5.1.5402
+- pkg:maven/com.ithit.webdav.integration/android-integration@5.1.5402?classifier=sources
+- pkg:maven/com.ithit.webdav.integration/android-integration@5.1.5406
+- pkg:maven/com.ithit.webdav.integration/android-integration@5.1.5406?classifier=sources
+- pkg:maven/com.ithit.webdav.integration/android-integration@5.1.5432
+- pkg:maven/com.ithit.webdav.integration/android-integration@5.1.5432?classifier=sources

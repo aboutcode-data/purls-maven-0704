@@ -1,1 +1,2 @@
 - pkg:maven/org.eclipse.tahu/tahu-host@0.5.14
+- pkg:maven/org.eclipse.tahu/tahu-host@0.5.15

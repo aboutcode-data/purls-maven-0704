@@ -12,3 +12,5 @@
 - pkg:maven/io.github.mj-youn/spring-web@0.1.6?classifier=sources
 - pkg:maven/io.github.mj-youn/spring-web@0.1.7
 - pkg:maven/io.github.mj-youn/spring-web@0.1.7?classifier=sources
+- pkg:maven/io.github.mj-youn/spring-web@0.1.8
+- pkg:maven/io.github.mj-youn/spring-web@0.1.8?classifier=sources

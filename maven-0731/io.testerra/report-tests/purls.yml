@@ -1,2 +1,4 @@
+- pkg:maven/io.testerra/report-tests@1.13?classifier=sources
 - pkg:maven/io.testerra/report-tests@2.0-RC-20?classifier=sources
 - pkg:maven/io.testerra/report-tests@2.0-RC-21?classifier=sources
+- pkg:maven/io.testerra/report-tests@2.0?classifier=sources

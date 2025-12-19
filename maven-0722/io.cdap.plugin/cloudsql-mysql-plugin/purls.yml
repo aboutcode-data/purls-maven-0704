@@ -1,0 +1,2 @@
+- pkg:maven/io.cdap.plugin/cloudsql-mysql-plugin@1.8.0
+- pkg:maven/io.cdap.plugin/cloudsql-mysql-plugin@1.8.0?classifier=sources

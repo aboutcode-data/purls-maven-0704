@@ -691,6 +691,16 @@
 - pkg:maven/ch.epfl.scala/bloop-launcher_2.12@1.5.0-16-515f9954?classifier=sources
 - pkg:maven/ch.epfl.scala/bloop-launcher_2.12@1.5.0-18-003e6c7b
 - pkg:maven/ch.epfl.scala/bloop-launcher_2.12@1.5.0-18-003e6c7b?classifier=sources
+- pkg:maven/ch.epfl.scala/bloop-launcher_2.12@1.5.0-20-bd0f2179
+- pkg:maven/ch.epfl.scala/bloop-launcher_2.12@1.5.0-20-bd0f2179?classifier=sources
+- pkg:maven/ch.epfl.scala/bloop-launcher_2.12@1.5.0-22-91111c15
+- pkg:maven/ch.epfl.scala/bloop-launcher_2.12@1.5.0-22-91111c15?classifier=sources
+- pkg:maven/ch.epfl.scala/bloop-launcher_2.12@1.5.0-24-d65d9761
+- pkg:maven/ch.epfl.scala/bloop-launcher_2.12@1.5.0-24-d65d9761?classifier=sources
+- pkg:maven/ch.epfl.scala/bloop-launcher_2.12@1.5.0-26-a132042c
+- pkg:maven/ch.epfl.scala/bloop-launcher_2.12@1.5.0-26-a132042c?classifier=sources
+- pkg:maven/ch.epfl.scala/bloop-launcher_2.12@1.5.0-28-2c4ea387
+- pkg:maven/ch.epfl.scala/bloop-launcher_2.12@1.5.0-28-2c4ea387?classifier=sources
 - pkg:maven/ch.epfl.scala/bloop-launcher_2.12@1.5.0-4-324c6c4c
 - pkg:maven/ch.epfl.scala/bloop-launcher_2.12@1.5.0-4-324c6c4c?classifier=sources
 - pkg:maven/ch.epfl.scala/bloop-launcher_2.12@1.5.0-5-2a743608

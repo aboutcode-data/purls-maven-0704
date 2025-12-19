@@ -373,6 +373,11 @@
 - pkg:maven/com.yahoo.vespa/flags@7.580.54?classifier=sources
 - pkg:maven/com.yahoo.vespa/flags@7.581.33?classifier=sources
 - pkg:maven/com.yahoo.vespa/flags@7.585.20?classifier=sources
+- pkg:maven/com.yahoo.vespa/flags@7.586.113?classifier=sources
+- pkg:maven/com.yahoo.vespa/flags@7.588.57?classifier=sources
+- pkg:maven/com.yahoo.vespa/flags@7.589.25?classifier=sources
+- pkg:maven/com.yahoo.vespa/flags@7.593.6?classifier=sources
+- pkg:maven/com.yahoo.vespa/flags@7.594.36?classifier=sources
 - pkg:maven/com.yahoo.vespa/flags@7.6.98?classifier=sources
 - pkg:maven/com.yahoo.vespa/flags@7.60.51?classifier=sources
 - pkg:maven/com.yahoo.vespa/flags@7.61.10?classifier=sources
@@ -405,3 +410,5 @@
 - pkg:maven/com.yahoo.vespa/flags@7.91.14?classifier=sources
 - pkg:maven/com.yahoo.vespa/flags@7.92.7?classifier=sources
 - pkg:maven/com.yahoo.vespa/flags@7.99.22?classifier=sources
+- pkg:maven/com.yahoo.vespa/flags@8.4.15?classifier=sources
+- pkg:maven/com.yahoo.vespa/flags@8.7.17?classifier=sources

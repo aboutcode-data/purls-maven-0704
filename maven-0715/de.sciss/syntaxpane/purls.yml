@@ -22,3 +22,5 @@
 - pkg:maven/de.sciss/syntaxpane@1.1.9?classifier=sources
 - pkg:maven/de.sciss/syntaxpane@1.2.0
 - pkg:maven/de.sciss/syntaxpane@1.2.0?classifier=sources
+- pkg:maven/de.sciss/syntaxpane@1.2.1
+- pkg:maven/de.sciss/syntaxpane@1.2.1?classifier=sources

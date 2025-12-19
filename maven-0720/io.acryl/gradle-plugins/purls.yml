@@ -1,0 +1,2 @@
+- pkg:maven/io.acryl/gradle-plugins@29.22.16
+- pkg:maven/io.acryl/gradle-plugins@29.22.16?classifier=sources

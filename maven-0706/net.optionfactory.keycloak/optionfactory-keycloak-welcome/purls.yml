@@ -1,0 +1,4 @@
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-welcome@1.4
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-welcome@1.4?classifier=sources
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-welcome@1.5
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-welcome@1.5?classifier=sources

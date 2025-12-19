@@ -1,0 +1,2 @@
+- pkg:maven/dev.vhonta/zio-temporal-distage_2.12@0.1.0-RC2
+- pkg:maven/dev.vhonta/zio-temporal-distage_2.12@0.1.0-RC2?classifier=sources

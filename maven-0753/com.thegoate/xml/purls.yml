@@ -41,3 +41,4 @@
 - pkg:maven/com.thegoate/xml@0.15.8.202203291828?classifier=sources
 - pkg:maven/com.thegoate/xml@0.15.8.202204062009?classifier=sources
 - pkg:maven/com.thegoate/xml@0.15.8.202204130045?classifier=sources
+- pkg:maven/com.thegoate/xml@0.15.8.202206221624?classifier=sources

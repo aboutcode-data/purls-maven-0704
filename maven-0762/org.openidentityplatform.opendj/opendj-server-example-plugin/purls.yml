@@ -8,9 +8,13 @@
 - pkg:maven/org.openidentityplatform.opendj/opendj-server-example-plugin@4.4.13?type=zip
 - pkg:maven/org.openidentityplatform.opendj/opendj-server-example-plugin@4.4.14?classifier=sources
 - pkg:maven/org.openidentityplatform.opendj/opendj-server-example-plugin@4.4.14?type=zip
+- pkg:maven/org.openidentityplatform.opendj/opendj-server-example-plugin@4.4.15?classifier=sources
+- pkg:maven/org.openidentityplatform.opendj/opendj-server-example-plugin@4.4.15?type=zip
 - pkg:maven/org.openidentityplatform.opendj/opendj-server-example-plugin@4.4.7?classifier=sources
 - pkg:maven/org.openidentityplatform.opendj/opendj-server-example-plugin@4.4.7?type=zip
 - pkg:maven/org.openidentityplatform.opendj/opendj-server-example-plugin@4.4.8?classifier=sources
 - pkg:maven/org.openidentityplatform.opendj/opendj-server-example-plugin@4.4.8?type=zip
 - pkg:maven/org.openidentityplatform.opendj/opendj-server-example-plugin@4.4.9?classifier=sources
 - pkg:maven/org.openidentityplatform.opendj/opendj-server-example-plugin@4.4.9?type=zip
+- pkg:maven/org.openidentityplatform.opendj/opendj-server-example-plugin@4.5.0?classifier=sources
+- pkg:maven/org.openidentityplatform.opendj/opendj-server-example-plugin@4.5.0?type=zip

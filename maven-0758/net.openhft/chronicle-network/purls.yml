@@ -552,6 +552,8 @@
 - pkg:maven/net.openhft/chronicle-network@2.21ea90?classifier=sources
 - pkg:maven/net.openhft/chronicle-network@2.22.13
 - pkg:maven/net.openhft/chronicle-network@2.22.13?classifier=sources
+- pkg:maven/net.openhft/chronicle-network@2.22.14
+- pkg:maven/net.openhft/chronicle-network@2.22.14?classifier=sources
 - pkg:maven/net.openhft/chronicle-network@2.22ea1
 - pkg:maven/net.openhft/chronicle-network@2.22ea10
 - pkg:maven/net.openhft/chronicle-network@2.22ea10?classifier=sources
@@ -579,8 +581,14 @@
 - pkg:maven/net.openhft/chronicle-network@2.23ea1
 - pkg:maven/net.openhft/chronicle-network@2.23ea1?classifier=sources
 - pkg:maven/net.openhft/chronicle-network@2.23ea2
+- pkg:maven/net.openhft/chronicle-network@2.23ea20
+- pkg:maven/net.openhft/chronicle-network@2.23ea20?classifier=sources
 - pkg:maven/net.openhft/chronicle-network@2.23ea2?classifier=sources
 - pkg:maven/net.openhft/chronicle-network@2.23ea3
 - pkg:maven/net.openhft/chronicle-network@2.23ea3?classifier=sources
 - pkg:maven/net.openhft/chronicle-network@2.23ea4
 - pkg:maven/net.openhft/chronicle-network@2.23ea4?classifier=sources
+- pkg:maven/net.openhft/chronicle-network@2.23ea5
+- pkg:maven/net.openhft/chronicle-network@2.23ea5?classifier=sources
+- pkg:maven/net.openhft/chronicle-network@2.23ea6
+- pkg:maven/net.openhft/chronicle-network@2.23ea6?classifier=sources

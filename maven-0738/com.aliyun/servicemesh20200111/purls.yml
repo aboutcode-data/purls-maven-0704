@@ -36,6 +36,8 @@
 - pkg:maven/com.aliyun/servicemesh20200111@2.0.15?classifier=sources
 - pkg:maven/com.aliyun/servicemesh20200111@2.0.16
 - pkg:maven/com.aliyun/servicemesh20200111@2.0.16?classifier=sources
+- pkg:maven/com.aliyun/servicemesh20200111@2.0.17
+- pkg:maven/com.aliyun/servicemesh20200111@2.0.17?classifier=sources
 - pkg:maven/com.aliyun/servicemesh20200111@2.0.3
 - pkg:maven/com.aliyun/servicemesh20200111@2.0.3?classifier=sources
 - pkg:maven/com.aliyun/servicemesh20200111@2.0.4

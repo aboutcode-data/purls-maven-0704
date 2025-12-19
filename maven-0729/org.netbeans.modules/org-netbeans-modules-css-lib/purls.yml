@@ -13,4 +13,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-css-lib@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-css-lib@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-css-lib@RELEASE130?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-css-lib@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-css-lib@RELEASE90?classifier=sources

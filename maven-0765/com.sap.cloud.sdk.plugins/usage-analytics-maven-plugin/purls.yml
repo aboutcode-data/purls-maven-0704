@@ -132,8 +132,14 @@
 - pkg:maven/com.sap.cloud.sdk.plugins/usage-analytics-maven-plugin@3.66.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.plugins/usage-analytics-maven-plugin@3.67.0
 - pkg:maven/com.sap.cloud.sdk.plugins/usage-analytics-maven-plugin@3.67.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.plugins/usage-analytics-maven-plugin@3.68.0
+- pkg:maven/com.sap.cloud.sdk.plugins/usage-analytics-maven-plugin@3.68.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.plugins/usage-analytics-maven-plugin@3.69.0
+- pkg:maven/com.sap.cloud.sdk.plugins/usage-analytics-maven-plugin@3.69.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.plugins/usage-analytics-maven-plugin@3.7.0
 - pkg:maven/com.sap.cloud.sdk.plugins/usage-analytics-maven-plugin@3.7.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.plugins/usage-analytics-maven-plugin@3.70.0
+- pkg:maven/com.sap.cloud.sdk.plugins/usage-analytics-maven-plugin@3.70.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.plugins/usage-analytics-maven-plugin@3.8.0
 - pkg:maven/com.sap.cloud.sdk.plugins/usage-analytics-maven-plugin@3.8.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.plugins/usage-analytics-maven-plugin@3.9.0

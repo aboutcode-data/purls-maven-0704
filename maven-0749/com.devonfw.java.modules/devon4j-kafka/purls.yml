@@ -14,3 +14,5 @@
 - pkg:maven/com.devonfw.java.modules/devon4j-kafka@2021.04.002?classifier=sources
 - pkg:maven/com.devonfw.java.modules/devon4j-kafka@2021.04.003
 - pkg:maven/com.devonfw.java.modules/devon4j-kafka@2021.04.003?classifier=sources
+- pkg:maven/com.devonfw.java.modules/devon4j-kafka@2022.04.001
+- pkg:maven/com.devonfw.java.modules/devon4j-kafka@2022.04.001?classifier=sources

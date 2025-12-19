@@ -13,6 +13,7 @@
 - pkg:maven/org.mapsforge/mapsforge-themes@0.16.0
 - pkg:maven/org.mapsforge/mapsforge-themes@0.16.0?classifier=sources
 - pkg:maven/org.mapsforge/mapsforge-themes@0.17.0?classifier=sources
+- pkg:maven/org.mapsforge/mapsforge-themes@0.18.0?classifier=sources
 - pkg:maven/org.mapsforge/mapsforge-themes@0.7.0
 - pkg:maven/org.mapsforge/mapsforge-themes@0.7.0-rc1
 - pkg:maven/org.mapsforge/mapsforge-themes@0.7.0-rc1?classifier=sources

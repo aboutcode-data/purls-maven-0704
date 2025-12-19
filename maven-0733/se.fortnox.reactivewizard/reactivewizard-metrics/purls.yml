@@ -68,6 +68,8 @@
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-metrics@13.1.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-metrics@13.2.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-metrics@13.2.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-metrics@13.3.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-metrics@13.3.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-metrics@2.0.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-metrics@2.0.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-metrics@2.0.1

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.oit-org/framework.oit@1
+- pkg:maven/io.github.oit-org/framework.oit@1?classifier=sources

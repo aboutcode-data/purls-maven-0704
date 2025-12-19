@@ -1,0 +1,2 @@
+- pkg:maven/com.telenav.kivakit/kivakit-serialization-kryo-testing@1.6.0
+- pkg:maven/com.telenav.kivakit/kivakit-serialization-kryo-testing@1.6.0?classifier=sources

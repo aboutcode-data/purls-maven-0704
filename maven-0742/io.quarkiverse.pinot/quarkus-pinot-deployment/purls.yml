@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.pinot/quarkus-pinot-deployment@0.1.0
+- pkg:maven/io.quarkiverse.pinot/quarkus-pinot-deployment@0.1.0?classifier=sources

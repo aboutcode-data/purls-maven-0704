@@ -1,1 +1,2 @@
 - pkg:maven/dev.sigstore.maven.plugins/sigstore-maven-plugin@0.0.16?classifier=sources
+- pkg:maven/dev.sigstore.maven.plugins/sigstore-maven-plugin@0.0.17?classifier=sources

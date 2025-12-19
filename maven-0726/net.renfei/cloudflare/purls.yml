@@ -4,3 +4,5 @@
 - pkg:maven/net.renfei/cloudflare@0.0.2?classifier=sources
 - pkg:maven/net.renfei/cloudflare@0.0.3
 - pkg:maven/net.renfei/cloudflare@0.0.3?classifier=sources
+- pkg:maven/net.renfei/cloudflare@1.0.0
+- pkg:maven/net.renfei/cloudflare@1.0.0?classifier=sources

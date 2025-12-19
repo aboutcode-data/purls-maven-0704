@@ -9,3 +9,4 @@
 - pkg:maven/ly.count.android/sdk-plugin@21.11.0-RC5?classifier=sources
 - pkg:maven/ly.count.android/sdk-plugin@21.11.0?classifier=sources
 - pkg:maven/ly.count.android/sdk-plugin@21.11.1?classifier=sources
+- pkg:maven/ly.count.android/sdk-plugin@21.11.2?classifier=sources

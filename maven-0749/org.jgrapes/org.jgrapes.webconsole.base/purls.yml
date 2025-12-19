@@ -27,3 +27,8 @@
 - pkg:maven/org.jgrapes/org.jgrapes.webconsole.base@0.34.0?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.webconsole.base@0.35.0?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.webconsole.base@0.36.0?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.webconsole.base@0.37.0?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.webconsole.base@0.38.0?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.webconsole.base@0.39.0?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.webconsole.base@0.40.0?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.webconsole.base@0.41.0?classifier=sources

@@ -30,3 +30,5 @@
 - pkg:maven/com.liferay.faces/com.liferay.faces.bridge.ext@6.0.0?classifier=sources
 - pkg:maven/com.liferay.faces/com.liferay.faces.bridge.ext@6.1.0
 - pkg:maven/com.liferay.faces/com.liferay.faces.bridge.ext@6.1.0?classifier=sources
+- pkg:maven/com.liferay.faces/com.liferay.faces.bridge.ext@7.0.0
+- pkg:maven/com.liferay.faces/com.liferay.faces.bridge.ext@7.0.0?classifier=sources

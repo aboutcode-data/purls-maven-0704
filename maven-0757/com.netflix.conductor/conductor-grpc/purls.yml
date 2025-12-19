@@ -372,3 +372,6 @@
 - pkg:maven/com.netflix.conductor/conductor-grpc@3.7.3?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-grpc@3.8.0?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-grpc@3.8.1?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-grpc@3.8.2?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-grpc@3.8.3?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-grpc@3.9.0?classifier=sources

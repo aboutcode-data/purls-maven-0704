@@ -1,0 +1,2 @@
+- pkg:maven/io.acryl/data-avro@29.22.16
+- pkg:maven/io.acryl/data-avro@29.22.16?classifier=sources

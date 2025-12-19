@@ -66,3 +66,5 @@
 - pkg:maven/org.wildfly.galleon-plugins/transformer@6.0.0.Alpha3?classifier=sources
 - pkg:maven/org.wildfly.galleon-plugins/transformer@6.0.0.Alpha4
 - pkg:maven/org.wildfly.galleon-plugins/transformer@6.0.0.Alpha4?classifier=sources
+- pkg:maven/org.wildfly.galleon-plugins/transformer@6.0.0.Alpha5
+- pkg:maven/org.wildfly.galleon-plugins/transformer@6.0.0.Alpha5?classifier=sources

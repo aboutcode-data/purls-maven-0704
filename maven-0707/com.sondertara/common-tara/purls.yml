@@ -1,3 +1,5 @@
+- pkg:maven/com.sondertara/common-tara@0.0.1.0
+- pkg:maven/com.sondertara/common-tara@0.0.1.0?classifier=sources
 - pkg:maven/com.sondertara/common-tara@0.0.2
 - pkg:maven/com.sondertara/common-tara@0.0.2?classifier=sources
 - pkg:maven/com.sondertara/common-tara@0.0.3
@@ -34,3 +36,7 @@
 - pkg:maven/com.sondertara/common-tara@0.0.3?classifier=sources
 - pkg:maven/com.sondertara/common-tara@0.0.4.0
 - pkg:maven/com.sondertara/common-tara@0.0.4.0?classifier=sources
+- pkg:maven/com.sondertara/common-tara@0.1.0
+- pkg:maven/com.sondertara/common-tara@0.1.0?classifier=sources
+- pkg:maven/com.sondertara/common-tara@01.0
+- pkg:maven/com.sondertara/common-tara@01.0?classifier=sources

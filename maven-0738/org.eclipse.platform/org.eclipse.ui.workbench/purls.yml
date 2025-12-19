@@ -38,3 +38,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.workbench@3.124.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.workbench@3.125.0
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.workbench@3.125.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.workbench@3.125.100
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.workbench@3.125.100?classifier=sources

@@ -40,3 +40,4 @@
 - pkg:maven/com.kauailabs.navx.frc/navx-java@4.0.442?classifier=sources
 - pkg:maven/com.kauailabs.navx.frc/navx-java@4.0.443?classifier=sources
 - pkg:maven/com.kauailabs.navx.frc/navx-java@4.0.444?classifier=sources
+- pkg:maven/com.kauailabs.navx.frc/navx-java@4.0.447?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/es.prodevelop/es.prodevelop.pui9.dashboards.web@1.16.0
 - pkg:maven/es.prodevelop/es.prodevelop.pui9.dashboards.web@1.16.0?classifier=sources
+- pkg:maven/es.prodevelop/es.prodevelop.pui9.dashboards.web@1.16.1
+- pkg:maven/es.prodevelop/es.prodevelop.pui9.dashboards.web@1.16.1?classifier=sources
+- pkg:maven/es.prodevelop/es.prodevelop.pui9.dashboards.web@1.17.0
+- pkg:maven/es.prodevelop/es.prodevelop.pui9.dashboards.web@1.17.0?classifier=sources

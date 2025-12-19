@@ -1,0 +1,2 @@
+- pkg:maven/org.openstreetmap.josm.gradle-josm-plugin/common@0.8.1?classifier=sources
+- pkg:maven/org.openstreetmap.josm.gradle-josm-plugin/common@0.8.2?classifier=sources

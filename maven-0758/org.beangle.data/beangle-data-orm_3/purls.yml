@@ -14,3 +14,5 @@
 - pkg:maven/org.beangle.data/beangle-data-orm_3@5.4.2?classifier=sources
 - pkg:maven/org.beangle.data/beangle-data-orm_3@5.4.3
 - pkg:maven/org.beangle.data/beangle-data-orm_3@5.4.3?classifier=sources
+- pkg:maven/org.beangle.data/beangle-data-orm_3@5.4.4
+- pkg:maven/org.beangle.data/beangle-data-orm_3@5.4.4?classifier=sources

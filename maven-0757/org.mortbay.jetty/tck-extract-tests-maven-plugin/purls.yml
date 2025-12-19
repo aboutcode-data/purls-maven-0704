@@ -1,2 +1,4 @@
 - pkg:maven/org.mortbay.jetty/tck-extract-tests-maven-plugin@1.0.0
 - pkg:maven/org.mortbay.jetty/tck-extract-tests-maven-plugin@1.0.0?classifier=sources
+- pkg:maven/org.mortbay.jetty/tck-extract-tests-maven-plugin@1.1.0
+- pkg:maven/org.mortbay.jetty/tck-extract-tests-maven-plugin@1.1.0?classifier=sources

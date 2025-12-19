@@ -22,3 +22,7 @@
 - pkg:maven/io.github.nixiantongxue/nio-http@0.1.22-release?classifier=sources
 - pkg:maven/io.github.nixiantongxue/nio-http@0.1.23-release
 - pkg:maven/io.github.nixiantongxue/nio-http@0.1.23-release?classifier=sources
+- pkg:maven/io.github.nixiantongxue/nio-http@0.1.24-beta
+- pkg:maven/io.github.nixiantongxue/nio-http@0.1.24-beta?classifier=sources
+- pkg:maven/io.github.nixiantongxue/nio-http@0.1.24-release
+- pkg:maven/io.github.nixiantongxue/nio-http@0.1.24-release?classifier=sources

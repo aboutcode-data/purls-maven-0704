@@ -1,0 +1,2 @@
+- pkg:maven/de.odrotbohm.playground/modelmapper-spring-data@0.1.0
+- pkg:maven/de.odrotbohm.playground/modelmapper-spring-data@0.1.0?classifier=sources

@@ -458,3 +458,5 @@
 - pkg:maven/org.atmosphere/atmosphere-annotations@2.7.5?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-annotations@2.7.6
 - pkg:maven/org.atmosphere/atmosphere-annotations@2.7.6?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-annotations@2.7.7
+- pkg:maven/org.atmosphere/atmosphere-annotations@2.7.7?classifier=sources

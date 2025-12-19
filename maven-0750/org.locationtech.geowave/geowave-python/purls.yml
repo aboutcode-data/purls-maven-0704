@@ -6,3 +6,5 @@
 - pkg:maven/org.locationtech.geowave/geowave-python@1.2.0?classifier=sources
 - pkg:maven/org.locationtech.geowave/geowave-python@2.0.0
 - pkg:maven/org.locationtech.geowave/geowave-python@2.0.0?classifier=sources
+- pkg:maven/org.locationtech.geowave/geowave-python@2.0.1
+- pkg:maven/org.locationtech.geowave/geowave-python@2.0.1?classifier=sources

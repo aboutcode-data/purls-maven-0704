@@ -1,0 +1,2 @@
+- pkg:maven/com.javiersc.gradle/gradle-version-catalog-extensions@1.0.0-alpha.19?classifier=sources
+- pkg:maven/com.javiersc.gradle/gradle-version-catalog-extensions@1.0.0-alpha.20?classifier=sources

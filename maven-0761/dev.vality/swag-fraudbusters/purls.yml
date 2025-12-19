@@ -2,3 +2,7 @@
 - pkg:maven/dev.vality/swag-fraudbusters@1.1-a395576-client?classifier=sources
 - pkg:maven/dev.vality/swag-fraudbusters@1.1-a395576-server
 - pkg:maven/dev.vality/swag-fraudbusters@1.1-a395576-server?classifier=sources
+- pkg:maven/dev.vality/swag-fraudbusters@1.47-7bd0be7-client
+- pkg:maven/dev.vality/swag-fraudbusters@1.47-7bd0be7-client?classifier=sources
+- pkg:maven/dev.vality/swag-fraudbusters@1.47-7bd0be7-server
+- pkg:maven/dev.vality/swag-fraudbusters@1.47-7bd0be7-server?classifier=sources
