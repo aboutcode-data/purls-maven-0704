@@ -782,6 +782,12 @@
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.impl@4.0.83
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.impl@4.0.83?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.impl@4.0.83?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.admin.user.impl@4.0.84
+- pkg:maven/com.liferay/com.liferay.headless.admin.user.impl@4.0.84?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.admin.user.impl@4.0.84?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.admin.user.impl@4.0.85
+- pkg:maven/com.liferay/com.liferay.headless.admin.user.impl@4.0.85?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.admin.user.impl@4.0.85?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.impl@4.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.impl@4.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.impl@4.0.9
@@ -1058,5 +1064,14 @@
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.impl@5.0.91
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.impl@5.0.91?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.impl@5.0.91?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.admin.user.impl@5.0.92
+- pkg:maven/com.liferay/com.liferay.headless.admin.user.impl@5.0.92?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.admin.user.impl@5.0.92?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.admin.user.impl@5.0.93
+- pkg:maven/com.liferay/com.liferay.headless.admin.user.impl@5.0.93?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.admin.user.impl@5.0.93?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.admin.user.impl@5.0.94
+- pkg:maven/com.liferay/com.liferay.headless.admin.user.impl@5.0.94?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.admin.user.impl@5.0.94?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.impl@5.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.impl@5.0.9?classifier=sources-commercial

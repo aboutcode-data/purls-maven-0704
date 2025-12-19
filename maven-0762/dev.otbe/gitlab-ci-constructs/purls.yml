@@ -6,3 +6,9 @@
 - pkg:maven/dev.otbe/gitlab-ci-constructs@0.0.12?classifier=sources
 - pkg:maven/dev.otbe/gitlab-ci-constructs@0.0.13
 - pkg:maven/dev.otbe/gitlab-ci-constructs@0.0.13?classifier=sources
+- pkg:maven/dev.otbe/gitlab-ci-constructs@0.0.14
+- pkg:maven/dev.otbe/gitlab-ci-constructs@0.0.14?classifier=sources
+- pkg:maven/dev.otbe/gitlab-ci-constructs@0.1.0
+- pkg:maven/dev.otbe/gitlab-ci-constructs@0.1.0?classifier=sources
+- pkg:maven/dev.otbe/gitlab-ci-constructs@0.1.1
+- pkg:maven/dev.otbe/gitlab-ci-constructs@0.1.1?classifier=sources

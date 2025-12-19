@@ -57,6 +57,10 @@
 - pkg:maven/com.baidu.aip/java-sdk@4.16.13?classifier=sources
 - pkg:maven/com.baidu.aip/java-sdk@4.16.14
 - pkg:maven/com.baidu.aip/java-sdk@4.16.14?classifier=sources
+- pkg:maven/com.baidu.aip/java-sdk@4.16.15
+- pkg:maven/com.baidu.aip/java-sdk@4.16.15?classifier=sources
+- pkg:maven/com.baidu.aip/java-sdk@4.16.16
+- pkg:maven/com.baidu.aip/java-sdk@4.16.16?classifier=sources
 - pkg:maven/com.baidu.aip/java-sdk@4.16.1?classifier=sources
 - pkg:maven/com.baidu.aip/java-sdk@4.16.2
 - pkg:maven/com.baidu.aip/java-sdk@4.16.2?classifier=sources

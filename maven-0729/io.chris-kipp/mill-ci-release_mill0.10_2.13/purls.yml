@@ -18,3 +18,9 @@
 - pkg:maven/io.chris-kipp/mill-ci-release_mill0.10_2.13@0.1.5?classifier=sources
 - pkg:maven/io.chris-kipp/mill-ci-release_mill0.10_2.13@0.1.6
 - pkg:maven/io.chris-kipp/mill-ci-release_mill0.10_2.13@0.1.6?classifier=sources
+- pkg:maven/io.chris-kipp/mill-ci-release_mill0.10_2.13@0.1.7
+- pkg:maven/io.chris-kipp/mill-ci-release_mill0.10_2.13@0.1.7?classifier=sources
+- pkg:maven/io.chris-kipp/mill-ci-release_mill0.10_2.13@0.1.8
+- pkg:maven/io.chris-kipp/mill-ci-release_mill0.10_2.13@0.1.8?classifier=sources
+- pkg:maven/io.chris-kipp/mill-ci-release_mill0.10_2.13@0.1.9
+- pkg:maven/io.chris-kipp/mill-ci-release_mill0.10_2.13@0.1.9?classifier=sources

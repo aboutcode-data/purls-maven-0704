@@ -206,6 +206,8 @@
 - pkg:maven/org.kie.server/kie-server-services-jbpm-ui@7.72.0.Final?classifier=sources
 - pkg:maven/org.kie.server/kie-server-services-jbpm-ui@7.73.0.Final
 - pkg:maven/org.kie.server/kie-server-services-jbpm-ui@7.73.0.Final?classifier=sources
+- pkg:maven/org.kie.server/kie-server-services-jbpm-ui@7.74.0.Final
+- pkg:maven/org.kie.server/kie-server-services-jbpm-ui@7.74.0.Final?classifier=sources
 - pkg:maven/org.kie.server/kie-server-services-jbpm-ui@7.8.0.Final
 - pkg:maven/org.kie.server/kie-server-services-jbpm-ui@7.8.0.Final?classifier=sources
 - pkg:maven/org.kie.server/kie-server-services-jbpm-ui@7.9.0.Final

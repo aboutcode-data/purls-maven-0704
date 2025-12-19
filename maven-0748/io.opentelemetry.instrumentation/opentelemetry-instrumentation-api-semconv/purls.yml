@@ -18,3 +18,5 @@
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-instrumentation-api-semconv@1.24.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-instrumentation-api-semconv@1.25.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-instrumentation-api-semconv@1.25.1-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-instrumentation-api-semconv@1.26.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-instrumentation-api-semconv@1.27.0-alpha?classifier=sources

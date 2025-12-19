@@ -27,6 +27,8 @@
 - pkg:maven/io.agroal/agroal-narayana@1.16?classifier=sources
 - pkg:maven/io.agroal/agroal-narayana@1.17
 - pkg:maven/io.agroal/agroal-narayana@1.17?classifier=sources
+- pkg:maven/io.agroal/agroal-narayana@1.18
+- pkg:maven/io.agroal/agroal-narayana@1.18?classifier=sources
 - pkg:maven/io.agroal/agroal-narayana@1.1?classifier=sources
 - pkg:maven/io.agroal/agroal-narayana@1.2
 - pkg:maven/io.agroal/agroal-narayana@1.2?classifier=sources
@@ -48,3 +50,5 @@
 - pkg:maven/io.agroal/agroal-narayana@2.0?classifier=sources
 - pkg:maven/io.agroal/agroal-narayana@2.1
 - pkg:maven/io.agroal/agroal-narayana@2.1?classifier=sources
+- pkg:maven/io.agroal/agroal-narayana@2.2
+- pkg:maven/io.agroal/agroal-narayana@2.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.admin4j.common/admin4j-common@0.1.1
+- pkg:maven/com.admin4j.common/admin4j-common@0.1.1?classifier=sources

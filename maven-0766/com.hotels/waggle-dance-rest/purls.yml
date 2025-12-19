@@ -53,6 +53,8 @@
 - pkg:maven/com.hotels/waggle-dance-rest@3.10.11?classifier=sources
 - pkg:maven/com.hotels/waggle-dance-rest@3.10.12
 - pkg:maven/com.hotels/waggle-dance-rest@3.10.12?classifier=sources
+- pkg:maven/com.hotels/waggle-dance-rest@3.10.14
+- pkg:maven/com.hotels/waggle-dance-rest@3.10.14?classifier=sources
 - pkg:maven/com.hotels/waggle-dance-rest@3.10.1?classifier=sources
 - pkg:maven/com.hotels/waggle-dance-rest@3.10.2
 - pkg:maven/com.hotels/waggle-dance-rest@3.10.2?classifier=sources
@@ -70,6 +72,10 @@
 - pkg:maven/com.hotels/waggle-dance-rest@3.10.8?classifier=sources
 - pkg:maven/com.hotels/waggle-dance-rest@3.10.9
 - pkg:maven/com.hotels/waggle-dance-rest@3.10.9?classifier=sources
+- pkg:maven/com.hotels/waggle-dance-rest@3.11.0
+- pkg:maven/com.hotels/waggle-dance-rest@3.11.0?classifier=sources
+- pkg:maven/com.hotels/waggle-dance-rest@3.11.1
+- pkg:maven/com.hotels/waggle-dance-rest@3.11.1?classifier=sources
 - pkg:maven/com.hotels/waggle-dance-rest@3.2.0
 - pkg:maven/com.hotels/waggle-dance-rest@3.2.0?classifier=sources
 - pkg:maven/com.hotels/waggle-dance-rest@3.3.0

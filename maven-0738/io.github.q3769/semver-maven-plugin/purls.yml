@@ -90,6 +90,10 @@
 - pkg:maven/io.github.q3769/semver-maven-plugin@20221011.1.0?classifier=sources
 - pkg:maven/io.github.q3769/semver-maven-plugin@20221011.20230506.0
 - pkg:maven/io.github.q3769/semver-maven-plugin@20221011.20230506.0?classifier=sources
+- pkg:maven/io.github.q3769/semver-maven-plugin@20221011.20230506.20230608
+- pkg:maven/io.github.q3769/semver-maven-plugin@20221011.20230506.20230608?classifier=sources
+- pkg:maven/io.github.q3769/semver-maven-plugin@20221011.20230506.20230611
+- pkg:maven/io.github.q3769/semver-maven-plugin@20221011.20230506.20230611?classifier=sources
 - pkg:maven/io.github.q3769/semver-maven-plugin@3.0.0
 - pkg:maven/io.github.q3769/semver-maven-plugin@3.0.0?classifier=sources
 - pkg:maven/io.github.q3769/semver-maven-plugin@3.0.1

@@ -1,0 +1,2 @@
+- pkg:maven/io.mokamint/io-mokamint-application-api@0.0.1
+- pkg:maven/io.mokamint/io-mokamint-application-api@0.0.1?classifier=sources

@@ -36,3 +36,5 @@
 - pkg:maven/org.entur.ror.helpers/oauth2@1.95?classifier=sources
 - pkg:maven/org.entur.ror.helpers/oauth2@1.96
 - pkg:maven/org.entur.ror.helpers/oauth2@1.96?classifier=sources
+- pkg:maven/org.entur.ror.helpers/oauth2@1.97
+- pkg:maven/org.entur.ror.helpers/oauth2@1.97?classifier=sources

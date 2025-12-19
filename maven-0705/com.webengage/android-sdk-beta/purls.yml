@@ -1,1 +1,2 @@
 - pkg:maven/com.webengage/android-sdk-beta@3.18.7?classifier=sources
+- pkg:maven/com.webengage/android-sdk-beta@4.5.0?classifier=sources

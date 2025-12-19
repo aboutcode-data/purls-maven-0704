@@ -1,2 +1,4 @@
 - pkg:maven/io.github.fileanalysissuite.adaptersdk.schema/adaptersdk-schema-java-lib@1.0.0-129
 - pkg:maven/io.github.fileanalysissuite.adaptersdk.schema/adaptersdk-schema-java-lib@1.0.0-129?classifier=sources
+- pkg:maven/io.github.fileanalysissuite.adaptersdk.schema/adaptersdk-schema-java-lib@1.1.0-152
+- pkg:maven/io.github.fileanalysissuite.adaptersdk.schema/adaptersdk-schema-java-lib@1.1.0-152?classifier=sources

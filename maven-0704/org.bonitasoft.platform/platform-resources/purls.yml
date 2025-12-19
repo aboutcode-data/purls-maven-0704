@@ -57,3 +57,4 @@
 - pkg:maven/org.bonitasoft.platform/platform-resources@7.8.3?classifier=sources
 - pkg:maven/org.bonitasoft.platform/platform-resources@7.8.4
 - pkg:maven/org.bonitasoft.platform/platform-resources@7.8.4?classifier=sources
+- pkg:maven/org.bonitasoft.platform/platform-resources@8.0.0?classifier=sources

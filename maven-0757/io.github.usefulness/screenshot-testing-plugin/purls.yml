@@ -1,4 +1,5 @@
 - pkg:maven/io.github.usefulness/screenshot-testing-plugin@0.16.10?classifier=sources
 - pkg:maven/io.github.usefulness/screenshot-testing-plugin@0.16.11?classifier=sources
+- pkg:maven/io.github.usefulness/screenshot-testing-plugin@0.16.12?classifier=sources
 - pkg:maven/io.github.usefulness/screenshot-testing-plugin@0.16.8?classifier=sources
 - pkg:maven/io.github.usefulness/screenshot-testing-plugin@0.16.9?classifier=sources

@@ -52,3 +52,4 @@
 - pkg:maven/dev.forkhandles/forkhandles-bom@2.3.0.0?classifier=sources
 - pkg:maven/dev.forkhandles/forkhandles-bom@2.4.0.0?classifier=sources
 - pkg:maven/dev.forkhandles/forkhandles-bom@2.5.0.0?classifier=sources
+- pkg:maven/dev.forkhandles/forkhandles-bom@2.6.0.0?classifier=sources

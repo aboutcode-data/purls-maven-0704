@@ -104,6 +104,8 @@
 - pkg:maven/org.webjars.npm/uportal__portlet-registry-to-array@1.37.0?classifier=sources
 - pkg:maven/org.webjars.npm/uportal__portlet-registry-to-array@1.38.1
 - pkg:maven/org.webjars.npm/uportal__portlet-registry-to-array@1.38.1?classifier=sources
+- pkg:maven/org.webjars.npm/uportal__portlet-registry-to-array@1.39.0
+- pkg:maven/org.webjars.npm/uportal__portlet-registry-to-array@1.39.0?classifier=sources
 - pkg:maven/org.webjars.npm/uportal__portlet-registry-to-array@1.7.1
 - pkg:maven/org.webjars.npm/uportal__portlet-registry-to-array@1.7.1?classifier=sources
 - pkg:maven/org.webjars.npm/uportal__portlet-registry-to-array@1.7.4

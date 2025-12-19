@@ -14,3 +14,4 @@
 - pkg:maven/com.twilio/conversations-android@4.0.2?classifier=sources
 - pkg:maven/com.twilio/conversations-android@5.0.0?classifier=sources
 - pkg:maven/com.twilio/conversations-android@5.1.0?classifier=sources
+- pkg:maven/com.twilio/conversations-android@5.1.1?classifier=sources

@@ -14,5 +14,11 @@
 - pkg:maven/org.noear/solon.boot.tiohttp@2.3.1-M1
 - pkg:maven/org.noear/solon.boot.tiohttp@2.3.1-M2
 - pkg:maven/org.noear/solon.boot.tiohttp@2.3.2
+- pkg:maven/org.noear/solon.boot.tiohttp@2.3.3
 - pkg:maven/org.noear/solon.boot.tiohttp@2.3.3-M1
 - pkg:maven/org.noear/solon.boot.tiohttp@2.3.3-M2
+- pkg:maven/org.noear/solon.boot.tiohttp@2.3.3-M3
+- pkg:maven/org.noear/solon.boot.tiohttp@2.3.4
+- pkg:maven/org.noear/solon.boot.tiohttp@2.3.4-M1
+- pkg:maven/org.noear/solon.boot.tiohttp@2.3.4-M2
+- pkg:maven/org.noear/solon.boot.tiohttp@2.3.4-M3

@@ -215,3 +215,8 @@
 - pkg:maven/com.tradplusad/tradplus-txadnet@16.9.6.0?type=aar
 - pkg:maven/com.tradplusad/tradplus-txadnet@16.9.6.10.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-txadnet@16.9.6.10?type=aar
+- pkg:maven/com.tradplusad/tradplus-txadnet@16.9.6.20.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-txadnet@16.9.6.20?type=aar
+- pkg:maven/com.tradplusad/tradplus-txadnet@16.9.7.0.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-txadnet@16.9.7.10.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-txadnet@16.9.7.10?type=aar

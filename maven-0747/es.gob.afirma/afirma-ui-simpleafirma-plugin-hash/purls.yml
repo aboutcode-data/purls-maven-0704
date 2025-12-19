@@ -1,0 +1,2 @@
+- pkg:maven/es.gob.afirma/afirma-ui-simpleafirma-plugin-hash@1.0
+- pkg:maven/es.gob.afirma/afirma-ui-simpleafirma-plugin-hash@1.0?classifier=sources

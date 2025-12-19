@@ -42,3 +42,7 @@
 - pkg:maven/edu.iu.uits.lms/lms-canvas-services@5.2.5?classifier=sources
 - pkg:maven/edu.iu.uits.lms/lms-canvas-services@5.2.7
 - pkg:maven/edu.iu.uits.lms/lms-canvas-services@5.2.7?classifier=sources
+- pkg:maven/edu.iu.uits.lms/lms-canvas-services@5.2.8
+- pkg:maven/edu.iu.uits.lms/lms-canvas-services@5.2.8?classifier=sources
+- pkg:maven/edu.iu.uits.lms/lms-canvas-services@5.2.9
+- pkg:maven/edu.iu.uits.lms/lms-canvas-services@5.2.9?classifier=sources

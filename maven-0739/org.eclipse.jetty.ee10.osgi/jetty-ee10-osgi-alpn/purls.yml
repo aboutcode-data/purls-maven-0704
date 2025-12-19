@@ -1,2 +1,3 @@
 - pkg:maven/org.eclipse.jetty.ee10.osgi/jetty-ee10-osgi-alpn@12.0.0.beta0
 - pkg:maven/org.eclipse.jetty.ee10.osgi/jetty-ee10-osgi-alpn@12.0.0.beta1
+- pkg:maven/org.eclipse.jetty.ee10.osgi/jetty-ee10-osgi-alpn@12.0.0.beta2

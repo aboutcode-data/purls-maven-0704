@@ -20,3 +20,5 @@
 - pkg:maven/dev.struchkov.haiti.utils/haiti-utils-field-constants@0.0.8?classifier=sources
 - pkg:maven/dev.struchkov.haiti.utils/haiti-utils-field-constants@0.0.9
 - pkg:maven/dev.struchkov.haiti.utils/haiti-utils-field-constants@0.0.9?classifier=sources
+- pkg:maven/dev.struchkov.haiti.utils/haiti-utils-field-constants@1.1.1
+- pkg:maven/dev.struchkov.haiti.utils/haiti-utils-field-constants@1.1.1?classifier=sources

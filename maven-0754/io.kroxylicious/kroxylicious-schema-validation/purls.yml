@@ -1,0 +1,2 @@
+- pkg:maven/io.kroxylicious/kroxylicious-schema-validation@0.2.0
+- pkg:maven/io.kroxylicious/kroxylicious-schema-validation@0.2.0?classifier=sources

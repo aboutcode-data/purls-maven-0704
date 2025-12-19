@@ -6,3 +6,5 @@
 - pkg:maven/org.bytedeco/opencl@3.0-1.5.7?classifier=sources
 - pkg:maven/org.bytedeco/opencl@3.0-1.5.8
 - pkg:maven/org.bytedeco/opencl@3.0-1.5.8?classifier=sources
+- pkg:maven/org.bytedeco/opencl@3.0-1.5.9
+- pkg:maven/org.bytedeco/opencl@3.0-1.5.9?classifier=sources

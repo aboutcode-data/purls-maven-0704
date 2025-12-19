@@ -1,0 +1,4 @@
+- pkg:maven/io.miragon.miranum/element-templates-c7@0.1.0
+- pkg:maven/io.miragon.miranum/element-templates-c7@0.1.0?classifier=sources
+- pkg:maven/io.miragon.miranum/element-templates-c7@0.2.0
+- pkg:maven/io.miragon.miranum/element-templates-c7@0.2.0?classifier=sources

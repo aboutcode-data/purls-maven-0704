@@ -37,4 +37,6 @@
 - pkg:maven/io.jdev.miniprofiler/miniprofiler-core@0.8.2?classifier=sources
 - pkg:maven/io.jdev.miniprofiler/miniprofiler-core@0.8?classifier=sources
 - pkg:maven/io.jdev.miniprofiler/miniprofiler-core@0.9.1?classifier=sources
+- pkg:maven/io.jdev.miniprofiler/miniprofiler-core@0.9.2?classifier=sources
+- pkg:maven/io.jdev.miniprofiler/miniprofiler-core@0.9.3?classifier=sources
 - pkg:maven/io.jdev.miniprofiler/miniprofiler-core@0.9?classifier=sources

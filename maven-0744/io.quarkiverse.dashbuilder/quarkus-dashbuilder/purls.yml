@@ -10,3 +10,9 @@
 - pkg:maven/io.quarkiverse.dashbuilder/quarkus-dashbuilder@0.27.2?classifier=sources
 - pkg:maven/io.quarkiverse.dashbuilder/quarkus-dashbuilder@0.27.3
 - pkg:maven/io.quarkiverse.dashbuilder/quarkus-dashbuilder@0.27.3?classifier=sources
+- pkg:maven/io.quarkiverse.dashbuilder/quarkus-dashbuilder@0.28.0
+- pkg:maven/io.quarkiverse.dashbuilder/quarkus-dashbuilder@0.28.0?classifier=sources
+- pkg:maven/io.quarkiverse.dashbuilder/quarkus-dashbuilder@0.29.0
+- pkg:maven/io.quarkiverse.dashbuilder/quarkus-dashbuilder@0.29.0?classifier=sources
+- pkg:maven/io.quarkiverse.dashbuilder/quarkus-dashbuilder@0.30.0
+- pkg:maven/io.quarkiverse.dashbuilder/quarkus-dashbuilder@0.30.0?classifier=sources

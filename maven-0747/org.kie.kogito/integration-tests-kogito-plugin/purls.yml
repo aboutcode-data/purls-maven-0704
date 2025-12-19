@@ -50,6 +50,8 @@
 - pkg:maven/org.kie.kogito/integration-tests-kogito-plugin@1.39.0.Final
 - pkg:maven/org.kie.kogito/integration-tests-kogito-plugin@1.4.0.Final
 - pkg:maven/org.kie.kogito/integration-tests-kogito-plugin@1.4.1.Final
+- pkg:maven/org.kie.kogito/integration-tests-kogito-plugin@1.40.0.Final
+- pkg:maven/org.kie.kogito/integration-tests-kogito-plugin@1.40.1.Final
 - pkg:maven/org.kie.kogito/integration-tests-kogito-plugin@1.5.0.Final
 - pkg:maven/org.kie.kogito/integration-tests-kogito-plugin@1.6.0.Final
 - pkg:maven/org.kie.kogito/integration-tests-kogito-plugin@1.7.0.Final

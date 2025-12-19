@@ -6,3 +6,4 @@
 - pkg:maven/io.quarkiverse.xmlsec/quarkus-xmlsec-bom@2.0.0.Alpha2
 - pkg:maven/io.quarkiverse.xmlsec/quarkus-xmlsec-bom@2.0.0.Alpha3
 - pkg:maven/io.quarkiverse.xmlsec/quarkus-xmlsec-bom@2.0.0.Alpha4
+- pkg:maven/io.quarkiverse.xmlsec/quarkus-xmlsec-bom@2.1.0

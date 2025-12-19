@@ -40,3 +40,4 @@
 - pkg:maven/com.xebialabs.gradle.plugins/integration-server-gradle-plugin@10.4.0-930.1634?classifier=sources
 - pkg:maven/com.xebialabs.gradle.plugins/integration-server-gradle-plugin@10.4.0-930.1652?classifier=sources
 - pkg:maven/com.xebialabs.gradle.plugins/integration-server-gradle-plugin@22.2.0-323.1101?classifier=sources
+- pkg:maven/com.xebialabs.gradle.plugins/integration-server-gradle-plugin@23.3.0-531.906?classifier=sources

@@ -104,9 +104,13 @@
 - pkg:maven/com.github.mizool.technology/technology-cassandra@0.50?classifier=sources
 - pkg:maven/com.github.mizool.technology/technology-cassandra@0.51
 - pkg:maven/com.github.mizool.technology/technology-cassandra@0.51?classifier=sources
+- pkg:maven/com.github.mizool.technology/technology-cassandra@0.52
+- pkg:maven/com.github.mizool.technology/technology-cassandra@0.52?classifier=sources
 - pkg:maven/com.github.mizool.technology/technology-cassandra@0.7
 - pkg:maven/com.github.mizool.technology/technology-cassandra@0.7?classifier=sources
 - pkg:maven/com.github.mizool.technology/technology-cassandra@0.8
 - pkg:maven/com.github.mizool.technology/technology-cassandra@0.8?classifier=sources
 - pkg:maven/com.github.mizool.technology/technology-cassandra@0.9
 - pkg:maven/com.github.mizool.technology/technology-cassandra@0.9?classifier=sources
+- pkg:maven/com.github.mizool.technology/technology-cassandra@1.0
+- pkg:maven/com.github.mizool.technology/technology-cassandra@1.0?classifier=sources

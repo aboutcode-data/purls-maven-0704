@@ -86,6 +86,10 @@
 - pkg:maven/com.reddio/reddio-crypto@0.0.57?classifier=sources
 - pkg:maven/com.reddio/reddio-crypto@0.0.58
 - pkg:maven/com.reddio/reddio-crypto@0.0.58?classifier=sources
+- pkg:maven/com.reddio/reddio-crypto@0.0.59
+- pkg:maven/com.reddio/reddio-crypto@0.0.59?classifier=sources
+- pkg:maven/com.reddio/reddio-crypto@0.0.60
+- pkg:maven/com.reddio/reddio-crypto@0.0.60?classifier=sources
 - pkg:maven/com.reddio/reddio-crypto@0.0.7
 - pkg:maven/com.reddio/reddio-crypto@0.0.7?classifier=sources
 - pkg:maven/com.reddio/reddio-crypto@0.0.8

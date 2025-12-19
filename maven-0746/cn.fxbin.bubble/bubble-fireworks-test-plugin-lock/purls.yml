@@ -16,3 +16,5 @@
 - pkg:maven/cn.fxbin.bubble/bubble-fireworks-test-plugin-lock@1.0.1-RELEASE?classifier=sources
 - pkg:maven/cn.fxbin.bubble/bubble-fireworks-test-plugin-lock@2021.5
 - pkg:maven/cn.fxbin.bubble/bubble-fireworks-test-plugin-lock@2021.5?classifier=sources
+- pkg:maven/cn.fxbin.bubble/bubble-fireworks-test-plugin-lock@2022.0.1
+- pkg:maven/cn.fxbin.bubble/bubble-fireworks-test-plugin-lock@2022.0.1?classifier=sources

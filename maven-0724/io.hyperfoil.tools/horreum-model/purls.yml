@@ -12,6 +12,8 @@
 - pkg:maven/io.hyperfoil.tools/horreum-model@0.6?classifier=sources
 - pkg:maven/io.hyperfoil.tools/horreum-model@0.7
 - pkg:maven/io.hyperfoil.tools/horreum-model@0.7.1
+- pkg:maven/io.hyperfoil.tools/horreum-model@0.7.10
+- pkg:maven/io.hyperfoil.tools/horreum-model@0.7.11
 - pkg:maven/io.hyperfoil.tools/horreum-model@0.7.1?classifier=sources
 - pkg:maven/io.hyperfoil.tools/horreum-model@0.7.2
 - pkg:maven/io.hyperfoil.tools/horreum-model@0.7.2?classifier=sources

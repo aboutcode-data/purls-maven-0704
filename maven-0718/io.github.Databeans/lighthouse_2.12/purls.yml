@@ -1,0 +1,2 @@
+- pkg:maven/io.github.Databeans/lighthouse_2.12@0.1.0
+- pkg:maven/io.github.Databeans/lighthouse_2.12@0.1.0?classifier=sources

@@ -26,3 +26,9 @@
 - pkg:maven/io.trino.tempto/tempto-kafka@195?classifier=sources
 - pkg:maven/io.trino.tempto/tempto-kafka@196
 - pkg:maven/io.trino.tempto/tempto-kafka@196?classifier=sources
+- pkg:maven/io.trino.tempto/tempto-kafka@197
+- pkg:maven/io.trino.tempto/tempto-kafka@197?classifier=sources
+- pkg:maven/io.trino.tempto/tempto-kafka@198
+- pkg:maven/io.trino.tempto/tempto-kafka@198?classifier=sources
+- pkg:maven/io.trino.tempto/tempto-kafka@199
+- pkg:maven/io.trino.tempto/tempto-kafka@199?classifier=sources

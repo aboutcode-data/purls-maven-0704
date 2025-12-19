@@ -120,6 +120,16 @@
 - pkg:maven/pub.doric/core@0.10.61?type=aar
 - pkg:maven/pub.doric/core@0.10.62?classifier=sources
 - pkg:maven/pub.doric/core@0.10.62?type=aar
+- pkg:maven/pub.doric/core@0.10.63?classifier=sources
+- pkg:maven/pub.doric/core@0.10.63?type=aar
+- pkg:maven/pub.doric/core@0.10.64?classifier=sources
+- pkg:maven/pub.doric/core@0.10.64?type=aar
+- pkg:maven/pub.doric/core@0.10.65?classifier=sources
+- pkg:maven/pub.doric/core@0.10.65?type=aar
+- pkg:maven/pub.doric/core@0.10.66?classifier=sources
+- pkg:maven/pub.doric/core@0.10.66?type=aar
+- pkg:maven/pub.doric/core@0.10.67?classifier=sources
+- pkg:maven/pub.doric/core@0.10.67?type=aar
 - pkg:maven/pub.doric/core@0.10.6?classifier=sources
 - pkg:maven/pub.doric/core@0.10.6?type=aar
 - pkg:maven/pub.doric/core@0.10.7?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.ip2location/ip2location-io-java@1.0.0
+- pkg:maven/com.ip2location/ip2location-io-java@1.0.0?classifier=sources

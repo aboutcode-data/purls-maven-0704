@@ -1,6 +1,7 @@
 - pkg:maven/org.dspace/handle@5.3.4
 - pkg:maven/org.dspace/handle@6.2
 - pkg:maven/org.dspace/handle@6.2.5.02
+- pkg:maven/org.dspace/handle@6.2.5_03?classifier=sources
 - pkg:maven/org.dspace/handle@9.1.0
 - pkg:maven/org.dspace/handle@9.1.0.v20190416
 - pkg:maven/org.dspace/handle@9.1.0.v20190416?classifier=sources

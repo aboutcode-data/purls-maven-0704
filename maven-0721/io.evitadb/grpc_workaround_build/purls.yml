@@ -1,0 +1,2 @@
+- pkg:maven/io.evitadb/grpc_workaround_build@0.7.ALPHA
+- pkg:maven/io.evitadb/grpc_workaround_build@0.7.ALPHA?classifier=sources

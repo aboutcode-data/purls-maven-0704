@@ -1,3 +1,5 @@
+- pkg:maven/io.sundr.tests/shapes@0.100.0
+- pkg:maven/io.sundr.tests/shapes@0.100.0?classifier=sources
 - pkg:maven/io.sundr.tests/shapes@0.22.0
 - pkg:maven/io.sundr.tests/shapes@0.22.0?classifier=sources
 - pkg:maven/io.sundr.tests/shapes@0.22.1

@@ -1,1 +1,2 @@
 - pkg:maven/com.revolut.recyclerkit/decorations@1.0.9?classifier=sources
+- pkg:maven/com.revolut.recyclerkit/decorations@1.1.0?classifier=sources

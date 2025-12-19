@@ -1,2 +1,4 @@
 - pkg:maven/dev.filechampion/filechampion4j@0.9.8.2
 - pkg:maven/dev.filechampion/filechampion4j@0.9.8.2?classifier=sources
+- pkg:maven/dev.filechampion/filechampion4j@0.9.8.3
+- pkg:maven/dev.filechampion/filechampion4j@0.9.8.3?classifier=sources

@@ -54,3 +54,5 @@
 - pkg:maven/com.cognitect.aws/wafv2@845.2.1359.0?classifier=sources
 - pkg:maven/com.cognitect.aws/wafv2@847.2.1365.0
 - pkg:maven/com.cognitect.aws/wafv2@847.2.1365.0?classifier=sources
+- pkg:maven/com.cognitect.aws/wafv2@847.2.1387.0
+- pkg:maven/com.cognitect.aws/wafv2@847.2.1387.0?classifier=sources

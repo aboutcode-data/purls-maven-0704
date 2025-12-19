@@ -12,3 +12,5 @@
 - pkg:maven/io.smallrye.reactive/reactive-streams-tck-tests@2.0.0-milestone3
 - pkg:maven/io.smallrye.reactive/reactive-streams-tck-tests@2.1.0
 - pkg:maven/io.smallrye.reactive/reactive-streams-tck-tests@2.2.0
+- pkg:maven/io.smallrye.reactive/reactive-streams-tck-tests@2.3.0
+- pkg:maven/io.smallrye.reactive/reactive-streams-tck-tests@2.3.1

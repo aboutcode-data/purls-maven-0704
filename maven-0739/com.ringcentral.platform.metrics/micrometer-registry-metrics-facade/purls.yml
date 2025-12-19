@@ -8,3 +8,5 @@
 - pkg:maven/com.ringcentral.platform.metrics/micrometer-registry-metrics-facade@2.1.1-RELEASE?classifier=sources
 - pkg:maven/com.ringcentral.platform.metrics/micrometer-registry-metrics-facade@3.0.0-RELEASE
 - pkg:maven/com.ringcentral.platform.metrics/micrometer-registry-metrics-facade@3.0.0-RELEASE?classifier=sources
+- pkg:maven/com.ringcentral.platform.metrics/micrometer-registry-metrics-facade@3.1.0-RELEASE
+- pkg:maven/com.ringcentral.platform.metrics/micrometer-registry-metrics-facade@3.1.0-RELEASE?classifier=sources

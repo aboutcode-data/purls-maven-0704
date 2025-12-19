@@ -1,0 +1,2 @@
+- pkg:maven/dev.blanke.webpush/webpush@6.0.0
+- pkg:maven/dev.blanke.webpush/webpush@6.0.0?classifier=sources

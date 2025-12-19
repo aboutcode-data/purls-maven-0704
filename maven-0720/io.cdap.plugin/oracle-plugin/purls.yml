@@ -1,5 +1,7 @@
 - pkg:maven/io.cdap.plugin/oracle-plugin@1.10.0
 - pkg:maven/io.cdap.plugin/oracle-plugin@1.10.0?classifier=sources
+- pkg:maven/io.cdap.plugin/oracle-plugin@1.10.1
+- pkg:maven/io.cdap.plugin/oracle-plugin@1.10.1?classifier=sources
 - pkg:maven/io.cdap.plugin/oracle-plugin@1.6.0
 - pkg:maven/io.cdap.plugin/oracle-plugin@1.6.0?classifier=sources
 - pkg:maven/io.cdap.plugin/oracle-plugin@1.6.1
@@ -16,3 +18,5 @@
 - pkg:maven/io.cdap.plugin/oracle-plugin@1.9.0?classifier=sources
 - pkg:maven/io.cdap.plugin/oracle-plugin@1.9.1
 - pkg:maven/io.cdap.plugin/oracle-plugin@1.9.1?classifier=sources
+- pkg:maven/io.cdap.plugin/oracle-plugin@1.9.3
+- pkg:maven/io.cdap.plugin/oracle-plugin@1.9.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.codergjw/yaling-auth@1.0.0
+- pkg:maven/io.github.codergjw/yaling-auth@1.0.0?classifier=sources

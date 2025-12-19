@@ -269,5 +269,11 @@
 - pkg:maven/com.liferay/com.liferay.object.admin.rest.impl@1.0.90
 - pkg:maven/com.liferay/com.liferay.object.admin.rest.impl@1.0.90?classifier=sources
 - pkg:maven/com.liferay/com.liferay.object.admin.rest.impl@1.0.90?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.object.admin.rest.impl@1.0.91
+- pkg:maven/com.liferay/com.liferay.object.admin.rest.impl@1.0.91?classifier=sources
+- pkg:maven/com.liferay/com.liferay.object.admin.rest.impl@1.0.91?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.object.admin.rest.impl@1.0.92
+- pkg:maven/com.liferay/com.liferay.object.admin.rest.impl@1.0.92?classifier=sources
+- pkg:maven/com.liferay/com.liferay.object.admin.rest.impl@1.0.92?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.object.admin.rest.impl@1.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.object.admin.rest.impl@1.0.9?classifier=sources-commercial

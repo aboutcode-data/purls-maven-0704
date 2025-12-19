@@ -8,5 +8,11 @@
 - pkg:maven/global.maplink/restriction-zone-schema@1.4.13?classifier=sources
 - pkg:maven/global.maplink/restriction-zone-schema@1.4.14
 - pkg:maven/global.maplink/restriction-zone-schema@1.4.14?classifier=sources
+- pkg:maven/global.maplink/restriction-zone-schema@1.4.15
+- pkg:maven/global.maplink/restriction-zone-schema@1.4.15?classifier=sources
+- pkg:maven/global.maplink/restriction-zone-schema@1.4.16
+- pkg:maven/global.maplink/restriction-zone-schema@1.4.16?classifier=sources
+- pkg:maven/global.maplink/restriction-zone-schema@1.4.17
+- pkg:maven/global.maplink/restriction-zone-schema@1.4.17?classifier=sources
 - pkg:maven/global.maplink/restriction-zone-schema@1.4.9
 - pkg:maven/global.maplink/restriction-zone-schema@1.4.9?classifier=sources

@@ -272,6 +272,8 @@
 - pkg:maven/org.kie/kie-aries-blueprint@7.72.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-aries-blueprint@7.73.0.Final
 - pkg:maven/org.kie/kie-aries-blueprint@7.73.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-aries-blueprint@7.74.0.Final
+- pkg:maven/org.kie/kie-aries-blueprint@7.74.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-aries-blueprint@7.8.0.Final
 - pkg:maven/org.kie/kie-aries-blueprint@7.8.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-aries-blueprint@7.9.0.Final

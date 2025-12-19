@@ -1,1 +1,2 @@
 - pkg:maven/io.github.caldremch/entry-compiler@1.6.2?classifier=sources
+- pkg:maven/io.github.caldremch/entry-compiler@1.6.3?classifier=sources

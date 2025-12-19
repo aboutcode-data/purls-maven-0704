@@ -1,0 +1,2 @@
+- pkg:maven/org.entinae/coverallsio-maven-plugin@4.3.0-2
+- pkg:maven/org.entinae/coverallsio-maven-plugin@4.3.0-2?classifier=sources

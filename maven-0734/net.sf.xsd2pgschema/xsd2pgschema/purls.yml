@@ -192,6 +192,8 @@
 - pkg:maven/net.sf.xsd2pgschema/xsd2pgschema@4.4.3?classifier=sources
 - pkg:maven/net.sf.xsd2pgschema/xsd2pgschema@4.4.4
 - pkg:maven/net.sf.xsd2pgschema/xsd2pgschema@4.4.4?classifier=sources
+- pkg:maven/net.sf.xsd2pgschema/xsd2pgschema@4.4.5
+- pkg:maven/net.sf.xsd2pgschema/xsd2pgschema@4.4.5?classifier=sources
 - pkg:maven/net.sf.xsd2pgschema/xsd2pgschema@5.0.0
 - pkg:maven/net.sf.xsd2pgschema/xsd2pgschema@5.0.0?classifier=sources
 - pkg:maven/net.sf.xsd2pgschema/xsd2pgschema@5.0.1
@@ -232,3 +234,5 @@
 - pkg:maven/net.sf.xsd2pgschema/xsd2pgschema@5.3.3?classifier=sources
 - pkg:maven/net.sf.xsd2pgschema/xsd2pgschema@5.3.4
 - pkg:maven/net.sf.xsd2pgschema/xsd2pgschema@5.3.4?classifier=sources
+- pkg:maven/net.sf.xsd2pgschema/xsd2pgschema@5.3.5
+- pkg:maven/net.sf.xsd2pgschema/xsd2pgschema@5.3.5?classifier=sources

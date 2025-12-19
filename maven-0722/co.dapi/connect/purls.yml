@@ -86,6 +86,13 @@
 - pkg:maven/co.dapi/connect@2.35.0?classifier=sources
 - pkg:maven/co.dapi/connect@2.35.1?classifier=sources
 - pkg:maven/co.dapi/connect@2.35.2?classifier=sources
+- pkg:maven/co.dapi/connect@2.36.0?classifier=sources
+- pkg:maven/co.dapi/connect@2.36.1?classifier=sources
+- pkg:maven/co.dapi/connect@2.36.2?classifier=sources
+- pkg:maven/co.dapi/connect@2.37.0?classifier=sources
+- pkg:maven/co.dapi/connect@2.37.1?classifier=sources
+- pkg:maven/co.dapi/connect@2.37.2?classifier=sources
+- pkg:maven/co.dapi/connect@2.37.3?classifier=sources
 - pkg:maven/co.dapi/connect@2.4.0?classifier=sources
 - pkg:maven/co.dapi/connect@2.4.1?classifier=sources
 - pkg:maven/co.dapi/connect@2.5.0?classifier=sources

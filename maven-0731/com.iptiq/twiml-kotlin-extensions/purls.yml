@@ -38,3 +38,5 @@
 - pkg:maven/com.iptiq/twiml-kotlin-extensions@9.5.0.0?classifier=sources
 - pkg:maven/com.iptiq/twiml-kotlin-extensions@9.6.0.0
 - pkg:maven/com.iptiq/twiml-kotlin-extensions@9.6.0.0?classifier=sources
+- pkg:maven/com.iptiq/twiml-kotlin-extensions@9.6.1.0
+- pkg:maven/com.iptiq/twiml-kotlin-extensions@9.6.1.0?classifier=sources

@@ -312,3 +312,5 @@
 - pkg:maven/org.uberfire/uberfire-commons@7.72.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-commons@7.73.0.Final
 - pkg:maven/org.uberfire/uberfire-commons@7.73.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-commons@7.74.0.Final
+- pkg:maven/org.uberfire/uberfire-commons@7.74.0.Final?classifier=sources

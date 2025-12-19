@@ -1,3 +1,5 @@
+- pkg:maven/dev.hcf.ball/ball-game@3.0.10.20230520
+- pkg:maven/dev.hcf.ball/ball-game@3.0.10.20230520?classifier=sources
 - pkg:maven/dev.hcf.ball/ball-game@3.0.3.20221024
 - pkg:maven/dev.hcf.ball/ball-game@3.0.3.20221024?classifier=sources
 - pkg:maven/dev.hcf.ball/ball-game@3.0.4.20221214

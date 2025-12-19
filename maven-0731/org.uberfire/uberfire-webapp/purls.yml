@@ -337,3 +337,5 @@
 - pkg:maven/org.uberfire/uberfire-webapp@7.72.0.Final?type=war
 - pkg:maven/org.uberfire/uberfire-webapp@7.73.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-webapp@7.73.0.Final?type=war
+- pkg:maven/org.uberfire/uberfire-webapp@7.74.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-webapp@7.74.0.Final?type=war

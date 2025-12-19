@@ -111,4 +111,6 @@
 - pkg:maven/com.dongxiguo/fastring_2.12@1.0.0%2B330-4b373a02?classifier=sources
 - pkg:maven/com.dongxiguo/fastring_2.12@1.0.0%2B331-216cf2fa
 - pkg:maven/com.dongxiguo/fastring_2.12@1.0.0%2B331-216cf2fa?classifier=sources
+- pkg:maven/com.dongxiguo/fastring_2.12@1.0.0%2B332-cd7c8753
+- pkg:maven/com.dongxiguo/fastring_2.12@1.0.0%2B332-cd7c8753?classifier=sources
 - pkg:maven/com.dongxiguo/fastring_2.12@1.0.0?classifier=sources

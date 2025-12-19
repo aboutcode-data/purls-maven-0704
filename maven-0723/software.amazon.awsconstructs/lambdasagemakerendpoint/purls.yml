@@ -274,6 +274,10 @@
 - pkg:maven/software.amazon.awsconstructs/lambdasagemakerendpoint@2.39.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/lambdasagemakerendpoint@2.4.0
 - pkg:maven/software.amazon.awsconstructs/lambdasagemakerendpoint@2.4.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/lambdasagemakerendpoint@2.40.0
+- pkg:maven/software.amazon.awsconstructs/lambdasagemakerendpoint@2.40.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/lambdasagemakerendpoint@2.41.0
+- pkg:maven/software.amazon.awsconstructs/lambdasagemakerendpoint@2.41.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/lambdasagemakerendpoint@2.5.0
 - pkg:maven/software.amazon.awsconstructs/lambdasagemakerendpoint@2.5.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/lambdasagemakerendpoint@2.6.0

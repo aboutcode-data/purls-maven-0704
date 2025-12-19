@@ -23,3 +23,5 @@
 - pkg:maven/io.github.flayone/advance-core@4.1.1_2?type=aar
 - pkg:maven/io.github.flayone/advance-core@4.2.0?type=aar
 - pkg:maven/io.github.flayone/advance-core@4.2.1?type=aar
+- pkg:maven/io.github.flayone/advance-core@4.2.2?type=aar
+- pkg:maven/io.github.flayone/advance-core@4.2.3?type=aar

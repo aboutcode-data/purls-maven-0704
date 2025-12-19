@@ -39,3 +39,7 @@
 - pkg:maven/io.github.flayone/advance-csj@4.2.0_4908_core?type=aar
 - pkg:maven/io.github.flayone/advance-csj@4.2.1_5102?type=aar
 - pkg:maven/io.github.flayone/advance-csj@4.2.1_5102_core?type=aar
+- pkg:maven/io.github.flayone/advance-csj@4.2.2_5102?type=aar
+- pkg:maven/io.github.flayone/advance-csj@4.2.2_5102_core?type=aar
+- pkg:maven/io.github.flayone/advance-csj@4.2.3_5102?type=aar
+- pkg:maven/io.github.flayone/advance-csj@4.2.3_5102_core?type=aar

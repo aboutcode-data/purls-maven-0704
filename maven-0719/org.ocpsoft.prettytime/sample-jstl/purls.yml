@@ -30,3 +30,5 @@
 - pkg:maven/org.ocpsoft.prettytime/sample-jstl@5.0.5.Final?classifier=sources
 - pkg:maven/org.ocpsoft.prettytime/sample-jstl@5.0.6.Final
 - pkg:maven/org.ocpsoft.prettytime/sample-jstl@5.0.6.Final?classifier=sources
+- pkg:maven/org.ocpsoft.prettytime/sample-jstl@5.0.7.Final
+- pkg:maven/org.ocpsoft.prettytime/sample-jstl@5.0.7.Final?classifier=sources

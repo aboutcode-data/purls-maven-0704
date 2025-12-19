@@ -96,3 +96,7 @@
 - pkg:maven/com.amazonaws/aws-android-sdk-chimesdkidentity@2.67.0?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-chimesdkidentity@2.68.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-chimesdkidentity@2.68.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-chimesdkidentity@2.69.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-chimesdkidentity@2.69.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-chimesdkidentity@2.70.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-chimesdkidentity@2.70.0?type=aar

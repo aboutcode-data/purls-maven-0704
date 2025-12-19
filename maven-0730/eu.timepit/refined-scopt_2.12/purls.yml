@@ -6,6 +6,8 @@
 - pkg:maven/eu.timepit/refined-scopt_2.12@0.10.2?classifier=sources
 - pkg:maven/eu.timepit/refined-scopt_2.12@0.10.3
 - pkg:maven/eu.timepit/refined-scopt_2.12@0.10.3?classifier=sources
+- pkg:maven/eu.timepit/refined-scopt_2.12@0.11.0
+- pkg:maven/eu.timepit/refined-scopt_2.12@0.11.0?classifier=sources
 - pkg:maven/eu.timepit/refined-scopt_2.12@0.9.0
 - pkg:maven/eu.timepit/refined-scopt_2.12@0.9.0?classifier=sources
 - pkg:maven/eu.timepit/refined-scopt_2.12@0.9.1

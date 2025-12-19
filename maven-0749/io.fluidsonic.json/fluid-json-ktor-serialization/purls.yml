@@ -1,1 +1,2 @@
 - pkg:maven/io.fluidsonic.json/fluid-json-ktor-serialization@1.4.0?classifier=sources
+- pkg:maven/io.fluidsonic.json/fluid-json-ktor-serialization@1.5.0?classifier=sources

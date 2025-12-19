@@ -44,3 +44,5 @@
 - pkg:maven/edu.berkeley.cs/firrtl_2.13@1.6.0-RC3
 - pkg:maven/edu.berkeley.cs/firrtl_2.13@1.6.0-RC3?classifier=sources
 - pkg:maven/edu.berkeley.cs/firrtl_2.13@1.6.0?classifier=sources
+- pkg:maven/edu.berkeley.cs/firrtl_2.13@5.0.0
+- pkg:maven/edu.berkeley.cs/firrtl_2.13@5.0.0?classifier=sources

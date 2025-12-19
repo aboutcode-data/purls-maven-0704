@@ -66,4 +66,5 @@
 - pkg:maven/org.roaringbitmap/shims@0.9.4
 - pkg:maven/org.roaringbitmap/shims@0.9.40?classifier=sources
 - pkg:maven/org.roaringbitmap/shims@0.9.44?classifier=sources
+- pkg:maven/org.roaringbitmap/shims@0.9.45?classifier=sources
 - pkg:maven/org.roaringbitmap/shims@0.9.4?classifier=sources

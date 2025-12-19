@@ -12,3 +12,8 @@
 - pkg:maven/io.vena/bosk-jackson@0.0.79?classifier=sources
 - pkg:maven/io.vena/bosk-jackson@0.0.80?classifier=sources
 - pkg:maven/io.vena/bosk-jackson@0.0.81?classifier=sources
+- pkg:maven/io.vena/bosk-jackson@0.0.82?classifier=sources
+- pkg:maven/io.vena/bosk-jackson@0.0.83?classifier=sources
+- pkg:maven/io.vena/bosk-jackson@0.0.84?classifier=sources
+- pkg:maven/io.vena/bosk-jackson@0.0.90?classifier=sources
+- pkg:maven/io.vena/bosk-jackson@0.0.91?classifier=sources
