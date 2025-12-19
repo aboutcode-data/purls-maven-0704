@@ -8,6 +8,8 @@
 - pkg:maven/org.hswebframework.web/hsweb-authorization-oauth2@4.0.13?classifier=sources
 - pkg:maven/org.hswebframework.web/hsweb-authorization-oauth2@4.0.14
 - pkg:maven/org.hswebframework.web/hsweb-authorization-oauth2@4.0.14?classifier=sources
+- pkg:maven/org.hswebframework.web/hsweb-authorization-oauth2@4.0.15
+- pkg:maven/org.hswebframework.web/hsweb-authorization-oauth2@4.0.15?classifier=sources
 - pkg:maven/org.hswebframework.web/hsweb-authorization-oauth2@4.0.8
 - pkg:maven/org.hswebframework.web/hsweb-authorization-oauth2@4.0.8?classifier=sources
 - pkg:maven/org.hswebframework.web/hsweb-authorization-oauth2@4.0.9

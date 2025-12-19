@@ -8,3 +8,4 @@
 - pkg:maven/com.jessecorbett/diskord-bot-jvm@2.1.4?classifier=sources
 - pkg:maven/com.jessecorbett/diskord-bot-jvm@3.0.0?classifier=sources
 - pkg:maven/com.jessecorbett/diskord-bot-jvm@3.0.1?classifier=sources
+- pkg:maven/com.jessecorbett/diskord-bot-jvm@3.0.2?classifier=sources

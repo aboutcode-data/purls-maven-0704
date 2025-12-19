@@ -84,3 +84,5 @@
 - pkg:maven/com.gitee.l0km/sql2java-observer@3.9.0?classifier=sources
 - pkg:maven/com.gitee.l0km/sql2java-observer@3.9.1
 - pkg:maven/com.gitee.l0km/sql2java-observer@3.9.1?classifier=sources
+- pkg:maven/com.gitee.l0km/sql2java-observer@4.0.0
+- pkg:maven/com.gitee.l0km/sql2java-observer@4.0.0?classifier=sources

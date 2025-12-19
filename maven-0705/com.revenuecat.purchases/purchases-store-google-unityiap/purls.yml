@@ -19,3 +19,6 @@
 - pkg:maven/com.revenuecat.purchases/purchases-store-google-unityiap@5.6.7?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-store-google-unityiap@5.7.0?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-store-google-unityiap@5.7.1?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-store-google-unityiap@5.8.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-store-google-unityiap@5.8.1?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-store-google-unityiap@5.8.2?classifier=sources

@@ -1,4 +1,6 @@
 - pkg:maven/org.webjars.npm/types__express-serve-static-core@4.0.40
 - pkg:maven/org.webjars.npm/types__express-serve-static-core@4.0.40?classifier=sources
+- pkg:maven/org.webjars.npm/types__express-serve-static-core@4.17.28
+- pkg:maven/org.webjars.npm/types__express-serve-static-core@4.17.28?classifier=sources
 - pkg:maven/org.webjars.npm/types__express-serve-static-core@4.17.31
 - pkg:maven/org.webjars.npm/types__express-serve-static-core@4.17.31?classifier=sources

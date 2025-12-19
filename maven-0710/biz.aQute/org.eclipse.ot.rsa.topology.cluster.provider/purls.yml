@@ -1,0 +1,2 @@
+- pkg:maven/biz.aQute/org.eclipse.ot.rsa.topology.cluster.provider@1.0.0
+- pkg:maven/biz.aQute/org.eclipse.ot.rsa.topology.cluster.provider@1.0.0?classifier=sources

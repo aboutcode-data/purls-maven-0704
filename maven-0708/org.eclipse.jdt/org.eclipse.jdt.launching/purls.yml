@@ -36,6 +36,8 @@
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.launching@3.19.700?classifier=sources
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.launching@3.19.800
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.launching@3.19.800?classifier=sources
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.launching@3.19.900
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.launching@3.19.900?classifier=sources
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.launching@3.8.101
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.launching@3.8.101?classifier=sources
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.launching@3.9.0

@@ -71,6 +71,7 @@
 - pkg:maven/org.broadinstitute/gatk@4.2.6.0?classifier=sources
 - pkg:maven/org.broadinstitute/gatk@4.2.6.1?classifier=sources
 - pkg:maven/org.broadinstitute/gatk@4.3.0.0?classifier=sources
+- pkg:maven/org.broadinstitute/gatk@4.4.0.0?classifier=sources
 - pkg:maven/org.broadinstitute/gatk@4.alpha.1?classifier=sources
 - pkg:maven/org.broadinstitute/gatk@4.alpha.2?classifier=sources
 - pkg:maven/org.broadinstitute/gatk@4.beta.1?classifier=sources

@@ -4,3 +4,7 @@
 - pkg:maven/cz.encircled/skom@1.2?classifier=sources
 - pkg:maven/cz.encircled/skom@1.3
 - pkg:maven/cz.encircled/skom@1.3?classifier=sources
+- pkg:maven/cz.encircled/skom@1.4
+- pkg:maven/cz.encircled/skom@1.4?classifier=sources
+- pkg:maven/cz.encircled/skom@1.5
+- pkg:maven/cz.encircled/skom@1.5?classifier=sources

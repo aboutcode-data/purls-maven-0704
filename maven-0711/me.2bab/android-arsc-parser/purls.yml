@@ -4,3 +4,4 @@
 - pkg:maven/me.2bab/android-arsc-parser@0.6.2?classifier=sources
 - pkg:maven/me.2bab/android-arsc-parser@0.7.0?classifier=sources
 - pkg:maven/me.2bab/android-arsc-parser@0.8.0?classifier=sources
+- pkg:maven/me.2bab/android-arsc-parser@0.8.1?classifier=sources

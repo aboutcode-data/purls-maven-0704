@@ -212,3 +212,5 @@
 - pkg:maven/com.immomo.xengine/xeengine_android@5.0.1.20221208.1806?type=aar
 - pkg:maven/com.immomo.xengine/xeengine_android@5.0.1.20221215.0922?classifier=sources
 - pkg:maven/com.immomo.xengine/xeengine_android@5.0.1.20221215.0922?type=aar
+- pkg:maven/com.immomo.xengine/xeengine_android@5.0.1.20230224.1822?classifier=sources
+- pkg:maven/com.immomo.xengine/xeengine_android@5.0.1.20230224.1822?type=aar

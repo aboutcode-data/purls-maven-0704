@@ -176,6 +176,8 @@
 - pkg:maven/ru.sbtqa.tag.pagefactory/html-plugin@17.0.3?classifier=sources
 - pkg:maven/ru.sbtqa.tag.pagefactory/html-plugin@17.1.0
 - pkg:maven/ru.sbtqa.tag.pagefactory/html-plugin@17.1.0?classifier=sources
+- pkg:maven/ru.sbtqa.tag.pagefactory/html-plugin@18.0.0
+- pkg:maven/ru.sbtqa.tag.pagefactory/html-plugin@18.0.0?classifier=sources
 - pkg:maven/ru.sbtqa.tag.pagefactory/html-plugin@4.9.0
 - pkg:maven/ru.sbtqa.tag.pagefactory/html-plugin@4.9.0?classifier=sources
 - pkg:maven/ru.sbtqa.tag.pagefactory/html-plugin@7.0.0

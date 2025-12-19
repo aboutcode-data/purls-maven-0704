@@ -1,0 +1,4 @@
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-aws-cdk_3@1.2.10
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-aws-cdk_3@1.2.10?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-aws-cdk_3@1.2.9
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-aws-cdk_3@1.2.9?classifier=sources

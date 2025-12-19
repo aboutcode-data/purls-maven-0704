@@ -1,2 +1,6 @@
 - pkg:maven/com.aliyun/paiflow20210202@1.0.35-tea1.1.13
 - pkg:maven/com.aliyun/paiflow20210202@1.0.35-tea1.1.13?classifier=sources
+- pkg:maven/com.aliyun/paiflow20210202@1.1.0
+- pkg:maven/com.aliyun/paiflow20210202@1.1.0?classifier=sources
+- pkg:maven/com.aliyun/paiflow20210202@1.1.1
+- pkg:maven/com.aliyun/paiflow20210202@1.1.1?classifier=sources

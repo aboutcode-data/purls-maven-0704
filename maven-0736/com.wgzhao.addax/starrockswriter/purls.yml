@@ -1,2 +1,4 @@
+- pkg:maven/com.wgzhao.addax/starrockswriter@4.0.12
+- pkg:maven/com.wgzhao.addax/starrockswriter@4.0.12?classifier=sources
 - pkg:maven/com.wgzhao.addax/starrockswriter@4.0.9
 - pkg:maven/com.wgzhao.addax/starrockswriter@4.0.9?classifier=sources

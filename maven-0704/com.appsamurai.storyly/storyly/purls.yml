@@ -71,3 +71,7 @@
 - pkg:maven/com.appsamurai.storyly/storyly@1.28.4?classifier=sources
 - pkg:maven/com.appsamurai.storyly/storyly@1.29.0?classifier=sources
 - pkg:maven/com.appsamurai.storyly/storyly@1.30.0?classifier=sources
+- pkg:maven/com.appsamurai.storyly/storyly@1.31.0?classifier=sources
+- pkg:maven/com.appsamurai.storyly/storyly@1.31.1?classifier=sources
+- pkg:maven/com.appsamurai.storyly/storyly@1.31.2?classifier=sources
+- pkg:maven/com.appsamurai.storyly/storyly@1.31.3?classifier=sources

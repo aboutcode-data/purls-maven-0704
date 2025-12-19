@@ -80,3 +80,5 @@
 - pkg:maven/net.pincette/pincette-mongo@4.0.9
 - pkg:maven/net.pincette/pincette-mongo@4.0.9?classifier=sources
 - pkg:maven/net.pincette/pincette-mongo@4.0?classifier=sources
+- pkg:maven/net.pincette/pincette-mongo@4.1
+- pkg:maven/net.pincette/pincette-mongo@4.1?classifier=sources

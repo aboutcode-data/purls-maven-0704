@@ -66,6 +66,12 @@
 - pkg:maven/com.intuit.graphql/graphql-orchestrator-java@5.0.16?classifier=sources
 - pkg:maven/com.intuit.graphql/graphql-orchestrator-java@5.0.17
 - pkg:maven/com.intuit.graphql/graphql-orchestrator-java@5.0.17?classifier=sources
+- pkg:maven/com.intuit.graphql/graphql-orchestrator-java@5.0.18
+- pkg:maven/com.intuit.graphql/graphql-orchestrator-java@5.0.18?classifier=sources
+- pkg:maven/com.intuit.graphql/graphql-orchestrator-java@5.0.19-beta1
+- pkg:maven/com.intuit.graphql/graphql-orchestrator-java@5.0.19-beta1?classifier=sources
+- pkg:maven/com.intuit.graphql/graphql-orchestrator-java@5.0.19-defer
+- pkg:maven/com.intuit.graphql/graphql-orchestrator-java@5.0.19-defer?classifier=sources
 - pkg:maven/com.intuit.graphql/graphql-orchestrator-java@5.0.1?classifier=sources
 - pkg:maven/com.intuit.graphql/graphql-orchestrator-java@5.0.2
 - pkg:maven/com.intuit.graphql/graphql-orchestrator-java@5.0.2?classifier=sources

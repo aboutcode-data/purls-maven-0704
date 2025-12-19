@@ -8,3 +8,4 @@
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-micrometer-meter-provider@1.20.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-micrometer-meter-provider@1.21.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-micrometer-meter-provider@1.22.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.contrib/opentelemetry-micrometer-meter-provider@1.23.0-alpha?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.maven.indexer/search-backend-indexer@6.2.2?classifier=sources
 - pkg:maven/org.apache.maven.indexer/search-backend-indexer@7.0.0
 - pkg:maven/org.apache.maven.indexer/search-backend-indexer@7.0.0?classifier=sources
+- pkg:maven/org.apache.maven.indexer/search-backend-indexer@7.0.1
+- pkg:maven/org.apache.maven.indexer/search-backend-indexer@7.0.1?classifier=sources

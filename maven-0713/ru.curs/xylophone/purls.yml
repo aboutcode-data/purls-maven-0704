@@ -143,6 +143,8 @@
 - pkg:maven/ru.curs/xylophone@6.1.71?classifier=sources
 - pkg:maven/ru.curs/xylophone@6.1.72
 - pkg:maven/ru.curs/xylophone@6.1.72?classifier=sources
+- pkg:maven/ru.curs/xylophone@6.1.73
+- pkg:maven/ru.curs/xylophone@6.1.73?classifier=sources
 - pkg:maven/ru.curs/xylophone@6.1.7?classifier=sources
 - pkg:maven/ru.curs/xylophone@6.1.8
 - pkg:maven/ru.curs/xylophone@6.1.8?classifier=sources

@@ -318,6 +318,8 @@
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-ldap@3.18.14?type=zip
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-ldap@3.18.15?classifier=sources
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-ldap@3.18.15?type=zip
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-ldap@3.18.16?classifier=sources
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-ldap@3.18.16?type=zip
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-ldap@3.18.1?classifier=sources
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-ldap@3.18.1?type=zip
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-ldap@3.18.2?classifier=sources
@@ -352,6 +354,8 @@
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-ldap@3.19.5?type=zip
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-ldap@3.19.6?classifier=sources
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-ldap@3.19.6?type=zip
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-ldap@3.19.7?classifier=sources
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-ldap@3.19.7?type=zip
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-ldap@3.2.0?classifier=sources
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-ldap@3.2.0?type=zip
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-ldap@3.2.1?classifier=sources
@@ -366,6 +370,16 @@
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-ldap@3.20.0-alpha.2?type=zip
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-ldap@3.20.0?classifier=sources
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-ldap@3.20.0?type=zip
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-ldap@3.20.1?classifier=sources
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-ldap@3.20.1?type=zip
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-ldap@3.20.2?classifier=sources
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-ldap@3.20.2?type=zip
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-ldap@3.21.0-alpha.1?classifier=sources
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-ldap@3.21.0-alpha.1?type=zip
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-ldap@3.21.0-alpha.2?classifier=sources
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-ldap@3.21.0-alpha.2?type=zip
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-ldap@3.21.0-alpha.3?classifier=sources
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-ldap@3.21.0-alpha.3?type=zip
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-ldap@3.3.0?classifier=sources
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-ldap@3.3.0?type=zip
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-ldap@3.3.1?classifier=sources

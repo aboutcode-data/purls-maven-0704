@@ -48,6 +48,7 @@
 - pkg:maven/com.graphhopper/graphhopper-nav@6.1?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-nav@6.2
 - pkg:maven/com.graphhopper/graphhopper-nav@6.2?classifier=sources
+- pkg:maven/com.graphhopper/graphhopper-nav@7.0
 - pkg:maven/com.graphhopper/graphhopper-nav@7.0-pre1
 - pkg:maven/com.graphhopper/graphhopper-nav@7.0-pre1?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-nav@7.0-pre2
@@ -58,5 +59,6 @@
 - pkg:maven/com.graphhopper/graphhopper-nav@7.0-testgithub4?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-nav@7.0-testgithub6
 - pkg:maven/com.graphhopper/graphhopper-nav@7.0-testgithub6?classifier=sources
+- pkg:maven/com.graphhopper/graphhopper-nav@7.0?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-nav@client_hc_no_vehicle
 - pkg:maven/com.graphhopper/graphhopper-nav@client_hc_no_vehicle?classifier=sources

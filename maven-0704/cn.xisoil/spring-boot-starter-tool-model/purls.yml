@@ -4,3 +4,7 @@
 - pkg:maven/cn.xisoil/spring-boot-starter-tool-model@1.0.1-RELEASE?classifier=sources
 - pkg:maven/cn.xisoil/spring-boot-starter-tool-model@1.0.2-RELEASE
 - pkg:maven/cn.xisoil/spring-boot-starter-tool-model@1.0.2-RELEASE?classifier=sources
+- pkg:maven/cn.xisoil/spring-boot-starter-tool-model@1.1.1-RELEASE
+- pkg:maven/cn.xisoil/spring-boot-starter-tool-model@1.1.1-RELEASE?classifier=sources
+- pkg:maven/cn.xisoil/spring-boot-starter-tool-model@1.1.2-RELEASE
+- pkg:maven/cn.xisoil/spring-boot-starter-tool-model@1.1.2-RELEASE?classifier=sources

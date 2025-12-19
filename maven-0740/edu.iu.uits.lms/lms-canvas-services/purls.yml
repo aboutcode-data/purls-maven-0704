@@ -22,3 +22,13 @@
 - pkg:maven/edu.iu.uits.lms/lms-canvas-services@5.0.8?classifier=sources
 - pkg:maven/edu.iu.uits.lms/lms-canvas-services@5.0.9
 - pkg:maven/edu.iu.uits.lms/lms-canvas-services@5.0.9?classifier=sources
+- pkg:maven/edu.iu.uits.lms/lms-canvas-services@5.2.0
+- pkg:maven/edu.iu.uits.lms/lms-canvas-services@5.2.0-beta
+- pkg:maven/edu.iu.uits.lms/lms-canvas-services@5.2.0-beta2
+- pkg:maven/edu.iu.uits.lms/lms-canvas-services@5.2.0-beta2?classifier=sources
+- pkg:maven/edu.iu.uits.lms/lms-canvas-services@5.2.0-beta3
+- pkg:maven/edu.iu.uits.lms/lms-canvas-services@5.2.0-beta3?classifier=sources
+- pkg:maven/edu.iu.uits.lms/lms-canvas-services@5.2.0-beta?classifier=sources
+- pkg:maven/edu.iu.uits.lms/lms-canvas-services@5.2.0?classifier=sources
+- pkg:maven/edu.iu.uits.lms/lms-canvas-services@5.2.1
+- pkg:maven/edu.iu.uits.lms/lms-canvas-services@5.2.1?classifier=sources

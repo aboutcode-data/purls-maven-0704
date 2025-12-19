@@ -34,3 +34,7 @@
 - pkg:maven/com.gitlab.cdc-java.util/cdc-util-demos@0.28.2?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.util/cdc-util-demos@0.29.0
 - pkg:maven/com.gitlab.cdc-java.util/cdc-util-demos@0.29.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.util/cdc-util-demos@0.30.0
+- pkg:maven/com.gitlab.cdc-java.util/cdc-util-demos@0.30.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.util/cdc-util-demos@0.31.0
+- pkg:maven/com.gitlab.cdc-java.util/cdc-util-demos@0.31.0?classifier=sources

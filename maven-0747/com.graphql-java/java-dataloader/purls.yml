@@ -1,3 +1,4 @@
+- pkg:maven/com.graphql-java/java-dataloader@0.0.0-2023-03-07T06-44-27-db61b14?classifier=sources
 - pkg:maven/com.graphql-java/java-dataloader@1.0.1
 - pkg:maven/com.graphql-java/java-dataloader@1.0.1-alpha3
 - pkg:maven/com.graphql-java/java-dataloader@1.0.1-alpha3?classifier=sources

@@ -134,3 +134,7 @@
 - pkg:maven/io.airlift/security@222?classifier=sources
 - pkg:maven/io.airlift/security@223
 - pkg:maven/io.airlift/security@223?classifier=sources
+- pkg:maven/io.airlift/security@224
+- pkg:maven/io.airlift/security@224?classifier=sources
+- pkg:maven/io.airlift/security@225
+- pkg:maven/io.airlift/security@225?classifier=sources

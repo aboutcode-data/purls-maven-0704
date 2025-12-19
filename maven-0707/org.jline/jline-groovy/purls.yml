@@ -20,3 +20,5 @@
 - pkg:maven/org.jline/jline-groovy@3.21.0?classifier=sources
 - pkg:maven/org.jline/jline-groovy@3.22.0
 - pkg:maven/org.jline/jline-groovy@3.22.0?classifier=sources
+- pkg:maven/org.jline/jline-groovy@3.23.0
+- pkg:maven/org.jline/jline-groovy@3.23.0?classifier=sources

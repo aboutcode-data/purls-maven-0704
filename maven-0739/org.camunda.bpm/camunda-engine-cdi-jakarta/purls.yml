@@ -1,0 +1,2 @@
+- pkg:maven/org.camunda.bpm/camunda-engine-cdi-jakarta@7.19.0-alpha4
+- pkg:maven/org.camunda.bpm/camunda-engine-cdi-jakarta@7.19.0-alpha4?classifier=sources

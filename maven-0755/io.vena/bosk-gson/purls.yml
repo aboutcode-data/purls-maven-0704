@@ -16,3 +16,8 @@
 - pkg:maven/io.vena/bosk-gson@0.0.62?classifier=sources
 - pkg:maven/io.vena/bosk-gson@0.0.63?classifier=sources
 - pkg:maven/io.vena/bosk-gson@0.0.64?classifier=sources
+- pkg:maven/io.vena/bosk-gson@0.0.70?classifier=sources
+- pkg:maven/io.vena/bosk-gson@0.0.71?classifier=sources
+- pkg:maven/io.vena/bosk-gson@0.0.73?classifier=sources
+- pkg:maven/io.vena/bosk-gson@0.0.74?classifier=sources
+- pkg:maven/io.vena/bosk-gson@0.0.75?classifier=sources

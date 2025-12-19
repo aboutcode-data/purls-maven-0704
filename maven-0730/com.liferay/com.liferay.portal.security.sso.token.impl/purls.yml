@@ -74,6 +74,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@1.0.31
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@1.0.31?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@1.0.31?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@1.0.32
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@1.0.32?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@1.0.32?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@1.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@1.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@1.0.4
@@ -125,6 +128,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@2.0.18
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@2.0.18?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@2.0.18?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@2.0.19
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@2.0.19?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@2.0.19?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@2.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@2.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@2.0.2
@@ -179,6 +185,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@3.0.17
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@3.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@3.0.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@3.0.18
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@3.0.18?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@3.0.18?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@3.0.2
@@ -209,6 +218,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@4.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@4.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@4.0.1
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@4.0.10
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@4.0.10?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@4.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@4.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@4.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@4.0.2
@@ -257,6 +269,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@5.0.15
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@5.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@5.0.15?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@5.0.16
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@5.0.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@5.0.16?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@5.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@5.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.token.impl@5.0.2

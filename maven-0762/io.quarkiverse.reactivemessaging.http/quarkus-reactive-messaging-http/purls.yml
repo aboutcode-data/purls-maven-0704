@@ -20,3 +20,5 @@
 - pkg:maven/io.quarkiverse.reactivemessaging.http/quarkus-reactive-messaging-http@1.0.8?classifier=sources
 - pkg:maven/io.quarkiverse.reactivemessaging.http/quarkus-reactive-messaging-http@1.1.0
 - pkg:maven/io.quarkiverse.reactivemessaging.http/quarkus-reactive-messaging-http@1.1.0?classifier=sources
+- pkg:maven/io.quarkiverse.reactivemessaging.http/quarkus-reactive-messaging-http@2.0.0.Alpha
+- pkg:maven/io.quarkiverse.reactivemessaging.http/quarkus-reactive-messaging-http@2.0.0.Alpha?classifier=sources

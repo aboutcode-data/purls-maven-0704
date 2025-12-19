@@ -1,0 +1,2 @@
+- pkg:maven/org.alluxio/alluxio-shaded-hadoop3-client@2.9.2
+- pkg:maven/org.alluxio/alluxio-shaded-hadoop3-client@2.9.2?classifier=sources

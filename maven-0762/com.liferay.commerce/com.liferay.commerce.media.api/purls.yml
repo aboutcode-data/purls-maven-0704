@@ -118,3 +118,6 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.media.api@5.1.4
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.media.api@5.1.4?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.media.api@5.1.4?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.media.api@5.2.0
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.media.api@5.2.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.media.api@5.2.0?classifier=sources-commercial

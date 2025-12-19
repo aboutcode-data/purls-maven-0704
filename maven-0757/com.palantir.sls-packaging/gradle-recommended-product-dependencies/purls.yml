@@ -111,7 +111,11 @@
 - pkg:maven/com.palantir.sls-packaging/gradle-recommended-product-dependencies@7.25.0?classifier=sources
 - pkg:maven/com.palantir.sls-packaging/gradle-recommended-product-dependencies@7.26.0?classifier=sources
 - pkg:maven/com.palantir.sls-packaging/gradle-recommended-product-dependencies@7.27.0?classifier=sources
+- pkg:maven/com.palantir.sls-packaging/gradle-recommended-product-dependencies@7.28.0?classifier=sources
+- pkg:maven/com.palantir.sls-packaging/gradle-recommended-product-dependencies@7.29.0?classifier=sources
 - pkg:maven/com.palantir.sls-packaging/gradle-recommended-product-dependencies@7.3.0?classifier=sources
+- pkg:maven/com.palantir.sls-packaging/gradle-recommended-product-dependencies@7.30.0?classifier=sources
+- pkg:maven/com.palantir.sls-packaging/gradle-recommended-product-dependencies@7.31.0?classifier=sources
 - pkg:maven/com.palantir.sls-packaging/gradle-recommended-product-dependencies@7.4.0?classifier=sources
 - pkg:maven/com.palantir.sls-packaging/gradle-recommended-product-dependencies@7.5.0?classifier=sources
 - pkg:maven/com.palantir.sls-packaging/gradle-recommended-product-dependencies@7.6.0?classifier=sources

@@ -92,6 +92,8 @@
 - pkg:maven/io.fusionauth/fusionauth-java-client@1.41.0?classifier=sources
 - pkg:maven/io.fusionauth/fusionauth-java-client@1.42.0
 - pkg:maven/io.fusionauth/fusionauth-java-client@1.42.0?classifier=sources
+- pkg:maven/io.fusionauth/fusionauth-java-client@1.43.0
+- pkg:maven/io.fusionauth/fusionauth-java-client@1.43.0?classifier=sources
 - pkg:maven/io.fusionauth/fusionauth-java-client@1.5.0
 - pkg:maven/io.fusionauth/fusionauth-java-client@1.5.0?classifier=sources
 - pkg:maven/io.fusionauth/fusionauth-java-client@1.6.0

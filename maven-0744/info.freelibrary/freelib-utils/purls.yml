@@ -88,3 +88,7 @@
 - pkg:maven/info.freelibrary/freelib-utils@3.2.4?classifier=sources
 - pkg:maven/info.freelibrary/freelib-utils@3.3.0
 - pkg:maven/info.freelibrary/freelib-utils@3.3.0?classifier=sources
+- pkg:maven/info.freelibrary/freelib-utils@4.0.0
+- pkg:maven/info.freelibrary/freelib-utils@4.0.0?classifier=sources
+- pkg:maven/info.freelibrary/freelib-utils@4.0.1
+- pkg:maven/info.freelibrary/freelib-utils@4.0.1?classifier=sources

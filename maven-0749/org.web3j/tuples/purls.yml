@@ -154,6 +154,8 @@
 - pkg:maven/org.web3j/tuples@4.9.5?classifier=sources
 - pkg:maven/org.web3j/tuples@4.9.6
 - pkg:maven/org.web3j/tuples@4.9.6?classifier=sources
+- pkg:maven/org.web3j/tuples@4.9.7
+- pkg:maven/org.web3j/tuples@4.9.7?classifier=sources
 - pkg:maven/org.web3j/tuples@5.0.0
 - pkg:maven/org.web3j/tuples@5.0.0?classifier=sources
 - pkg:maven/org.web3j/tuples@REF

@@ -18,6 +18,7 @@
 - pkg:maven/com.wexalian.common/common@0.0.23?classifier=sources
 - pkg:maven/com.wexalian.common/common@0.0.24?classifier=sources
 - pkg:maven/com.wexalian.common/common@0.0.25?classifier=sources
+- pkg:maven/com.wexalian.common/common@0.0.26?classifier=sources
 - pkg:maven/com.wexalian.common/common@0.0.2?classifier=sources
 - pkg:maven/com.wexalian.common/common@0.0.3
 - pkg:maven/com.wexalian.common/common@0.0.3?classifier=sources

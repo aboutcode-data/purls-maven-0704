@@ -71,3 +71,4 @@
 - pkg:maven/org.xmlresolver/xmlresolver@4.6.4?classifier=sources
 - pkg:maven/org.xmlresolver/xmlresolver@5.0.0?classifier=sources
 - pkg:maven/org.xmlresolver/xmlresolver@5.1.0?classifier=sources
+- pkg:maven/org.xmlresolver/xmlresolver@5.1.1?classifier=sources

@@ -22,4 +22,6 @@
 - pkg:maven/cn.vorbote/vorbote-webdev-spring-boot-starter@4.0.2?classifier=sources
 - pkg:maven/cn.vorbote/vorbote-webdev-spring-boot-starter@4.0.3
 - pkg:maven/cn.vorbote/vorbote-webdev-spring-boot-starter@4.0.3?classifier=sources
+- pkg:maven/cn.vorbote/vorbote-webdev-spring-boot-starter@4.0.4
+- pkg:maven/cn.vorbote/vorbote-webdev-spring-boot-starter@4.0.4?classifier=sources
 - pkg:maven/cn.vorbote/vorbote-webdev-spring-boot-starter@4.1.0.EAP

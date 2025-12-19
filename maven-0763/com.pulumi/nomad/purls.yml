@@ -4,3 +4,4 @@
 - pkg:maven/com.pulumi/nomad@0.3.1-alpha.1673556194%2Bd2d00f2a?classifier=sources
 - pkg:maven/com.pulumi/nomad@0.3.1-alpha.1675109007%2B042830b2?classifier=sources
 - pkg:maven/com.pulumi/nomad@0.4.0?classifier=sources
+- pkg:maven/com.pulumi/nomad@0.4.1-alpha.1677786295%2B15625556?classifier=sources

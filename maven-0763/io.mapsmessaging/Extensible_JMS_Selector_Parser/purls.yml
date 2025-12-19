@@ -1,0 +1,2 @@
+- pkg:maven/io.mapsmessaging/Extensible_JMS_Selector_Parser@1.1.9
+- pkg:maven/io.mapsmessaging/Extensible_JMS_Selector_Parser@1.1.9?classifier=sources

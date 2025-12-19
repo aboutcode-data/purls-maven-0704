@@ -1,0 +1,14 @@
+- pkg:maven/io.accur8/a8-sync-api_3@1.0.0-20230214_1250_master
+- pkg:maven/io.accur8/a8-sync-api_3@1.0.0-20230214_1250_master?classifier=sources
+- pkg:maven/io.accur8/a8-sync-api_3@1.0.0-20230217_1150_master
+- pkg:maven/io.accur8/a8-sync-api_3@1.0.0-20230217_1150_master?classifier=sources
+- pkg:maven/io.accur8/a8-sync-api_3@1.0.0-20230221_1250_master
+- pkg:maven/io.accur8/a8-sync-api_3@1.0.0-20230221_1250_master?classifier=sources
+- pkg:maven/io.accur8/a8-sync-api_3@1.0.0-20230221_1308_master
+- pkg:maven/io.accur8/a8-sync-api_3@1.0.0-20230221_1308_master?classifier=sources
+- pkg:maven/io.accur8/a8-sync-api_3@1.0.0-20230221_1918_master
+- pkg:maven/io.accur8/a8-sync-api_3@1.0.0-20230221_1918_master?classifier=sources
+- pkg:maven/io.accur8/a8-sync-api_3@1.0.0-20230221_2041_master
+- pkg:maven/io.accur8/a8-sync-api_3@1.0.0-20230221_2041_master?classifier=sources
+- pkg:maven/io.accur8/a8-sync-api_3@1.0.0-20230303_1357_master
+- pkg:maven/io.accur8/a8-sync-api_3@1.0.0-20230303_1357_master?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/com.flaviofaria.catalog/catalog-gradle-plugin@0.1.0?classifier=sources
+- pkg:maven/com.flaviofaria.catalog/catalog-gradle-plugin@0.2.1?classifier=sources

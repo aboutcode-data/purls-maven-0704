@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.knox/gateway-spi-common@2.0.0
+- pkg:maven/org.apache.knox/gateway-spi-common@2.0.0?classifier=sources

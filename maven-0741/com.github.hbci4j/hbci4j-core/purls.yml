@@ -153,6 +153,12 @@
 - pkg:maven/com.github.hbci4j/hbci4j-core@3.1.63?classifier=sources
 - pkg:maven/com.github.hbci4j/hbci4j-core@3.1.64
 - pkg:maven/com.github.hbci4j/hbci4j-core@3.1.64?classifier=sources
+- pkg:maven/com.github.hbci4j/hbci4j-core@3.1.65
+- pkg:maven/com.github.hbci4j/hbci4j-core@3.1.65?classifier=sources
+- pkg:maven/com.github.hbci4j/hbci4j-core@3.1.66
+- pkg:maven/com.github.hbci4j/hbci4j-core@3.1.66?classifier=sources
+- pkg:maven/com.github.hbci4j/hbci4j-core@3.1.67
+- pkg:maven/com.github.hbci4j/hbci4j-core@3.1.67?classifier=sources
 - pkg:maven/com.github.hbci4j/hbci4j-core@3.1.6?classifier=sources
 - pkg:maven/com.github.hbci4j/hbci4j-core@3.1.7
 - pkg:maven/com.github.hbci4j/hbci4j-core@3.1.7?classifier=sources
@@ -160,3 +166,5 @@
 - pkg:maven/com.github.hbci4j/hbci4j-core@3.1.8?classifier=sources
 - pkg:maven/com.github.hbci4j/hbci4j-core@3.1.9
 - pkg:maven/com.github.hbci4j/hbci4j-core@3.1.9?classifier=sources
+- pkg:maven/com.github.hbci4j/hbci4j-core@4.0.0
+- pkg:maven/com.github.hbci4j/hbci4j-core@4.0.0?classifier=sources

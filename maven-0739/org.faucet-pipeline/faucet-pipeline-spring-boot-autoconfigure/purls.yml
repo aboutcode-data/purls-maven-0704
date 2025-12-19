@@ -12,3 +12,5 @@
 - pkg:maven/org.faucet-pipeline/faucet-pipeline-spring-boot-autoconfigure@1.2.0?classifier=sources
 - pkg:maven/org.faucet-pipeline/faucet-pipeline-spring-boot-autoconfigure@1.3.0
 - pkg:maven/org.faucet-pipeline/faucet-pipeline-spring-boot-autoconfigure@1.3.0?classifier=sources
+- pkg:maven/org.faucet-pipeline/faucet-pipeline-spring-boot-autoconfigure@2.0.0
+- pkg:maven/org.faucet-pipeline/faucet-pipeline-spring-boot-autoconfigure@2.0.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/com.bkahlert.kommons/kommons-uri-js@2.7.0?classifier=sources
+- pkg:maven/com.bkahlert.kommons/kommons-uri-js@2.8.0?classifier=sources

@@ -44,3 +44,7 @@
 - pkg:maven/com.citrsw/java-api-docs@1.6.3?classifier=sources
 - pkg:maven/com.citrsw/java-api-docs@1.6.4-jdk1.8
 - pkg:maven/com.citrsw/java-api-docs@1.6.4-jdk1.8?classifier=sources
+- pkg:maven/com.citrsw/java-api-docs@1.6.5-jdk1.8
+- pkg:maven/com.citrsw/java-api-docs@1.6.5-jdk1.8?classifier=sources
+- pkg:maven/com.citrsw/java-api-docs@1.6.6-jdk1.8
+- pkg:maven/com.citrsw/java-api-docs@1.6.6-jdk1.8?classifier=sources

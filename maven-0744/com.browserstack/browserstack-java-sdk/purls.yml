@@ -33,3 +33,11 @@
 - pkg:maven/com.browserstack/browserstack-java-sdk@1.1.7?classifier=sources
 - pkg:maven/com.browserstack/browserstack-java-sdk@1.1.8
 - pkg:maven/com.browserstack/browserstack-java-sdk@1.1.8?classifier=sources
+- pkg:maven/com.browserstack/browserstack-java-sdk@1.2.0
+- pkg:maven/com.browserstack/browserstack-java-sdk@1.2.0?classifier=sources
+- pkg:maven/com.browserstack/browserstack-java-sdk@1.2.1
+- pkg:maven/com.browserstack/browserstack-java-sdk@1.2.1?classifier=sources
+- pkg:maven/com.browserstack/browserstack-java-sdk@1.2.2
+- pkg:maven/com.browserstack/browserstack-java-sdk@1.2.2?classifier=sources
+- pkg:maven/com.browserstack/browserstack-java-sdk@1.2.3
+- pkg:maven/com.browserstack/browserstack-java-sdk@1.2.3?classifier=sources

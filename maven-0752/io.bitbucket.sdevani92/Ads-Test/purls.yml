@@ -1,0 +1,2 @@
+- pkg:maven/io.bitbucket.sdevani92/Ads-Test@0.1?classifier=sources
+- pkg:maven/io.bitbucket.sdevani92/Ads-Test@0.2?classifier=sources

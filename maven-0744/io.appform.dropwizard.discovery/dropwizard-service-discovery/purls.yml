@@ -12,3 +12,5 @@
 - pkg:maven/io.appform.dropwizard.discovery/dropwizard-service-discovery@2.0.28-2.RC6?classifier=sources
 - pkg:maven/io.appform.dropwizard.discovery/dropwizard-service-discovery@2.0.28-2.RC7
 - pkg:maven/io.appform.dropwizard.discovery/dropwizard-service-discovery@2.0.28-2.RC7?classifier=sources
+- pkg:maven/io.appform.dropwizard.discovery/dropwizard-service-discovery@2.0.28-5
+- pkg:maven/io.appform.dropwizard.discovery/dropwizard-service-discovery@2.0.28-5?classifier=sources

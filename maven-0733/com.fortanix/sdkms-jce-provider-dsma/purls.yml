@@ -1,0 +1,4 @@
+- pkg:maven/com.fortanix/sdkms-jce-provider-dsma@4.14.2175
+- pkg:maven/com.fortanix/sdkms-jce-provider-dsma@4.14.2175?classifier=sources
+- pkg:maven/com.fortanix/sdkms-jce-provider-dsma@4.15.2182
+- pkg:maven/com.fortanix/sdkms-jce-provider-dsma@4.15.2182?classifier=sources

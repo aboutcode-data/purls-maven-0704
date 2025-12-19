@@ -33,6 +33,7 @@
 - pkg:maven/org.dotwebstack.framework/rml-postgres@0.3.132
 - pkg:maven/org.dotwebstack.framework/rml-postgres@0.3.133
 - pkg:maven/org.dotwebstack.framework/rml-postgres@0.3.134
+- pkg:maven/org.dotwebstack.framework/rml-postgres@0.3.135
 - pkg:maven/org.dotwebstack.framework/rml-postgres@0.3.40
 - pkg:maven/org.dotwebstack.framework/rml-postgres@0.3.41
 - pkg:maven/org.dotwebstack.framework/rml-postgres@0.3.42

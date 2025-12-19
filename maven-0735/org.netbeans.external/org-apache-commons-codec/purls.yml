@@ -12,3 +12,4 @@
 - pkg:maven/org.netbeans.external/org-apache-commons-codec@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.external/org-apache-commons-codec@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.external/org-apache-commons-codec@RELEASE160?classifier=sources
+- pkg:maven/org.netbeans.external/org-apache-commons-codec@RELEASE170?classifier=sources

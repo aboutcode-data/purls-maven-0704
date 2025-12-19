@@ -1,0 +1,2 @@
+- pkg:maven/org.infinispan/infinispan-spring6-remote@14.0.7.Final
+- pkg:maven/org.infinispan/infinispan-spring6-remote@14.0.7.Final?classifier=sources

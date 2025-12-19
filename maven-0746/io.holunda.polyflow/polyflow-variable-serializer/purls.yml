@@ -48,3 +48,7 @@
 - pkg:maven/io.holunda.polyflow/polyflow-variable-serializer@3.6.0?classifier=sources
 - pkg:maven/io.holunda.polyflow/polyflow-variable-serializer@3.7.0
 - pkg:maven/io.holunda.polyflow/polyflow-variable-serializer@3.7.0?classifier=sources
+- pkg:maven/io.holunda.polyflow/polyflow-variable-serializer@3.8.0
+- pkg:maven/io.holunda.polyflow/polyflow-variable-serializer@3.8.0?classifier=sources
+- pkg:maven/io.holunda.polyflow/polyflow-variable-serializer@3.8.1
+- pkg:maven/io.holunda.polyflow/polyflow-variable-serializer@3.8.1?classifier=sources

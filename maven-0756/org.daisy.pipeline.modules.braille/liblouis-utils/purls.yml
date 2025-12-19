@@ -48,3 +48,7 @@
 - pkg:maven/org.daisy.pipeline.modules.braille/liblouis-utils@4.1.2?classifier=sources
 - pkg:maven/org.daisy.pipeline.modules.braille/liblouis-utils@5.0.0
 - pkg:maven/org.daisy.pipeline.modules.braille/liblouis-utils@5.0.0?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules.braille/liblouis-utils@5.0.1
+- pkg:maven/org.daisy.pipeline.modules.braille/liblouis-utils@5.0.1?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules.braille/liblouis-utils@5.0.2
+- pkg:maven/org.daisy.pipeline.modules.braille/liblouis-utils@5.0.2?classifier=sources

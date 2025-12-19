@@ -10,3 +10,5 @@
 - pkg:maven/ski.gagar.vxutil/vxutil-verticles@1.0.0-alpha31?classifier=sources
 - pkg:maven/ski.gagar.vxutil/vxutil-verticles@1.0.0-alpha32
 - pkg:maven/ski.gagar.vxutil/vxutil-verticles@1.0.0-alpha32?classifier=sources
+- pkg:maven/ski.gagar.vxutil/vxutil-verticles@1.0.0-alpha33
+- pkg:maven/ski.gagar.vxutil/vxutil-verticles@1.0.0-alpha33?classifier=sources

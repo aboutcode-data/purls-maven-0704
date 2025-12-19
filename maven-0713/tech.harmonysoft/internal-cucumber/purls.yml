@@ -2,3 +2,7 @@
 - pkg:maven/tech.harmonysoft/internal-cucumber@1.42.0?classifier=sources
 - pkg:maven/tech.harmonysoft/internal-cucumber@1.43.0?classifier=sources
 - pkg:maven/tech.harmonysoft/internal-cucumber@1.44.0?classifier=sources
+- pkg:maven/tech.harmonysoft/internal-cucumber@1.45.0?classifier=sources
+- pkg:maven/tech.harmonysoft/internal-cucumber@1.46.0?classifier=sources
+- pkg:maven/tech.harmonysoft/internal-cucumber@1.47.0?classifier=sources
+- pkg:maven/tech.harmonysoft/internal-cucumber@1.49.0?classifier=sources

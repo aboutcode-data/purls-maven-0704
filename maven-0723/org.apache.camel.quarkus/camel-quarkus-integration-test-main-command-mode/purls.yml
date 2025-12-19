@@ -70,3 +70,4 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-main-command-mode@2.8.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-main-command-mode@2.9.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-main-command-mode@2.9.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-main-command-mode@3.0.0-M1

@@ -1,0 +1,1 @@
+- pkg:maven/io.takari.maven/concurrent-build-logger@0.2.0?classifier=sources

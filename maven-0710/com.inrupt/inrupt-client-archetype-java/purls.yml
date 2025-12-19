@@ -1,0 +1,2 @@
+- pkg:maven/com.inrupt/inrupt-client-archetype-java@1.0.0.Alpha6?classifier=sources
+- pkg:maven/com.inrupt/inrupt-client-archetype-java@1.0.0.Alpha7?classifier=sources

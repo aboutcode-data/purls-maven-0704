@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.jersey.incubator/jersey-injectless-client@2.39
+- pkg:maven/org.glassfish.jersey.incubator/jersey-injectless-client@2.39?classifier=sources

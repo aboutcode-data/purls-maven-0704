@@ -2,3 +2,4 @@
 - pkg:maven/me.moros/bending-api@2.0.0?classifier=sources
 - pkg:maven/me.moros/bending-api@2.1.0?classifier=sources
 - pkg:maven/me.moros/bending-api@2.2.0?classifier=sources
+- pkg:maven/me.moros/bending-api@3.0.0?classifier=sources

@@ -27,3 +27,4 @@
 - pkg:maven/com.azure/azure-monitor-query@1.0.8?classifier=sources
 - pkg:maven/com.azure/azure-monitor-query@1.0.9?classifier=sources
 - pkg:maven/com.azure/azure-monitor-query@1.1.0?classifier=sources
+- pkg:maven/com.azure/azure-monitor-query@1.1.1?classifier=sources

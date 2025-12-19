@@ -46,6 +46,7 @@
 - pkg:maven/io.projectreactor/reactor-tools@3.4.24?classifier=sources
 - pkg:maven/io.projectreactor/reactor-tools@3.4.25?classifier=sources
 - pkg:maven/io.projectreactor/reactor-tools@3.4.26?classifier=sources
+- pkg:maven/io.projectreactor/reactor-tools@3.4.27?classifier=sources
 - pkg:maven/io.projectreactor/reactor-tools@3.4.2?classifier=sources
 - pkg:maven/io.projectreactor/reactor-tools@3.4.3?classifier=sources
 - pkg:maven/io.projectreactor/reactor-tools@3.4.4?classifier=sources
@@ -57,3 +58,4 @@
 - pkg:maven/io.projectreactor/reactor-tools@3.5.0?classifier=sources
 - pkg:maven/io.projectreactor/reactor-tools@3.5.1?classifier=sources
 - pkg:maven/io.projectreactor/reactor-tools@3.5.2?classifier=sources
+- pkg:maven/io.projectreactor/reactor-tools@3.5.3?classifier=sources

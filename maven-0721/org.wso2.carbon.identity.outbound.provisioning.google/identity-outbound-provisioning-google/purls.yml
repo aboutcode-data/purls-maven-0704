@@ -5,3 +5,4 @@
 - pkg:maven/org.wso2.carbon.identity.outbound.provisioning.google/identity-outbound-provisioning-google@5.1.9?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.outbound.provisioning.google/identity-outbound-provisioning-google@5.2.0?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.outbound.provisioning.google/identity-outbound-provisioning-google@5.2.1?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.outbound.provisioning.google/identity-outbound-provisioning-google@5.2.3?classifier=source-release&type=zip

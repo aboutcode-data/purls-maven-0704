@@ -1,1 +1,6 @@
 - pkg:maven/aws.smithy.kotlin/http-client-jvm@0.15.2?classifier=sources
+- pkg:maven/aws.smithy.kotlin/http-client-jvm@0.15.3?classifier=sources
+- pkg:maven/aws.smithy.kotlin/http-client-jvm@0.16.0?classifier=sources
+- pkg:maven/aws.smithy.kotlin/http-client-jvm@0.16.1?classifier=sources
+- pkg:maven/aws.smithy.kotlin/http-client-jvm@0.16.2?classifier=sources
+- pkg:maven/aws.smithy.kotlin/http-client-jvm@0.16.3?classifier=sources

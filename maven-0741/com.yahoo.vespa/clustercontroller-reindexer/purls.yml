@@ -227,7 +227,17 @@
 - pkg:maven/com.yahoo.vespa/clustercontroller-reindexer@8.120.11?classifier=sources
 - pkg:maven/com.yahoo.vespa/clustercontroller-reindexer@8.121.38?classifier=sources
 - pkg:maven/com.yahoo.vespa/clustercontroller-reindexer@8.122.27?classifier=sources
+- pkg:maven/com.yahoo.vespa/clustercontroller-reindexer@8.125.29?classifier=sources
+- pkg:maven/com.yahoo.vespa/clustercontroller-reindexer@8.126.20?classifier=sources
+- pkg:maven/com.yahoo.vespa/clustercontroller-reindexer@8.127.1?classifier=sources
+- pkg:maven/com.yahoo.vespa/clustercontroller-reindexer@8.128.22?classifier=sources
+- pkg:maven/com.yahoo.vespa/clustercontroller-reindexer@8.129.8?classifier=sources
 - pkg:maven/com.yahoo.vespa/clustercontroller-reindexer@8.13.21?classifier=sources
+- pkg:maven/com.yahoo.vespa/clustercontroller-reindexer@8.130.48?classifier=sources
+- pkg:maven/com.yahoo.vespa/clustercontroller-reindexer@8.131.17?classifier=sources
+- pkg:maven/com.yahoo.vespa/clustercontroller-reindexer@8.132.43?classifier=sources
+- pkg:maven/com.yahoo.vespa/clustercontroller-reindexer@8.133.49?classifier=sources
+- pkg:maven/com.yahoo.vespa/clustercontroller-reindexer@8.134.42?classifier=sources
 - pkg:maven/com.yahoo.vespa/clustercontroller-reindexer@8.15.63?classifier=sources
 - pkg:maven/com.yahoo.vespa/clustercontroller-reindexer@8.16.20?classifier=sources
 - pkg:maven/com.yahoo.vespa/clustercontroller-reindexer@8.17.19?classifier=sources

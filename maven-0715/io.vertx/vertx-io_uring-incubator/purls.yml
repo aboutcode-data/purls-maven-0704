@@ -1,0 +1,2 @@
+- pkg:maven/io.vertx/vertx-io_uring-incubator@4.4.0
+- pkg:maven/io.vertx/vertx-io_uring-incubator@4.4.0?classifier=sources

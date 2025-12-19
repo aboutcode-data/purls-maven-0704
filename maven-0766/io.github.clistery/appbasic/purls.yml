@@ -13,3 +13,4 @@
 - pkg:maven/io.github.clistery/appbasic@2.4.6?classifier=sources
 - pkg:maven/io.github.clistery/appbasic@2.4.7?classifier=sources
 - pkg:maven/io.github.clistery/appbasic@2.4.8?classifier=sources
+- pkg:maven/io.github.clistery/appbasic@2.4.9?classifier=sources

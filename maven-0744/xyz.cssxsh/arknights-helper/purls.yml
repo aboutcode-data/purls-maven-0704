@@ -27,3 +27,4 @@
 - pkg:maven/xyz.cssxsh/arknights-helper@2.0.2?classifier=sources
 - pkg:maven/xyz.cssxsh/arknights-helper@2.0.3?classifier=sources
 - pkg:maven/xyz.cssxsh/arknights-helper@2.0.4?classifier=sources
+- pkg:maven/xyz.cssxsh/arknights-helper@2.0.5?classifier=sources

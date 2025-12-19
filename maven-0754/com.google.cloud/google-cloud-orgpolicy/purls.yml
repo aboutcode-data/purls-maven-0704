@@ -46,6 +46,10 @@
 - pkg:maven/com.google.cloud/google-cloud-orgpolicy@2.1.2?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-orgpolicy@2.10.0
 - pkg:maven/com.google.cloud/google-cloud-orgpolicy@2.10.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-orgpolicy@2.11.0
+- pkg:maven/com.google.cloud/google-cloud-orgpolicy@2.11.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-orgpolicy@2.12.0
+- pkg:maven/com.google.cloud/google-cloud-orgpolicy@2.12.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-orgpolicy@2.2.0
 - pkg:maven/com.google.cloud/google-cloud-orgpolicy@2.2.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-orgpolicy@2.2.1

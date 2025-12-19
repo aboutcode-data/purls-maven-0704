@@ -469,6 +469,10 @@
 - pkg:maven/org.rundeck/rundeck-core@4.1.0-rc1-20220405?classifier=sources
 - pkg:maven/org.rundeck/rundeck-core@4.1.0-rc2-20220412?classifier=sources
 - pkg:maven/org.rundeck/rundeck-core@4.1.0-rc3-20220418?classifier=sources
+- pkg:maven/org.rundeck/rundeck-core@4.10.0-20230213?classifier=sources
+- pkg:maven/org.rundeck/rundeck-core@4.10.1-20230221?classifier=sources
+- pkg:maven/org.rundeck/rundeck-core@4.10.2-20230307?classifier=sources
+- pkg:maven/org.rundeck/rundeck-core@4.11.0-20230313?classifier=sources
 - pkg:maven/org.rundeck/rundeck-core@4.2.0-20220509?classifier=sources
 - pkg:maven/org.rundeck/rundeck-core@4.2.0-rc1-20220502?classifier=sources
 - pkg:maven/org.rundeck/rundeck-core@4.2.0-rc2-20220505?classifier=sources

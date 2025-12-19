@@ -34,3 +34,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.editors@3.14.300?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.editors@3.14.400
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.editors@3.14.400?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.editors@3.15.0
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.editors@3.15.0?classifier=sources
