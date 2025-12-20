@@ -45,3 +45,5 @@
 - pkg:maven/us.fatehi/schemacrawler-jdbc-drivers@16.20.2
 - pkg:maven/us.fatehi/schemacrawler-jdbc-drivers@16.20.3
 - pkg:maven/us.fatehi/schemacrawler-jdbc-drivers@16.20.4
+- pkg:maven/us.fatehi/schemacrawler-jdbc-drivers@16.20.5
+- pkg:maven/us.fatehi/schemacrawler-jdbc-drivers@16.20.6

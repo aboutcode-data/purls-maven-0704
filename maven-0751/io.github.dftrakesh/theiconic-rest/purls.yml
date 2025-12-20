@@ -1,6 +1,14 @@
+- pkg:maven/io.github.dftrakesh/theiconic-rest@05.12.2023
+- pkg:maven/io.github.dftrakesh/theiconic-rest@05.12.2023?classifier=sources
 - pkg:maven/io.github.dftrakesh/theiconic-rest@1.0.0
 - pkg:maven/io.github.dftrakesh/theiconic-rest@1.0.0?classifier=sources
 - pkg:maven/io.github.dftrakesh/theiconic-rest@1.0.1
 - pkg:maven/io.github.dftrakesh/theiconic-rest@1.0.1?classifier=sources
 - pkg:maven/io.github.dftrakesh/theiconic-rest@1.0.2
 - pkg:maven/io.github.dftrakesh/theiconic-rest@1.0.2?classifier=sources
+- pkg:maven/io.github.dftrakesh/theiconic-rest@11.12.2023
+- pkg:maven/io.github.dftrakesh/theiconic-rest@11.12.2023?classifier=sources
+- pkg:maven/io.github.dftrakesh/theiconic-rest@12.12.2023
+- pkg:maven/io.github.dftrakesh/theiconic-rest@12.12.2023?classifier=sources
+- pkg:maven/io.github.dftrakesh/theiconic-rest@13.12.2023
+- pkg:maven/io.github.dftrakesh/theiconic-rest@13.12.2023?classifier=sources

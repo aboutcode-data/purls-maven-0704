@@ -9,3 +9,5 @@
 - pkg:maven/com.moderntreasury/modern-treasury-kotlin-client-okhttp@2.0.0?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-kotlin-client-okhttp@2.1.0?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-kotlin-client-okhttp@2.2.0?classifier=sources
+- pkg:maven/com.moderntreasury/modern-treasury-kotlin-client-okhttp@2.3.0?classifier=sources
+- pkg:maven/com.moderntreasury/modern-treasury-kotlin-client-okhttp@2.4.0?classifier=sources

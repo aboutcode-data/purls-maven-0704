@@ -1,1 +1,2 @@
 - pkg:maven/cc.scrambledbytes.sse/sse-ktor-stream-provider-tvosarm64@0.2.7?classifier=sources
+- pkg:maven/cc.scrambledbytes.sse/sse-ktor-stream-provider-tvosarm64@0.2.8?classifier=sources

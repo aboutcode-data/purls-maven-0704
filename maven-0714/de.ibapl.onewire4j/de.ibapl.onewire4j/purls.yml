@@ -1,2 +1,4 @@
 - pkg:maven/de.ibapl.onewire4j/de.ibapl.onewire4j@1.0.0
 - pkg:maven/de.ibapl.onewire4j/de.ibapl.onewire4j@1.0.0?classifier=sources
+- pkg:maven/de.ibapl.onewire4j/de.ibapl.onewire4j@1.1.0
+- pkg:maven/de.ibapl.onewire4j/de.ibapl.onewire4j@1.1.0?classifier=sources

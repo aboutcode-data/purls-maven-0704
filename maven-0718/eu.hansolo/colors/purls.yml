@@ -8,3 +8,4 @@
 - pkg:maven/eu.hansolo/colors@1.3?classifier=sources
 - pkg:maven/eu.hansolo/colors@1.4
 - pkg:maven/eu.hansolo/colors@1.4?classifier=sources
+- pkg:maven/eu.hansolo/colors@21.0.0?classifier=sources

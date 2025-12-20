@@ -19,4 +19,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-core-multitabs-project@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-multitabs-project@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-multitabs-project@RELEASE190?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-core-multitabs-project@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-multitabs-project@RELEASE90?classifier=sources

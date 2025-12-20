@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.streampipes/streampipes-extensions-iiot-minimal@0.93.0
+- pkg:maven/org.apache.streampipes/streampipes-extensions-iiot-minimal@0.93.0?classifier=sources

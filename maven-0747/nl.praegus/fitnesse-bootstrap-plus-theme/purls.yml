@@ -9,6 +9,7 @@
 - pkg:maven/nl.praegus/fitnesse-bootstrap-plus-theme@2.0.14?classifier=sources
 - pkg:maven/nl.praegus/fitnesse-bootstrap-plus-theme@2.0.15
 - pkg:maven/nl.praegus/fitnesse-bootstrap-plus-theme@2.0.15?classifier=sources
+- pkg:maven/nl.praegus/fitnesse-bootstrap-plus-theme@2.0.16
 - pkg:maven/nl.praegus/fitnesse-bootstrap-plus-theme@2.0.3
 - pkg:maven/nl.praegus/fitnesse-bootstrap-plus-theme@2.0.4
 - pkg:maven/nl.praegus/fitnesse-bootstrap-plus-theme@2.0.5

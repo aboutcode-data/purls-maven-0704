@@ -1,3 +1,4 @@
+- pkg:maven/org.talend.esb.job/org.talend.esb.job.controller@%24%257Brevision%257D
 - pkg:maven/org.talend.esb.job/org.talend.esb.job.controller@4.2
 - pkg:maven/org.talend.esb.job/org.talend.esb.job.controller@4.2.1
 - pkg:maven/org.talend.esb.job/org.talend.esb.job.controller@4.2.1?classifier=sources
@@ -87,4 +88,5 @@
 - pkg:maven/org.talend.esb.job/org.talend.esb.job.controller@7.3.1
 - pkg:maven/org.talend.esb.job/org.talend.esb.job.controller@7.3.1?classifier=sources
 - pkg:maven/org.talend.esb.job/org.talend.esb.job.controller@8.0.1
+- pkg:maven/org.talend.esb.job/org.talend.esb.job.controller@8.0.1.R2023-10-RT
 - pkg:maven/org.talend.esb.job/org.talend.esb.job.controller@8.0.1?classifier=sources

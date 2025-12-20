@@ -18,3 +18,5 @@
 - pkg:maven/io.microlam/microlam-params@0.5.2?classifier=sources
 - pkg:maven/io.microlam/microlam-params@0.5.3
 - pkg:maven/io.microlam/microlam-params@0.5.3?classifier=sources
+- pkg:maven/io.microlam/microlam-params@0.6.1
+- pkg:maven/io.microlam/microlam-params@0.6.1?classifier=sources

@@ -14,6 +14,8 @@
 - pkg:maven/com.jkoolcloud/jesl@0.11.0?classifier=sources
 - pkg:maven/com.jkoolcloud/jesl@0.11.1
 - pkg:maven/com.jkoolcloud/jesl@0.11.1?classifier=sources
+- pkg:maven/com.jkoolcloud/jesl@0.12.0
+- pkg:maven/com.jkoolcloud/jesl@0.12.0?classifier=sources
 - pkg:maven/com.jkoolcloud/jesl@0.2
 - pkg:maven/com.jkoolcloud/jesl@0.2?classifier=sources
 - pkg:maven/com.jkoolcloud/jesl@0.3
@@ -74,3 +76,7 @@
 - pkg:maven/com.jkoolcloud/jesl@0.9?classifier=sources
 - pkg:maven/com.jkoolcloud/jesl@1.0.0
 - pkg:maven/com.jkoolcloud/jesl@1.0.0?classifier=sources
+- pkg:maven/com.jkoolcloud/jesl@1.1.0
+- pkg:maven/com.jkoolcloud/jesl@1.1.0?classifier=sources
+- pkg:maven/com.jkoolcloud/jesl@1.1.1
+- pkg:maven/com.jkoolcloud/jesl@1.1.1?classifier=sources

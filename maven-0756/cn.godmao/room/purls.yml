@@ -50,5 +50,7 @@
 - pkg:maven/cn.godmao/room@2.3.4.5.Beat?classifier=sources
 - pkg:maven/cn.godmao/room@2.3.4.6.Beat
 - pkg:maven/cn.godmao/room@2.3.4.6.Beat?classifier=sources
+- pkg:maven/cn.godmao/room@2.3.4.7.Beat
+- pkg:maven/cn.godmao/room@2.3.4.7.Beat?classifier=sources
 - pkg:maven/cn.godmao/room@2.3.4.Beat
 - pkg:maven/cn.godmao/room@2.3.4.Beat?classifier=sources

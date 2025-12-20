@@ -1,0 +1,2 @@
+- pkg:maven/ca.ibodrov/mica-concord-server-plugin@0.0.1
+- pkg:maven/ca.ibodrov/mica-concord-server-plugin@0.0.1?classifier=sources

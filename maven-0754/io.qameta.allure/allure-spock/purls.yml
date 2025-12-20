@@ -72,6 +72,7 @@
 - pkg:maven/io.qameta.allure/allure-spock@2.22.2?classifier=sources
 - pkg:maven/io.qameta.allure/allure-spock@2.23.0?classifier=sources
 - pkg:maven/io.qameta.allure/allure-spock@2.24.0?classifier=sources
+- pkg:maven/io.qameta.allure/allure-spock@2.25.0?classifier=sources
 - pkg:maven/io.qameta.allure/allure-spock@2.6.0
 - pkg:maven/io.qameta.allure/allure-spock@2.6.0?classifier=sources
 - pkg:maven/io.qameta.allure/allure-spock@2.7.0

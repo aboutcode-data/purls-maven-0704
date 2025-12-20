@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/smithy__node-http-handler@2.1.9
+- pkg:maven/org.webjars.npm/smithy__node-http-handler@2.1.9?classifier=sources

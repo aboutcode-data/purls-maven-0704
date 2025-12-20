@@ -28,3 +28,5 @@
 - pkg:maven/org.apache.druid.extensions.contrib/gce-extensions@26.0.0?classifier=sources
 - pkg:maven/org.apache.druid.extensions.contrib/gce-extensions@27.0.0
 - pkg:maven/org.apache.druid.extensions.contrib/gce-extensions@27.0.0?classifier=sources
+- pkg:maven/org.apache.druid.extensions.contrib/gce-extensions@28.0.0
+- pkg:maven/org.apache.druid.extensions.contrib/gce-extensions@28.0.0?classifier=sources

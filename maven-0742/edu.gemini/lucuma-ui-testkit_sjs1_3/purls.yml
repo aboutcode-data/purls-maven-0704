@@ -38,3 +38,5 @@
 - pkg:maven/edu.gemini/lucuma-ui-testkit_sjs1_3@0.86.0?classifier=sources
 - pkg:maven/edu.gemini/lucuma-ui-testkit_sjs1_3@0.86.1
 - pkg:maven/edu.gemini/lucuma-ui-testkit_sjs1_3@0.86.1?classifier=sources
+- pkg:maven/edu.gemini/lucuma-ui-testkit_sjs1_3@0.87.0
+- pkg:maven/edu.gemini/lucuma-ui-testkit_sjs1_3@0.87.0?classifier=sources

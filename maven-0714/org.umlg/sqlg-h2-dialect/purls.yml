@@ -46,3 +46,7 @@
 - pkg:maven/org.umlg/sqlg-h2-dialect@3.0.1?classifier=sources
 - pkg:maven/org.umlg/sqlg-h2-dialect@3.0.2
 - pkg:maven/org.umlg/sqlg-h2-dialect@3.0.2?classifier=sources
+- pkg:maven/org.umlg/sqlg-h2-dialect@3.0.3
+- pkg:maven/org.umlg/sqlg-h2-dialect@3.0.3?classifier=sources
+- pkg:maven/org.umlg/sqlg-h2-dialect@3.0.4
+- pkg:maven/org.umlg/sqlg-h2-dialect@3.0.4?classifier=sources

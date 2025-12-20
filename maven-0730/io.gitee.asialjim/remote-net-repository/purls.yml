@@ -18,3 +18,5 @@
 - pkg:maven/io.gitee.asialjim/remote-net-repository@1.0.8?classifier=sources
 - pkg:maven/io.gitee.asialjim/remote-net-repository@1.0.9
 - pkg:maven/io.gitee.asialjim/remote-net-repository@1.0.9?classifier=sources
+- pkg:maven/io.gitee.asialjim/remote-net-repository@2.0.0
+- pkg:maven/io.gitee.asialjim/remote-net-repository@2.0.0?classifier=sources

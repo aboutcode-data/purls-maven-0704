@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.druid.extensions.contrib/druid-kubernetes-overlord-extensions@26.0.0?classifier=sources
 - pkg:maven/org.apache.druid.extensions.contrib/druid-kubernetes-overlord-extensions@27.0.0
 - pkg:maven/org.apache.druid.extensions.contrib/druid-kubernetes-overlord-extensions@27.0.0?classifier=sources
+- pkg:maven/org.apache.druid.extensions.contrib/druid-kubernetes-overlord-extensions@28.0.0
+- pkg:maven/org.apache.druid.extensions.contrib/druid-kubernetes-overlord-extensions@28.0.0?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/de.westnordost/osmapi-overpass@2.2?classifier=sources
 - pkg:maven/de.westnordost/osmapi-overpass@2.3
 - pkg:maven/de.westnordost/osmapi-overpass@2.3?classifier=sources
+- pkg:maven/de.westnordost/osmapi-overpass@3.0
+- pkg:maven/de.westnordost/osmapi-overpass@3.0?classifier=sources

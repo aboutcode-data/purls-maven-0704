@@ -20,3 +20,5 @@
 - pkg:maven/org.webjars.npm/ramda@0.28.0?classifier=sources
 - pkg:maven/org.webjars.npm/ramda@0.29.0
 - pkg:maven/org.webjars.npm/ramda@0.29.0?classifier=sources
+- pkg:maven/org.webjars.npm/ramda@0.29.1
+- pkg:maven/org.webjars.npm/ramda@0.29.1?classifier=sources

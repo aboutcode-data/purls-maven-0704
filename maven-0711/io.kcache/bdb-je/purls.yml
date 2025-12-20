@@ -1,0 +1,2 @@
+- pkg:maven/io.kcache/bdb-je@18.3.19
+- pkg:maven/io.kcache/bdb-je@18.3.19?classifier=sources

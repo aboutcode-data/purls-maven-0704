@@ -6,3 +6,5 @@
 - pkg:maven/jakarta.enterprise.concurrent/jakarta.enterprise.concurrent-tck@3.0.2?classifier=sources
 - pkg:maven/jakarta.enterprise.concurrent/jakarta.enterprise.concurrent-tck@3.0.3
 - pkg:maven/jakarta.enterprise.concurrent/jakarta.enterprise.concurrent-tck@3.0.3?classifier=sources
+- pkg:maven/jakarta.enterprise.concurrent/jakarta.enterprise.concurrent-tck@3.1.0-M1
+- pkg:maven/jakarta.enterprise.concurrent/jakarta.enterprise.concurrent-tck@3.1.0-M1?classifier=sources

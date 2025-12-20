@@ -6,3 +6,4 @@
 - pkg:maven/com.yubico.yubikit/management@2.2.0?classifier=sources
 - pkg:maven/com.yubico.yubikit/management@2.3.0?classifier=sources
 - pkg:maven/com.yubico.yubikit/management@2.4.0-beta01?classifier=sources
+- pkg:maven/com.yubico.yubikit/management@2.4.0?classifier=sources

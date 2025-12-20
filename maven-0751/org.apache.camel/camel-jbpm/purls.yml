@@ -157,6 +157,8 @@
 - pkg:maven/org.apache.camel/camel-jbpm@3.14.0
 - pkg:maven/org.apache.camel/camel-jbpm@3.14.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-jbpm@3.14.1
+- pkg:maven/org.apache.camel/camel-jbpm@3.14.10
+- pkg:maven/org.apache.camel/camel-jbpm@3.14.10?classifier=sources
 - pkg:maven/org.apache.camel/camel-jbpm@3.14.1?classifier=sources
 - pkg:maven/org.apache.camel/camel-jbpm@3.14.2
 - pkg:maven/org.apache.camel/camel-jbpm@3.14.2?classifier=sources
@@ -220,6 +222,8 @@
 - pkg:maven/org.apache.camel/camel-jbpm@3.20.7?classifier=sources
 - pkg:maven/org.apache.camel/camel-jbpm@3.20.8
 - pkg:maven/org.apache.camel/camel-jbpm@3.20.8?classifier=sources
+- pkg:maven/org.apache.camel/camel-jbpm@3.20.9
+- pkg:maven/org.apache.camel/camel-jbpm@3.20.9?classifier=sources
 - pkg:maven/org.apache.camel/camel-jbpm@3.21.0
 - pkg:maven/org.apache.camel/camel-jbpm@3.21.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-jbpm@3.21.1

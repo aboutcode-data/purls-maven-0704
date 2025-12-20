@@ -154,6 +154,14 @@
 - pkg:maven/dev.crashteam/openapi-ke-repricer@1.54-66de0c3-client?classifier=sources
 - pkg:maven/dev.crashteam/openapi-ke-repricer@1.54-66de0c3-server
 - pkg:maven/dev.crashteam/openapi-ke-repricer@1.54-66de0c3-server?classifier=sources
+- pkg:maven/dev.crashteam/openapi-ke-repricer@1.55-219204a-client
+- pkg:maven/dev.crashteam/openapi-ke-repricer@1.55-219204a-client?classifier=sources
+- pkg:maven/dev.crashteam/openapi-ke-repricer@1.55-219204a-server
+- pkg:maven/dev.crashteam/openapi-ke-repricer@1.55-219204a-server?classifier=sources
+- pkg:maven/dev.crashteam/openapi-ke-repricer@1.56-075b630-client
+- pkg:maven/dev.crashteam/openapi-ke-repricer@1.56-075b630-client?classifier=sources
+- pkg:maven/dev.crashteam/openapi-ke-repricer@1.56-075b630-server
+- pkg:maven/dev.crashteam/openapi-ke-repricer@1.56-075b630-server?classifier=sources
 - pkg:maven/dev.crashteam/openapi-ke-repricer@1.7-56cf463-client
 - pkg:maven/dev.crashteam/openapi-ke-repricer@1.7-56cf463-client?classifier=sources
 - pkg:maven/dev.crashteam/openapi-ke-repricer@1.7-56cf463-server

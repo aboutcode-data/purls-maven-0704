@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.hudi/hudi-flink1.17.x@0.14.0
 - pkg:maven/org.apache.hudi/hudi-flink1.17.x@0.14.0?classifier=sources
+- pkg:maven/org.apache.hudi/hudi-flink1.17.x@1.0.0-beta1
+- pkg:maven/org.apache.hudi/hudi-flink1.17.x@1.0.0-beta1?classifier=sources

@@ -46,3 +46,5 @@
 - pkg:maven/com.51degrees/geo-location.web.examples.mvc@4.4.19?type=war
 - pkg:maven/com.51degrees/geo-location.web.examples.mvc@4.4.20?classifier=sources
 - pkg:maven/com.51degrees/geo-location.web.examples.mvc@4.4.20?type=war
+- pkg:maven/com.51degrees/geo-location.web.examples.mvc@4.4.21?classifier=sources
+- pkg:maven/com.51degrees/geo-location.web.examples.mvc@4.4.21?type=war

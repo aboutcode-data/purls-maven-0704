@@ -20,3 +20,5 @@
 - pkg:maven/com.trivago.rta/cluecumber-engine@3.4.0?classifier=sources
 - pkg:maven/com.trivago.rta/cluecumber-engine@3.5.0
 - pkg:maven/com.trivago.rta/cluecumber-engine@3.5.0?classifier=sources
+- pkg:maven/com.trivago.rta/cluecumber-engine@3.5.1
+- pkg:maven/com.trivago.rta/cluecumber-engine@3.5.1?classifier=sources

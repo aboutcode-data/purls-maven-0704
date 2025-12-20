@@ -2,3 +2,4 @@
 - pkg:maven/io.github.fredia/frocksdbjni@6.20.3-ververica-1.0?classifier=sources
 - pkg:maven/io.github.fredia/frocksdbjni@6.20.3-ververica-2.0?classifier=sources
 - pkg:maven/io.github.fredia/frocksdbjni@8.5.3-ververica-test-1.0?classifier=sources
+- pkg:maven/io.github.fredia/frocksdbjni@8.6.7-ververica-test-1.0?classifier=sources

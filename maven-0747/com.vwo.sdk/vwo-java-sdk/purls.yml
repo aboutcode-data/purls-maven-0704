@@ -88,6 +88,8 @@
 - pkg:maven/com.vwo.sdk/vwo-java-sdk@1.63.0?classifier=sources
 - pkg:maven/com.vwo.sdk/vwo-java-sdk@1.64.0
 - pkg:maven/com.vwo.sdk/vwo-java-sdk@1.64.0?classifier=sources
+- pkg:maven/com.vwo.sdk/vwo-java-sdk@1.66.0
+- pkg:maven/com.vwo.sdk/vwo-java-sdk@1.66.0?classifier=sources
 - pkg:maven/com.vwo.sdk/vwo-java-sdk@1.8.0
 - pkg:maven/com.vwo.sdk/vwo-java-sdk@1.8.0?classifier=sources
 - pkg:maven/com.vwo.sdk/vwo-java-sdk@1.8.1

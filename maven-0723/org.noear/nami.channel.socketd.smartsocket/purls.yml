@@ -543,3 +543,4 @@
 - pkg:maven/org.noear/nami.channel.socketd.smartsocket@2.5.9-M5
 - pkg:maven/org.noear/nami.channel.socketd.smartsocket@2.5.9-M6
 - pkg:maven/org.noear/nami.channel.socketd.smartsocket@2.5.9-M7
+- pkg:maven/org.noear/nami.channel.socketd.smartsocket@2.6.0-M1

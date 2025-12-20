@@ -1,2 +1,3 @@
 - pkg:maven/org.grails/grails-async-rxjava@3.3.2
 - pkg:maven/org.grails/grails-async-rxjava@3.3.2?classifier=sources
+- pkg:maven/org.grails/grails-async-rxjava@5.0.0?classifier=sources

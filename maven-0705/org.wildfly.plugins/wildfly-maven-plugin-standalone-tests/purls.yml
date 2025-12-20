@@ -1,5 +1,6 @@
 - pkg:maven/org.wildfly.plugins/wildfly-maven-plugin-standalone-tests@4.1.1.Final
 - pkg:maven/org.wildfly.plugins/wildfly-maven-plugin-standalone-tests@4.2.0.Alpha1
 - pkg:maven/org.wildfly.plugins/wildfly-maven-plugin-standalone-tests@4.2.0.Final
+- pkg:maven/org.wildfly.plugins/wildfly-maven-plugin-standalone-tests@4.2.1.Final
 - pkg:maven/org.wildfly.plugins/wildfly-maven-plugin-standalone-tests@5.0.0.Alpha1
 - pkg:maven/org.wildfly.plugins/wildfly-maven-plugin-standalone-tests@5.0.0.Alpha2

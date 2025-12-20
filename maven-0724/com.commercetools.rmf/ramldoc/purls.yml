@@ -302,3 +302,4 @@
 - pkg:maven/com.commercetools.rmf/ramldoc@1.0.0-20231024092737?classifier=sources
 - pkg:maven/com.commercetools.rmf/ramldoc@1.0.0-20231028082226?classifier=sources
 - pkg:maven/com.commercetools.rmf/ramldoc@1.0.0-20231108084502?classifier=sources
+- pkg:maven/com.commercetools.rmf/ramldoc@1.0.0-20231113134915?classifier=sources

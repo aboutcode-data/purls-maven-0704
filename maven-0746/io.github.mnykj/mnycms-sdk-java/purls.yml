@@ -1,0 +1,2 @@
+- pkg:maven/io.github.mnykj/mnycms-sdk-java@1.0
+- pkg:maven/io.github.mnykj/mnycms-sdk-java@1.0?classifier=sources

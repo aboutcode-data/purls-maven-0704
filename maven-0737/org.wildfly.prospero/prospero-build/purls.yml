@@ -14,3 +14,4 @@
 - pkg:maven/org.wildfly.prospero/prospero-build@1.1.4.Final?type=zip
 - pkg:maven/org.wildfly.prospero/prospero-build@1.1.5.Final?type=zip
 - pkg:maven/org.wildfly.prospero/prospero-build@1.2.0.Final?type=zip
+- pkg:maven/org.wildfly.prospero/prospero-build@1.2.1.Final?type=zip

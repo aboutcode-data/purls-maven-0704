@@ -46,6 +46,8 @@
 - pkg:maven/io.zipkin.reporter2/zipkin-sender-libthrift@2.16.3?classifier=sources
 - pkg:maven/io.zipkin.reporter2/zipkin-sender-libthrift@2.16.4
 - pkg:maven/io.zipkin.reporter2/zipkin-sender-libthrift@2.16.4?classifier=sources
+- pkg:maven/io.zipkin.reporter2/zipkin-sender-libthrift@2.16.5
+- pkg:maven/io.zipkin.reporter2/zipkin-sender-libthrift@2.16.5?classifier=sources
 - pkg:maven/io.zipkin.reporter2/zipkin-sender-libthrift@2.7.0
 - pkg:maven/io.zipkin.reporter2/zipkin-sender-libthrift@2.7.0?classifier=sources
 - pkg:maven/io.zipkin.reporter2/zipkin-sender-libthrift@2.7.1

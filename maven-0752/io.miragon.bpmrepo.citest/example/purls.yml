@@ -1,0 +1,2 @@
+- pkg:maven/io.miragon.bpmrepo.citest/example@0.1.0
+- pkg:maven/io.miragon.bpmrepo.citest/example@0.1.0?classifier=sources

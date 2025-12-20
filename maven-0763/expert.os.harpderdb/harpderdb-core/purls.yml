@@ -1,0 +1,2 @@
+- pkg:maven/expert.os.harpderdb/harpderdb-core@0.0.1
+- pkg:maven/expert.os.harpderdb/harpderdb-core@0.0.1?classifier=sources

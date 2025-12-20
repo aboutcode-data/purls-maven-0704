@@ -14,3 +14,4 @@
 - pkg:maven/kz.greetgo.logging/greetgo-logging-zookeeper@0.1.8?classifier=sources
 - pkg:maven/kz.greetgo.logging/greetgo-logging-zookeeper@0.1.9
 - pkg:maven/kz.greetgo.logging/greetgo-logging-zookeeper@0.1.9?classifier=sources
+- pkg:maven/kz.greetgo.logging/greetgo-logging-zookeeper@0.2.0?classifier=sources

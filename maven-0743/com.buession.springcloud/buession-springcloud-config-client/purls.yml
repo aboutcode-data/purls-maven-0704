@@ -20,3 +20,4 @@
 - pkg:maven/com.buession.springcloud/buession-springcloud-config-client@2.2.0
 - pkg:maven/com.buession.springcloud/buession-springcloud-config-client@2.2.1
 - pkg:maven/com.buession.springcloud/buession-springcloud-config-client@2.3.0
+- pkg:maven/com.buession.springcloud/buession-springcloud-config-client@2.3.1

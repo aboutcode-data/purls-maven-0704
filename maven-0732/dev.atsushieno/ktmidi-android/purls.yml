@@ -31,3 +31,4 @@
 - pkg:maven/dev.atsushieno/ktmidi-android@0.6.0-preview2?classifier=sources
 - pkg:maven/dev.atsushieno/ktmidi-android@0.6.0-preview3?classifier=sources
 - pkg:maven/dev.atsushieno/ktmidi-android@0.6.0?classifier=sources
+- pkg:maven/dev.atsushieno/ktmidi-android@0.6.2?classifier=sources

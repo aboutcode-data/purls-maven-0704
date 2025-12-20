@@ -2,3 +2,5 @@
 - pkg:maven/com.logicovercode/app-core_2.13@0.0.001?classifier=sources
 - pkg:maven/com.logicovercode/app-core_2.13@0.0.002
 - pkg:maven/com.logicovercode/app-core_2.13@0.0.002?classifier=sources
+- pkg:maven/com.logicovercode/app-core_2.13@0.0.003
+- pkg:maven/com.logicovercode/app-core_2.13@0.0.003?classifier=sources

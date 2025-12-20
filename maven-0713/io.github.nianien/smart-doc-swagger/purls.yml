@@ -1,0 +1,2 @@
+- pkg:maven/io.github.nianien/smart-doc-swagger@3.0.0u1
+- pkg:maven/io.github.nianien/smart-doc-swagger@3.0.0u1?classifier=sources

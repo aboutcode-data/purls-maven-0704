@@ -10,3 +10,7 @@
 - pkg:maven/eu.monniot/scala3mock-scalatest_3@0.3.2?classifier=sources
 - pkg:maven/eu.monniot/scala3mock-scalatest_3@0.4.0
 - pkg:maven/eu.monniot/scala3mock-scalatest_3@0.4.0?classifier=sources
+- pkg:maven/eu.monniot/scala3mock-scalatest_3@0.5.0
+- pkg:maven/eu.monniot/scala3mock-scalatest_3@0.5.0?classifier=sources
+- pkg:maven/eu.monniot/scala3mock-scalatest_3@0.6.0
+- pkg:maven/eu.monniot/scala3mock-scalatest_3@0.6.0?classifier=sources

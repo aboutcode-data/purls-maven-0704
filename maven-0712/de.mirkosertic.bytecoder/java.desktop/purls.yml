@@ -52,3 +52,5 @@
 - pkg:maven/de.mirkosertic.bytecoder/java.desktop@2023-05-19?classifier=sources
 - pkg:maven/de.mirkosertic.bytecoder/java.desktop@2023-06-15
 - pkg:maven/de.mirkosertic.bytecoder/java.desktop@2023-06-15?classifier=sources
+- pkg:maven/de.mirkosertic.bytecoder/java.desktop@2023-12-01
+- pkg:maven/de.mirkosertic.bytecoder/java.desktop@2023-12-01?classifier=sources

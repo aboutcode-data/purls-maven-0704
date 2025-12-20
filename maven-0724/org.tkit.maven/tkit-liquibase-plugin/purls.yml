@@ -10,3 +10,9 @@
 - pkg:maven/org.tkit.maven/tkit-liquibase-plugin@0.5.0?classifier=sources
 - pkg:maven/org.tkit.maven/tkit-liquibase-plugin@0.7.0
 - pkg:maven/org.tkit.maven/tkit-liquibase-plugin@0.7.0?classifier=sources
+- pkg:maven/org.tkit.maven/tkit-liquibase-plugin@1.0.0
+- pkg:maven/org.tkit.maven/tkit-liquibase-plugin@1.0.0?classifier=sources
+- pkg:maven/org.tkit.maven/tkit-liquibase-plugin@1.1.0
+- pkg:maven/org.tkit.maven/tkit-liquibase-plugin@1.1.0?classifier=sources
+- pkg:maven/org.tkit.maven/tkit-liquibase-plugin@1.2.0
+- pkg:maven/org.tkit.maven/tkit-liquibase-plugin@1.2.0?classifier=sources

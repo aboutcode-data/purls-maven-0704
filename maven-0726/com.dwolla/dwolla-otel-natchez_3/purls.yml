@@ -1,0 +1,2 @@
+- pkg:maven/com.dwolla/dwolla-otel-natchez_3@0.2.2
+- pkg:maven/com.dwolla/dwolla-otel-natchez_3@0.2.2?classifier=sources

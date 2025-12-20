@@ -194,6 +194,16 @@
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs@22.13.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs@22.14.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs@22.14.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs@22.15.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs@22.15.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs@22.16.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs@22.16.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs@22.17.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs@22.17.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs@22.18.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs@22.18.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs@22.19.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs@22.19.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs@22.2.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs@22.2.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs@22.3.0

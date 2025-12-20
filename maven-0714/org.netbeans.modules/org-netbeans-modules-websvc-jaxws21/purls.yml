@@ -19,4 +19,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-jaxws21@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-jaxws21@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-jaxws21@RELEASE190?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-jaxws21@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-jaxws21@RELEASE90?classifier=sources

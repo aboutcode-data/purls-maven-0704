@@ -33,4 +33,8 @@
 - pkg:maven/com.github.davidmoten/plantuml-maven-plugin@0.2.6?classifier=sources
 - pkg:maven/com.github.davidmoten/plantuml-maven-plugin@0.2.7
 - pkg:maven/com.github.davidmoten/plantuml-maven-plugin@0.2.7?classifier=sources
+- pkg:maven/com.github.davidmoten/plantuml-maven-plugin@0.2.8
+- pkg:maven/com.github.davidmoten/plantuml-maven-plugin@0.2.8?classifier=sources
+- pkg:maven/com.github.davidmoten/plantuml-maven-plugin@0.2.9
+- pkg:maven/com.github.davidmoten/plantuml-maven-plugin@0.2.9?classifier=sources
 - pkg:maven/com.github.davidmoten/plantuml-maven-plugin@0.2?classifier=sources

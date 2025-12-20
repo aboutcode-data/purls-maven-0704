@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/carbon__icon-helpers@10.4.0
 - pkg:maven/org.webjars.npm/carbon__icon-helpers@10.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/carbon__icon-helpers@10.45.1
+- pkg:maven/org.webjars.npm/carbon__icon-helpers@10.45.1?classifier=sources

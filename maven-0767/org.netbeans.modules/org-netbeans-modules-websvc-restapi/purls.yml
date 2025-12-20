@@ -18,3 +18,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-restapi@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-restapi@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-restapi@RELEASE190?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-restapi@RELEASE200?classifier=sources

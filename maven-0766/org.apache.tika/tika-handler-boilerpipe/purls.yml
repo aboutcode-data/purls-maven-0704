@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.tika/tika-handler-boilerpipe@3.0.0-BETA
+- pkg:maven/org.apache.tika/tika-handler-boilerpipe@3.0.0-BETA?classifier=sources

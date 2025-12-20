@@ -2,3 +2,5 @@
 - pkg:maven/dk.dren/dropwizard-kubernetes-https@1.0.0?classifier=sources
 - pkg:maven/dk.dren/dropwizard-kubernetes-https@1.1.0
 - pkg:maven/dk.dren/dropwizard-kubernetes-https@1.1.0?classifier=sources
+- pkg:maven/dk.dren/dropwizard-kubernetes-https@3.0.4.1
+- pkg:maven/dk.dren/dropwizard-kubernetes-https@3.0.4.1?classifier=sources

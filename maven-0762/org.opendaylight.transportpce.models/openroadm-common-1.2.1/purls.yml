@@ -11,3 +11,4 @@
 - pkg:maven/org.opendaylight.transportpce.models/openroadm-common-1.2.1@18.3.1
 - pkg:maven/org.opendaylight.transportpce.models/openroadm-common-1.2.1@18.3.1?classifier=sources
 - pkg:maven/org.opendaylight.transportpce.models/openroadm-common-1.2.1@19.0.0?classifier=sources
+- pkg:maven/org.opendaylight.transportpce.models/openroadm-common-1.2.1@19.1.0?classifier=sources

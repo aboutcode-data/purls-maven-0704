@@ -15,3 +15,5 @@
 - pkg:maven/io.mongock.professional/mongock-professional-core@5.2.2?classifier=sources
 - pkg:maven/io.mongock.professional/mongock-professional-core@5.2.3?classifier=sources
 - pkg:maven/io.mongock.professional/mongock-professional-core@5.2.4?classifier=sources
+- pkg:maven/io.mongock.professional/mongock-professional-core@5.2.5?classifier=sources
+- pkg:maven/io.mongock.professional/mongock-professional-core@5.2.6?classifier=sources

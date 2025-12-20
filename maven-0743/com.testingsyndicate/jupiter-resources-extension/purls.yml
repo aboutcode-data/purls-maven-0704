@@ -1,0 +1,2 @@
+- pkg:maven/com.testingsyndicate/jupiter-resources-extension@1.0.0?classifier=sources
+- pkg:maven/com.testingsyndicate/jupiter-resources-extension@1.1.1?classifier=sources

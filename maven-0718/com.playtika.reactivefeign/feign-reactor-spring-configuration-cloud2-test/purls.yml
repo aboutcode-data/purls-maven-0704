@@ -40,3 +40,4 @@
 - pkg:maven/com.playtika.reactivefeign/feign-reactor-spring-configuration-cloud2-test@3.3.0
 - pkg:maven/com.playtika.reactivefeign/feign-reactor-spring-configuration-cloud2-test@4.0.0
 - pkg:maven/com.playtika.reactivefeign/feign-reactor-spring-configuration-cloud2-test@4.0.2
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-spring-configuration-cloud2-test@4.0.3

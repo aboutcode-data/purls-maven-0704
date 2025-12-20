@@ -26,3 +26,5 @@
 - pkg:maven/org.apache.skywalking/apm-toolkit-logging-common@8.9.0?classifier=sources
 - pkg:maven/org.apache.skywalking/apm-toolkit-logging-common@9.0.0
 - pkg:maven/org.apache.skywalking/apm-toolkit-logging-common@9.0.0?classifier=sources
+- pkg:maven/org.apache.skywalking/apm-toolkit-logging-common@9.1.0
+- pkg:maven/org.apache.skywalking/apm-toolkit-logging-common@9.1.0?classifier=sources

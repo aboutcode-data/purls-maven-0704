@@ -1,0 +1,4 @@
+- pkg:maven/io.github.sallaixu/logView@1.0.0-snapshot
+- pkg:maven/io.github.sallaixu/logView@1.0.0-snapshot?classifier=sources
+- pkg:maven/io.github.sallaixu/logView@1.0.1
+- pkg:maven/io.github.sallaixu/logView@1.0.1?classifier=sources
