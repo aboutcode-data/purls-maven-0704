@@ -8,3 +8,7 @@
 - pkg:maven/com.syncloop.middleware/core@1.6.7.3
 - pkg:maven/com.syncloop.middleware/core@1.6.7.3?classifier=sources
 - pkg:maven/com.syncloop.middleware/core@1.6.7?classifier=sources
+- pkg:maven/com.syncloop.middleware/core@1.6.8
+- pkg:maven/com.syncloop.middleware/core@1.6.8?classifier=sources
+- pkg:maven/com.syncloop.middleware/core@1.6.9
+- pkg:maven/com.syncloop.middleware/core@1.6.9?classifier=sources

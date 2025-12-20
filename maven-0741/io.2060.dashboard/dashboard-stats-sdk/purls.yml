@@ -5,3 +5,4 @@
 - pkg:maven/io.2060.dashboard/dashboard-stats-sdk@fix-version-20240826161939?classifier=sources
 - pkg:maven/io.2060.dashboard/dashboard-stats-sdk@main-20240826164024?classifier=sources
 - pkg:maven/io.2060.dashboard/dashboard-stats-sdk@main-20240826190705?classifier=sources
+- pkg:maven/io.2060.dashboard/dashboard-stats-sdk@main-20240910163955?classifier=sources

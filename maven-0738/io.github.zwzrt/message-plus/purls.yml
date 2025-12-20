@@ -4,3 +4,6 @@
 - pkg:maven/io.github.zwzrt/message-plus@0.0.62-beta?classifier=sources
 - pkg:maven/io.github.zwzrt/message-plus@0.0.63-beta?classifier=sources
 - pkg:maven/io.github.zwzrt/message-plus@0.1.1-beta?classifier=sources
+- pkg:maven/io.github.zwzrt/message-plus@0.2.0-beta?classifier=sources
+- pkg:maven/io.github.zwzrt/message-plus@0.2.1-beta?classifier=sources
+- pkg:maven/io.github.zwzrt/message-plus@0.2.2-beta?classifier=sources

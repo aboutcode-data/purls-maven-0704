@@ -1,3 +1,5 @@
+- pkg:maven/com.kaltura/KalturaApiClient@20.20.0
+- pkg:maven/com.kaltura/KalturaApiClient@20.20.0?classifier=sources
 - pkg:maven/com.kaltura/KalturaApiClient@20.7.0
 - pkg:maven/com.kaltura/KalturaApiClient@20.7.0?classifier=sources
 - pkg:maven/com.kaltura/KalturaApiClient@20.7.1

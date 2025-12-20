@@ -2,3 +2,5 @@
 - pkg:maven/net.sf.okapi.filters/okapi-filter-wsxzpackage@1.45.0?classifier=sources
 - pkg:maven/net.sf.okapi.filters/okapi-filter-wsxzpackage@1.46.0
 - pkg:maven/net.sf.okapi.filters/okapi-filter-wsxzpackage@1.46.0?classifier=sources
+- pkg:maven/net.sf.okapi.filters/okapi-filter-wsxzpackage@1.47.0
+- pkg:maven/net.sf.okapi.filters/okapi-filter-wsxzpackage@1.47.0?classifier=sources

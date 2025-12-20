@@ -6,3 +6,5 @@
 - pkg:maven/org.bsc.langgraph4j/langgraph4j-image-to-diagram@1.0-beta3?classifier=sources
 - pkg:maven/org.bsc.langgraph4j/langgraph4j-image-to-diagram@1.0-beta4
 - pkg:maven/org.bsc.langgraph4j/langgraph4j-image-to-diagram@1.0-beta4?classifier=sources
+- pkg:maven/org.bsc.langgraph4j/langgraph4j-image-to-diagram@1.0-beta5
+- pkg:maven/org.bsc.langgraph4j/langgraph4j-image-to-diagram@1.0-beta5?classifier=sources

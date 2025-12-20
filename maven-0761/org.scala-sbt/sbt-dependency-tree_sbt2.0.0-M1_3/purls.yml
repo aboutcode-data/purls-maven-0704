@@ -1,0 +1,2 @@
+- pkg:maven/org.scala-sbt/sbt-dependency-tree_sbt2.0.0-M1_3@2.0.0-M1
+- pkg:maven/org.scala-sbt/sbt-dependency-tree_sbt2.0.0-M1_3@2.0.0-M1?classifier=sources

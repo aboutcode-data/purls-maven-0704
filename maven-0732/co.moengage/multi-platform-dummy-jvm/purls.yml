@@ -1,0 +1,3 @@
+- pkg:maven/co.moengage/multi-platform-dummy-jvm@0.0.3?classifier=sources
+- pkg:maven/co.moengage/multi-platform-dummy-jvm@0.0.4?classifier=sources
+- pkg:maven/co.moengage/multi-platform-dummy-jvm@0.0.5?classifier=sources

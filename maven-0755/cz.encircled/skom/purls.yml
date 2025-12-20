@@ -11,6 +11,8 @@
 - pkg:maven/cz.encircled/skom@1.14?classifier=sources
 - pkg:maven/cz.encircled/skom@1.15
 - pkg:maven/cz.encircled/skom@1.15?classifier=sources
+- pkg:maven/cz.encircled/skom@1.16
+- pkg:maven/cz.encircled/skom@1.16?classifier=sources
 - pkg:maven/cz.encircled/skom@1.1?classifier=sources
 - pkg:maven/cz.encircled/skom@1.2
 - pkg:maven/cz.encircled/skom@1.2?classifier=sources

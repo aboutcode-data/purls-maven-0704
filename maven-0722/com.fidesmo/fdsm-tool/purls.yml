@@ -4,3 +4,5 @@
 - pkg:maven/com.fidesmo/fdsm-tool@22.09.19?classifier=sources
 - pkg:maven/com.fidesmo/fdsm-tool@23.04.18
 - pkg:maven/com.fidesmo/fdsm-tool@23.04.18?classifier=sources
+- pkg:maven/com.fidesmo/fdsm-tool@24.10.02
+- pkg:maven/com.fidesmo/fdsm-tool@24.10.02?classifier=sources

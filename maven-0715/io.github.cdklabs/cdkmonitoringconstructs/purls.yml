@@ -512,3 +512,9 @@
 - pkg:maven/io.github.cdklabs/cdkmonitoringconstructs@8.1.0?classifier=sources
 - pkg:maven/io.github.cdklabs/cdkmonitoringconstructs@8.1.1
 - pkg:maven/io.github.cdklabs/cdkmonitoringconstructs@8.1.1?classifier=sources
+- pkg:maven/io.github.cdklabs/cdkmonitoringconstructs@8.2.0
+- pkg:maven/io.github.cdklabs/cdkmonitoringconstructs@8.2.0?classifier=sources
+- pkg:maven/io.github.cdklabs/cdkmonitoringconstructs@8.3.0
+- pkg:maven/io.github.cdklabs/cdkmonitoringconstructs@8.3.0?classifier=sources
+- pkg:maven/io.github.cdklabs/cdkmonitoringconstructs@8.3.1
+- pkg:maven/io.github.cdklabs/cdkmonitoringconstructs@8.3.1?classifier=sources

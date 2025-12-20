@@ -146,6 +146,8 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-billingbudgets-v1beta1@0.56.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-billingbudgets-v1beta1@0.57.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-billingbudgets-v1beta1@0.57.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-billingbudgets-v1beta1@0.58.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-billingbudgets-v1beta1@0.58.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-billingbudgets-v1beta1@0.6.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-billingbudgets-v1beta1@0.6.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-billingbudgets-v1beta1@0.6.1
@@ -162,6 +164,8 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-billingbudgets-v1beta1@0.6.7?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-billingbudgets-v1beta1@0.6.8
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-billingbudgets-v1beta1@0.6.8?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-billingbudgets-v1beta1@0.60.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-billingbudgets-v1beta1@0.60.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-billingbudgets-v1beta1@0.7.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-billingbudgets-v1beta1@0.7.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-billingbudgets-v1beta1@0.7.1

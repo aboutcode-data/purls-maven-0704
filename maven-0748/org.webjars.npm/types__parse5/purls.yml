@@ -2,3 +2,4 @@
 - pkg:maven/org.webjars.npm/types__parse5@2.2.34?classifier=sources
 - pkg:maven/org.webjars.npm/types__parse5@5.0.0
 - pkg:maven/org.webjars.npm/types__parse5@5.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/types__parse5@6.0.3

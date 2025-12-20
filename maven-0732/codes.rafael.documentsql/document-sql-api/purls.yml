@@ -6,3 +6,5 @@
 - pkg:maven/codes.rafael.documentsql/document-sql-api@1.2?classifier=sources
 - pkg:maven/codes.rafael.documentsql/document-sql-api@1.3
 - pkg:maven/codes.rafael.documentsql/document-sql-api@1.3?classifier=sources
+- pkg:maven/codes.rafael.documentsql/document-sql-api@1.4
+- pkg:maven/codes.rafael.documentsql/document-sql-api@1.4?classifier=sources

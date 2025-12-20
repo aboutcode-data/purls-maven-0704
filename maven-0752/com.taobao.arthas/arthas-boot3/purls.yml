@@ -1,0 +1,2 @@
+- pkg:maven/com.taobao.arthas/arthas-boot3@3.7.3
+- pkg:maven/com.taobao.arthas/arthas-boot3@3.7.3?classifier=sources

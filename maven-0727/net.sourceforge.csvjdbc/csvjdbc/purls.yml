@@ -26,3 +26,5 @@
 - pkg:maven/net.sourceforge.csvjdbc/csvjdbc@1.0.42?classifier=sources
 - pkg:maven/net.sourceforge.csvjdbc/csvjdbc@1.0.43
 - pkg:maven/net.sourceforge.csvjdbc/csvjdbc@1.0.43?classifier=sources
+- pkg:maven/net.sourceforge.csvjdbc/csvjdbc@1.0.44
+- pkg:maven/net.sourceforge.csvjdbc/csvjdbc@1.0.44?classifier=sources

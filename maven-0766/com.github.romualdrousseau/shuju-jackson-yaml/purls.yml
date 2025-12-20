@@ -12,3 +12,5 @@
 - pkg:maven/com.github.romualdrousseau/shuju-jackson-yaml@1.29.6?classifier=sources
 - pkg:maven/com.github.romualdrousseau/shuju-jackson-yaml@1.29.7
 - pkg:maven/com.github.romualdrousseau/shuju-jackson-yaml@1.29.7?classifier=sources
+- pkg:maven/com.github.romualdrousseau/shuju-jackson-yaml@1.29.8
+- pkg:maven/com.github.romualdrousseau/shuju-jackson-yaml@1.29.8?classifier=sources

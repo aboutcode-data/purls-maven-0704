@@ -34,3 +34,7 @@
 - pkg:maven/com.trivago.rta/cluecumber-engine@3.7.0?classifier=sources
 - pkg:maven/com.trivago.rta/cluecumber-engine@3.7.1
 - pkg:maven/com.trivago.rta/cluecumber-engine@3.7.1?classifier=sources
+- pkg:maven/com.trivago.rta/cluecumber-engine@3.8.0
+- pkg:maven/com.trivago.rta/cluecumber-engine@3.8.0?classifier=sources
+- pkg:maven/com.trivago.rta/cluecumber-engine@3.8.1
+- pkg:maven/com.trivago.rta/cluecumber-engine@3.8.1?classifier=sources

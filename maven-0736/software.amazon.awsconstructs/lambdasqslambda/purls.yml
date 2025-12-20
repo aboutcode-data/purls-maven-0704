@@ -436,6 +436,8 @@
 - pkg:maven/software.amazon.awsconstructs/lambdasqslambda@2.7.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/lambdasqslambda@2.70.0
 - pkg:maven/software.amazon.awsconstructs/lambdasqslambda@2.70.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/lambdasqslambda@2.71.0
+- pkg:maven/software.amazon.awsconstructs/lambdasqslambda@2.71.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/lambdasqslambda@2.8.0
 - pkg:maven/software.amazon.awsconstructs/lambdasqslambda@2.8.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/lambdasqslambda@2.9.0

@@ -14,5 +14,9 @@
 - pkg:maven/com.github.hiwepy/jwt-issuer-with-jjwt@1.1.0.RELEASE?classifier=sources
 - pkg:maven/com.github.hiwepy/jwt-issuer-with-jjwt@1.1.1.RELEASE
 - pkg:maven/com.github.hiwepy/jwt-issuer-with-jjwt@1.1.1.RELEASE?classifier=sources
+- pkg:maven/com.github.hiwepy/jwt-issuer-with-jjwt@1.1.3.RELEASE
+- pkg:maven/com.github.hiwepy/jwt-issuer-with-jjwt@1.1.3.RELEASE?classifier=sources
+- pkg:maven/com.github.hiwepy/jwt-issuer-with-jjwt@1.1.4.1.RELEASE
+- pkg:maven/com.github.hiwepy/jwt-issuer-with-jjwt@1.1.4.1.RELEASE?classifier=sources
 - pkg:maven/com.github.hiwepy/jwt-issuer-with-jjwt@1.1.8.RELEASE
 - pkg:maven/com.github.hiwepy/jwt-issuer-with-jjwt@1.1.8.RELEASE?classifier=sources

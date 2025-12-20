@@ -66,3 +66,5 @@
 - pkg:maven/io.github.dailystruggle/EffectsAPI@1.0-ALPHA34?classifier=sources
 - pkg:maven/io.github.dailystruggle/EffectsAPI@1.0-ALPHA35
 - pkg:maven/io.github.dailystruggle/EffectsAPI@1.0-ALPHA35?classifier=sources
+- pkg:maven/io.github.dailystruggle/EffectsAPI@1.0.0-RELEASE?classifier=sources
+- pkg:maven/io.github.dailystruggle/EffectsAPI@1.0.1-BETA01?classifier=sources

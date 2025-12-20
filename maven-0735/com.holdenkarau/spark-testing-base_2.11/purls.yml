@@ -596,3 +596,5 @@
 - pkg:maven/com.holdenkarau/spark-testing-base_2.11@2.4.8_1.5.2?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-base_2.11@2.4.8_1.5.3
 - pkg:maven/com.holdenkarau/spark-testing-base_2.11@2.4.8_1.5.3?classifier=sources
+- pkg:maven/com.holdenkarau/spark-testing-base_2.11@2.4.8_2.0.1
+- pkg:maven/com.holdenkarau/spark-testing-base_2.11@2.4.8_2.0.1?classifier=sources

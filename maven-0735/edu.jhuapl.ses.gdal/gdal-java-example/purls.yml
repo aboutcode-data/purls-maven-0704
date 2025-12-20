@@ -1,0 +1,2 @@
+- pkg:maven/edu.jhuapl.ses.gdal/gdal-java-example@3.7.0.0
+- pkg:maven/edu.jhuapl.ses.gdal/gdal-java-example@3.7.0.0?classifier=sources

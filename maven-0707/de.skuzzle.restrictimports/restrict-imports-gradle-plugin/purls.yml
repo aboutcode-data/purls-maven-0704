@@ -1,3 +1,4 @@
 - pkg:maven/de.skuzzle.restrictimports/restrict-imports-gradle-plugin@2.5.0-rc-1?classifier=sources
 - pkg:maven/de.skuzzle.restrictimports/restrict-imports-gradle-plugin@2.5.0-rc-2?classifier=sources
 - pkg:maven/de.skuzzle.restrictimports/restrict-imports-gradle-plugin@2.5.0?classifier=sources
+- pkg:maven/de.skuzzle.restrictimports/restrict-imports-gradle-plugin@2.6.0?classifier=sources

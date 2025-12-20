@@ -2,3 +2,7 @@
 - pkg:maven/com.ing.baker/bakery-interaction-k8s-interaction-manager_2.13@3.6.2?classifier=sources
 - pkg:maven/com.ing.baker/bakery-interaction-k8s-interaction-manager_2.13@3.6.3
 - pkg:maven/com.ing.baker/bakery-interaction-k8s-interaction-manager_2.13@3.6.3?classifier=sources
+- pkg:maven/com.ing.baker/bakery-interaction-k8s-interaction-manager_2.13@4.1.0
+- pkg:maven/com.ing.baker/bakery-interaction-k8s-interaction-manager_2.13@4.1.0-RC3
+- pkg:maven/com.ing.baker/bakery-interaction-k8s-interaction-manager_2.13@4.1.0-RC3?classifier=sources
+- pkg:maven/com.ing.baker/bakery-interaction-k8s-interaction-manager_2.13@4.1.0?classifier=sources

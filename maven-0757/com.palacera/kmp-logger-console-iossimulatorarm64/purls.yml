@@ -1,0 +1,2 @@
+- pkg:maven/com.palacera/kmp-logger-console-iossimulatorarm64@1.0.0-deprecated?classifier=sources
+- pkg:maven/com.palacera/kmp-logger-console-iossimulatorarm64@1.0.0?classifier=sources

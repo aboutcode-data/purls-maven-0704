@@ -1,0 +1,2 @@
+- pkg:maven/com.nxoim/decomposite@0.2.1.0-p0?classifier=sources
+- pkg:maven/com.nxoim/decomposite@0.2.1.0-test-deployment?classifier=sources

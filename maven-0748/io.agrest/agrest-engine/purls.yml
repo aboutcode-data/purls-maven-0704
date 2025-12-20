@@ -34,6 +34,8 @@
 - pkg:maven/io.agrest/agrest-engine@4.8?classifier=sources
 - pkg:maven/io.agrest/agrest-engine@4.9
 - pkg:maven/io.agrest/agrest-engine@4.9?classifier=sources
+- pkg:maven/io.agrest/agrest-engine@5.0-M20
+- pkg:maven/io.agrest/agrest-engine@5.0-M20?classifier=sources
 - pkg:maven/io.agrest/agrest-engine@5.0.M1
 - pkg:maven/io.agrest/agrest-engine@5.0.M10
 - pkg:maven/io.agrest/agrest-engine@5.0.M10?classifier=sources

@@ -303,6 +303,10 @@
 - pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-engine-interpreted@5.17.0?classifier=sources
 - pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-engine-interpreted@5.18.0
 - pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-engine-interpreted@5.18.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-engine-interpreted@5.18.1
+- pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-engine-interpreted@5.18.1?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-engine-interpreted@5.19.0
+- pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-engine-interpreted@5.19.0?classifier=sources
 - pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-engine-interpreted@5.2.1
 - pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-engine-interpreted@5.2.1?classifier=sources
 - pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-engine-interpreted@5.2.2

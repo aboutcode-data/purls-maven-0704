@@ -7,3 +7,4 @@
 - pkg:maven/com.xnx3/xnx3@2.6?classifier=sources
 - pkg:maven/com.xnx3/xnx3@2.8
 - pkg:maven/com.xnx3/xnx3@2.8?classifier=sources
+- pkg:maven/com.xnx3/xnx3@2.9?classifier=sources

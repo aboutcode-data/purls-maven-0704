@@ -1,3 +1,4 @@
+- pkg:maven/com.huanmeng-qwq/SQLibrary@2.2.10?classifier=sources
 - pkg:maven/com.huanmeng-qwq/SQLibrary@2.2.7
 - pkg:maven/com.huanmeng-qwq/SQLibrary@2.2.7?classifier=sources
 - pkg:maven/com.huanmeng-qwq/SQLibrary@2.2.8

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.m3is0/jsonrpc4cats-json_3@0.3.0
+- pkg:maven/io.github.m3is0/jsonrpc4cats-json_3@0.3.0?classifier=sources

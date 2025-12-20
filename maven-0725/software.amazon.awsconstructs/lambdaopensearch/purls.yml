@@ -96,3 +96,5 @@
 - pkg:maven/software.amazon.awsconstructs/lambdaopensearch@2.69.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/lambdaopensearch@2.70.0
 - pkg:maven/software.amazon.awsconstructs/lambdaopensearch@2.70.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/lambdaopensearch@2.71.0
+- pkg:maven/software.amazon.awsconstructs/lambdaopensearch@2.71.0?classifier=sources

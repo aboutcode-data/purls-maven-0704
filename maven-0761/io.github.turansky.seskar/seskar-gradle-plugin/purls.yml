@@ -84,5 +84,12 @@
 - pkg:maven/io.github.turansky.seskar/seskar-gradle-plugin@3.13.0?classifier=sources
 - pkg:maven/io.github.turansky.seskar/seskar-gradle-plugin@3.2.0?classifier=sources
 - pkg:maven/io.github.turansky.seskar/seskar-gradle-plugin@3.20.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-gradle-plugin@3.30.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-gradle-plugin@3.31.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-gradle-plugin@3.32.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-gradle-plugin@3.40.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-gradle-plugin@3.41.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-gradle-plugin@3.41.1?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-gradle-plugin@3.42.0?classifier=sources
 - pkg:maven/io.github.turansky.seskar/seskar-gradle-plugin@3.6.0?classifier=sources
 - pkg:maven/io.github.turansky.seskar/seskar-gradle-plugin@3.7.0?classifier=sources

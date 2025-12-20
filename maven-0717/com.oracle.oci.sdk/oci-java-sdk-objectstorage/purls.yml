@@ -534,8 +534,14 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-objectstorage@3.47.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-objectstorage@3.48.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-objectstorage@3.48.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-objectstorage@3.49.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-objectstorage@3.49.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-objectstorage@3.5.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-objectstorage@3.5.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-objectstorage@3.50.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-objectstorage@3.50.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-objectstorage@3.50.1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-objectstorage@3.50.1?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-objectstorage@3.6.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-objectstorage@3.6.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-objectstorage@3.7.0

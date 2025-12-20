@@ -1,3 +1,5 @@
 - pkg:maven/com.kmwllc/lucille-distributed-example@0.2.2
 - pkg:maven/com.kmwllc/lucille-distributed-example@0.2.3
+- pkg:maven/com.kmwllc/lucille-distributed-example@0.3.0
+- pkg:maven/com.kmwllc/lucille-distributed-example@0.4.0
 - pkg:maven/com.kmwllc/lucille-distributed-example@v0.2.4

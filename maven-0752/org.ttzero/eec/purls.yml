@@ -60,6 +60,8 @@
 - pkg:maven/org.ttzero/eec@0.5.17?classifier=sources
 - pkg:maven/org.ttzero/eec@0.5.18
 - pkg:maven/org.ttzero/eec@0.5.18?classifier=sources
+- pkg:maven/org.ttzero/eec@0.5.19
+- pkg:maven/org.ttzero/eec@0.5.19?classifier=sources
 - pkg:maven/org.ttzero/eec@0.5.1?classifier=sources
 - pkg:maven/org.ttzero/eec@0.5.2
 - pkg:maven/org.ttzero/eec@0.5.2?classifier=sources
