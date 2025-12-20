@@ -30,3 +30,5 @@
 - pkg:maven/org.openidentityplatform.openam/openam-example-clientsdk-war@14.8.1?type=war
 - pkg:maven/org.openidentityplatform.openam/openam-example-clientsdk-war@14.8.2?classifier=sources
 - pkg:maven/org.openidentityplatform.openam/openam-example-clientsdk-war@14.8.2?type=war
+- pkg:maven/org.openidentityplatform.openam/openam-example-clientsdk-war@14.8.3?classifier=sources
+- pkg:maven/org.openidentityplatform.openam/openam-example-clientsdk-war@14.8.3?type=war

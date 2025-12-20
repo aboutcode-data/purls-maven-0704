@@ -4,6 +4,12 @@
 - pkg:maven/jp.openstandia.midpoint-grpc/keycloak-midpoint-grpc-client@1.10.1?classifier=sources
 - pkg:maven/jp.openstandia.midpoint-grpc/keycloak-midpoint-grpc-client@1.11.0
 - pkg:maven/jp.openstandia.midpoint-grpc/keycloak-midpoint-grpc-client@1.11.0?classifier=sources
+- pkg:maven/jp.openstandia.midpoint-grpc/keycloak-midpoint-grpc-client@1.12.0
+- pkg:maven/jp.openstandia.midpoint-grpc/keycloak-midpoint-grpc-client@1.12.0?classifier=sources
+- pkg:maven/jp.openstandia.midpoint-grpc/keycloak-midpoint-grpc-client@1.12.1
+- pkg:maven/jp.openstandia.midpoint-grpc/keycloak-midpoint-grpc-client@1.12.1?classifier=sources
+- pkg:maven/jp.openstandia.midpoint-grpc/keycloak-midpoint-grpc-client@1.12.2
+- pkg:maven/jp.openstandia.midpoint-grpc/keycloak-midpoint-grpc-client@1.12.2?classifier=sources
 - pkg:maven/jp.openstandia.midpoint-grpc/keycloak-midpoint-grpc-client@1.5.0
 - pkg:maven/jp.openstandia.midpoint-grpc/keycloak-midpoint-grpc-client@1.5.0?classifier=sources
 - pkg:maven/jp.openstandia.midpoint-grpc/keycloak-midpoint-grpc-client@1.6.0
@@ -32,3 +38,9 @@
 - pkg:maven/jp.openstandia.midpoint-grpc/keycloak-midpoint-grpc-client@2.2.2?classifier=sources
 - pkg:maven/jp.openstandia.midpoint-grpc/keycloak-midpoint-grpc-client@2.3.0
 - pkg:maven/jp.openstandia.midpoint-grpc/keycloak-midpoint-grpc-client@2.3.0?classifier=sources
+- pkg:maven/jp.openstandia.midpoint-grpc/keycloak-midpoint-grpc-client@2.4.0
+- pkg:maven/jp.openstandia.midpoint-grpc/keycloak-midpoint-grpc-client@2.4.0?classifier=sources
+- pkg:maven/jp.openstandia.midpoint-grpc/keycloak-midpoint-grpc-client@2.4.1
+- pkg:maven/jp.openstandia.midpoint-grpc/keycloak-midpoint-grpc-client@2.4.1?classifier=sources
+- pkg:maven/jp.openstandia.midpoint-grpc/keycloak-midpoint-grpc-client@2.4.2
+- pkg:maven/jp.openstandia.midpoint-grpc/keycloak-midpoint-grpc-client@2.4.2?classifier=sources

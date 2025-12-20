@@ -135,6 +135,8 @@
 - pkg:maven/com.adjust.sdk/adjust-android@4.35.1?classifier=sources
 - pkg:maven/com.adjust.sdk/adjust-android@4.36.0?classifier=sources
 - pkg:maven/com.adjust.sdk/adjust-android@4.37.0?classifier=sources
+- pkg:maven/com.adjust.sdk/adjust-android@4.37.1?classifier=sources
+- pkg:maven/com.adjust.sdk/adjust-android@4.38.0?classifier=sources
 - pkg:maven/com.adjust.sdk/adjust-android@4.6.0
 - pkg:maven/com.adjust.sdk/adjust-android@4.6.0?classifier=sources
 - pkg:maven/com.adjust.sdk/adjust-android@4.7.0

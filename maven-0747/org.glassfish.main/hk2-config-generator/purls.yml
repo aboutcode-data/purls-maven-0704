@@ -12,3 +12,5 @@
 - pkg:maven/org.glassfish.main/hk2-config-generator@7.0.8?classifier=sources
 - pkg:maven/org.glassfish.main/hk2-config-generator@7.0.9
 - pkg:maven/org.glassfish.main/hk2-config-generator@7.0.9?classifier=sources
+- pkg:maven/org.glassfish.main/hk2-config-generator@8.0.0-M1
+- pkg:maven/org.glassfish.main/hk2-config-generator@8.0.0-M1?classifier=sources

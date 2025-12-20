@@ -1,3 +1,5 @@
+- pkg:maven/com.github.sbt/sbt-osgi_2.12_1.0@0.9.10
+- pkg:maven/com.github.sbt/sbt-osgi_2.12_1.0@0.9.10?classifier=sources
 - pkg:maven/com.github.sbt/sbt-osgi_2.12_1.0@0.9.4-INVALID-CEN-JAR-PATCH
 - pkg:maven/com.github.sbt/sbt-osgi_2.12_1.0@0.9.4-INVALID-CEN-JAR-PATCH?classifier=sources
 - pkg:maven/com.github.sbt/sbt-osgi_2.12_1.0@0.9.7

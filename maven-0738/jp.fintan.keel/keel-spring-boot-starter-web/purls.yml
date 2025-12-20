@@ -1,2 +1,4 @@
 - pkg:maven/jp.fintan.keel/keel-spring-boot-starter-web@1.0.0
 - pkg:maven/jp.fintan.keel/keel-spring-boot-starter-web@1.0.0?classifier=sources
+- pkg:maven/jp.fintan.keel/keel-spring-boot-starter-web@2.0.0
+- pkg:maven/jp.fintan.keel/keel-spring-boot-starter-web@2.0.0?classifier=sources

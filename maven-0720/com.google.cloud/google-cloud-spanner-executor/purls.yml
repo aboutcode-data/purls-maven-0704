@@ -70,3 +70,7 @@
 - pkg:maven/com.google.cloud/google-cloud-spanner-executor@6.53.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-spanner-executor@6.54.0
 - pkg:maven/com.google.cloud/google-cloud-spanner-executor@6.54.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-spanner-executor@6.55.0
+- pkg:maven/com.google.cloud/google-cloud-spanner-executor@6.55.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-spanner-executor@6.56.0
+- pkg:maven/com.google.cloud/google-cloud-spanner-executor@6.56.0?classifier=sources

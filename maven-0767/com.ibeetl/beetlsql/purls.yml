@@ -498,6 +498,8 @@
 - pkg:maven/com.ibeetl/beetlsql@3.27.0-RELEASE
 - pkg:maven/com.ibeetl/beetlsql@3.27.1-RELEASE
 - pkg:maven/com.ibeetl/beetlsql@3.27.2-RELEASE
+- pkg:maven/com.ibeetl/beetlsql@3.27.3-RELEASE
+- pkg:maven/com.ibeetl/beetlsql@3.27.4-RELEASE
 - pkg:maven/com.ibeetl/beetlsql@3.3.0-RELEASE
 - pkg:maven/com.ibeetl/beetlsql@3.3.1-RELEASE
 - pkg:maven/com.ibeetl/beetlsql@3.3.10-RELEASE

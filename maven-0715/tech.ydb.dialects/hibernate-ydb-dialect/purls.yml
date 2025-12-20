@@ -1,0 +1,4 @@
+- pkg:maven/tech.ydb.dialects/hibernate-ydb-dialect@0.9.0
+- pkg:maven/tech.ydb.dialects/hibernate-ydb-dialect@0.9.0?classifier=sources
+- pkg:maven/tech.ydb.dialects/hibernate-ydb-dialect@0.9.1
+- pkg:maven/tech.ydb.dialects/hibernate-ydb-dialect@0.9.1?classifier=sources

@@ -40,3 +40,5 @@
 - pkg:maven/com.github.almasb/fxgl-test@17.3
 - pkg:maven/com.github.almasb/fxgl-test@17.3?classifier=sources
 - pkg:maven/com.github.almasb/fxgl-test@17?classifier=sources
+- pkg:maven/com.github.almasb/fxgl-test@21
+- pkg:maven/com.github.almasb/fxgl-test@21?classifier=sources

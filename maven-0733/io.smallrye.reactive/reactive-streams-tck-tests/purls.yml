@@ -23,3 +23,6 @@
 - pkg:maven/io.smallrye.reactive/reactive-streams-tck-tests@2.5.0-M5
 - pkg:maven/io.smallrye.reactive/reactive-streams-tck-tests@2.5.1
 - pkg:maven/io.smallrye.reactive/reactive-streams-tck-tests@2.5.2
+- pkg:maven/io.smallrye.reactive/reactive-streams-tck-tests@2.5.3
+- pkg:maven/io.smallrye.reactive/reactive-streams-tck-tests@2.5.4
+- pkg:maven/io.smallrye.reactive/reactive-streams-tck-tests@2.5.5

@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.resteasy.test/test-utils@6.2.7.Final
+- pkg:maven/org.jboss.resteasy.test/test-utils@6.2.7.Final?classifier=sources

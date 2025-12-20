@@ -1,3 +1,4 @@
+- pkg:maven/tech.harmonysoft/harmonysoft-test-environment-cucumber@1.100.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-test-environment-cucumber@1.59.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-test-environment-cucumber@1.60.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-test-environment-cucumber@1.61.0?classifier=sources
@@ -28,3 +29,8 @@
 - pkg:maven/tech.harmonysoft/harmonysoft-test-environment-cucumber@1.90.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-test-environment-cucumber@1.91.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-test-environment-cucumber@1.92.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-test-environment-cucumber@1.93.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-test-environment-cucumber@1.95.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-test-environment-cucumber@1.97.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-test-environment-cucumber@1.98.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-test-environment-cucumber@1.99.0?classifier=sources

@@ -146,3 +146,5 @@
 - pkg:maven/com.erudika/para-war@1.48.2?type=war
 - pkg:maven/com.erudika/para-war@1.49.0?classifier=sources
 - pkg:maven/com.erudika/para-war@1.49.0?type=war
+- pkg:maven/com.erudika/para-war@1.49.1?classifier=sources
+- pkg:maven/com.erudika/para-war@1.49.1?type=war

@@ -3,3 +3,4 @@
 - pkg:maven/com.newrelic.agent.java/agent-bridge-datastore@8.5.0?classifier=sources
 - pkg:maven/com.newrelic.agent.java/agent-bridge-datastore@8.6.0?classifier=sources
 - pkg:maven/com.newrelic.agent.java/agent-bridge-datastore@8.7.0?classifier=sources
+- pkg:maven/com.newrelic.agent.java/agent-bridge-datastore@8.8.0?classifier=sources

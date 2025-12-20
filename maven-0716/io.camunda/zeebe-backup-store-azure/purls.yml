@@ -1,2 +1,4 @@
+- pkg:maven/io.camunda/zeebe-backup-store-azure@8.4.0
 - pkg:maven/io.camunda/zeebe-backup-store-azure@8.4.0-alpha2
 - pkg:maven/io.camunda/zeebe-backup-store-azure@8.4.0-alpha2?classifier=sources
+- pkg:maven/io.camunda/zeebe-backup-store-azure@8.4.0?classifier=sources

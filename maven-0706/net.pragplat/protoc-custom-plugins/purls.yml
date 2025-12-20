@@ -51,6 +51,8 @@
 - pkg:maven/net.pragplat/protoc-custom-plugins@1.0.32?classifier=sources
 - pkg:maven/net.pragplat/protoc-custom-plugins@1.0.33
 - pkg:maven/net.pragplat/protoc-custom-plugins@1.0.33?classifier=sources
+- pkg:maven/net.pragplat/protoc-custom-plugins@1.0.34
+- pkg:maven/net.pragplat/protoc-custom-plugins@1.0.34?classifier=sources
 - pkg:maven/net.pragplat/protoc-custom-plugins@1.0.3?classifier=sources
 - pkg:maven/net.pragplat/protoc-custom-plugins@1.0.4
 - pkg:maven/net.pragplat/protoc-custom-plugins@1.0.4?classifier=sources

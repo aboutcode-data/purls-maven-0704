@@ -4,3 +4,4 @@
 - pkg:maven/net.forthecrown/paper-nbt@1.3.0?classifier=sources
 - pkg:maven/net.forthecrown/paper-nbt@1.4.0?classifier=sources
 - pkg:maven/net.forthecrown/paper-nbt@1.5.0?classifier=sources
+- pkg:maven/net.forthecrown/paper-nbt@1.6.0?classifier=sources

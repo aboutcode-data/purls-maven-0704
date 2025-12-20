@@ -6,6 +6,7 @@
 - pkg:maven/com.halilibo.compose-richtext/richtext-ui-material@0.15.0?classifier=sources
 - pkg:maven/com.halilibo.compose-richtext/richtext-ui-material@0.16.0?classifier=sources
 - pkg:maven/com.halilibo.compose-richtext/richtext-ui-material@0.17.0?classifier=sources
+- pkg:maven/com.halilibo.compose-richtext/richtext-ui-material@0.20.0?classifier=sources
 - pkg:maven/com.halilibo.compose-richtext/richtext-ui-material@0.6.0?classifier=sources
 - pkg:maven/com.halilibo.compose-richtext/richtext-ui-material@0.7.0?classifier=sources
 - pkg:maven/com.halilibo.compose-richtext/richtext-ui-material@0.8.0?classifier=sources

@@ -82,3 +82,4 @@
 - pkg:maven/com.anjlab.android.iab.v3/library@2.0.1?classifier=sources
 - pkg:maven/com.anjlab.android.iab.v3/library@2.0.2?classifier=sources
 - pkg:maven/com.anjlab.android.iab.v3/library@2.0.3?classifier=sources
+- pkg:maven/com.anjlab.android.iab.v3/library@2.1.0?classifier=sources

@@ -212,3 +212,11 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-omics@3.1.904?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-omics@3.1.905
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-omics@3.1.905?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-omics@3.1.918
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-omics@3.1.918?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-omics@3.1.925
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-omics@3.1.925?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-omics@3.1.937
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-omics@3.1.937?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-omics@3.1.944
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-omics@3.1.944?classifier=sources

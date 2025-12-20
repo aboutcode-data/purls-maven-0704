@@ -52,6 +52,9 @@
 - pkg:maven/com.palantir.conjure.java.api/test-utils@2.4.0
 - pkg:maven/com.palantir.conjure.java.api/test-utils@2.4.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.api/test-utils@2.40.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.api/test-utils@2.41.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.api/test-utils@2.42.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.api/test-utils@2.43.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.api/test-utils@2.5.0
 - pkg:maven/com.palantir.conjure.java.api/test-utils@2.5.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.api/test-utils@2.6.0

@@ -20,6 +20,8 @@
 - pkg:maven/se.sundsvall.dept44/dept44-starter-webservicetemplate@1.35?classifier=sources
 - pkg:maven/se.sundsvall.dept44/dept44-starter-webservicetemplate@1.36
 - pkg:maven/se.sundsvall.dept44/dept44-starter-webservicetemplate@1.36?classifier=sources
+- pkg:maven/se.sundsvall.dept44/dept44-starter-webservicetemplate@1.37
+- pkg:maven/se.sundsvall.dept44/dept44-starter-webservicetemplate@1.37?classifier=sources
 - pkg:maven/se.sundsvall.dept44/dept44-starter-webservicetemplate@2.0.0
 - pkg:maven/se.sundsvall.dept44/dept44-starter-webservicetemplate@2.0.0?classifier=sources
 - pkg:maven/se.sundsvall.dept44/dept44-starter-webservicetemplate@2.0.1
@@ -48,3 +50,7 @@
 - pkg:maven/se.sundsvall.dept44/dept44-starter-webservicetemplate@3.4?classifier=sources
 - pkg:maven/se.sundsvall.dept44/dept44-starter-webservicetemplate@4.0
 - pkg:maven/se.sundsvall.dept44/dept44-starter-webservicetemplate@4.0?classifier=sources
+- pkg:maven/se.sundsvall.dept44/dept44-starter-webservicetemplate@4.1
+- pkg:maven/se.sundsvall.dept44/dept44-starter-webservicetemplate@4.1?classifier=sources
+- pkg:maven/se.sundsvall.dept44/dept44-starter-webservicetemplate@4.2.0
+- pkg:maven/se.sundsvall.dept44/dept44-starter-webservicetemplate@4.2.0?classifier=sources

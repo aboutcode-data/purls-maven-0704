@@ -10,6 +10,9 @@
 - pkg:maven/com.ritense.valtimo/objects-api@10.5.3.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/objects-api@10.6.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/objects-api@10.7.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/objects-api@10.8.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/objects-api@11.0.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/objects-api@11.1.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/objects-api@9.1.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/objects-api@9.10.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/objects-api@9.11.0.RELEASE?classifier=sources

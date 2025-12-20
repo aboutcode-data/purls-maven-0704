@@ -1,0 +1,2 @@
+- pkg:maven/io.mongock/couchbase-springboot-v3-driver@5.4.0
+- pkg:maven/io.mongock/couchbase-springboot-v3-driver@5.4.0?classifier=sources

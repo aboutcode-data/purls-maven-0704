@@ -4,3 +4,5 @@
 - pkg:maven/org.mvnpm.at.sentry/utils@7.80.0?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry/utils@7.80.1?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry/utils@7.84.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry/utils@7.89.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry/utils@7.91.0?classifier=sources

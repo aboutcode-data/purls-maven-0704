@@ -30,6 +30,8 @@
 - pkg:maven/com.iptiq/twiml-kotlin-extensions@9.13.1.0?classifier=sources
 - pkg:maven/com.iptiq/twiml-kotlin-extensions@9.14.0.0
 - pkg:maven/com.iptiq/twiml-kotlin-extensions@9.14.0.0?classifier=sources
+- pkg:maven/com.iptiq/twiml-kotlin-extensions@9.14.1.0
+- pkg:maven/com.iptiq/twiml-kotlin-extensions@9.14.1.0?classifier=sources
 - pkg:maven/com.iptiq/twiml-kotlin-extensions@9.2.0.0
 - pkg:maven/com.iptiq/twiml-kotlin-extensions@9.2.0.0?classifier=sources
 - pkg:maven/com.iptiq/twiml-kotlin-extensions@9.2.1.0

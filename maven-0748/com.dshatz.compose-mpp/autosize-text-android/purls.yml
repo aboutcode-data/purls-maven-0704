@@ -1,0 +1,2 @@
+- pkg:maven/com.dshatz.compose-mpp/autosize-text-android@1.0.0?classifier=sources
+- pkg:maven/com.dshatz.compose-mpp/autosize-text-android@1.0.1?classifier=sources

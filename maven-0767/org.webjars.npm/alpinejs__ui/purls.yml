@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/alpinejs__ui@3.13.3-beta.4
+- pkg:maven/org.webjars.npm/alpinejs__ui@3.13.3-beta.4?classifier=sources

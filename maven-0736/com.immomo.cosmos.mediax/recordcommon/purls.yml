@@ -14,3 +14,9 @@
 - pkg:maven/com.immomo.cosmos.mediax/recordcommon@0.0.1-20230913142600?type=aar
 - pkg:maven/com.immomo.cosmos.mediax/recordcommon@0.0.1-20230914100600?classifier=sources
 - pkg:maven/com.immomo.cosmos.mediax/recordcommon@0.0.1-20230914100600?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/recordcommon@1.0.1-20231201144500?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/recordcommon@1.0.1-20231201144500?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/recordcommon@1.0.1-20231204155600?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/recordcommon@1.0.1-20231204155600?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/recordcommon@1.0.1-20231226180400?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/recordcommon@1.0.1-20231226180400?type=aar

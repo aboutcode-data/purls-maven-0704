@@ -446,6 +446,10 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-workrequests@3.29.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-workrequests@3.3.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-workrequests@3.3.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-workrequests@3.30.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-workrequests@3.30.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-workrequests@3.31.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-workrequests@3.31.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-workrequests@3.4.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-workrequests@3.4.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-workrequests@3.5.0

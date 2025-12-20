@@ -14,3 +14,5 @@
 - pkg:maven/com.nandbox.bots.api/bots-api@1.1.8?classifier=sources
 - pkg:maven/com.nandbox.bots.api/bots-api@1.1.9
 - pkg:maven/com.nandbox.bots.api/bots-api@1.1.9?classifier=sources
+- pkg:maven/com.nandbox.bots.api/bots-api@1.2
+- pkg:maven/com.nandbox.bots.api/bots-api@1.2?classifier=sources

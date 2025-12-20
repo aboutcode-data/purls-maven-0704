@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.ctakes/ctakes-relation-extractor-models@5.0.0
+- pkg:maven/org.apache.ctakes/ctakes-relation-extractor-models@5.0.0?classifier=sources

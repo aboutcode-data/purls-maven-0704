@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm.at.ui5/webcomponents-localization@1.19.1?classifier=sources
+- pkg:maven/org.mvnpm.at.ui5/webcomponents-localization@1.20.1?classifier=sources

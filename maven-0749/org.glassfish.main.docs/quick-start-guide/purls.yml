@@ -1,1 +1,2 @@
 - pkg:maven/org.glassfish.main.docs/quick-start-guide@7.0.11?classifier=sources
+- pkg:maven/org.glassfish.main.docs/quick-start-guide@8.0.0-M1?classifier=sources

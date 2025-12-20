@@ -82,6 +82,10 @@
 - pkg:maven/com.gitlab.cdc-java.util/cdc-util-tools@0.5.0?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.util/cdc-util-tools@0.50.0
 - pkg:maven/com.gitlab.cdc-java.util/cdc-util-tools@0.50.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.util/cdc-util-tools@0.51.0
+- pkg:maven/com.gitlab.cdc-java.util/cdc-util-tools@0.51.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.util/cdc-util-tools@0.52.0
+- pkg:maven/com.gitlab.cdc-java.util/cdc-util-tools@0.52.0?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.util/cdc-util-tools@0.6.0
 - pkg:maven/com.gitlab.cdc-java.util/cdc-util-tools@0.6.0?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.util/cdc-util-tools@0.7.0

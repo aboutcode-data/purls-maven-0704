@@ -1,0 +1,16 @@
+- pkg:maven/com.amazonaws/aws-java-sdk-networkmonitor@1.12.625
+- pkg:maven/com.amazonaws/aws-java-sdk-networkmonitor@1.12.625?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-networkmonitor@1.12.626
+- pkg:maven/com.amazonaws/aws-java-sdk-networkmonitor@1.12.626?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-networkmonitor@1.12.627
+- pkg:maven/com.amazonaws/aws-java-sdk-networkmonitor@1.12.627?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-networkmonitor@1.12.628
+- pkg:maven/com.amazonaws/aws-java-sdk-networkmonitor@1.12.628?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-networkmonitor@1.12.629
+- pkg:maven/com.amazonaws/aws-java-sdk-networkmonitor@1.12.629?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-networkmonitor@1.12.630
+- pkg:maven/com.amazonaws/aws-java-sdk-networkmonitor@1.12.630?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-networkmonitor@1.12.631
+- pkg:maven/com.amazonaws/aws-java-sdk-networkmonitor@1.12.631?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-networkmonitor@1.12.632
+- pkg:maven/com.amazonaws/aws-java-sdk-networkmonitor@1.12.632?classifier=sources

@@ -163,3 +163,5 @@
 - pkg:maven/org.mongodb/mongodb-driver-reactivestreams@4.9.0?classifier=sources
 - pkg:maven/org.mongodb/mongodb-driver-reactivestreams@4.9.1
 - pkg:maven/org.mongodb/mongodb-driver-reactivestreams@4.9.1?classifier=sources
+- pkg:maven/org.mongodb/mongodb-driver-reactivestreams@5.0.0-beta0
+- pkg:maven/org.mongodb/mongodb-driver-reactivestreams@5.0.0-beta0?classifier=sources

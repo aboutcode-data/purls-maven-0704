@@ -1,0 +1,2 @@
+- pkg:maven/com.kohlschutter/liqp@0.8.5.4
+- pkg:maven/com.kohlschutter/liqp@0.8.5.4?classifier=sources

@@ -152,6 +152,8 @@
 - pkg:maven/pub.doric/core@0.10.76?type=aar
 - pkg:maven/pub.doric/core@0.10.77?classifier=sources
 - pkg:maven/pub.doric/core@0.10.77?type=aar
+- pkg:maven/pub.doric/core@0.10.78?classifier=sources
+- pkg:maven/pub.doric/core@0.10.78?type=aar
 - pkg:maven/pub.doric/core@0.10.7?classifier=sources
 - pkg:maven/pub.doric/core@0.10.7?type=aar
 - pkg:maven/pub.doric/core@0.10.8?classifier=sources

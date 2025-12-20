@@ -30,4 +30,13 @@
 - pkg:maven/com.eygraber/gradle-conventions-kotlin@0.0.54?classifier=sources
 - pkg:maven/com.eygraber/gradle-conventions-kotlin@0.0.55?classifier=sources
 - pkg:maven/com.eygraber/gradle-conventions-kotlin@0.0.56?classifier=sources
+- pkg:maven/com.eygraber/gradle-conventions-kotlin@0.0.57?classifier=sources
+- pkg:maven/com.eygraber/gradle-conventions-kotlin@0.0.58?classifier=sources
+- pkg:maven/com.eygraber/gradle-conventions-kotlin@0.0.59?classifier=sources
+- pkg:maven/com.eygraber/gradle-conventions-kotlin@0.0.60?classifier=sources
+- pkg:maven/com.eygraber/gradle-conventions-kotlin@0.0.61?classifier=sources
+- pkg:maven/com.eygraber/gradle-conventions-kotlin@0.0.62?classifier=sources
+- pkg:maven/com.eygraber/gradle-conventions-kotlin@0.0.63?classifier=sources
+- pkg:maven/com.eygraber/gradle-conventions-kotlin@0.0.64?classifier=sources
+- pkg:maven/com.eygraber/gradle-conventions-kotlin@0.0.65?classifier=sources
 - pkg:maven/com.eygraber/gradle-conventions-kotlin@unspecified?classifier=sources

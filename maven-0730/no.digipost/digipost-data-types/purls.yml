@@ -124,3 +124,5 @@
 - pkg:maven/no.digipost/digipost-data-types@0.9?classifier=sources
 - pkg:maven/no.digipost/digipost-data-types@1.0.0
 - pkg:maven/no.digipost/digipost-data-types@1.0.0?classifier=sources
+- pkg:maven/no.digipost/digipost-data-types@1.0.1
+- pkg:maven/no.digipost/digipost-data-types@1.0.1?classifier=sources

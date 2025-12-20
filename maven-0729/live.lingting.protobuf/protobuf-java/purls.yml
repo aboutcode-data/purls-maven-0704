@@ -1,0 +1,2 @@
+- pkg:maven/live.lingting.protobuf/protobuf-java@2023.12.18
+- pkg:maven/live.lingting.protobuf/protobuf-java@2023.12.18?classifier=sources

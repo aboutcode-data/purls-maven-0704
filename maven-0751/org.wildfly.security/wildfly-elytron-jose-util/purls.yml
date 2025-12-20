@@ -74,3 +74,5 @@
 - pkg:maven/org.wildfly.security/wildfly-elytron-jose-util@2.2.1.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-jose-util@2.2.2.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-jose-util@2.2.2.Final?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-jose-util@2.2.3.Final
+- pkg:maven/org.wildfly.security/wildfly-elytron-jose-util@2.2.3.Final?classifier=sources

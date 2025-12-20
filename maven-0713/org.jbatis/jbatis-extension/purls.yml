@@ -1,0 +1,6 @@
+- pkg:maven/org.jbatis/jbatis-extension@1.0.1
+- pkg:maven/org.jbatis/jbatis-extension@1.0.1?classifier=sources
+- pkg:maven/org.jbatis/jbatis-extension@1.0.2-RELEASE
+- pkg:maven/org.jbatis/jbatis-extension@1.0.2-RELEASE?classifier=sources
+- pkg:maven/org.jbatis/jbatis-extension@1.0.3-RELEASE
+- pkg:maven/org.jbatis/jbatis-extension@1.0.3-RELEASE?classifier=sources

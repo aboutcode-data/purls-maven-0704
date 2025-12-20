@@ -2,3 +2,5 @@
 - pkg:maven/io.quarkiverse.hivemqclient/quarkus-hivemq-client-kitchensink@1.0.0?classifier=sources
 - pkg:maven/io.quarkiverse.hivemqclient/quarkus-hivemq-client-kitchensink@1.1.0
 - pkg:maven/io.quarkiverse.hivemqclient/quarkus-hivemq-client-kitchensink@1.1.0?classifier=sources
+- pkg:maven/io.quarkiverse.hivemqclient/quarkus-hivemq-client-kitchensink@2.0.0
+- pkg:maven/io.quarkiverse.hivemqclient/quarkus-hivemq-client-kitchensink@2.0.0?classifier=sources

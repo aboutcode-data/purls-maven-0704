@@ -146,3 +146,7 @@
 - pkg:maven/de.digitalcollections.cudami/dc-cudami-server-backend-inmemory@8.0.0-RC2
 - pkg:maven/de.digitalcollections.cudami/dc-cudami-server-backend-inmemory@8.0.0-RC2?classifier=sources
 - pkg:maven/de.digitalcollections.cudami/dc-cudami-server-backend-inmemory@8.0.0?classifier=sources
+- pkg:maven/de.digitalcollections.cudami/dc-cudami-server-backend-inmemory@8.0.1
+- pkg:maven/de.digitalcollections.cudami/dc-cudami-server-backend-inmemory@8.0.1-RC1
+- pkg:maven/de.digitalcollections.cudami/dc-cudami-server-backend-inmemory@8.0.1-RC1?classifier=sources
+- pkg:maven/de.digitalcollections.cudami/dc-cudami-server-backend-inmemory@8.0.1?classifier=sources

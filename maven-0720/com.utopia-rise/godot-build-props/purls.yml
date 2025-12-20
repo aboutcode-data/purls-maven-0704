@@ -18,3 +18,5 @@
 - pkg:maven/com.utopia-rise/godot-build-props@0.7.0-4.1.2?classifier=sources
 - pkg:maven/com.utopia-rise/godot-build-props@0.7.1-4.1.2?classifier=sources
 - pkg:maven/com.utopia-rise/godot-build-props@0.7.2-4.1.2?classifier=sources
+- pkg:maven/com.utopia-rise/godot-build-props@0.8.0-4.2.0?classifier=sources
+- pkg:maven/com.utopia-rise/godot-build-props@0.8.1-4.2.0?classifier=sources

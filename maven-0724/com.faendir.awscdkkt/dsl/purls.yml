@@ -15,6 +15,15 @@
 - pkg:maven/com.faendir.awscdkkt/dsl@2.110.0-1.0.1?classifier=sources
 - pkg:maven/com.faendir.awscdkkt/dsl@2.110.1-1.0.1?classifier=sources
 - pkg:maven/com.faendir.awscdkkt/dsl@2.111.0-1.0.1?classifier=sources
+- pkg:maven/com.faendir.awscdkkt/dsl@2.112.0-1.0.1?classifier=sources
+- pkg:maven/com.faendir.awscdkkt/dsl@2.113.0-1.0.1?classifier=sources
+- pkg:maven/com.faendir.awscdkkt/dsl@2.114.0-1.0.1?classifier=sources
+- pkg:maven/com.faendir.awscdkkt/dsl@2.114.1-1.0.1?classifier=sources
+- pkg:maven/com.faendir.awscdkkt/dsl@2.115.0-1.0.1?classifier=sources
+- pkg:maven/com.faendir.awscdkkt/dsl@2.116.0-1.0.1?classifier=sources
+- pkg:maven/com.faendir.awscdkkt/dsl@2.116.1-1.0.1?classifier=sources
+- pkg:maven/com.faendir.awscdkkt/dsl@2.117.0-1.0.1?classifier=sources
+- pkg:maven/com.faendir.awscdkkt/dsl@2.118.0-1.0.1?classifier=sources
 - pkg:maven/com.faendir.awscdkkt/dsl@2.79.1-0.0.2?classifier=sources
 - pkg:maven/com.faendir.awscdkkt/dsl@2.79.1-0.0.3?classifier=sources
 - pkg:maven/com.faendir.awscdkkt/dsl@2.80.0-0.0.2?classifier=sources

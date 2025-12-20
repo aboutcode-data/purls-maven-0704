@@ -18,3 +18,5 @@
 - pkg:maven/com.xtdb/xtdb-kafka-embedded@1.23.3
 - pkg:maven/com.xtdb/xtdb-kafka-embedded@1.24.0
 - pkg:maven/com.xtdb/xtdb-kafka-embedded@1.24.1
+- pkg:maven/com.xtdb/xtdb-kafka-embedded@1.24.2
+- pkg:maven/com.xtdb/xtdb-kafka-embedded@1.24.3

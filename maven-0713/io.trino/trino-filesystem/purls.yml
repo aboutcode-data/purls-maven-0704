@@ -80,3 +80,7 @@
 - pkg:maven/io.trino/trino-filesystem@433?classifier=sources
 - pkg:maven/io.trino/trino-filesystem@434
 - pkg:maven/io.trino/trino-filesystem@434?classifier=sources
+- pkg:maven/io.trino/trino-filesystem@435
+- pkg:maven/io.trino/trino-filesystem@435?classifier=sources
+- pkg:maven/io.trino/trino-filesystem@436
+- pkg:maven/io.trino/trino-filesystem@436?classifier=sources

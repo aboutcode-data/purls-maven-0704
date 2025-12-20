@@ -1,0 +1,2 @@
+- pkg:maven/org.jbatis/jbatis-dd-spring-boot3-starter@1.0.7-RELEASE
+- pkg:maven/org.jbatis/jbatis-dd-spring-boot3-starter@1.0.7-RELEASE?classifier=sources

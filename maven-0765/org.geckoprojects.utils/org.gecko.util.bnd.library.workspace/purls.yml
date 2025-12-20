@@ -1,0 +1,2 @@
+- pkg:maven/org.geckoprojects.utils/org.gecko.util.bnd.library.workspace@1.0.0
+- pkg:maven/org.geckoprojects.utils/org.gecko.util.bnd.library.workspace@1.0.0?classifier=sources

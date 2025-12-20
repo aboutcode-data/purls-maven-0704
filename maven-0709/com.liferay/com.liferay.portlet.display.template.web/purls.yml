@@ -27,6 +27,7 @@
 - pkg:maven/com.liferay/com.liferay.portlet.display.template.web@2.0.17
 - pkg:maven/com.liferay/com.liferay.portlet.display.template.web@2.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.display.template.web@2.0.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portlet.display.template.web@2.0.18?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.display.template.web@2.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.display.template.web@2.0.2
 - pkg:maven/com.liferay/com.liferay.portlet.display.template.web@2.0.2?classifier=sources
@@ -199,6 +200,7 @@
 - pkg:maven/com.liferay/com.liferay.portlet.display.template.web@6.0.16?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portlet.display.template.web@6.0.17
 - pkg:maven/com.liferay/com.liferay.portlet.display.template.web@6.0.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portlet.display.template.web@6.0.18?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.display.template.web@6.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.display.template.web@6.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portlet.display.template.web@6.0.2

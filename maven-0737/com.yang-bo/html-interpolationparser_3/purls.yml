@@ -147,6 +147,8 @@
 - pkg:maven/com.yang-bo/html-interpolationparser_3@3.0.3%2B25-0de801cf?classifier=sources
 - pkg:maven/com.yang-bo/html-interpolationparser_3@3.0.3%2B26-c628c0aa
 - pkg:maven/com.yang-bo/html-interpolationparser_3@3.0.3%2B26-c628c0aa?classifier=sources
+- pkg:maven/com.yang-bo/html-interpolationparser_3@3.0.3%2B27-fa0a1aa3
+- pkg:maven/com.yang-bo/html-interpolationparser_3@3.0.3%2B27-fa0a1aa3?classifier=sources
 - pkg:maven/com.yang-bo/html-interpolationparser_3@3.0.3%2B3-4b96242d
 - pkg:maven/com.yang-bo/html-interpolationparser_3@3.0.3%2B3-4b96242d?classifier=sources
 - pkg:maven/com.yang-bo/html-interpolationparser_3@3.0.3%2B4-515a89d4

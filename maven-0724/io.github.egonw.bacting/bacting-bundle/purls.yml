@@ -31,3 +31,5 @@
 - pkg:maven/io.github.egonw.bacting/bacting-bundle@0.3.5
 - pkg:maven/io.github.egonw.bacting/bacting-bundle@0.3.6
 - pkg:maven/io.github.egonw.bacting/bacting-bundle@0.4.0
+- pkg:maven/io.github.egonw.bacting/bacting-bundle@0.4.1
+- pkg:maven/io.github.egonw.bacting/bacting-bundle@0.5.0

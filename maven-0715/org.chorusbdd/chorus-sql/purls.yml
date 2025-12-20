@@ -13,3 +13,4 @@
 - pkg:maven/org.chorusbdd/chorus-sql@4.0.0-RC1?classifier=sources
 - pkg:maven/org.chorusbdd/chorus-sql@4.0.0-RC2?classifier=sources
 - pkg:maven/org.chorusbdd/chorus-sql@4.0.0?classifier=sources
+- pkg:maven/org.chorusbdd/chorus-sql@4.0.1?classifier=sources

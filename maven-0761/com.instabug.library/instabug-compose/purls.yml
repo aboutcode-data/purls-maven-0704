@@ -6,3 +6,7 @@
 - pkg:maven/com.instabug.library/instabug-compose@12.2.0?classifier=sources
 - pkg:maven/com.instabug.library/instabug-compose@12.3.0?classifier=sources
 - pkg:maven/com.instabug.library/instabug-compose@12.3.1?classifier=sources
+- pkg:maven/com.instabug.library/instabug-compose@12.4.0?classifier=sources
+- pkg:maven/com.instabug.library/instabug-compose@12.4.1?classifier=sources
+- pkg:maven/com.instabug.library/instabug-compose@12.5.0?classifier=sources
+- pkg:maven/com.instabug.library/instabug-compose@12.5.1?classifier=sources

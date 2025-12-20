@@ -48,3 +48,9 @@
 - pkg:maven/com.51degrees/geo-location.web.examples.mvc@4.4.20?type=war
 - pkg:maven/com.51degrees/geo-location.web.examples.mvc@4.4.21?classifier=sources
 - pkg:maven/com.51degrees/geo-location.web.examples.mvc@4.4.21?type=war
+- pkg:maven/com.51degrees/geo-location.web.examples.mvc@4.4.22?classifier=sources
+- pkg:maven/com.51degrees/geo-location.web.examples.mvc@4.4.22?type=war
+- pkg:maven/com.51degrees/geo-location.web.examples.mvc@4.4.23?classifier=sources
+- pkg:maven/com.51degrees/geo-location.web.examples.mvc@4.4.23?type=war
+- pkg:maven/com.51degrees/geo-location.web.examples.mvc@4.4.25?classifier=sources
+- pkg:maven/com.51degrees/geo-location.web.examples.mvc@4.4.25?type=war

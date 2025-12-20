@@ -104,3 +104,5 @@
 - pkg:maven/org.clulab/processors-main_2.12@8.5.2?classifier=sources
 - pkg:maven/org.clulab/processors-main_2.12@8.5.3
 - pkg:maven/org.clulab/processors-main_2.12@8.5.3?classifier=sources
+- pkg:maven/org.clulab/processors-main_2.12@8.5.4
+- pkg:maven/org.clulab/processors-main_2.12@8.5.4?classifier=sources

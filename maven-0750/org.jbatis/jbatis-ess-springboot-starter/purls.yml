@@ -1,0 +1,4 @@
+- pkg:maven/org.jbatis/jbatis-ess-springboot-starter@1.0.7-RELEASE
+- pkg:maven/org.jbatis/jbatis-ess-springboot-starter@1.0.7-RELEASE?classifier=sources
+- pkg:maven/org.jbatis/jbatis-ess-springboot-starter@1.0.8-RELEASE
+- pkg:maven/org.jbatis/jbatis-ess-springboot-starter@1.0.8-RELEASE?classifier=sources

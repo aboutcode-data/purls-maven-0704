@@ -6,6 +6,7 @@
 - pkg:maven/com.vanniktech/emoji-ios@0.15.0?classifier=sources
 - pkg:maven/com.vanniktech/emoji-ios@0.16.0?classifier=sources
 - pkg:maven/com.vanniktech/emoji-ios@0.17.0?classifier=sources
+- pkg:maven/com.vanniktech/emoji-ios@0.18.0?classifier=sources
 - pkg:maven/com.vanniktech/emoji-ios@0.4.0?classifier=sources
 - pkg:maven/com.vanniktech/emoji-ios@0.4.0?type=aar
 - pkg:maven/com.vanniktech/emoji-ios@0.5.0?classifier=sources

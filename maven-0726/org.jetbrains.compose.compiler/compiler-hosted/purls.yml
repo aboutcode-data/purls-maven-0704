@@ -35,3 +35,6 @@
 - pkg:maven/org.jetbrains.compose.compiler/compiler-hosted@1.5.3-rc01?classifier=sources
 - pkg:maven/org.jetbrains.compose.compiler/compiler-hosted@1.5.3?classifier=sources
 - pkg:maven/org.jetbrains.compose.compiler/compiler-hosted@1.5.4?classifier=sources
+- pkg:maven/org.jetbrains.compose.compiler/compiler-hosted@1.5.7.1?classifier=sources
+- pkg:maven/org.jetbrains.compose.compiler/compiler-hosted@1.5.7?classifier=sources
+- pkg:maven/org.jetbrains.compose.compiler/compiler-hosted@1.5.8-beta01?classifier=sources

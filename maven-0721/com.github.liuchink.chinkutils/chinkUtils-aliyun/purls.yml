@@ -1,2 +1,6 @@
 - pkg:maven/com.github.liuchink.chinkutils/chinkUtils-aliyun@0.0.11.RELEASE
 - pkg:maven/com.github.liuchink.chinkutils/chinkUtils-aliyun@0.0.11.RELEASE?classifier=sources
+- pkg:maven/com.github.liuchink.chinkutils/chinkUtils-aliyun@0.0.12.RELEASE
+- pkg:maven/com.github.liuchink.chinkutils/chinkUtils-aliyun@0.0.12.RELEASE?classifier=sources
+- pkg:maven/com.github.liuchink.chinkutils/chinkUtils-aliyun@0.0.13.RELEASE
+- pkg:maven/com.github.liuchink.chinkutils/chinkUtils-aliyun@0.0.13.RELEASE?classifier=sources

@@ -10,4 +10,6 @@
 - pkg:maven/org.virtuslab/pulumi-github-kotlin@5.20.0.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-github-kotlin@5.21.0.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-github-kotlin@5.22.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-github-kotlin@5.23.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-github-kotlin@5.25.0.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-github-kotlin@5.4.0.1?classifier=sources

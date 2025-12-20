@@ -1,0 +1,2 @@
+- pkg:maven/io.github.sheng91666/sometool-linux@1.0.4-RELEASE
+- pkg:maven/io.github.sheng91666/sometool-linux@1.0.4-RELEASE?classifier=sources
