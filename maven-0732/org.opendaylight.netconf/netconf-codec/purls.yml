@@ -1,0 +1,1 @@
+- pkg:maven/org.opendaylight.netconf/netconf-codec@8.0.0?classifier=sources

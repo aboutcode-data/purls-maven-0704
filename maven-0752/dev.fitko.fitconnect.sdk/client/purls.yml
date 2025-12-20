@@ -16,3 +16,5 @@
 - pkg:maven/dev.fitko.fitconnect.sdk/client@2.0.2?classifier=sources
 - pkg:maven/dev.fitko.fitconnect.sdk/client@2.0.3
 - pkg:maven/dev.fitko.fitconnect.sdk/client@2.0.3?classifier=sources
+- pkg:maven/dev.fitko.fitconnect.sdk/client@2.1.0
+- pkg:maven/dev.fitko.fitconnect.sdk/client@2.1.0?classifier=sources

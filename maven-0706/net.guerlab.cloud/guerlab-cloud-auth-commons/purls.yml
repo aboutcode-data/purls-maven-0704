@@ -80,6 +80,8 @@
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-auth-commons@2024.8.0?classifier=sources
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-auth-commons@2024.9.0
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-auth-commons@2024.9.0?classifier=sources
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-auth-commons@2024.9.1
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-auth-commons@2024.9.1?classifier=sources
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-auth-commons@21.10.0
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-auth-commons@21.10.0?classifier=sources
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-auth-commons@21.11.0

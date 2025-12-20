@@ -20,5 +20,9 @@
 - pkg:maven/io.github.chiangkaishek327/animated-fx@2.161
 - pkg:maven/io.github.chiangkaishek327/animated-fx@2.161?classifier=sources
 - pkg:maven/io.github.chiangkaishek327/animated-fx@2.17
+- pkg:maven/io.github.chiangkaishek327/animated-fx@2.172
+- pkg:maven/io.github.chiangkaishek327/animated-fx@2.172-test________
+- pkg:maven/io.github.chiangkaishek327/animated-fx@2.172-test________?classifier=sources
+- pkg:maven/io.github.chiangkaishek327/animated-fx@2.172?classifier=sources
 - pkg:maven/io.github.chiangkaishek327/animated-fx@2.17?classifier=sources
 - pkg:maven/io.github.chiangkaishek327/animated-fx@2.1?classifier=sources

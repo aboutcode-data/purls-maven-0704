@@ -33,3 +33,5 @@
 - pkg:maven/org.seasar.doma/doma-mock@2.59.0?classifier=sources
 - pkg:maven/org.seasar.doma/doma-mock@2.60.0?classifier=sources
 - pkg:maven/org.seasar.doma/doma-mock@2.60.1?classifier=sources
+- pkg:maven/org.seasar.doma/doma-mock@2.61.0?classifier=sources
+- pkg:maven/org.seasar.doma/doma-mock@2.62.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.kkkele/easy-translation-spring-boot-autoconfig@1.4.2-beta
+- pkg:maven/io.github.kkkele/easy-translation-spring-boot-autoconfig@1.4.2-beta?classifier=sources

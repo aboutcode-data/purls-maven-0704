@@ -8,3 +8,4 @@
 - pkg:maven/io.v47.jaffree/jaffree@0.9.8
 - pkg:maven/io.v47.jaffree/jaffree@0.9.8?classifier=sources
 - pkg:maven/io.v47.jaffree/jaffree@1.0.0?classifier=sources
+- pkg:maven/io.v47.jaffree/jaffree@1.1.0?classifier=sources

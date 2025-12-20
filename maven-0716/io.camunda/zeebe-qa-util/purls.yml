@@ -155,6 +155,8 @@
 - pkg:maven/io.camunda/zeebe-qa-util@8.2.29?classifier=sources
 - pkg:maven/io.camunda/zeebe-qa-util@8.2.2?classifier=sources
 - pkg:maven/io.camunda/zeebe-qa-util@8.2.3
+- pkg:maven/io.camunda/zeebe-qa-util@8.2.30
+- pkg:maven/io.camunda/zeebe-qa-util@8.2.30?classifier=sources
 - pkg:maven/io.camunda/zeebe-qa-util@8.2.3?classifier=sources
 - pkg:maven/io.camunda/zeebe-qa-util@8.2.4
 - pkg:maven/io.camunda/zeebe-qa-util@8.2.4?classifier=sources

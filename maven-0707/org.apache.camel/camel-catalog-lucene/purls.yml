@@ -300,6 +300,8 @@
 - pkg:maven/org.apache.camel/camel-catalog-lucene@4.0.4?classifier=sources
 - pkg:maven/org.apache.camel/camel-catalog-lucene@4.0.5
 - pkg:maven/org.apache.camel/camel-catalog-lucene@4.0.5?classifier=sources
+- pkg:maven/org.apache.camel/camel-catalog-lucene@4.0.6
+- pkg:maven/org.apache.camel/camel-catalog-lucene@4.0.6?classifier=sources
 - pkg:maven/org.apache.camel/camel-catalog-lucene@4.1.0
 - pkg:maven/org.apache.camel/camel-catalog-lucene@4.1.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-catalog-lucene@4.2.0
@@ -318,3 +320,5 @@
 - pkg:maven/org.apache.camel/camel-catalog-lucene@4.5.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-catalog-lucene@4.6.0
 - pkg:maven/org.apache.camel/camel-catalog-lucene@4.6.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-catalog-lucene@4.7.0
+- pkg:maven/org.apache.camel/camel-catalog-lucene@4.7.0?classifier=sources

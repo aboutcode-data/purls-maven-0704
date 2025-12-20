@@ -12,3 +12,4 @@
 - pkg:maven/org.xmlobjects.gml/gml-objects@1.0.3?classifier=sources
 - pkg:maven/org.xmlobjects.gml/gml-objects@1.0.4?classifier=sources
 - pkg:maven/org.xmlobjects.gml/gml-objects@1.1.0?classifier=sources
+- pkg:maven/org.xmlobjects.gml/gml-objects@1.1.1?classifier=sources

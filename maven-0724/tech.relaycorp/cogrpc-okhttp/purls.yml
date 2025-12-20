@@ -21,3 +21,4 @@
 - pkg:maven/tech.relaycorp/cogrpc-okhttp@1.1.31?classifier=sources
 - pkg:maven/tech.relaycorp/cogrpc-okhttp@1.1.32?classifier=sources
 - pkg:maven/tech.relaycorp/cogrpc-okhttp@1.1.33?classifier=sources
+- pkg:maven/tech.relaycorp/cogrpc-okhttp@1.1.35?classifier=sources

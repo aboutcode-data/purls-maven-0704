@@ -54,6 +54,12 @@
 - pkg:maven/io.ray/ray-serve@2.30.0?classifier=sources
 - pkg:maven/io.ray/ray-serve@2.31.0
 - pkg:maven/io.ray/ray-serve@2.31.0?classifier=sources
+- pkg:maven/io.ray/ray-serve@2.32.0
+- pkg:maven/io.ray/ray-serve@2.32.0?classifier=sources
+- pkg:maven/io.ray/ray-serve@2.33.0
+- pkg:maven/io.ray/ray-serve@2.33.0?classifier=sources
+- pkg:maven/io.ray/ray-serve@2.34.0
+- pkg:maven/io.ray/ray-serve@2.34.0?classifier=sources
 - pkg:maven/io.ray/ray-serve@2.4.0
 - pkg:maven/io.ray/ray-serve@2.4.0?classifier=sources
 - pkg:maven/io.ray/ray-serve@2.5.0

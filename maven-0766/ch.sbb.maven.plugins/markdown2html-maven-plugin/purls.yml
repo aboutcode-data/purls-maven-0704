@@ -1,1 +1,5 @@
 - pkg:maven/ch.sbb.maven.plugins/markdown2html-maven-plugin@1.0.0
+- pkg:maven/ch.sbb.maven.plugins/markdown2html-maven-plugin@1.1.0
+- pkg:maven/ch.sbb.maven.plugins/markdown2html-maven-plugin@1.2.0
+- pkg:maven/ch.sbb.maven.plugins/markdown2html-maven-plugin@1.2.1
+- pkg:maven/ch.sbb.maven.plugins/markdown2html-maven-plugin@1.3.0

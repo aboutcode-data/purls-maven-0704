@@ -911,7 +911,9 @@
 - pkg:maven/org.noear/sqltoy-solon-plugin@2.8.2
 - pkg:maven/org.noear/sqltoy-solon-plugin@2.8.3
 - pkg:maven/org.noear/sqltoy-solon-plugin@2.8.4
+- pkg:maven/org.noear/sqltoy-solon-plugin@2.8.5
 - pkg:maven/org.noear/sqltoy-solon-plugin@2.8.5-M3
 - pkg:maven/org.noear/sqltoy-solon-plugin@2.8.5-M4
 - pkg:maven/org.noear/sqltoy-solon-plugin@2.8.5-M5
 - pkg:maven/org.noear/sqltoy-solon-plugin@2.8.5-RC
+- pkg:maven/org.noear/sqltoy-solon-plugin@2.8.6

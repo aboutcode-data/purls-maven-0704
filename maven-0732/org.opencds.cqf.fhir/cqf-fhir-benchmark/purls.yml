@@ -42,3 +42,5 @@
 - pkg:maven/org.opencds.cqf.fhir/cqf-fhir-benchmark@3.7.0?classifier=sources
 - pkg:maven/org.opencds.cqf.fhir/cqf-fhir-benchmark@3.8.0
 - pkg:maven/org.opencds.cqf.fhir/cqf-fhir-benchmark@3.8.0?classifier=sources
+- pkg:maven/org.opencds.cqf.fhir/cqf-fhir-benchmark@3.9.0
+- pkg:maven/org.opencds.cqf.fhir/cqf-fhir-benchmark@3.9.0?classifier=sources

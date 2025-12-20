@@ -13,3 +13,4 @@
 - pkg:maven/com.fyber/marketplace-sdk@8.2.5?classifier=sources
 - pkg:maven/com.fyber/marketplace-sdk@8.2.6?classifier=sources
 - pkg:maven/com.fyber/marketplace-sdk@8.2.7?classifier=sources
+- pkg:maven/com.fyber/marketplace-sdk@8.3.0?classifier=sources

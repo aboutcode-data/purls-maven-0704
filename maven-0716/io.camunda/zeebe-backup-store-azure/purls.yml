@@ -60,3 +60,7 @@
 - pkg:maven/io.camunda/zeebe-backup-store-azure@8.6.0-alpha3-rc3
 - pkg:maven/io.camunda/zeebe-backup-store-azure@8.6.0-alpha3-rc3?classifier=sources
 - pkg:maven/io.camunda/zeebe-backup-store-azure@8.6.0-alpha3?classifier=sources
+- pkg:maven/io.camunda/zeebe-backup-store-azure@8.6.0-alpha4-rc1
+- pkg:maven/io.camunda/zeebe-backup-store-azure@8.6.0-alpha4-rc1?classifier=sources
+- pkg:maven/io.camunda/zeebe-backup-store-azure@8.6.0-alpha4-rc2
+- pkg:maven/io.camunda/zeebe-backup-store-azure@8.6.0-alpha4-rc2?classifier=sources

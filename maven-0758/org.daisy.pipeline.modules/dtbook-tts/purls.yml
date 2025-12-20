@@ -26,3 +26,5 @@
 - pkg:maven/org.daisy.pipeline.modules/dtbook-tts@4.1.0?classifier=sources
 - pkg:maven/org.daisy.pipeline.modules/dtbook-tts@5.0.0
 - pkg:maven/org.daisy.pipeline.modules/dtbook-tts@5.0.0?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules/dtbook-tts@5.1.0
+- pkg:maven/org.daisy.pipeline.modules/dtbook-tts@5.1.0?classifier=sources

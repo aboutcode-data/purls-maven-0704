@@ -1,2 +1,4 @@
 - pkg:maven/eu.eureka-bpo.maven/require-p2-artifact-checksum@1.0.0
 - pkg:maven/eu.eureka-bpo.maven/require-p2-artifact-checksum@1.0.0?classifier=sources
+- pkg:maven/eu.eureka-bpo.maven/require-p2-artifact-checksum@1.0.1
+- pkg:maven/eu.eureka-bpo.maven/require-p2-artifact-checksum@1.0.1?classifier=sources

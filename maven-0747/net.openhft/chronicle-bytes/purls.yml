@@ -869,3 +869,5 @@
 - pkg:maven/net.openhft/chronicle-bytes@2.25ea9?classifier=sources
 - pkg:maven/net.openhft/chronicle-bytes@2.26ea0
 - pkg:maven/net.openhft/chronicle-bytes@2.26ea0?classifier=sources
+- pkg:maven/net.openhft/chronicle-bytes@2.26ea1
+- pkg:maven/net.openhft/chronicle-bytes@2.26ea1?classifier=sources

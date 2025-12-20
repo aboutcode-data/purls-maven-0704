@@ -80,3 +80,5 @@
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-security-webmvc@2024.8.0?classifier=sources
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-security-webmvc@2024.9.0
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-security-webmvc@2024.9.0?classifier=sources
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-security-webmvc@2024.9.1
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-security-webmvc@2024.9.1?classifier=sources

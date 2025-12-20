@@ -3,3 +3,7 @@
 - pkg:maven/org.jetbrains.intellij.plugins/verifier-core@1.365?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/verifier-core@1.367?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/verifier-core@1.369?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/verifier-core@1.370?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/verifier-core@1.371?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/verifier-core@1.372?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/verifier-core@1.373?classifier=sources

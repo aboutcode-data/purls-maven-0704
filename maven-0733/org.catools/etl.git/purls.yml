@@ -1,0 +1,2 @@
+- pkg:maven/org.catools/etl.git@2.0.0
+- pkg:maven/org.catools/etl.git@2.0.0?classifier=sources

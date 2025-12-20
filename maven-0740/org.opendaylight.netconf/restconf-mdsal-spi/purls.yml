@@ -1,0 +1,1 @@
+- pkg:maven/org.opendaylight.netconf/restconf-mdsal-spi@8.0.0?classifier=sources

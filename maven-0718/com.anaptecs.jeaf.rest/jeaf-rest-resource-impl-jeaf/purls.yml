@@ -6,3 +6,4 @@
 - pkg:maven/com.anaptecs.jeaf.rest/jeaf-rest-resource-impl-jeaf@1.8.0
 - pkg:maven/com.anaptecs.jeaf.rest/jeaf-rest-resource-impl-jeaf@1.9.0
 - pkg:maven/com.anaptecs.jeaf.rest/jeaf-rest-resource-impl-jeaf@1.9.1
+- pkg:maven/com.anaptecs.jeaf.rest/jeaf-rest-resource-impl-jeaf@2.0.0-RC1

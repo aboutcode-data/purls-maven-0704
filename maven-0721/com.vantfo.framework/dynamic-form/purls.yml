@@ -16,6 +16,8 @@
 - pkg:maven/com.vantfo.framework/dynamic-form@1.2.6?classifier=sources
 - pkg:maven/com.vantfo.framework/dynamic-form@1.2.8
 - pkg:maven/com.vantfo.framework/dynamic-form@1.2.8?classifier=sources
+- pkg:maven/com.vantfo.framework/dynamic-form@1.4.0
+- pkg:maven/com.vantfo.framework/dynamic-form@1.4.0?classifier=sources
 - pkg:maven/com.vantfo.framework/dynamic-form@hbis-1.2.8
 - pkg:maven/com.vantfo.framework/dynamic-form@hbis-1.2.8?classifier=sources
 - pkg:maven/com.vantfo.framework/dynamic-form@hbis-1.2.9

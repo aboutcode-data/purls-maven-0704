@@ -29,6 +29,10 @@
 - pkg:maven/de.tototec/de.tobiasroeser.mill.vcs.version_mill0.11_2.13@0.4.0-22-91e350?classifier=sources
 - pkg:maven/de.tototec/de.tobiasroeser.mill.vcs.version_mill0.11_2.13@0.4.0-23-08dd26
 - pkg:maven/de.tototec/de.tobiasroeser.mill.vcs.version_mill0.11_2.13@0.4.0-23-08dd26?classifier=sources
+- pkg:maven/de.tototec/de.tobiasroeser.mill.vcs.version_mill0.11_2.13@0.4.0-24-6c98dc
+- pkg:maven/de.tototec/de.tobiasroeser.mill.vcs.version_mill0.11_2.13@0.4.0-24-6c98dc?classifier=sources
+- pkg:maven/de.tototec/de.tobiasroeser.mill.vcs.version_mill0.11_2.13@0.4.0-26-22f5fe
+- pkg:maven/de.tototec/de.tobiasroeser.mill.vcs.version_mill0.11_2.13@0.4.0-26-22f5fe?classifier=sources
 - pkg:maven/de.tototec/de.tobiasroeser.mill.vcs.version_mill0.11_2.13@0.4.0-3-949a51
 - pkg:maven/de.tototec/de.tobiasroeser.mill.vcs.version_mill0.11_2.13@0.4.0-3-949a51?classifier=sources
 - pkg:maven/de.tototec/de.tobiasroeser.mill.vcs.version_mill0.11_2.13@0.4.0-4-1f2f0c

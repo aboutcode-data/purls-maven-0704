@@ -1,2 +1,4 @@
 - pkg:maven/com.neko233/virtual-router-core@0.0.2?classifier=sources
 - pkg:maven/com.neko233/virtual-router-core@0.0.2?type=zip
+- pkg:maven/com.neko233/virtual-router-core@0.0.3?classifier=sources
+- pkg:maven/com.neko233/virtual-router-core@0.0.3?type=zip

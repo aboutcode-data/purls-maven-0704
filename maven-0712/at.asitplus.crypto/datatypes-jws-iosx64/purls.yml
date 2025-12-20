@@ -9,3 +9,7 @@
 - pkg:maven/at.asitplus.crypto/datatypes-jws-iosx64@3.0.0?classifier=sources
 - pkg:maven/at.asitplus.crypto/datatypes-jws-iosx64@3.1.0?classifier=sources
 - pkg:maven/at.asitplus.crypto/datatypes-jws-iosx64@3.2.0?classifier=sources
+- pkg:maven/at.asitplus.crypto/datatypes-jws-iosx64@3.2.1?classifier=sources
+- pkg:maven/at.asitplus.crypto/datatypes-jws-iosx64@3.2.2?classifier=sources
+- pkg:maven/at.asitplus.crypto/datatypes-jws-iosx64@3.5.0?classifier=sources
+- pkg:maven/at.asitplus.crypto/datatypes-jws-iosx64@3.5.1?classifier=sources

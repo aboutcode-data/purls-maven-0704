@@ -41,3 +41,4 @@
 - pkg:maven/com.workos/workos@3.1.0-beta.user-management5?classifier=sources
 - pkg:maven/com.workos/workos@3.1.0-beta.user-management6?classifier=sources
 - pkg:maven/com.workos/workos@3.1.0?classifier=sources
+- pkg:maven/com.workos/workos@4.0.0?classifier=sources

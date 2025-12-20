@@ -1,5 +1,7 @@
+- pkg:maven/cn.structured/structure-jwt-security-starter@1.0.1
 - pkg:maven/cn.structured/structure-jwt-security-starter@1.0.1.RELEASE
 - pkg:maven/cn.structured/structure-jwt-security-starter@1.0.1.RELEASE?classifier=sources
+- pkg:maven/cn.structured/structure-jwt-security-starter@1.0.1?classifier=sources
 - pkg:maven/cn.structured/structure-jwt-security-starter@1.0.2.RELEASE
 - pkg:maven/cn.structured/structure-jwt-security-starter@1.0.2.RELEASE?classifier=sources
 - pkg:maven/cn.structured/structure-jwt-security-starter@1.0.3.RELEASE
@@ -14,3 +16,5 @@
 - pkg:maven/cn.structured/structure-jwt-security-starter@1.1.2.RELEASE?classifier=sources
 - pkg:maven/cn.structured/structure-jwt-security-starter@1.2.0.RELEASE
 - pkg:maven/cn.structured/structure-jwt-security-starter@1.2.0.RELEASE?classifier=sources
+- pkg:maven/cn.structured/structure-jwt-security-starter@1.2.1.RELEASE
+- pkg:maven/cn.structured/structure-jwt-security-starter@1.2.1.RELEASE?classifier=sources

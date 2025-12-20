@@ -1,5 +1,6 @@
 - pkg:maven/io.nstream/nstream-store-s3snapshot@4.10.18?classifier=sources
 - pkg:maven/io.nstream/nstream-store-s3snapshot@4.11.19?classifier=sources
+- pkg:maven/io.nstream/nstream-store-s3snapshot@4.12.20?classifier=sources
 - pkg:maven/io.nstream/nstream-store-s3snapshot@4.8.15?classifier=sources
 - pkg:maven/io.nstream/nstream-store-s3snapshot@4.9.16?classifier=sources
 - pkg:maven/io.nstream/nstream-store-s3snapshot@4.9.17?classifier=sources

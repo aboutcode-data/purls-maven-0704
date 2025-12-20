@@ -4,3 +4,5 @@
 - pkg:maven/de.kontext-e.jqassistant.plugin/jqassistant.plugin.csharp@0.2.3?classifier=sources
 - pkg:maven/de.kontext-e.jqassistant.plugin/jqassistant.plugin.csharp@0.2.4
 - pkg:maven/de.kontext-e.jqassistant.plugin/jqassistant.plugin.csharp@0.2.4?classifier=sources
+- pkg:maven/de.kontext-e.jqassistant.plugin/jqassistant.plugin.csharp@0.3.0
+- pkg:maven/de.kontext-e.jqassistant.plugin/jqassistant.plugin.csharp@0.3.0?classifier=sources

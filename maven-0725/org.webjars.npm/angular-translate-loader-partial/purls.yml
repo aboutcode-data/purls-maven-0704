@@ -6,6 +6,7 @@
 - pkg:maven/org.webjars.npm/angular-translate-loader-partial@2.15.2?classifier=sources
 - pkg:maven/org.webjars.npm/angular-translate-loader-partial@2.18.1
 - pkg:maven/org.webjars.npm/angular-translate-loader-partial@2.18.1?classifier=sources
+- pkg:maven/org.webjars.npm/angular-translate-loader-partial@2.19.1
 - pkg:maven/org.webjars.npm/angular-translate-loader-partial@2.7.2
 - pkg:maven/org.webjars.npm/angular-translate-loader-partial@2.7.2?classifier=sources
 - pkg:maven/org.webjars.npm/angular-translate-loader-partial@2.8.1

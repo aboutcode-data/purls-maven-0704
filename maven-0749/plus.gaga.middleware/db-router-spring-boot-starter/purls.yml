@@ -1,0 +1,6 @@
+- pkg:maven/plus.gaga.middleware/db-router-spring-boot-starter@1.0.3
+- pkg:maven/plus.gaga.middleware/db-router-spring-boot-starter@1.0.3?classifier=sources
+- pkg:maven/plus.gaga.middleware/db-router-spring-boot-starter@1.0.4
+- pkg:maven/plus.gaga.middleware/db-router-spring-boot-starter@1.0.4?classifier=sources
+- pkg:maven/plus.gaga.middleware/db-router-spring-boot-starter@2.0
+- pkg:maven/plus.gaga.middleware/db-router-spring-boot-starter@2.0?classifier=sources

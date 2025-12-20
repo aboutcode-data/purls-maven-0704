@@ -1,1 +1,2 @@
 - pkg:maven/io.spinnaker.igor/igor-integration@4.16.0?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-integration@4.17.0?classifier=sources

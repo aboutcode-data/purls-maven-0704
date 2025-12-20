@@ -1,0 +1,1 @@
+- pkg:maven/fr.ssk-it.maven.wagon/s3-wagon@1.0.2-RELEASE?classifier=sources

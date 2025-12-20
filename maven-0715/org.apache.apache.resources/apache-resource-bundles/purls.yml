@@ -1,3 +1,4 @@
 - pkg:maven/org.apache.apache.resources/apache-resource-bundles@1.5?classifier=source-release&type=zip
+- pkg:maven/org.apache.apache.resources/apache-resource-bundles@1.7?classifier=source-release&type=zip
 - pkg:maven/org.apache.apache.resources/apache-resource-bundles@4?classifier=source-release&type=zip
 - pkg:maven/org.apache.apache.resources/apache-resource-bundles@5?classifier=source-release&type=zip

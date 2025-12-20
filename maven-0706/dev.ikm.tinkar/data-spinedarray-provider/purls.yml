@@ -6,3 +6,5 @@
 - pkg:maven/dev.ikm.tinkar/data-spinedarray-provider@1.37.0?classifier=sources
 - pkg:maven/dev.ikm.tinkar/data-spinedarray-provider@1.51.0
 - pkg:maven/dev.ikm.tinkar/data-spinedarray-provider@1.51.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/data-spinedarray-provider@1.56.0
+- pkg:maven/dev.ikm.tinkar/data-spinedarray-provider@1.56.0?classifier=sources

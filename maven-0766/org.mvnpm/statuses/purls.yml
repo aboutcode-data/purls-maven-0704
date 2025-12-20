@@ -1,2 +1,3 @@
 - pkg:maven/org.mvnpm/statuses@1.4.0?classifier=sources
 - pkg:maven/org.mvnpm/statuses@1.5.0?classifier=sources
+- pkg:maven/org.mvnpm/statuses@2.0.1?classifier=sources

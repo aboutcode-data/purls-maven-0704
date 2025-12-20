@@ -1,5 +1,7 @@
 - pkg:maven/org.openmole.scaladget/bootstrapnative_sjs1_3@1.10.0
 - pkg:maven/org.openmole.scaladget/bootstrapnative_sjs1_3@1.10.0?classifier=sources
+- pkg:maven/org.openmole.scaladget/bootstrapnative_sjs1_3@1.11.0
+- pkg:maven/org.openmole.scaladget/bootstrapnative_sjs1_3@1.11.0?classifier=sources
 - pkg:maven/org.openmole.scaladget/bootstrapnative_sjs1_3@1.9.1
 - pkg:maven/org.openmole.scaladget/bootstrapnative_sjs1_3@1.9.1?classifier=sources
 - pkg:maven/org.openmole.scaladget/bootstrapnative_sjs1_3@1.9.2

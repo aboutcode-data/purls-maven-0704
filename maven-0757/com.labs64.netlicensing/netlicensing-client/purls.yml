@@ -4,6 +4,10 @@
 - pkg:maven/com.labs64.netlicensing/netlicensing-client@2.1.2?classifier=sources
 - pkg:maven/com.labs64.netlicensing/netlicensing-client@2.1.6
 - pkg:maven/com.labs64.netlicensing/netlicensing-client@2.1.6?classifier=sources
+- pkg:maven/com.labs64.netlicensing/netlicensing-client@2.10.0
+- pkg:maven/com.labs64.netlicensing/netlicensing-client@2.10.0-jdk17
+- pkg:maven/com.labs64.netlicensing/netlicensing-client@2.10.0-jdk17?classifier=sources
+- pkg:maven/com.labs64.netlicensing/netlicensing-client@2.10.0?classifier=sources
 - pkg:maven/com.labs64.netlicensing/netlicensing-client@2.2.0
 - pkg:maven/com.labs64.netlicensing/netlicensing-client@2.2.0?classifier=sources
 - pkg:maven/com.labs64.netlicensing/netlicensing-client@2.2.1

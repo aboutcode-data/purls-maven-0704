@@ -34,3 +34,5 @@
 - pkg:maven/net.pwall.util/co-pipelines@2.3?classifier=sources
 - pkg:maven/net.pwall.util/co-pipelines@2.4
 - pkg:maven/net.pwall.util/co-pipelines@2.4?classifier=sources
+- pkg:maven/net.pwall.util/co-pipelines@3.0
+- pkg:maven/net.pwall.util/co-pipelines@3.0?classifier=sources

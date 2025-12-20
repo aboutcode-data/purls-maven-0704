@@ -1,0 +1,1 @@
+- pkg:maven/io.trino/trino-kafka-event-listener@454?classifier=sources

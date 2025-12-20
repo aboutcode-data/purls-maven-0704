@@ -28,3 +28,5 @@
 - pkg:maven/io.github.mmhelloworld/idris-jvm-assembler@0.6.0.6
 - pkg:maven/io.github.mmhelloworld/idris-jvm-assembler@0.6.0.6?classifier=sources
 - pkg:maven/io.github.mmhelloworld/idris-jvm-assembler@0.6.0?classifier=sources
+- pkg:maven/io.github.mmhelloworld/idris-jvm-assembler@0.7.0
+- pkg:maven/io.github.mmhelloworld/idris-jvm-assembler@0.7.0?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/org.androidaudioplugin/compose-audio-controls-midi@0.4.3?classifier=sources
 - pkg:maven/org.androidaudioplugin/compose-audio-controls-midi@0.5.1?classifier=sources
 - pkg:maven/org.androidaudioplugin/compose-audio-controls-midi@0.6.0?classifier=sources
+- pkg:maven/org.androidaudioplugin/compose-audio-controls-midi@0.6.1?classifier=sources
+- pkg:maven/org.androidaudioplugin/compose-audio-controls-midi@0.6.2?classifier=sources

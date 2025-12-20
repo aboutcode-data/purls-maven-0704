@@ -66,6 +66,7 @@
 - pkg:maven/cn.vonce/vonce-sqlbean-spring@1.5.8?classifier=sources
 - pkg:maven/cn.vonce/vonce-sqlbean-spring@1.5.9
 - pkg:maven/cn.vonce/vonce-sqlbean-spring@1.5.9?classifier=sources
+- pkg:maven/cn.vonce/vonce-sqlbean-spring@1.6.0
 - pkg:maven/cn.vonce/vonce-sqlbean-spring@1.6.0-beta
 - pkg:maven/cn.vonce/vonce-sqlbean-spring@1.6.0-beta1
 - pkg:maven/cn.vonce/vonce-sqlbean-spring@1.6.0-beta11
@@ -114,3 +115,6 @@
 - pkg:maven/cn.vonce/vonce-sqlbean-spring@1.6.0-beta9
 - pkg:maven/cn.vonce/vonce-sqlbean-spring@1.6.0-beta9?classifier=sources
 - pkg:maven/cn.vonce/vonce-sqlbean-spring@1.6.0-beta?classifier=sources
+- pkg:maven/cn.vonce/vonce-sqlbean-spring@1.6.0?classifier=sources
+- pkg:maven/cn.vonce/vonce-sqlbean-spring@1.6.1
+- pkg:maven/cn.vonce/vonce-sqlbean-spring@1.6.1?classifier=sources

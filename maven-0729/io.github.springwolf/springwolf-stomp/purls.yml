@@ -1,1 +1,2 @@
 - pkg:maven/io.github.springwolf/springwolf-stomp@1.4.0?classifier=sources
+- pkg:maven/io.github.springwolf/springwolf-stomp@1.5.0?classifier=sources

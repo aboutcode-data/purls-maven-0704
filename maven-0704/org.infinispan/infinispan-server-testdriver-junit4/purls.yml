@@ -238,6 +238,8 @@
 - pkg:maven/org.infinispan/infinispan-server-testdriver-junit4@14.0.29.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-testdriver-junit4@14.0.3.Final
 - pkg:maven/org.infinispan/infinispan-server-testdriver-junit4@14.0.3.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-testdriver-junit4@14.0.30.Final
+- pkg:maven/org.infinispan/infinispan-server-testdriver-junit4@14.0.30.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-testdriver-junit4@14.0.4.Final
 - pkg:maven/org.infinispan/infinispan-server-testdriver-junit4@14.0.4.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-testdriver-junit4@14.0.5.Final
@@ -284,5 +286,11 @@
 - pkg:maven/org.infinispan/infinispan-server-testdriver-junit4@15.0.4.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-testdriver-junit4@15.0.5.Final
 - pkg:maven/org.infinispan/infinispan-server-testdriver-junit4@15.0.5.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-testdriver-junit4@15.0.6.Final
+- pkg:maven/org.infinispan/infinispan-server-testdriver-junit4@15.0.6.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-testdriver-junit4@15.0.7.Final
+- pkg:maven/org.infinispan/infinispan-server-testdriver-junit4@15.0.7.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-testdriver-junit4@15.1.0.Dev01
 - pkg:maven/org.infinispan/infinispan-server-testdriver-junit4@15.1.0.Dev01?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-testdriver-junit4@15.1.0.Dev02
+- pkg:maven/org.infinispan/infinispan-server-testdriver-junit4@15.1.0.Dev02?classifier=sources

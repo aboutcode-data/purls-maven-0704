@@ -1,2 +1,4 @@
 - pkg:maven/io.spring.javaformat/io.spring.javaformat.eclipse@0.0.42
 - pkg:maven/io.spring.javaformat/io.spring.javaformat.eclipse@0.0.42?classifier=sources
+- pkg:maven/io.spring.javaformat/io.spring.javaformat.eclipse@0.0.43
+- pkg:maven/io.spring.javaformat/io.spring.javaformat.eclipse@0.0.43?classifier=sources
