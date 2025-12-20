@@ -1,0 +1,2 @@
+- pkg:maven/io.github.linghengqian/hive-server2-jdbc-driver-uber@1.1.0?classifier=sources
+- pkg:maven/io.github.linghengqian/hive-server2-jdbc-driver-uber@1.2.0?classifier=sources

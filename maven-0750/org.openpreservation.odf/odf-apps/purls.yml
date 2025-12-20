@@ -1,2 +1,4 @@
 - pkg:maven/org.openpreservation.odf/odf-apps@0.12.0
 - pkg:maven/org.openpreservation.odf/odf-apps@0.12.0?classifier=sources
+- pkg:maven/org.openpreservation.odf/odf-apps@0.13.1
+- pkg:maven/org.openpreservation.odf/odf-apps@0.13.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.weimin96/spring-boot-starter-manager-client@1.0.0?classifier=sources
+- pkg:maven/io.github.weimin96/spring-boot-starter-manager-client@1.0.1?classifier=sources

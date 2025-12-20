@@ -1,0 +1,2 @@
+- pkg:maven/com.frog-development.consul-populate/consul-populate-cli@0.0.0?classifier=sources
+- pkg:maven/com.frog-development.consul-populate/consul-populate-cli@1.0.0?classifier=sources

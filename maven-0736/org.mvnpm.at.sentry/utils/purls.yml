@@ -45,7 +45,11 @@
 - pkg:maven/org.mvnpm.at.sentry/utils@8.24.0?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry/utils@8.25.0?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry/utils@8.26.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry/utils@8.27.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry/utils@8.28.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry/utils@8.29.0?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry/utils@8.3.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry/utils@8.30.0?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry/utils@8.4.0?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry/utils@8.5.0?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry/utils@8.6.0?classifier=sources

@@ -35,3 +35,4 @@
 - pkg:maven/io.kubernetes/e2e-tests@21.0.0
 - pkg:maven/io.kubernetes/e2e-tests@21.0.0-legacy
 - pkg:maven/io.kubernetes/e2e-tests@21.0.1
+- pkg:maven/io.kubernetes/e2e-tests@21.0.1-legacy

@@ -63,3 +63,7 @@
 - pkg:maven/com.pulumi/local@0.2.0-alpha.1718343849?classifier=sources
 - pkg:maven/com.pulumi/local@0.2.0-alpha.1718430296?classifier=sources
 - pkg:maven/com.pulumi/local@0.2.0-alpha.1722059549?classifier=sources
+- pkg:maven/com.pulumi/local@0.2.0-alpha.1723009345?classifier=sources
+- pkg:maven/com.pulumi/local@0.2.0-alpha.1723819866?classifier=sources
+- pkg:maven/com.pulumi/local@0.2.0-alpha.1724478047?classifier=sources
+- pkg:maven/com.pulumi/local@0.2.0-alpha.1724910355?classifier=sources

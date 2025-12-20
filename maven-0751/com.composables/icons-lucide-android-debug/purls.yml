@@ -1,0 +1,2 @@
+- pkg:maven/com.composables/icons-lucide-android-debug@0.0.1?classifier=sources
+- pkg:maven/com.composables/icons-lucide-android-debug@1.0.0?classifier=sources

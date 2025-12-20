@@ -2,3 +2,5 @@
 - pkg:maven/com.noumenadigital.platform/npl-contrib-sample@2024.1.7?classifier=sources
 - pkg:maven/com.noumenadigital.platform/npl-contrib-sample@2024.1.8?classifier=sources
 - pkg:maven/com.noumenadigital.platform/npl-contrib-sample@2024.1.9?classifier=sources
+- pkg:maven/com.noumenadigital.platform/npl-contrib-sample@2024.2.0?classifier=sources
+- pkg:maven/com.noumenadigital.platform/npl-contrib-sample@2024.2.1?classifier=sources

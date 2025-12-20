@@ -1,0 +1,2 @@
+- pkg:maven/org.geckoprojects.messaging/org.gecko.moquette.broker@0.0.18.202408220914
+- pkg:maven/org.geckoprojects.messaging/org.gecko.moquette.broker@0.0.18.202408220914?classifier=sources

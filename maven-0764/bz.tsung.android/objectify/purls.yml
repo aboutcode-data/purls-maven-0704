@@ -12,3 +12,4 @@
 - pkg:maven/bz.tsung.android/objectify@1.1.3?type=aar
 - pkg:maven/bz.tsung.android/objectify@2.0?classifier=sources
 - pkg:maven/bz.tsung.android/objectify@2.0?type=aar
+- pkg:maven/bz.tsung.android/objectify@3.0?classifier=sources

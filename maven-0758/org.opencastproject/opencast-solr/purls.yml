@@ -136,6 +136,8 @@
 - pkg:maven/org.opencastproject/opencast-solr@15.7?classifier=sources
 - pkg:maven/org.opencastproject/opencast-solr@15.8
 - pkg:maven/org.opencastproject/opencast-solr@15.8?classifier=sources
+- pkg:maven/org.opencastproject/opencast-solr@15.9
+- pkg:maven/org.opencastproject/opencast-solr@15.9?classifier=sources
 - pkg:maven/org.opencastproject/opencast-solr@6.6
 - pkg:maven/org.opencastproject/opencast-solr@6.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-solr@7.2

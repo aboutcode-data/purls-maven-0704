@@ -143,3 +143,4 @@
 - pkg:maven/com.bbossgroups.plugins/bboss-plugin-activemq@6.2.7?classifier=sources
 - pkg:maven/com.bbossgroups.plugins/bboss-plugin-activemq@6.2.8?classifier=sources
 - pkg:maven/com.bbossgroups.plugins/bboss-plugin-activemq@6.3.0?classifier=sources
+- pkg:maven/com.bbossgroups.plugins/bboss-plugin-activemq@6.3.1?classifier=sources

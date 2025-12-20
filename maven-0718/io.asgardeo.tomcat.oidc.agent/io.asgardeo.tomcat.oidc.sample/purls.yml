@@ -34,6 +34,8 @@
 - pkg:maven/io.asgardeo.tomcat.oidc.agent/io.asgardeo.tomcat.oidc.sample@0.1.27?type=war
 - pkg:maven/io.asgardeo.tomcat.oidc.agent/io.asgardeo.tomcat.oidc.sample@0.1.28?classifier=sources
 - pkg:maven/io.asgardeo.tomcat.oidc.agent/io.asgardeo.tomcat.oidc.sample@0.1.28?type=war
+- pkg:maven/io.asgardeo.tomcat.oidc.agent/io.asgardeo.tomcat.oidc.sample@0.1.29?classifier=sources
+- pkg:maven/io.asgardeo.tomcat.oidc.agent/io.asgardeo.tomcat.oidc.sample@0.1.29?type=war
 - pkg:maven/io.asgardeo.tomcat.oidc.agent/io.asgardeo.tomcat.oidc.sample@0.1.5?classifier=sources
 - pkg:maven/io.asgardeo.tomcat.oidc.agent/io.asgardeo.tomcat.oidc.sample@0.1.5?type=war
 - pkg:maven/io.asgardeo.tomcat.oidc.agent/io.asgardeo.tomcat.oidc.sample@0.1.6?classifier=sources

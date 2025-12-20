@@ -22,3 +22,9 @@
 - pkg:maven/eu.vendeli/ktor-starter@6.5.0?classifier=sources
 - pkg:maven/eu.vendeli/ktor-starter@6.5.1?classifier=sources
 - pkg:maven/eu.vendeli/ktor-starter@6.6.0?classifier=sources
+- pkg:maven/eu.vendeli/ktor-starter@7.0.0?classifier=sources
+- pkg:maven/eu.vendeli/ktor-starter@7.0.1?classifier=sources
+- pkg:maven/eu.vendeli/ktor-starter@7.1.0?classifier=sources
+- pkg:maven/eu.vendeli/ktor-starter@7.2.0?classifier=sources
+- pkg:maven/eu.vendeli/ktor-starter@7.2.1?classifier=sources
+- pkg:maven/eu.vendeli/ktor-starter@7.2.2?classifier=sources

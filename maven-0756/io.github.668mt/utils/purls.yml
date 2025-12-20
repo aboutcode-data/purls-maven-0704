@@ -1,0 +1,4 @@
+- pkg:maven/io.github.668mt/utils@2.0.1?classifier=sources
+- pkg:maven/io.github.668mt/utils@2.0?classifier=sources
+- pkg:maven/io.github.668mt/utils@3.0?classifier=sources
+- pkg:maven/io.github.668mt/utils@3.1.1?classifier=sources

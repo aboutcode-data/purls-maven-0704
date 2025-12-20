@@ -1,0 +1,4 @@
+- pkg:maven/net.sf.matrixjavalib/mxlib-common-java8@3.0.0
+- pkg:maven/net.sf.matrixjavalib/mxlib-common-java8@3.0.0?classifier=sources
+- pkg:maven/net.sf.matrixjavalib/mxlib-common-java8@3.0.2
+- pkg:maven/net.sf.matrixjavalib/mxlib-common-java8@3.0.2?classifier=sources

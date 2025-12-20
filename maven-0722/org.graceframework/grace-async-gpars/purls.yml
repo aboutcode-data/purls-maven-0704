@@ -20,3 +20,5 @@
 - pkg:maven/org.graceframework/grace-async-gpars@6.0.0-M3?classifier=sources
 - pkg:maven/org.graceframework/grace-async-gpars@6.0.0-M4?classifier=sources
 - pkg:maven/org.graceframework/grace-async-gpars@6.0.0-RC1?classifier=sources
+- pkg:maven/org.graceframework/grace-async-gpars@6.0.0?classifier=sources
+- pkg:maven/org.graceframework/grace-async-gpars@6.0.1?classifier=sources

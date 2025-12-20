@@ -2,3 +2,4 @@
 - pkg:maven/com.cossacklabs.com/themis@0.14.0?classifier=sources
 - pkg:maven/com.cossacklabs.com/themis@0.14.0?type=aar
 - pkg:maven/com.cossacklabs.com/themis@0.15.2?classifier=sources
+- pkg:maven/com.cossacklabs.com/themis@0.15.5?classifier=sources

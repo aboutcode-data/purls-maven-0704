@@ -1,0 +1,2 @@
+- pkg:maven/com.codenameone/sqlite-jdbc@7.0.159
+- pkg:maven/com.codenameone/sqlite-jdbc@7.0.159?classifier=sources

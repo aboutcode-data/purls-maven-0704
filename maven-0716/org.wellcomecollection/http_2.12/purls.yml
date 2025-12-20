@@ -1,0 +1,4 @@
+- pkg:maven/org.wellcomecollection/http_2.12@32.42.0
+- pkg:maven/org.wellcomecollection/http_2.12@32.42.0?classifier=sources
+- pkg:maven/org.wellcomecollection/http_2.12@32.42.1
+- pkg:maven/org.wellcomecollection/http_2.12@32.42.1?classifier=sources

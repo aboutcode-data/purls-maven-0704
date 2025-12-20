@@ -13,6 +13,8 @@
 - pkg:maven/dev.inmo/tgbotapi-linuxx64@15.1.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi-linuxx64@15.2.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi-linuxx64@15.3.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi-linuxx64@16.0.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi-linuxx64@17.0.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi-linuxx64@7.0.2?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi-linuxx64@7.1.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi-linuxx64@7.1.1?classifier=sources

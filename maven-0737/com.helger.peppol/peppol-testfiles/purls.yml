@@ -134,3 +134,5 @@
 - pkg:maven/com.helger.peppol/peppol-testfiles@9.4.0?classifier=sources
 - pkg:maven/com.helger.peppol/peppol-testfiles@9.5.0
 - pkg:maven/com.helger.peppol/peppol-testfiles@9.5.0?classifier=sources
+- pkg:maven/com.helger.peppol/peppol-testfiles@9.5.1
+- pkg:maven/com.helger.peppol/peppol-testfiles@9.5.1?classifier=sources

@@ -136,3 +136,7 @@
 - pkg:maven/me.meeco/holder-wallet-api-kotlin-sdk@5.8.0-develop.20240816162701.01be34d?classifier=sources
 - pkg:maven/me.meeco/holder-wallet-api-kotlin-sdk@5.8.0-stage.20240816102039.2b06a41?classifier=sources
 - pkg:maven/me.meeco/holder-wallet-api-kotlin-sdk@5.8.0-stage.20240816162735.c64f1b2?classifier=sources
+- pkg:maven/me.meeco/holder-wallet-api-kotlin-sdk@5.8.0?classifier=sources
+- pkg:maven/me.meeco/holder-wallet-api-kotlin-sdk@5.9.0-develop.20240826103833.5f92319?classifier=sources
+- pkg:maven/me.meeco/holder-wallet-api-kotlin-sdk@5.9.0-develop.20240830003629.61f60ef?classifier=sources
+- pkg:maven/me.meeco/holder-wallet-api-kotlin-sdk@5.9.0-develop.20240902011740.4ef3686?classifier=sources

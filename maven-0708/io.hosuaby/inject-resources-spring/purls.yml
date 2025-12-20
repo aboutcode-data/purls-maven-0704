@@ -9,3 +9,5 @@
 - pkg:maven/io.hosuaby/inject-resources-spring@0.3.2?classifier=sources
 - pkg:maven/io.hosuaby/inject-resources-spring@0.3.3?classifier=sources
 - pkg:maven/io.hosuaby/inject-resources-spring@0.3.4?classifier=sources
+- pkg:maven/io.hosuaby/inject-resources-spring@0.3.5?classifier=sources
+- pkg:maven/io.hosuaby/inject-resources-spring@1.0.0?classifier=sources

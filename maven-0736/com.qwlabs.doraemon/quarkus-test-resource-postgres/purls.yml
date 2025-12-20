@@ -35,3 +35,5 @@
 - pkg:maven/com.qwlabs.doraemon/quarkus-test-resource-postgres@0.2.351?classifier=sources
 - pkg:maven/com.qwlabs.doraemon/quarkus-test-resource-postgres@0.2.352?classifier=sources
 - pkg:maven/com.qwlabs.doraemon/quarkus-test-resource-postgres@0.2.354?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/quarkus-test-resource-postgres@0.3.0.3.1?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/quarkus-test-resource-postgres@0.3.0?classifier=sources

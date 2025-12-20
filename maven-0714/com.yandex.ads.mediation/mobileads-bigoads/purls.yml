@@ -10,3 +10,4 @@
 - pkg:maven/com.yandex.ads.mediation/mobileads-bigoads@4.7.4.0?classifier=sources
 - pkg:maven/com.yandex.ads.mediation/mobileads-bigoads@4.8.0.0?classifier=sources
 - pkg:maven/com.yandex.ads.mediation/mobileads-bigoads@4.8.2.0?classifier=sources
+- pkg:maven/com.yandex.ads.mediation/mobileads-bigoads@4.9.0.0?classifier=sources

@@ -232,3 +232,9 @@
 - pkg:maven/com.ibm.cloud/usage-metering@0.54.2?classifier=sources
 - pkg:maven/com.ibm.cloud/usage-metering@0.55.0
 - pkg:maven/com.ibm.cloud/usage-metering@0.55.0?classifier=sources
+- pkg:maven/com.ibm.cloud/usage-metering@0.56.0
+- pkg:maven/com.ibm.cloud/usage-metering@0.56.0?classifier=sources
+- pkg:maven/com.ibm.cloud/usage-metering@0.57.0
+- pkg:maven/com.ibm.cloud/usage-metering@0.57.0?classifier=sources
+- pkg:maven/com.ibm.cloud/usage-metering@0.57.1
+- pkg:maven/com.ibm.cloud/usage-metering@0.57.1?classifier=sources

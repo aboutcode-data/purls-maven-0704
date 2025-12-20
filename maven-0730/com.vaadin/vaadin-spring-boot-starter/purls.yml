@@ -121,6 +121,7 @@
 - pkg:maven/com.vaadin/vaadin-spring-boot-starter@14.11.7
 - pkg:maven/com.vaadin/vaadin-spring-boot-starter@14.11.8
 - pkg:maven/com.vaadin/vaadin-spring-boot-starter@14.11.9
+- pkg:maven/com.vaadin/vaadin-spring-boot-starter@14.12.0
 - pkg:maven/com.vaadin/vaadin-spring-boot-starter@14.2.0
 - pkg:maven/com.vaadin/vaadin-spring-boot-starter@14.2.1
 - pkg:maven/com.vaadin/vaadin-spring-boot-starter@14.2.2
@@ -396,6 +397,7 @@
 - pkg:maven/com.vaadin/vaadin-spring-boot-starter@23.5.1
 - pkg:maven/com.vaadin/vaadin-spring-boot-starter@23.5.2
 - pkg:maven/com.vaadin/vaadin-spring-boot-starter@23.5.3
+- pkg:maven/com.vaadin/vaadin-spring-boot-starter@23.5.4
 - pkg:maven/com.vaadin/vaadin-spring-boot-starter@24.0.0
 - pkg:maven/com.vaadin/vaadin-spring-boot-starter@24.0.1
 - pkg:maven/com.vaadin/vaadin-spring-boot-starter@24.0.10
@@ -450,6 +452,7 @@
 - pkg:maven/com.vaadin/vaadin-spring-boot-starter@24.3.14
 - pkg:maven/com.vaadin/vaadin-spring-boot-starter@24.3.15
 - pkg:maven/com.vaadin/vaadin-spring-boot-starter@24.3.16
+- pkg:maven/com.vaadin/vaadin-spring-boot-starter@24.3.17
 - pkg:maven/com.vaadin/vaadin-spring-boot-starter@24.3.2
 - pkg:maven/com.vaadin/vaadin-spring-boot-starter@24.3.3
 - pkg:maven/com.vaadin/vaadin-spring-boot-starter@24.3.4
@@ -460,12 +463,15 @@
 - pkg:maven/com.vaadin/vaadin-spring-boot-starter@24.3.9
 - pkg:maven/com.vaadin/vaadin-spring-boot-starter@24.4.0
 - pkg:maven/com.vaadin/vaadin-spring-boot-starter@24.4.1
+- pkg:maven/com.vaadin/vaadin-spring-boot-starter@24.4.10
 - pkg:maven/com.vaadin/vaadin-spring-boot-starter@24.4.2
 - pkg:maven/com.vaadin/vaadin-spring-boot-starter@24.4.3
 - pkg:maven/com.vaadin/vaadin-spring-boot-starter@24.4.4
 - pkg:maven/com.vaadin/vaadin-spring-boot-starter@24.4.5
 - pkg:maven/com.vaadin/vaadin-spring-boot-starter@24.4.6
 - pkg:maven/com.vaadin/vaadin-spring-boot-starter@24.4.7
+- pkg:maven/com.vaadin/vaadin-spring-boot-starter@24.4.8
+- pkg:maven/com.vaadin/vaadin-spring-boot-starter@24.4.9
 - pkg:maven/com.vaadin/vaadin-spring-boot-starter@3.0.0
 - pkg:maven/com.vaadin/vaadin-spring-boot-starter@3.0.1
 - pkg:maven/com.vaadin/vaadin-spring-boot-starter@3.1.0

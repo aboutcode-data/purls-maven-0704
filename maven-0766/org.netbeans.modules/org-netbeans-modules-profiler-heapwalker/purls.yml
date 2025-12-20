@@ -22,4 +22,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-heapwalker@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-heapwalker@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-heapwalker@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-heapwalker@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-heapwalker@RELEASE90?classifier=sources

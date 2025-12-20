@@ -1,1 +1,2 @@
 - pkg:maven/dev.gitlive/firebase-common-internal-android-debug@1.13.0?classifier=sources
+- pkg:maven/dev.gitlive/firebase-common-internal-android-debug@2.0.0?classifier=sources

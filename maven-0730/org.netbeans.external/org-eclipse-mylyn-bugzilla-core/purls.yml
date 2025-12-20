@@ -18,3 +18,4 @@
 - pkg:maven/org.netbeans.external/org-eclipse-mylyn-bugzilla-core@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-mylyn-bugzilla-core@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-mylyn-bugzilla-core@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.external/org-eclipse-mylyn-bugzilla-core@RELEASE230?classifier=sources

@@ -1,3 +1,6 @@
 - pkg:maven/io.github.andreyzebin/json-statem@0.0.3?classifier=sources
 - pkg:maven/io.github.andreyzebin/json-statem@1.0.0?classifier=sources
 - pkg:maven/io.github.andreyzebin/json-statem@2.0.0dev?classifier=sources
+- pkg:maven/io.github.andreyzebin/json-statem@2.0.1?classifier=sources
+- pkg:maven/io.github.andreyzebin/json-statem@3.0.0?classifier=sources
+- pkg:maven/io.github.andreyzebin/json-statem@4.0.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.mizhousoft.boot/mail-spring-boot-starter@1.6.0?classifier=sources
 - pkg:maven/com.mizhousoft.boot/mail-spring-boot-starter@2.0.0
 - pkg:maven/com.mizhousoft.boot/mail-spring-boot-starter@2.0.0?classifier=sources
+- pkg:maven/com.mizhousoft.boot/mail-spring-boot-starter@2.0.1
+- pkg:maven/com.mizhousoft.boot/mail-spring-boot-starter@2.0.1?classifier=sources

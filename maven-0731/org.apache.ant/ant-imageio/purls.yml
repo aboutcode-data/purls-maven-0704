@@ -8,6 +8,8 @@
 - pkg:maven/org.apache.ant/ant-imageio@1.10.13?classifier=sources
 - pkg:maven/org.apache.ant/ant-imageio@1.10.14
 - pkg:maven/org.apache.ant/ant-imageio@1.10.14?classifier=sources
+- pkg:maven/org.apache.ant/ant-imageio@1.10.15
+- pkg:maven/org.apache.ant/ant-imageio@1.10.15?classifier=sources
 - pkg:maven/org.apache.ant/ant-imageio@1.10.6
 - pkg:maven/org.apache.ant/ant-imageio@1.10.6?classifier=sources
 - pkg:maven/org.apache.ant/ant-imageio@1.10.7

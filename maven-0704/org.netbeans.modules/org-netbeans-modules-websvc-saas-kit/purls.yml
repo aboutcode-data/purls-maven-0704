@@ -22,4 +22,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-saas-kit@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-saas-kit@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-saas-kit@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-saas-kit@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-saas-kit@RELEASE90?classifier=sources

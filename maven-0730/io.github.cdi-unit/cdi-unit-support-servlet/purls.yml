@@ -1,1 +1,3 @@
 - pkg:maven/io.github.cdi-unit/cdi-unit-support-servlet@5.0.0-EA2?classifier=sources
+- pkg:maven/io.github.cdi-unit/cdi-unit-support-servlet@5.0.0-EA3?classifier=sources
+- pkg:maven/io.github.cdi-unit/cdi-unit-support-servlet@5.0.0-EA4?classifier=sources

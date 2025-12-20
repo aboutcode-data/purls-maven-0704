@@ -43,6 +43,8 @@
 - pkg:maven/health.matchbox/matchbox-engine@3.8.0
 - pkg:maven/health.matchbox/matchbox-engine@3.8.0?classifier=sources
 - pkg:maven/health.matchbox/matchbox-engine@3.8.1
+- pkg:maven/health.matchbox/matchbox-engine@3.8.10
+- pkg:maven/health.matchbox/matchbox-engine@3.8.10?classifier=sources
 - pkg:maven/health.matchbox/matchbox-engine@3.8.1?classifier=sources
 - pkg:maven/health.matchbox/matchbox-engine@3.8.2
 - pkg:maven/health.matchbox/matchbox-engine@3.8.2?classifier=sources

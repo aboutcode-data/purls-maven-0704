@@ -1,0 +1,3 @@
+- pkg:maven/io.gitee.aeizzz/nacos-datasource-plugin-kingbase@0.0.4-20240821?classifier=sources
+- pkg:maven/io.gitee.aeizzz/nacos-datasource-plugin-kingbase@0.0.4-snapshot?classifier=sources
+- pkg:maven/io.gitee.aeizzz/nacos-datasource-plugin-kingbase@0.0.4?classifier=sources

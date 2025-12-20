@@ -134,3 +134,5 @@
 - pkg:maven/com.tencent.polaris/registry-memory@1.9.6?classifier=sources
 - pkg:maven/com.tencent.polaris/registry-memory@1.9.7
 - pkg:maven/com.tencent.polaris/registry-memory@1.9.7?classifier=sources
+- pkg:maven/com.tencent.polaris/registry-memory@2.0.0.0-RC1
+- pkg:maven/com.tencent.polaris/registry-memory@2.0.0.0-RC1?classifier=sources

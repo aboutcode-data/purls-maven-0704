@@ -1,0 +1,2 @@
+- pkg:maven/dev.scalafreaks/odin-slf4j-provider_2.13@0.15.0-RC1
+- pkg:maven/dev.scalafreaks/odin-slf4j-provider_2.13@0.15.0-RC1?classifier=sources

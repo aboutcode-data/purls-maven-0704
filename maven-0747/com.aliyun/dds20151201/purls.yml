@@ -90,3 +90,5 @@
 - pkg:maven/com.aliyun/dds20151201@7.0.0?classifier=sources
 - pkg:maven/com.aliyun/dds20151201@8.0.0
 - pkg:maven/com.aliyun/dds20151201@8.0.0?classifier=sources
+- pkg:maven/com.aliyun/dds20151201@8.0.1
+- pkg:maven/com.aliyun/dds20151201@8.0.1?classifier=sources

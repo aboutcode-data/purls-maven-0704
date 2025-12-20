@@ -145,6 +145,8 @@
 - pkg:maven/ai.chronon/online_2.11@0.0.78?classifier=sources
 - pkg:maven/ai.chronon/online_2.11@0.0.7?classifier=sources
 - pkg:maven/ai.chronon/online_2.11@0.0.8
+- pkg:maven/ai.chronon/online_2.11@0.0.80
+- pkg:maven/ai.chronon/online_2.11@0.0.80?classifier=sources
 - pkg:maven/ai.chronon/online_2.11@0.0.8?classifier=sources
 - pkg:maven/ai.chronon/online_2.11@0.0.9
 - pkg:maven/ai.chronon/online_2.11@0.0.9?classifier=sources

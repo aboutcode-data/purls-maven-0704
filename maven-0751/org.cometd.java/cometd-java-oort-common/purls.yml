@@ -16,3 +16,5 @@
 - pkg:maven/org.cometd.java/cometd-java-oort-common@8.0.3?classifier=sources
 - pkg:maven/org.cometd.java/cometd-java-oort-common@8.0.4
 - pkg:maven/org.cometd.java/cometd-java-oort-common@8.0.4?classifier=sources
+- pkg:maven/org.cometd.java/cometd-java-oort-common@8.0.5
+- pkg:maven/org.cometd.java/cometd-java-oort-common@8.0.5?classifier=sources

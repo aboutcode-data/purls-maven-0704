@@ -22,4 +22,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-websvc-saas-codegen-java@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-websvc-saas-codegen-java@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-websvc-saas-codegen-java@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-websvc-saas-codegen-java@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-websvc-saas-codegen-java@RELEASE90?classifier=sources

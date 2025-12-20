@@ -1,3 +1,4 @@
 - pkg:maven/network.chaintech/cmp-image-pick-n-crop-iossimulatorarm64@1.0.0?classifier=sources
 - pkg:maven/network.chaintech/cmp-image-pick-n-crop-iossimulatorarm64@1.0.1?classifier=sources
 - pkg:maven/network.chaintech/cmp-image-pick-n-crop-iossimulatorarm64@1.0.2?classifier=sources
+- pkg:maven/network.chaintech/cmp-image-pick-n-crop-iossimulatorarm64@1.0.3?classifier=sources

@@ -64,3 +64,8 @@
 - pkg:maven/io.micronaut.data/micronaut-data-mongodb@4.8.1?classifier=sources
 - pkg:maven/io.micronaut.data/micronaut-data-mongodb@4.8.3?classifier=sources
 - pkg:maven/io.micronaut.data/micronaut-data-mongodb@4.8.4?classifier=sources
+- pkg:maven/io.micronaut.data/micronaut-data-mongodb@4.8.5?classifier=sources
+- pkg:maven/io.micronaut.data/micronaut-data-mongodb@4.9.0?classifier=sources
+- pkg:maven/io.micronaut.data/micronaut-data-mongodb@4.9.1?classifier=sources
+- pkg:maven/io.micronaut.data/micronaut-data-mongodb@4.9.2?classifier=sources
+- pkg:maven/io.micronaut.data/micronaut-data-mongodb@4.9.3?classifier=sources

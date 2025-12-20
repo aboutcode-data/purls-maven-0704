@@ -52,3 +52,5 @@
 - pkg:maven/com.digy4/digy-runner-serenity-cucumber@0.0.94?classifier=sources
 - pkg:maven/com.digy4/digy-runner-serenity-cucumber@0.0.95
 - pkg:maven/com.digy4/digy-runner-serenity-cucumber@0.0.95?classifier=sources
+- pkg:maven/com.digy4/digy-runner-serenity-cucumber@0.0.96
+- pkg:maven/com.digy4/digy-runner-serenity-cucumber@0.0.96?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.zegreatrob.tools/tagger-cli-js@1.4.10?classifier=sources
+- pkg:maven/com.zegreatrob.tools/tagger-cli-js@1.4.11?classifier=sources
+- pkg:maven/com.zegreatrob.tools/tagger-cli-js@1.4.13?classifier=sources
+- pkg:maven/com.zegreatrob.tools/tagger-cli-js@1.4.14?classifier=sources

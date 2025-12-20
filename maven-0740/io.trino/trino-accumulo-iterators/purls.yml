@@ -204,3 +204,11 @@
 - pkg:maven/io.trino/trino-accumulo-iterators@453?classifier=sources
 - pkg:maven/io.trino/trino-accumulo-iterators@454
 - pkg:maven/io.trino/trino-accumulo-iterators@454?classifier=sources
+- pkg:maven/io.trino/trino-accumulo-iterators@455
+- pkg:maven/io.trino/trino-accumulo-iterators@455?classifier=sources
+- pkg:maven/io.trino/trino-accumulo-iterators@456
+- pkg:maven/io.trino/trino-accumulo-iterators@456?classifier=sources
+- pkg:maven/io.trino/trino-accumulo-iterators@457
+- pkg:maven/io.trino/trino-accumulo-iterators@457?classifier=sources
+- pkg:maven/io.trino/trino-accumulo-iterators@458
+- pkg:maven/io.trino/trino-accumulo-iterators@458?classifier=sources

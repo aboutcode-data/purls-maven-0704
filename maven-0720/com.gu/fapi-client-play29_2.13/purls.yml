@@ -28,5 +28,7 @@
 - pkg:maven/com.gu/fapi-client-play29_2.13@8.0.2-PREVIEW.fairgroundadd-new-boost-level.2024-08-01T1655.a545ec42?classifier=sources
 - pkg:maven/com.gu/fapi-client-play29_2.13@8.0.2-PREVIEW.fix-release-process-so-that-it-does-not-attempt-to-use-scala-212.2024-08-02T1015.6574ed36
 - pkg:maven/com.gu/fapi-client-play29_2.13@8.0.2-PREVIEW.fix-release-process-so-that-it-does-not-attempt-to-use-scala-212.2024-08-02T1015.6574ed36?classifier=sources
+- pkg:maven/com.gu/fapi-client-play29_2.13@9.0.0
 - pkg:maven/com.gu/fapi-client-play29_2.13@9.0.0-PREVIEW.fairgroundadd-new-boost-level.2024-08-02T1030.e0f7dfa6
 - pkg:maven/com.gu/fapi-client-play29_2.13@9.0.0-PREVIEW.fairgroundadd-new-boost-level.2024-08-02T1030.e0f7dfa6?classifier=sources
+- pkg:maven/com.gu/fapi-client-play29_2.13@9.0.0?classifier=sources

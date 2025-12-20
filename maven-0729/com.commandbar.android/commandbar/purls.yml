@@ -1,6 +1,7 @@
 - pkg:maven/com.commandbar.android/commandbar@0.0.1?classifier=sources
 - pkg:maven/com.commandbar.android/commandbar@0.0.2?classifier=sources
 - pkg:maven/com.commandbar.android/commandbar@1.0.0?classifier=sources
+- pkg:maven/com.commandbar.android/commandbar@1.0.10?classifier=sources
 - pkg:maven/com.commandbar.android/commandbar@1.0.1?classifier=sources
 - pkg:maven/com.commandbar.android/commandbar@1.0.2?classifier=sources
 - pkg:maven/com.commandbar.android/commandbar@1.0.4?classifier=sources

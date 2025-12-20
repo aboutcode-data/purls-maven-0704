@@ -1,0 +1,2 @@
+- pkg:maven/de.lhns/scala-common-http-client_3@0.2.0
+- pkg:maven/de.lhns/scala-common-http-client_3@0.2.0?classifier=sources

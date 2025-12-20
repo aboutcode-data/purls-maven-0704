@@ -10,3 +10,4 @@
 - pkg:maven/org.webjars.npm/cuid@2.1.6?classifier=sources
 - pkg:maven/org.webjars.npm/cuid@2.1.8
 - pkg:maven/org.webjars.npm/cuid@2.1.8?classifier=sources
+- pkg:maven/org.webjars.npm/cuid@3.0.0

@@ -1,0 +1,2 @@
+- pkg:maven/app.lexilabs.basic/basic-logging-watchosdevicearm64@0.1.4?classifier=sources
+- pkg:maven/app.lexilabs.basic/basic-logging-watchosdevicearm64@0.1.5?classifier=sources

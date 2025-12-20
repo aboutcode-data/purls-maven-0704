@@ -50,6 +50,8 @@
 - pkg:maven/dev.inmo/tgbotapi.api@15.1.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.api@15.2.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.api@15.3.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.api@16.0.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.api@17.0.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.api@2.0.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.api@2.0.1?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.api@2.0.2?classifier=sources

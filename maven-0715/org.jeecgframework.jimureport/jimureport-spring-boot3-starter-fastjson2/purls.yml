@@ -4,3 +4,5 @@
 - pkg:maven/org.jeecgframework.jimureport/jimureport-spring-boot3-starter-fastjson2@1.7.3?classifier=sources
 - pkg:maven/org.jeecgframework.jimureport/jimureport-spring-boot3-starter-fastjson2@1.7.7?classifier=sources
 - pkg:maven/org.jeecgframework.jimureport/jimureport-spring-boot3-starter-fastjson2@1.7.8?classifier=sources
+- pkg:maven/org.jeecgframework.jimureport/jimureport-spring-boot3-starter-fastjson2@1.8.0?classifier=sources
+- pkg:maven/org.jeecgframework.jimureport/jimureport-spring-boot3-starter-fastjson2@1.8.1?classifier=sources

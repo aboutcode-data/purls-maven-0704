@@ -276,3 +276,5 @@
 - pkg:maven/com.stimulsoft/stimulsoft-reports-webdesigner@2024.3.2?classifier=sources
 - pkg:maven/com.stimulsoft/stimulsoft-reports-webdesigner@2024.3.3
 - pkg:maven/com.stimulsoft/stimulsoft-reports-webdesigner@2024.3.3?classifier=sources
+- pkg:maven/com.stimulsoft/stimulsoft-reports-webdesigner@2024.3.4
+- pkg:maven/com.stimulsoft/stimulsoft-reports-webdesigner@2024.3.4?classifier=sources

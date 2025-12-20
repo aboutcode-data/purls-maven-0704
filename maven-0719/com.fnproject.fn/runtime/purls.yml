@@ -188,6 +188,12 @@
 - pkg:maven/com.fnproject.fn/runtime@1.0.19
 - pkg:maven/com.fnproject.fn/runtime@1.0.190
 - pkg:maven/com.fnproject.fn/runtime@1.0.190?classifier=sources
+- pkg:maven/com.fnproject.fn/runtime@1.0.191
+- pkg:maven/com.fnproject.fn/runtime@1.0.191?classifier=sources
+- pkg:maven/com.fnproject.fn/runtime@1.0.192
+- pkg:maven/com.fnproject.fn/runtime@1.0.192?classifier=sources
+- pkg:maven/com.fnproject.fn/runtime@1.0.193
+- pkg:maven/com.fnproject.fn/runtime@1.0.193?classifier=sources
 - pkg:maven/com.fnproject.fn/runtime@1.0.19?classifier=sources
 - pkg:maven/com.fnproject.fn/runtime@1.0.1?classifier=sources
 - pkg:maven/com.fnproject.fn/runtime@1.0.2

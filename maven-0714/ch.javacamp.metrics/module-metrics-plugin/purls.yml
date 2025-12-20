@@ -3,3 +3,4 @@
 - pkg:maven/ch.javacamp.metrics/module-metrics-plugin@0.3.0
 - pkg:maven/ch.javacamp.metrics/module-metrics-plugin@0.3.1
 - pkg:maven/ch.javacamp.metrics/module-metrics-plugin@0.3.2
+- pkg:maven/ch.javacamp.metrics/module-metrics-plugin@0.3.3

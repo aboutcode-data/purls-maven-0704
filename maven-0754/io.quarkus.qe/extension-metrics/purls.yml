@@ -1,0 +1,8 @@
+- pkg:maven/io.quarkus.qe/extension-metrics@1.3.2.Final
+- pkg:maven/io.quarkus.qe/extension-metrics@1.3.2.Final?classifier=sources
+- pkg:maven/io.quarkus.qe/extension-metrics@1.4.10
+- pkg:maven/io.quarkus.qe/extension-metrics@1.4.10?classifier=sources
+- pkg:maven/io.quarkus.qe/extension-metrics@1.4.11
+- pkg:maven/io.quarkus.qe/extension-metrics@1.4.11?classifier=sources
+- pkg:maven/io.quarkus.qe/extension-metrics@1.4.12
+- pkg:maven/io.quarkus.qe/extension-metrics@1.4.12?classifier=sources

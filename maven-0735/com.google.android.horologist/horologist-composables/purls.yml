@@ -105,6 +105,7 @@
 - pkg:maven/com.google.android.horologist/horologist-composables@0.6.15?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-composables@0.6.16?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-composables@0.6.17?classifier=sources
+- pkg:maven/com.google.android.horologist/horologist-composables@0.6.18?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-composables@0.6.1?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-composables@0.6.2?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-composables@0.6.3?classifier=sources
@@ -114,3 +115,5 @@
 - pkg:maven/com.google.android.horologist/horologist-composables@0.6.7?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-composables@0.6.8?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-composables@0.6.9?classifier=sources
+- pkg:maven/com.google.android.horologist/horologist-composables@0.7.0-alpha?classifier=sources
+- pkg:maven/com.google.android.horologist/horologist-composables@0.7.1-alpha?classifier=sources
