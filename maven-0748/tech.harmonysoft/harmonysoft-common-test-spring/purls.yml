@@ -95,3 +95,4 @@
 - pkg:maven/tech.harmonysoft/harmonysoft-common-test-spring@3.0.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-common-test-spring@3.1.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-common-test-spring@3.2.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-common-test-spring@3.3.0?classifier=sources

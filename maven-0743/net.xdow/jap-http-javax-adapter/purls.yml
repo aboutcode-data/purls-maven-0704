@@ -10,3 +10,4 @@
 - pkg:maven/net.xdow/jap-http-javax-adapter@2.0.1?classifier=sources
 - pkg:maven/net.xdow/jap-http-javax-adapter@2.0.2?classifier=sources
 - pkg:maven/net.xdow/jap-http-javax-adapter@2.0.3?classifier=sources
+- pkg:maven/net.xdow/jap-http-javax-adapter@2.0.4?classifier=sources

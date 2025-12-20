@@ -100,3 +100,5 @@
 - pkg:maven/io.helidon.media/helidon-media-multipart@3.2.6?classifier=sources
 - pkg:maven/io.helidon.media/helidon-media-multipart@3.2.7
 - pkg:maven/io.helidon.media/helidon-media-multipart@3.2.7?classifier=sources
+- pkg:maven/io.helidon.media/helidon-media-multipart@3.2.8
+- pkg:maven/io.helidon.media/helidon-media-multipart@3.2.8?classifier=sources

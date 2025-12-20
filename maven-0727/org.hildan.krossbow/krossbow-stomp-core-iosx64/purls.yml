@@ -39,3 +39,4 @@
 - pkg:maven/org.hildan.krossbow/krossbow-stomp-core-iosx64@5.7.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-stomp-core-iosx64@5.8.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-stomp-core-iosx64@6.0.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-stomp-core-iosx64@7.0.0?classifier=sources

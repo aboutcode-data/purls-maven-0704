@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.shardingsphere/shardingsphere-infra-algorithm-message-digest-core@5.5.0
+- pkg:maven/org.apache.shardingsphere/shardingsphere-infra-algorithm-message-digest-core@5.5.0?classifier=sources

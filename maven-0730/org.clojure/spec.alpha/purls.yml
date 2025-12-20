@@ -24,3 +24,5 @@
 - pkg:maven/org.clojure/spec.alpha@0.3.218?classifier=sources
 - pkg:maven/org.clojure/spec.alpha@0.4.233
 - pkg:maven/org.clojure/spec.alpha@0.4.233?classifier=sources
+- pkg:maven/org.clojure/spec.alpha@0.5.238
+- pkg:maven/org.clojure/spec.alpha@0.5.238?classifier=sources

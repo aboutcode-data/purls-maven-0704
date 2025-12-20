@@ -188,3 +188,8 @@
 - pkg:maven/com.microsoft.design/fluent-system-icons@1.1.232?classifier=sources
 - pkg:maven/com.microsoft.design/fluent-system-icons@1.1.233?classifier=sources
 - pkg:maven/com.microsoft.design/fluent-system-icons@1.1.234?classifier=sources
+- pkg:maven/com.microsoft.design/fluent-system-icons@1.1.235?classifier=sources
+- pkg:maven/com.microsoft.design/fluent-system-icons@1.1.236?classifier=sources
+- pkg:maven/com.microsoft.design/fluent-system-icons@1.1.237?classifier=sources
+- pkg:maven/com.microsoft.design/fluent-system-icons@1.1.238?classifier=sources
+- pkg:maven/com.microsoft.design/fluent-system-icons@1.1.239?classifier=sources

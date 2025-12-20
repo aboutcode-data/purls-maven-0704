@@ -102,3 +102,5 @@
 - pkg:maven/com.holdenkarau/spark-testing-kafka-0_8_2.11@2.4.8_1.5.1?classifier=sources
 - pkg:maven/com.holdenkarau/spark-testing-kafka-0_8_2.11@2.4.8_1.5.2
 - pkg:maven/com.holdenkarau/spark-testing-kafka-0_8_2.11@2.4.8_1.5.2?classifier=sources
+- pkg:maven/com.holdenkarau/spark-testing-kafka-0_8_2.11@2.4.8_1.5.3
+- pkg:maven/com.holdenkarau/spark-testing-kafka-0_8_2.11@2.4.8_1.5.3?classifier=sources

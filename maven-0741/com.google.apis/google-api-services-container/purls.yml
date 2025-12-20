@@ -400,6 +400,12 @@
 - pkg:maven/com.google.apis/google-api-services-container@v1-rev20240229-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-container@v1-rev20240313-2.0.0
 - pkg:maven/com.google.apis/google-api-services-container@v1-rev20240313-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-container@v1-rev20240327-2.0.0
+- pkg:maven/com.google.apis/google-api-services-container@v1-rev20240327-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-container@v1-rev20240409-2.0.0
+- pkg:maven/com.google.apis/google-api-services-container@v1-rev20240409-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-container@v1-rev20240422-2.0.0
+- pkg:maven/com.google.apis/google-api-services-container@v1-rev20240422-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-container@v1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-container@v1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-container@v1-rev21-1.20.0
@@ -1284,6 +1290,12 @@
 - pkg:maven/com.google.apis/google-api-services-container@v1beta1-rev20240229-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-container@v1beta1-rev20240313-2.0.0
 - pkg:maven/com.google.apis/google-api-services-container@v1beta1-rev20240313-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-container@v1beta1-rev20240327-2.0.0
+- pkg:maven/com.google.apis/google-api-services-container@v1beta1-rev20240327-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-container@v1beta1-rev20240409-2.0.0
+- pkg:maven/com.google.apis/google-api-services-container@v1beta1-rev20240409-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-container@v1beta1-rev20240422-2.0.0
+- pkg:maven/com.google.apis/google-api-services-container@v1beta1-rev20240422-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-container@v1beta1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-container@v1beta1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-container@v1beta1-rev21-1.19.0

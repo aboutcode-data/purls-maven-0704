@@ -18,3 +18,5 @@
 - pkg:maven/net.codesup.util/jaxb-delegate-plugin@2.5.0?classifier=sources
 - pkg:maven/net.codesup.util/jaxb-delegate-plugin@2.5.1
 - pkg:maven/net.codesup.util/jaxb-delegate-plugin@2.5.1?classifier=sources
+- pkg:maven/net.codesup.util/jaxb-delegate-plugin@4.0.0
+- pkg:maven/net.codesup.util/jaxb-delegate-plugin@4.0.0?classifier=sources

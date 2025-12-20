@@ -1,0 +1,2 @@
+- pkg:maven/org.lembeck/simconnect-java-util@0.1
+- pkg:maven/org.lembeck/simconnect-java-util@0.1?classifier=sources

@@ -58,6 +58,7 @@
 - pkg:maven/com.expediagroup/graphql-kotlin-client-generator@6.5.7?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-client-generator@6.6.0?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-client-generator@6.7.0?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-client-generator@6.8.0?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-client-generator@7.0.0-alpha.0?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-client-generator@7.0.0-alpha.2?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-client-generator@7.0.0-alpha.3?classifier=sources
@@ -69,3 +70,5 @@
 - pkg:maven/com.expediagroup/graphql-kotlin-client-generator@7.0.1?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-client-generator@7.0.2?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-client-generator@7.1.0?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-client-generator@7.1.1?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-client-generator@8.0.0-alpha.1?classifier=sources

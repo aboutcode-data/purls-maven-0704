@@ -1,3 +1,5 @@
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-omics@3.1.1003
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-omics@3.1.1003?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-omics@3.1.720
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-omics@3.1.720?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-omics@3.1.721

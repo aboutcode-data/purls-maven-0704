@@ -11,3 +11,5 @@
 - pkg:maven/io.soffa.foundation/foundation-support-email@1.9.17?classifier=sources
 - pkg:maven/io.soffa.foundation/foundation-support-email@1.9.18?classifier=sources
 - pkg:maven/io.soffa.foundation/foundation-support-email@1.9.9?classifier=sources
+- pkg:maven/io.soffa.foundation/foundation-support-email@2.0.0?classifier=sources
+- pkg:maven/io.soffa.foundation/foundation-support-email@2.0.1?classifier=sources

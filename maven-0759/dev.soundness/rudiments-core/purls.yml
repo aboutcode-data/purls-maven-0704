@@ -1,0 +1,2 @@
+- pkg:maven/dev.soundness/rudiments-core@0.1.0
+- pkg:maven/dev.soundness/rudiments-core@0.1.0?classifier=sources

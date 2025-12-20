@@ -4,3 +4,5 @@
 - pkg:maven/com.oracle.apm.agent.java/apm-java-agent-aio@1.12.0.252?classifier=sources
 - pkg:maven/com.oracle.apm.agent.java/apm-java-agent-aio@1.12.1.3
 - pkg:maven/com.oracle.apm.agent.java/apm-java-agent-aio@1.12.1.3?classifier=sources
+- pkg:maven/com.oracle.apm.agent.java/apm-java-agent-aio@1.13.0.387
+- pkg:maven/com.oracle.apm.agent.java/apm-java-agent-aio@1.13.0.387?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.mhus.mvn.tmpl/tmpl-maven-plugin@2.1.0
+- pkg:maven/de.mhus.mvn.tmpl/tmpl-maven-plugin@2.1.0?classifier=sources

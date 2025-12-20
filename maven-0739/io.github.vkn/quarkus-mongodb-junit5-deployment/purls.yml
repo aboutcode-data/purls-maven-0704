@@ -1,0 +1,2 @@
+- pkg:maven/io.github.vkn/quarkus-mongodb-junit5-deployment@0.0.4?classifier=sources
+- pkg:maven/io.github.vkn/quarkus-mongodb-junit5-deployment@0.0.5?classifier=sources

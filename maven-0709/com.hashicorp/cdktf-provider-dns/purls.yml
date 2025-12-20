@@ -38,3 +38,5 @@
 - pkg:maven/com.hashicorp/cdktf-provider-dns@7.1.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-dns@8.0.0
 - pkg:maven/com.hashicorp/cdktf-provider-dns@8.0.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-dns@8.0.1
+- pkg:maven/com.hashicorp/cdktf-provider-dns@8.0.1?classifier=sources

@@ -118,6 +118,8 @@
 - pkg:maven/org.apache.activemq/activemq-runtime-config@5.18.2?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-runtime-config@5.18.3
 - pkg:maven/org.apache.activemq/activemq-runtime-config@5.18.3?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-runtime-config@5.18.4
+- pkg:maven/org.apache.activemq/activemq-runtime-config@5.18.4?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-runtime-config@5.9.0
 - pkg:maven/org.apache.activemq/activemq-runtime-config@5.9.0?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-runtime-config@5.9.1
@@ -130,3 +132,5 @@
 - pkg:maven/org.apache.activemq/activemq-runtime-config@6.1.0?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-runtime-config@6.1.1
 - pkg:maven/org.apache.activemq/activemq-runtime-config@6.1.1?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-runtime-config@6.1.2
+- pkg:maven/org.apache.activemq/activemq-runtime-config@6.1.2?classifier=sources

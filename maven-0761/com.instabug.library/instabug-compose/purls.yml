@@ -15,3 +15,6 @@
 - pkg:maven/com.instabug.library/instabug-compose@12.7.1?classifier=sources
 - pkg:maven/com.instabug.library/instabug-compose@12.8.0?classifier=sources
 - pkg:maven/com.instabug.library/instabug-compose@12.9.0?classifier=sources
+- pkg:maven/com.instabug.library/instabug-compose@13.0.0?classifier=sources
+- pkg:maven/com.instabug.library/instabug-compose@13.0.1?classifier=sources
+- pkg:maven/com.instabug.library/instabug-compose@13.0.3?classifier=sources

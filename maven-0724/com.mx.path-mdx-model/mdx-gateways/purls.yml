@@ -65,3 +65,7 @@
 - pkg:maven/com.mx.path-mdx-model/mdx-gateways@5.7.0?classifier=sources
 - pkg:maven/com.mx.path-mdx-model/mdx-gateways@5.8.0?classifier=sources
 - pkg:maven/com.mx.path-mdx-model/mdx-gateways@5.9.0?classifier=sources
+- pkg:maven/com.mx.path-mdx-model/mdx-gateways@7.0.0?classifier=sources
+- pkg:maven/com.mx.path-mdx-model/mdx-gateways@8.0.0?classifier=sources
+- pkg:maven/com.mx.path-mdx-model/mdx-gateways@8.0.1?classifier=sources
+- pkg:maven/com.mx.path-mdx-model/mdx-gateways@8.1.0?classifier=sources

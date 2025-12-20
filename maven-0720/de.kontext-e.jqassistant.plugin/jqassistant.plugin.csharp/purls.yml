@@ -1,0 +1,2 @@
+- pkg:maven/de.kontext-e.jqassistant.plugin/jqassistant.plugin.csharp@0.2.2
+- pkg:maven/de.kontext-e.jqassistant.plugin/jqassistant.plugin.csharp@0.2.2?classifier=sources

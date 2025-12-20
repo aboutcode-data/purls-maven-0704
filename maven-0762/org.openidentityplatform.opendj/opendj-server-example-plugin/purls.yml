@@ -40,3 +40,5 @@
 - pkg:maven/org.openidentityplatform.opendj/opendj-server-example-plugin@4.6.1?type=zip
 - pkg:maven/org.openidentityplatform.opendj/opendj-server-example-plugin@4.6.2?classifier=sources
 - pkg:maven/org.openidentityplatform.opendj/opendj-server-example-plugin@4.6.2?type=zip
+- pkg:maven/org.openidentityplatform.opendj/opendj-server-example-plugin@4.6.3?classifier=sources
+- pkg:maven/org.openidentityplatform.opendj/opendj-server-example-plugin@4.6.3?type=zip

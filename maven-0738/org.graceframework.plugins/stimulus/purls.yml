@@ -1,0 +1,2 @@
+- pkg:maven/org.graceframework.plugins/stimulus@0.0.1?classifier=sources
+- pkg:maven/org.graceframework.plugins/stimulus@0.1.0?classifier=sources

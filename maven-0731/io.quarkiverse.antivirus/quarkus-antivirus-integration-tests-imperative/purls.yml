@@ -1,2 +1,4 @@
 - pkg:maven/io.quarkiverse.antivirus/quarkus-antivirus-integration-tests-imperative@0.0.5
 - pkg:maven/io.quarkiverse.antivirus/quarkus-antivirus-integration-tests-imperative@0.0.5?classifier=sources
+- pkg:maven/io.quarkiverse.antivirus/quarkus-antivirus-integration-tests-imperative@1.0.0
+- pkg:maven/io.quarkiverse.antivirus/quarkus-antivirus-integration-tests-imperative@1.0.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.jboss.pnc/rest-client-jakarta@2.7.4
+- pkg:maven/org.jboss.pnc/rest-client-jakarta@2.7.5

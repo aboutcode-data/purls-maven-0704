@@ -20,6 +20,7 @@
 - pkg:maven/com.palantir.metricschema/metric-schema-markdown@0.3.1?classifier=sources
 - pkg:maven/com.palantir.metricschema/metric-schema-markdown@0.30.0?classifier=sources
 - pkg:maven/com.palantir.metricschema/metric-schema-markdown@0.31.0?classifier=sources
+- pkg:maven/com.palantir.metricschema/metric-schema-markdown@0.32.0?classifier=sources
 - pkg:maven/com.palantir.metricschema/metric-schema-markdown@0.4.0
 - pkg:maven/com.palantir.metricschema/metric-schema-markdown@0.4.0?classifier=sources
 - pkg:maven/com.palantir.metricschema/metric-schema-markdown@0.4.1

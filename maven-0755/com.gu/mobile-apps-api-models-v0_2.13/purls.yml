@@ -45,6 +45,10 @@
 - pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.0
 - pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.0?classifier=sources
 - pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.1
+- pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.10
+- pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.10?classifier=sources
+- pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.11-PREVIEW.fairgroundadd-card-type-for-highlights-container.2024-05-14T1613.f65b4ae9
+- pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.11-PREVIEW.fairgroundadd-card-type-for-highlights-container.2024-05-14T1613.f65b4ae9?classifier=sources
 - pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.1?classifier=sources
 - pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.2
 - pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.2?classifier=sources
@@ -66,3 +70,9 @@
 - pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.8-PREVIEW.lddedupe-spike.2024-03-28T1354.125c944d
 - pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.8-PREVIEW.lddedupe-spike.2024-03-28T1354.125c944d?classifier=sources
 - pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.8?classifier=sources
+- pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.9
+- pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.9-PREVIEW.add-collection-type.2024-04-22T1132.c5b058da
+- pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.9-PREVIEW.add-collection-type.2024-04-22T1132.c5b058da?classifier=sources
+- pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.9-PREVIEW.add-collection-type.2024-04-22T1617.b101f89f
+- pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.9-PREVIEW.add-collection-type.2024-04-22T1617.b101f89f?classifier=sources
+- pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.9?classifier=sources

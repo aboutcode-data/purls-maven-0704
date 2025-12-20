@@ -1,0 +1,4 @@
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-vertex-ai-gemini@0.13.0
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-vertex-ai-gemini@0.13.0?classifier=sources
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-vertex-ai-gemini@0.13.1
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-vertex-ai-gemini@0.13.1?classifier=sources

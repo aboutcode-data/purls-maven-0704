@@ -8,3 +8,5 @@
 - pkg:maven/com.processout/processout-android-ui-core@4.14.1?classifier=sources
 - pkg:maven/com.processout/processout-android-ui-core@4.14.2?classifier=sources
 - pkg:maven/com.processout/processout-android-ui-core@4.15.0?classifier=sources
+- pkg:maven/com.processout/processout-android-ui-core@4.16.0?classifier=sources
+- pkg:maven/com.processout/processout-android-ui-core@4.17.0?classifier=sources

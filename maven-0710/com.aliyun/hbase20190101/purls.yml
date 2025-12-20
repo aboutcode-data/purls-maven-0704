@@ -2,6 +2,8 @@
 - pkg:maven/com.aliyun/hbase20190101@1.0.0?classifier=sources
 - pkg:maven/com.aliyun/hbase20190101@1.0.1
 - pkg:maven/com.aliyun/hbase20190101@1.0.1?classifier=sources
+- pkg:maven/com.aliyun/hbase20190101@2.10.0
+- pkg:maven/com.aliyun/hbase20190101@2.10.0?classifier=sources
 - pkg:maven/com.aliyun/hbase20190101@2.9.10
 - pkg:maven/com.aliyun/hbase20190101@2.9.10?classifier=sources
 - pkg:maven/com.aliyun/hbase20190101@2.9.11

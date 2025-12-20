@@ -1,0 +1,4 @@
+- pkg:maven/com.noumenadigital.platform/language-nplcontrib@2024.1.4
+- pkg:maven/com.noumenadigital.platform/language-nplcontrib@2024.1.4?classifier=sources
+- pkg:maven/com.noumenadigital.platform/language-nplcontrib@2024.1.5
+- pkg:maven/com.noumenadigital.platform/language-nplcontrib@2024.1.5?classifier=sources

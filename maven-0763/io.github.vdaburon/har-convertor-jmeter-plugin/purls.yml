@@ -8,3 +8,5 @@
 - pkg:maven/io.github.vdaburon/har-convertor-jmeter-plugin@3.1?classifier=sources
 - pkg:maven/io.github.vdaburon/har-convertor-jmeter-plugin@3.2
 - pkg:maven/io.github.vdaburon/har-convertor-jmeter-plugin@3.2?classifier=sources
+- pkg:maven/io.github.vdaburon/har-convertor-jmeter-plugin@5.0
+- pkg:maven/io.github.vdaburon/har-convertor-jmeter-plugin@5.0?classifier=sources

@@ -94,3 +94,7 @@
 - pkg:maven/com.cognitect.aws/connect@868.2.1580.0?classifier=sources
 - pkg:maven/com.cognitect.aws/connect@868.2.1584.0
 - pkg:maven/com.cognitect.aws/connect@868.2.1584.0?classifier=sources
+- pkg:maven/com.cognitect.aws/connect@868.2.1599.0
+- pkg:maven/com.cognitect.aws/connect@868.2.1599.0?classifier=sources
+- pkg:maven/com.cognitect.aws/connect@869.2.1616.0
+- pkg:maven/com.cognitect.aws/connect@869.2.1616.0?classifier=sources

@@ -44,3 +44,5 @@
 - pkg:maven/software.amazon.cloudformation/aws-cloudformation-rpdk-java-plugin@2.0.8?classifier=sources
 - pkg:maven/software.amazon.cloudformation/aws-cloudformation-rpdk-java-plugin@2.0.9
 - pkg:maven/software.amazon.cloudformation/aws-cloudformation-rpdk-java-plugin@2.0.9?classifier=sources
+- pkg:maven/software.amazon.cloudformation/aws-cloudformation-rpdk-java-plugin@2.1.1
+- pkg:maven/software.amazon.cloudformation/aws-cloudformation-rpdk-java-plugin@2.1.1?classifier=sources

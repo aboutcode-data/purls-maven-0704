@@ -68,6 +68,9 @@
 - pkg:maven/me.proton.core/user-settings-data@21.2.1?classifier=sources
 - pkg:maven/me.proton.core/user-settings-data@22.0.0?classifier=sources
 - pkg:maven/me.proton.core/user-settings-data@22.1.0?classifier=sources
+- pkg:maven/me.proton.core/user-settings-data@22.2.0?classifier=sources
+- pkg:maven/me.proton.core/user-settings-data@23.0.0?classifier=sources
+- pkg:maven/me.proton.core/user-settings-data@23.0.1?classifier=sources
 - pkg:maven/me.proton.core/user-settings-data@3.0.0?classifier=sources
 - pkg:maven/me.proton.core/user-settings-data@4.0.0?classifier=sources
 - pkg:maven/me.proton.core/user-settings-data@4.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.iworkz/genesis-vertx-common-jdbc@1.0.60
+- pkg:maven/org.iworkz/genesis-vertx-common-jdbc@1.0.60?classifier=sources

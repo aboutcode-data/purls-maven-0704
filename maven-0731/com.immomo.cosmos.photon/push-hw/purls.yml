@@ -12,3 +12,5 @@
 - pkg:maven/com.immomo.cosmos.photon/push-hw@1.1.4_11221551?type=aar
 - pkg:maven/com.immomo.cosmos.photon/push-hw@1.1.5_061601?classifier=sources
 - pkg:maven/com.immomo.cosmos.photon/push-hw@1.1.5_061601?type=aar
+- pkg:maven/com.immomo.cosmos.photon/push-hw@1.1.5_24_0423_1128?classifier=sources
+- pkg:maven/com.immomo.cosmos.photon/push-hw@1.1.5_24_0423_1128?type=aar

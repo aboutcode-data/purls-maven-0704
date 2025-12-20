@@ -1,0 +1,2 @@
+- pkg:maven/io.github.moudjames23.paycard4j/paycard4j@1.0.0
+- pkg:maven/io.github.moudjames23.paycard4j/paycard4j@1.0.0?classifier=sources

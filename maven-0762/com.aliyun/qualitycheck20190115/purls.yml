@@ -22,3 +22,5 @@
 - pkg:maven/com.aliyun/qualitycheck20190115@4.13.0?classifier=sources
 - pkg:maven/com.aliyun/qualitycheck20190115@4.2.0
 - pkg:maven/com.aliyun/qualitycheck20190115@4.2.0?classifier=sources
+- pkg:maven/com.aliyun/qualitycheck20190115@5.0.0
+- pkg:maven/com.aliyun/qualitycheck20190115@5.0.0?classifier=sources

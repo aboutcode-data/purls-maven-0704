@@ -48,3 +48,5 @@
 - pkg:maven/com.cognitect.aws/appsync@852.2.1525.0?classifier=sources
 - pkg:maven/com.cognitect.aws/appsync@857.2.1574.0
 - pkg:maven/com.cognitect.aws/appsync@857.2.1574.0?classifier=sources
+- pkg:maven/com.cognitect.aws/appsync@869.2.1616.0
+- pkg:maven/com.cognitect.aws/appsync@869.2.1616.0?classifier=sources

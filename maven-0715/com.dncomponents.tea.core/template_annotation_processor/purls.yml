@@ -1,0 +1,2 @@
+- pkg:maven/com.dncomponents.tea.core/template_annotation_processor@3.0.0-alpha-1
+- pkg:maven/com.dncomponents.tea.core/template_annotation_processor@3.0.0-alpha-1?classifier=sources

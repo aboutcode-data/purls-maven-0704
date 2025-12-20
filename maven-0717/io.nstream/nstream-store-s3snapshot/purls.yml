@@ -1,0 +1,1 @@
+- pkg:maven/io.nstream/nstream-store-s3snapshot@4.8.15?classifier=sources

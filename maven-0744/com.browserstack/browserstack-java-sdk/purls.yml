@@ -122,6 +122,16 @@
 - pkg:maven/com.browserstack/browserstack-java-sdk@1.13.2
 - pkg:maven/com.browserstack/browserstack-java-sdk@1.13.20
 - pkg:maven/com.browserstack/browserstack-java-sdk@1.13.20?classifier=sources
+- pkg:maven/com.browserstack/browserstack-java-sdk@1.13.21
+- pkg:maven/com.browserstack/browserstack-java-sdk@1.13.21?classifier=sources
+- pkg:maven/com.browserstack/browserstack-java-sdk@1.13.22
+- pkg:maven/com.browserstack/browserstack-java-sdk@1.13.22?classifier=sources
+- pkg:maven/com.browserstack/browserstack-java-sdk@1.13.23
+- pkg:maven/com.browserstack/browserstack-java-sdk@1.13.23?classifier=sources
+- pkg:maven/com.browserstack/browserstack-java-sdk@1.13.24
+- pkg:maven/com.browserstack/browserstack-java-sdk@1.13.24?classifier=sources
+- pkg:maven/com.browserstack/browserstack-java-sdk@1.13.25
+- pkg:maven/com.browserstack/browserstack-java-sdk@1.13.25?classifier=sources
 - pkg:maven/com.browserstack/browserstack-java-sdk@1.13.2?classifier=sources
 - pkg:maven/com.browserstack/browserstack-java-sdk@1.13.3
 - pkg:maven/com.browserstack/browserstack-java-sdk@1.13.3?classifier=sources
@@ -137,6 +147,8 @@
 - pkg:maven/com.browserstack/browserstack-java-sdk@1.13.8?classifier=sources
 - pkg:maven/com.browserstack/browserstack-java-sdk@1.13.9
 - pkg:maven/com.browserstack/browserstack-java-sdk@1.13.9?classifier=sources
+- pkg:maven/com.browserstack/browserstack-java-sdk@1.14.0
+- pkg:maven/com.browserstack/browserstack-java-sdk@1.14.0?classifier=sources
 - pkg:maven/com.browserstack/browserstack-java-sdk@1.2.0
 - pkg:maven/com.browserstack/browserstack-java-sdk@1.2.0?classifier=sources
 - pkg:maven/com.browserstack/browserstack-java-sdk@1.2.1

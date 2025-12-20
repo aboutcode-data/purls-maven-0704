@@ -23,6 +23,8 @@
 - pkg:maven/io.github.solven-eu.cleanthat/java-eclipse@2.19?classifier=sources
 - pkg:maven/io.github.solven-eu.cleanthat/java-eclipse@2.1?classifier=sources
 - pkg:maven/io.github.solven-eu.cleanthat/java-eclipse@2.2
+- pkg:maven/io.github.solven-eu.cleanthat/java-eclipse@2.20
+- pkg:maven/io.github.solven-eu.cleanthat/java-eclipse@2.20?classifier=sources
 - pkg:maven/io.github.solven-eu.cleanthat/java-eclipse@2.2?classifier=sources
 - pkg:maven/io.github.solven-eu.cleanthat/java-eclipse@2.3
 - pkg:maven/io.github.solven-eu.cleanthat/java-eclipse@2.3?classifier=sources

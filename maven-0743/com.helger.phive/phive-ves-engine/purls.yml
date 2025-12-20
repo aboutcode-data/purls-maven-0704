@@ -8,3 +8,5 @@
 - pkg:maven/com.helger.phive/phive-ves-engine@9.1.0?classifier=sources
 - pkg:maven/com.helger.phive/phive-ves-engine@9.2.0
 - pkg:maven/com.helger.phive/phive-ves-engine@9.2.0?classifier=sources
+- pkg:maven/com.helger.phive/phive-ves-engine@9.2.1
+- pkg:maven/com.helger.phive/phive-ves-engine@9.2.1?classifier=sources

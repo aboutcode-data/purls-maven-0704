@@ -9,3 +9,5 @@
 - pkg:maven/com.qcloud.cos/quic@1.5.42?type=aar
 - pkg:maven/com.qcloud.cos/quic@1.5.43?classifier=sources
 - pkg:maven/com.qcloud.cos/quic@1.5.43?type=aar
+- pkg:maven/com.qcloud.cos/quic@1.5.44?classifier=sources
+- pkg:maven/com.qcloud.cos/quic@1.5.44?type=aar

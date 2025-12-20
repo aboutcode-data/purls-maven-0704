@@ -1,2 +1,4 @@
 - pkg:maven/org.eu.miraikan/aiyou-sdk@0.20
 - pkg:maven/org.eu.miraikan/aiyou-sdk@0.20?classifier=sources
+- pkg:maven/org.eu.miraikan/aiyou-sdk@0.23
+- pkg:maven/org.eu.miraikan/aiyou-sdk@0.23?classifier=sources

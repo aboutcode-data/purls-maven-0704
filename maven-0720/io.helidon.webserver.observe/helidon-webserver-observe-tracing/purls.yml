@@ -16,3 +16,5 @@
 - pkg:maven/io.helidon.webserver.observe/helidon-webserver-observe-tracing@4.0.6?classifier=sources
 - pkg:maven/io.helidon.webserver.observe/helidon-webserver-observe-tracing@4.0.7
 - pkg:maven/io.helidon.webserver.observe/helidon-webserver-observe-tracing@4.0.7?classifier=sources
+- pkg:maven/io.helidon.webserver.observe/helidon-webserver-observe-tracing@4.0.8
+- pkg:maven/io.helidon.webserver.observe/helidon-webserver-observe-tracing@4.0.8?classifier=sources

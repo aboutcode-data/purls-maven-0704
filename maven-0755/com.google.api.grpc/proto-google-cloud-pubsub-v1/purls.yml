@@ -238,6 +238,16 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-pubsub-v1@1.110.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-pubsub-v1@1.110.1
 - pkg:maven/com.google.api.grpc/proto-google-cloud-pubsub-v1@1.110.1?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-pubsub-v1@1.111.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-pubsub-v1@1.111.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-pubsub-v1@1.111.1
+- pkg:maven/com.google.api.grpc/proto-google-cloud-pubsub-v1@1.111.1?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-pubsub-v1@1.111.2
+- pkg:maven/com.google.api.grpc/proto-google-cloud-pubsub-v1@1.111.2?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-pubsub-v1@1.111.3
+- pkg:maven/com.google.api.grpc/proto-google-cloud-pubsub-v1@1.111.3?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-pubsub-v1@1.111.4
+- pkg:maven/com.google.api.grpc/proto-google-cloud-pubsub-v1@1.111.4?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-pubsub-v1@1.13.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-pubsub-v1@1.13.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-pubsub-v1@1.14.0

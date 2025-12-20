@@ -10,6 +10,9 @@
 - pkg:maven/ch.dreipol/dreimultiplatform@1.11.0-1.9.10-b4?classifier=sources
 - pkg:maven/ch.dreipol/dreimultiplatform@1.11.0-1.9.21-b1?classifier=sources
 - pkg:maven/ch.dreipol/dreimultiplatform@1.12.0-1.9.23-b1?classifier=sources
+- pkg:maven/ch.dreipol/dreimultiplatform@1.12.1-b2?classifier=sources
+- pkg:maven/ch.dreipol/dreimultiplatform@1.12.1-b3?classifier=sources
+- pkg:maven/ch.dreipol/dreimultiplatform@1.12.1-b4?classifier=sources
 - pkg:maven/ch.dreipol/dreimultiplatform@1.1?classifier=sources
 - pkg:maven/ch.dreipol/dreimultiplatform@1.2?classifier=sources
 - pkg:maven/ch.dreipol/dreimultiplatform@1.3?classifier=sources

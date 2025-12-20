@@ -97,4 +97,6 @@
 - pkg:maven/net.pincette/pincette-mongo@4.1.7?classifier=sources
 - pkg:maven/net.pincette/pincette-mongo@4.1.8
 - pkg:maven/net.pincette/pincette-mongo@4.1.8?classifier=sources
+- pkg:maven/net.pincette/pincette-mongo@4.1.9
+- pkg:maven/net.pincette/pincette-mongo@4.1.9?classifier=sources
 - pkg:maven/net.pincette/pincette-mongo@4.1?classifier=sources

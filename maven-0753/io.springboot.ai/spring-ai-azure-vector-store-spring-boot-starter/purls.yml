@@ -1,1 +1,3 @@
 - pkg:maven/io.springboot.ai/spring-ai-azure-vector-store-spring-boot-starter@1.0.0
+- pkg:maven/io.springboot.ai/spring-ai-azure-vector-store-spring-boot-starter@1.0.2
+- pkg:maven/io.springboot.ai/spring-ai-azure-vector-store-spring-boot-starter@1.0.3

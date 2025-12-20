@@ -284,6 +284,14 @@
 - pkg:maven/com.google.cloud/google-cloud-bigtable-emulator@0.173.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-bigtable-emulator@0.174.0
 - pkg:maven/com.google.cloud/google-cloud-bigtable-emulator@0.174.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-bigtable-emulator@0.175.0
+- pkg:maven/com.google.cloud/google-cloud-bigtable-emulator@0.175.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-bigtable-emulator@0.176.0
+- pkg:maven/com.google.cloud/google-cloud-bigtable-emulator@0.176.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-bigtable-emulator@0.176.1
+- pkg:maven/com.google.cloud/google-cloud-bigtable-emulator@0.176.1?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-bigtable-emulator@0.176.2
+- pkg:maven/com.google.cloud/google-cloud-bigtable-emulator@0.176.2?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-bigtable-emulator@0.72.0-alpha
 - pkg:maven/com.google.cloud/google-cloud-bigtable-emulator@0.72.0-alpha?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-bigtable-emulator@0.73.0-alpha

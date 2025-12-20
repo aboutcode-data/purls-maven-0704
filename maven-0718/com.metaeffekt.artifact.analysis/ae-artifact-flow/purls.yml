@@ -1,0 +1,4 @@
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-artifact-flow@0.105.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-artifact-flow@0.105.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-artifact-flow@0.106.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-artifact-flow@0.106.0?classifier=sources

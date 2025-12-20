@@ -71,3 +71,4 @@
 - pkg:maven/com.squareup.wire/wire-runtime-iosx64@4.9.7?classifier=sources
 - pkg:maven/com.squareup.wire/wire-runtime-iosx64@4.9.8?classifier=sources
 - pkg:maven/com.squareup.wire/wire-runtime-iosx64@4.9.9?classifier=sources
+- pkg:maven/com.squareup.wire/wire-runtime-iosx64@5.0.0-alpha01?classifier=sources

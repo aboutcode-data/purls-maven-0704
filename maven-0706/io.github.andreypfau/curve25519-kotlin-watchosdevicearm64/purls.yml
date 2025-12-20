@@ -1,0 +1,2 @@
+- pkg:maven/io.github.andreypfau/curve25519-kotlin-watchosdevicearm64@0.0.7?classifier=sources
+- pkg:maven/io.github.andreypfau/curve25519-kotlin-watchosdevicearm64@0.0.8?classifier=sources

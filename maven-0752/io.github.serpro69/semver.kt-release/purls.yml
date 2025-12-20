@@ -1,6 +1,7 @@
 - pkg:maven/io.github.serpro69/semver.kt-release@0.10.0?classifier=sources
 - pkg:maven/io.github.serpro69/semver.kt-release@0.11.0?classifier=sources
 - pkg:maven/io.github.serpro69/semver.kt-release@0.12.0?classifier=sources
+- pkg:maven/io.github.serpro69/semver.kt-release@0.13.0?classifier=sources
 - pkg:maven/io.github.serpro69/semver.kt-release@0.3.0?classifier=sources
 - pkg:maven/io.github.serpro69/semver.kt-release@0.4.0?classifier=sources
 - pkg:maven/io.github.serpro69/semver.kt-release@0.4.1?classifier=sources

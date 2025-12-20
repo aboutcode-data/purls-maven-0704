@@ -1,3 +1,5 @@
 - pkg:maven/dev.aurelium/auraskills-api@2.0.0?classifier=sources
 - pkg:maven/dev.aurelium/auraskills-api@2.0.3?classifier=sources
 - pkg:maven/dev.aurelium/auraskills-api@2.0.6?classifier=sources
+- pkg:maven/dev.aurelium/auraskills-api@2.0.7?classifier=sources
+- pkg:maven/dev.aurelium/auraskills-api@2.0.8?classifier=sources

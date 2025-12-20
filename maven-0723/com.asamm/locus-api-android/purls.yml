@@ -33,3 +33,6 @@
 - pkg:maven/com.asamm/locus-api-android@0.9.50?classifier=sources
 - pkg:maven/com.asamm/locus-api-android@0.9.51?classifier=sources
 - pkg:maven/com.asamm/locus-api-android@0.9.52?classifier=sources
+- pkg:maven/com.asamm/locus-api-android@0.9.53?classifier=sources
+- pkg:maven/com.asamm/locus-api-android@0.9.54?classifier=sources
+- pkg:maven/com.asamm/locus-api-android@0.9.55?classifier=sources

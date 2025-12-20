@@ -1,2 +1,6 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/bazel-package-manager@20.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/bazel-package-manager@20.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/bazel-package-manager@21.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/bazel-package-manager@22.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/bazel-package-manager@22.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/bazel-package-manager@22.2.0?classifier=sources

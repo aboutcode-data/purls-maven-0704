@@ -6,6 +6,10 @@
 - pkg:maven/com.graphql-java/java-dataloader@0.0.0-2023-11-14T04-33-12-415ff76?classifier=sources
 - pkg:maven/com.graphql-java/java-dataloader@0.0.0-2024-03-17T22-53-44-e5e449e?classifier=sources
 - pkg:maven/com.graphql-java/java-dataloader@0.0.0-2024-03-17T22-55-52-b90e4cd?classifier=sources
+- pkg:maven/com.graphql-java/java-dataloader@0.0.0-2024-04-13T02-44-27-1cd8029?classifier=sources
+- pkg:maven/com.graphql-java/java-dataloader@0.0.0-2024-04-13T07-18-42-bd101a2?classifier=sources
+- pkg:maven/com.graphql-java/java-dataloader@0.0.0-2024-04-29T23-26-35-3a16d9c?classifier=sources
+- pkg:maven/com.graphql-java/java-dataloader@0.0.0-2024-04-30T22-03-05-1bb63aa?classifier=sources
 - pkg:maven/com.graphql-java/java-dataloader@1.0.1
 - pkg:maven/com.graphql-java/java-dataloader@1.0.1-alpha3
 - pkg:maven/com.graphql-java/java-dataloader@1.0.1-alpha3?classifier=sources
@@ -72,3 +76,4 @@
 - pkg:maven/com.graphql-java/java-dataloader@3.2.0?classifier=sources
 - pkg:maven/com.graphql-java/java-dataloader@3.2.1?classifier=sources
 - pkg:maven/com.graphql-java/java-dataloader@3.2.2?classifier=sources
+- pkg:maven/com.graphql-java/java-dataloader@3.3.0?classifier=sources

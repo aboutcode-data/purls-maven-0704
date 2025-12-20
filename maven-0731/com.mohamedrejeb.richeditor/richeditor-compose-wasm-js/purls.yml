@@ -1,1 +1,2 @@
+- pkg:maven/com.mohamedrejeb.richeditor/richeditor-compose-wasm-js@1.0.0-dev01?classifier=sources
 - pkg:maven/com.mohamedrejeb.richeditor/richeditor-compose-wasm-js@1.0.0-rc04?classifier=sources

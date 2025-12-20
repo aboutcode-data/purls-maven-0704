@@ -82,3 +82,5 @@
 - pkg:maven/org.soulwing.prospecto/prospecto-demo-jaxrs@2.5.2?type=war
 - pkg:maven/org.soulwing.prospecto/prospecto-demo-jaxrs@2.5.3?classifier=sources
 - pkg:maven/org.soulwing.prospecto/prospecto-demo-jaxrs@2.5.3?type=war
+- pkg:maven/org.soulwing.prospecto/prospecto-demo-jaxrs@2.6.0?classifier=sources
+- pkg:maven/org.soulwing.prospecto/prospecto-demo-jaxrs@2.6.0?type=war

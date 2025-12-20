@@ -12,3 +12,7 @@
 - pkg:maven/org.drjekyll/colorpicker@1.4.4?classifier=sources
 - pkg:maven/org.drjekyll/colorpicker@1.4.5
 - pkg:maven/org.drjekyll/colorpicker@1.4.5?classifier=sources
+- pkg:maven/org.drjekyll/colorpicker@1.4.8
+- pkg:maven/org.drjekyll/colorpicker@1.4.8?classifier=sources
+- pkg:maven/org.drjekyll/colorpicker@2.0.1
+- pkg:maven/org.drjekyll/colorpicker@2.0.1?classifier=sources

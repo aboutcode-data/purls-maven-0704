@@ -321,6 +321,8 @@
 - pkg:maven/net.n2oapp.framework/n2o-demo-client@7.20.47?classifier=sources
 - pkg:maven/net.n2oapp.framework/n2o-demo-client@7.20.48
 - pkg:maven/net.n2oapp.framework/n2o-demo-client@7.20.48?classifier=sources
+- pkg:maven/net.n2oapp.framework/n2o-demo-client@7.20.49
+- pkg:maven/net.n2oapp.framework/n2o-demo-client@7.20.49?classifier=sources
 - pkg:maven/net.n2oapp.framework/n2o-demo-client@7.20.4?classifier=sources
 - pkg:maven/net.n2oapp.framework/n2o-demo-client@7.20.5
 - pkg:maven/net.n2oapp.framework/n2o-demo-client@7.20.5?classifier=sources

@@ -80,6 +80,14 @@
 - pkg:maven/edu.hm.hafner/autograding-model@3.29.0?classifier=sources
 - pkg:maven/edu.hm.hafner/autograding-model@3.3.0
 - pkg:maven/edu.hm.hafner/autograding-model@3.3.0?classifier=sources
+- pkg:maven/edu.hm.hafner/autograding-model@3.30.0
+- pkg:maven/edu.hm.hafner/autograding-model@3.30.0?classifier=sources
+- pkg:maven/edu.hm.hafner/autograding-model@3.31.0
+- pkg:maven/edu.hm.hafner/autograding-model@3.31.0?classifier=sources
+- pkg:maven/edu.hm.hafner/autograding-model@3.31.1
+- pkg:maven/edu.hm.hafner/autograding-model@3.31.1?classifier=sources
+- pkg:maven/edu.hm.hafner/autograding-model@3.32.0
+- pkg:maven/edu.hm.hafner/autograding-model@3.32.0?classifier=sources
 - pkg:maven/edu.hm.hafner/autograding-model@3.4.0
 - pkg:maven/edu.hm.hafner/autograding-model@3.4.0?classifier=sources
 - pkg:maven/edu.hm.hafner/autograding-model@3.5.0

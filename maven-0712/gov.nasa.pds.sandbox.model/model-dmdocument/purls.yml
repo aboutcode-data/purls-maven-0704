@@ -1,0 +1,2 @@
+- pkg:maven/gov.nasa.pds.sandbox.model/model-dmdocument@33.0.0
+- pkg:maven/gov.nasa.pds.sandbox.model/model-dmdocument@33.0.0?classifier=sources

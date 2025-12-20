@@ -140,6 +140,8 @@
 - pkg:maven/org.eclipse.jetty/jetty-nosql@12.0.7?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-nosql@12.0.8
 - pkg:maven/org.eclipse.jetty/jetty-nosql@12.0.8?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-nosql@12.0.9
+- pkg:maven/org.eclipse.jetty/jetty-nosql@12.0.9?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-nosql@7.5.0.RC0
 - pkg:maven/org.eclipse.jetty/jetty-nosql@7.5.0.RC0?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-nosql@7.5.0.RC1

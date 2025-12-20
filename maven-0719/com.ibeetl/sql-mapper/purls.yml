@@ -250,6 +250,10 @@
 - pkg:maven/com.ibeetl/sql-mapper@3.30.4-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-mapper@3.30.5-RELEASE
 - pkg:maven/com.ibeetl/sql-mapper@3.30.5-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-mapper@3.30.6-RELEASE
+- pkg:maven/com.ibeetl/sql-mapper@3.30.6-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-mapper@3.30.7-RELEASE
+- pkg:maven/com.ibeetl/sql-mapper@3.30.7-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-mapper@3.4.0-RELEASE
 - pkg:maven/com.ibeetl/sql-mapper@3.4.0-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-mapper@3.4.1-RELEASE
