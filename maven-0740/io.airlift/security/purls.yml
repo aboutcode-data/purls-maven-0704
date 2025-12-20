@@ -237,3 +237,6 @@
 - pkg:maven/io.airlift/security@292?classifier=sources
 - pkg:maven/io.airlift/security@293?classifier=sources
 - pkg:maven/io.airlift/security@294?classifier=sources
+- pkg:maven/io.airlift/security@295?classifier=sources
+- pkg:maven/io.airlift/security@296?classifier=sources
+- pkg:maven/io.airlift/security@297?classifier=sources

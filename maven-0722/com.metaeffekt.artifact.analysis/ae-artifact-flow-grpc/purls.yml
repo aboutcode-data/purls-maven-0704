@@ -1,0 +1,6 @@
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-artifact-flow-grpc@0.133.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-artifact-flow-grpc@0.133.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-artifact-flow-grpc@0.134.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-artifact-flow-grpc@0.134.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-artifact-flow-grpc@0.135.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-artifact-flow-grpc@0.135.0?classifier=sources

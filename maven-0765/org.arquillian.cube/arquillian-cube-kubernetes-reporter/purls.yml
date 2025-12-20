@@ -72,3 +72,4 @@
 - pkg:maven/org.arquillian.cube/arquillian-cube-kubernetes-reporter@1.9.1?classifier=sources
 - pkg:maven/org.arquillian.cube/arquillian-cube-kubernetes-reporter@1.9.2
 - pkg:maven/org.arquillian.cube/arquillian-cube-kubernetes-reporter@1.9.2?classifier=sources
+- pkg:maven/org.arquillian.cube/arquillian-cube-kubernetes-reporter@2.0.0.Alpha1?classifier=sources

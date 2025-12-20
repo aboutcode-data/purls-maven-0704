@@ -17,3 +17,4 @@
 - pkg:maven/com.epam.reportportal/logger-java-logback@5.2.0?classifier=sources
 - pkg:maven/com.epam.reportportal/logger-java-logback@5.2.1?classifier=sources
 - pkg:maven/com.epam.reportportal/logger-java-logback@5.2.2?classifier=sources
+- pkg:maven/com.epam.reportportal/logger-java-logback@5.2.3?classifier=sources

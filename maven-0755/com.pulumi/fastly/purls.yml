@@ -90,6 +90,7 @@
 - pkg:maven/com.pulumi/fastly@8.13.0-alpha.1731390711?classifier=sources
 - pkg:maven/com.pulumi/fastly@8.13.0-alpha.1731504446?classifier=sources
 - pkg:maven/com.pulumi/fastly@8.13.0?classifier=sources
+- pkg:maven/com.pulumi/fastly@8.13.1?classifier=sources
 - pkg:maven/com.pulumi/fastly@8.14.0-alpha.1731649566?classifier=sources
 - pkg:maven/com.pulumi/fastly@8.14.0-alpha.1731735648?classifier=sources
 - pkg:maven/com.pulumi/fastly@8.14.0-alpha.1732599686?classifier=sources

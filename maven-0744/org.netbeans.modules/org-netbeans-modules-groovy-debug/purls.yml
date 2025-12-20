@@ -8,3 +8,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-debug@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-debug@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-debug@RELEASE240?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-debug@RELEASE250?classifier=sources

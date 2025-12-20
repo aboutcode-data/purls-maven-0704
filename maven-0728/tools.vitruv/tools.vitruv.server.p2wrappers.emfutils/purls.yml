@@ -1,0 +1,2 @@
+- pkg:maven/tools.vitruv/tools.vitruv.server.p2wrappers.emfutils@3.1.2
+- pkg:maven/tools.vitruv/tools.vitruv.server.p2wrappers.emfutils@3.1.2?classifier=sources

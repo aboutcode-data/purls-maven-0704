@@ -14,3 +14,5 @@
 - pkg:maven/org.scala-lang.modules/scala-parallel-collections_2.13@1.0.4?classifier=sources
 - pkg:maven/org.scala-lang.modules/scala-parallel-collections_2.13@1.1.0
 - pkg:maven/org.scala-lang.modules/scala-parallel-collections_2.13@1.1.0?classifier=sources
+- pkg:maven/org.scala-lang.modules/scala-parallel-collections_2.13@1.2.0
+- pkg:maven/org.scala-lang.modules/scala-parallel-collections_2.13@1.2.0?classifier=sources

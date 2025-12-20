@@ -14,6 +14,7 @@
 - pkg:maven/us.irdev.bedrock/service-base@2.3.0?classifier=sources
 - pkg:maven/us.irdev.bedrock/service-base@2.3.1?classifier=sources
 - pkg:maven/us.irdev.bedrock/service-base@2.3.2?classifier=sources
+- pkg:maven/us.irdev.bedrock/service-base@2.5.10?classifier=sources
 - pkg:maven/us.irdev.bedrock/service-base@2.5.1?classifier=sources
 - pkg:maven/us.irdev.bedrock/service-base@2.5.2?classifier=sources
 - pkg:maven/us.irdev.bedrock/service-base@2.5.3?classifier=sources
@@ -22,3 +23,4 @@
 - pkg:maven/us.irdev.bedrock/service-base@2.5.6?classifier=sources
 - pkg:maven/us.irdev.bedrock/service-base@2.5.7?classifier=sources
 - pkg:maven/us.irdev.bedrock/service-base@2.5.8?classifier=sources
+- pkg:maven/us.irdev.bedrock/service-base@2.5.9?classifier=sources

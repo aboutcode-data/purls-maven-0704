@@ -4,3 +4,5 @@
 - pkg:maven/cn.ibizlab.plugin/ibizlab-central-core@8.1.0.565.50?classifier=sources
 - pkg:maven/cn.ibizlab.plugin/ibizlab-central-core@8.1.0.565.51
 - pkg:maven/cn.ibizlab.plugin/ibizlab-central-core@8.1.0.565.51?classifier=sources
+- pkg:maven/cn.ibizlab.plugin/ibizlab-central-core@8.1.0.565.97
+- pkg:maven/cn.ibizlab.plugin/ibizlab-central-core@8.1.0.565.97?classifier=sources

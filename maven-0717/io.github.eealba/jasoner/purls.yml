@@ -4,3 +4,9 @@
 - pkg:maven/io.github.eealba/jasoner@0.3.1?classifier=sources
 - pkg:maven/io.github.eealba/jasoner@0.4.0?classifier=sources
 - pkg:maven/io.github.eealba/jasoner@0.4.1?classifier=sources
+- pkg:maven/io.github.eealba/jasoner@0.5.0?classifier=sources
+- pkg:maven/io.github.eealba/jasoner@0.5.1?classifier=sources
+- pkg:maven/io.github.eealba/jasoner@0.6.0?classifier=sources
+- pkg:maven/io.github.eealba/jasoner@0.6.1?classifier=sources
+- pkg:maven/io.github.eealba/jasoner@0.6.2?classifier=sources
+- pkg:maven/io.github.eealba/jasoner@0.6.3?classifier=sources

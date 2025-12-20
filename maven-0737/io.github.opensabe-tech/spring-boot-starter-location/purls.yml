@@ -2,3 +2,4 @@
 - pkg:maven/io.github.opensabe-tech/spring-boot-starter-location@1.0.5.27?classifier=sources
 - pkg:maven/io.github.opensabe-tech/spring-boot-starter-location@1.0.5.28?classifier=sources
 - pkg:maven/io.github.opensabe-tech/spring-boot-starter-location@1.0.5.29?classifier=sources
+- pkg:maven/io.github.opensabe-tech/spring-boot-starter-location@1.0.5.30?classifier=sources

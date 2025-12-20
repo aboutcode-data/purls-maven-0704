@@ -106,3 +106,5 @@
 - pkg:maven/software.amazon.awsconstructs/wafwebaclappsync@2.75.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/wafwebaclappsync@2.76.0
 - pkg:maven/software.amazon.awsconstructs/wafwebaclappsync@2.76.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/wafwebaclappsync@2.77.0
+- pkg:maven/software.amazon.awsconstructs/wafwebaclappsync@2.77.0?classifier=sources

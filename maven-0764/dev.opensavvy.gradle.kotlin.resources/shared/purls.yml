@@ -5,3 +5,4 @@
 - pkg:maven/dev.opensavvy.gradle.kotlin.resources/shared@0.2.3?classifier=sources
 - pkg:maven/dev.opensavvy.gradle.kotlin.resources/shared@0.3.0?classifier=sources
 - pkg:maven/dev.opensavvy.gradle.kotlin.resources/shared@0.3.1?classifier=sources
+- pkg:maven/dev.opensavvy.gradle.kotlin.resources/shared@0.4.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/xyz.kamyar/chiseltest_2.13@7.0.0-M2
+- pkg:maven/xyz.kamyar/chiseltest_2.13@7.0.0-M2?classifier=sources

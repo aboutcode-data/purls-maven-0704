@@ -1,0 +1,2 @@
+- pkg:maven/com.rlemaitre/pillars-db-migration-tests_3@0.4.4
+- pkg:maven/com.rlemaitre/pillars-db-migration-tests_3@0.4.4?classifier=sources

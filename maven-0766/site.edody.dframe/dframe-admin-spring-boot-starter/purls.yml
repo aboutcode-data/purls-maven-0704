@@ -7,3 +7,4 @@
 - pkg:maven/site.edody.dframe/dframe-admin-spring-boot-starter@1.1.1-beta?classifier=sources
 - pkg:maven/site.edody.dframe/dframe-admin-spring-boot-starter@1.1.2-RC?classifier=sources
 - pkg:maven/site.edody.dframe/dframe-admin-spring-boot-starter@1.1.2-beta?classifier=sources
+- pkg:maven/site.edody.dframe/dframe-admin-spring-boot-starter@1.2.1-GA?classifier=sources

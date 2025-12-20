@@ -8,3 +8,4 @@
 - pkg:maven/dk.fust.docgen/documentation-generator-gradle@0.0.9?classifier=sources
 - pkg:maven/dk.fust.docgen/documentation-generator-gradle@1.0.0?classifier=sources
 - pkg:maven/dk.fust.docgen/documentation-generator-gradle@1.1.0?classifier=sources
+- pkg:maven/dk.fust.docgen/documentation-generator-gradle@1.2.0?classifier=sources

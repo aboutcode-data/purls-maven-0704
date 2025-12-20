@@ -1,2 +1,3 @@
 - pkg:maven/org.webjars.npm/stoplight__json-schema-tree@2.2.2
 - pkg:maven/org.webjars.npm/stoplight__json-schema-tree@2.2.2?classifier=sources
+- pkg:maven/org.webjars.npm/stoplight__json-schema-tree@4.0.0

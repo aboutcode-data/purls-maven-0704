@@ -6,7 +6,13 @@
 - pkg:maven/com.github.j-mie6/parsley-debug_sjs1_3@4.5.1?classifier=sources
 - pkg:maven/com.github.j-mie6/parsley-debug_sjs1_3@4.5.2
 - pkg:maven/com.github.j-mie6/parsley-debug_sjs1_3@4.5.2?classifier=sources
+- pkg:maven/com.github.j-mie6/parsley-debug_sjs1_3@4.5.3
+- pkg:maven/com.github.j-mie6/parsley-debug_sjs1_3@4.5.3?classifier=sources
 - pkg:maven/com.github.j-mie6/parsley-debug_sjs1_3@5.0.0-M1
+- pkg:maven/com.github.j-mie6/parsley-debug_sjs1_3@5.0.0-M10
+- pkg:maven/com.github.j-mie6/parsley-debug_sjs1_3@5.0.0-M10?classifier=sources
+- pkg:maven/com.github.j-mie6/parsley-debug_sjs1_3@5.0.0-M11
+- pkg:maven/com.github.j-mie6/parsley-debug_sjs1_3@5.0.0-M11?classifier=sources
 - pkg:maven/com.github.j-mie6/parsley-debug_sjs1_3@5.0.0-M1?classifier=sources
 - pkg:maven/com.github.j-mie6/parsley-debug_sjs1_3@5.0.0-M2
 - pkg:maven/com.github.j-mie6/parsley-debug_sjs1_3@5.0.0-M2?classifier=sources
@@ -18,3 +24,9 @@
 - pkg:maven/com.github.j-mie6/parsley-debug_sjs1_3@5.0.0-M5?classifier=sources
 - pkg:maven/com.github.j-mie6/parsley-debug_sjs1_3@5.0.0-M6
 - pkg:maven/com.github.j-mie6/parsley-debug_sjs1_3@5.0.0-M6?classifier=sources
+- pkg:maven/com.github.j-mie6/parsley-debug_sjs1_3@5.0.0-M7
+- pkg:maven/com.github.j-mie6/parsley-debug_sjs1_3@5.0.0-M7?classifier=sources
+- pkg:maven/com.github.j-mie6/parsley-debug_sjs1_3@5.0.0-M8
+- pkg:maven/com.github.j-mie6/parsley-debug_sjs1_3@5.0.0-M8?classifier=sources
+- pkg:maven/com.github.j-mie6/parsley-debug_sjs1_3@5.0.0-M9
+- pkg:maven/com.github.j-mie6/parsley-debug_sjs1_3@5.0.0-M9?classifier=sources

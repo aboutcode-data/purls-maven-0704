@@ -12,3 +12,5 @@
 - pkg:maven/io.quarkiverse.authzed/quarkus-authzed-cli@0.6.0?classifier=sources
 - pkg:maven/io.quarkiverse.authzed/quarkus-authzed-cli@0.7.0
 - pkg:maven/io.quarkiverse.authzed/quarkus-authzed-cli@0.7.0?classifier=sources
+- pkg:maven/io.quarkiverse.authzed/quarkus-authzed-cli@0.8.0?classifier=sources
+- pkg:maven/io.quarkiverse.authzed/quarkus-authzed-cli@0.9.0?classifier=sources

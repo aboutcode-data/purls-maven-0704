@@ -1,0 +1,2 @@
+- pkg:maven/de.knightsoft-net/gin@4.0.0
+- pkg:maven/de.knightsoft-net/gin@4.0.0?classifier=sources

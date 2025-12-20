@@ -8,3 +8,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-project-dependency@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-project-dependency@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-project-dependency@RELEASE240?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-project-dependency@RELEASE250?classifier=sources

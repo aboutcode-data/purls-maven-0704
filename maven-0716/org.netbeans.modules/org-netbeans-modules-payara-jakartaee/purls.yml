@@ -22,3 +22,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-jakartaee@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-jakartaee@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-jakartaee@RELEASE240?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-payara-jakartaee@RELEASE250?classifier=sources

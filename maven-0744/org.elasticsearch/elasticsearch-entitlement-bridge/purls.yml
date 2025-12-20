@@ -1,2 +1,4 @@
 - pkg:maven/org.elasticsearch/elasticsearch-entitlement-bridge@8.17.0
 - pkg:maven/org.elasticsearch/elasticsearch-entitlement-bridge@8.17.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-entitlement-bridge@8.17.1
+- pkg:maven/org.elasticsearch/elasticsearch-entitlement-bridge@8.17.1?classifier=sources

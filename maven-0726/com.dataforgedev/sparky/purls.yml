@@ -1,0 +1,6 @@
+- pkg:maven/com.dataforgedev/sparky@8.2.0-alpha.1
+- pkg:maven/com.dataforgedev/sparky@8.2.0-alpha.17
+- pkg:maven/com.dataforgedev/sparky@8.2.0-alpha.17?classifier=sources
+- pkg:maven/com.dataforgedev/sparky@8.2.0-alpha.1?classifier=sources
+- pkg:maven/com.dataforgedev/sparky@8.2.0-alpha.20
+- pkg:maven/com.dataforgedev/sparky@8.2.0-alpha.20?classifier=sources

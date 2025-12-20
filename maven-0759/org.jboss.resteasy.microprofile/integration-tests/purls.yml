@@ -13,3 +13,4 @@
 - pkg:maven/org.jboss.resteasy.microprofile/integration-tests@3.0.0.Alpha1
 - pkg:maven/org.jboss.resteasy.microprofile/integration-tests@3.0.0.Beta1
 - pkg:maven/org.jboss.resteasy.microprofile/integration-tests@3.0.0.Final
+- pkg:maven/org.jboss.resteasy.microprofile/integration-tests@3.0.1.Final

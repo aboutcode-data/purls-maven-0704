@@ -65,4 +65,5 @@
 - pkg:maven/live.100ms/hls-player-stats@2.9.68?classifier=sources
 - pkg:maven/live.100ms/hls-player-stats@2.9.69?classifier=sources
 - pkg:maven/live.100ms/hls-player-stats@2.9.70?classifier=sources
+- pkg:maven/live.100ms/hls-player-stats@2.9.71?classifier=sources
 - pkg:maven/live.100ms/hls-player-stats@release-v2?classifier=sources

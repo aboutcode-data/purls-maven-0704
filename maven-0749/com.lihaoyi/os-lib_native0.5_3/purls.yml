@@ -34,3 +34,5 @@
 - pkg:maven/com.lihaoyi/os-lib_native0.5_3@0.11.4-M2?classifier=sources
 - pkg:maven/com.lihaoyi/os-lib_native0.5_3@0.11.4-M3
 - pkg:maven/com.lihaoyi/os-lib_native0.5_3@0.11.4-M3?classifier=sources
+- pkg:maven/com.lihaoyi/os-lib_native0.5_3@0.11.4-M4
+- pkg:maven/com.lihaoyi/os-lib_native0.5_3@0.11.4-M4?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/com.google.appengine/appengine-init@2.0.30?classifier=sources
 - pkg:maven/com.google.appengine/appengine-init@2.0.31
 - pkg:maven/com.google.appengine/appengine-init@2.0.31?classifier=sources
+- pkg:maven/com.google.appengine/appengine-init@2.0.32
+- pkg:maven/com.google.appengine/appengine-init@2.0.32?classifier=sources

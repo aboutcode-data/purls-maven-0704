@@ -1,2 +1,4 @@
 - pkg:maven/com.cashfree.payout.java/cashfree_payout@0.0.12?classifier=sources
 - pkg:maven/com.cashfree.payout.java/cashfree_payout@0.0.14?classifier=sources
+- pkg:maven/com.cashfree.payout.java/cashfree_payout@2.0.1?classifier=sources
+- pkg:maven/com.cashfree.payout.java/cashfree_payout@2.0.2?classifier=sources

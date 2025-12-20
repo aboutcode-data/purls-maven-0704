@@ -119,6 +119,14 @@
 - pkg:maven/io.prophecy/prophecy-scala-gem-libs_2.12@1.1.45?classifier=sources
 - pkg:maven/io.prophecy/prophecy-scala-gem-libs_2.12@1.1.46
 - pkg:maven/io.prophecy/prophecy-scala-gem-libs_2.12@1.1.46?classifier=sources
+- pkg:maven/io.prophecy/prophecy-scala-gem-libs_2.12@1.1.47
+- pkg:maven/io.prophecy/prophecy-scala-gem-libs_2.12@1.1.47?classifier=sources
+- pkg:maven/io.prophecy/prophecy-scala-gem-libs_2.12@1.1.48
+- pkg:maven/io.prophecy/prophecy-scala-gem-libs_2.12@1.1.48-mybretest
+- pkg:maven/io.prophecy/prophecy-scala-gem-libs_2.12@1.1.48-mybretest?classifier=sources
+- pkg:maven/io.prophecy/prophecy-scala-gem-libs_2.12@1.1.48?classifier=sources
+- pkg:maven/io.prophecy/prophecy-scala-gem-libs_2.12@1.1.49-metadata
+- pkg:maven/io.prophecy/prophecy-scala-gem-libs_2.12@1.1.49-metadata?classifier=sources
 - pkg:maven/io.prophecy/prophecy-scala-gem-libs_2.12@1.1.4?classifier=sources
 - pkg:maven/io.prophecy/prophecy-scala-gem-libs_2.12@1.1.5
 - pkg:maven/io.prophecy/prophecy-scala-gem-libs_2.12@1.1.5?classifier=sources

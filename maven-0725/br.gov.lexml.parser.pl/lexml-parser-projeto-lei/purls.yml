@@ -13,6 +13,10 @@
 - pkg:maven/br.gov.lexml.parser.pl/lexml-parser-projeto-lei@1.13.9
 - pkg:maven/br.gov.lexml.parser.pl/lexml-parser-projeto-lei@1.13.9?classifier=sources
 - pkg:maven/br.gov.lexml.parser.pl/lexml-parser-projeto-lei@1.14.1
+- pkg:maven/br.gov.lexml.parser.pl/lexml-parser-projeto-lei@1.14.12
+- pkg:maven/br.gov.lexml.parser.pl/lexml-parser-projeto-lei@1.14.12?classifier=sources
+- pkg:maven/br.gov.lexml.parser.pl/lexml-parser-projeto-lei@1.14.13
+- pkg:maven/br.gov.lexml.parser.pl/lexml-parser-projeto-lei@1.14.13?classifier=sources
 - pkg:maven/br.gov.lexml.parser.pl/lexml-parser-projeto-lei@1.14.1?classifier=sources
 - pkg:maven/br.gov.lexml.parser.pl/lexml-parser-projeto-lei@1.14.3
 - pkg:maven/br.gov.lexml.parser.pl/lexml-parser-projeto-lei@1.14.3?classifier=sources

@@ -580,3 +580,4 @@
 - pkg:maven/org.rundeck/rundeck-core@5.8.0-20241205?classifier=sources
 - pkg:maven/org.rundeck/rundeck-core@5.8.0-rc3-20241204?classifier=sources
 - pkg:maven/org.rundeck/rundeck-core@5.8.0-rc4-20241205?classifier=sources
+- pkg:maven/org.rundeck/rundeck-core@5.9.0-20250205?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/dev.ikm.tinkar/tinkar-data-bom@1.5.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/tinkar-data-bom@1.6.0?classifier=sources

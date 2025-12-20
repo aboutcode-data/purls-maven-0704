@@ -1,2 +1,5 @@
 - pkg:maven/software.visionary/record-jar@2024.06.11?classifier=sources
 - pkg:maven/software.visionary/record-jar@2024.11.30?classifier=sources
+- pkg:maven/software.visionary/record-jar@2025.01.09?classifier=sources
+- pkg:maven/software.visionary/record-jar@2025.02.07?classifier=sources
+- pkg:maven/software.visionary/record-jar@2025.02.14?classifier=sources

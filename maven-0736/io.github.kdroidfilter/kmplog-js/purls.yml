@@ -3,3 +3,5 @@
 - pkg:maven/io.github.kdroidfilter/kmplog-js@0.3.0?classifier=sources
 - pkg:maven/io.github.kdroidfilter/kmplog-js@0.4.0?classifier=sources
 - pkg:maven/io.github.kdroidfilter/kmplog-js@0.6.0?classifier=sources
+- pkg:maven/io.github.kdroidfilter/kmplog-js@0.6.1?classifier=sources
+- pkg:maven/io.github.kdroidfilter/kmplog-js@0.6.2?classifier=sources

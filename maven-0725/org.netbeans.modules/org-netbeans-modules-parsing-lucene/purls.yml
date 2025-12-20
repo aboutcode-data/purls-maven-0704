@@ -24,4 +24,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-parsing-lucene@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-parsing-lucene@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-parsing-lucene@RELEASE240?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-parsing-lucene@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-parsing-lucene@RELEASE90?classifier=sources

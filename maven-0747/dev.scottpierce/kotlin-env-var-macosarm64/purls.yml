@@ -1,1 +1,2 @@
 - pkg:maven/dev.scottpierce/kotlin-env-var-macosarm64@1.0.4?classifier=sources
+- pkg:maven/dev.scottpierce/kotlin-env-var-macosarm64@1.0.5?classifier=sources

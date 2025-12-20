@@ -52,5 +52,9 @@
 - pkg:maven/com.dzikoysk.sqiffy/sqiffy@1.0.0-alpha.62?classifier=sources
 - pkg:maven/com.dzikoysk.sqiffy/sqiffy@1.0.0-alpha.63?classifier=sources
 - pkg:maven/com.dzikoysk.sqiffy/sqiffy@1.0.0-alpha.64?classifier=sources
+- pkg:maven/com.dzikoysk.sqiffy/sqiffy@1.0.0-alpha.65?classifier=sources
+- pkg:maven/com.dzikoysk.sqiffy/sqiffy@1.0.0-alpha.66?classifier=sources
+- pkg:maven/com.dzikoysk.sqiffy/sqiffy@1.0.0-alpha.67?classifier=sources
+- pkg:maven/com.dzikoysk.sqiffy/sqiffy@1.0.0-alpha.68?classifier=sources
 - pkg:maven/com.dzikoysk.sqiffy/sqiffy@1.0.0-alpha.8?classifier=sources
 - pkg:maven/com.dzikoysk.sqiffy/sqiffy@1.0.0-alpha.9?classifier=sources

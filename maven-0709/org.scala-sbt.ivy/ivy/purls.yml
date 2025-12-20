@@ -12,6 +12,8 @@
 - pkg:maven/org.scala-sbt.ivy/ivy@2.3.0-sbt-48dd0744422128446aee9ac31aa356ee203cc9f4?classifier=sources
 - pkg:maven/org.scala-sbt.ivy/ivy@2.3.0-sbt-5681e1a77a149b93a4cfbe4a86d0263d7bd223eb
 - pkg:maven/org.scala-sbt.ivy/ivy@2.3.0-sbt-5681e1a77a149b93a4cfbe4a86d0263d7bd223eb?classifier=sources
+- pkg:maven/org.scala-sbt.ivy/ivy@2.3.0-sbt-77cc781d727b367d3761f097d89f5a4762771d41
+- pkg:maven/org.scala-sbt.ivy/ivy@2.3.0-sbt-77cc781d727b367d3761f097d89f5a4762771d41?classifier=sources
 - pkg:maven/org.scala-sbt.ivy/ivy@2.3.0-sbt-839fad1cdc07cf6fc81364d74c323867230432ad
 - pkg:maven/org.scala-sbt.ivy/ivy@2.3.0-sbt-839fad1cdc07cf6fc81364d74c323867230432ad?classifier=sources
 - pkg:maven/org.scala-sbt.ivy/ivy@2.3.0-sbt-88d6a93d15f9b029958c1c289a8859e8dfe31a19

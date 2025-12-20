@@ -2,6 +2,8 @@
 - pkg:maven/org.sonarsource.dotnet/sonar-csharp-plugin@10.2.0.105762?classifier=sources
 - pkg:maven/org.sonarsource.dotnet/sonar-csharp-plugin@10.3.0.106239?classifier=sources
 - pkg:maven/org.sonarsource.dotnet/sonar-csharp-plugin@10.4.0.108396?classifier=sources
+- pkg:maven/org.sonarsource.dotnet/sonar-csharp-plugin@10.5.0.109200?classifier=sources
+- pkg:maven/org.sonarsource.dotnet/sonar-csharp-plugin@10.6.0.109712?classifier=sources
 - pkg:maven/org.sonarsource.dotnet/sonar-csharp-plugin@4.2?classifier=sources
 - pkg:maven/org.sonarsource.dotnet/sonar-csharp-plugin@4.3?classifier=sources
 - pkg:maven/org.sonarsource.dotnet/sonar-csharp-plugin@4.4?classifier=sources

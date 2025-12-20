@@ -1,2 +1,4 @@
+- pkg:maven/net.avalara/avalara-sdk@24.12.0
+- pkg:maven/net.avalara/avalara-sdk@24.12.0?classifier=sources
 - pkg:maven/net.avalara/avalara-sdk@24.2.29
 - pkg:maven/net.avalara/avalara-sdk@24.2.29?classifier=sources

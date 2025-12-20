@@ -60,3 +60,5 @@
 - pkg:maven/com.aliyun/ros-cdk-clickhouse@1.4.0?classifier=sources
 - pkg:maven/com.aliyun/ros-cdk-clickhouse@1.5.0
 - pkg:maven/com.aliyun/ros-cdk-clickhouse@1.5.0?classifier=sources
+- pkg:maven/com.aliyun/ros-cdk-clickhouse@1.6.0
+- pkg:maven/com.aliyun/ros-cdk-clickhouse@1.6.0?classifier=sources

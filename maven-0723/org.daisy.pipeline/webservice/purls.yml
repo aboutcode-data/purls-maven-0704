@@ -48,3 +48,5 @@
 - pkg:maven/org.daisy.pipeline/webservice@3.4.0?classifier=sources
 - pkg:maven/org.daisy.pipeline/webservice@3.5.0
 - pkg:maven/org.daisy.pipeline/webservice@3.5.0?classifier=sources
+- pkg:maven/org.daisy.pipeline/webservice@3.5.1
+- pkg:maven/org.daisy.pipeline/webservice@3.5.1?classifier=sources

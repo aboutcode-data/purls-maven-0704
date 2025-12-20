@@ -1,0 +1,1 @@
+- pkg:maven/software.amazon.smithy.java/client-core@0.0.1?classifier=sources

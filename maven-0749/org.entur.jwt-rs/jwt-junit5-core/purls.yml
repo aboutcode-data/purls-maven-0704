@@ -126,3 +126,7 @@
 - pkg:maven/org.entur.jwt-rs/jwt-junit5-core@4.2.6?classifier=sources
 - pkg:maven/org.entur.jwt-rs/jwt-junit5-core@4.2.7
 - pkg:maven/org.entur.jwt-rs/jwt-junit5-core@4.2.7?classifier=sources
+- pkg:maven/org.entur.jwt-rs/jwt-junit5-core@5.0.0
+- pkg:maven/org.entur.jwt-rs/jwt-junit5-core@5.0.0?classifier=sources
+- pkg:maven/org.entur.jwt-rs/jwt-junit5-core@5.0.1
+- pkg:maven/org.entur.jwt-rs/jwt-junit5-core@5.0.1?classifier=sources

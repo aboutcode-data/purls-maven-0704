@@ -28,3 +28,5 @@
 - pkg:maven/org.fcrepo.camel/fcrepo-reindexing@6.0.0?classifier=sources
 - pkg:maven/org.fcrepo.camel/fcrepo-reindexing@6.1.0
 - pkg:maven/org.fcrepo.camel/fcrepo-reindexing@6.1.0?classifier=sources
+- pkg:maven/org.fcrepo.camel/fcrepo-reindexing@6.2.0-RC
+- pkg:maven/org.fcrepo.camel/fcrepo-reindexing@6.2.0-RC?classifier=sources

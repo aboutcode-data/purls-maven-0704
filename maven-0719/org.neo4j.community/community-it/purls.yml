@@ -368,6 +368,8 @@
 - pkg:maven/org.neo4j.community/community-it@5.25.1?classifier=sources
 - pkg:maven/org.neo4j.community/community-it@5.26.0
 - pkg:maven/org.neo4j.community/community-it@5.26.0?classifier=sources
+- pkg:maven/org.neo4j.community/community-it@5.26.1
+- pkg:maven/org.neo4j.community/community-it@5.26.1?classifier=sources
 - pkg:maven/org.neo4j.community/community-it@5.3.0
 - pkg:maven/org.neo4j.community/community-it@5.3.0?classifier=sources
 - pkg:maven/org.neo4j.community/community-it@5.4.0

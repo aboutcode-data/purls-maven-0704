@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.integration.connector/mi-connector-salesforce@2.1.2?classifier=sources
+- pkg:maven/org.wso2.integration.connector/mi-connector-salesforce@2.1.2?type=zip

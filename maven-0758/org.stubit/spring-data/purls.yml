@@ -8,4 +8,5 @@
 - pkg:maven/org.stubit/spring-data@0.8.2?classifier=sources
 - pkg:maven/org.stubit/spring-data@0.8.3?classifier=sources
 - pkg:maven/org.stubit/spring-data@0.8.4?classifier=sources
+- pkg:maven/org.stubit/spring-data@0.8.5?classifier=sources
 - pkg:maven/org.stubit/spring-data@0.8?classifier=sources

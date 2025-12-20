@@ -1,0 +1,2 @@
+- pkg:maven/io.livekit/krisp-noise-filter-core@0.0.11?classifier=sources
+- pkg:maven/io.livekit/krisp-noise-filter-core@0.0.12?classifier=sources

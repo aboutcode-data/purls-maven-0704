@@ -1,2 +1,6 @@
 - pkg:maven/dev.ikm.tinkar/tinkar-data-maven-plugin@1.3.0
 - pkg:maven/dev.ikm.tinkar/tinkar-data-maven-plugin@1.3.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/tinkar-data-maven-plugin@1.4.0
+- pkg:maven/dev.ikm.tinkar/tinkar-data-maven-plugin@1.4.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/tinkar-data-maven-plugin@1.5.0
+- pkg:maven/dev.ikm.tinkar/tinkar-data-maven-plugin@1.5.0?classifier=sources

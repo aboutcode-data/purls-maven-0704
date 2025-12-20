@@ -77,3 +77,6 @@
 - pkg:maven/commons-daemon/commons-daemon@1.4.0?classifier=sources
 - pkg:maven/commons-daemon/commons-daemon@1.4.0?classifier=src&type=tar.gz
 - pkg:maven/commons-daemon/commons-daemon@1.4.0?classifier=src&type=zip
+- pkg:maven/commons-daemon/commons-daemon@1.4.1?classifier=sources
+- pkg:maven/commons-daemon/commons-daemon@1.4.1?classifier=src&type=tar.gz
+- pkg:maven/commons-daemon/commons-daemon@1.4.1?classifier=src&type=zip

@@ -1,0 +1,2 @@
+- pkg:maven/com.softwaremill.sttp.client4/caching-backend_2.12@4.0.0-M25
+- pkg:maven/com.softwaremill.sttp.client4/caching-backend_2.12@4.0.0-M25?classifier=sources

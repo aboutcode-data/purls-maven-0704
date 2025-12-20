@@ -44,3 +44,5 @@
 - pkg:maven/com.ganshane.xcoin.core/xcoin-blockchain@0.33?classifier=sources
 - pkg:maven/com.ganshane.xcoin.core/xcoin-blockchain@0.34
 - pkg:maven/com.ganshane.xcoin.core/xcoin-blockchain@0.34?classifier=sources
+- pkg:maven/com.ganshane.xcoin.core/xcoin-blockchain@0.35
+- pkg:maven/com.ganshane.xcoin.core/xcoin-blockchain@0.35?classifier=sources
