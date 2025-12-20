@@ -52,3 +52,5 @@
 - pkg:maven/cn.com.mooho/base@2.0.8?classifier=sources
 - pkg:maven/cn.com.mooho/base@2.3.1
 - pkg:maven/cn.com.mooho/base@2.3.1?classifier=sources
+- pkg:maven/cn.com.mooho/base@2.3.24
+- pkg:maven/cn.com.mooho/base@2.3.24?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/net.peanuuutz.tomlkt/tomlkt-linuxX64@0.2.0?classifier=sources
 - pkg:maven/net.peanuuutz.tomlkt/tomlkt-linuxX64@0.3.0?classifier=sources
+- pkg:maven/net.peanuuutz.tomlkt/tomlkt-linuxX64@0.3.1?classifier=sources
+- pkg:maven/net.peanuuutz.tomlkt/tomlkt-linuxX64@0.3.2?classifier=sources
+- pkg:maven/net.peanuuutz.tomlkt/tomlkt-linuxX64@0.3.3?classifier=sources
+- pkg:maven/net.peanuuutz.tomlkt/tomlkt-linuxX64@0.3.4?classifier=sources

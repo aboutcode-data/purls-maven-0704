@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.activemq.examples.broker-connection/amqp-federation@2.31.0
+- pkg:maven/org.apache.activemq.examples.broker-connection/amqp-federation@2.31.0?classifier=sources

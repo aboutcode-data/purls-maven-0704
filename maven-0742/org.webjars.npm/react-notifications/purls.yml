@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/react-notifications@1.7.4
+- pkg:maven/org.webjars.npm/react-notifications@1.7.4?classifier=sources

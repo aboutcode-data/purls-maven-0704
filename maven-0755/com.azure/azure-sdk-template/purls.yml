@@ -497,6 +497,7 @@
 - pkg:maven/com.azure/azure-sdk-template@1.2.1-beta.30
 - pkg:maven/com.azure/azure-sdk-template@1.2.1-beta.30?classifier=sources
 - pkg:maven/com.azure/azure-sdk-template@1.2.1-beta.31
+- pkg:maven/com.azure/azure-sdk-template@1.2.1-beta.3130754?classifier=sources
 - pkg:maven/com.azure/azure-sdk-template@1.2.1-beta.31?classifier=sources
 - pkg:maven/com.azure/azure-sdk-template@1.2.1-beta.32
 - pkg:maven/com.azure/azure-sdk-template@1.2.1-beta.32?classifier=sources

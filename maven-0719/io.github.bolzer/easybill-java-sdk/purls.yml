@@ -1,0 +1,5 @@
+- pkg:maven/io.github.bolzer/easybill-java-sdk@0.1?classifier=sources
+- pkg:maven/io.github.bolzer/easybill-java-sdk@0.2.1?classifier=sources
+- pkg:maven/io.github.bolzer/easybill-java-sdk@0.3.0?classifier=sources
+- pkg:maven/io.github.bolzer/easybill-java-sdk@0.4.0?classifier=sources
+- pkg:maven/io.github.bolzer/easybill-java-sdk@0.5.0?classifier=sources

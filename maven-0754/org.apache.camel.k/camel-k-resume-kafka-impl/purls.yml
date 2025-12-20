@@ -14,3 +14,5 @@
 - pkg:maven/org.apache.camel.k/camel-k-resume-kafka-impl@1.17.1?classifier=sources
 - pkg:maven/org.apache.camel.k/camel-k-resume-kafka-impl@2.16.0
 - pkg:maven/org.apache.camel.k/camel-k-resume-kafka-impl@2.16.0?classifier=sources
+- pkg:maven/org.apache.camel.k/camel-k-resume-kafka-impl@3.2.0
+- pkg:maven/org.apache.camel.k/camel-k-resume-kafka-impl@3.2.0?classifier=sources

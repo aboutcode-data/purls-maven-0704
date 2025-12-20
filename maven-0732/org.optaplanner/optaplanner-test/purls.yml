@@ -289,6 +289,8 @@
 - pkg:maven/org.optaplanner/optaplanner-test@8.42.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-test@8.43.0.Final
 - pkg:maven/org.optaplanner/optaplanner-test@8.43.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-test@8.44.0.Final
+- pkg:maven/org.optaplanner/optaplanner-test@8.44.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-test@8.5.0.Final
 - pkg:maven/org.optaplanner/optaplanner-test@8.5.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-test@8.6.0.Final
@@ -319,3 +321,5 @@
 - pkg:maven/org.optaplanner/optaplanner-test@9.42.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-test@9.43.0.Final
 - pkg:maven/org.optaplanner/optaplanner-test@9.43.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-test@9.44.0.Final
+- pkg:maven/org.optaplanner/optaplanner-test@9.44.0.Final?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/de.ikor.sip.foundation/sip-soap-starter@3.0.0?classifier=sources
 - pkg:maven/de.ikor.sip.foundation/sip-soap-starter@3.1.0
 - pkg:maven/de.ikor.sip.foundation/sip-soap-starter@3.1.0?classifier=sources
+- pkg:maven/de.ikor.sip.foundation/sip-soap-starter@3.2.0
+- pkg:maven/de.ikor.sip.foundation/sip-soap-starter@3.2.0?classifier=sources

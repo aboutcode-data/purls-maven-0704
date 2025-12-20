@@ -16,3 +16,4 @@
 - pkg:maven/com.hedera.pbj/pbj-compiler@0.7.2?classifier=sources
 - pkg:maven/com.hedera.pbj/pbj-compiler@0.7.3?classifier=sources
 - pkg:maven/com.hedera.pbj/pbj-compiler@0.7.4?classifier=sources
+- pkg:maven/com.hedera.pbj/pbj-compiler@0.7.5?classifier=sources

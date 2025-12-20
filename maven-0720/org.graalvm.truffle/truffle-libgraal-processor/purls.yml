@@ -1,0 +1,2 @@
+- pkg:maven/org.graalvm.truffle/truffle-libgraal-processor@23.1.0
+- pkg:maven/org.graalvm.truffle/truffle-libgraal-processor@23.1.0?classifier=sources

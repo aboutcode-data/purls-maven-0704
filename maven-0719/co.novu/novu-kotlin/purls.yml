@@ -1,0 +1,2 @@
+- pkg:maven/co.novu/novu-kotlin@1.0.0?classifier=sources
+- pkg:maven/co.novu/novu-kotlin@1.1.0?classifier=sources

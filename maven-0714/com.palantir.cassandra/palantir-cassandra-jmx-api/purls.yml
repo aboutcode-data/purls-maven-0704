@@ -65,6 +65,15 @@
 - pkg:maven/com.palantir.cassandra/palantir-cassandra-jmx-api@2.2.18-1.120.0?classifier=sources
 - pkg:maven/com.palantir.cassandra/palantir-cassandra-jmx-api@2.2.18-1.121.0?classifier=sources
 - pkg:maven/com.palantir.cassandra/palantir-cassandra-jmx-api@2.2.18-1.122.0?classifier=sources
+- pkg:maven/com.palantir.cassandra/palantir-cassandra-jmx-api@2.2.18-1.123.0-rc1?classifier=sources
+- pkg:maven/com.palantir.cassandra/palantir-cassandra-jmx-api@2.2.18-1.123.0-rc2?classifier=sources
+- pkg:maven/com.palantir.cassandra/palantir-cassandra-jmx-api@2.2.18-1.123.0?classifier=sources
+- pkg:maven/com.palantir.cassandra/palantir-cassandra-jmx-api@2.2.18-1.124.0?classifier=sources
+- pkg:maven/com.palantir.cassandra/palantir-cassandra-jmx-api@2.2.18-1.125.0-rc1?classifier=sources
+- pkg:maven/com.palantir.cassandra/palantir-cassandra-jmx-api@2.2.18-1.125.0?classifier=sources
+- pkg:maven/com.palantir.cassandra/palantir-cassandra-jmx-api@2.2.18-1.126.0-rc3?classifier=sources
+- pkg:maven/com.palantir.cassandra/palantir-cassandra-jmx-api@2.2.18-1.126.0?classifier=sources
+- pkg:maven/com.palantir.cassandra/palantir-cassandra-jmx-api@2.2.18-1.127.0?classifier=sources
 - pkg:maven/com.palantir.cassandra/palantir-cassandra-jmx-api@2.2.18-1.52.0-rc1?classifier=sources
 - pkg:maven/com.palantir.cassandra/palantir-cassandra-jmx-api@2.2.18-1.52.0-rc2?classifier=sources
 - pkg:maven/com.palantir.cassandra/palantir-cassandra-jmx-api@2.2.18-1.52.0?classifier=sources

@@ -14,6 +14,8 @@
 - pkg:maven/org.opencb.opencga/opencga-catalog@2.0.5?classifier=sources
 - pkg:maven/org.opencb.opencga/opencga-catalog@2.10.0
 - pkg:maven/org.opencb.opencga/opencga-catalog@2.10.0?classifier=sources
+- pkg:maven/org.opencb.opencga/opencga-catalog@2.11.0
+- pkg:maven/org.opencb.opencga/opencga-catalog@2.11.0?classifier=sources
 - pkg:maven/org.opencb.opencga/opencga-catalog@2.2.0
 - pkg:maven/org.opencb.opencga/opencga-catalog@2.2.0?classifier=sources
 - pkg:maven/org.opencb.opencga/opencga-catalog@2.2.1

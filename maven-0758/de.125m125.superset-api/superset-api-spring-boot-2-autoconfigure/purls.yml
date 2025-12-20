@@ -1,0 +1,2 @@
+- pkg:maven/de.125m125.superset-api/superset-api-spring-boot-2-autoconfigure@0.0.1
+- pkg:maven/de.125m125.superset-api/superset-api-spring-boot-2-autoconfigure@0.0.1?classifier=sources

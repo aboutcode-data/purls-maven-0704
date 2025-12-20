@@ -1,0 +1,2 @@
+- pkg:maven/io.github.onecx.quarkus/onecx-apm-deployment@0.0.0
+- pkg:maven/io.github.onecx.quarkus/onecx-apm-deployment@0.0.0?classifier=sources

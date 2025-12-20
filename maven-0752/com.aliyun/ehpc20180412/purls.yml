@@ -38,3 +38,5 @@
 - pkg:maven/com.aliyun/ehpc20180412@1.14.9?classifier=sources
 - pkg:maven/com.aliyun/ehpc20180412@2.0.0
 - pkg:maven/com.aliyun/ehpc20180412@2.0.0?classifier=sources
+- pkg:maven/com.aliyun/ehpc20180412@3.0.0
+- pkg:maven/com.aliyun/ehpc20180412@3.0.0?classifier=sources

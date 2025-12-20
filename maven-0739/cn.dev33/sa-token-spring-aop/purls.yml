@@ -72,3 +72,5 @@
 - pkg:maven/cn.dev33/sa-token-spring-aop@1.34.0?classifier=sources
 - pkg:maven/cn.dev33/sa-token-spring-aop@1.35.0.RC
 - pkg:maven/cn.dev33/sa-token-spring-aop@1.35.0.RC?classifier=sources
+- pkg:maven/cn.dev33/sa-token-spring-aop@1.36.0
+- pkg:maven/cn.dev33/sa-token-spring-aop@1.36.0?classifier=sources

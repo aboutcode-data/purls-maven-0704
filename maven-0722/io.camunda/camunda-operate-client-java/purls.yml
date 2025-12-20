@@ -21,3 +21,4 @@
 - pkg:maven/io.camunda/camunda-operate-client-java@8.1.8.1?classifier=sources
 - pkg:maven/io.camunda/camunda-operate-client-java@8.1.8?classifier=sources
 - pkg:maven/io.camunda/camunda-operate-client-java@8.2.0?classifier=sources
+- pkg:maven/io.camunda/camunda-operate-client-java@8.3.0-alpha5?classifier=sources

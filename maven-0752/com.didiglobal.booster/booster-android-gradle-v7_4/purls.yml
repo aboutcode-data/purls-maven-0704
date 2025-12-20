@@ -1,2 +1,5 @@
 - pkg:maven/com.didiglobal.booster/booster-android-gradle-v7_4@4.16.2-alpha4?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-android-gradle-v7_4@4.16.3-alpha1?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-android-gradle-v7_4@4.16.3-alpha2?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-android-gradle-v7_4@4.16.3?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-android-gradle-v7_4@4.17.0-alpha1?classifier=sources

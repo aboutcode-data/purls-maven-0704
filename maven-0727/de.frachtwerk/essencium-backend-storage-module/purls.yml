@@ -1,0 +1,2 @@
+- pkg:maven/de.frachtwerk/essencium-backend-storage-module@0.14.0
+- pkg:maven/de.frachtwerk/essencium-backend-storage-module@0.14.0?classifier=sources

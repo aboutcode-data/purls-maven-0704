@@ -2,3 +2,5 @@
 - pkg:maven/com.vertispan.j2cl/j2cl-maven-plugin@0.19?classifier=sources
 - pkg:maven/com.vertispan.j2cl/j2cl-maven-plugin@0.20
 - pkg:maven/com.vertispan.j2cl/j2cl-maven-plugin@0.20?classifier=sources
+- pkg:maven/com.vertispan.j2cl/j2cl-maven-plugin@0.21.0
+- pkg:maven/com.vertispan.j2cl/j2cl-maven-plugin@0.21.0?classifier=sources

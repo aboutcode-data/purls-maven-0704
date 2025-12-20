@@ -94,3 +94,4 @@
 - pkg:maven/me.ahoo.cosid/cosid-zookeeper@2.4.0?classifier=sources
 - pkg:maven/me.ahoo.cosid/cosid-zookeeper@2.5.0?classifier=sources
 - pkg:maven/me.ahoo.cosid/cosid-zookeeper@2.5.2?classifier=sources
+- pkg:maven/me.ahoo.cosid/cosid-zookeeper@2.5.3?classifier=sources

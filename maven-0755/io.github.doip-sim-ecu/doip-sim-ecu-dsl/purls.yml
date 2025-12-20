@@ -4,6 +4,7 @@
 - pkg:maven/io.github.doip-sim-ecu/doip-sim-ecu-dsl@0.9.15?classifier=sources
 - pkg:maven/io.github.doip-sim-ecu/doip-sim-ecu-dsl@0.9.16?classifier=sources
 - pkg:maven/io.github.doip-sim-ecu/doip-sim-ecu-dsl@0.9.17?classifier=sources
+- pkg:maven/io.github.doip-sim-ecu/doip-sim-ecu-dsl@0.9.18?classifier=sources
 - pkg:maven/io.github.doip-sim-ecu/doip-sim-ecu-dsl@0.9.5?classifier=sources
 - pkg:maven/io.github.doip-sim-ecu/doip-sim-ecu-dsl@0.9.6-beta3?classifier=sources
 - pkg:maven/io.github.doip-sim-ecu/doip-sim-ecu-dsl@0.9.6-beta4?classifier=sources

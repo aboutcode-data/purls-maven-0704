@@ -70,7 +70,11 @@
 - pkg:maven/org.kie/kie-util-maven-integration@8.42.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-util-maven-integration@8.43.0.Final
 - pkg:maven/org.kie/kie-util-maven-integration@8.43.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-util-maven-integration@8.44.0.Final
+- pkg:maven/org.kie/kie-util-maven-integration@8.44.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-util-maven-integration@9.42.0.Alpha
 - pkg:maven/org.kie/kie-util-maven-integration@9.42.0.Alpha?classifier=sources
 - pkg:maven/org.kie/kie-util-maven-integration@9.43.0.Alpha
 - pkg:maven/org.kie/kie-util-maven-integration@9.43.0.Alpha?classifier=sources
+- pkg:maven/org.kie/kie-util-maven-integration@9.44.0.Final
+- pkg:maven/org.kie/kie-util-maven-integration@9.44.0.Final?classifier=sources

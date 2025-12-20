@@ -1,2 +1,4 @@
+- pkg:maven/net.tirasa.flowable-leftovers/flowable-json-converter@7.0.0
 - pkg:maven/net.tirasa.flowable-leftovers/flowable-json-converter@7.0.0.M2
 - pkg:maven/net.tirasa.flowable-leftovers/flowable-json-converter@7.0.0.M2?classifier=sources
+- pkg:maven/net.tirasa.flowable-leftovers/flowable-json-converter@7.0.0?classifier=sources

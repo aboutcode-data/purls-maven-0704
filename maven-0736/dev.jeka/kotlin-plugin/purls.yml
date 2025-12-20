@@ -24,6 +24,8 @@
 - pkg:maven/dev.jeka/kotlin-plugin@0.10.21?classifier=sources
 - pkg:maven/dev.jeka/kotlin-plugin@0.10.22
 - pkg:maven/dev.jeka/kotlin-plugin@0.10.22?classifier=sources
+- pkg:maven/dev.jeka/kotlin-plugin@0.10.23
+- pkg:maven/dev.jeka/kotlin-plugin@0.10.23?classifier=sources
 - pkg:maven/dev.jeka/kotlin-plugin@0.10.3
 - pkg:maven/dev.jeka/kotlin-plugin@0.10.3?classifier=sources
 - pkg:maven/dev.jeka/kotlin-plugin@0.10.4

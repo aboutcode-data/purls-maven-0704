@@ -1,2 +1,4 @@
 - pkg:maven/com.nbsaas.boot/message-resource@1.0.7-2023
 - pkg:maven/com.nbsaas.boot/message-resource@1.0.7-2023?classifier=sources
+- pkg:maven/com.nbsaas.boot/message-resource@1.0.8-2023
+- pkg:maven/com.nbsaas.boot/message-resource@1.0.8-2023?classifier=sources

@@ -7,3 +7,7 @@
 - pkg:maven/io.dyte/webrtc-js@0.109.0?classifier=sources
 - pkg:maven/io.dyte/webrtc-js@0.110.0?classifier=sources
 - pkg:maven/io.dyte/webrtc-js@0.111.0?classifier=sources
+- pkg:maven/io.dyte/webrtc-js@0.111.1?classifier=sources
+- pkg:maven/io.dyte/webrtc-js@0.112.0?classifier=sources
+- pkg:maven/io.dyte/webrtc-js@0.112.1?classifier=sources
+- pkg:maven/io.dyte/webrtc-js@0.112.2?classifier=sources

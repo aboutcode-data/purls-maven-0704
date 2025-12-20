@@ -7,3 +7,6 @@
 - pkg:maven/me.proton.core/account-recovery-presentation-compose@14.1.0?classifier=sources
 - pkg:maven/me.proton.core/account-recovery-presentation-compose@15.0.0?classifier=sources
 - pkg:maven/me.proton.core/account-recovery-presentation-compose@15.1.0?classifier=sources
+- pkg:maven/me.proton.core/account-recovery-presentation-compose@16.0.0?classifier=sources
+- pkg:maven/me.proton.core/account-recovery-presentation-compose@16.1.0?classifier=sources
+- pkg:maven/me.proton.core/account-recovery-presentation-compose@17.0.0?classifier=sources

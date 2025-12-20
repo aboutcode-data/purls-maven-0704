@@ -515,6 +515,14 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-v1@6.45.2?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-v1@6.45.3
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-v1@6.45.3?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-v1@6.46.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-v1@6.46.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-v1@6.47.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-v1@6.47.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-v1@6.48.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-v1@6.48.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-v1@6.49.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-v1@6.49.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-v1@6.5.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-v1@6.5.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-v1@6.6.0

@@ -1,1 +1,2 @@
 - pkg:maven/com.nablarch.archetype/nablarch-batch-dbless-archetype@5u22?classifier=sources
+- pkg:maven/com.nablarch.archetype/nablarch-batch-dbless-archetype@5u23?classifier=sources

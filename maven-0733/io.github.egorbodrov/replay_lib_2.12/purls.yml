@@ -1,0 +1,2 @@
+- pkg:maven/io.github.egorbodrov/replay_lib_2.12@0.1
+- pkg:maven/io.github.egorbodrov/replay_lib_2.12@0.1?classifier=sources

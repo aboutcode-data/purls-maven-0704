@@ -2,3 +2,4 @@
 - pkg:maven/org.linkki-framework.archetypes/linkki-archetype-plain-application-vaadin-flow@2.4.1?classifier=sources
 - pkg:maven/org.linkki-framework.archetypes/linkki-archetype-plain-application-vaadin-flow@2.4.2?classifier=sources
 - pkg:maven/org.linkki-framework.archetypes/linkki-archetype-plain-application-vaadin-flow@2.4.3?classifier=sources
+- pkg:maven/org.linkki-framework.archetypes/linkki-archetype-plain-application-vaadin-flow@2.4.4?classifier=sources

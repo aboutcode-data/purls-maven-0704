@@ -1,0 +1,2 @@
+- pkg:maven/uz.khurozov/totp@1.0
+- pkg:maven/uz.khurozov/totp@1.0?classifier=sources

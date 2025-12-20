@@ -26,3 +26,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.repository.tools@2.3.300?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.repository.tools@2.4.0
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.repository.tools@2.4.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.repository.tools@2.4.100
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.repository.tools@2.4.100?classifier=sources

@@ -120,3 +120,5 @@
 - pkg:maven/org.alluxio/alluxio-integration-fuse@302?classifier=sources
 - pkg:maven/org.alluxio/alluxio-integration-fuse@303
 - pkg:maven/org.alluxio/alluxio-integration-fuse@303?classifier=sources
+- pkg:maven/org.alluxio/alluxio-integration-fuse@304
+- pkg:maven/org.alluxio/alluxio-integration-fuse@304?classifier=sources

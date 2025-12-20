@@ -1,0 +1,2 @@
+- pkg:maven/com.connectrpc/connect-kotlin-google-java-ext@0.1.11?classifier=sources
+- pkg:maven/com.connectrpc/connect-kotlin-google-java-ext@0.2.0?classifier=sources

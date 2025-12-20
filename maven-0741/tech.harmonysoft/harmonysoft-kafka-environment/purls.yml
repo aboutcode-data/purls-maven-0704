@@ -18,3 +18,12 @@
 - pkg:maven/tech.harmonysoft/harmonysoft-kafka-environment@1.79.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-kafka-environment@1.80.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-kafka-environment@1.82.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-kafka-environment@1.83.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-kafka-environment@1.84.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-kafka-environment@1.85.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-kafka-environment@1.86.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-kafka-environment@1.87.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-kafka-environment@1.88.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-kafka-environment@1.89.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-kafka-environment@1.90.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-kafka-environment@1.91.0?classifier=sources

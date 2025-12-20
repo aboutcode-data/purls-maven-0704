@@ -14,3 +14,5 @@
 - pkg:maven/tech.deepdreams/subscriber-events@0.2.2-RELEASE?classifier=sources
 - pkg:maven/tech.deepdreams/subscriber-events@0.2.3-RELEASE
 - pkg:maven/tech.deepdreams/subscriber-events@0.2.3-RELEASE?classifier=sources
+- pkg:maven/tech.deepdreams/subscriber-events@0.2.5-RELEASE
+- pkg:maven/tech.deepdreams/subscriber-events@0.2.5-RELEASE?classifier=sources

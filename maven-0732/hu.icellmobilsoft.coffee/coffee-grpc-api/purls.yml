@@ -2,3 +2,5 @@
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-grpc-api@1.14.0?classifier=sources
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-grpc-api@2.1.0
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-grpc-api@2.1.0?classifier=sources
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-grpc-api@2.2.0
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-grpc-api@2.2.0?classifier=sources

@@ -85,6 +85,7 @@
 - pkg:maven/com.liferay/com.liferay.document.library.asset.auto.tagger.google.cloud.vision@1.0.34?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.asset.auto.tagger.google.cloud.vision@1.0.35
 - pkg:maven/com.liferay/com.liferay.document.library.asset.auto.tagger.google.cloud.vision@1.0.35?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.asset.auto.tagger.google.cloud.vision@1.0.36?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.asset.auto.tagger.google.cloud.vision@1.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.asset.auto.tagger.google.cloud.vision@1.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.asset.auto.tagger.google.cloud.vision@1.0.4
@@ -226,6 +227,7 @@
 - pkg:maven/com.liferay/com.liferay.document.library.asset.auto.tagger.google.cloud.vision@3.0.21
 - pkg:maven/com.liferay/com.liferay.document.library.asset.auto.tagger.google.cloud.vision@3.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.asset.auto.tagger.google.cloud.vision@3.0.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.asset.auto.tagger.google.cloud.vision@3.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.asset.auto.tagger.google.cloud.vision@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.asset.auto.tagger.google.cloud.vision@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.asset.auto.tagger.google.cloud.vision@3.0.3

@@ -1,0 +1,4 @@
+- pkg:maven/io.github.light0x00/lighty-codec-http@0.0.2
+- pkg:maven/io.github.light0x00/lighty-codec-http@0.0.2-alpha
+- pkg:maven/io.github.light0x00/lighty-codec-http@0.0.2-alpha?classifier=sources
+- pkg:maven/io.github.light0x00/lighty-codec-http@0.0.2?classifier=sources

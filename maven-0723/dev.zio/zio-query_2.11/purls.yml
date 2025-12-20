@@ -46,3 +46,5 @@
 - pkg:maven/dev.zio/zio-query_2.11@0.3.6?classifier=sources
 - pkg:maven/dev.zio/zio-query_2.11@0.4.0
 - pkg:maven/dev.zio/zio-query_2.11@0.4.0?classifier=sources
+- pkg:maven/dev.zio/zio-query_2.11@0.5.0
+- pkg:maven/dev.zio/zio-query_2.11@0.5.0?classifier=sources

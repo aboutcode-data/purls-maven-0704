@@ -18,6 +18,9 @@
 - pkg:maven/me.proton.core/challenge-presentation@14.1.0?classifier=sources
 - pkg:maven/me.proton.core/challenge-presentation@15.0.0?classifier=sources
 - pkg:maven/me.proton.core/challenge-presentation@15.1.0?classifier=sources
+- pkg:maven/me.proton.core/challenge-presentation@16.0.0?classifier=sources
+- pkg:maven/me.proton.core/challenge-presentation@16.1.0?classifier=sources
+- pkg:maven/me.proton.core/challenge-presentation@17.0.0?classifier=sources
 - pkg:maven/me.proton.core/challenge-presentation@7.1.10?classifier=sources
 - pkg:maven/me.proton.core/challenge-presentation@7.1.11?classifier=sources
 - pkg:maven/me.proton.core/challenge-presentation@7.1.6?classifier=sources

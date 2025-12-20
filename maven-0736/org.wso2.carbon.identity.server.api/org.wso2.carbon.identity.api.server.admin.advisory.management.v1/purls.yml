@@ -1,0 +1,6 @@
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.admin.advisory.management.v1@1.2.81
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.admin.advisory.management.v1@1.2.81?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.admin.advisory.management.v1@1.2.82
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.admin.advisory.management.v1@1.2.82?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.admin.advisory.management.v1@1.2.83
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.admin.advisory.management.v1@1.2.83?classifier=sources

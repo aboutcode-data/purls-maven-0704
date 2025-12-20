@@ -1,0 +1,7 @@
+- pkg:maven/com.jamesward.kotlin-universe-catalog/gradle-plugin@2023.09.27-1?classifier=sources
+- pkg:maven/com.jamesward.kotlin-universe-catalog/gradle-plugin@2023.09.27-2?classifier=sources
+- pkg:maven/com.jamesward.kotlin-universe-catalog/gradle-plugin@2023.09.27-3?classifier=sources
+- pkg:maven/com.jamesward.kotlin-universe-catalog/gradle-plugin@2023.09.27-4?classifier=sources
+- pkg:maven/com.jamesward.kotlin-universe-catalog/gradle-plugin@2023.09.28-1?classifier=sources
+- pkg:maven/com.jamesward.kotlin-universe-catalog/gradle-plugin@2023.10.03-1?classifier=sources
+- pkg:maven/com.jamesward.kotlin-universe-catalog/gradle-plugin@2023.10.03-2?classifier=sources

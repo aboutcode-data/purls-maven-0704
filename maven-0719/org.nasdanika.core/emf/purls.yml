@@ -128,3 +128,5 @@
 - pkg:maven/org.nasdanika.core/emf@2023.8.0?classifier=sources
 - pkg:maven/org.nasdanika.core/emf@2023.9.0
 - pkg:maven/org.nasdanika.core/emf@2023.9.0?classifier=sources
+- pkg:maven/org.nasdanika.core/emf@2023.9.1
+- pkg:maven/org.nasdanika.core/emf@2023.9.1?classifier=sources

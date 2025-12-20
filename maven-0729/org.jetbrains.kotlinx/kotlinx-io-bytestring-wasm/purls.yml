@@ -1,0 +1,1 @@
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-io-bytestring-wasm@0.3.0?classifier=sources

@@ -84,6 +84,10 @@
 - pkg:maven/com.google.cloud/google-cloud-os-config@2.24.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-os-config@2.25.0
 - pkg:maven/com.google.cloud/google-cloud-os-config@2.25.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-os-config@2.26.0
+- pkg:maven/com.google.cloud/google-cloud-os-config@2.26.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-os-config@2.29.0
+- pkg:maven/com.google.cloud/google-cloud-os-config@2.29.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-os-config@2.3.0
 - pkg:maven/com.google.cloud/google-cloud-os-config@2.3.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-os-config@2.3.1

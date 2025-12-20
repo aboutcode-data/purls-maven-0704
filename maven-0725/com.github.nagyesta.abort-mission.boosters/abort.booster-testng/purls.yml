@@ -48,3 +48,4 @@
 - pkg:maven/com.github.nagyesta.abort-mission.boosters/abort.booster-testng@4.2.0?classifier=sources
 - pkg:maven/com.github.nagyesta.abort-mission.boosters/abort.booster-testng@4.2.30?classifier=sources
 - pkg:maven/com.github.nagyesta.abort-mission.boosters/abort.booster-testng@4.2.36?classifier=sources
+- pkg:maven/com.github.nagyesta.abort-mission.boosters/abort.booster-testng@4.2.57?classifier=sources

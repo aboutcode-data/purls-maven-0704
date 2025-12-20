@@ -48,3 +48,11 @@
 - pkg:maven/com.google.cloud/google-cloud-spanner-executor@6.45.2?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-spanner-executor@6.45.3
 - pkg:maven/com.google.cloud/google-cloud-spanner-executor@6.45.3?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-spanner-executor@6.46.0
+- pkg:maven/com.google.cloud/google-cloud-spanner-executor@6.46.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-spanner-executor@6.47.0
+- pkg:maven/com.google.cloud/google-cloud-spanner-executor@6.47.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-spanner-executor@6.48.0
+- pkg:maven/com.google.cloud/google-cloud-spanner-executor@6.48.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-spanner-executor@6.49.0
+- pkg:maven/com.google.cloud/google-cloud-spanner-executor@6.49.0?classifier=sources

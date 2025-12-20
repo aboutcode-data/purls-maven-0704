@@ -1,0 +1,1 @@
+- pkg:maven/org.mvnpm/babel-plugin-polyfill-corejs2@0.4.5?classifier=sources

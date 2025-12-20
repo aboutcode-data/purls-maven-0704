@@ -1,0 +1,4 @@
+- pkg:maven/ro.gs1/quarkus-etcd-client@0.2
+- pkg:maven/ro.gs1/quarkus-etcd-client@0.2?classifier=sources
+- pkg:maven/ro.gs1/quarkus-etcd-client@0.3
+- pkg:maven/ro.gs1/quarkus-etcd-client@0.3?classifier=sources

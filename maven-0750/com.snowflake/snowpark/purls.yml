@@ -21,3 +21,4 @@
 - pkg:maven/com.snowflake/snowpark@1.7.1
 - pkg:maven/com.snowflake/snowpark@1.7.2
 - pkg:maven/com.snowflake/snowpark@1.8.0
+- pkg:maven/com.snowflake/snowpark@1.9.0

@@ -46,3 +46,7 @@
 - pkg:maven/com.sap.cloud.sjb/xs-user-holder@1.45.0?classifier=sources
 - pkg:maven/com.sap.cloud.sjb/xs-user-holder@1.46.0
 - pkg:maven/com.sap.cloud.sjb/xs-user-holder@1.46.0?classifier=sources
+- pkg:maven/com.sap.cloud.sjb/xs-user-holder@1.47.0
+- pkg:maven/com.sap.cloud.sjb/xs-user-holder@1.47.0?classifier=sources
+- pkg:maven/com.sap.cloud.sjb/xs-user-holder@1.48.0
+- pkg:maven/com.sap.cloud.sjb/xs-user-holder@1.48.0?classifier=sources

@@ -4,4 +4,5 @@
 - pkg:maven/io.github.unredundant/satisfaketion-core@0.5.3?classifier=sources
 - pkg:maven/io.github.unredundant/satisfaketion-core@0.5.4?classifier=sources
 - pkg:maven/io.github.unredundant/satisfaketion-core@0.6.4?classifier=sources
+- pkg:maven/io.github.unredundant/satisfaketion-core@0.8.2?classifier=sources
 - pkg:maven/io.github.unredundant/satisfaketion-core@null?classifier=sources

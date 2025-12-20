@@ -2,3 +2,4 @@
 - pkg:maven/com.onfleet/driver@0.10.4?classifier=sources
 - pkg:maven/com.onfleet/driver@0.10.5?classifier=sources
 - pkg:maven/com.onfleet/driver@0.11.0?classifier=sources
+- pkg:maven/com.onfleet/driver@0.11.1?classifier=sources

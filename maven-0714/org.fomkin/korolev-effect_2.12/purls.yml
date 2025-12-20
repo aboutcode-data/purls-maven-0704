@@ -79,4 +79,6 @@
 - pkg:maven/org.fomkin/korolev-effect_2.12@1.6.0-M7.2?classifier=sources
 - pkg:maven/org.fomkin/korolev-effect_2.12@1.6.0-M7?classifier=sources
 - pkg:maven/org.fomkin/korolev-effect_2.12@1.6.0-M8
+- pkg:maven/org.fomkin/korolev-effect_2.12@1.6.0-M8-8-g20abb89
+- pkg:maven/org.fomkin/korolev-effect_2.12@1.6.0-M8-8-g20abb89?classifier=sources
 - pkg:maven/org.fomkin/korolev-effect_2.12@1.6.0-M8?classifier=sources

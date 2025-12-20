@@ -18,3 +18,4 @@
 - pkg:maven/de.mnl.osgi/de.mnl.osgi.slf4j2osgi@2.1.6?classifier=sources
 - pkg:maven/de.mnl.osgi/de.mnl.osgi.slf4j2osgi@2.1.7?classifier=sources
 - pkg:maven/de.mnl.osgi/de.mnl.osgi.slf4j2osgi@2.2.0?classifier=sources
+- pkg:maven/de.mnl.osgi/de.mnl.osgi.slf4j2osgi@2.2.1?classifier=sources

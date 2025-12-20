@@ -30,3 +30,7 @@
 - pkg:maven/org.openprovenance.prov/roundtrip@0.9.8
 - pkg:maven/org.openprovenance.prov/roundtrip@0.9.9
 - pkg:maven/org.openprovenance.prov/roundtrip@1.0.0
+- pkg:maven/org.openprovenance.prov/roundtrip@2.0.0
+- pkg:maven/org.openprovenance.prov/roundtrip@2.0.1
+- pkg:maven/org.openprovenance.prov/roundtrip@2.0.2
+- pkg:maven/org.openprovenance.prov/roundtrip@2.0.3

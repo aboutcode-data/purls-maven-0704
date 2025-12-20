@@ -466,6 +466,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch7.impl@4.0.42?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch7.impl@4.0.43
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch7.impl@4.0.43?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch7.impl@4.0.44?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch7.impl@4.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch7.impl@4.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch7.impl@4.0.5
@@ -668,6 +669,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch7.impl@5.0.64?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch7.impl@5.0.65?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch7.impl@5.0.66?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch7.impl@5.0.67?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch7.impl@5.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch7.impl@5.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch7.impl@5.0.7
@@ -953,5 +955,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch7.impl@6.0.91?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch7.impl@6.0.92?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch7.impl@6.0.93?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch7.impl@6.0.94?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch7.impl@6.0.95?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch7.impl@6.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch7.impl@6.0.9?classifier=sources-commercial
