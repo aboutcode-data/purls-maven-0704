@@ -36,3 +36,5 @@
 - pkg:maven/com.gitee.anwena/mongo-plus-boot-starter@2.0.7.3
 - pkg:maven/com.gitee.anwena/mongo-plus-boot-starter@2.0.7.3?classifier=sources
 - pkg:maven/com.gitee.anwena/mongo-plus-boot-starter@2.0.7?classifier=sources
+- pkg:maven/com.gitee.anwena/mongo-plus-boot-starter@2.0.8-BETA
+- pkg:maven/com.gitee.anwena/mongo-plus-boot-starter@2.0.8-BETA?classifier=sources

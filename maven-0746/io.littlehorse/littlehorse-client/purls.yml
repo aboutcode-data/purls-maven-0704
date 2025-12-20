@@ -12,3 +12,4 @@
 - pkg:maven/io.littlehorse/littlehorse-client@0.7.0-alpha.3?classifier=sources
 - pkg:maven/io.littlehorse/littlehorse-client@0.7.0-alpha.4?classifier=sources
 - pkg:maven/io.littlehorse/littlehorse-client@0.7.0?classifier=sources
+- pkg:maven/io.littlehorse/littlehorse-client@0.7.1?classifier=sources

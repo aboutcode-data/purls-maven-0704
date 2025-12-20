@@ -1,0 +1,2 @@
+- pkg:maven/dev.ikm.jpms/jsr305@3.0.2-r1
+- pkg:maven/dev.ikm.jpms/jsr305@3.0.2-r1?classifier=sources

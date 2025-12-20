@@ -1016,3 +1016,5 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-iotcloud@3.1.893?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-iotcloud@3.1.894
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-iotcloud@3.1.894?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-iotcloud@3.1.961
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-iotcloud@3.1.961?classifier=sources

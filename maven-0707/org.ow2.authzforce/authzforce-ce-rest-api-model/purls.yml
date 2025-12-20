@@ -24,3 +24,5 @@
 - pkg:maven/org.ow2.authzforce/authzforce-ce-rest-api-model@5.7.0?classifier=sources
 - pkg:maven/org.ow2.authzforce/authzforce-ce-rest-api-model@6.0.0
 - pkg:maven/org.ow2.authzforce/authzforce-ce-rest-api-model@6.0.0?classifier=sources
+- pkg:maven/org.ow2.authzforce/authzforce-ce-rest-api-model@7.0.0
+- pkg:maven/org.ow2.authzforce/authzforce-ce-rest-api-model@7.0.0?classifier=sources

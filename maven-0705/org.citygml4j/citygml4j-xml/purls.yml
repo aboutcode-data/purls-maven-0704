@@ -2,3 +2,4 @@
 - pkg:maven/org.citygml4j/citygml4j-xml@3.0.0-rc.5?classifier=sources
 - pkg:maven/org.citygml4j/citygml4j-xml@3.0.0?classifier=sources
 - pkg:maven/org.citygml4j/citygml4j-xml@3.1.0?classifier=sources
+- pkg:maven/org.citygml4j/citygml4j-xml@3.2.0?classifier=sources

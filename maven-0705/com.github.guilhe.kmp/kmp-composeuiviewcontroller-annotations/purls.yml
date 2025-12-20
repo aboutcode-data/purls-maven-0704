@@ -3,3 +3,8 @@
 - pkg:maven/com.github.guilhe.kmp/kmp-composeuiviewcontroller-annotations@1.1.0-ALPHA?classifier=sources
 - pkg:maven/com.github.guilhe.kmp/kmp-composeuiviewcontroller-annotations@1.2.0-ALPHA?classifier=sources
 - pkg:maven/com.github.guilhe.kmp/kmp-composeuiviewcontroller-annotations@1.3.0-ALPHA?classifier=sources
+- pkg:maven/com.github.guilhe.kmp/kmp-composeuiviewcontroller-annotations@1.4.0-ALPHA?classifier=sources
+- pkg:maven/com.github.guilhe.kmp/kmp-composeuiviewcontroller-annotations@1.4.1-ALPHA?classifier=sources
+- pkg:maven/com.github.guilhe.kmp/kmp-composeuiviewcontroller-annotations@1.4.2-ALPHA?classifier=sources
+- pkg:maven/com.github.guilhe.kmp/kmp-composeuiviewcontroller-annotations@1.4.3-ALPHA?classifier=sources
+- pkg:maven/com.github.guilhe.kmp/kmp-composeuiviewcontroller-annotations@1.4.4-ALPHA?classifier=sources

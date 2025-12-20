@@ -1,0 +1,4 @@
+- pkg:maven/systems.dennis/sd-shared-web-personal-settings@1.0
+- pkg:maven/systems.dennis/sd-shared-web-personal-settings@1.0.1
+- pkg:maven/systems.dennis/sd-shared-web-personal-settings@1.0.1?classifier=sources
+- pkg:maven/systems.dennis/sd-shared-web-personal-settings@1.0?classifier=sources

@@ -44,3 +44,5 @@
 - pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-codegen_2.13@0.6.0-test8
 - pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-codegen_2.13@0.6.0-test8?classifier=sources
 - pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-codegen_2.13@0.6.0?classifier=sources
+- pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-codegen_2.13@0.6.1
+- pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-codegen_2.13@0.6.1?classifier=sources

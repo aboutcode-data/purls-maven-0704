@@ -12,3 +12,5 @@
 - pkg:maven/io.quarkiverse.renarde/quarkus-renarde-docs@3.0.5
 - pkg:maven/io.quarkiverse.renarde/quarkus-renarde-docs@3.0.6
 - pkg:maven/io.quarkiverse.renarde/quarkus-renarde-docs@3.0.7
+- pkg:maven/io.quarkiverse.renarde/quarkus-renarde-docs@3.0.8
+- pkg:maven/io.quarkiverse.renarde/quarkus-renarde-docs@3.0.9

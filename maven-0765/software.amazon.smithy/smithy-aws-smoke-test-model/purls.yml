@@ -1,0 +1,2 @@
+- pkg:maven/software.amazon.smithy/smithy-aws-smoke-test-model@1.44.0?classifier=sources
+- pkg:maven/software.amazon.smithy/smithy-aws-smoke-test-model@1.45.0?classifier=sources

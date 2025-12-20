@@ -15,6 +15,8 @@
 - pkg:maven/org.dominokit/domino-ui-webjar@1.0.0-RC4
 - pkg:maven/org.dominokit/domino-ui-webjar@1.0.0-RC5
 - pkg:maven/org.dominokit/domino-ui-webjar@1.0.0-RC6
+- pkg:maven/org.dominokit/domino-ui-webjar@1.0.0-RC6.1
+- pkg:maven/org.dominokit/domino-ui-webjar@1.0.0-RC6.2
 - pkg:maven/org.dominokit/domino-ui-webjar@1.0.0-RC7
 - pkg:maven/org.dominokit/domino-ui-webjar@1.0.0-RC8
 - pkg:maven/org.dominokit/domino-ui-webjar@1.0.0-RC9
@@ -24,6 +26,7 @@
 - pkg:maven/org.dominokit/domino-ui-webjar@1.0.4
 - pkg:maven/org.dominokit/domino-ui-webjar@1.0.5
 - pkg:maven/org.dominokit/domino-ui-webjar@1.0.6
+- pkg:maven/org.dominokit/domino-ui-webjar@2.0.0
 - pkg:maven/org.dominokit/domino-ui-webjar@2.0.0-RC1
 - pkg:maven/org.dominokit/domino-ui-webjar@2.0.0-RC2
 - pkg:maven/org.dominokit/domino-ui-webjar@2.0.0-RC3

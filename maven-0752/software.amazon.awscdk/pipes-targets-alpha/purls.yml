@@ -1,0 +1,6 @@
+- pkg:maven/software.amazon.awscdk/pipes-targets-alpha@2.128.0-alpha.0
+- pkg:maven/software.amazon.awscdk/pipes-targets-alpha@2.128.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/pipes-targets-alpha@2.129.0-alpha.0
+- pkg:maven/software.amazon.awscdk/pipes-targets-alpha@2.129.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/pipes-targets-alpha@2.130.0-alpha.0
+- pkg:maven/software.amazon.awscdk/pipes-targets-alpha@2.130.0-alpha.0?classifier=sources

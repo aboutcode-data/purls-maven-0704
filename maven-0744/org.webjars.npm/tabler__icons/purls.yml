@@ -26,3 +26,5 @@
 - pkg:maven/org.webjars.npm/tabler__icons@2.40.0?classifier=sources
 - pkg:maven/org.webjars.npm/tabler__icons@2.42.0
 - pkg:maven/org.webjars.npm/tabler__icons@2.42.0?classifier=sources
+- pkg:maven/org.webjars.npm/tabler__icons@2.47.0
+- pkg:maven/org.webjars.npm/tabler__icons@2.47.0?classifier=sources

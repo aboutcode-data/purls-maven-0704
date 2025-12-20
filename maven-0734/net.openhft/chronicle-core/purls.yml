@@ -906,3 +906,5 @@
 - pkg:maven/net.openhft/chronicle-core@2.25ea3?classifier=sources
 - pkg:maven/net.openhft/chronicle-core@2.25ea4
 - pkg:maven/net.openhft/chronicle-core@2.25ea4?classifier=sources
+- pkg:maven/net.openhft/chronicle-core@2.25ea7
+- pkg:maven/net.openhft/chronicle-core@2.25ea7?classifier=sources

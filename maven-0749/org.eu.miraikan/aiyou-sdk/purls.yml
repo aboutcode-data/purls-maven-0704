@@ -1,0 +1,2 @@
+- pkg:maven/org.eu.miraikan/aiyou-sdk@0.20
+- pkg:maven/org.eu.miraikan/aiyou-sdk@0.20?classifier=sources

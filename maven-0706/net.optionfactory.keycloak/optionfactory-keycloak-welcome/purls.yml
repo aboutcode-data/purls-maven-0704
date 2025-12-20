@@ -80,3 +80,5 @@
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-welcome@4.6?classifier=sources
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-welcome@5.0
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-welcome@5.0?classifier=sources
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-welcome@5.1
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-welcome@5.1?classifier=sources

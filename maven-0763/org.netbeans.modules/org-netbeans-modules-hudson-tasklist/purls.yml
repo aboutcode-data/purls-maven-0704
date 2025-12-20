@@ -20,4 +20,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-tasklist@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-tasklist@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-tasklist@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-tasklist@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-tasklist@RELEASE90?classifier=sources

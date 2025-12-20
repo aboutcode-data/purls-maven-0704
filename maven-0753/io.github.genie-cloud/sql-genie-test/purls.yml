@@ -1,3 +1,5 @@
 - pkg:maven/io.github.genie-cloud/sql-genie-test@0.0.1
 - pkg:maven/io.github.genie-cloud/sql-genie-test@0.0.1-jdk8
 - pkg:maven/io.github.genie-cloud/sql-genie-test@0.0.2-jdk8
+- pkg:maven/io.github.genie-cloud/sql-genie-test@1.0.0
+- pkg:maven/io.github.genie-cloud/sql-genie-test@1.0.0-jdk8

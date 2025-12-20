@@ -5,6 +5,12 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/static-html-reporter@11.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/static-html-reporter@12.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/static-html-reporter@13.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/static-html-reporter@14.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/static-html-reporter@15.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/static-html-reporter@15.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/static-html-reporter@15.2.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/static-html-reporter@15.3.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/static-html-reporter@16.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/static-html-reporter@2.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/static-html-reporter@3.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/static-html-reporter@4.0.0?classifier=sources

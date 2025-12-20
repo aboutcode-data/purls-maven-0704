@@ -1,1 +1,2 @@
 - pkg:maven/com.facebook.litho/litho-rendercore-text@0.48.0?classifier=sources
+- pkg:maven/com.facebook.litho/litho-rendercore-text@0.49.0?classifier=sources

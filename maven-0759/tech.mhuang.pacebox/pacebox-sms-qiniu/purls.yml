@@ -10,3 +10,5 @@
 - pkg:maven/tech.mhuang.pacebox/pacebox-sms-qiniu@1.0.3-jdk17?classifier=sources
 - pkg:maven/tech.mhuang.pacebox/pacebox-sms-qiniu@1.0.5-jdk17
 - pkg:maven/tech.mhuang.pacebox/pacebox-sms-qiniu@1.0.5-jdk17?classifier=sources
+- pkg:maven/tech.mhuang.pacebox/pacebox-sms-qiniu@1.0.5-jdk21
+- pkg:maven/tech.mhuang.pacebox/pacebox-sms-qiniu@1.0.5-jdk21?classifier=sources

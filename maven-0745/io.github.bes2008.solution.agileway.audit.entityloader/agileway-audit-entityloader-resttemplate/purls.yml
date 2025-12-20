@@ -1,0 +1,2 @@
+- pkg:maven/io.github.bes2008.solution.agileway.audit.entityloader/agileway-audit-entityloader-resttemplate@4.4.0
+- pkg:maven/io.github.bes2008.solution.agileway.audit.entityloader/agileway-audit-entityloader-resttemplate@4.4.0?classifier=sources

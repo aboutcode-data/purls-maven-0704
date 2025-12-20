@@ -34,3 +34,7 @@
 - pkg:maven/com.hashicorp/cdktf-provider-nomad@8.0.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-nomad@8.1.0
 - pkg:maven/com.hashicorp/cdktf-provider-nomad@8.1.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-nomad@9.0.0
+- pkg:maven/com.hashicorp/cdktf-provider-nomad@9.0.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-nomad@9.0.1
+- pkg:maven/com.hashicorp/cdktf-provider-nomad@9.0.1?classifier=sources

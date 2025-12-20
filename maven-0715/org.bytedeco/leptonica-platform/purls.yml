@@ -18,3 +18,5 @@
 - pkg:maven/org.bytedeco/leptonica-platform@1.82.0-1.5.8?classifier=sources
 - pkg:maven/org.bytedeco/leptonica-platform@1.83.0-1.5.9
 - pkg:maven/org.bytedeco/leptonica-platform@1.83.0-1.5.9?classifier=sources
+- pkg:maven/org.bytedeco/leptonica-platform@1.84.1-1.5.10
+- pkg:maven/org.bytedeco/leptonica-platform@1.84.1-1.5.10?classifier=sources

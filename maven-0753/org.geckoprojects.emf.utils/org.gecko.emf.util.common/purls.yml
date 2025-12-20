@@ -1,2 +1,4 @@
 - pkg:maven/org.geckoprojects.emf.utils/org.gecko.emf.util.common@1.0.0.202401231458
 - pkg:maven/org.geckoprojects.emf.utils/org.gecko.emf.util.common@1.0.0.202401231458?classifier=sources
+- pkg:maven/org.geckoprojects.emf.utils/org.gecko.emf.util.common@1.0.0.202402061826
+- pkg:maven/org.geckoprojects.emf.utils/org.gecko.emf.util.common@1.0.0.202402061826?classifier=sources

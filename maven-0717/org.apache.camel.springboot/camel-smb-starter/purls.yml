@@ -1,5 +1,7 @@
 - pkg:maven/org.apache.camel.springboot/camel-smb-starter@3.22.0
 - pkg:maven/org.apache.camel.springboot/camel-smb-starter@3.22.0?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-smb-starter@3.22.1
+- pkg:maven/org.apache.camel.springboot/camel-smb-starter@3.22.1?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-smb-starter@4.2.0
 - pkg:maven/org.apache.camel.springboot/camel-smb-starter@4.2.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-smb-starter@4.3.0

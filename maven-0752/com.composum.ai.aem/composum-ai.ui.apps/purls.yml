@@ -3,3 +3,5 @@
 - pkg:maven/com.composum.ai.aem/composum-ai.ui.apps@0.5.2?classifier=sources
 - pkg:maven/com.composum.ai.aem/composum-ai.ui.apps@0.5.3?classifier=sources
 - pkg:maven/com.composum.ai.aem/composum-ai.ui.apps@0.6.0?classifier=sources
+- pkg:maven/com.composum.ai.aem/composum-ai.ui.apps@0.7.0?classifier=sources
+- pkg:maven/com.composum.ai.aem/composum-ai.ui.apps@0.7.1?classifier=sources

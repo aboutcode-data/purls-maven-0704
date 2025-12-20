@@ -63,6 +63,7 @@
 - pkg:maven/io.getstream/stream-chat-android-compose@5.17.19?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-compose@5.17.1?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-compose@5.17.20?classifier=sources
+- pkg:maven/io.getstream/stream-chat-android-compose@5.17.21?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-compose@5.17.2?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-compose@5.17.3?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-compose@5.17.4?classifier=sources
@@ -91,6 +92,8 @@
 - pkg:maven/io.getstream/stream-chat-android-compose@6.0.0?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-compose@6.0.10?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-compose@6.0.11?classifier=sources
+- pkg:maven/io.getstream/stream-chat-android-compose@6.0.12?classifier=sources
+- pkg:maven/io.getstream/stream-chat-android-compose@6.0.13?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-compose@6.0.1?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-compose@6.0.2?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-compose@6.0.3?classifier=sources

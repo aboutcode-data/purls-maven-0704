@@ -30,3 +30,5 @@
 - pkg:maven/org.webjars.npm/babel__helper-replace-supers@7.8.6?classifier=sources
 - pkg:maven/org.webjars.npm/babel__helper-replace-supers@7.9.6
 - pkg:maven/org.webjars.npm/babel__helper-replace-supers@7.9.6?classifier=sources
+- pkg:maven/org.webjars.npm/babel__helper-replace-supers@8.0.0-alpha.6
+- pkg:maven/org.webjars.npm/babel__helper-replace-supers@8.0.0-alpha.6?classifier=sources

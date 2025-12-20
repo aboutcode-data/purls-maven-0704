@@ -42,3 +42,4 @@
 - pkg:maven/com.paypal.checkout/android-sdk@1.0.0?classifier=sources
 - pkg:maven/com.paypal.checkout/android-sdk@1.1.0?classifier=sources
 - pkg:maven/com.paypal.checkout/android-sdk@1.2.0?classifier=sources
+- pkg:maven/com.paypal.checkout/android-sdk@1.2.1?classifier=sources

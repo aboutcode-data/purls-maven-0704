@@ -20,3 +20,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-refactoring@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-refactoring@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-refactoring@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-refactoring@RELEASE210?classifier=sources

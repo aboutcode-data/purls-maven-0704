@@ -86,3 +86,5 @@
 - pkg:maven/com.influxdb/influxdb-spring@6.8.0?classifier=sources
 - pkg:maven/com.influxdb/influxdb-spring@6.9.0
 - pkg:maven/com.influxdb/influxdb-spring@6.9.0?classifier=sources
+- pkg:maven/com.influxdb/influxdb-spring@7.0.0
+- pkg:maven/com.influxdb/influxdb-spring@7.0.0?classifier=sources

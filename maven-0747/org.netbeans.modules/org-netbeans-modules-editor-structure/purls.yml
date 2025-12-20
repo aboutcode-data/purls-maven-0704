@@ -20,4 +20,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-structure@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-structure@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-structure@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-structure@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-structure@RELEASE90?classifier=sources

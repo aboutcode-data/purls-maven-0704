@@ -4,3 +4,12 @@
 - pkg:maven/com.lotsofpixelsstudios/monstera@0.2.2?classifier=sources
 - pkg:maven/com.lotsofpixelsstudios/monstera@0.2.3?classifier=sources
 - pkg:maven/com.lotsofpixelsstudios/monstera@0.2.4?classifier=sources
+- pkg:maven/com.lotsofpixelsstudios/monstera@0.3.1-SNAPSHOT5?classifier=sources
+- pkg:maven/com.lotsofpixelsstudios/monstera@0.3.1-SNAPSHOT6?classifier=sources
+- pkg:maven/com.lotsofpixelsstudios/monstera@0.3.1-SNAPSHOT7?classifier=sources
+- pkg:maven/com.lotsofpixelsstudios/monstera@0.3.1?classifier=sources
+- pkg:maven/com.lotsofpixelsstudios/monstera@0.3.2-SNAPSHOT1?classifier=sources
+- pkg:maven/com.lotsofpixelsstudios/monstera@0.3.2-SNAPSHOT2?classifier=sources
+- pkg:maven/com.lotsofpixelsstudios/monstera@0.3.2-SNAPSHOT3?classifier=sources
+- pkg:maven/com.lotsofpixelsstudios/monstera@0.3.2-SNAPSHOT4?classifier=sources
+- pkg:maven/com.lotsofpixelsstudios/monstera@0.3.2-SNAPSHOT5?classifier=sources

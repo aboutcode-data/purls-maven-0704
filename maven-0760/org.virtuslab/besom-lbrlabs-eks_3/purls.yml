@@ -1,0 +1,2 @@
+- pkg:maven/org.virtuslab/besom-lbrlabs-eks_3@0.10.0-core.0.2
+- pkg:maven/org.virtuslab/besom-lbrlabs-eks_3@0.10.0-core.0.2?classifier=sources

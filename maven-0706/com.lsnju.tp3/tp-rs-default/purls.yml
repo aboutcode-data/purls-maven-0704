@@ -1,0 +1,2 @@
+- pkg:maven/com.lsnju.tp3/tp-rs-default@3.1.1
+- pkg:maven/com.lsnju.tp3/tp-rs-default@3.1.1?classifier=sources

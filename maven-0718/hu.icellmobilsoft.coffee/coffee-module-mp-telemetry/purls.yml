@@ -1,0 +1,2 @@
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-module-mp-telemetry@2.5.0
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-module-mp-telemetry@2.5.0?classifier=sources

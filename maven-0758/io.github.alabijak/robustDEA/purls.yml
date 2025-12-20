@@ -1,0 +1,4 @@
+- pkg:maven/io.github.alabijak/robustDEA@1.0-snaphsot
+- pkg:maven/io.github.alabijak/robustDEA@1.0-snaphsot?classifier=sources
+- pkg:maven/io.github.alabijak/robustDEA@1.0.0
+- pkg:maven/io.github.alabijak/robustDEA@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.lightbend.paradox/sbt-paradox-lightbend-project-info_2.12_1.0@3.0.1
+- pkg:maven/com.lightbend.paradox/sbt-paradox-lightbend-project-info_2.12_1.0@3.0.1?classifier=sources

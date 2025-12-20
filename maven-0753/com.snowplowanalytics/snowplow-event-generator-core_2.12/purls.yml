@@ -66,3 +66,7 @@
 - pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.7.0-rc1
 - pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.7.0-rc1?classifier=sources
 - pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.7.0?classifier=sources
+- pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.8.0-rc1
+- pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.8.0-rc1?classifier=sources
+- pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.8.0-rc2
+- pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.8.0-rc2?classifier=sources

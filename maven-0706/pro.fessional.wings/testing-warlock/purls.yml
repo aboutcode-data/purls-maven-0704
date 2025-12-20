@@ -1,0 +1,2 @@
+- pkg:maven/pro.fessional.wings/testing-warlock@3.2.101
+- pkg:maven/pro.fessional.wings/testing-warlock@3.2.101?classifier=sources

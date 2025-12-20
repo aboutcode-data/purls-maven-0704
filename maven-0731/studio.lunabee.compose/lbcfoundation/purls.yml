@@ -1,1 +1,2 @@
 - pkg:maven/studio.lunabee.compose/lbcfoundation@1.0.0?classifier=sources
+- pkg:maven/studio.lunabee.compose/lbcfoundation@1.1.0?classifier=sources

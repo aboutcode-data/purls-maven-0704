@@ -24,3 +24,7 @@
 - pkg:maven/ai.promoted/deliveryclient@2.3.0?classifier=sources
 - pkg:maven/ai.promoted/deliveryclient@2.4.0
 - pkg:maven/ai.promoted/deliveryclient@2.4.0?classifier=sources
+- pkg:maven/ai.promoted/deliveryclient@3.0.0
+- pkg:maven/ai.promoted/deliveryclient@3.0.0?classifier=sources
+- pkg:maven/ai.promoted/deliveryclient@3.1.0
+- pkg:maven/ai.promoted/deliveryclient@3.1.0?classifier=sources

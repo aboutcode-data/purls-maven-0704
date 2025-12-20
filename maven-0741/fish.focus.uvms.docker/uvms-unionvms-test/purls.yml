@@ -10,6 +10,8 @@
 - pkg:maven/fish.focus.uvms.docker/uvms-unionvms-test@4.2.23
 - pkg:maven/fish.focus.uvms.docker/uvms-unionvms-test@4.2.24
 - pkg:maven/fish.focus.uvms.docker/uvms-unionvms-test@4.2.25
+- pkg:maven/fish.focus.uvms.docker/uvms-unionvms-test@4.2.26
+- pkg:maven/fish.focus.uvms.docker/uvms-unionvms-test@4.2.27
 - pkg:maven/fish.focus.uvms.docker/uvms-unionvms-test@4.2.3
 - pkg:maven/fish.focus.uvms.docker/uvms-unionvms-test@4.2.5
 - pkg:maven/fish.focus.uvms.docker/uvms-unionvms-test@4.2.6

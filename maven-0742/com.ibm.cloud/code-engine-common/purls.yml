@@ -8,5 +8,7 @@
 - pkg:maven/com.ibm.cloud/code-engine-common@3.1.0?classifier=sources
 - pkg:maven/com.ibm.cloud/code-engine-common@4.0.0
 - pkg:maven/com.ibm.cloud/code-engine-common@4.0.0?classifier=sources
+- pkg:maven/com.ibm.cloud/code-engine-common@4.2.0
+- pkg:maven/com.ibm.cloud/code-engine-common@4.2.0?classifier=sources
 - pkg:maven/com.ibm.cloud/code-engine-common@v2.0.3
 - pkg:maven/com.ibm.cloud/code-engine-common@v2.0.3?classifier=sources

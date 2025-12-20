@@ -12,3 +12,11 @@
 - pkg:maven/com.google.apis/google-api-services-sasportal@v1alpha1-rev20231001-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-sasportal@v1alpha1-rev20231109-2.0.0
 - pkg:maven/com.google.apis/google-api-services-sasportal@v1alpha1-rev20231109-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-sasportal@v1alpha1-rev20231220-2.0.0
+- pkg:maven/com.google.apis/google-api-services-sasportal@v1alpha1-rev20231220-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-sasportal@v1alpha1-rev20240109-2.0.0
+- pkg:maven/com.google.apis/google-api-services-sasportal@v1alpha1-rev20240109-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-sasportal@v1alpha1-rev20240110-2.0.0
+- pkg:maven/com.google.apis/google-api-services-sasportal@v1alpha1-rev20240110-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-sasportal@v1alpha1-rev20240201-2.0.0
+- pkg:maven/com.google.apis/google-api-services-sasportal@v1alpha1-rev20240201-2.0.0?classifier=sources

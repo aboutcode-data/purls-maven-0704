@@ -102,3 +102,5 @@
 - pkg:maven/com.vwkit/matrix-boot-starter-orm-jpa@2.0.0?classifier=sources
 - pkg:maven/com.vwkit/matrix-boot-starter-orm-jpa@2.0.1
 - pkg:maven/com.vwkit/matrix-boot-starter-orm-jpa@2.0.1?classifier=sources
+- pkg:maven/com.vwkit/matrix-boot-starter-orm-jpa@2.0.2
+- pkg:maven/com.vwkit/matrix-boot-starter-orm-jpa@2.0.2?classifier=sources

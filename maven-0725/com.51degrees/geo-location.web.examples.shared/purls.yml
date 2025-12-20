@@ -32,3 +32,9 @@
 - pkg:maven/com.51degrees/geo-location.web.examples.shared@4.4.23?classifier=sources
 - pkg:maven/com.51degrees/geo-location.web.examples.shared@4.4.25
 - pkg:maven/com.51degrees/geo-location.web.examples.shared@4.4.25?classifier=sources
+- pkg:maven/com.51degrees/geo-location.web.examples.shared@4.4.26
+- pkg:maven/com.51degrees/geo-location.web.examples.shared@4.4.26?classifier=sources
+- pkg:maven/com.51degrees/geo-location.web.examples.shared@4.4.27
+- pkg:maven/com.51degrees/geo-location.web.examples.shared@4.4.27?classifier=sources
+- pkg:maven/com.51degrees/geo-location.web.examples.shared@4.4.28
+- pkg:maven/com.51degrees/geo-location.web.examples.shared@4.4.28?classifier=sources

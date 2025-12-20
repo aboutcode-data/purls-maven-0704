@@ -15,3 +15,5 @@
 - pkg:maven/com.google.accompanist/accompanist-themeadapter-material@0.33.0-alpha?classifier=sources
 - pkg:maven/com.google.accompanist/accompanist-themeadapter-material@0.33.1-alpha?classifier=sources
 - pkg:maven/com.google.accompanist/accompanist-themeadapter-material@0.33.2-alpha?classifier=sources
+- pkg:maven/com.google.accompanist/accompanist-themeadapter-material@0.34.0?classifier=sources
+- pkg:maven/com.google.accompanist/accompanist-themeadapter-material@0.35.0-alpha?classifier=sources

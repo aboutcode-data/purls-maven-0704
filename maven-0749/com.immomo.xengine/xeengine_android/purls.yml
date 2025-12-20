@@ -244,3 +244,13 @@
 - pkg:maven/com.immomo.xengine/xeengine_android@5.0.3.20230915.1451?type=aar
 - pkg:maven/com.immomo.xengine/xeengine_android@5.0.3.20231201.1446?classifier=sources
 - pkg:maven/com.immomo.xengine/xeengine_android@5.0.3.20231201.1446?type=aar
+- pkg:maven/com.immomo.xengine/xeengine_android@5.0.3.20240117.1535?classifier=sources
+- pkg:maven/com.immomo.xengine/xeengine_android@5.0.3.20240117.1535?type=aar
+- pkg:maven/com.immomo.xengine/xeengine_android@5.0.3.20240123.1821?classifier=sources
+- pkg:maven/com.immomo.xengine/xeengine_android@5.0.3.20240123.1821?type=aar
+- pkg:maven/com.immomo.xengine/xeengine_android@5.0.3.20240124.1139?classifier=sources
+- pkg:maven/com.immomo.xengine/xeengine_android@5.0.3.20240124.1139?type=aar
+- pkg:maven/com.immomo.xengine/xeengine_android@5.0.3.20240124.1742?classifier=sources
+- pkg:maven/com.immomo.xengine/xeengine_android@5.0.3.20240124.1742?type=aar
+- pkg:maven/com.immomo.xengine/xeengine_android@5.0.3.20240129.1718?classifier=sources
+- pkg:maven/com.immomo.xengine/xeengine_android@5.0.3.20240129.1718?type=aar

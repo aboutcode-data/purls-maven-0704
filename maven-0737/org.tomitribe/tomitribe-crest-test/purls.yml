@@ -30,3 +30,13 @@
 - pkg:maven/org.tomitribe/tomitribe-crest-test@0.26?classifier=sources
 - pkg:maven/org.tomitribe/tomitribe-crest-test@0.27
 - pkg:maven/org.tomitribe/tomitribe-crest-test@0.27?classifier=sources
+- pkg:maven/org.tomitribe/tomitribe-crest-test@0.28
+- pkg:maven/org.tomitribe/tomitribe-crest-test@0.28?classifier=sources
+- pkg:maven/org.tomitribe/tomitribe-crest-test@0.29
+- pkg:maven/org.tomitribe/tomitribe-crest-test@0.29?classifier=sources
+- pkg:maven/org.tomitribe/tomitribe-crest-test@0.30
+- pkg:maven/org.tomitribe/tomitribe-crest-test@0.30?classifier=sources
+- pkg:maven/org.tomitribe/tomitribe-crest-test@0.31
+- pkg:maven/org.tomitribe/tomitribe-crest-test@0.31?classifier=sources
+- pkg:maven/org.tomitribe/tomitribe-crest-test@0.32
+- pkg:maven/org.tomitribe/tomitribe-crest-test@0.32?classifier=sources

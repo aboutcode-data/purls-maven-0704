@@ -51,6 +51,10 @@
 - pkg:maven/de.sciss/mellite-app_2.13@3.13.10?classifier=sources
 - pkg:maven/de.sciss/mellite-app_2.13@3.13.11
 - pkg:maven/de.sciss/mellite-app_2.13@3.13.11?classifier=sources
+- pkg:maven/de.sciss/mellite-app_2.13@3.13.12
+- pkg:maven/de.sciss/mellite-app_2.13@3.13.12?classifier=sources
+- pkg:maven/de.sciss/mellite-app_2.13@3.13.13
+- pkg:maven/de.sciss/mellite-app_2.13@3.13.13?classifier=sources
 - pkg:maven/de.sciss/mellite-app_2.13@3.13.1?classifier=sources
 - pkg:maven/de.sciss/mellite-app_2.13@3.13.2
 - pkg:maven/de.sciss/mellite-app_2.13@3.13.2?classifier=sources

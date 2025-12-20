@@ -2085,6 +2085,8 @@
 - pkg:maven/org.wso2.identity.apps/identity-apps@1.6.34?classifier=source-release&type=zip
 - pkg:maven/org.wso2.identity.apps/identity-apps@1.6.35?classifier=source-release&type=zip
 - pkg:maven/org.wso2.identity.apps/identity-apps@1.6.36?classifier=source-release&type=zip
+- pkg:maven/org.wso2.identity.apps/identity-apps@1.6.374?classifier=source-release&type=zip
+- pkg:maven/org.wso2.identity.apps/identity-apps@1.6.375?classifier=source-release&type=zip
 - pkg:maven/org.wso2.identity.apps/identity-apps@1.6.37?classifier=source-release&type=zip
 - pkg:maven/org.wso2.identity.apps/identity-apps@1.6.38?classifier=source-release&type=zip
 - pkg:maven/org.wso2.identity.apps/identity-apps@1.6.39?classifier=source-release&type=zip

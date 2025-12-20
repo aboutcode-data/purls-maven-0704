@@ -1018,3 +1018,9 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cloudaudit@3.1.894?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cloudaudit@3.1.896
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cloudaudit@3.1.896?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cloudaudit@3.1.946
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cloudaudit@3.1.946?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cloudaudit@3.1.948
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cloudaudit@3.1.948?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cloudaudit@3.1.951
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cloudaudit@3.1.951?classifier=sources

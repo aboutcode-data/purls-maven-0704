@@ -10,3 +10,4 @@
 - pkg:maven/io.github.hoc081098/FlowExt-js@0.7.2?classifier=sources
 - pkg:maven/io.github.hoc081098/FlowExt-js@0.7.3?classifier=sources
 - pkg:maven/io.github.hoc081098/FlowExt-js@0.7.4?classifier=sources
+- pkg:maven/io.github.hoc081098/FlowExt-js@0.7.5?classifier=sources

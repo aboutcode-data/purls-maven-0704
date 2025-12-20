@@ -1,2 +1,6 @@
 - pkg:maven/dev.openfeature.contrib.providers/configcat@0.0.2
 - pkg:maven/dev.openfeature.contrib.providers/configcat@0.0.2?classifier=sources
+- pkg:maven/dev.openfeature.contrib.providers/configcat@0.0.3
+- pkg:maven/dev.openfeature.contrib.providers/configcat@0.0.3?classifier=sources
+- pkg:maven/dev.openfeature.contrib.providers/configcat@0.1.0
+- pkg:maven/dev.openfeature.contrib.providers/configcat@0.1.0?classifier=sources

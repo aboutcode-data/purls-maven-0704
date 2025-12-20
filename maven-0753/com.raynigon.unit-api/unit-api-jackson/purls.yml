@@ -5,3 +5,4 @@
 - pkg:maven/com.raynigon.unit-api/unit-api-jackson@3.0.3?classifier=sources
 - pkg:maven/com.raynigon.unit-api/unit-api-jackson@3.0.4?classifier=sources
 - pkg:maven/com.raynigon.unit-api/unit-api-jackson@3.0.5?classifier=sources
+- pkg:maven/com.raynigon.unit-api/unit-api-jackson@3.0.7?classifier=sources

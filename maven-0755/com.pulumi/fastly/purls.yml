@@ -115,3 +115,12 @@
 - pkg:maven/com.pulumi/fastly@8.5.0-alpha.1704211732%2B6ea213f6?classifier=sources
 - pkg:maven/com.pulumi/fastly@8.5.0-alpha.1704346630%2B45232b32?classifier=sources
 - pkg:maven/com.pulumi/fastly@8.5.0-alpha.1704428541%2Bbad2454b?classifier=sources
+- pkg:maven/com.pulumi/fastly@8.5.0-alpha.1705434664%2B4fcec1b8?classifier=sources
+- pkg:maven/com.pulumi/fastly@8.5.0-alpha.1705989116%2B4bc5133f?classifier=sources
+- pkg:maven/com.pulumi/fastly@8.5.0-alpha.1706307232%2B8255a1a1?classifier=sources
+- pkg:maven/com.pulumi/fastly@8.5.0-alpha.1706746002%2B995592a6?classifier=sources
+- pkg:maven/com.pulumi/fastly@8.5.0-alpha.1706811774%2B3f239b3e?classifier=sources
+- pkg:maven/com.pulumi/fastly@8.5.0-alpha.1706829015%2B63d4ddb8?classifier=sources
+- pkg:maven/com.pulumi/fastly@8.5.0-alpha.1707285555%2B895a3a88?classifier=sources
+- pkg:maven/com.pulumi/fastly@8.5.0-alpha.1707496176%2B23fa0d98?classifier=sources
+- pkg:maven/com.pulumi/fastly@8.5.0-alpha.1707544577%2B921b345f?classifier=sources

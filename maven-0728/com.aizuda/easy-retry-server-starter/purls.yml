@@ -2,3 +2,5 @@
 - pkg:maven/com.aizuda/easy-retry-server-starter@2.4.0?classifier=sources
 - pkg:maven/com.aizuda/easy-retry-server-starter@2.5.0
 - pkg:maven/com.aizuda/easy-retry-server-starter@2.5.0?classifier=sources
+- pkg:maven/com.aizuda/easy-retry-server-starter@2.6.0
+- pkg:maven/com.aizuda/easy-retry-server-starter@2.6.0?classifier=sources

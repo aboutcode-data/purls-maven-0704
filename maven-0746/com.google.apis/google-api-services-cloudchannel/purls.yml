@@ -96,3 +96,7 @@
 - pkg:maven/com.google.apis/google-api-services-cloudchannel@v1-rev20230820-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudchannel@v1-rev20230910-2.0.0
 - pkg:maven/com.google.apis/google-api-services-cloudchannel@v1-rev20230910-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudchannel@v1-rev20231220-2.0.0
+- pkg:maven/com.google.apis/google-api-services-cloudchannel@v1-rev20231220-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudchannel@v1-rev20240109-2.0.0
+- pkg:maven/com.google.apis/google-api-services-cloudchannel@v1-rev20240109-2.0.0?classifier=sources

@@ -16,3 +16,4 @@
 - pkg:maven/org.jobrunr/jobrunr-spring-boot-3-starter@6.3.2?classifier=sources
 - pkg:maven/org.jobrunr/jobrunr-spring-boot-3-starter@6.3.3?classifier=sources
 - pkg:maven/org.jobrunr/jobrunr-spring-boot-3-starter@6.3.4?classifier=sources
+- pkg:maven/org.jobrunr/jobrunr-spring-boot-3-starter@6.3.5?classifier=sources

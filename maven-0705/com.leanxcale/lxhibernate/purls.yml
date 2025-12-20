@@ -1,3 +1,4 @@
 - pkg:maven/com.leanxcale/lxhibernate@2.0.202310241129?classifier=sources
 - pkg:maven/com.leanxcale/lxhibernate@2.0.202311081522?classifier=sources
 - pkg:maven/com.leanxcale/lxhibernate@2.0.202311101655?classifier=sources
+- pkg:maven/com.leanxcale/lxhibernate@2.1.2402091534?classifier=sources

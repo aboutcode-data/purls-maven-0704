@@ -1,0 +1,2 @@
+- pkg:maven/dev.opensavvy.gradle.kotlin.resources/shared@0.1.2?classifier=sources
+- pkg:maven/dev.opensavvy.gradle.kotlin.resources/shared@0.1.3?classifier=sources

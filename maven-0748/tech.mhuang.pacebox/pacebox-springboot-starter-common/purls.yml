@@ -46,3 +46,4 @@
 - pkg:maven/tech.mhuang.pacebox/pacebox-springboot-starter-common@2022.0.2.1
 - pkg:maven/tech.mhuang.pacebox/pacebox-springboot-starter-common@2022.0.3.0
 - pkg:maven/tech.mhuang.pacebox/pacebox-springboot-starter-common@2022.0.4.0
+- pkg:maven/tech.mhuang.pacebox/pacebox-springboot-starter-common@2023.0.0.0

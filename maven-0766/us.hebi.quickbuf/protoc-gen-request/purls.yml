@@ -1,0 +1,2 @@
+- pkg:maven/us.hebi.quickbuf/protoc-gen-request@1.4
+- pkg:maven/us.hebi.quickbuf/protoc-gen-request@1.4?classifier=sources

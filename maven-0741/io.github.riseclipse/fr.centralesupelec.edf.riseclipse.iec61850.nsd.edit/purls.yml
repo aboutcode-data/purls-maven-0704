@@ -7,3 +7,5 @@
 - pkg:maven/io.github.riseclipse/fr.centralesupelec.edf.riseclipse.iec61850.nsd.edit@1.2.6?classifier=sources
 - pkg:maven/io.github.riseclipse/fr.centralesupelec.edf.riseclipse.iec61850.nsd.edit@1.2.7?classifier=sources
 - pkg:maven/io.github.riseclipse/fr.centralesupelec.edf.riseclipse.iec61850.nsd.edit@1.2.8?classifier=sources
+- pkg:maven/io.github.riseclipse/fr.centralesupelec.edf.riseclipse.iec61850.nsd.edit@1.2.9
+- pkg:maven/io.github.riseclipse/fr.centralesupelec.edf.riseclipse.iec61850.nsd.edit@1.2.9?classifier=sources

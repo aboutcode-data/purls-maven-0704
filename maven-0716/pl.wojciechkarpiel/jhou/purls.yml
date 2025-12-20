@@ -1,0 +1,4 @@
+- pkg:maven/pl.wojciechkarpiel/jhou@0.10?classifier=sources
+- pkg:maven/pl.wojciechkarpiel/jhou@0.7?classifier=sources
+- pkg:maven/pl.wojciechkarpiel/jhou@0.8?classifier=sources
+- pkg:maven/pl.wojciechkarpiel/jhou@0.9?classifier=sources

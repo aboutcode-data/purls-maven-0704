@@ -20,3 +20,9 @@
 - pkg:maven/ski.gagar.vxutil/vxutil-verticles@1.0.0-alpha36?classifier=sources
 - pkg:maven/ski.gagar.vxutil/vxutil-verticles@1.0.0-alpha37
 - pkg:maven/ski.gagar.vxutil/vxutil-verticles@1.0.0-alpha37?classifier=sources
+- pkg:maven/ski.gagar.vxutil/vxutil-verticles@1.0.0-alpha38
+- pkg:maven/ski.gagar.vxutil/vxutil-verticles@1.0.0-alpha38?classifier=sources
+- pkg:maven/ski.gagar.vxutil/vxutil-verticles@1.0.0-alpha39
+- pkg:maven/ski.gagar.vxutil/vxutil-verticles@1.0.0-alpha39?classifier=sources
+- pkg:maven/ski.gagar.vxutil/vxutil-verticles@1.0.0-alpha40
+- pkg:maven/ski.gagar.vxutil/vxutil-verticles@1.0.0-alpha40?classifier=sources

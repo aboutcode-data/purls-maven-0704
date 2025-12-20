@@ -1,0 +1,2 @@
+- pkg:maven/io.github.karimagnusson/kuzminki-zio_3@0.9.5-RC2
+- pkg:maven/io.github.karimagnusson/kuzminki-zio_3@0.9.5-RC2?classifier=sources

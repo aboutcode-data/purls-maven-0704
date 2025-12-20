@@ -50,3 +50,4 @@
 - pkg:maven/com.malinskiy.marathon/core@0.8.3?classifier=sources
 - pkg:maven/com.malinskiy.marathon/core@0.8.4?classifier=sources
 - pkg:maven/com.malinskiy.marathon/core@0.9.0?classifier=sources
+- pkg:maven/com.malinskiy.marathon/core@0.9.1?classifier=sources

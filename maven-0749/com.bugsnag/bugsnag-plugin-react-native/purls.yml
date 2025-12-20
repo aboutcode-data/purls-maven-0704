@@ -47,6 +47,7 @@
 - pkg:maven/com.bugsnag/bugsnag-plugin-react-native@5.31.2?classifier=sources
 - pkg:maven/com.bugsnag/bugsnag-plugin-react-native@5.31.3?classifier=sources
 - pkg:maven/com.bugsnag/bugsnag-plugin-react-native@5.32.0?classifier=sources
+- pkg:maven/com.bugsnag/bugsnag-plugin-react-native@5.32.1?classifier=sources
 - pkg:maven/com.bugsnag/bugsnag-plugin-react-native@5.4.0?classifier=sources
 - pkg:maven/com.bugsnag/bugsnag-plugin-react-native@5.5.0?classifier=sources
 - pkg:maven/com.bugsnag/bugsnag-plugin-react-native@5.5.1?classifier=sources
@@ -65,3 +66,4 @@
 - pkg:maven/com.bugsnag/bugsnag-plugin-react-native@5.9.5?classifier=sources
 - pkg:maven/com.bugsnag/bugsnag-plugin-react-native@6.0.0?classifier=sources
 - pkg:maven/com.bugsnag/bugsnag-plugin-react-native@6.1.0?classifier=sources
+- pkg:maven/com.bugsnag/bugsnag-plugin-react-native@6.2.0?classifier=sources

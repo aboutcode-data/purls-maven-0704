@@ -4,6 +4,7 @@
 - pkg:maven/ai.djl.spring/djl-spring-boot-starter-tensorflow-auto@0.19
 - pkg:maven/ai.djl.spring/djl-spring-boot-starter-tensorflow-auto@0.20
 - pkg:maven/ai.djl.spring/djl-spring-boot-starter-tensorflow-auto@0.23
+- pkg:maven/ai.djl.spring/djl-spring-boot-starter-tensorflow-auto@0.26
 - pkg:maven/ai.djl.spring/djl-spring-boot-starter-tensorflow-auto@0.5
 - pkg:maven/ai.djl.spring/djl-spring-boot-starter-tensorflow-auto@0.6
 - pkg:maven/ai.djl.spring/djl-spring-boot-starter-tensorflow-auto@0.7

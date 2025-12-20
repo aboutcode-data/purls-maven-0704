@@ -58,3 +58,4 @@
 - pkg:maven/com.spotify.mobius/mobius-android@1.5.8?type=aar
 - pkg:maven/com.spotify.mobius/mobius-android@1.5.9?classifier=sources
 - pkg:maven/com.spotify.mobius/mobius-android@1.5.9?type=aar
+- pkg:maven/com.spotify.mobius/mobius-android@2.0.0?classifier=sources

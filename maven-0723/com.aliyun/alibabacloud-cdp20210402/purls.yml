@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/alibabacloud-cdp20210402@1.0.0
+- pkg:maven/com.aliyun/alibabacloud-cdp20210402@1.0.0?classifier=sources

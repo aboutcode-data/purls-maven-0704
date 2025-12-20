@@ -1,1 +1,2 @@
 - pkg:maven/ru.rutoken.pkcs11wrapper/pkcs11wrapper@4.0.0?classifier=sources
+- pkg:maven/ru.rutoken.pkcs11wrapper/pkcs11wrapper@4.1.0?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/cool.scx/scx-jdbc-mysql@0.0.1
+- pkg:maven/cool.scx/scx-jdbc-mysql@0.0.1?classifier=sources
+- pkg:maven/cool.scx/scx-jdbc-mysql@0.1.0
+- pkg:maven/cool.scx/scx-jdbc-mysql@0.1.0?classifier=sources
+- pkg:maven/cool.scx/scx-jdbc-mysql@0.1.1
+- pkg:maven/cool.scx/scx-jdbc-mysql@0.1.1?classifier=sources
+- pkg:maven/cool.scx/scx-jdbc-mysql@2.7.0
+- pkg:maven/cool.scx/scx-jdbc-mysql@2.7.0?classifier=sources

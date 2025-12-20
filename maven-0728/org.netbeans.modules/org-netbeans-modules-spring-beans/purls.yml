@@ -20,4 +20,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spring-beans@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spring-beans@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spring-beans@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-spring-beans@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spring-beans@RELEASE90?classifier=sources

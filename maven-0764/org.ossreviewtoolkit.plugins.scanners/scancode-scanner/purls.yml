@@ -5,6 +5,12 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/scancode-scanner@11.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/scancode-scanner@12.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/scancode-scanner@13.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/scancode-scanner@14.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/scancode-scanner@15.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/scancode-scanner@15.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/scancode-scanner@15.2.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/scancode-scanner@15.3.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/scancode-scanner@16.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/scancode-scanner@2.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/scancode-scanner@3.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/scancode-scanner@4.0.0?classifier=sources

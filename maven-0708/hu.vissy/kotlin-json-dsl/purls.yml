@@ -1,0 +1,2 @@
+- pkg:maven/hu.vissy/kotlin-json-dsl@1.0.2?classifier=sources
+- pkg:maven/hu.vissy/kotlin-json-dsl@1.0.3?classifier=sources

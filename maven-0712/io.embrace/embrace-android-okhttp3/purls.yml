@@ -51,3 +51,6 @@
 - pkg:maven/io.embrace/embrace-android-okhttp3@6.0.0?classifier=sources
 - pkg:maven/io.embrace/embrace-android-okhttp3@6.1.0?classifier=sources
 - pkg:maven/io.embrace/embrace-android-okhttp3@6.2.0?classifier=sources
+- pkg:maven/io.embrace/embrace-android-okhttp3@6.2.1?classifier=sources
+- pkg:maven/io.embrace/embrace-android-okhttp3@6.3.0?classifier=sources
+- pkg:maven/io.embrace/embrace-android-okhttp3@6.3.1?classifier=sources
