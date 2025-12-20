@@ -2,3 +2,9 @@
 - pkg:maven/org.ehrbase.openehr/aql-engine@2.0.0?classifier=sources
 - pkg:maven/org.ehrbase.openehr/aql-engine@2.1.0
 - pkg:maven/org.ehrbase.openehr/aql-engine@2.1.0?classifier=sources
+- pkg:maven/org.ehrbase.openehr/aql-engine@2.2.0
+- pkg:maven/org.ehrbase.openehr/aql-engine@2.2.0?classifier=sources
+- pkg:maven/org.ehrbase.openehr/aql-engine@2.3.0
+- pkg:maven/org.ehrbase.openehr/aql-engine@2.3.0?classifier=sources
+- pkg:maven/org.ehrbase.openehr/aql-engine@2.4.0
+- pkg:maven/org.ehrbase.openehr/aql-engine@2.4.0?classifier=sources

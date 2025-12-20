@@ -2,3 +2,8 @@
 - pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-websockets-next-tests@0.12.1
 - pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-websockets-next-tests@0.13.0
 - pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-websockets-next-tests@0.13.1
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-websockets-next-tests@0.14.0
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-websockets-next-tests@0.14.1
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-websockets-next-tests@0.14.2
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-websockets-next-tests@0.15.0
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-websockets-next-tests@0.15.1

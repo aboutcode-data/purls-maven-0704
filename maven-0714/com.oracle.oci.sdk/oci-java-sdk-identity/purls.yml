@@ -370,6 +370,8 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-identity@2.7.1?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-identity@2.7.2
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-identity@2.7.2?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-identity@2.72.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-identity@2.72.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-identity@2.8.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-identity@2.8.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-identity@2.8.1
@@ -502,6 +504,12 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-identity@3.41.1?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-identity@3.41.2
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-identity@3.41.2?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-identity@3.41.3
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-identity@3.41.3?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-identity@3.42.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-identity@3.42.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-identity@3.43.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-identity@3.43.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-identity@3.5.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-identity@3.5.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-identity@3.6.0

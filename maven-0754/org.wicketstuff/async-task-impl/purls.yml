@@ -4,6 +4,8 @@
 - pkg:maven/org.wicketstuff/async-task-impl@10.0.0-M2
 - pkg:maven/org.wicketstuff/async-task-impl@10.0.0-M2?classifier=sources
 - pkg:maven/org.wicketstuff/async-task-impl@10.0.0?classifier=sources
+- pkg:maven/org.wicketstuff/async-task-impl@10.1.0
+- pkg:maven/org.wicketstuff/async-task-impl@10.1.0?classifier=sources
 - pkg:maven/org.wicketstuff/async-task-impl@6.10.0
 - pkg:maven/org.wicketstuff/async-task-impl@6.10.0?classifier=sources
 - pkg:maven/org.wicketstuff/async-task-impl@6.11.0
@@ -176,6 +178,8 @@
 - pkg:maven/org.wicketstuff/async-task-impl@9.16.0?classifier=sources
 - pkg:maven/org.wicketstuff/async-task-impl@9.17.0
 - pkg:maven/org.wicketstuff/async-task-impl@9.17.0?classifier=sources
+- pkg:maven/org.wicketstuff/async-task-impl@9.18.0
+- pkg:maven/org.wicketstuff/async-task-impl@9.18.0?classifier=sources
 - pkg:maven/org.wicketstuff/async-task-impl@9.2.0
 - pkg:maven/org.wicketstuff/async-task-impl@9.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/async-task-impl@9.3.0

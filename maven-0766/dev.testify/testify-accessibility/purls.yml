@@ -6,3 +6,6 @@
 - pkg:maven/dev.testify/testify-accessibility@2.0.0-rc02?classifier=sources
 - pkg:maven/dev.testify/testify-accessibility@2.0.0-rc03?classifier=sources
 - pkg:maven/dev.testify/testify-accessibility@2.0.0?classifier=sources
+- pkg:maven/dev.testify/testify-accessibility@3.0.0-preview02?classifier=sources
+- pkg:maven/dev.testify/testify-accessibility@3.0.0-preview03?classifier=sources
+- pkg:maven/dev.testify/testify-accessibility@3.0.0-preview04?classifier=sources

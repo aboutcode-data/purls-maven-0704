@@ -7,3 +7,5 @@
 - pkg:maven/net.forthecrown/paper-nbt@1.6.0?classifier=sources
 - pkg:maven/net.forthecrown/paper-nbt@1.7.0?classifier=sources
 - pkg:maven/net.forthecrown/paper-nbt@1.7.1?classifier=sources
+- pkg:maven/net.forthecrown/paper-nbt@1.7.2?classifier=sources
+- pkg:maven/net.forthecrown/paper-nbt@1.7.3?classifier=sources

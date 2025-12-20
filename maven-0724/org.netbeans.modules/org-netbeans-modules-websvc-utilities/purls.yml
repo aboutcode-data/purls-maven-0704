@@ -20,3 +20,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-utilities@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-utilities@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-utilities@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-utilities@RELEASE220?classifier=sources

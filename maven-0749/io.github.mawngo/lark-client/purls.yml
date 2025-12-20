@@ -1,0 +1,2 @@
+- pkg:maven/io.github.mawngo/lark-client@1.0.0-java11?classifier=sources
+- pkg:maven/io.github.mawngo/lark-client@1.0.0?classifier=sources

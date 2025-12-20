@@ -32,3 +32,5 @@
 - pkg:maven/org.alluxio/alluxio-shaded-hadoop3-client@311?classifier=sources
 - pkg:maven/org.alluxio/alluxio-shaded-hadoop3-client@312
 - pkg:maven/org.alluxio/alluxio-shaded-hadoop3-client@312?classifier=sources
+- pkg:maven/org.alluxio/alluxio-shaded-hadoop3-client@313
+- pkg:maven/org.alluxio/alluxio-shaded-hadoop3-client@313?classifier=sources

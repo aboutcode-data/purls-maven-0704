@@ -1,3 +1,4 @@
 - pkg:maven/com.airbnb.android/showkase-screenshot-testing-paparazzi@1.0.0-beta18?classifier=sources
 - pkg:maven/com.airbnb.android/showkase-screenshot-testing-paparazzi@1.0.1?classifier=sources
 - pkg:maven/com.airbnb.android/showkase-screenshot-testing-paparazzi@1.0.2?classifier=sources
+- pkg:maven/com.airbnb.android/showkase-screenshot-testing-paparazzi@1.0.3?classifier=sources

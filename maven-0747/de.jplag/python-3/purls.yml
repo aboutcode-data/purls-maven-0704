@@ -10,3 +10,5 @@
 - pkg:maven/de.jplag/python-3@4.3.0?classifier=sources
 - pkg:maven/de.jplag/python-3@5.0.0
 - pkg:maven/de.jplag/python-3@5.0.0?classifier=sources
+- pkg:maven/de.jplag/python-3@5.1.0
+- pkg:maven/de.jplag/python-3@5.1.0?classifier=sources

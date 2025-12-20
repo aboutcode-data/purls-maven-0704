@@ -1,0 +1,1 @@
+- pkg:maven/io.grpc/grpc-opentelemetry@1.64.0?classifier=sources

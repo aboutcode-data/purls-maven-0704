@@ -3,3 +3,4 @@
 - pkg:maven/com.adobe.aem/aem-modernize-tools.ui.apps@2.0.16?classifier=sources
 - pkg:maven/com.adobe.aem/aem-modernize-tools.ui.apps@2.0.18?classifier=sources
 - pkg:maven/com.adobe.aem/aem-modernize-tools.ui.apps@2.1.0?classifier=sources
+- pkg:maven/com.adobe.aem/aem-modernize-tools.ui.apps@2.2.0?classifier=sources

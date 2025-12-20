@@ -130,6 +130,10 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-oauth2-jose@5.7.12_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-oauth2-jose@5.7.12_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-oauth2-jose@5.7.12_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-oauth2-jose@5.7.12_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-oauth2-jose@5.7.12_2?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-oauth2-jose@5.7.12_2?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-oauth2-jose@5.7.12_2?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-oauth2-jose@5.7.1_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-oauth2-jose@5.7.1_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-oauth2-jose@5.7.1_1?classifier=src&type=tar.gz
@@ -166,6 +170,10 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-oauth2-jose@5.8.7_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-oauth2-jose@5.8.7_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-oauth2-jose@5.8.7_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-oauth2-jose@5.8.7_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-oauth2-jose@5.8.7_2?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-oauth2-jose@5.8.7_2?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-oauth2-jose@5.8.7_2?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-oauth2-jose@6.0.0_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-oauth2-jose@6.0.0_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-oauth2-jose@6.0.0_1?classifier=src&type=tar.gz
@@ -202,6 +210,10 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-oauth2-jose@6.1.5_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-oauth2-jose@6.1.5_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-oauth2-jose@6.1.5_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-oauth2-jose@6.1.5_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-oauth2-jose@6.1.5_2?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-oauth2-jose@6.1.5_2?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-oauth2-jose@6.1.5_2?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-oauth2-jose@6.2.0_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-oauth2-jose@6.2.0_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-oauth2-jose@6.2.0_1?classifier=src&type=tar.gz
@@ -210,3 +222,7 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-oauth2-jose@6.2.1_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-oauth2-jose@6.2.1_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-oauth2-jose@6.2.1_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-oauth2-jose@6.2.4_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-oauth2-jose@6.2.4_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-oauth2-jose@6.2.4_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-oauth2-jose@6.2.4_1?classifier=src&type=zip

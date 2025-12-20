@@ -278,3 +278,5 @@
 - pkg:maven/org.infinispan/infinispan-server-testdriver-junit4@15.0.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-testdriver-junit4@15.0.3.Final
 - pkg:maven/org.infinispan/infinispan-server-testdriver-junit4@15.0.3.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-testdriver-junit4@15.0.4.Final
+- pkg:maven/org.infinispan/infinispan-server-testdriver-junit4@15.0.4.Final?classifier=sources

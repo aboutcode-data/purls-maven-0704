@@ -16,3 +16,4 @@
 - pkg:maven/org.hildan.krossbow/krossbow-stomp-kxserialization-json-watchosx64@5.8.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-stomp-kxserialization-json-watchosx64@6.0.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-stomp-kxserialization-json-watchosx64@7.0.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-stomp-kxserialization-json-watchosx64@7.1.0?classifier=sources

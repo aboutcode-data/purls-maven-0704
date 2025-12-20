@@ -1,0 +1,4 @@
+- pkg:maven/am.ik.spring.opentelemetry/otel-logs-autoconfigure@0.1.0
+- pkg:maven/am.ik.spring.opentelemetry/otel-logs-autoconfigure@0.1.0?classifier=sources
+- pkg:maven/am.ik.spring.opentelemetry/otel-logs-autoconfigure@0.1.1
+- pkg:maven/am.ik.spring.opentelemetry/otel-logs-autoconfigure@0.1.1?classifier=sources

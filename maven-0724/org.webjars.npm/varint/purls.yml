@@ -1,5 +1,6 @@
 - pkg:maven/org.webjars.npm/varint@4.0.0
 - pkg:maven/org.webjars.npm/varint@4.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/varint@4.0.1
 - pkg:maven/org.webjars.npm/varint@5.0.0
 - pkg:maven/org.webjars.npm/varint@5.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/varint@5.0.2

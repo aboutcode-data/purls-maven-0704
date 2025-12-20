@@ -1,0 +1,2 @@
+- pkg:maven/com.svenjacobs.reveal/reveal-core-wasm-js@3.0.6?classifier=sources
+- pkg:maven/com.svenjacobs.reveal/reveal-core-wasm-js@3.0.7?classifier=sources

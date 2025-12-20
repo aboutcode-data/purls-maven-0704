@@ -22,3 +22,5 @@
 - pkg:maven/io.objectbox/objectbox-kotlin@3.7.0?classifier=sources
 - pkg:maven/io.objectbox/objectbox-kotlin@3.7.1?classifier=sources
 - pkg:maven/io.objectbox/objectbox-kotlin@3.8.0?classifier=sources
+- pkg:maven/io.objectbox/objectbox-kotlin@4.0.0?classifier=sources
+- pkg:maven/io.objectbox/objectbox-kotlin@4.0.1?classifier=sources

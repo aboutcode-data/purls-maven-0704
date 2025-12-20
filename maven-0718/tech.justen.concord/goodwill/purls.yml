@@ -4,3 +4,7 @@
 - pkg:maven/tech.justen.concord/goodwill@0.5.0?classifier=sources
 - pkg:maven/tech.justen.concord/goodwill@0.6.0
 - pkg:maven/tech.justen.concord/goodwill@0.6.0?classifier=sources
+- pkg:maven/tech.justen.concord/goodwill@0.7.0
+- pkg:maven/tech.justen.concord/goodwill@0.7.0?classifier=sources
+- pkg:maven/tech.justen.concord/goodwill@0.7.1
+- pkg:maven/tech.justen.concord/goodwill@0.7.1?classifier=sources

@@ -23,6 +23,12 @@
 - pkg:maven/com.slack.circuit/circuit-retained@0.2.1?classifier=sources
 - pkg:maven/com.slack.circuit/circuit-retained@0.2.2?classifier=sources
 - pkg:maven/com.slack.circuit/circuit-retained@0.20.0?classifier=sources
+- pkg:maven/com.slack.circuit/circuit-retained@0.21.0?classifier=sources
+- pkg:maven/com.slack.circuit/circuit-retained@0.21.1?classifier=sources
+- pkg:maven/com.slack.circuit/circuit-retained@0.21.2?classifier=sources
+- pkg:maven/com.slack.circuit/circuit-retained@0.22.0?classifier=sources
+- pkg:maven/com.slack.circuit/circuit-retained@0.22.1?classifier=sources
+- pkg:maven/com.slack.circuit/circuit-retained@0.22.2?classifier=sources
 - pkg:maven/com.slack.circuit/circuit-retained@0.3.0?classifier=sources
 - pkg:maven/com.slack.circuit/circuit-retained@0.3.1?classifier=sources
 - pkg:maven/com.slack.circuit/circuit-retained@0.4.0?classifier=sources

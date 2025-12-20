@@ -14,3 +14,4 @@
 - pkg:maven/org.webjars.bowergithub.mozilla/pdf.js@2.16.105?classifier=sources
 - pkg:maven/org.webjars.bowergithub.mozilla/pdf.js@2.3.200
 - pkg:maven/org.webjars.bowergithub.mozilla/pdf.js@2.3.200?classifier=sources
+- pkg:maven/org.webjars.bowergithub.mozilla/pdf.js@4.2.67

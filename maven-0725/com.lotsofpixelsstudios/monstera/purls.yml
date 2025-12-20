@@ -28,6 +28,9 @@
 - pkg:maven/com.lotsofpixelsstudios/monstera@0.4.0-SNAPSHOT20?classifier=sources
 - pkg:maven/com.lotsofpixelsstudios/monstera@0.4.0-SNAPSHOT21?classifier=sources
 - pkg:maven/com.lotsofpixelsstudios/monstera@0.4.0-SNAPSHOT22?classifier=sources
+- pkg:maven/com.lotsofpixelsstudios/monstera@0.4.0-SNAPSHOT23?classifier=sources
+- pkg:maven/com.lotsofpixelsstudios/monstera@0.4.0-SNAPSHOT24?classifier=sources
+- pkg:maven/com.lotsofpixelsstudios/monstera@0.4.0-SNAPSHOT25?classifier=sources
 - pkg:maven/com.lotsofpixelsstudios/monstera@0.4.0-SNAPSHOT2?classifier=sources
 - pkg:maven/com.lotsofpixelsstudios/monstera@0.4.0-SNAPSHOT3?classifier=sources
 - pkg:maven/com.lotsofpixelsstudios/monstera@0.4.0-SNAPSHOT4?classifier=sources

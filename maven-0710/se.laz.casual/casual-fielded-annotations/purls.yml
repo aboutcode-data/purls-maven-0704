@@ -29,3 +29,5 @@
 - pkg:maven/se.laz.casual/casual-fielded-annotations@3.2.36?classifier=sources
 - pkg:maven/se.laz.casual/casual-fielded-annotations@3.2.38?classifier=sources
 - pkg:maven/se.laz.casual/casual-fielded-annotations@3.2.39?classifier=sources
+- pkg:maven/se.laz.casual/casual-fielded-annotations@3.2.40?classifier=sources
+- pkg:maven/se.laz.casual/casual-fielded-annotations@3.2.41?classifier=sources

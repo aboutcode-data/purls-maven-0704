@@ -2,3 +2,5 @@
 - pkg:maven/ru.tinkoff.core.components.security/ssl-trusted-certs@1.11.2?type=aar
 - pkg:maven/ru.tinkoff.core.components.security/ssl-trusted-certs@1.12.2?classifier=sources
 - pkg:maven/ru.tinkoff.core.components.security/ssl-trusted-certs@1.12.2?type=aar
+- pkg:maven/ru.tinkoff.core.components.security/ssl-trusted-certs@1.17.1?classifier=sources
+- pkg:maven/ru.tinkoff.core.components.security/ssl-trusted-certs@1.17.1?type=aar

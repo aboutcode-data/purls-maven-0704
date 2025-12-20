@@ -140,3 +140,9 @@
 - pkg:maven/com.goldmansachs.jdmn/jdmn-core@8.2.2?classifier=sources
 - pkg:maven/com.goldmansachs.jdmn/jdmn-core@8.2.3
 - pkg:maven/com.goldmansachs.jdmn/jdmn-core@8.2.3?classifier=sources
+- pkg:maven/com.goldmansachs.jdmn/jdmn-core@8.3.0
+- pkg:maven/com.goldmansachs.jdmn/jdmn-core@8.3.0?classifier=sources
+- pkg:maven/com.goldmansachs.jdmn/jdmn-core@8.4.0
+- pkg:maven/com.goldmansachs.jdmn/jdmn-core@8.4.0?classifier=sources
+- pkg:maven/com.goldmansachs.jdmn/jdmn-core@8.4.1
+- pkg:maven/com.goldmansachs.jdmn/jdmn-core@8.4.1?classifier=sources

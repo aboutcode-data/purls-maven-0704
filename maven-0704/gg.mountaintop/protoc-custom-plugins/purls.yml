@@ -1,0 +1,2 @@
+- pkg:maven/gg.mountaintop/protoc-custom-plugins@1.0.38?classifier=sources
+- pkg:maven/gg.mountaintop/protoc-custom-plugins@1.0.39?classifier=sources

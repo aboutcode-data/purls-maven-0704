@@ -4,3 +4,9 @@
 - pkg:maven/com.google.cloud/google-cloud-translate-spring-starter@5.2.0-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-translate-spring-starter@5.2.1-preview
 - pkg:maven/com.google.cloud/google-cloud-translate-spring-starter@5.2.1-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-translate-spring-starter@5.3.0-preview
+- pkg:maven/com.google.cloud/google-cloud-translate-spring-starter@5.3.0-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-translate-spring-starter@5.4.0-preview
+- pkg:maven/com.google.cloud/google-cloud-translate-spring-starter@5.4.0-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-translate-spring-starter@5.4.1-preview
+- pkg:maven/com.google.cloud/google-cloud-translate-spring-starter@5.4.1-preview?classifier=sources

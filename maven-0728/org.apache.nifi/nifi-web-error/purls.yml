@@ -114,3 +114,4 @@
 - pkg:maven/org.apache.nifi/nifi-web-error@1.9.2?type=war
 - pkg:maven/org.apache.nifi/nifi-web-error@2.0.0-M1?type=war
 - pkg:maven/org.apache.nifi/nifi-web-error@2.0.0-M2?type=war
+- pkg:maven/org.apache.nifi/nifi-web-error@2.0.0-M3?type=war

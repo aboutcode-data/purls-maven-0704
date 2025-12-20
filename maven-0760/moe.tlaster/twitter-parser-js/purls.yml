@@ -20,3 +20,4 @@
 - pkg:maven/moe.tlaster/twitter-parser-js@0.3.5?classifier=sources
 - pkg:maven/moe.tlaster/twitter-parser-js@0.4.0?classifier=sources
 - pkg:maven/moe.tlaster/twitter-parser-js@0.4.1?classifier=sources
+- pkg:maven/moe.tlaster/twitter-parser-js@0.4.2?classifier=sources

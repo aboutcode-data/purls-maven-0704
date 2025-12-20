@@ -1,0 +1,2 @@
+- pkg:maven/org.miaixz/bus-oauth@8.0.0?classifier=sources
+- pkg:maven/org.miaixz/bus-oauth@8.0.1?classifier=sources

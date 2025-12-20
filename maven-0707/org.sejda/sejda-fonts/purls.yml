@@ -265,6 +265,8 @@
 - pkg:maven/org.sejda/sejda-fonts@5.0.16?classifier=sources
 - pkg:maven/org.sejda/sejda-fonts@5.0.17
 - pkg:maven/org.sejda/sejda-fonts@5.0.17?classifier=sources
+- pkg:maven/org.sejda/sejda-fonts@5.0.18
+- pkg:maven/org.sejda/sejda-fonts@5.0.18?classifier=sources
 - pkg:maven/org.sejda/sejda-fonts@5.0.1?classifier=sources
 - pkg:maven/org.sejda/sejda-fonts@5.0.2
 - pkg:maven/org.sejda/sejda-fonts@5.0.2?classifier=sources

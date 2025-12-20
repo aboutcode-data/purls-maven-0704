@@ -210,3 +210,5 @@
 - pkg:maven/org.jboss.windup.plugin/windup-maven-plugin@6.3.6.Final?classifier=sources
 - pkg:maven/org.jboss.windup.plugin/windup-maven-plugin@6.3.7.Final
 - pkg:maven/org.jboss.windup.plugin/windup-maven-plugin@6.3.7.Final?classifier=sources
+- pkg:maven/org.jboss.windup.plugin/windup-maven-plugin@6.3.8.Final
+- pkg:maven/org.jboss.windup.plugin/windup-maven-plugin@6.3.8.Final?classifier=sources

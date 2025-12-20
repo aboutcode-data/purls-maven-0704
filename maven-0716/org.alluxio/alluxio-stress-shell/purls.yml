@@ -106,3 +106,5 @@
 - pkg:maven/org.alluxio/alluxio-stress-shell@311?classifier=sources
 - pkg:maven/org.alluxio/alluxio-stress-shell@312
 - pkg:maven/org.alluxio/alluxio-stress-shell@312?classifier=sources
+- pkg:maven/org.alluxio/alluxio-stress-shell@313
+- pkg:maven/org.alluxio/alluxio-stress-shell@313?classifier=sources

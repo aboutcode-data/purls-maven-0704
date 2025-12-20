@@ -12,3 +12,7 @@
 - pkg:maven/io.quarkiverse.moneta/quarkus-moneta-docs@1.1.2?classifier=sources
 - pkg:maven/io.quarkiverse.moneta/quarkus-moneta-docs@2.0.0
 - pkg:maven/io.quarkiverse.moneta/quarkus-moneta-docs@2.0.0?classifier=sources
+- pkg:maven/io.quarkiverse.moneta/quarkus-moneta-docs@2.0.1
+- pkg:maven/io.quarkiverse.moneta/quarkus-moneta-docs@2.0.1?classifier=sources
+- pkg:maven/io.quarkiverse.moneta/quarkus-moneta-docs@2.0.2
+- pkg:maven/io.quarkiverse.moneta/quarkus-moneta-docs@2.0.2?classifier=sources

@@ -4,3 +4,9 @@
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-ato@1.7.14?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-ato@1.7.26
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-ato@1.7.26?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-ato@1.8.51
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-ato@1.8.51?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-ato@1.8.65
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-ato@1.8.65?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-ato@1.8.66
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-ato@1.8.66?classifier=sources

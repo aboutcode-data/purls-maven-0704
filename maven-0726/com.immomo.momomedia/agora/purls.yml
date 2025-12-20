@@ -68,6 +68,8 @@
 - pkg:maven/com.immomo.momomedia/agora@momo5.1f.agora.2024-0412-1210?type=aar
 - pkg:maven/com.immomo.momomedia/agora@momo5.1f.agora.2024-0423-1420?classifier=sources
 - pkg:maven/com.immomo.momomedia/agora@momo5.1f.agora.2024-0423-1420?type=aar
+- pkg:maven/com.immomo.momomedia/agora@momo5.1f.agora.2024-0603-1820?classifier=sources
+- pkg:maven/com.immomo.momomedia/agora@momo5.1f.agora.2024-0603-1820?type=aar
 - pkg:maven/com.immomo.momomedia/agora@momo5.1f.agora2.2.1085.2021-1227-113833?classifier=sources
 - pkg:maven/com.immomo.momomedia/agora@momo5.1f.agora2.2.1085.2021-1227-113833?type=aar
 - pkg:maven/com.immomo.momomedia/agora@momo6.0a.agora.2021-0420-1608?classifier=sources

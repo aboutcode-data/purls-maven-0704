@@ -10,6 +10,10 @@
 - pkg:maven/com.seeq.json/common-json@64.2.0-v202404042301?classifier=sources
 - pkg:maven/com.seeq.json/common-json@64.2.1-v202404170446?classifier=sources
 - pkg:maven/com.seeq.json/common-json@64.3.0-v202405012032?classifier=sources
+- pkg:maven/com.seeq.json/common-json@64.3.1-v202405160004?classifier=sources
+- pkg:maven/com.seeq.json/common-json@64.3.3-v202406060203?classifier=sources
 - pkg:maven/com.seeq.json/common-json@65.0.0-v202404242221?classifier=sources
 - pkg:maven/com.seeq.json/common-json@65.0.1-v202405012042?classifier=sources
 - pkg:maven/com.seeq.json/common-json@65.0.2-v202405101638?classifier=sources
+- pkg:maven/com.seeq.json/common-json@65.0.4-v202405300107?classifier=sources
+- pkg:maven/com.seeq.json/common-json@65.0.5-v202406060204?classifier=sources

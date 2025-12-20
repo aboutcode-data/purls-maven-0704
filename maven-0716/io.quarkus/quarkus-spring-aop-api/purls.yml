@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkus/quarkus-spring-aop-api@6.1.SP2
+- pkg:maven/io.quarkus/quarkus-spring-aop-api@6.1.SP2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/ph.samson.xdg/basedir_3@1.0
+- pkg:maven/ph.samson.xdg/basedir_3@1.0?classifier=sources

@@ -7,3 +7,4 @@
 - pkg:maven/com.conena.nanokt/nanokt@1.0.0-beta07?classifier=sources
 - pkg:maven/com.conena.nanokt/nanokt@1.0.0?classifier=sources
 - pkg:maven/com.conena.nanokt/nanokt@1.1.0?classifier=sources
+- pkg:maven/com.conena.nanokt/nanokt@1.2.0?classifier=sources

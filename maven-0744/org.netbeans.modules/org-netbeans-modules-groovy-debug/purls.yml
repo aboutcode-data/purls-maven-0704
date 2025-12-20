@@ -5,3 +5,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-debug@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-debug@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-debug@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-debug@RELEASE220?classifier=sources

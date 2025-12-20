@@ -50,6 +50,8 @@
 - pkg:maven/org.hotrodorm.hotrod/hotrod-utils@3.5.1?classifier=sources
 - pkg:maven/org.hotrodorm.hotrod/hotrod-utils@3.5.2
 - pkg:maven/org.hotrodorm.hotrod/hotrod-utils@3.5.2?classifier=sources
+- pkg:maven/org.hotrodorm.hotrod/hotrod-utils@3.5.3
+- pkg:maven/org.hotrodorm.hotrod/hotrod-utils@3.5.3?classifier=sources
 - pkg:maven/org.hotrodorm.hotrod/hotrod-utils@4.0.0
 - pkg:maven/org.hotrodorm.hotrod/hotrod-utils@4.0.0?classifier=sources
 - pkg:maven/org.hotrodorm.hotrod/hotrod-utils@4.1.0
@@ -92,3 +94,5 @@
 - pkg:maven/org.hotrodorm.hotrod/hotrod-utils@4.6.5?classifier=sources
 - pkg:maven/org.hotrodorm.hotrod/hotrod-utils@4.7.0
 - pkg:maven/org.hotrodorm.hotrod/hotrod-utils@4.7.0?classifier=sources
+- pkg:maven/org.hotrodorm.hotrod/hotrod-utils@4.7.1
+- pkg:maven/org.hotrodorm.hotrod/hotrod-utils@4.7.1?classifier=sources

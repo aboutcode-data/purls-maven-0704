@@ -1,0 +1,2 @@
+- pkg:maven/io.miragon.miranum.connect/task-camunda7-remote@0.7.0
+- pkg:maven/io.miragon.miranum.connect/task-camunda7-remote@0.7.0?classifier=sources

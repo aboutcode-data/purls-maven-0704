@@ -5,3 +5,6 @@
 - pkg:maven/com.mikepenz/multiplatform-markdown-renderer-m2-macosarm64@0.15.0?classifier=sources
 - pkg:maven/com.mikepenz/multiplatform-markdown-renderer-m2-macosarm64@0.16.0?classifier=sources
 - pkg:maven/com.mikepenz/multiplatform-markdown-renderer-m2-macosarm64@0.20.0-a01?classifier=sources
+- pkg:maven/com.mikepenz/multiplatform-markdown-renderer-m2-macosarm64@0.20.0-coil2?classifier=sources
+- pkg:maven/com.mikepenz/multiplatform-markdown-renderer-m2-macosarm64@0.20.0?classifier=sources
+- pkg:maven/com.mikepenz/multiplatform-markdown-renderer-m2-macosarm64@0.21.0?classifier=sources

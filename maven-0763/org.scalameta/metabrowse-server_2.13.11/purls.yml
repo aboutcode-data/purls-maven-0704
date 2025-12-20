@@ -4,3 +4,5 @@
 - pkg:maven/org.scalameta/metabrowse-server_2.13.11@0.2.11?classifier=sources
 - pkg:maven/org.scalameta/metabrowse-server_2.13.11@0.2.12
 - pkg:maven/org.scalameta/metabrowse-server_2.13.11@0.2.12?classifier=sources
+- pkg:maven/org.scalameta/metabrowse-server_2.13.11@0.2.13
+- pkg:maven/org.scalameta/metabrowse-server_2.13.11@0.2.13?classifier=sources

@@ -38,3 +38,5 @@
 - pkg:maven/io.smallrye/jandex-maven-plugin@3.1.7?classifier=sources
 - pkg:maven/io.smallrye/jandex-maven-plugin@3.1.8
 - pkg:maven/io.smallrye/jandex-maven-plugin@3.1.8?classifier=sources
+- pkg:maven/io.smallrye/jandex-maven-plugin@3.2.0
+- pkg:maven/io.smallrye/jandex-maven-plugin@3.2.0?classifier=sources

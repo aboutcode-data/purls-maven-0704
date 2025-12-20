@@ -9,3 +9,5 @@
 - pkg:maven/tel.schich/javacan-epoll-test@3.3.1
 - pkg:maven/tel.schich/javacan-epoll-test@3.3.2
 - pkg:maven/tel.schich/javacan-epoll-test@3.3.2?classifier=sources
+- pkg:maven/tel.schich/javacan-epoll-test@3.4.0
+- pkg:maven/tel.schich/javacan-epoll-test@3.4.0?classifier=sources

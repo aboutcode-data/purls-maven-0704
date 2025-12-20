@@ -21,4 +21,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-hints-declarative-test@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-hints-declarative-test@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-hints-declarative-test@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-java-hints-declarative-test@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-hints-declarative-test@RELEASE90?classifier=sources

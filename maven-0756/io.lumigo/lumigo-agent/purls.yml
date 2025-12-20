@@ -54,3 +54,11 @@
 - pkg:maven/io.lumigo/lumigo-agent@1.0.40?classifier=sources
 - pkg:maven/io.lumigo/lumigo-agent@1.0.41
 - pkg:maven/io.lumigo/lumigo-agent@1.0.41?classifier=sources
+- pkg:maven/io.lumigo/lumigo-agent@1.0.42
+- pkg:maven/io.lumigo/lumigo-agent@1.0.42?classifier=sources
+- pkg:maven/io.lumigo/lumigo-agent@1.0.43
+- pkg:maven/io.lumigo/lumigo-agent@1.0.43?classifier=sources
+- pkg:maven/io.lumigo/lumigo-agent@1.0.44
+- pkg:maven/io.lumigo/lumigo-agent@1.0.44?classifier=sources
+- pkg:maven/io.lumigo/lumigo-agent@1.0.45
+- pkg:maven/io.lumigo/lumigo-agent@1.0.45?classifier=sources

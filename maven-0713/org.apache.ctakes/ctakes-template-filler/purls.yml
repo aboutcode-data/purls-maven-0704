@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.ctakes/ctakes-template-filler@4.0.0.1
 - pkg:maven/org.apache.ctakes/ctakes-template-filler@4.0.0.1?classifier=sources
 - pkg:maven/org.apache.ctakes/ctakes-template-filler@4.0.0?classifier=sources
+- pkg:maven/org.apache.ctakes/ctakes-template-filler@5.1.0
+- pkg:maven/org.apache.ctakes/ctakes-template-filler@5.1.0?classifier=sources

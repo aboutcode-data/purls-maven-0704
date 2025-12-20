@@ -32,3 +32,4 @@
 - pkg:maven/com.github.gestalt-config/gestalt-guice@0.27.0?classifier=sources
 - pkg:maven/com.github.gestalt-config/gestalt-guice@0.28.0?classifier=sources
 - pkg:maven/com.github.gestalt-config/gestalt-guice@0.29.0?classifier=sources
+- pkg:maven/com.github.gestalt-config/gestalt-guice@0.30.0?classifier=sources

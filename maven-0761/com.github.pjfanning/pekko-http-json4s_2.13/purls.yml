@@ -20,3 +20,5 @@
 - pkg:maven/com.github.pjfanning/pekko-http-json4s_2.13@2.4.0?classifier=sources
 - pkg:maven/com.github.pjfanning/pekko-http-json4s_2.13@2.5.0
 - pkg:maven/com.github.pjfanning/pekko-http-json4s_2.13@2.5.0?classifier=sources
+- pkg:maven/com.github.pjfanning/pekko-http-json4s_2.13@2.6.0
+- pkg:maven/com.github.pjfanning/pekko-http-json4s_2.13@2.6.0?classifier=sources

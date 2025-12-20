@@ -4,6 +4,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-cassandra@10.0.0-M2
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-cassandra@10.0.0-M2?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-cassandra@10.0.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-datastore-cassandra@10.1.0
+- pkg:maven/org.wicketstuff/wicketstuff-datastore-cassandra@10.1.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-cassandra@6.13.0
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-cassandra@6.13.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-cassandra@6.14.0
@@ -168,6 +170,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-cassandra@9.16.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-cassandra@9.17.0
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-cassandra@9.17.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-datastore-cassandra@9.18.0
+- pkg:maven/org.wicketstuff/wicketstuff-datastore-cassandra@9.18.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-cassandra@9.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-cassandra@9.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-cassandra@9.3.0

@@ -1,4 +1,8 @@
+- pkg:maven/com.io7m.abstand/com.io7m.abstand.generation@1.0.0
 - pkg:maven/com.io7m.abstand/com.io7m.abstand.generation@1.0.0-beta0001
 - pkg:maven/com.io7m.abstand/com.io7m.abstand.generation@1.0.0-beta0001?classifier=sources
 - pkg:maven/com.io7m.abstand/com.io7m.abstand.generation@1.0.0-beta0002
 - pkg:maven/com.io7m.abstand/com.io7m.abstand.generation@1.0.0-beta0002?classifier=sources
+- pkg:maven/com.io7m.abstand/com.io7m.abstand.generation@1.0.0?classifier=sources
+- pkg:maven/com.io7m.abstand/com.io7m.abstand.generation@1.1.0
+- pkg:maven/com.io7m.abstand/com.io7m.abstand.generation@1.1.0?classifier=sources

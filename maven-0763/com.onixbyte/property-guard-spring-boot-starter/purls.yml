@@ -1,1 +1,2 @@
 - pkg:maven/com.onixbyte/property-guard-spring-boot-starter@1.4.0?classifier=sources
+- pkg:maven/com.onixbyte/property-guard-spring-boot-starter@1.4.1?classifier=sources

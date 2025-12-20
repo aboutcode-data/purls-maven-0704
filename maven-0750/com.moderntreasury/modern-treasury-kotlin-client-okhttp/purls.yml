@@ -12,6 +12,7 @@
 - pkg:maven/com.moderntreasury/modern-treasury-kotlin-client-okhttp@2.11.0?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-kotlin-client-okhttp@2.12.0?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-kotlin-client-okhttp@2.13.0?classifier=sources
+- pkg:maven/com.moderntreasury/modern-treasury-kotlin-client-okhttp@2.14.0?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-kotlin-client-okhttp@2.2.0?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-kotlin-client-okhttp@2.3.0?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-kotlin-client-okhttp@2.4.0?classifier=sources

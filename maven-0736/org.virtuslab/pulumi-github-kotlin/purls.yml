@@ -14,7 +14,10 @@
 - pkg:maven/org.virtuslab/pulumi-github-kotlin@5.24.0.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-github-kotlin@5.25.0.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-github-kotlin@5.26.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-github-kotlin@5.26.0.1?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-github-kotlin@5.4.0.1?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-github-kotlin@6.0.0.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-github-kotlin@6.1.0.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-github-kotlin@6.2.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-github-kotlin@6.2.1.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-github-kotlin@6.2.1.1?classifier=sources

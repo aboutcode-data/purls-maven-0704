@@ -21,4 +21,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-html@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html@RELEASE90?classifier=sources

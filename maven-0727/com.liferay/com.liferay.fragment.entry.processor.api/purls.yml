@@ -36,6 +36,7 @@
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.api@1.1.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.api@1.1.8
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.api@1.1.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.fragment.entry.processor.api@10.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.api@2.0.0
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.api@2.0.0?classifier=sources-commercial

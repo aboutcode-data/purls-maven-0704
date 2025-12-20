@@ -12,3 +12,5 @@
 - pkg:maven/com.galatechnology.sotpay/sotpay-connect-client@0.2.1?classifier=sources
 - pkg:maven/com.galatechnology.sotpay/sotpay-connect-client@0.2.3
 - pkg:maven/com.galatechnology.sotpay/sotpay-connect-client@0.2.3?classifier=sources
+- pkg:maven/com.galatechnology.sotpay/sotpay-connect-client@0.2.4
+- pkg:maven/com.galatechnology.sotpay/sotpay-connect-client@0.2.4?classifier=sources

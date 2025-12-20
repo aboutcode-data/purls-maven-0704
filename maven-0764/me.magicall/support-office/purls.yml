@@ -16,3 +16,13 @@
 - pkg:maven/me.magicall/support-office@2.0.0?classifier=sources
 - pkg:maven/me.magicall/support-office@2.1.0
 - pkg:maven/me.magicall/support-office@2.1.0?classifier=sources
+- pkg:maven/me.magicall/support-office@2.2.0
+- pkg:maven/me.magicall/support-office@2.2.0?classifier=sources
+- pkg:maven/me.magicall/support-office@2.5.0
+- pkg:maven/me.magicall/support-office@2.5.0?classifier=sources
+- pkg:maven/me.magicall/support-office@2.6.0
+- pkg:maven/me.magicall/support-office@2.6.0?classifier=sources
+- pkg:maven/me.magicall/support-office@2.7.0
+- pkg:maven/me.magicall/support-office@2.7.0?classifier=sources
+- pkg:maven/me.magicall/support-office@2.8.0
+- pkg:maven/me.magicall/support-office@2.8.0?classifier=sources

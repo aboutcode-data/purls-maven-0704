@@ -52,3 +52,7 @@
 - pkg:maven/com.iohao.game/run-one-netty@21.6?classifier=sources
 - pkg:maven/com.iohao.game/run-one-netty@21.7
 - pkg:maven/com.iohao.game/run-one-netty@21.7?classifier=sources
+- pkg:maven/com.iohao.game/run-one-netty@21.8
+- pkg:maven/com.iohao.game/run-one-netty@21.8?classifier=sources
+- pkg:maven/com.iohao.game/run-one-netty@21.9
+- pkg:maven/com.iohao.game/run-one-netty@21.9?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/nl.detestbaas/playwright-annotations@1.0.0?classifier=sources
+- pkg:maven/nl.detestbaas/playwright-annotations@1.1.0?classifier=sources

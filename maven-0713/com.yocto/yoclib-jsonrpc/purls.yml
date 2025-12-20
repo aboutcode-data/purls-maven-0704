@@ -1,0 +1,2 @@
+- pkg:maven/com.yocto/yoclib-jsonrpc@1.0.0?classifier=sources
+- pkg:maven/com.yocto/yoclib-jsonrpc@1.0.1?classifier=sources

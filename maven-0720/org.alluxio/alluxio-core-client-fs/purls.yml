@@ -144,3 +144,5 @@
 - pkg:maven/org.alluxio/alluxio-core-client-fs@311?classifier=sources
 - pkg:maven/org.alluxio/alluxio-core-client-fs@312
 - pkg:maven/org.alluxio/alluxio-core-client-fs@312?classifier=sources
+- pkg:maven/org.alluxio/alluxio-core-client-fs@313
+- pkg:maven/org.alluxio/alluxio-core-client-fs@313?classifier=sources
