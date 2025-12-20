@@ -1,0 +1,2 @@
+- pkg:maven/org.gov4j.thirdparty.io.swagger.parser.v3/swagger-parser-v3@2.1.22-gov4j-1?classifier=sources
+- pkg:maven/org.gov4j.thirdparty.io.swagger.parser.v3/swagger-parser-v3@2.1.6-gov4j-1?classifier=sources

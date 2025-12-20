@@ -214,6 +214,8 @@
 - pkg:maven/com.hashicorp/cdktf-provider-upcloud@14.14.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-upcloud@14.15.0
 - pkg:maven/com.hashicorp/cdktf-provider-upcloud@14.15.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-upcloud@14.16.0
+- pkg:maven/com.hashicorp/cdktf-provider-upcloud@14.16.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-upcloud@14.2.0
 - pkg:maven/com.hashicorp/cdktf-provider-upcloud@14.2.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-upcloud@14.2.1

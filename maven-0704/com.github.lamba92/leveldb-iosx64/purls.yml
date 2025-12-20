@@ -1,0 +1,4 @@
+- pkg:maven/com.github.lamba92/leveldb-iosx64@1.0.0-RC.3?classifier=sources
+- pkg:maven/com.github.lamba92/leveldb-iosx64@1.0.0-RC.4?classifier=sources
+- pkg:maven/com.github.lamba92/leveldb-iosx64@1.0.0?classifier=sources
+- pkg:maven/com.github.lamba92/leveldb-iosx64@1.0.1?classifier=sources

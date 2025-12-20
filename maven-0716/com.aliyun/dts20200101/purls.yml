@@ -64,3 +64,5 @@
 - pkg:maven/com.aliyun/dts20200101@2.5.2?classifier=sources
 - pkg:maven/com.aliyun/dts20200101@2.5.3
 - pkg:maven/com.aliyun/dts20200101@2.5.3?classifier=sources
+- pkg:maven/com.aliyun/dts20200101@2.5.4
+- pkg:maven/com.aliyun/dts20200101@2.5.4?classifier=sources

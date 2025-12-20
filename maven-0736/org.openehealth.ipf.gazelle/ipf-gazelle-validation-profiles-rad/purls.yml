@@ -38,3 +38,5 @@
 - pkg:maven/org.openehealth.ipf.gazelle/ipf-gazelle-validation-profiles-rad@2.6.0?classifier=sources
 - pkg:maven/org.openehealth.ipf.gazelle/ipf-gazelle-validation-profiles-rad@3.0.0
 - pkg:maven/org.openehealth.ipf.gazelle/ipf-gazelle-validation-profiles-rad@3.0.0?classifier=sources
+- pkg:maven/org.openehealth.ipf.gazelle/ipf-gazelle-validation-profiles-rad@3.1.0
+- pkg:maven/org.openehealth.ipf.gazelle/ipf-gazelle-validation-profiles-rad@3.1.0?classifier=sources

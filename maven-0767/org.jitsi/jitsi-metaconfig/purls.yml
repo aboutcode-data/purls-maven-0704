@@ -6,6 +6,8 @@
 - pkg:maven/org.jitsi/jitsi-metaconfig@1.0-12-g02d4bd5?classifier=sources
 - pkg:maven/org.jitsi/jitsi-metaconfig@1.0-13-g293903d
 - pkg:maven/org.jitsi/jitsi-metaconfig@1.0-13-g293903d?classifier=sources
+- pkg:maven/org.jitsi/jitsi-metaconfig@1.0-14-gbec165a
+- pkg:maven/org.jitsi/jitsi-metaconfig@1.0-14-gbec165a?classifier=sources
 - pkg:maven/org.jitsi/jitsi-metaconfig@1.0-8-g022dff6
 - pkg:maven/org.jitsi/jitsi-metaconfig@1.0-8-g022dff6?classifier=sources
 - pkg:maven/org.jitsi/jitsi-metaconfig@1.0-9-g5e1b624

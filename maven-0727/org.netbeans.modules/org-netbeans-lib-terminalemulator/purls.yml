@@ -23,4 +23,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-lib-terminalemulator@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-lib-terminalemulator@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-lib-terminalemulator@RELEASE230?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-lib-terminalemulator@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-lib-terminalemulator@RELEASE90?classifier=sources

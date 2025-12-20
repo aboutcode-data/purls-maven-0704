@@ -12,3 +12,5 @@
 - pkg:maven/ch.epfl.scala/scala3-migrate-compiler-interface@0.7.0?classifier=sources
 - pkg:maven/ch.epfl.scala/scala3-migrate-compiler-interface@0.7.1
 - pkg:maven/ch.epfl.scala/scala3-migrate-compiler-interface@0.7.1?classifier=sources
+- pkg:maven/ch.epfl.scala/scala3-migrate-compiler-interface@0.7.2
+- pkg:maven/ch.epfl.scala/scala3-migrate-compiler-interface@0.7.2?classifier=sources

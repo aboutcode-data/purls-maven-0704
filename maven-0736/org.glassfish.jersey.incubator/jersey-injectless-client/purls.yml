@@ -14,6 +14,8 @@
 - pkg:maven/org.glassfish.jersey.incubator/jersey-injectless-client@2.44?classifier=sources
 - pkg:maven/org.glassfish.jersey.incubator/jersey-injectless-client@2.45
 - pkg:maven/org.glassfish.jersey.incubator/jersey-injectless-client@2.45?classifier=sources
+- pkg:maven/org.glassfish.jersey.incubator/jersey-injectless-client@2.46
+- pkg:maven/org.glassfish.jersey.incubator/jersey-injectless-client@2.46?classifier=sources
 - pkg:maven/org.glassfish.jersey.incubator/jersey-injectless-client@3.0.10
 - pkg:maven/org.glassfish.jersey.incubator/jersey-injectless-client@3.0.10?classifier=sources
 - pkg:maven/org.glassfish.jersey.incubator/jersey-injectless-client@3.0.11
@@ -28,6 +30,8 @@
 - pkg:maven/org.glassfish.jersey.incubator/jersey-injectless-client@3.0.15?classifier=sources
 - pkg:maven/org.glassfish.jersey.incubator/jersey-injectless-client@3.0.16
 - pkg:maven/org.glassfish.jersey.incubator/jersey-injectless-client@3.0.16?classifier=sources
+- pkg:maven/org.glassfish.jersey.incubator/jersey-injectless-client@3.0.17
+- pkg:maven/org.glassfish.jersey.incubator/jersey-injectless-client@3.0.17?classifier=sources
 - pkg:maven/org.glassfish.jersey.incubator/jersey-injectless-client@3.1.2
 - pkg:maven/org.glassfish.jersey.incubator/jersey-injectless-client@3.1.2?classifier=sources
 - pkg:maven/org.glassfish.jersey.incubator/jersey-injectless-client@3.1.3

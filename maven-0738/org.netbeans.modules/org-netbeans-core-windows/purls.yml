@@ -23,4 +23,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-core-windows@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-windows@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-windows@RELEASE230?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-core-windows@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-windows@RELEASE90?classifier=sources

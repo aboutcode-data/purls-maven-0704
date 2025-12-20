@@ -1,0 +1,1 @@
+- pkg:maven/org.kie.kogito/kogito-runtimes@10.0.0?classifier=source-release&type=zip

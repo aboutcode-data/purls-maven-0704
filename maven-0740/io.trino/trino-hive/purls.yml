@@ -196,3 +196,5 @@
 - pkg:maven/io.trino/trino-hive@464?classifier=sources
 - pkg:maven/io.trino/trino-hive@465?classifier=sources
 - pkg:maven/io.trino/trino-hive@466?classifier=sources
+- pkg:maven/io.trino/trino-hive@467?classifier=sources
+- pkg:maven/io.trino/trino-hive@468?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/com.plusmobileapps/auth-iossimulatorarm64@0.3?classifier=sources
+- pkg:maven/com.plusmobileapps/auth-iossimulatorarm64@0.4?classifier=sources

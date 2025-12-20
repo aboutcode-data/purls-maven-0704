@@ -86,3 +86,5 @@
 - pkg:maven/io.vertx/vertx-oracle-client@5.0.0.CR1?classifier=sources
 - pkg:maven/io.vertx/vertx-oracle-client@5.0.0.CR2
 - pkg:maven/io.vertx/vertx-oracle-client@5.0.0.CR2?classifier=sources
+- pkg:maven/io.vertx/vertx-oracle-client@5.0.0.CR3
+- pkg:maven/io.vertx/vertx-oracle-client@5.0.0.CR3?classifier=sources

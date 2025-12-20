@@ -74,6 +74,10 @@
 - pkg:maven/org.flywaydb/flyway-commandline@10.9.1?type=zip
 - pkg:maven/org.flywaydb/flyway-commandline@11.0.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-commandline@11.0.0?type=zip
+- pkg:maven/org.flywaydb/flyway-commandline@11.0.1?classifier=sources
+- pkg:maven/org.flywaydb/flyway-commandline@11.0.1?type=zip
+- pkg:maven/org.flywaydb/flyway-commandline@11.1.0?classifier=sources
+- pkg:maven/org.flywaydb/flyway-commandline@11.1.0?type=zip
 - pkg:maven/org.flywaydb/flyway-commandline@3.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-commandline@3.0?type=zip
 - pkg:maven/org.flywaydb/flyway-commandline@3.1?classifier=sources

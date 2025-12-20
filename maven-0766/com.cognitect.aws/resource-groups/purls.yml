@@ -26,3 +26,5 @@
 - pkg:maven/com.cognitect.aws/resource-groups@847.2.1365.0?classifier=sources
 - pkg:maven/com.cognitect.aws/resource-groups@868.2.1599.0
 - pkg:maven/com.cognitect.aws/resource-groups@868.2.1599.0?classifier=sources
+- pkg:maven/com.cognitect.aws/resource-groups@871.2.29.35
+- pkg:maven/com.cognitect.aws/resource-groups@871.2.29.35?classifier=sources

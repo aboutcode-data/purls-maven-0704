@@ -62,3 +62,5 @@
 - pkg:maven/io.avaje/avaje-inject-maven-plugin@11.0-javax
 - pkg:maven/io.avaje/avaje-inject-maven-plugin@11.0-javax?classifier=sources
 - pkg:maven/io.avaje/avaje-inject-maven-plugin@11.0?classifier=sources
+- pkg:maven/io.avaje/avaje-inject-maven-plugin@11.1-RC1
+- pkg:maven/io.avaje/avaje-inject-maven-plugin@11.1-RC1?classifier=sources

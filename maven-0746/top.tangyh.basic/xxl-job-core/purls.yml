@@ -1,0 +1,2 @@
+- pkg:maven/top.tangyh.basic/xxl-job-core@5.0.3
+- pkg:maven/top.tangyh.basic/xxl-job-core@5.0.3?classifier=sources

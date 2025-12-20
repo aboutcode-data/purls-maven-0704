@@ -7,6 +7,8 @@
 - pkg:maven/io.github.wujun728/jun-uidgenerator-spring-boot-starter@1.0.2
 - pkg:maven/io.github.wujun728/jun-uidgenerator-spring-boot-starter@1.0.20
 - pkg:maven/io.github.wujun728/jun-uidgenerator-spring-boot-starter@1.0.20?classifier=sources
+- pkg:maven/io.github.wujun728/jun-uidgenerator-spring-boot-starter@1.0.21
+- pkg:maven/io.github.wujun728/jun-uidgenerator-spring-boot-starter@1.0.21?classifier=sources
 - pkg:maven/io.github.wujun728/jun-uidgenerator-spring-boot-starter@1.0.2?classifier=sources
 - pkg:maven/io.github.wujun728/jun-uidgenerator-spring-boot-starter@1.0.5
 - pkg:maven/io.github.wujun728/jun-uidgenerator-spring-boot-starter@1.0.5?classifier=sources

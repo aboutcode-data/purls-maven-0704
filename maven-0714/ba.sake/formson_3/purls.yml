@@ -64,3 +64,7 @@
 - pkg:maven/ba.sake/formson_3@0.7.4?classifier=sources
 - pkg:maven/ba.sake/formson_3@0.7.5
 - pkg:maven/ba.sake/formson_3@0.7.5?classifier=sources
+- pkg:maven/ba.sake/formson_3@0.8.0
+- pkg:maven/ba.sake/formson_3@0.8.0?classifier=sources
+- pkg:maven/ba.sake/formson_3@0.8.1
+- pkg:maven/ba.sake/formson_3@0.8.1?classifier=sources

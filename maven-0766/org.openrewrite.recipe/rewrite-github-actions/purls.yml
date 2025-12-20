@@ -49,6 +49,7 @@
 - pkg:maven/org.openrewrite.recipe/rewrite-github-actions@2.1.7?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-github-actions@2.10.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-github-actions@2.10.1?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-github-actions@2.11.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-github-actions@2.2.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-github-actions@2.3.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-github-actions@2.4.0?classifier=sources

@@ -1,6 +1,7 @@
 - pkg:maven/net.minestom/minestom-snapshots@007be52c93?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@009ba773ed?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@0129aedae3?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@0412dbfffa?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@05546d8806?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@05b3ed9e7f?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@0651c4e401?classifier=sources
@@ -9,12 +10,14 @@
 - pkg:maven/net.minestom/minestom-snapshots@0f81bc31ff?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@1058d88552?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@115f9c1355?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@11d7530dfc?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@11ed85a921?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@12794d4263?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@129fd8ca0f?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@154059468e?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@176d4bbe62?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@17fd82a5c1?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@187931e50b?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@18d6e0c6d6?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@1903e8dff2?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@19bb74e942?classifier=sources
@@ -65,6 +68,7 @@
 - pkg:maven/net.minestom/minestom-snapshots@1_21_2-2e0a9bb1aa?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@1_21_2-2e9ce0977f?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@1_21_2-3483137ec9?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@1_21_2-4fc1b0b37f?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@1_21_2-58a1eb1b25?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@1_21_2-59a97ca99e?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@1_21_2-63fb5bf72b?classifier=sources
@@ -73,9 +77,11 @@
 - pkg:maven/net.minestom/minestom-snapshots@1_21_2-80829bcf27?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@1_21_2-8334552084?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@1_21_2-888f9896cc?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@1_21_2-9bff7851c1?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@1_21_2-a88567e09d?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@1_21_2-b1ddc0bf2a?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@1_21_2-b4bd4ea221?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@1_21_2-b7ec4cd093?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@1_21_2-d4948d8310?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@1_21_2-e5a1c1385f?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@1_21_2-ee6a7180b4?classifier=sources
@@ -83,6 +89,20 @@
 - pkg:maven/net.minestom/minestom-snapshots@1_21_2-f39e5a3ed8?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@1_21_2-fe35c568af?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@1_21_2-febfe26a2c?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@1_21_4-046d18702d?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@1_21_4-1326c6eaac?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@1_21_4-3358fcb16c?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@1_21_4-35869c40fb?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@1_21_4-4ccdfafbff?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@1_21_4-4da5831880?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@1_21_4-64491c75c5?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@1_21_4-9182911ff6?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@1_21_4-93141ddf9c?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@1_21_4-bb60bd2b66?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@1_21_4-bd2c563010?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@1_21_4-e0f393a398?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@1_21_4-f80c7ec1f6?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@1_21_4-f8e052b05c?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@1b85254f91?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@1b9e186c3a?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@1c47dd613f?classifier=sources
@@ -93,6 +113,7 @@
 - pkg:maven/net.minestom/minestom-snapshots@1f07d38f2b?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@1f34e60ea6?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@204b447cdb?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@2065f63f82?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@2442f14b3d?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@247db8c0c6?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@25901b3867?classifier=sources
@@ -108,6 +129,7 @@
 - pkg:maven/net.minestom/minestom-snapshots@2f5bb97908?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@2fd79d05ee?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@2ff143a61d?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@3088dac868?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@3172039f39?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@328b0e7868?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@32f96683ee?classifier=sources
@@ -117,6 +139,7 @@
 - pkg:maven/net.minestom/minestom-snapshots@3661ecbc54?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@36ac2b5eb4?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@38b3ad3a10?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@39db19bdc5?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@3de64aafd8?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@3f60070d56?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@40517df02f?classifier=sources
@@ -142,10 +165,13 @@
 - pkg:maven/net.minestom/minestom-snapshots@4f1017d398?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@5035c2b9e3?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@5162a00b1e?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@5174263f83?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@53b7c2adf8?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@54212ebc97?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@58fd95879a?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@591d161821?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@59406d5b54?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@59d1d810e3?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@59ea880d26?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@5ac26b15c5?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@5b027599c5?classifier=sources
@@ -168,6 +194,7 @@
 - pkg:maven/net.minestom/minestom-snapshots@6758737b80?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@6877277b60?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@6932647e24?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@698af959c8?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@6b660a4e6a?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@6b8a4e4cc9?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@6c5cd6544e?classifier=sources
@@ -176,6 +203,7 @@
 - pkg:maven/net.minestom/minestom-snapshots@6e179dbd8a?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@6fc64e3a5d?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@705ec5cc07?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@719e14bd79?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@7320437640?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@73b308673b?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@776ad02d63?classifier=sources
@@ -186,6 +214,7 @@
 - pkg:maven/net.minestom/minestom-snapshots@79716ab749?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@7aaa85cd47?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@7b180172ce?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@7b659f0fc3?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@7c121eee21?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@7ce047b22e?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@7d43da919d?classifier=sources
@@ -201,6 +230,7 @@
 - pkg:maven/net.minestom/minestom-snapshots@85942b6b27?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@8736fc43d8?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@877e2bb4f2?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@8953ff467e?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@898032c554?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@8e1cb18fb6?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@8ea7760e6a?classifier=sources
@@ -211,7 +241,9 @@
 - pkg:maven/net.minestom/minestom-snapshots@96bf14500a?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@96dbad809f?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@97b7f61def?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@9803f2bfe3?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@982233141e?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@989ed1b517?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@99ca16e263?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@99f7667d9e?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@9a0d61755e?classifier=sources
@@ -246,6 +278,7 @@
 - pkg:maven/net.minestom/minestom-snapshots@adventure_nbt-c6b1ded750?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@ae7a80c59f?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@af7e357140?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@afa8f4e96a?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@afae77a41c?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@b05bfd9689?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@b0b31d4664?classifier=sources
@@ -260,6 +293,7 @@
 - pkg:maven/net.minestom/minestom-snapshots@b71edf2706?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@b832db7764?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@b9780c8603?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@ba55b05e14?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@bb7acc2e77?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@bcb0301fb1?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@better-swept-entity-collision-api-1e9e21a72c?classifier=sources
@@ -284,7 +318,9 @@
 - pkg:maven/net.minestom/minestom-snapshots@c5a145cf8b?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@c7efa827a5?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@c864773d38?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@c976f345d1?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@c9a4b4b9c1?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@ccea53ac44?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@ceeab08a2a?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@chat-event-fix-351b9b1d68?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@chat-event-fix-3fcab30a96?classifier=sources
@@ -302,7 +338,10 @@
 - pkg:maven/net.minestom/minestom-snapshots@d5c2f7df28?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@d5c6126a6b?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@d606051f1e?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@d707b0674f?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@d760a60a5c?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@d86b890cc6?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@d8c5831f4e?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@d955f51899?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@dba90a461b?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@dc17d171ce?classifier=sources
@@ -340,6 +379,7 @@
 - pkg:maven/net.minestom/minestom-snapshots@f8b6eb0d0b?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@f917ba1b9f?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@f95d73eca8?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@f966351cb7?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@fa0cd40ac1?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@fb7e4b10e0?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@fda23e4ea1?classifier=sources
@@ -347,6 +387,8 @@
 - pkg:maven/net.minestom/minestom-snapshots@fe8a230abb?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@fed512eaf6?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@ffb33e608d?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@file_registries-054ecf1793?classifier=sources
+- pkg:maven/net.minestom/minestom-snapshots@file_registries-4c14c81dba?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@fix-add-transaction-f43118ddfd?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@fix-maxspeed-cd1a31b6cf?classifier=sources
 - pkg:maven/net.minestom/minestom-snapshots@fix-use-item-12ada98d48?classifier=sources

@@ -61,6 +61,9 @@
 - pkg:maven/com.increase.api/increase-java@0.153.0?classifier=sources
 - pkg:maven/com.increase.api/increase-java@0.154.0?classifier=sources
 - pkg:maven/com.increase.api/increase-java@0.155.0?classifier=sources
+- pkg:maven/com.increase.api/increase-java@0.157.0?classifier=sources
+- pkg:maven/com.increase.api/increase-java@0.158.0?classifier=sources
+- pkg:maven/com.increase.api/increase-java@0.159.0?classifier=sources
 - pkg:maven/com.increase.api/increase-java@0.16.0?classifier=sources
 - pkg:maven/com.increase.api/increase-java@0.16.1?classifier=sources
 - pkg:maven/com.increase.api/increase-java@0.17.0?classifier=sources

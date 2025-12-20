@@ -160,6 +160,8 @@
 - pkg:maven/com.vaadin/flow-data@2.11.2?classifier=sources
 - pkg:maven/com.vaadin/flow-data@2.11.3
 - pkg:maven/com.vaadin/flow-data@2.11.3?classifier=sources
+- pkg:maven/com.vaadin/flow-data@2.11.4
+- pkg:maven/com.vaadin/flow-data@2.11.4?classifier=sources
 - pkg:maven/com.vaadin/flow-data@2.2.0
 - pkg:maven/com.vaadin/flow-data@2.2.0.alpha11
 - pkg:maven/com.vaadin/flow-data@2.2.0.alpha11?classifier=sources
@@ -486,6 +488,8 @@
 - pkg:maven/com.vaadin/flow-data@23.5.1
 - pkg:maven/com.vaadin/flow-data@23.5.10
 - pkg:maven/com.vaadin/flow-data@23.5.10?classifier=sources
+- pkg:maven/com.vaadin/flow-data@23.5.11
+- pkg:maven/com.vaadin/flow-data@23.5.11?classifier=sources
 - pkg:maven/com.vaadin/flow-data@23.5.1?classifier=sources
 - pkg:maven/com.vaadin/flow-data@23.5.2
 - pkg:maven/com.vaadin/flow-data@23.5.2?classifier=sources
@@ -662,6 +666,10 @@
 - pkg:maven/com.vaadin/flow-data@24.4.12?classifier=sources
 - pkg:maven/com.vaadin/flow-data@24.4.13
 - pkg:maven/com.vaadin/flow-data@24.4.13?classifier=sources
+- pkg:maven/com.vaadin/flow-data@24.4.14
+- pkg:maven/com.vaadin/flow-data@24.4.14?classifier=sources
+- pkg:maven/com.vaadin/flow-data@24.4.15
+- pkg:maven/com.vaadin/flow-data@24.4.15?classifier=sources
 - pkg:maven/com.vaadin/flow-data@24.4.1?classifier=sources
 - pkg:maven/com.vaadin/flow-data@24.4.2
 - pkg:maven/com.vaadin/flow-data@24.4.2?classifier=sources
@@ -682,6 +690,8 @@
 - pkg:maven/com.vaadin/flow-data@24.5.0
 - pkg:maven/com.vaadin/flow-data@24.5.0?classifier=sources
 - pkg:maven/com.vaadin/flow-data@24.5.1
+- pkg:maven/com.vaadin/flow-data@24.5.10
+- pkg:maven/com.vaadin/flow-data@24.5.10?classifier=sources
 - pkg:maven/com.vaadin/flow-data@24.5.1?classifier=sources
 - pkg:maven/com.vaadin/flow-data@24.5.2
 - pkg:maven/com.vaadin/flow-data@24.5.2?classifier=sources
@@ -695,6 +705,12 @@
 - pkg:maven/com.vaadin/flow-data@24.5.6?classifier=sources
 - pkg:maven/com.vaadin/flow-data@24.5.7
 - pkg:maven/com.vaadin/flow-data@24.5.7?classifier=sources
+- pkg:maven/com.vaadin/flow-data@24.5.8
+- pkg:maven/com.vaadin/flow-data@24.5.8?classifier=sources
+- pkg:maven/com.vaadin/flow-data@24.5.9
+- pkg:maven/com.vaadin/flow-data@24.5.9?classifier=sources
+- pkg:maven/com.vaadin/flow-data@24.6.0
+- pkg:maven/com.vaadin/flow-data@24.6.0?classifier=sources
 - pkg:maven/com.vaadin/flow-data@3.0.0
 - pkg:maven/com.vaadin/flow-data@3.0.0?classifier=sources
 - pkg:maven/com.vaadin/flow-data@3.0.1

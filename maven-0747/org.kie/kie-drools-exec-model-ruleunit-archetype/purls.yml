@@ -1,3 +1,4 @@
+- pkg:maven/org.kie/kie-drools-exec-model-ruleunit-archetype@10.0.0?classifier=sources
 - pkg:maven/org.kie/kie-drools-exec-model-ruleunit-archetype@8.24.0.Beta?classifier=sources
 - pkg:maven/org.kie/kie-drools-exec-model-ruleunit-archetype@8.24.1.Beta?classifier=sources
 - pkg:maven/org.kie/kie-drools-exec-model-ruleunit-archetype@8.25.0.Beta?classifier=sources

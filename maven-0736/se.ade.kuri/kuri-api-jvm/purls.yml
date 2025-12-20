@@ -5,3 +5,4 @@
 - pkg:maven/se.ade.kuri/kuri-api-jvm@0.0.6?classifier=sources
 - pkg:maven/se.ade.kuri/kuri-api-jvm@0.0.7?classifier=sources
 - pkg:maven/se.ade.kuri/kuri-api-jvm@0.1.0?classifier=sources
+- pkg:maven/se.ade.kuri/kuri-api-jvm@0.1.1?classifier=sources

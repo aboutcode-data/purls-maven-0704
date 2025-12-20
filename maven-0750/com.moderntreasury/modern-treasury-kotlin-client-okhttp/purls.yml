@@ -32,3 +32,4 @@
 - pkg:maven/com.moderntreasury/modern-treasury-kotlin-client-okhttp@2.8.0?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-kotlin-client-okhttp@2.9.0?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-kotlin-client-okhttp@3.0.0?classifier=sources
+- pkg:maven/com.moderntreasury/modern-treasury-kotlin-client-okhttp@3.1.0?classifier=sources

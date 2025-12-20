@@ -1,0 +1,2 @@
+- pkg:maven/space.iseki.ktxser/ktxser@0.1?classifier=sources
+- pkg:maven/space.iseki.ktxser/ktxser@0.2?classifier=sources

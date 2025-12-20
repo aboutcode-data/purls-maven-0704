@@ -74,3 +74,7 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-sse-support-jersey3@3.53.1?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-sse-support-jersey3@3.54.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-sse-support-jersey3@3.54.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-sse-support-jersey3@3.55.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-sse-support-jersey3@3.55.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-sse-support-jersey3@3.55.1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-sse-support-jersey3@3.55.1?classifier=sources

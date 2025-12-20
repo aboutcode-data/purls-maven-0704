@@ -164,3 +164,5 @@
 - pkg:maven/com.helger.phase4/phase4-peppol-server-webapp@3.0.0-rc1?type=war
 - pkg:maven/com.helger.phase4/phase4-peppol-server-webapp@3.0.0?classifier=sources
 - pkg:maven/com.helger.phase4/phase4-peppol-server-webapp@3.0.0?type=war
+- pkg:maven/com.helger.phase4/phase4-peppol-server-webapp@3.0.1?classifier=sources
+- pkg:maven/com.helger.phase4/phase4-peppol-server-webapp@3.0.1?type=war

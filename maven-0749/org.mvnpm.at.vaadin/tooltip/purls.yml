@@ -7,6 +7,7 @@
 - pkg:maven/org.mvnpm.at.vaadin/tooltip@23.3.8?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/tooltip@23.4.0?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/tooltip@23.5.0?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/tooltip@23.5.11?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/tooltip@23.5.1?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/tooltip@24.0.0?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/tooltip@24.0.2?classifier=sources
@@ -59,4 +60,6 @@
 - pkg:maven/org.mvnpm.at.vaadin/tooltip@24.5.2?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/tooltip@24.5.3?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/tooltip@24.5.4?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/tooltip@24.5.5?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/tooltip@24.6.0-alpha7?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/tooltip@24.6.0?classifier=sources

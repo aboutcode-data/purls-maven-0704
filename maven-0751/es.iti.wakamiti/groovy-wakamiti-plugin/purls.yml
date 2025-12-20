@@ -16,3 +16,5 @@
 - pkg:maven/es.iti.wakamiti/groovy-wakamiti-plugin@2.5.0?classifier=sources
 - pkg:maven/es.iti.wakamiti/groovy-wakamiti-plugin@2.6.0
 - pkg:maven/es.iti.wakamiti/groovy-wakamiti-plugin@2.6.0?classifier=sources
+- pkg:maven/es.iti.wakamiti/groovy-wakamiti-plugin@2.7.0
+- pkg:maven/es.iti.wakamiti/groovy-wakamiti-plugin@2.7.0?classifier=sources

@@ -95,6 +95,8 @@
 - pkg:maven/org.anyline/anyline-data-tugraph@8.7.2-20241107
 - pkg:maven/org.anyline/anyline-data-tugraph@8.7.2-20241120
 - pkg:maven/org.anyline/anyline-data-tugraph@8.7.2-20241125
+- pkg:maven/org.anyline/anyline-data-tugraph@8.7.2-20241231
+- pkg:maven/org.anyline/anyline-data-tugraph@8.7.2-20250101
 - pkg:maven/org.anyline/anyline-data-tugraph@8.7.2-jdk11-20240816
 - pkg:maven/org.anyline/anyline-data-tugraph@8.7.2-jdk11-20240819
 - pkg:maven/org.anyline/anyline-data-tugraph@8.7.2-jdk11-20240826
@@ -103,6 +105,8 @@
 - pkg:maven/org.anyline/anyline-data-tugraph@8.7.2-jdk11-20240919
 - pkg:maven/org.anyline/anyline-data-tugraph@8.7.2-jdk11-20241015
 - pkg:maven/org.anyline/anyline-data-tugraph@8.7.2-jdk11-20241022
+- pkg:maven/org.anyline/anyline-data-tugraph@8.7.2-jdk11-20241231
+- pkg:maven/org.anyline/anyline-data-tugraph@8.7.2-jdk11-20250101
 - pkg:maven/org.anyline/anyline-data-tugraph@8.7.2-jdk17-20240501
 - pkg:maven/org.anyline/anyline-data-tugraph@8.7.2-jdk17-20240505
 - pkg:maven/org.anyline/anyline-data-tugraph@8.7.2-jdk17-20240506
@@ -172,6 +176,8 @@
 - pkg:maven/org.anyline/anyline-data-tugraph@8.7.2-jdk17-20241015
 - pkg:maven/org.anyline/anyline-data-tugraph@8.7.2-jdk17-20241022
 - pkg:maven/org.anyline/anyline-data-tugraph@8.7.2-jdk17-20241125
+- pkg:maven/org.anyline/anyline-data-tugraph@8.7.2-jdk17-20241231
+- pkg:maven/org.anyline/anyline-data-tugraph@8.7.2-jdk17-20250101
 - pkg:maven/org.anyline/anyline-data-tugraph@8.7.2-jdk21-20240501
 - pkg:maven/org.anyline/anyline-data-tugraph@8.7.2-jdk21-20240505
 - pkg:maven/org.anyline/anyline-data-tugraph@8.7.2-jdk21-20240515
@@ -240,3 +246,6 @@
 - pkg:maven/org.anyline/anyline-data-tugraph@8.7.2-jdk21-20241022
 - pkg:maven/org.anyline/anyline-data-tugraph@8.7.2-jdk21-20241025
 - pkg:maven/org.anyline/anyline-data-tugraph@8.7.2-jdk21-20241125
+- pkg:maven/org.anyline/anyline-data-tugraph@8.7.2-jdk21-20241203
+- pkg:maven/org.anyline/anyline-data-tugraph@8.7.2-jdk21-20241231
+- pkg:maven/org.anyline/anyline-data-tugraph@8.7.2-jdk21-20250101

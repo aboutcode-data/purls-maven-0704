@@ -1,1 +1,2 @@
 - pkg:maven/com.woowla.compose.icon.collections/heroicons-android@2.1.5?classifier=sources
+- pkg:maven/com.woowla.compose.icon.collections/heroicons-android@2.2.0?classifier=sources

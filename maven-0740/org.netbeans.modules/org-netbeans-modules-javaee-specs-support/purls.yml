@@ -22,3 +22,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-specs-support@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-specs-support@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-specs-support@RELEASE230?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-specs-support@RELEASE240?classifier=sources

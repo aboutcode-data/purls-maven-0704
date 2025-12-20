@@ -68,3 +68,4 @@
 - pkg:maven/com.dynatrace.tools.android/gradle-plugin@8.301.1.1004?classifier=sources
 - pkg:maven/com.dynatrace.tools.android/gradle-plugin@8.303.1.1011?classifier=sources
 - pkg:maven/com.dynatrace.tools.android/gradle-plugin@8.303.2.1014?classifier=sources
+- pkg:maven/com.dynatrace.tools.android/gradle-plugin@8.305.1.1005?classifier=sources

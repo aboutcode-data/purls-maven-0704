@@ -1,3 +1,5 @@
+- pkg:maven/com.oracle.coherence.ce/com.oracle.coherence.ce.gradle.plugin@14.1.2-0-0
+- pkg:maven/com.oracle.coherence.ce/com.oracle.coherence.ce.gradle.plugin@14.1.2-0-0?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/com.oracle.coherence.ce.gradle.plugin@23.03
 - pkg:maven/com.oracle.coherence.ce/com.oracle.coherence.ce.gradle.plugin@23.03.1
 - pkg:maven/com.oracle.coherence.ce/com.oracle.coherence.ce.gradle.plugin@23.03.1?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/nl.marc-apps/tts-compose-macosx64@3.0.0-alpha.5?classifier=sources
+- pkg:maven/nl.marc-apps/tts-compose-macosx64@3.0.0-alpha.6?classifier=sources
+- pkg:maven/nl.marc-apps/tts-compose-macosx64@3.0.0-beta.1?classifier=sources

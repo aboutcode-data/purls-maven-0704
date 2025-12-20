@@ -50,3 +50,5 @@
 - pkg:maven/com.schibsted.account/account-sdk-android-web@7.0.0-rc1?classifier=sources
 - pkg:maven/com.schibsted.account/account-sdk-android-web@7.0.1?classifier=sources
 - pkg:maven/com.schibsted.account/account-sdk-android-web@7.1.0?classifier=sources
+- pkg:maven/com.schibsted.account/account-sdk-android-web@7.1.1-rc1?classifier=sources
+- pkg:maven/com.schibsted.account/account-sdk-android-web@7.1.1?classifier=sources

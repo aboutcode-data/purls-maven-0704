@@ -22,3 +22,5 @@
 - pkg:maven/org.eclipse.jnosql.communication/jnosql-communication-key-value@1.1.2?classifier=sources
 - pkg:maven/org.eclipse.jnosql.communication/jnosql-communication-key-value@1.1.3
 - pkg:maven/org.eclipse.jnosql.communication/jnosql-communication-key-value@1.1.3?classifier=sources
+- pkg:maven/org.eclipse.jnosql.communication/jnosql-communication-key-value@1.1.4
+- pkg:maven/org.eclipse.jnosql.communication/jnosql-communication-key-value@1.1.4?classifier=sources

@@ -5,3 +5,4 @@
 - pkg:maven/com.inrupt.client/inrupt-client-runtime@1.1.0
 - pkg:maven/com.inrupt.client/inrupt-client-runtime@1.1.1
 - pkg:maven/com.inrupt.client/inrupt-client-runtime@1.2.0
+- pkg:maven/com.inrupt.client/inrupt-client-runtime@1.3.0

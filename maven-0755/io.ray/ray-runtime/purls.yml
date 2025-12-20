@@ -88,6 +88,8 @@
 - pkg:maven/io.ray/ray-runtime@2.39.0?classifier=sources
 - pkg:maven/io.ray/ray-runtime@2.4.0
 - pkg:maven/io.ray/ray-runtime@2.4.0?classifier=sources
+- pkg:maven/io.ray/ray-runtime@2.40.0
+- pkg:maven/io.ray/ray-runtime@2.40.0?classifier=sources
 - pkg:maven/io.ray/ray-runtime@2.5.0
 - pkg:maven/io.ray/ray-runtime@2.5.0?classifier=sources
 - pkg:maven/io.ray/ray-runtime@2.5.1

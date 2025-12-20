@@ -52,3 +52,5 @@
 - pkg:maven/com.github.docker-java/docker-java-transport-okhttp@3.3.6?classifier=sources
 - pkg:maven/com.github.docker-java/docker-java-transport-okhttp@3.4.0
 - pkg:maven/com.github.docker-java/docker-java-transport-okhttp@3.4.0?classifier=sources
+- pkg:maven/com.github.docker-java/docker-java-transport-okhttp@3.4.1
+- pkg:maven/com.github.docker-java/docker-java-transport-okhttp@3.4.1?classifier=sources

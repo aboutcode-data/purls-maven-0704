@@ -1,0 +1,2 @@
+- pkg:maven/com.xemantic.kotlin/xemantic-kotlin-test-jvm@0.1.1?classifier=sources
+- pkg:maven/com.xemantic.kotlin/xemantic-kotlin-test-jvm@1.0?classifier=sources

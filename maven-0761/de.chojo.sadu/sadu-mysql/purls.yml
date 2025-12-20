@@ -11,3 +11,4 @@
 - pkg:maven/de.chojo.sadu/sadu-mysql@2.2.5?classifier=sources
 - pkg:maven/de.chojo.sadu/sadu-mysql@2.2.6?classifier=sources
 - pkg:maven/de.chojo.sadu/sadu-mysql@2.3.0?classifier=sources
+- pkg:maven/de.chojo.sadu/sadu-mysql@2.3.1?classifier=sources

@@ -8,3 +8,7 @@
 - pkg:maven/io.github.BeardedManZhao/DiskMirrorBackEnd@2024.04.12?classifier=sources
 - pkg:maven/io.github.BeardedManZhao/DiskMirrorBackEnd@2024.11.05
 - pkg:maven/io.github.BeardedManZhao/DiskMirrorBackEnd@2024.11.05?classifier=sources
+- pkg:maven/io.github.BeardedManZhao/DiskMirrorBackEnd@2024.12.03
+- pkg:maven/io.github.BeardedManZhao/DiskMirrorBackEnd@2024.12.03?classifier=sources
+- pkg:maven/io.github.BeardedManZhao/DiskMirrorBackEnd@2024.12.05
+- pkg:maven/io.github.BeardedManZhao/DiskMirrorBackEnd@2024.12.05?classifier=sources

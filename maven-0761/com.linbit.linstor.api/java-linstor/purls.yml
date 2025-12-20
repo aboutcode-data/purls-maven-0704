@@ -8,3 +8,4 @@
 - pkg:maven/com.linbit.linstor.api/java-linstor@0.5.0?classifier=sources
 - pkg:maven/com.linbit.linstor.api/java-linstor@0.5.1?classifier=sources
 - pkg:maven/com.linbit.linstor.api/java-linstor@0.5.2?classifier=sources
+- pkg:maven/com.linbit.linstor.api/java-linstor@0.6.0?classifier=sources

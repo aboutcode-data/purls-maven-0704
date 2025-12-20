@@ -354,3 +354,4 @@
 - pkg:maven/pl.allegro.tech.hermes/hermes-consumers@2.6.9?classifier=sources
 - pkg:maven/pl.allegro.tech.hermes/hermes-consumers@2.7.0?classifier=sources
 - pkg:maven/pl.allegro.tech.hermes/hermes-consumers@2.7.1?classifier=sources
+- pkg:maven/pl.allegro.tech.hermes/hermes-consumers@2.8.0?classifier=sources

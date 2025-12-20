@@ -1,1 +1,9 @@
+- pkg:maven/com.composevisualeditor.apolostudio/sonner-compose-wasm-js@1.8.0%2Bdev1962?classifier=sources
+- pkg:maven/com.composevisualeditor.apolostudio/sonner-compose-wasm-js@1.8.0%2Bdev1966?classifier=sources
+- pkg:maven/com.composevisualeditor.apolostudio/sonner-compose-wasm-js@1.8.0%2Bdev1972?classifier=sources
+- pkg:maven/com.composevisualeditor.apolostudio/sonner-compose-wasm-js@1.8.0%2Bdev1976?classifier=sources
+- pkg:maven/com.composevisualeditor.apolostudio/sonner-compose-wasm-js@1.8.0%2Bdev1981?classifier=sources
+- pkg:maven/com.composevisualeditor.apolostudio/sonner-compose-wasm-js@1.8.0%2Bdev1987?classifier=sources
+- pkg:maven/com.composevisualeditor.apolostudio/sonner-compose-wasm-js@1.8.0-alpha01?classifier=sources
 - pkg:maven/com.composevisualeditor.apolostudio/sonner-compose-wasm-js@1.8.0-dev1920?classifier=sources
+- pkg:maven/com.composevisualeditor.apolostudio/sonner-compose-wasm-js@1.8.0-dev1989?classifier=sources

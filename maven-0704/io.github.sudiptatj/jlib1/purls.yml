@@ -1,0 +1,2 @@
+- pkg:maven/io.github.sudiptatj/jlib1@1.4?classifier=sources
+- pkg:maven/io.github.sudiptatj/jlib1@1.5?classifier=sources

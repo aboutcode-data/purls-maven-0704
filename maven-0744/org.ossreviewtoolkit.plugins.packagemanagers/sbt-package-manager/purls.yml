@@ -52,6 +52,10 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/sbt-package-manager@41.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/sbt-package-manager@42.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/sbt-package-manager@42.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/sbt-package-manager@43.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/sbt-package-manager@43.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/sbt-package-manager@43.0.2?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/sbt-package-manager@44.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/sbt-package-manager@6.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/sbt-package-manager@6.1.1?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/sbt-package-manager@7.0.0?classifier=sources

@@ -1,2 +1,3 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-serialization-json-okio-wasm-wasi@1.7.2?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-serialization-json-okio-wasm-wasi@1.7.3?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-serialization-json-okio-wasm-wasi@1.8.0-RC?classifier=sources

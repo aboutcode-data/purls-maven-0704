@@ -16,3 +16,5 @@
 - pkg:maven/org.apache.spark/spark-connect_2.12@3.5.2?classifier=sources
 - pkg:maven/org.apache.spark/spark-connect_2.12@3.5.3
 - pkg:maven/org.apache.spark/spark-connect_2.12@3.5.3?classifier=sources
+- pkg:maven/org.apache.spark/spark-connect_2.12@3.5.4
+- pkg:maven/org.apache.spark/spark-connect_2.12@3.5.4?classifier=sources

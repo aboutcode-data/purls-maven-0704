@@ -42,6 +42,12 @@
 - pkg:maven/org.finos.legend.pure/legend-pure-maven-generation-pct@5.25.0?classifier=sources
 - pkg:maven/org.finos.legend.pure/legend-pure-maven-generation-pct@5.25.1
 - pkg:maven/org.finos.legend.pure/legend-pure-maven-generation-pct@5.25.1?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-maven-generation-pct@5.26.0
+- pkg:maven/org.finos.legend.pure/legend-pure-maven-generation-pct@5.26.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-maven-generation-pct@5.27.0
+- pkg:maven/org.finos.legend.pure/legend-pure-maven-generation-pct@5.27.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-maven-generation-pct@5.28.0
+- pkg:maven/org.finos.legend.pure/legend-pure-maven-generation-pct@5.28.0?classifier=sources
 - pkg:maven/org.finos.legend.pure/legend-pure-maven-generation-pct@5.8.0
 - pkg:maven/org.finos.legend.pure/legend-pure-maven-generation-pct@5.8.0?classifier=sources
 - pkg:maven/org.finos.legend.pure/legend-pure-maven-generation-pct@5.8.1

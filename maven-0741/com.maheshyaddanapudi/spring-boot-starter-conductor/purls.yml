@@ -3,3 +3,6 @@
 - pkg:maven/com.maheshyaddanapudi/spring-boot-starter-conductor@3.15.2?classifier=sources
 - pkg:maven/com.maheshyaddanapudi/spring-boot-starter-conductor@3.15.3?classifier=sources
 - pkg:maven/com.maheshyaddanapudi/spring-boot-starter-conductor@3.15.4?classifier=sources
+- pkg:maven/com.maheshyaddanapudi/spring-boot-starter-conductor@3.21.11.1?classifier=sources
+- pkg:maven/com.maheshyaddanapudi/spring-boot-starter-conductor@3.21.11.2?classifier=sources
+- pkg:maven/com.maheshyaddanapudi/spring-boot-starter-conductor@3.21.11?classifier=sources

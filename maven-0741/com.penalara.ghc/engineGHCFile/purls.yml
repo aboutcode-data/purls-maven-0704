@@ -22,3 +22,5 @@
 - pkg:maven/com.penalara.ghc/engineGHCFile@0.3?classifier=sources
 - pkg:maven/com.penalara.ghc/engineGHCFile@0.5.0
 - pkg:maven/com.penalara.ghc/engineGHCFile@0.5.0?classifier=sources
+- pkg:maven/com.penalara.ghc/engineGHCFile@0.6.0
+- pkg:maven/com.penalara.ghc/engineGHCFile@0.6.0?classifier=sources

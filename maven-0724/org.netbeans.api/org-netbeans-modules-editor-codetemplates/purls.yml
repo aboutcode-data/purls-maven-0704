@@ -23,4 +23,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-codetemplates@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-codetemplates@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-codetemplates@RELEASE230?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-editor-codetemplates@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-codetemplates@RELEASE90?classifier=sources

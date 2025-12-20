@@ -34,3 +34,5 @@
 - pkg:maven/io.github.davemeier82.homeautomation/homeautomation-spring-core@0.6.0?classifier=sources
 - pkg:maven/io.github.davemeier82.homeautomation/homeautomation-spring-core@0.6.2
 - pkg:maven/io.github.davemeier82.homeautomation/homeautomation-spring-core@0.6.2?classifier=sources
+- pkg:maven/io.github.davemeier82.homeautomation/homeautomation-spring-core@0.6.3
+- pkg:maven/io.github.davemeier82.homeautomation/homeautomation-spring-core@0.6.3?classifier=sources

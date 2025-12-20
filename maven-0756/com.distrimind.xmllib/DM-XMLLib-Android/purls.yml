@@ -1,0 +1,5 @@
+- pkg:maven/com.distrimind.xmllib/DM-XMLLib-Android@1.1.10-STABLE?classifier=sources
+- pkg:maven/com.distrimind.xmllib/DM-XMLLib-Android@1.1.11-STABLE?classifier=sources
+- pkg:maven/com.distrimind.xmllib/DM-XMLLib-Android@1.1.12-STABLE?classifier=sources
+- pkg:maven/com.distrimind.xmllib/DM-XMLLib-Android@1.1.26-STABLE?classifier=sources
+- pkg:maven/com.distrimind.xmllib/DM-XMLLib-Android@1.1.9-STABLE?classifier=sources
