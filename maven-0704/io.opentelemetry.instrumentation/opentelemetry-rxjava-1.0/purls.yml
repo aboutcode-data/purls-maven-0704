@@ -49,6 +49,7 @@
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-rxjava-1.0@1.32.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-rxjava-1.0@1.32.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-rxjava-1.0@1.33.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-rxjava-1.0@1.33.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-rxjava-1.0@1.4.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-rxjava-1.0@1.4.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-rxjava-1.0@1.5.0-alpha?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/bi.deep/druid-filtering-emitter@27.0.0?classifier=sources
 - pkg:maven/bi.deep/druid-filtering-emitter@28.0.0
 - pkg:maven/bi.deep/druid-filtering-emitter@28.0.0?classifier=sources
+- pkg:maven/bi.deep/druid-filtering-emitter@29.0.0
+- pkg:maven/bi.deep/druid-filtering-emitter@29.0.0?classifier=sources

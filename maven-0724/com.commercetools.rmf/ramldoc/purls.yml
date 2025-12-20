@@ -316,3 +316,5 @@
 - pkg:maven/com.commercetools.rmf/ramldoc@1.0.0-20240207130742?classifier=sources
 - pkg:maven/com.commercetools.rmf/ramldoc@1.0.0-20240213113606?classifier=sources
 - pkg:maven/com.commercetools.rmf/ramldoc@1.0.0-20240221102044?classifier=sources
+- pkg:maven/com.commercetools.rmf/ramldoc@1.0.0-20240322210352?classifier=sources
+- pkg:maven/com.commercetools.rmf/ramldoc@1.0.0-20240408121615?classifier=sources

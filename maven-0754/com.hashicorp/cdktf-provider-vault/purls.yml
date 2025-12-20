@@ -80,6 +80,12 @@
 - pkg:maven/com.hashicorp/cdktf-provider-vault@12.1.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-vault@12.2.0
 - pkg:maven/com.hashicorp/cdktf-provider-vault@12.2.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-vault@13.0.0
+- pkg:maven/com.hashicorp/cdktf-provider-vault@13.0.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-vault@13.1.0
+- pkg:maven/com.hashicorp/cdktf-provider-vault@13.1.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-vault@13.2.0
+- pkg:maven/com.hashicorp/cdktf-provider-vault@13.2.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-vault@2.0.0
 - pkg:maven/com.hashicorp/cdktf-provider-vault@2.0.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-vault@2.0.1

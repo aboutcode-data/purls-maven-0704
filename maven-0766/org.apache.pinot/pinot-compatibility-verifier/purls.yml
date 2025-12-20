@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.pinot/pinot-compatibility-verifier@0.12.1?classifier=sources
 - pkg:maven/org.apache.pinot/pinot-compatibility-verifier@1.0.0
 - pkg:maven/org.apache.pinot/pinot-compatibility-verifier@1.0.0?classifier=sources
+- pkg:maven/org.apache.pinot/pinot-compatibility-verifier@1.1.0
+- pkg:maven/org.apache.pinot/pinot-compatibility-verifier@1.1.0?classifier=sources

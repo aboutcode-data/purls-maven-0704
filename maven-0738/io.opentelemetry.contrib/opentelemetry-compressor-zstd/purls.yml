@@ -1,1 +1,2 @@
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-compressor-zstd@1.33.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.contrib/opentelemetry-compressor-zstd@1.34.0-alpha?classifier=sources

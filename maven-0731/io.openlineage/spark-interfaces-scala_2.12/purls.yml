@@ -1,0 +1,2 @@
+- pkg:maven/io.openlineage/spark-interfaces-scala_2.12@1.11.3?classifier=sources
+- pkg:maven/io.openlineage/spark-interfaces-scala_2.12@1.12.0?classifier=sources

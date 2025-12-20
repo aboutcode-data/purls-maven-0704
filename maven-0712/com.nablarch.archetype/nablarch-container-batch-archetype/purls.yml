@@ -2,4 +2,6 @@
 - pkg:maven/com.nablarch.archetype/nablarch-container-batch-archetype@5u21?classifier=sources
 - pkg:maven/com.nablarch.archetype/nablarch-container-batch-archetype@5u22?classifier=sources
 - pkg:maven/com.nablarch.archetype/nablarch-container-batch-archetype@5u23?classifier=sources
+- pkg:maven/com.nablarch.archetype/nablarch-container-batch-archetype@5u24?classifier=sources
 - pkg:maven/com.nablarch.archetype/nablarch-container-batch-archetype@6?classifier=sources
+- pkg:maven/com.nablarch.archetype/nablarch-container-batch-archetype@6u1?classifier=sources

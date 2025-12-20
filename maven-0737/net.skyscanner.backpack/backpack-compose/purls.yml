@@ -42,3 +42,6 @@
 - pkg:maven/net.skyscanner.backpack/backpack-compose@61.2.2?classifier=sources
 - pkg:maven/net.skyscanner.backpack/backpack-compose@61.3.0?classifier=sources
 - pkg:maven/net.skyscanner.backpack/backpack-compose@61.4.0?classifier=sources
+- pkg:maven/net.skyscanner.backpack/backpack-compose@61.5.0?classifier=sources
+- pkg:maven/net.skyscanner.backpack/backpack-compose@61.6.0?classifier=sources
+- pkg:maven/net.skyscanner.backpack/backpack-compose@61.6.1?classifier=sources

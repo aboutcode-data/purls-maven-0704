@@ -8,3 +8,4 @@
 - pkg:maven/net.sourceforge.plantuml/plantuml-mit@1.2024.1?classifier=sources
 - pkg:maven/net.sourceforge.plantuml/plantuml-mit@1.2024.2?classifier=sources
 - pkg:maven/net.sourceforge.plantuml/plantuml-mit@1.2024.3?classifier=sources
+- pkg:maven/net.sourceforge.plantuml/plantuml-mit@1.2024.4?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.commercetools.sdk/commercetools-monitoring-datadog@17.6.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-monitoring-datadog@17.7.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-monitoring-datadog@17.8.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-monitoring-datadog@17.9.0?classifier=sources

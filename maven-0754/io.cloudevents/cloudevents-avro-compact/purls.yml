@@ -1,0 +1,2 @@
+- pkg:maven/io.cloudevents/cloudevents-avro-compact@3.0.0
+- pkg:maven/io.cloudevents/cloudevents-avro-compact@3.0.0?classifier=sources

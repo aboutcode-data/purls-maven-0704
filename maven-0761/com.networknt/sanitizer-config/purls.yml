@@ -1,0 +1,2 @@
+- pkg:maven/com.networknt/sanitizer-config@2.1.33
+- pkg:maven/com.networknt/sanitizer-config@2.1.33?classifier=sources

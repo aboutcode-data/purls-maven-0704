@@ -1,3 +1,4 @@
 - pkg:maven/it.maicol07.spraypaintkt/koin-integration-iosarm64@0.1.0?classifier=sources
 - pkg:maven/it.maicol07.spraypaintkt/koin-integration-iosarm64@0.2.0?classifier=sources
 - pkg:maven/it.maicol07.spraypaintkt/koin-integration-iosarm64@1.0.0-rc1?classifier=sources
+- pkg:maven/it.maicol07.spraypaintkt/koin-integration-iosarm64@1.0.0-rc2?classifier=sources

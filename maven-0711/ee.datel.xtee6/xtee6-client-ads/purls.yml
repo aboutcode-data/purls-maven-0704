@@ -15,3 +15,4 @@
 - pkg:maven/ee.datel.xtee6/xtee6-client-ads@4.1.0?classifier=sources
 - pkg:maven/ee.datel.xtee6/xtee6-client-ads@4.1.1
 - pkg:maven/ee.datel.xtee6/xtee6-client-ads@4.1.1?classifier=sources
+- pkg:maven/ee.datel.xtee6/xtee6-client-ads@4.1.2?classifier=sources

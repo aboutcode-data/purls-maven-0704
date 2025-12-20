@@ -58,3 +58,7 @@
 - pkg:maven/se.sundsvall.dept44/dept44-starter-webservicetemplate@4.2.0?classifier=sources
 - pkg:maven/se.sundsvall.dept44/dept44-starter-webservicetemplate@4.3.0
 - pkg:maven/se.sundsvall.dept44/dept44-starter-webservicetemplate@4.3.0?classifier=sources
+- pkg:maven/se.sundsvall.dept44/dept44-starter-webservicetemplate@4.3.1
+- pkg:maven/se.sundsvall.dept44/dept44-starter-webservicetemplate@4.3.1?classifier=sources
+- pkg:maven/se.sundsvall.dept44/dept44-starter-webservicetemplate@5.0.0
+- pkg:maven/se.sundsvall.dept44/dept44-starter-webservicetemplate@5.0.0?classifier=sources

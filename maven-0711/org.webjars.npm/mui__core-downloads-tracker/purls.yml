@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/mui__core-downloads-tracker@5.14.9?classifier=sources
 - pkg:maven/org.webjars.npm/mui__core-downloads-tracker@5.15.10
 - pkg:maven/org.webjars.npm/mui__core-downloads-tracker@5.15.10?classifier=sources
+- pkg:maven/org.webjars.npm/mui__core-downloads-tracker@5.15.15
+- pkg:maven/org.webjars.npm/mui__core-downloads-tracker@5.15.15?classifier=sources

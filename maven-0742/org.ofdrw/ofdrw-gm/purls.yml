@@ -209,6 +209,10 @@
 - pkg:maven/org.ofdrw/ofdrw-gm@2.1.0
 - pkg:maven/org.ofdrw/ofdrw-gm@2.1.0?classifier=sources
 - pkg:maven/org.ofdrw/ofdrw-gm@2.2.1
+- pkg:maven/org.ofdrw/ofdrw-gm@2.2.10
+- pkg:maven/org.ofdrw/ofdrw-gm@2.2.10?classifier=sources
+- pkg:maven/org.ofdrw/ofdrw-gm@2.2.11
+- pkg:maven/org.ofdrw/ofdrw-gm@2.2.11?classifier=sources
 - pkg:maven/org.ofdrw/ofdrw-gm@2.2.1?classifier=sources
 - pkg:maven/org.ofdrw/ofdrw-gm@2.2.2
 - pkg:maven/org.ofdrw/ofdrw-gm@2.2.2?classifier=sources

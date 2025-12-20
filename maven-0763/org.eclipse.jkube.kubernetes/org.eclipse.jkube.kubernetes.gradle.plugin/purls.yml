@@ -18,6 +18,8 @@
 - pkg:maven/org.eclipse.jkube.kubernetes/org.eclipse.jkube.kubernetes.gradle.plugin@1.16.0?classifier=sources
 - pkg:maven/org.eclipse.jkube.kubernetes/org.eclipse.jkube.kubernetes.gradle.plugin@1.16.1
 - pkg:maven/org.eclipse.jkube.kubernetes/org.eclipse.jkube.kubernetes.gradle.plugin@1.16.1?classifier=sources
+- pkg:maven/org.eclipse.jkube.kubernetes/org.eclipse.jkube.kubernetes.gradle.plugin@1.16.2
+- pkg:maven/org.eclipse.jkube.kubernetes/org.eclipse.jkube.kubernetes.gradle.plugin@1.16.2?classifier=sources
 - pkg:maven/org.eclipse.jkube.kubernetes/org.eclipse.jkube.kubernetes.gradle.plugin@1.5.0
 - pkg:maven/org.eclipse.jkube.kubernetes/org.eclipse.jkube.kubernetes.gradle.plugin@1.5.0?classifier=sources
 - pkg:maven/org.eclipse.jkube.kubernetes/org.eclipse.jkube.kubernetes.gradle.plugin@1.5.1

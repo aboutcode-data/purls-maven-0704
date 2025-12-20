@@ -28,3 +28,5 @@
 - pkg:maven/org.alluxio/alluxio-shaded-hadoop3-client@310?classifier=sources
 - pkg:maven/org.alluxio/alluxio-shaded-hadoop3-client@311
 - pkg:maven/org.alluxio/alluxio-shaded-hadoop3-client@311?classifier=sources
+- pkg:maven/org.alluxio/alluxio-shaded-hadoop3-client@312
+- pkg:maven/org.alluxio/alluxio-shaded-hadoop3-client@312?classifier=sources

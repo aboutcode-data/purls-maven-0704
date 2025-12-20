@@ -37,3 +37,5 @@
 - pkg:maven/io.github.lsd-consulting/spring-wiremock-stub-generator@2.1.2?classifier=sources
 - pkg:maven/io.github.lsd-consulting/spring-wiremock-stub-generator@2.2.0?classifier=sources
 - pkg:maven/io.github.lsd-consulting/spring-wiremock-stub-generator@2.3.0?classifier=sources
+- pkg:maven/io.github.lsd-consulting/spring-wiremock-stub-generator@3.0.0?classifier=sources
+- pkg:maven/io.github.lsd-consulting/spring-wiremock-stub-generator@3.0.1?classifier=sources

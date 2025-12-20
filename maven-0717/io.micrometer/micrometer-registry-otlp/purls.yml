@@ -14,6 +14,7 @@
 - pkg:maven/io.micrometer/micrometer-registry-otlp@1.10.9?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-otlp@1.11.0?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-otlp@1.11.10?classifier=sources
+- pkg:maven/io.micrometer/micrometer-registry-otlp@1.11.11?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-otlp@1.11.1?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-otlp@1.11.2?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-otlp@1.11.3?classifier=sources
@@ -28,6 +29,7 @@
 - pkg:maven/io.micrometer/micrometer-registry-otlp@1.12.2?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-otlp@1.12.3?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-otlp@1.12.4?classifier=sources
+- pkg:maven/io.micrometer/micrometer-registry-otlp@1.12.5?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-otlp@1.9.0?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-otlp@1.9.10?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-otlp@1.9.11?classifier=sources

@@ -26,3 +26,5 @@
 - pkg:maven/com.codingame.gameengine/module-camera@4.4.3?classifier=sources
 - pkg:maven/com.codingame.gameengine/module-camera@4.4.4
 - pkg:maven/com.codingame.gameengine/module-camera@4.4.4?classifier=sources
+- pkg:maven/com.codingame.gameengine/module-camera@4.5.0
+- pkg:maven/com.codingame.gameengine/module-camera@4.5.0?classifier=sources

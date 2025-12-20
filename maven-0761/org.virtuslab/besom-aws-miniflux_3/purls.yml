@@ -1,2 +1,4 @@
 - pkg:maven/org.virtuslab/besom-aws-miniflux_3@0.1.0-core.0.2
 - pkg:maven/org.virtuslab/besom-aws-miniflux_3@0.1.0-core.0.2?classifier=sources
+- pkg:maven/org.virtuslab/besom-aws-miniflux_3@0.1.0-core.0.3
+- pkg:maven/org.virtuslab/besom-aws-miniflux_3@0.1.0-core.0.3?classifier=sources

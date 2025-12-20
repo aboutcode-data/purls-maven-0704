@@ -32,6 +32,8 @@
 - pkg:maven/org.infinispan/infinispan-spring6-remote@14.0.25.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-spring6-remote@14.0.26.Final
 - pkg:maven/org.infinispan/infinispan-spring6-remote@14.0.26.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-spring6-remote@14.0.27.Final
+- pkg:maven/org.infinispan/infinispan-spring6-remote@14.0.27.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-spring6-remote@14.0.7.Final
 - pkg:maven/org.infinispan/infinispan-spring6-remote@14.0.7.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-spring6-remote@14.0.8.Final

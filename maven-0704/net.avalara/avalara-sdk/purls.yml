@@ -1,0 +1,2 @@
+- pkg:maven/net.avalara/avalara-sdk@24.2.29
+- pkg:maven/net.avalara/avalara-sdk@24.2.29?classifier=sources

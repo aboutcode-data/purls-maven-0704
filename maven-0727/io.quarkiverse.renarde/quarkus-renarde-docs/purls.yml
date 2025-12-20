@@ -6,6 +6,9 @@
 - pkg:maven/io.quarkiverse.renarde/quarkus-renarde-docs@1.0.5
 - pkg:maven/io.quarkiverse.renarde/quarkus-renarde-docs@3.0.0
 - pkg:maven/io.quarkiverse.renarde/quarkus-renarde-docs@3.0.1
+- pkg:maven/io.quarkiverse.renarde/quarkus-renarde-docs@3.0.10
+- pkg:maven/io.quarkiverse.renarde/quarkus-renarde-docs@3.0.11
+- pkg:maven/io.quarkiverse.renarde/quarkus-renarde-docs@3.0.12
 - pkg:maven/io.quarkiverse.renarde/quarkus-renarde-docs@3.0.2
 - pkg:maven/io.quarkiverse.renarde/quarkus-renarde-docs@3.0.3
 - pkg:maven/io.quarkiverse.renarde/quarkus-renarde-docs@3.0.4

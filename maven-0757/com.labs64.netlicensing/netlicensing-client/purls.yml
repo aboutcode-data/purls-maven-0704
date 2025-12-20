@@ -62,3 +62,7 @@
 - pkg:maven/com.labs64.netlicensing/netlicensing-client@2.9.7-jdk17
 - pkg:maven/com.labs64.netlicensing/netlicensing-client@2.9.7-jdk17?classifier=sources
 - pkg:maven/com.labs64.netlicensing/netlicensing-client@2.9.7?classifier=sources
+- pkg:maven/com.labs64.netlicensing/netlicensing-client@2.9.8
+- pkg:maven/com.labs64.netlicensing/netlicensing-client@2.9.8-jdk17
+- pkg:maven/com.labs64.netlicensing/netlicensing-client@2.9.8-jdk17?classifier=sources
+- pkg:maven/com.labs64.netlicensing/netlicensing-client@2.9.8?classifier=sources

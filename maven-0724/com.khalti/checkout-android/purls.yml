@@ -1,0 +1,5 @@
+- pkg:maven/com.khalti/checkout-android@0.01.00?classifier=sources
+- pkg:maven/com.khalti/checkout-android@0.02.00?classifier=sources
+- pkg:maven/com.khalti/checkout-android@0.03.00?classifier=sources
+- pkg:maven/com.khalti/checkout-android@0.04.00?classifier=sources
+- pkg:maven/com.khalti/checkout-android@0.05.00?classifier=sources

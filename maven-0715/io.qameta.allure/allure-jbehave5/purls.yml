@@ -1,2 +1,4 @@
 - pkg:maven/io.qameta.allure/allure-jbehave5@2.24.0?classifier=sources
 - pkg:maven/io.qameta.allure/allure-jbehave5@2.25.0?classifier=sources
+- pkg:maven/io.qameta.allure/allure-jbehave5@2.26.0?classifier=sources
+- pkg:maven/io.qameta.allure/allure-jbehave5@2.27.0?classifier=sources

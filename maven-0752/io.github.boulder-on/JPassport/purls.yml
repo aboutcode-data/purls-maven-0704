@@ -1,0 +1,2 @@
+- pkg:maven/io.github.boulder-on/JPassport@1.0.0-22
+- pkg:maven/io.github.boulder-on/JPassport@1.0.0-22?classifier=sources

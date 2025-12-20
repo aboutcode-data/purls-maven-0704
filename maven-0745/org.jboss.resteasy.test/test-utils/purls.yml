@@ -1,2 +1,6 @@
 - pkg:maven/org.jboss.resteasy.test/test-utils@6.2.7.Final
 - pkg:maven/org.jboss.resteasy.test/test-utils@6.2.7.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy.test/test-utils@6.2.8.Final
+- pkg:maven/org.jboss.resteasy.test/test-utils@6.2.8.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy.test/test-utils@7.0.0.Alpha1
+- pkg:maven/org.jboss.resteasy.test/test-utils@7.0.0.Alpha1?classifier=sources

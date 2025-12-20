@@ -83,3 +83,4 @@
 - pkg:maven/io.github.strongdm/strongdm-sdk-java@6.9.0?classifier=sources
 - pkg:maven/io.github.strongdm/strongdm-sdk-java@7.0.0?classifier=sources
 - pkg:maven/io.github.strongdm/strongdm-sdk-java@7.1.0?classifier=sources
+- pkg:maven/io.github.strongdm/strongdm-sdk-java@8.0.0?classifier=sources

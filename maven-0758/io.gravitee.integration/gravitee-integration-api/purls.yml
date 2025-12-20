@@ -1,0 +1,6 @@
+- pkg:maven/io.gravitee.integration/gravitee-integration-api@1.0.0-alpha.3
+- pkg:maven/io.gravitee.integration/gravitee-integration-api@1.0.0-alpha.3?classifier=sources
+- pkg:maven/io.gravitee.integration/gravitee-integration-api@1.0.0-alpha.4
+- pkg:maven/io.gravitee.integration/gravitee-integration-api@1.0.0-alpha.4?classifier=sources
+- pkg:maven/io.gravitee.integration/gravitee-integration-api@1.0.0-alpha.5
+- pkg:maven/io.gravitee.integration/gravitee-integration-api@1.0.0-alpha.5?classifier=sources

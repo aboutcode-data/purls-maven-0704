@@ -1,3 +1,4 @@
+- pkg:maven/org.teavm/teavm-tooling@0.10.0?classifier=sources
 - pkg:maven/org.teavm/teavm-tooling@0.4.0
 - pkg:maven/org.teavm/teavm-tooling@0.4.0?classifier=sources
 - pkg:maven/org.teavm/teavm-tooling@0.4.1

@@ -10,3 +10,7 @@
 - pkg:maven/jakarta.enterprise.concurrent/jakarta.enterprise.concurrent-tck@3.1.0-M1?classifier=sources
 - pkg:maven/jakarta.enterprise.concurrent/jakarta.enterprise.concurrent-tck@3.1.0-M2
 - pkg:maven/jakarta.enterprise.concurrent/jakarta.enterprise.concurrent-tck@3.1.0-M2?classifier=sources
+- pkg:maven/jakarta.enterprise.concurrent/jakarta.enterprise.concurrent-tck@3.1.0-RC1
+- pkg:maven/jakarta.enterprise.concurrent/jakarta.enterprise.concurrent-tck@3.1.0-RC1?classifier=sources
+- pkg:maven/jakarta.enterprise.concurrent/jakarta.enterprise.concurrent-tck@3.1.0-RC2
+- pkg:maven/jakarta.enterprise.concurrent/jakarta.enterprise.concurrent-tck@3.1.0-RC2?classifier=sources

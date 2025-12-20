@@ -50,6 +50,8 @@
 - pkg:maven/io.helidon.microprofile.messaging/helidon-microprofile-messaging-health@2.6.5?classifier=sources
 - pkg:maven/io.helidon.microprofile.messaging/helidon-microprofile-messaging-health@2.6.6
 - pkg:maven/io.helidon.microprofile.messaging/helidon-microprofile-messaging-health@2.6.6?classifier=sources
+- pkg:maven/io.helidon.microprofile.messaging/helidon-microprofile-messaging-health@2.6.7
+- pkg:maven/io.helidon.microprofile.messaging/helidon-microprofile-messaging-health@2.6.7?classifier=sources
 - pkg:maven/io.helidon.microprofile.messaging/helidon-microprofile-messaging-health@3.0.0
 - pkg:maven/io.helidon.microprofile.messaging/helidon-microprofile-messaging-health@3.0.0-M1
 - pkg:maven/io.helidon.microprofile.messaging/helidon-microprofile-messaging-health@3.0.0-M1?classifier=sources
@@ -84,6 +86,8 @@
 - pkg:maven/io.helidon.microprofile.messaging/helidon-microprofile-messaging-health@3.2.5?classifier=sources
 - pkg:maven/io.helidon.microprofile.messaging/helidon-microprofile-messaging-health@3.2.6
 - pkg:maven/io.helidon.microprofile.messaging/helidon-microprofile-messaging-health@3.2.6?classifier=sources
+- pkg:maven/io.helidon.microprofile.messaging/helidon-microprofile-messaging-health@3.2.7
+- pkg:maven/io.helidon.microprofile.messaging/helidon-microprofile-messaging-health@3.2.7?classifier=sources
 - pkg:maven/io.helidon.microprofile.messaging/helidon-microprofile-messaging-health@4.0.0
 - pkg:maven/io.helidon.microprofile.messaging/helidon-microprofile-messaging-health@4.0.0-ALPHA1
 - pkg:maven/io.helidon.microprofile.messaging/helidon-microprofile-messaging-health@4.0.0-ALPHA1?classifier=sources
@@ -118,3 +122,5 @@
 - pkg:maven/io.helidon.microprofile.messaging/helidon-microprofile-messaging-health@4.0.5?classifier=sources
 - pkg:maven/io.helidon.microprofile.messaging/helidon-microprofile-messaging-health@4.0.6
 - pkg:maven/io.helidon.microprofile.messaging/helidon-microprofile-messaging-health@4.0.6?classifier=sources
+- pkg:maven/io.helidon.microprofile.messaging/helidon-microprofile-messaging-health@4.0.7
+- pkg:maven/io.helidon.microprofile.messaging/helidon-microprofile-messaging-health@4.0.7?classifier=sources

@@ -72,3 +72,9 @@
 - pkg:maven/cn.jiguang.sdk.ad.adapter/tianmu@2.0.8.10301?type=aar
 - pkg:maven/cn.jiguang.sdk.ad.adapter/tianmu@2.1.0.01102?classifier=sources
 - pkg:maven/cn.jiguang.sdk.ad.adapter/tianmu@2.1.0.01102?type=aar
+- pkg:maven/cn.jiguang.sdk.ad.adapter/tianmu@2.2.0.03061?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad.adapter/tianmu@2.2.0.03061?type=aar
+- pkg:maven/cn.jiguang.sdk.ad.adapter/tianmu@2.2.0.03062?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad.adapter/tianmu@2.2.0.03062?type=aar
+- pkg:maven/cn.jiguang.sdk.ad.adapter/tianmu@2.2.0.03063?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad.adapter/tianmu@2.2.0.03063?type=aar

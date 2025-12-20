@@ -1,6 +1,7 @@
 - pkg:maven/tech.harmonysoft/harmonysoft-kafka-test@1.100.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-kafka-test@1.102.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-kafka-test@1.103.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-kafka-test@1.105.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-kafka-test@1.34.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-kafka-test@1.35.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-kafka-test@1.36.0?classifier=sources
@@ -57,3 +58,9 @@
 - pkg:maven/tech.harmonysoft/harmonysoft-kafka-test@1.97.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-kafka-test@1.98.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-kafka-test@1.99.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-kafka-test@2.0.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-kafka-test@2.3.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-kafka-test@2.4.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-kafka-test@3.0.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-kafka-test@3.1.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-kafka-test@3.2.0?classifier=sources

@@ -42,3 +42,5 @@
 - pkg:maven/top.wu2020/wu-redis-lazy-starter@1.2.1-JDK17?classifier=sources
 - pkg:maven/top.wu2020/wu-redis-lazy-starter@1.2.2-JDK17
 - pkg:maven/top.wu2020/wu-redis-lazy-starter@1.2.2-JDK17?classifier=sources
+- pkg:maven/top.wu2020/wu-redis-lazy-starter@1.2.5-JDK17
+- pkg:maven/top.wu2020/wu-redis-lazy-starter@1.2.5-JDK17?classifier=sources

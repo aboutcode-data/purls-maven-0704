@@ -34,3 +34,7 @@
 - pkg:maven/com.tietoevry.quarkus/quarkus-resteasy-problem-deployment@3.0.0?classifier=sources
 - pkg:maven/com.tietoevry.quarkus/quarkus-resteasy-problem-deployment@3.1.0
 - pkg:maven/com.tietoevry.quarkus/quarkus-resteasy-problem-deployment@3.1.0?classifier=sources
+- pkg:maven/com.tietoevry.quarkus/quarkus-resteasy-problem-deployment@3.7.0
+- pkg:maven/com.tietoevry.quarkus/quarkus-resteasy-problem-deployment@3.7.0?classifier=sources
+- pkg:maven/com.tietoevry.quarkus/quarkus-resteasy-problem-deployment@3.9.0
+- pkg:maven/com.tietoevry.quarkus/quarkus-resteasy-problem-deployment@3.9.0?classifier=sources

@@ -1,5 +1,7 @@
 - pkg:maven/org.webjars.npm/file-type@10.11.0
 - pkg:maven/org.webjars.npm/file-type@10.11.0?classifier=sources
+- pkg:maven/org.webjars.npm/file-type@11.1.0
+- pkg:maven/org.webjars.npm/file-type@11.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/file-type@12.4.0
 - pkg:maven/org.webjars.npm/file-type@12.4.0?classifier=sources
 - pkg:maven/org.webjars.npm/file-type@16.5.4

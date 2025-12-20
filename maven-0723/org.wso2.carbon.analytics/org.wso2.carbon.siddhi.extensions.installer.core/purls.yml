@@ -74,3 +74,5 @@
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.extensions.installer.core@3.0.68?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.extensions.installer.core@3.0.69
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.extensions.installer.core@3.0.69?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.extensions.installer.core@3.0.70
+- pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.extensions.installer.core@3.0.70?classifier=sources

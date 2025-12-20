@@ -1,0 +1,3 @@
+- pkg:maven/me.tawsif.hilt/flexible-hilt-core@0.1.0?classifier=sources
+- pkg:maven/me.tawsif.hilt/flexible-hilt-core@0.1.1?classifier=sources
+- pkg:maven/me.tawsif.hilt/flexible-hilt-core@0.2.1?classifier=sources

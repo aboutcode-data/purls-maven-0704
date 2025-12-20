@@ -1,0 +1,1 @@
+- pkg:maven/org.graalvm.python/graalpy-archetype-polyglot-app@24.0.0?classifier=sources

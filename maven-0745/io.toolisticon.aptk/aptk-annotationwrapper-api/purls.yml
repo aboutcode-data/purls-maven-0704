@@ -38,3 +38,5 @@
 - pkg:maven/io.toolisticon.aptk/aptk-annotationwrapper-api@0.22.9?classifier=sources
 - pkg:maven/io.toolisticon.aptk/aptk-annotationwrapper-api@0.23.0
 - pkg:maven/io.toolisticon.aptk/aptk-annotationwrapper-api@0.23.0?classifier=sources
+- pkg:maven/io.toolisticon.aptk/aptk-annotationwrapper-api@0.24.0
+- pkg:maven/io.toolisticon.aptk/aptk-annotationwrapper-api@0.24.0?classifier=sources

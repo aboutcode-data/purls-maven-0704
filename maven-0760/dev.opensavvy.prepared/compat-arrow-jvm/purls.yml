@@ -2,3 +2,4 @@
 - pkg:maven/dev.opensavvy.prepared/compat-arrow-jvm@0.6.0?classifier=sources
 - pkg:maven/dev.opensavvy.prepared/compat-arrow-jvm@1.0.0-rc.1?classifier=sources
 - pkg:maven/dev.opensavvy.prepared/compat-arrow-jvm@1.0.0-rc.2?classifier=sources
+- pkg:maven/dev.opensavvy.prepared/compat-arrow-jvm@1.0.0?classifier=sources

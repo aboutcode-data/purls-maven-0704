@@ -10,12 +10,16 @@
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-gson@2.40?classifier=sources
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-gson@2.41
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-gson@2.41?classifier=sources
+- pkg:maven/org.glassfish.jersey.media/jersey-media-json-gson@2.42
+- pkg:maven/org.glassfish.jersey.media/jersey-media-json-gson@2.42?classifier=sources
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-gson@3.0.10
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-gson@3.0.10?classifier=sources
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-gson@3.0.11
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-gson@3.0.11?classifier=sources
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-gson@3.0.12
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-gson@3.0.12?classifier=sources
+- pkg:maven/org.glassfish.jersey.media/jersey-media-json-gson@3.0.13
+- pkg:maven/org.glassfish.jersey.media/jersey-media-json-gson@3.0.13?classifier=sources
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-gson@3.0.6
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-gson@3.0.6?classifier=sources
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-gson@3.0.7
@@ -38,3 +42,7 @@
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-gson@3.1.4?classifier=sources
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-gson@3.1.5
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-gson@3.1.5?classifier=sources
+- pkg:maven/org.glassfish.jersey.media/jersey-media-json-gson@3.1.6
+- pkg:maven/org.glassfish.jersey.media/jersey-media-json-gson@3.1.6?classifier=sources
+- pkg:maven/org.glassfish.jersey.media/jersey-media-json-gson@4.0.0-M1
+- pkg:maven/org.glassfish.jersey.media/jersey-media-json-gson@4.0.0-M1?classifier=sources

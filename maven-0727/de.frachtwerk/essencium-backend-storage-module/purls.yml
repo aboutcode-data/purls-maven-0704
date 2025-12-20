@@ -14,3 +14,5 @@
 - pkg:maven/de.frachtwerk/essencium-backend-storage-module@0.14.6?classifier=sources
 - pkg:maven/de.frachtwerk/essencium-backend-storage-module@0.15.0
 - pkg:maven/de.frachtwerk/essencium-backend-storage-module@0.15.0?classifier=sources
+- pkg:maven/de.frachtwerk/essencium-backend-storage-module@0.16.0
+- pkg:maven/de.frachtwerk/essencium-backend-storage-module@0.16.0?classifier=sources

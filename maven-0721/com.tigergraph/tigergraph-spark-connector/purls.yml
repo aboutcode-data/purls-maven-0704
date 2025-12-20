@@ -1,1 +1,2 @@
 - pkg:maven/com.tigergraph/tigergraph-spark-connector@0.1.0?classifier=sources
+- pkg:maven/com.tigergraph/tigergraph-spark-connector@0.1.1?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/org.webjars.npm/picocss__pico@2.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/picocss__pico@2.0.3
 - pkg:maven/org.webjars.npm/picocss__pico@2.0.3?classifier=sources
+- pkg:maven/org.webjars.npm/picocss__pico@2.0.6
+- pkg:maven/org.webjars.npm/picocss__pico@2.0.6?classifier=sources

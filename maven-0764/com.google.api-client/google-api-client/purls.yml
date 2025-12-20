@@ -158,3 +158,5 @@
 - pkg:maven/com.google.api-client/google-api-client@2.2.0?classifier=sources
 - pkg:maven/com.google.api-client/google-api-client@2.3.0
 - pkg:maven/com.google.api-client/google-api-client@2.3.0?classifier=sources
+- pkg:maven/com.google.api-client/google-api-client@2.4.0
+- pkg:maven/com.google.api-client/google-api-client@2.4.0?classifier=sources

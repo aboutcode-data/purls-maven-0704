@@ -1,0 +1,2 @@
+- pkg:maven/io.github.sunny-chung/kotlite-stdlib-processor-plugin@0.2?classifier=sources
+- pkg:maven/io.github.sunny-chung/kotlite-stdlib-processor-plugin@1.0.0?classifier=sources

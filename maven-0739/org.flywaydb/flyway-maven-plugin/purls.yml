@@ -6,6 +6,8 @@
 - pkg:maven/org.flywaydb/flyway-maven-plugin@10.1.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-maven-plugin@10.10.0
 - pkg:maven/org.flywaydb/flyway-maven-plugin@10.10.0?classifier=sources
+- pkg:maven/org.flywaydb/flyway-maven-plugin@10.11.0
+- pkg:maven/org.flywaydb/flyway-maven-plugin@10.11.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-maven-plugin@10.2.0
 - pkg:maven/org.flywaydb/flyway-maven-plugin@10.2.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-maven-plugin@10.3.0
