@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/fsevents@1.0.12?classifier=sources
 - pkg:maven/org.webjars.npm/fsevents@1.0.18-0
 - pkg:maven/org.webjars.npm/fsevents@1.0.18-0?classifier=sources
+- pkg:maven/org.webjars.npm/fsevents@2.3.3
+- pkg:maven/org.webjars.npm/fsevents@2.3.3?classifier=sources

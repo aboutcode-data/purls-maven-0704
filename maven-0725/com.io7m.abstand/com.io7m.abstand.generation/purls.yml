@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.abstand/com.io7m.abstand.generation@1.0.0-beta0001
+- pkg:maven/com.io7m.abstand/com.io7m.abstand.generation@1.0.0-beta0001?classifier=sources

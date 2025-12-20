@@ -10,3 +10,5 @@
 - pkg:maven/fish.focus.uvms.exchange/exchange-client@5.3.27?classifier=sources
 - pkg:maven/fish.focus.uvms.exchange/exchange-client@5.3.29
 - pkg:maven/fish.focus.uvms.exchange/exchange-client@5.3.29?classifier=sources
+- pkg:maven/fish.focus.uvms.exchange/exchange-client@5.3.30
+- pkg:maven/fish.focus.uvms.exchange/exchange-client@5.3.30?classifier=sources

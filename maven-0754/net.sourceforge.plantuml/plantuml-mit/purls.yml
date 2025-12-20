@@ -6,3 +6,5 @@
 - pkg:maven/net.sourceforge.plantuml/plantuml-mit@1.2023.8?classifier=sources
 - pkg:maven/net.sourceforge.plantuml/plantuml-mit@1.2023.9?classifier=sources
 - pkg:maven/net.sourceforge.plantuml/plantuml-mit@1.2024.1?classifier=sources
+- pkg:maven/net.sourceforge.plantuml/plantuml-mit@1.2024.2?classifier=sources
+- pkg:maven/net.sourceforge.plantuml/plantuml-mit@1.2024.3?classifier=sources

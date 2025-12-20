@@ -2,3 +2,5 @@
 - pkg:maven/info.scce/addlib-api@3.0.0?classifier=sources
 - pkg:maven/info.scce/addlib-api@3.0.1
 - pkg:maven/info.scce/addlib-api@3.0.1?classifier=sources
+- pkg:maven/info.scce/addlib-api@3.1.0
+- pkg:maven/info.scce/addlib-api@3.1.0?classifier=sources

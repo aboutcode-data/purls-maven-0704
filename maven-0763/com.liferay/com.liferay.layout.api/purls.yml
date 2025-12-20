@@ -245,6 +245,7 @@
 - pkg:maven/com.liferay/com.liferay.layout.api@42.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.api@42.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.api@43.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.api@43.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.api@5.0.0
 - pkg:maven/com.liferay/com.liferay.layout.api@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.api@5.0.0?classifier=sources-commercial

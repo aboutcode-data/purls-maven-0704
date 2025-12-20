@@ -151,3 +151,6 @@
 - pkg:maven/org.noear/solon-swagger2-knife4j@2.7.1
 - pkg:maven/org.noear/solon-swagger2-knife4j@2.7.1-M1
 - pkg:maven/org.noear/solon-swagger2-knife4j@2.7.1-M2
+- pkg:maven/org.noear/solon-swagger2-knife4j@2.7.2
+- pkg:maven/org.noear/solon-swagger2-knife4j@2.7.2-M1
+- pkg:maven/org.noear/solon-swagger2-knife4j@2.7.2-M2

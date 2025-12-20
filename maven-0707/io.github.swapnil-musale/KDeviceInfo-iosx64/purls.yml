@@ -3,3 +3,4 @@
 - pkg:maven/io.github.swapnil-musale/KDeviceInfo-iosx64@0.0.2-ALPHA?classifier=sources
 - pkg:maven/io.github.swapnil-musale/KDeviceInfo-iosx64@0.0.2?classifier=sources
 - pkg:maven/io.github.swapnil-musale/KDeviceInfo-iosx64@0.0.3?classifier=sources
+- pkg:maven/io.github.swapnil-musale/KDeviceInfo-iosx64@0.0.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.netease.nim/camellia-mq-isolation-core@1.2.27
+- pkg:maven/com.netease.nim/camellia-mq-isolation-core@1.2.27?classifier=sources

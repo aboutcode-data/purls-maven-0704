@@ -288,6 +288,10 @@
 - pkg:maven/org.finos.legend.depot/legend-depot-core-authorisation@2.27.0?classifier=sources
 - pkg:maven/org.finos.legend.depot/legend-depot-core-authorisation@2.28.0
 - pkg:maven/org.finos.legend.depot/legend-depot-core-authorisation@2.28.0?classifier=sources
+- pkg:maven/org.finos.legend.depot/legend-depot-core-authorisation@2.28.1
+- pkg:maven/org.finos.legend.depot/legend-depot-core-authorisation@2.28.1?classifier=sources
+- pkg:maven/org.finos.legend.depot/legend-depot-core-authorisation@2.28.2
+- pkg:maven/org.finos.legend.depot/legend-depot-core-authorisation@2.28.2?classifier=sources
 - pkg:maven/org.finos.legend.depot/legend-depot-core-authorisation@2.3.0
 - pkg:maven/org.finos.legend.depot/legend-depot-core-authorisation@2.3.0?classifier=sources
 - pkg:maven/org.finos.legend.depot/legend-depot-core-authorisation@2.4.0

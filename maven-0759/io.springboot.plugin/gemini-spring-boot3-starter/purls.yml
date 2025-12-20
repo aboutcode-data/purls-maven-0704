@@ -1,0 +1,2 @@
+- pkg:maven/io.springboot.plugin/gemini-spring-boot3-starter@1.0.0
+- pkg:maven/io.springboot.plugin/gemini-spring-boot3-starter@1.0.0?classifier=sources

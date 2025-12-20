@@ -1,0 +1,4 @@
+- pkg:maven/ai.botstacks/chat-sdk-iosx64@1.0.0?classifier=sources
+- pkg:maven/ai.botstacks/chat-sdk-iosx64@1.0.1?classifier=sources
+- pkg:maven/ai.botstacks/chat-sdk-iosx64@1.0.2?classifier=sources
+- pkg:maven/ai.botstacks/chat-sdk-iosx64@1.0.3?classifier=sources

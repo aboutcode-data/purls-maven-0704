@@ -1,0 +1,2 @@
+- pkg:maven/io.smallrye.stork/stork-spring-boot-config@2.6.0
+- pkg:maven/io.smallrye.stork/stork-spring-boot-config@2.6.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.mysitex.sx.lib/db2jcc@1.0
+- pkg:maven/com.mysitex.sx.lib/db2jcc@1.0?classifier=sources
+- pkg:maven/com.mysitex.sx.lib/db2jcc@1.1
+- pkg:maven/com.mysitex.sx.lib/db2jcc@1.1?classifier=sources

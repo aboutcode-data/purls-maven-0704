@@ -5,3 +5,9 @@
 - pkg:maven/io.github.ismai117/kottie-iosarm64@1.4.1?classifier=sources
 - pkg:maven/io.github.ismai117/kottie-iosarm64@1.4.2?classifier=sources
 - pkg:maven/io.github.ismai117/kottie-iosarm64@1.4.3?classifier=sources
+- pkg:maven/io.github.ismai117/kottie-iosarm64@1.5.3-alpha01?classifier=sources
+- pkg:maven/io.github.ismai117/kottie-iosarm64@1.5.3-alpha02?classifier=sources
+- pkg:maven/io.github.ismai117/kottie-iosarm64@1.5.3?classifier=sources
+- pkg:maven/io.github.ismai117/kottie-iosarm64@1.6.3-alpha01?classifier=sources
+- pkg:maven/io.github.ismai117/kottie-iosarm64@1.6.3?classifier=sources
+- pkg:maven/io.github.ismai117/kottie-iosarm64@1.7.3-alpha01?classifier=sources

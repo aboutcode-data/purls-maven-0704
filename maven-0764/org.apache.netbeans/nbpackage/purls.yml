@@ -1,3 +1,6 @@
 - pkg:maven/org.apache.netbeans/nbpackage@1.0-beta3
 - pkg:maven/org.apache.netbeans/nbpackage@1.0-beta3?classifier=source-release&type=zip
 - pkg:maven/org.apache.netbeans/nbpackage@1.0-beta3?classifier=sources
+- pkg:maven/org.apache.netbeans/nbpackage@1.0-beta4
+- pkg:maven/org.apache.netbeans/nbpackage@1.0-beta4?classifier=source-release&type=zip
+- pkg:maven/org.apache.netbeans/nbpackage@1.0-beta4?classifier=sources

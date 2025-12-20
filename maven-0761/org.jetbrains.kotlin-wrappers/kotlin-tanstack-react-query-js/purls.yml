@@ -232,6 +232,15 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-query-js@5.21.2-pre.702?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-query-js@5.21.2-pre.703?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-query-js@5.21.2-pre.704?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-query-js@5.21.2-pre.705?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-query-js@5.21.2-pre.706?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-query-js@5.24.1-pre.707?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-query-js@5.24.2-pre.708?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-query-js@5.24.2-pre.709?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-query-js@5.24.2-pre.710?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-query-js@5.24.2-pre.711?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-query-js@5.24.2-pre.712?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-query-js@5.24.2-pre.713?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-query-js@5.8.7-pre.649?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-query-js@5.8.7-pre.650?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-query-js@5.8.9-pre.651?classifier=sources

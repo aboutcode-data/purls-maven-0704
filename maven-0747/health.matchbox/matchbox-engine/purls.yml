@@ -34,3 +34,9 @@
 - pkg:maven/health.matchbox/matchbox-engine@3.5.3?classifier=sources
 - pkg:maven/health.matchbox/matchbox-engine@3.5.4
 - pkg:maven/health.matchbox/matchbox-engine@3.5.4?classifier=sources
+- pkg:maven/health.matchbox/matchbox-engine@3.6.0
+- pkg:maven/health.matchbox/matchbox-engine@3.6.0?classifier=sources
+- pkg:maven/health.matchbox/matchbox-engine@3.6.1
+- pkg:maven/health.matchbox/matchbox-engine@3.6.1?classifier=sources
+- pkg:maven/health.matchbox/matchbox-engine@3.7.0
+- pkg:maven/health.matchbox/matchbox-engine@3.7.0?classifier=sources

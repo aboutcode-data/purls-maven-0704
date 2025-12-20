@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-io-kafka-upgrade@2.53.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-kafka-upgrade@2.54.0?classifier=sources

@@ -35,3 +35,5 @@
 - pkg:maven/ee.datel/dogis6-cloud@5.0.3?classifier=sources
 - pkg:maven/ee.datel/dogis6-cloud@5.0.4
 - pkg:maven/ee.datel/dogis6-cloud@5.0.4?classifier=sources
+- pkg:maven/ee.datel/dogis6-cloud@5.0.5
+- pkg:maven/ee.datel/dogis6-cloud@5.0.5?classifier=sources

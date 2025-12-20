@@ -1,6 +1,7 @@
 - pkg:maven/org.pf4j/pf4j-quickstart@3.0.1?classifier=sources
 - pkg:maven/org.pf4j/pf4j-quickstart@3.1.0?classifier=sources
 - pkg:maven/org.pf4j/pf4j-quickstart@3.10.0?classifier=sources
+- pkg:maven/org.pf4j/pf4j-quickstart@3.11.0?classifier=sources
 - pkg:maven/org.pf4j/pf4j-quickstart@3.2.0?classifier=sources
 - pkg:maven/org.pf4j/pf4j-quickstart@3.3.0?classifier=sources
 - pkg:maven/org.pf4j/pf4j-quickstart@3.3.1?classifier=sources

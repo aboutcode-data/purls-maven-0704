@@ -1,3 +1,4 @@
 - pkg:maven/io.github.ikarenkov/kombucha-core-iosx64@0.1.1?classifier=sources
 - pkg:maven/io.github.ikarenkov/kombucha-core-iosx64@0.1.2?classifier=sources
 - pkg:maven/io.github.ikarenkov/kombucha-core-iosx64@0.1?classifier=sources
+- pkg:maven/io.github.ikarenkov/kombucha-core-iosx64@0.2?classifier=sources

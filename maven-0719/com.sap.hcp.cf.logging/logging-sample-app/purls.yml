@@ -88,3 +88,5 @@
 - pkg:maven/com.sap.hcp.cf.logging/logging-sample-app@3.8.1?type=war
 - pkg:maven/com.sap.hcp.cf.logging/logging-sample-app@3.8.2?classifier=sources
 - pkg:maven/com.sap.hcp.cf.logging/logging-sample-app@3.8.2?type=war
+- pkg:maven/com.sap.hcp.cf.logging/logging-sample-app@3.8.3?classifier=sources
+- pkg:maven/com.sap.hcp.cf.logging/logging-sample-app@3.8.3?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.unittest.junit@1.1.300
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.unittest.junit@1.1.300?classifier=sources

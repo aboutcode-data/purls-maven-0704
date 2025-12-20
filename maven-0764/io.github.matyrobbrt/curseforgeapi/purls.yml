@@ -18,3 +18,4 @@
 - pkg:maven/io.github.matyrobbrt/curseforgeapi@1.7.6?classifier=sources
 - pkg:maven/io.github.matyrobbrt/curseforgeapi@1.7.7?classifier=sources
 - pkg:maven/io.github.matyrobbrt/curseforgeapi@1.7.8?classifier=sources
+- pkg:maven/io.github.matyrobbrt/curseforgeapi@1.7.9?classifier=sources

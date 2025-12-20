@@ -1,0 +1,2 @@
+- pkg:maven/com.github.houbb/converter-core@0.2.0
+- pkg:maven/com.github.houbb/converter-core@0.2.0?classifier=sources

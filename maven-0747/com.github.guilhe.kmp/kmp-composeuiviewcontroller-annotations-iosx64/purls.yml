@@ -8,3 +8,4 @@
 - pkg:maven/com.github.guilhe.kmp/kmp-composeuiviewcontroller-annotations-iosx64@1.4.2-ALPHA?classifier=sources
 - pkg:maven/com.github.guilhe.kmp/kmp-composeuiviewcontroller-annotations-iosx64@1.4.3-ALPHA?classifier=sources
 - pkg:maven/com.github.guilhe.kmp/kmp-composeuiviewcontroller-annotations-iosx64@1.4.4-ALPHA?classifier=sources
+- pkg:maven/com.github.guilhe.kmp/kmp-composeuiviewcontroller-annotations-iosx64@1.5.0-ALPHA?classifier=sources

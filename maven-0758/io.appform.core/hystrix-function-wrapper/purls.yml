@@ -1,3 +1,5 @@
+- pkg:maven/io.appform.core/hystrix-function-wrapper@1.1.10
+- pkg:maven/io.appform.core/hystrix-function-wrapper@1.1.10?classifier=sources
 - pkg:maven/io.appform.core/hystrix-function-wrapper@1.1.4
 - pkg:maven/io.appform.core/hystrix-function-wrapper@1.1.4?classifier=sources
 - pkg:maven/io.appform.core/hystrix-function-wrapper@1.1.5

@@ -59,3 +59,4 @@
 - pkg:maven/ly.count.android/sdk@24.1.0-RC2?classifier=sources
 - pkg:maven/ly.count.android/sdk@24.1.0-RC3?classifier=sources
 - pkg:maven/ly.count.android/sdk@24.1.0?classifier=sources
+- pkg:maven/ly.count.android/sdk@24.1.1?classifier=sources

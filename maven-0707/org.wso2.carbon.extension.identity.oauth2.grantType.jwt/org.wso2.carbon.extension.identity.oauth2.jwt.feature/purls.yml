@@ -34,3 +34,4 @@
 - pkg:maven/org.wso2.carbon.extension.identity.oauth2.grantType.jwt/org.wso2.carbon.extension.identity.oauth2.jwt.feature@2.1.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.oauth2.grantType.jwt/org.wso2.carbon.extension.identity.oauth2.jwt.feature@2.2.0?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.oauth2.grantType.jwt/org.wso2.carbon.extension.identity.oauth2.jwt.feature@2.2.1?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.oauth2.grantType.jwt/org.wso2.carbon.extension.identity.oauth2.jwt.feature@2.2.4?classifier=source-release&type=zip

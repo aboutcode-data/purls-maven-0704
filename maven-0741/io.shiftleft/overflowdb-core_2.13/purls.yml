@@ -24,3 +24,5 @@
 - pkg:maven/io.shiftleft/overflowdb-core_2.13@1.185?classifier=sources
 - pkg:maven/io.shiftleft/overflowdb-core_2.13@1.186
 - pkg:maven/io.shiftleft/overflowdb-core_2.13@1.186?classifier=sources
+- pkg:maven/io.shiftleft/overflowdb-core_2.13@1.187
+- pkg:maven/io.shiftleft/overflowdb-core_2.13@1.187?classifier=sources

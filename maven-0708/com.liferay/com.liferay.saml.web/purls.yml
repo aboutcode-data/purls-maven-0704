@@ -55,6 +55,7 @@
 - pkg:maven/com.liferay/com.liferay.saml.web@1.0.57
 - pkg:maven/com.liferay/com.liferay.saml.web@1.0.57?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.web@1.0.57?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.saml.web@1.0.58?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.web@2.0.29
 - pkg:maven/com.liferay/com.liferay.saml.web@2.0.29?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.web@2.0.29?classifier=sources-commercial
@@ -146,6 +147,7 @@
 - pkg:maven/com.liferay/com.liferay.saml.web@2.0.58?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.web@2.0.59?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.web@2.0.60?classifier=sources
+- pkg:maven/com.liferay/com.liferay.saml.web@2.0.61?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.web@3.0.29
 - pkg:maven/com.liferay/com.liferay.saml.web@3.0.29?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.web@3.0.29?classifier=sources-commercial
@@ -234,6 +236,7 @@
 - pkg:maven/com.liferay/com.liferay.saml.web@3.0.57?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.web@3.0.58?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.web@3.0.59?classifier=sources
+- pkg:maven/com.liferay/com.liferay.saml.web@3.0.60?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.web@4.0.23
 - pkg:maven/com.liferay/com.liferay.saml.web@4.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.web@4.0.23?classifier=sources-commercial
@@ -369,6 +372,8 @@
 - pkg:maven/com.liferay/com.liferay.saml.web@4.0.68?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.web@4.0.69?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.web@4.0.70?classifier=sources
+- pkg:maven/com.liferay/com.liferay.saml.web@4.0.71?classifier=sources
+- pkg:maven/com.liferay/com.liferay.saml.web@4.0.72?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.web@5.0.0
 - pkg:maven/com.liferay/com.liferay.saml.web@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.web@5.0.0?classifier=sources-commercial

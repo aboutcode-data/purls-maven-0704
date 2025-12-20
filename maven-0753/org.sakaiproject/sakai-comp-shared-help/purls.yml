@@ -90,3 +90,5 @@
 - pkg:maven/org.sakaiproject/sakai-comp-shared-help@22.4?classifier=sources
 - pkg:maven/org.sakaiproject/sakai-comp-shared-help@23.0
 - pkg:maven/org.sakaiproject/sakai-comp-shared-help@23.0?classifier=sources
+- pkg:maven/org.sakaiproject/sakai-comp-shared-help@23.1
+- pkg:maven/org.sakaiproject/sakai-comp-shared-help@23.1?classifier=sources

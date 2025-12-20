@@ -1,2 +1,3 @@
 - pkg:maven/app.softwork/kotlinx-serialization-flf-watchosdevicearm64@0.0.15?classifier=sources
 - pkg:maven/app.softwork/kotlinx-serialization-flf-watchosdevicearm64@0.0.16?classifier=sources
+- pkg:maven/app.softwork/kotlinx-serialization-flf-watchosdevicearm64@0.0.17?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.opentelemetry.exporter/quarkus-opentelemetry-exporter-azure-deployment@3.5.3.Final
+- pkg:maven/io.quarkiverse.opentelemetry.exporter/quarkus-opentelemetry-exporter-azure-deployment@3.5.3.Final?classifier=sources

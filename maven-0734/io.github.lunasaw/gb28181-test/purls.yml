@@ -12,3 +12,5 @@
 - pkg:maven/io.github.lunasaw/gb28181-test@1.1.5?classifier=sources
 - pkg:maven/io.github.lunasaw/gb28181-test@1.1.6
 - pkg:maven/io.github.lunasaw/gb28181-test@1.1.6?classifier=sources
+- pkg:maven/io.github.lunasaw/gb28181-test@1.1.7
+- pkg:maven/io.github.lunasaw/gb28181-test@1.1.7?classifier=sources

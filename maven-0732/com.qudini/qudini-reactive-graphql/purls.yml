@@ -88,5 +88,7 @@
 - pkg:maven/com.qudini/qudini-reactive-graphql@0.0.77?classifier=sources
 - pkg:maven/com.qudini/qudini-reactive-graphql@0.0.79
 - pkg:maven/com.qudini/qudini-reactive-graphql@0.0.79?classifier=sources
+- pkg:maven/com.qudini/qudini-reactive-graphql@0.0.80
+- pkg:maven/com.qudini/qudini-reactive-graphql@0.0.80?classifier=sources
 - pkg:maven/com.qudini/qudini-reactive-graphql@0.078
 - pkg:maven/com.qudini/qudini-reactive-graphql@0.078?classifier=sources

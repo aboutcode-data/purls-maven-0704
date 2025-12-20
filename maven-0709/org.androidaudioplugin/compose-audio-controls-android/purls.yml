@@ -5,3 +5,6 @@
 - pkg:maven/org.androidaudioplugin/compose-audio-controls-android@0.2.0?classifier=sources
 - pkg:maven/org.androidaudioplugin/compose-audio-controls-android@0.3.0?classifier=sources
 - pkg:maven/org.androidaudioplugin/compose-audio-controls-android@0.3.1?classifier=sources
+- pkg:maven/org.androidaudioplugin/compose-audio-controls-android@0.4.0?classifier=sources
+- pkg:maven/org.androidaudioplugin/compose-audio-controls-android@0.4.1?classifier=sources
+- pkg:maven/org.androidaudioplugin/compose-audio-controls-android@0.4.3?classifier=sources

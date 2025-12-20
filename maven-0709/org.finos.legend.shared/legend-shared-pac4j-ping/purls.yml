@@ -47,3 +47,5 @@
 - pkg:maven/org.finos.legend.shared/legend-shared-pac4j-ping@0.25.0?classifier=sources
 - pkg:maven/org.finos.legend.shared/legend-shared-pac4j-ping@0.25.4
 - pkg:maven/org.finos.legend.shared/legend-shared-pac4j-ping@0.25.4?classifier=sources
+- pkg:maven/org.finos.legend.shared/legend-shared-pac4j-ping@0.25.5
+- pkg:maven/org.finos.legend.shared/legend-shared-pac4j-ping@0.25.5?classifier=sources

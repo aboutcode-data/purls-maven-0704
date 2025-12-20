@@ -2,6 +2,12 @@
 - pkg:maven/com.github.erosb/json-sKema@0.10.0?classifier=sources
 - pkg:maven/com.github.erosb/json-sKema@0.11.0
 - pkg:maven/com.github.erosb/json-sKema@0.11.0?classifier=sources
+- pkg:maven/com.github.erosb/json-sKema@0.12.0
+- pkg:maven/com.github.erosb/json-sKema@0.12.0?classifier=sources
+- pkg:maven/com.github.erosb/json-sKema@0.12.1
+- pkg:maven/com.github.erosb/json-sKema@0.12.1?classifier=sources
+- pkg:maven/com.github.erosb/json-sKema@0.13.0
+- pkg:maven/com.github.erosb/json-sKema@0.13.0?classifier=sources
 - pkg:maven/com.github.erosb/json-sKema@0.5.0
 - pkg:maven/com.github.erosb/json-sKema@0.5.0?classifier=sources
 - pkg:maven/com.github.erosb/json-sKema@0.6.0

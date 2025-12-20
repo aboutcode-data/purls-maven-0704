@@ -5,6 +5,11 @@
 - pkg:maven/com.ashampoo/kim-wasm-js@0.13.1?classifier=sources
 - pkg:maven/com.ashampoo/kim-wasm-js@0.13.2?classifier=sources
 - pkg:maven/com.ashampoo/kim-wasm-js@0.13?classifier=sources
+- pkg:maven/com.ashampoo/kim-wasm-js@0.14.1?classifier=sources
+- pkg:maven/com.ashampoo/kim-wasm-js@0.14.2?classifier=sources
+- pkg:maven/com.ashampoo/kim-wasm-js@0.14?classifier=sources
+- pkg:maven/com.ashampoo/kim-wasm-js@0.15.1?classifier=sources
+- pkg:maven/com.ashampoo/kim-wasm-js@0.15?classifier=sources
 - pkg:maven/com.ashampoo/kim-wasm-js@0.8.1?classifier=sources
 - pkg:maven/com.ashampoo/kim-wasm-js@0.8.2?classifier=sources
 - pkg:maven/com.ashampoo/kim-wasm-js@0.8.3?classifier=sources

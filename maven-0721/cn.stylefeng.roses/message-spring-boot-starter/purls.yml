@@ -38,3 +38,9 @@
 - pkg:maven/cn.stylefeng.roses/message-spring-boot-starter@7.3.3?classifier=sources
 - pkg:maven/cn.stylefeng.roses/message-spring-boot-starter@7.3.4
 - pkg:maven/cn.stylefeng.roses/message-spring-boot-starter@7.3.4?classifier=sources
+- pkg:maven/cn.stylefeng.roses/message-spring-boot-starter@8.0.0
+- pkg:maven/cn.stylefeng.roses/message-spring-boot-starter@8.0.1
+- pkg:maven/cn.stylefeng.roses/message-spring-boot-starter@8.0.2
+- pkg:maven/cn.stylefeng.roses/message-spring-boot-starter@8.0.3
+- pkg:maven/cn.stylefeng.roses/message-spring-boot-starter@8.0.4
+- pkg:maven/cn.stylefeng.roses/message-spring-boot-starter@8.0.5

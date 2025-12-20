@@ -3,3 +3,4 @@
 - pkg:maven/xyz.block/web5-credentials@0.10.0?classifier=sources
 - pkg:maven/xyz.block/web5-credentials@0.11.0?classifier=sources
 - pkg:maven/xyz.block/web5-credentials@0.12.0?classifier=sources
+- pkg:maven/xyz.block/web5-credentials@0.13.0?classifier=sources

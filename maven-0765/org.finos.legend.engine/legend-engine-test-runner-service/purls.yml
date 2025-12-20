@@ -374,6 +374,8 @@
 - pkg:maven/org.finos.legend.engine/legend-engine-test-runner-service@4.38.4?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-test-runner-service@4.39.0
 - pkg:maven/org.finos.legend.engine/legend-engine-test-runner-service@4.39.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-test-runner-service@4.39.1
+- pkg:maven/org.finos.legend.engine/legend-engine-test-runner-service@4.39.1?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-test-runner-service@4.4.0
 - pkg:maven/org.finos.legend.engine/legend-engine-test-runner-service@4.4.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-test-runner-service@4.4.1
@@ -390,6 +392,10 @@
 - pkg:maven/org.finos.legend.engine/legend-engine-test-runner-service@4.4.7?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-test-runner-service@4.4.8
 - pkg:maven/org.finos.legend.engine/legend-engine-test-runner-service@4.4.8?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-test-runner-service@4.40.0
+- pkg:maven/org.finos.legend.engine/legend-engine-test-runner-service@4.40.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-test-runner-service@4.40.3
+- pkg:maven/org.finos.legend.engine/legend-engine-test-runner-service@4.40.3?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-test-runner-service@4.5.0
 - pkg:maven/org.finos.legend.engine/legend-engine-test-runner-service@4.5.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-test-runner-service@4.6.0

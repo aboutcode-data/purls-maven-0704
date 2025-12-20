@@ -22,3 +22,5 @@
 - pkg:maven/io.quarkiverse.jooq/quarkus-jooq-deployment@2.0.0.Alpha2
 - pkg:maven/io.quarkiverse.jooq/quarkus-jooq-deployment@2.0.0.Alpha2?classifier=sources
 - pkg:maven/io.quarkiverse.jooq/quarkus-jooq-deployment@2.0.0?classifier=sources
+- pkg:maven/io.quarkiverse.jooq/quarkus-jooq-deployment@2.0.1
+- pkg:maven/io.quarkiverse.jooq/quarkus-jooq-deployment@2.0.1?classifier=sources

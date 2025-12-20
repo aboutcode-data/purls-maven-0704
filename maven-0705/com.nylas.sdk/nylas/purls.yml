@@ -4,3 +4,6 @@
 - pkg:maven/com.nylas.sdk/nylas@2.0.0-beta.4?classifier=sources
 - pkg:maven/com.nylas.sdk/nylas@2.0.0-beta.5?classifier=sources
 - pkg:maven/com.nylas.sdk/nylas@2.0.0?classifier=sources
+- pkg:maven/com.nylas.sdk/nylas@2.1.0?classifier=sources
+- pkg:maven/com.nylas.sdk/nylas@2.2.0?classifier=sources
+- pkg:maven/com.nylas.sdk/nylas@2.2.1?classifier=sources

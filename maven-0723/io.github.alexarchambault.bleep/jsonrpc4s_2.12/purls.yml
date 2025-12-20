@@ -1,0 +1,2 @@
+- pkg:maven/io.github.alexarchambault.bleep/jsonrpc4s_2.12@0.1.1
+- pkg:maven/io.github.alexarchambault.bleep/jsonrpc4s_2.12@0.1.1?classifier=sources

@@ -86,3 +86,5 @@
 - pkg:maven/io.ebean/ebean-jackson-jsonnode@13.24.0?classifier=sources
 - pkg:maven/io.ebean/ebean-jackson-jsonnode@13.25.0
 - pkg:maven/io.ebean/ebean-jackson-jsonnode@13.25.0?classifier=sources
+- pkg:maven/io.ebean/ebean-jackson-jsonnode@14.0.0
+- pkg:maven/io.ebean/ebean-jackson-jsonnode@14.0.0?classifier=sources

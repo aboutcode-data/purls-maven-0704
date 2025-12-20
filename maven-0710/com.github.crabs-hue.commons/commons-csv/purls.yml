@@ -8,3 +8,5 @@
 - pkg:maven/com.github.crabs-hue.commons/commons-csv@0.14.0?classifier=sources
 - pkg:maven/com.github.crabs-hue.commons/commons-csv@1.0.0
 - pkg:maven/com.github.crabs-hue.commons/commons-csv@1.0.0?classifier=sources
+- pkg:maven/com.github.crabs-hue.commons/commons-csv@1.1.0
+- pkg:maven/com.github.crabs-hue.commons/commons-csv@1.1.0?classifier=sources

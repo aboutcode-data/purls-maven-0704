@@ -1,0 +1,4 @@
+- pkg:maven/io.github.vdaburon/har-convertor-jmeter-plugin@1.0
+- pkg:maven/io.github.vdaburon/har-convertor-jmeter-plugin@1.0?classifier=sources
+- pkg:maven/io.github.vdaburon/har-convertor-jmeter-plugin@2.0
+- pkg:maven/io.github.vdaburon/har-convertor-jmeter-plugin@2.0?classifier=sources

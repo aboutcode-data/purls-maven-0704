@@ -20,3 +20,5 @@
 - pkg:maven/org.into-cps.maestro/fmi@2.2.5?classifier=sources
 - pkg:maven/org.into-cps.maestro/fmi@2.3.0
 - pkg:maven/org.into-cps.maestro/fmi@2.3.0?classifier=sources
+- pkg:maven/org.into-cps.maestro/fmi@2.4.0
+- pkg:maven/org.into-cps.maestro/fmi@2.4.0?classifier=sources

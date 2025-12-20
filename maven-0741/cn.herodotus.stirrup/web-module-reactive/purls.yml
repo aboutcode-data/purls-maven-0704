@@ -1,0 +1,2 @@
+- pkg:maven/cn.herodotus.stirrup/web-module-reactive@3.3.0.0-M1
+- pkg:maven/cn.herodotus.stirrup/web-module-reactive@3.3.0.0-M1?classifier=sources

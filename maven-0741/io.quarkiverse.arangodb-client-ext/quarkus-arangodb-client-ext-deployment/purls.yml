@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.arangodb-client-ext/quarkus-arangodb-client-ext-deployment@1.0.1
+- pkg:maven/io.quarkiverse.arangodb-client-ext/quarkus-arangodb-client-ext-deployment@1.0.1?classifier=sources

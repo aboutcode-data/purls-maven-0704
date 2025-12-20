@@ -1,0 +1,1 @@
+- pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-jms-common-bootstrap@2.2.0-alpha?classifier=sources

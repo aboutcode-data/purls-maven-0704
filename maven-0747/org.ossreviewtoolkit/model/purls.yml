@@ -11,6 +11,10 @@
 - pkg:maven/org.ossreviewtoolkit/model@15.2.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/model@15.3.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/model@16.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/model@17.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/model@17.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/model@17.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/model@18.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/model@2.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/model@3.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/model@4.0.0?classifier=sources

@@ -10,5 +10,11 @@
 - pkg:maven/io.github.air-iot/sdk-flow-extension-starter@4.1.14?classifier=sources
 - pkg:maven/io.github.air-iot/sdk-flow-extension-starter@4.1.15
 - pkg:maven/io.github.air-iot/sdk-flow-extension-starter@4.1.15?classifier=sources
+- pkg:maven/io.github.air-iot/sdk-flow-extension-starter@4.1.16
+- pkg:maven/io.github.air-iot/sdk-flow-extension-starter@4.1.16?classifier=sources
+- pkg:maven/io.github.air-iot/sdk-flow-extension-starter@4.1.17
+- pkg:maven/io.github.air-iot/sdk-flow-extension-starter@4.1.17-springboot3
+- pkg:maven/io.github.air-iot/sdk-flow-extension-starter@4.1.17-springboot3?classifier=sources
+- pkg:maven/io.github.air-iot/sdk-flow-extension-starter@4.1.17?classifier=sources
 - pkg:maven/io.github.air-iot/sdk-flow-extension-starter@4.1.9
 - pkg:maven/io.github.air-iot/sdk-flow-extension-starter@4.1.9?classifier=sources

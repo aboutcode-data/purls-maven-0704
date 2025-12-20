@@ -4,5 +4,7 @@
 - pkg:maven/org.tkit.onecx.quarkus/onecx-quarkus-it-tenant@0.11.0?classifier=sources
 - pkg:maven/org.tkit.onecx.quarkus/onecx-quarkus-it-tenant@0.12.0
 - pkg:maven/org.tkit.onecx.quarkus/onecx-quarkus-it-tenant@0.12.0?classifier=sources
+- pkg:maven/org.tkit.onecx.quarkus/onecx-quarkus-it-tenant@0.13.0
+- pkg:maven/org.tkit.onecx.quarkus/onecx-quarkus-it-tenant@0.13.0?classifier=sources
 - pkg:maven/org.tkit.onecx.quarkus/onecx-quarkus-it-tenant@0.9.0
 - pkg:maven/org.tkit.onecx.quarkus/onecx-quarkus-it-tenant@0.9.0?classifier=sources

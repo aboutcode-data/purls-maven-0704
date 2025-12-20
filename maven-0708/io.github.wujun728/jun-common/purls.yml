@@ -2,6 +2,8 @@
 - pkg:maven/io.github.wujun728/jun-common@0.0.1-RELEASE?classifier=sources
 - pkg:maven/io.github.wujun728/jun-common@1.0.0-RELEASE
 - pkg:maven/io.github.wujun728/jun-common@1.0.0-RELEASE?classifier=sources
+- pkg:maven/io.github.wujun728/jun-common@1.0.11
+- pkg:maven/io.github.wujun728/jun-common@1.0.11?classifier=sources
 - pkg:maven/io.github.wujun728/jun-common@1.0.8
 - pkg:maven/io.github.wujun728/jun-common@1.0.8.1
 - pkg:maven/io.github.wujun728/jun-common@1.0.8.1?classifier=sources

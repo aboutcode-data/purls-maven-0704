@@ -334,6 +334,12 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1beta2@0.172.1?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1beta2@0.173.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1beta2@0.173.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1beta2@0.174.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1beta2@0.174.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1beta2@0.175.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1beta2@0.175.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1beta2@0.175.1
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1beta2@0.175.1?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1beta2@0.86.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1beta2@0.86.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1beta2@0.87.0

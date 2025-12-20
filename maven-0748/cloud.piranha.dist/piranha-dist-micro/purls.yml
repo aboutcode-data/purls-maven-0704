@@ -26,3 +26,7 @@
 - pkg:maven/cloud.piranha.dist/piranha-dist-micro@23.9.0?classifier=sources
 - pkg:maven/cloud.piranha.dist/piranha-dist-micro@24.1.0
 - pkg:maven/cloud.piranha.dist/piranha-dist-micro@24.1.0?classifier=sources
+- pkg:maven/cloud.piranha.dist/piranha-dist-micro@24.2.0
+- pkg:maven/cloud.piranha.dist/piranha-dist-micro@24.2.0?classifier=sources
+- pkg:maven/cloud.piranha.dist/piranha-dist-micro@24.3.0
+- pkg:maven/cloud.piranha.dist/piranha-dist-micro@24.3.0?classifier=sources

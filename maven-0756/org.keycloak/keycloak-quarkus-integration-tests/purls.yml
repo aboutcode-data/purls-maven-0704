@@ -76,3 +76,7 @@
 - pkg:maven/org.keycloak/keycloak-quarkus-integration-tests@23.0.6?classifier=sources
 - pkg:maven/org.keycloak/keycloak-quarkus-integration-tests@23.0.7
 - pkg:maven/org.keycloak/keycloak-quarkus-integration-tests@23.0.7?classifier=sources
+- pkg:maven/org.keycloak/keycloak-quarkus-integration-tests@24.0.0
+- pkg:maven/org.keycloak/keycloak-quarkus-integration-tests@24.0.0?classifier=sources
+- pkg:maven/org.keycloak/keycloak-quarkus-integration-tests@24.0.1
+- pkg:maven/org.keycloak/keycloak-quarkus-integration-tests@24.0.1?classifier=sources

@@ -130,6 +130,8 @@
 - pkg:maven/com.palantir.sls-packaging/gradle-recommended-product-dependencies@7.42.0?classifier=sources
 - pkg:maven/com.palantir.sls-packaging/gradle-recommended-product-dependencies@7.43.0?classifier=sources
 - pkg:maven/com.palantir.sls-packaging/gradle-recommended-product-dependencies@7.44.0?classifier=sources
+- pkg:maven/com.palantir.sls-packaging/gradle-recommended-product-dependencies@7.45.0?classifier=sources
+- pkg:maven/com.palantir.sls-packaging/gradle-recommended-product-dependencies@7.46.0?classifier=sources
 - pkg:maven/com.palantir.sls-packaging/gradle-recommended-product-dependencies@7.5.0?classifier=sources
 - pkg:maven/com.palantir.sls-packaging/gradle-recommended-product-dependencies@7.6.0?classifier=sources
 - pkg:maven/com.palantir.sls-packaging/gradle-recommended-product-dependencies@7.7.0?classifier=sources

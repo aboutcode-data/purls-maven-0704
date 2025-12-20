@@ -11,11 +11,17 @@
 - pkg:maven/com.tryfinch.api/finch-java-core@0.17.0?classifier=sources
 - pkg:maven/com.tryfinch.api/finch-java-core@0.17.1?classifier=sources
 - pkg:maven/com.tryfinch.api/finch-java-core@0.18.0?classifier=sources
+- pkg:maven/com.tryfinch.api/finch-java-core@0.18.1?classifier=sources
+- pkg:maven/com.tryfinch.api/finch-java-core@0.19.0?classifier=sources
+- pkg:maven/com.tryfinch.api/finch-java-core@0.19.1?classifier=sources
 - pkg:maven/com.tryfinch.api/finch-java-core@0.2.0?classifier=sources
 - pkg:maven/com.tryfinch.api/finch-java-core@0.2.1?classifier=sources
 - pkg:maven/com.tryfinch.api/finch-java-core@0.2.2?classifier=sources
 - pkg:maven/com.tryfinch.api/finch-java-core@0.2.3?classifier=sources
 - pkg:maven/com.tryfinch.api/finch-java-core@0.2.4?classifier=sources
+- pkg:maven/com.tryfinch.api/finch-java-core@0.20.0?classifier=sources
+- pkg:maven/com.tryfinch.api/finch-java-core@0.21.0?classifier=sources
+- pkg:maven/com.tryfinch.api/finch-java-core@0.21.1?classifier=sources
 - pkg:maven/com.tryfinch.api/finch-java-core@0.3.0?classifier=sources
 - pkg:maven/com.tryfinch.api/finch-java-core@0.3.1?classifier=sources
 - pkg:maven/com.tryfinch.api/finch-java-core@0.3.2?classifier=sources

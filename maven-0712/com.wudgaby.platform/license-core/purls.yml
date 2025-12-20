@@ -1,0 +1,2 @@
+- pkg:maven/com.wudgaby.platform/license-core@1.1.2
+- pkg:maven/com.wudgaby.platform/license-core@1.1.2?classifier=sources

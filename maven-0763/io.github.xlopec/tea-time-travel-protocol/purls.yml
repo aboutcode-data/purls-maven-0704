@@ -14,4 +14,5 @@
 - pkg:maven/io.github.xlopec/tea-time-travel-protocol@1.0.0-alpha6?classifier=sources
 - pkg:maven/io.github.xlopec/tea-time-travel-protocol@1.0.0-alpha7-rc1?classifier=sources
 - pkg:maven/io.github.xlopec/tea-time-travel-protocol@1.0.0-alpha7?classifier=sources
+- pkg:maven/io.github.xlopec/tea-time-travel-protocol@1.0.0-alpha8-rc1?classifier=sources
 - pkg:maven/io.github.xlopec/tea-time-travel-protocol@v1.0.0-alpha1-rc2?classifier=sources

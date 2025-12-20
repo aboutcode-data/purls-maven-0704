@@ -8,6 +8,10 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/sbt-package-manager@15.2.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/sbt-package-manager@15.3.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/sbt-package-manager@16.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/sbt-package-manager@17.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/sbt-package-manager@17.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/sbt-package-manager@17.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/sbt-package-manager@18.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/sbt-package-manager@6.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/sbt-package-manager@6.1.1?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/sbt-package-manager@7.0.0?classifier=sources

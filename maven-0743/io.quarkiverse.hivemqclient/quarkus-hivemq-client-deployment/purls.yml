@@ -4,3 +4,7 @@
 - pkg:maven/io.quarkiverse.hivemqclient/quarkus-hivemq-client-deployment@1.1.0?classifier=sources
 - pkg:maven/io.quarkiverse.hivemqclient/quarkus-hivemq-client-deployment@2.0.0
 - pkg:maven/io.quarkiverse.hivemqclient/quarkus-hivemq-client-deployment@2.0.0?classifier=sources
+- pkg:maven/io.quarkiverse.hivemqclient/quarkus-hivemq-client-deployment@2.1.0
+- pkg:maven/io.quarkiverse.hivemqclient/quarkus-hivemq-client-deployment@2.1.0?classifier=sources
+- pkg:maven/io.quarkiverse.hivemqclient/quarkus-hivemq-client-deployment@2.2.0
+- pkg:maven/io.quarkiverse.hivemqclient/quarkus-hivemq-client-deployment@2.2.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/pro.fessional.wings/testing-batrider@3.2.101
 - pkg:maven/pro.fessional.wings/testing-batrider@3.2.101?classifier=sources
+- pkg:maven/pro.fessional.wings/testing-batrider@3.2.110
+- pkg:maven/pro.fessional.wings/testing-batrider@3.2.110?classifier=sources

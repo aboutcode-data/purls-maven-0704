@@ -17,3 +17,4 @@
 - pkg:maven/io.getstream/stream-video-android-core@0.4.3?classifier=sources
 - pkg:maven/io.getstream/stream-video-android-core@0.5.0?classifier=sources
 - pkg:maven/io.getstream/stream-video-android-core@0.5.1?classifier=sources
+- pkg:maven/io.getstream/stream-video-android-core@0.5.2?classifier=sources
