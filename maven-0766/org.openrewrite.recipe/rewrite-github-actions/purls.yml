@@ -31,3 +31,4 @@
 - pkg:maven/org.openrewrite.recipe/rewrite-github-actions@2.0.4?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-github-actions@2.0.5?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-github-actions@2.0.6?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-github-actions@2.0.7?classifier=sources

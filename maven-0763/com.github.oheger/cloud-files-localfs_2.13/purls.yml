@@ -6,3 +6,5 @@
 - pkg:maven/com.github.oheger/cloud-files-localfs_2.13@0.4?classifier=sources
 - pkg:maven/com.github.oheger/cloud-files-localfs_2.13@0.5
 - pkg:maven/com.github.oheger/cloud-files-localfs_2.13@0.5?classifier=sources
+- pkg:maven/com.github.oheger/cloud-files-localfs_2.13@0.6
+- pkg:maven/com.github.oheger/cloud-files-localfs_2.13@0.6?classifier=sources

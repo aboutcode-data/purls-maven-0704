@@ -125,6 +125,10 @@
 - pkg:maven/com.c4-soft.springaddons.starter/spring-addons-starters-webclient@7.1.1
 - pkg:maven/com.c4-soft.springaddons.starter/spring-addons-starters-webclient@7.1.10
 - pkg:maven/com.c4-soft.springaddons.starter/spring-addons-starters-webclient@7.1.10?classifier=sources
+- pkg:maven/com.c4-soft.springaddons.starter/spring-addons-starters-webclient@7.1.12
+- pkg:maven/com.c4-soft.springaddons.starter/spring-addons-starters-webclient@7.1.12?classifier=sources
+- pkg:maven/com.c4-soft.springaddons.starter/spring-addons-starters-webclient@7.1.13
+- pkg:maven/com.c4-soft.springaddons.starter/spring-addons-starters-webclient@7.1.13?classifier=sources
 - pkg:maven/com.c4-soft.springaddons.starter/spring-addons-starters-webclient@7.1.1?classifier=sources
 - pkg:maven/com.c4-soft.springaddons.starter/spring-addons-starters-webclient@7.1.2
 - pkg:maven/com.c4-soft.springaddons.starter/spring-addons-starters-webclient@7.1.2?classifier=sources
@@ -140,3 +144,5 @@
 - pkg:maven/com.c4-soft.springaddons.starter/spring-addons-starters-webclient@7.1.8?classifier=sources
 - pkg:maven/com.c4-soft.springaddons.starter/spring-addons-starters-webclient@7.1.9
 - pkg:maven/com.c4-soft.springaddons.starter/spring-addons-starters-webclient@7.1.9?classifier=sources
+- pkg:maven/com.c4-soft.springaddons.starter/spring-addons-starters-webclient@git
+- pkg:maven/com.c4-soft.springaddons.starter/spring-addons-starters-webclient@git?classifier=sources

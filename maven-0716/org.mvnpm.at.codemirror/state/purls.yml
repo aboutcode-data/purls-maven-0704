@@ -2,3 +2,5 @@
 - pkg:maven/org.mvnpm.at.codemirror/state@6.1.4?classifier=sources
 - pkg:maven/org.mvnpm.at.codemirror/state@6.2.0?classifier=sources
 - pkg:maven/org.mvnpm.at.codemirror/state@6.2.1?classifier=sources
+- pkg:maven/org.mvnpm.at.codemirror/state@6.3.0?classifier=sources
+- pkg:maven/org.mvnpm.at.codemirror/state@6.3.1?classifier=sources

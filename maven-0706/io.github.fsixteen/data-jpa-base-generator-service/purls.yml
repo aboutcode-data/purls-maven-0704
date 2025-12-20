@@ -1,0 +1,2 @@
+- pkg:maven/io.github.fsixteen/data-jpa-base-generator-service@1.0.1
+- pkg:maven/io.github.fsixteen/data-jpa-base-generator-service@1.0.1?classifier=sources

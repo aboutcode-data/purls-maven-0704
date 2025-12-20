@@ -10,3 +10,7 @@
 - pkg:maven/se.uhr.simone/admin.client@3.3.3?classifier=sources
 - pkg:maven/se.uhr.simone/admin.client@3.3.4
 - pkg:maven/se.uhr.simone/admin.client@3.3.4?classifier=sources
+- pkg:maven/se.uhr.simone/admin.client@4.0.2-rc.1
+- pkg:maven/se.uhr.simone/admin.client@4.0.2-rc.1?classifier=sources
+- pkg:maven/se.uhr.simone/admin.client@4.0.3-rc.1
+- pkg:maven/se.uhr.simone/admin.client@4.0.3-rc.1?classifier=sources

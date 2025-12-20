@@ -1,0 +1,2 @@
+- pkg:maven/net.codinux.log/log-appender-base-jvm@0.5.0?classifier=sources
+- pkg:maven/net.codinux.log/log-appender-base-jvm@0.5.1?classifier=sources

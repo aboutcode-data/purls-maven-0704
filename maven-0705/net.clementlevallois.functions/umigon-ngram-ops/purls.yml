@@ -4,3 +4,5 @@
 - pkg:maven/net.clementlevallois.functions/umigon-ngram-ops@0.13?classifier=sources
 - pkg:maven/net.clementlevallois.functions/umigon-ngram-ops@0.14?classifier=sources
 - pkg:maven/net.clementlevallois.functions/umigon-ngram-ops@0.16?classifier=sources
+- pkg:maven/net.clementlevallois.functions/umigon-ngram-ops@0.17?classifier=sources
+- pkg:maven/net.clementlevallois.functions/umigon-ngram-ops@0.18?classifier=sources

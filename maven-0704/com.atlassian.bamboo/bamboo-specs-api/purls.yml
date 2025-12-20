@@ -235,7 +235,15 @@
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@9.2.3?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@9.2.4?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@9.2.5?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-api@9.2.6?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-api@9.2.7?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@9.3.0?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@9.3.1?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@9.3.2?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@9.3.3?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-api@9.3.4?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-api@9.3.5?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-api@9.4.0-rc1?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-api@9.4.0-rc2?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-api@9.4.0?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-api@9.4.1?classifier=sources

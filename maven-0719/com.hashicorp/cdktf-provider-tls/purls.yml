@@ -1230,3 +1230,5 @@
 - pkg:maven/com.hashicorp/cdktf-provider-tls@7.0.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-tls@8.0.0
 - pkg:maven/com.hashicorp/cdktf-provider-tls@8.0.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-tls@9.0.0
+- pkg:maven/com.hashicorp/cdktf-provider-tls@9.0.0?classifier=sources

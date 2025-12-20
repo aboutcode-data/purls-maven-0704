@@ -4,3 +4,5 @@
 - pkg:maven/io.github.licy5352.dagger/hilt-android-testing@2.40.5-alpha03?type=aar
 - pkg:maven/io.github.licy5352.dagger/hilt-android-testing@2.40.5-rc1?classifier=sources
 - pkg:maven/io.github.licy5352.dagger/hilt-android-testing@2.40.5-rc1?type=aar
+- pkg:maven/io.github.licy5352.dagger/hilt-android-testing@2.45-kim-rc1?classifier=sources
+- pkg:maven/io.github.licy5352.dagger/hilt-android-testing@2.45-kim-rc1?type=aar

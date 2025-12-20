@@ -27,3 +27,4 @@
 - pkg:maven/com.datomic/client-pro@1.0.74
 - pkg:maven/com.datomic/client-pro@1.0.75
 - pkg:maven/com.datomic/client-pro@1.0.76
+- pkg:maven/com.datomic/client-pro@1.0.77

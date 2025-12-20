@@ -1,0 +1,2 @@
+- pkg:maven/com.universalmediaserver/tmdbapi@0.2
+- pkg:maven/com.universalmediaserver/tmdbapi@0.2?classifier=sources

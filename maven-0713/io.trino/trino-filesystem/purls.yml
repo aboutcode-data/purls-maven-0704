@@ -66,3 +66,13 @@
 - pkg:maven/io.trino/trino-filesystem@426?classifier=sources
 - pkg:maven/io.trino/trino-filesystem@427
 - pkg:maven/io.trino/trino-filesystem@427?classifier=sources
+- pkg:maven/io.trino/trino-filesystem@428
+- pkg:maven/io.trino/trino-filesystem@428?classifier=sources
+- pkg:maven/io.trino/trino-filesystem@429
+- pkg:maven/io.trino/trino-filesystem@429?classifier=sources
+- pkg:maven/io.trino/trino-filesystem@430
+- pkg:maven/io.trino/trino-filesystem@430?classifier=sources
+- pkg:maven/io.trino/trino-filesystem@431
+- pkg:maven/io.trino/trino-filesystem@431?classifier=sources
+- pkg:maven/io.trino/trino-filesystem@432
+- pkg:maven/io.trino/trino-filesystem@432?classifier=sources

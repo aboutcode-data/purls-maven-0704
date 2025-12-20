@@ -36,6 +36,8 @@
 - pkg:maven/org.glassfish.jaxb/codemodel-annotation-compiler@2.3.7?classifier=sources
 - pkg:maven/org.glassfish.jaxb/codemodel-annotation-compiler@2.3.8
 - pkg:maven/org.glassfish.jaxb/codemodel-annotation-compiler@2.3.8?classifier=sources
+- pkg:maven/org.glassfish.jaxb/codemodel-annotation-compiler@2.3.9
+- pkg:maven/org.glassfish.jaxb/codemodel-annotation-compiler@2.3.9?classifier=sources
 - pkg:maven/org.glassfish.jaxb/codemodel-annotation-compiler@2.4.0-b180725.0644
 - pkg:maven/org.glassfish.jaxb/codemodel-annotation-compiler@2.4.0-b180725.0644?classifier=sources
 - pkg:maven/org.glassfish.jaxb/codemodel-annotation-compiler@2.4.0-b180830.0438
@@ -78,3 +80,5 @@
 - pkg:maven/org.glassfish.jaxb/codemodel-annotation-compiler@4.0.2?classifier=sources
 - pkg:maven/org.glassfish.jaxb/codemodel-annotation-compiler@4.0.3
 - pkg:maven/org.glassfish.jaxb/codemodel-annotation-compiler@4.0.3?classifier=sources
+- pkg:maven/org.glassfish.jaxb/codemodel-annotation-compiler@4.0.4
+- pkg:maven/org.glassfish.jaxb/codemodel-annotation-compiler@4.0.4?classifier=sources

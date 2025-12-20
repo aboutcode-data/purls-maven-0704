@@ -30,5 +30,7 @@
 - pkg:maven/ru.i-novus.ms.rdm/rdm-rest@4.15.0?classifier=sources
 - pkg:maven/ru.i-novus.ms.rdm/rdm-rest@4.16.0
 - pkg:maven/ru.i-novus.ms.rdm/rdm-rest@4.16.0?classifier=sources
+- pkg:maven/ru.i-novus.ms.rdm/rdm-rest@4.17.0
+- pkg:maven/ru.i-novus.ms.rdm/rdm-rest@4.17.0?classifier=sources
 - pkg:maven/ru.i-novus.ms.rdm/rdm-rest@4.9.1
 - pkg:maven/ru.i-novus.ms.rdm/rdm-rest@4.9.1?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/com.icthh.xm.commons/xm-commons-lep-js@2.3.10
+- pkg:maven/com.icthh.xm.commons/xm-commons-lep-js@2.3.10?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-lep-js@2.3.7
 - pkg:maven/com.icthh.xm.commons/xm-commons-lep-js@2.3.7?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-lep-js@2.3.8

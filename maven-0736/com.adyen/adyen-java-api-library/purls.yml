@@ -134,6 +134,10 @@
 - pkg:maven/com.adyen/adyen-java-api-library@21.4.0?classifier=sources
 - pkg:maven/com.adyen/adyen-java-api-library@21.5.0
 - pkg:maven/com.adyen/adyen-java-api-library@21.5.0?classifier=sources
+- pkg:maven/com.adyen/adyen-java-api-library@21.6.0
+- pkg:maven/com.adyen/adyen-java-api-library@21.6.0?classifier=sources
+- pkg:maven/com.adyen/adyen-java-api-library@22.0.0-beta
+- pkg:maven/com.adyen/adyen-java-api-library@22.0.0-beta?classifier=sources
 - pkg:maven/com.adyen/adyen-java-api-library@3.0.0
 - pkg:maven/com.adyen/adyen-java-api-library@3.0.0?classifier=sources
 - pkg:maven/com.adyen/adyen-java-api-library@4.0.0

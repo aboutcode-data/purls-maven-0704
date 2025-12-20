@@ -1,0 +1,2 @@
+- pkg:maven/icu.zhhll/tools-spring-datasource@0.0.6
+- pkg:maven/icu.zhhll/tools-spring-datasource@0.0.6?classifier=sources

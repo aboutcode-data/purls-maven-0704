@@ -1,0 +1,4 @@
+- pkg:maven/br.usp.each.saeg/jaguar2-csv-exporter@0.0.1
+- pkg:maven/br.usp.each.saeg/jaguar2-csv-exporter@0.0.1-jdk6
+- pkg:maven/br.usp.each.saeg/jaguar2-csv-exporter@0.0.1-jdk6?classifier=sources
+- pkg:maven/br.usp.each.saeg/jaguar2-csv-exporter@0.0.1?classifier=sources

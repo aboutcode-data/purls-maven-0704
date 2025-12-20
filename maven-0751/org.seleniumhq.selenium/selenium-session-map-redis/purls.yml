@@ -40,6 +40,12 @@
 - pkg:maven/org.seleniumhq.selenium/selenium-session-map-redis@4.12.1?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/selenium-session-map-redis@4.13.0
 - pkg:maven/org.seleniumhq.selenium/selenium-session-map-redis@4.13.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-session-map-redis@4.14.0
+- pkg:maven/org.seleniumhq.selenium/selenium-session-map-redis@4.14.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-session-map-redis@4.14.1
+- pkg:maven/org.seleniumhq.selenium/selenium-session-map-redis@4.14.1?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-session-map-redis@4.15.0
+- pkg:maven/org.seleniumhq.selenium/selenium-session-map-redis@4.15.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/selenium-session-map-redis@4.2.0
 - pkg:maven/org.seleniumhq.selenium/selenium-session-map-redis@4.2.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/selenium-session-map-redis@4.2.1

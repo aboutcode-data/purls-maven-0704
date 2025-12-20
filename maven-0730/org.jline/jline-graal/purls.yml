@@ -10,3 +10,7 @@
 - pkg:maven/org.jline/jline-graal@3.22.0?classifier=sources
 - pkg:maven/org.jline/jline-graal@3.23.0
 - pkg:maven/org.jline/jline-graal@3.23.0?classifier=sources
+- pkg:maven/org.jline/jline-graal@3.24.0
+- pkg:maven/org.jline/jline-graal@3.24.0?classifier=sources
+- pkg:maven/org.jline/jline-graal@3.24.1
+- pkg:maven/org.jline/jline-graal@3.24.1?classifier=sources

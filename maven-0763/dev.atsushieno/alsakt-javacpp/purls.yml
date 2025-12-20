@@ -1,1 +1,2 @@
 - pkg:maven/dev.atsushieno/alsakt-javacpp@0.1.4.3?classifier=sources
+- pkg:maven/dev.atsushieno/alsakt-javacpp@0.2.0?classifier=sources

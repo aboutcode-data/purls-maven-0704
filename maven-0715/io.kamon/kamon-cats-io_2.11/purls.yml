@@ -110,3 +110,5 @@
 - pkg:maven/io.kamon/kamon-cats-io_2.11@2.6.3?classifier=sources
 - pkg:maven/io.kamon/kamon-cats-io_2.11@2.6.4
 - pkg:maven/io.kamon/kamon-cats-io_2.11@2.6.4?classifier=sources
+- pkg:maven/io.kamon/kamon-cats-io_2.11@2.6.5
+- pkg:maven/io.kamon/kamon-cats-io_2.11@2.6.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/github-com-mitre-jsonix@3.0.7
+- pkg:maven/org.webjars.bower/github-com-mitre-jsonix@3.0.7?classifier=sources

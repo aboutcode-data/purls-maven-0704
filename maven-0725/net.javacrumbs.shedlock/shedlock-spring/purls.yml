@@ -208,6 +208,8 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-spring@5.0.1?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-spring@5.1.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-spring@5.1.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-spring@5.10.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-spring@5.10.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-spring@5.2.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-spring@5.2.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-spring@5.3.0
@@ -222,3 +224,7 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-spring@5.7.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-spring@5.8.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-spring@5.8.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-spring@5.9.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-spring@5.9.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-spring@5.9.1
+- pkg:maven/net.javacrumbs.shedlock/shedlock-spring@5.9.1?classifier=sources

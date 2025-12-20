@@ -48,3 +48,4 @@
 - pkg:maven/tech.harmonysoft/harmonysoft-kafka-test@1.89.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-kafka-test@1.90.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-kafka-test@1.91.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-kafka-test@1.92.0?classifier=sources

@@ -49,3 +49,4 @@
 - pkg:maven/com.mapp.sdk/mapp-android@6.0.19-rc01?classifier=sources
 - pkg:maven/com.mapp.sdk/mapp-android@6.0.19-rc01?type=aar
 - pkg:maven/com.mapp.sdk/mapp-android@6.0.19-rc02?type=aar
+- pkg:maven/com.mapp.sdk/mapp-android@6.0.20.1?classifier=sources

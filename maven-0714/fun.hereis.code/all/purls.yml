@@ -1,3 +1,9 @@
+- pkg:maven/fun.hereis.code/all@1.11.1.RLS
+- pkg:maven/fun.hereis.code/all@1.11.1.RLS?classifier=sources
+- pkg:maven/fun.hereis.code/all@1.11.2.RLS
+- pkg:maven/fun.hereis.code/all@1.11.2.RLS?classifier=sources
+- pkg:maven/fun.hereis.code/all@1.11.3.RLS
+- pkg:maven/fun.hereis.code/all@1.11.3.RLS?classifier=sources
 - pkg:maven/fun.hereis.code/all@1.11.RLS
 - pkg:maven/fun.hereis.code/all@1.11.RLS?classifier=sources
 - pkg:maven/fun.hereis.code/all@1.14.RLS
@@ -28,6 +34,8 @@
 - pkg:maven/fun.hereis.code/all@2.2.RLS?classifier=sources
 - pkg:maven/fun.hereis.code/all@2.3.RLS
 - pkg:maven/fun.hereis.code/all@2.3.RLS?classifier=sources
+- pkg:maven/fun.hereis.code/all@2.4.1.RLS
+- pkg:maven/fun.hereis.code/all@2.4.1.RLS?classifier=sources
 - pkg:maven/fun.hereis.code/all@2.4.RLS
 - pkg:maven/fun.hereis.code/all@2.4.RLS?classifier=sources
 - pkg:maven/fun.hereis.code/all@3.0.RLS

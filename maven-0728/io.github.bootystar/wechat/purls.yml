@@ -1,2 +1,4 @@
 - pkg:maven/io.github.bootystar/wechat@0.0.3
 - pkg:maven/io.github.bootystar/wechat@0.0.3?classifier=sources
+- pkg:maven/io.github.bootystar/wechat@1.0.1
+- pkg:maven/io.github.bootystar/wechat@1.0.1?classifier=sources

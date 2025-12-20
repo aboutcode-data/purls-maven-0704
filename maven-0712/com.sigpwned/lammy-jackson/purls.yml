@@ -1,0 +1,2 @@
+- pkg:maven/com.sigpwned/lammy-jackson@0.0.0-b0
+- pkg:maven/com.sigpwned/lammy-jackson@0.0.0-b0?classifier=sources

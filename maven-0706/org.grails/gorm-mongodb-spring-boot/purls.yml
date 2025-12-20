@@ -124,3 +124,4 @@
 - pkg:maven/org.grails/gorm-mongodb-spring-boot@8.0.0-M2?classifier=sources
 - pkg:maven/org.grails/gorm-mongodb-spring-boot@8.0.0-RC1?classifier=sources
 - pkg:maven/org.grails/gorm-mongodb-spring-boot@8.0.0?classifier=sources
+- pkg:maven/org.grails/gorm-mongodb-spring-boot@8.1.0?classifier=sources

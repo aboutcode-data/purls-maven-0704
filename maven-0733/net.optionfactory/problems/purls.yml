@@ -6,3 +6,5 @@
 - pkg:maven/net.optionfactory/problems@1.2.1
 - pkg:maven/net.optionfactory/problems@1.2.1?classifier=sources
 - pkg:maven/net.optionfactory/problems@1.2?classifier=sources
+- pkg:maven/net.optionfactory/problems@2.1
+- pkg:maven/net.optionfactory/problems@2.1?classifier=sources

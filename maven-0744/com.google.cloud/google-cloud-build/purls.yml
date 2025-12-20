@@ -135,6 +135,12 @@
 - pkg:maven/com.google.cloud/google-cloud-build@3.3.8?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-build@3.3.9
 - pkg:maven/com.google.cloud/google-cloud-build@3.3.9?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-build@3.30.0
+- pkg:maven/com.google.cloud/google-cloud-build@3.30.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-build@3.31.0
+- pkg:maven/com.google.cloud/google-cloud-build@3.31.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-build@3.32.0
+- pkg:maven/com.google.cloud/google-cloud-build@3.32.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-build@3.4.0
 - pkg:maven/com.google.cloud/google-cloud-build@3.4.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-build@3.4.1

@@ -142,6 +142,7 @@
 - pkg:maven/org.camunda.bpm.model/camunda-xml-model@7.2.0-alpha6
 - pkg:maven/org.camunda.bpm.model/camunda-xml-model@7.2.0-alpha6?classifier=sources
 - pkg:maven/org.camunda.bpm.model/camunda-xml-model@7.2.0?classifier=sources
+- pkg:maven/org.camunda.bpm.model/camunda-xml-model@7.20.0
 - pkg:maven/org.camunda.bpm.model/camunda-xml-model@7.20.0-alpha1
 - pkg:maven/org.camunda.bpm.model/camunda-xml-model@7.20.0-alpha1?classifier=sources
 - pkg:maven/org.camunda.bpm.model/camunda-xml-model@7.20.0-alpha2
@@ -154,6 +155,7 @@
 - pkg:maven/org.camunda.bpm.model/camunda-xml-model@7.20.0-alpha5?classifier=sources
 - pkg:maven/org.camunda.bpm.model/camunda-xml-model@7.20.0-alpha6
 - pkg:maven/org.camunda.bpm.model/camunda-xml-model@7.20.0-alpha6?classifier=sources
+- pkg:maven/org.camunda.bpm.model/camunda-xml-model@7.20.0?classifier=sources
 - pkg:maven/org.camunda.bpm.model/camunda-xml-model@7.3.0
 - pkg:maven/org.camunda.bpm.model/camunda-xml-model@7.3.0-alpha1
 - pkg:maven/org.camunda.bpm.model/camunda-xml-model@7.3.0-alpha1?classifier=sources

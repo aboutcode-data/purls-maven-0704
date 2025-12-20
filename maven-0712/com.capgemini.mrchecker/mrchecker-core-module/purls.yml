@@ -56,6 +56,8 @@
 - pkg:maven/com.capgemini.mrchecker/mrchecker-core-module@2023.04.04?classifier=sources
 - pkg:maven/com.capgemini.mrchecker/mrchecker-core-module@2023.10.04
 - pkg:maven/com.capgemini.mrchecker/mrchecker-core-module@2023.10.04?classifier=sources
+- pkg:maven/com.capgemini.mrchecker/mrchecker-core-module@2023.10.10
+- pkg:maven/com.capgemini.mrchecker/mrchecker-core-module@2023.10.10?classifier=sources
 - pkg:maven/com.capgemini.mrchecker/mrchecker-core-module@4.12.0.10
 - pkg:maven/com.capgemini.mrchecker/mrchecker-core-module@4.12.0.10?classifier=sources
 - pkg:maven/com.capgemini.mrchecker/mrchecker-core-module@4.12.0.7

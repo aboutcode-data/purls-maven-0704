@@ -22,6 +22,7 @@
 - pkg:maven/org.minbox.framework/api-boot-starter-mybatis-pageable@2.2.7.RELEASE
 - pkg:maven/org.minbox.framework/api-boot-starter-mybatis-pageable@2.3.0.RELEASE
 - pkg:maven/org.minbox.framework/api-boot-starter-mybatis-pageable@2.3.1.RELEASE
+- pkg:maven/org.minbox.framework/api-boot-starter-mybatis-pageable@2.3.10
 - pkg:maven/org.minbox.framework/api-boot-starter-mybatis-pageable@2.3.2.RELEASE
 - pkg:maven/org.minbox.framework/api-boot-starter-mybatis-pageable@2.3.3.RELEASE
 - pkg:maven/org.minbox.framework/api-boot-starter-mybatis-pageable@2.3.4

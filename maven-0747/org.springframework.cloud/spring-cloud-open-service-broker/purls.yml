@@ -41,3 +41,4 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-open-service-broker@3.6.0?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-open-service-broker@3.6.1?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-open-service-broker@4.0.0?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-open-service-broker@4.1.0?classifier=sources

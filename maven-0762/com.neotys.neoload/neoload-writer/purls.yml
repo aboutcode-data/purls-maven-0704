@@ -80,3 +80,5 @@
 - pkg:maven/com.neotys.neoload/neoload-writer@3.2.8?classifier=sources
 - pkg:maven/com.neotys.neoload/neoload-writer@3.2.9
 - pkg:maven/com.neotys.neoload/neoload-writer@3.2.9?classifier=sources
+- pkg:maven/com.neotys.neoload/neoload-writer@3.3.2
+- pkg:maven/com.neotys.neoload/neoload-writer@3.3.2?classifier=sources

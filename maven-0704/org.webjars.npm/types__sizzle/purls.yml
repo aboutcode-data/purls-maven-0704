@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/types__sizzle@2.3.2?classifier=sources
 - pkg:maven/org.webjars.npm/types__sizzle@2.3.3
 - pkg:maven/org.webjars.npm/types__sizzle@2.3.3?classifier=sources
+- pkg:maven/org.webjars.npm/types__sizzle@2.3.5
+- pkg:maven/org.webjars.npm/types__sizzle@2.3.5?classifier=sources

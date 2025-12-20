@@ -1,0 +1,2 @@
+- pkg:maven/com.google.appengine.demos/allinone@2.0.21?classifier=sources
+- pkg:maven/com.google.appengine.demos/allinone@2.0.21?type=war

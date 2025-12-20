@@ -18,5 +18,6 @@
 - pkg:maven/com.dzikoysk.sqiffy/sqiffy@1.0.0-alpha.27?classifier=sources
 - pkg:maven/com.dzikoysk.sqiffy/sqiffy@1.0.0-alpha.28?classifier=sources
 - pkg:maven/com.dzikoysk.sqiffy/sqiffy@1.0.0-alpha.29?classifier=sources
+- pkg:maven/com.dzikoysk.sqiffy/sqiffy@1.0.0-alpha.30?classifier=sources
 - pkg:maven/com.dzikoysk.sqiffy/sqiffy@1.0.0-alpha.8?classifier=sources
 - pkg:maven/com.dzikoysk.sqiffy/sqiffy@1.0.0-alpha.9?classifier=sources

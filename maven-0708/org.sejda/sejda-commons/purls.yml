@@ -20,3 +20,5 @@
 - pkg:maven/org.sejda/sejda-commons@1.1.7?classifier=sources
 - pkg:maven/org.sejda/sejda-commons@2.0.0
 - pkg:maven/org.sejda/sejda-commons@2.0.0?classifier=sources
+- pkg:maven/org.sejda/sejda-commons@3.0.0
+- pkg:maven/org.sejda/sejda-commons@3.0.0?classifier=sources

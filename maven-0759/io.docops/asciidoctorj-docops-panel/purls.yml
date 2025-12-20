@@ -112,3 +112,5 @@
 - pkg:maven/io.docops/asciidoctorj-docops-panel@2023.33?classifier=sources
 - pkg:maven/io.docops/asciidoctorj-docops-panel@2023.34
 - pkg:maven/io.docops/asciidoctorj-docops-panel@2023.34?classifier=sources
+- pkg:maven/io.docops/asciidoctorj-docops-panel@2023.35
+- pkg:maven/io.docops/asciidoctorj-docops-panel@2023.35?classifier=sources

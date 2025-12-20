@@ -1,2 +1,4 @@
 - pkg:maven/com.dmetasoul/lakesoul-presto@2.4.0-presto-0.28
 - pkg:maven/com.dmetasoul/lakesoul-presto@2.4.0-presto-0.28?classifier=sources
+- pkg:maven/com.dmetasoul/lakesoul-presto@2.4.1-presto-0.28
+- pkg:maven/com.dmetasoul/lakesoul-presto@2.4.1-presto-0.28?classifier=sources

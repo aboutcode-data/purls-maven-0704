@@ -11,8 +11,12 @@
 - pkg:maven/org.webjars.npm/serverless-logic-web-tools-swf-deployment-webapp2@0.0.14?classifier=sources
 - pkg:maven/org.webjars.npm/serverless-logic-web-tools-swf-deployment-webapp2@0.0.16
 - pkg:maven/org.webjars.npm/serverless-logic-web-tools-swf-deployment-webapp2@0.0.16?classifier=sources
+- pkg:maven/org.webjars.npm/serverless-logic-web-tools-swf-deployment-webapp2@0.0.17
+- pkg:maven/org.webjars.npm/serverless-logic-web-tools-swf-deployment-webapp2@0.0.17?classifier=sources
 - pkg:maven/org.webjars.npm/serverless-logic-web-tools-swf-deployment-webapp2@0.0.1?classifier=sources
 - pkg:maven/org.webjars.npm/serverless-logic-web-tools-swf-deployment-webapp2@0.0.2
+- pkg:maven/org.webjars.npm/serverless-logic-web-tools-swf-deployment-webapp2@0.0.22
+- pkg:maven/org.webjars.npm/serverless-logic-web-tools-swf-deployment-webapp2@0.0.22?classifier=sources
 - pkg:maven/org.webjars.npm/serverless-logic-web-tools-swf-deployment-webapp2@0.0.2?classifier=sources
 - pkg:maven/org.webjars.npm/serverless-logic-web-tools-swf-deployment-webapp2@0.0.3
 - pkg:maven/org.webjars.npm/serverless-logic-web-tools-swf-deployment-webapp2@0.0.3?classifier=sources

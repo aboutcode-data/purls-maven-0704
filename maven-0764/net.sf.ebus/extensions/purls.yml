@@ -50,3 +50,5 @@
 - pkg:maven/net.sf.ebus/extensions@6.5.0?classifier=sources
 - pkg:maven/net.sf.ebus/extensions@6.6.0
 - pkg:maven/net.sf.ebus/extensions@6.6.0?classifier=sources
+- pkg:maven/net.sf.ebus/extensions@7.0.0
+- pkg:maven/net.sf.ebus/extensions@7.0.0?classifier=sources

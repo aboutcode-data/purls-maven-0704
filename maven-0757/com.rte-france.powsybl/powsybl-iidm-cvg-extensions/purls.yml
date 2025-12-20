@@ -48,3 +48,4 @@
 - pkg:maven/com.rte-france.powsybl/powsybl-iidm-cvg-extensions@3.7.1
 - pkg:maven/com.rte-france.powsybl/powsybl-iidm-cvg-extensions@3.8.0
 - pkg:maven/com.rte-france.powsybl/powsybl-iidm-cvg-extensions@3.9.0
+- pkg:maven/com.rte-france.powsybl/powsybl-iidm-cvg-extensions@4.0.0

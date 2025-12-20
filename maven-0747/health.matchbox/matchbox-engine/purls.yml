@@ -22,3 +22,5 @@
 - pkg:maven/health.matchbox/matchbox-engine@3.4.3?classifier=sources
 - pkg:maven/health.matchbox/matchbox-engine@3.4.4
 - pkg:maven/health.matchbox/matchbox-engine@3.4.4?classifier=sources
+- pkg:maven/health.matchbox/matchbox-engine@3.4.5
+- pkg:maven/health.matchbox/matchbox-engine@3.4.5?classifier=sources

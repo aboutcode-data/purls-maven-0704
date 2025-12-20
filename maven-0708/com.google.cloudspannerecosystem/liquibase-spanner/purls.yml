@@ -48,6 +48,12 @@
 - pkg:maven/com.google.cloudspannerecosystem/liquibase-spanner@4.21.1?classifier=sources
 - pkg:maven/com.google.cloudspannerecosystem/liquibase-spanner@4.23.0
 - pkg:maven/com.google.cloudspannerecosystem/liquibase-spanner@4.23.0?classifier=sources
+- pkg:maven/com.google.cloudspannerecosystem/liquibase-spanner@4.23.1
+- pkg:maven/com.google.cloudspannerecosystem/liquibase-spanner@4.23.1?classifier=sources
+- pkg:maven/com.google.cloudspannerecosystem/liquibase-spanner@4.23.2
+- pkg:maven/com.google.cloudspannerecosystem/liquibase-spanner@4.23.2?classifier=sources
+- pkg:maven/com.google.cloudspannerecosystem/liquibase-spanner@4.24.0
+- pkg:maven/com.google.cloudspannerecosystem/liquibase-spanner@4.24.0?classifier=sources
 - pkg:maven/com.google.cloudspannerecosystem/liquibase-spanner@4.4.3
 - pkg:maven/com.google.cloudspannerecosystem/liquibase-spanner@4.4.3?classifier=sources
 - pkg:maven/com.google.cloudspannerecosystem/liquibase-spanner@4.5.0

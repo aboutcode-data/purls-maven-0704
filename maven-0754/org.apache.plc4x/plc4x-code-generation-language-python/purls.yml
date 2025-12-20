@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.plc4x/plc4x-code-generation-language-python@0.11.0
+- pkg:maven/org.apache.plc4x/plc4x-code-generation-language-python@0.11.0?classifier=sources

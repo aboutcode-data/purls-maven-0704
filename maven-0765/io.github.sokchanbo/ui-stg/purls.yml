@@ -29,3 +29,4 @@
 - pkg:maven/io.github.sokchanbo/ui-stg@1.0.0-beta29?classifier=sources
 - pkg:maven/io.github.sokchanbo/ui-stg@1.0.0-beta30?classifier=sources
 - pkg:maven/io.github.sokchanbo/ui-stg@1.0.0?classifier=sources
+- pkg:maven/io.github.sokchanbo/ui-stg@1.0.1?classifier=sources

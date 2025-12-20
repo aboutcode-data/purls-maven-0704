@@ -1,0 +1,4 @@
+- pkg:maven/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-jetty-http2@2.41
+- pkg:maven/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-jetty-http2@2.41?classifier=sources
+- pkg:maven/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-jetty-http2@3.0.12
+- pkg:maven/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-jetty-http2@3.0.12?classifier=sources

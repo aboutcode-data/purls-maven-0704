@@ -56,6 +56,7 @@
 - pkg:maven/org.sonarsource.python/sonar-python-plugin@3.9.0.9230?classifier=sources
 - pkg:maven/org.sonarsource.python/sonar-python-plugin@4.0.0.11155?classifier=sources
 - pkg:maven/org.sonarsource.python/sonar-python-plugin@4.1.0.11333?classifier=sources
+- pkg:maven/org.sonarsource.python/sonar-python-plugin@4.10.0.13725?classifier=sources
 - pkg:maven/org.sonarsource.python/sonar-python-plugin@4.2.0.11487?classifier=sources
 - pkg:maven/org.sonarsource.python/sonar-python-plugin@4.3.0.11660?classifier=sources
 - pkg:maven/org.sonarsource.python/sonar-python-plugin@4.4.0.11907?classifier=sources
@@ -63,3 +64,4 @@
 - pkg:maven/org.sonarsource.python/sonar-python-plugin@4.6.0.12071?classifier=sources
 - pkg:maven/org.sonarsource.python/sonar-python-plugin@4.7.0.12181?classifier=sources
 - pkg:maven/org.sonarsource.python/sonar-python-plugin@4.8.0.12420?classifier=sources
+- pkg:maven/org.sonarsource.python/sonar-python-plugin@4.9.0.13528?classifier=sources

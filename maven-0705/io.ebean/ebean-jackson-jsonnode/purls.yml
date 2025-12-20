@@ -78,3 +78,11 @@
 - pkg:maven/io.ebean/ebean-jackson-jsonnode@13.18.0-jakarta
 - pkg:maven/io.ebean/ebean-jackson-jsonnode@13.18.0-jakarta?classifier=sources
 - pkg:maven/io.ebean/ebean-jackson-jsonnode@13.18.0?classifier=sources
+- pkg:maven/io.ebean/ebean-jackson-jsonnode@13.24.0
+- pkg:maven/io.ebean/ebean-jackson-jsonnode@13.24.0-RC1
+- pkg:maven/io.ebean/ebean-jackson-jsonnode@13.24.0-RC1?classifier=sources
+- pkg:maven/io.ebean/ebean-jackson-jsonnode@13.24.0-RC2
+- pkg:maven/io.ebean/ebean-jackson-jsonnode@13.24.0-RC2?classifier=sources
+- pkg:maven/io.ebean/ebean-jackson-jsonnode@13.24.0?classifier=sources
+- pkg:maven/io.ebean/ebean-jackson-jsonnode@13.25.0
+- pkg:maven/io.ebean/ebean-jackson-jsonnode@13.25.0?classifier=sources

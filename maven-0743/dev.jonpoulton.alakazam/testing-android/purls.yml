@@ -12,3 +12,7 @@
 - pkg:maven/dev.jonpoulton.alakazam/testing-android@3.8.1?classifier=sources
 - pkg:maven/dev.jonpoulton.alakazam/testing-android@3.8.2?classifier=sources
 - pkg:maven/dev.jonpoulton.alakazam/testing-android@3.8.3?classifier=sources
+- pkg:maven/dev.jonpoulton.alakazam/testing-android@3.9.0?classifier=sources
+- pkg:maven/dev.jonpoulton.alakazam/testing-android@3.9.1?classifier=sources
+- pkg:maven/dev.jonpoulton.alakazam/testing-android@3.9.2?classifier=sources
+- pkg:maven/dev.jonpoulton.alakazam/testing-android@3.9.3?classifier=sources

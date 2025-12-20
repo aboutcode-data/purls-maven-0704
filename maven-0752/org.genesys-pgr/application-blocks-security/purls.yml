@@ -36,3 +36,5 @@
 - pkg:maven/org.genesys-pgr/application-blocks-security@4.4?classifier=sources
 - pkg:maven/org.genesys-pgr/application-blocks-security@5.0
 - pkg:maven/org.genesys-pgr/application-blocks-security@5.0?classifier=sources
+- pkg:maven/org.genesys-pgr/application-blocks-security@5.1
+- pkg:maven/org.genesys-pgr/application-blocks-security@5.1?classifier=sources

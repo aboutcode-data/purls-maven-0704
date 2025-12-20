@@ -52,3 +52,5 @@
 - pkg:maven/com.free-now.sauron/sauron-service@1.0.40?classifier=sources
 - pkg:maven/com.free-now.sauron/sauron-service@1.0.41
 - pkg:maven/com.free-now.sauron/sauron-service@1.0.41?classifier=sources
+- pkg:maven/com.free-now.sauron/sauron-service@1.0.42
+- pkg:maven/com.free-now.sauron/sauron-service@1.0.42?classifier=sources

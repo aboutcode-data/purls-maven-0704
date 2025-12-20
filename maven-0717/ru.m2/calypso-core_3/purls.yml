@@ -1,2 +1,4 @@
 - pkg:maven/ru.m2/calypso-core_3@0.3.0
 - pkg:maven/ru.m2/calypso-core_3@0.3.0?classifier=sources
+- pkg:maven/ru.m2/calypso-core_3@0.4.0
+- pkg:maven/ru.m2/calypso-core_3@0.4.0?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/de.hamstersimulator.objectsfirst/ui@4.3.4?classifier=sources
 - pkg:maven/de.hamstersimulator.objectsfirst/ui@5.0.0
 - pkg:maven/de.hamstersimulator.objectsfirst/ui@5.0.0?classifier=sources
+- pkg:maven/de.hamstersimulator.objectsfirst/ui@5.0.1
+- pkg:maven/de.hamstersimulator.objectsfirst/ui@5.0.1?classifier=sources
