@@ -1,0 +1,2 @@
+- pkg:maven/org.aksw.thirdparty.com.mlottmann.VStepper/VStepper@1.1.0
+- pkg:maven/org.aksw.thirdparty.com.mlottmann.VStepper/VStepper@1.1.0?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/cloud.piranha.maven/piranha-maven-plugin@24.10.0
+- pkg:maven/cloud.piranha.maven/piranha-maven-plugin@24.10.0?classifier=sources
 - pkg:maven/cloud.piranha.maven/piranha-maven-plugin@24.6.0
 - pkg:maven/cloud.piranha.maven/piranha-maven-plugin@24.6.0?classifier=sources
 - pkg:maven/cloud.piranha.maven/piranha-maven-plugin@24.7.0

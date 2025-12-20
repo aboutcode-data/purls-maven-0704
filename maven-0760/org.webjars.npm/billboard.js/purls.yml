@@ -1,3 +1,4 @@
 - pkg:maven/org.webjars.npm/billboard.js@3.12.4
+- pkg:maven/org.webjars.npm/billboard.js@3.13.0
 - pkg:maven/org.webjars.npm/billboard.js@3.3.3
 - pkg:maven/org.webjars.npm/billboard.js@3.3.3?classifier=sources

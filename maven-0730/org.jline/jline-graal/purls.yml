@@ -27,3 +27,4 @@
 - pkg:maven/org.jline/jline-graal@3.26.3
 - pkg:maven/org.jline/jline-graal@3.26.3?classifier=sources
 - pkg:maven/org.jline/jline-graal@3.27.0?classifier=sources
+- pkg:maven/org.jline/jline-graal@3.27.1?classifier=sources

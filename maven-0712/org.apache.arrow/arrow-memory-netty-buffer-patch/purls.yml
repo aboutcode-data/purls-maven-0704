@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.arrow/arrow-memory-netty-buffer-patch@16.1.0?classifier=sources
 - pkg:maven/org.apache.arrow/arrow-memory-netty-buffer-patch@17.0.0
 - pkg:maven/org.apache.arrow/arrow-memory-netty-buffer-patch@17.0.0?classifier=sources
+- pkg:maven/org.apache.arrow/arrow-memory-netty-buffer-patch@18.0.0
+- pkg:maven/org.apache.arrow/arrow-memory-netty-buffer-patch@18.0.0?classifier=sources

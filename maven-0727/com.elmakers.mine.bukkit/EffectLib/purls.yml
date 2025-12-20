@@ -2,6 +2,8 @@
 - pkg:maven/com.elmakers.mine.bukkit/EffectLib@10.2?classifier=sources
 - pkg:maven/com.elmakers.mine.bukkit/EffectLib@10.3
 - pkg:maven/com.elmakers.mine.bukkit/EffectLib@10.3?classifier=sources
+- pkg:maven/com.elmakers.mine.bukkit/EffectLib@10.4
+- pkg:maven/com.elmakers.mine.bukkit/EffectLib@10.4?classifier=sources
 - pkg:maven/com.elmakers.mine.bukkit/EffectLib@7.0
 - pkg:maven/com.elmakers.mine.bukkit/EffectLib@7.0?classifier=sources
 - pkg:maven/com.elmakers.mine.bukkit/EffectLib@8.0

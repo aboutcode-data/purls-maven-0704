@@ -16,6 +16,8 @@
 - pkg:maven/org.http4s/blaze-http_3@0.23.15?classifier=sources
 - pkg:maven/org.http4s/blaze-http_3@0.23.16
 - pkg:maven/org.http4s/blaze-http_3@0.23.16?classifier=sources
+- pkg:maven/org.http4s/blaze-http_3@0.23.17
+- pkg:maven/org.http4s/blaze-http_3@0.23.17?classifier=sources
 - pkg:maven/org.http4s/blaze-http_3@1.0.0-M33
 - pkg:maven/org.http4s/blaze-http_3@1.0.0-M33?classifier=sources
 - pkg:maven/org.http4s/blaze-http_3@1.0.0-M34

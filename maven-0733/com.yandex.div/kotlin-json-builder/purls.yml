@@ -34,6 +34,10 @@
 - pkg:maven/com.yandex.div/kotlin-json-builder@30.19.0?classifier=sources
 - pkg:maven/com.yandex.div/kotlin-json-builder@30.2.0?classifier=sources
 - pkg:maven/com.yandex.div/kotlin-json-builder@30.20.0?classifier=sources
+- pkg:maven/com.yandex.div/kotlin-json-builder@30.21.0?classifier=sources
+- pkg:maven/com.yandex.div/kotlin-json-builder@30.22.0?classifier=sources
+- pkg:maven/com.yandex.div/kotlin-json-builder@30.23.0?classifier=sources
+- pkg:maven/com.yandex.div/kotlin-json-builder@30.24.0?classifier=sources
 - pkg:maven/com.yandex.div/kotlin-json-builder@30.3.0?classifier=sources
 - pkg:maven/com.yandex.div/kotlin-json-builder@30.4.0?classifier=sources
 - pkg:maven/com.yandex.div/kotlin-json-builder@30.5.0?classifier=sources

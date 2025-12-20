@@ -1,0 +1,2 @@
+- pkg:maven/org.noear/solon-serialization-sbe@3.0.3-M4
+- pkg:maven/org.noear/solon-serialization-sbe@3.0.3-M4?classifier=sources

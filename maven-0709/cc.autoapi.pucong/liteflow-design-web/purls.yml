@@ -15,3 +15,4 @@
 - pkg:maven/cc.autoapi.pucong/liteflow-design-web@1.1.0?classifier=sources
 - pkg:maven/cc.autoapi.pucong/liteflow-design-web@1.1.1-release?classifier=sources
 - pkg:maven/cc.autoapi.pucong/liteflow-design-web@1.1.1?classifier=sources
+- pkg:maven/cc.autoapi.pucong/liteflow-design-web@1.1.2?classifier=sources

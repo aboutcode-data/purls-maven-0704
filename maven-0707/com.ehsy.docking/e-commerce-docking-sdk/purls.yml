@@ -18,3 +18,4 @@
 - pkg:maven/com.ehsy.docking/e-commerce-docking-sdk@1.2.5?classifier=sources
 - pkg:maven/com.ehsy.docking/e-commerce-docking-sdk@1.2.7?classifier=sources
 - pkg:maven/com.ehsy.docking/e-commerce-docking-sdk@1.2.8?classifier=sources
+- pkg:maven/com.ehsy.docking/e-commerce-docking-sdk@1.2.9?classifier=sources

@@ -158,3 +158,5 @@
 - pkg:maven/com.netflix.spectator/spectator-reg-micrometer@1.7.7?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-reg-micrometer@1.7.8?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-reg-micrometer@1.7.9?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-reg-micrometer@1.8.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-reg-micrometer@1.8.1?classifier=sources

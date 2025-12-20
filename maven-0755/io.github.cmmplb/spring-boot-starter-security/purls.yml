@@ -1,0 +1,7 @@
+- pkg:maven/io.github.cmmplb/spring-boot-starter-security@1.0.0?classifier=sources
+- pkg:maven/io.github.cmmplb/spring-boot-starter-security@2.5.15.0?classifier=sources
+- pkg:maven/io.github.cmmplb/spring-boot-starter-security@2.5.15.2?classifier=sources
+- pkg:maven/io.github.cmmplb/spring-boot-starter-security@2.5.15.5?classifier=sources
+- pkg:maven/io.github.cmmplb/spring-boot-starter-security@2.7.18.0?classifier=sources
+- pkg:maven/io.github.cmmplb/spring-boot-starter-security@3.1.12.0?classifier=sources
+- pkg:maven/io.github.cmmplb/spring-boot-starter-security@3.3.4.0?classifier=sources

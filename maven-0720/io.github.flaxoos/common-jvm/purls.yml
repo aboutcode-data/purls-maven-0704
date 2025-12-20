@@ -1,1 +1,2 @@
 - pkg:maven/io.github.flaxoos/common-jvm@1.2.10?classifier=sources
+- pkg:maven/io.github.flaxoos/common-jvm@2.0.0?classifier=sources

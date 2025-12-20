@@ -1,1 +1,2 @@
 - pkg:maven/com.exactpro.th2/codec-xml-via-xsd@2.3.0-dev?classifier=sources
+- pkg:maven/com.exactpro.th2/codec-xml-via-xsd@2.4.0-dev?classifier=sources

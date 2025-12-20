@@ -21,3 +21,6 @@
 - pkg:maven/net.rsprot/buffer@1.0.0-ALPHA-20241001?classifier=sources
 - pkg:maven/net.rsprot/buffer@1.0.0-ALPHA-20241002?classifier=sources
 - pkg:maven/net.rsprot/buffer@1.0.0-ALPHA-20241003?classifier=sources
+- pkg:maven/net.rsprot/buffer@1.0.0-ALPHA-20241016?classifier=sources
+- pkg:maven/net.rsprot/buffer@1.0.0-ALPHA-20241017?classifier=sources
+- pkg:maven/net.rsprot/buffer@1.0.0-ALPHA-20241021?classifier=sources

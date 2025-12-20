@@ -21,3 +21,4 @@
 - pkg:maven/io.micronaut.tracing/micronaut-tracing-brave-http@6.6.0?classifier=sources
 - pkg:maven/io.micronaut.tracing/micronaut-tracing-brave-http@6.7.0?classifier=sources
 - pkg:maven/io.micronaut.tracing/micronaut-tracing-brave-http@6.8.0?classifier=sources
+- pkg:maven/io.micronaut.tracing/micronaut-tracing-brave-http@6.9.0?classifier=sources

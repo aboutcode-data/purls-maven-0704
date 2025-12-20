@@ -27,6 +27,8 @@
 - pkg:maven/org.opendaylight.yangtools/rfc8040-model-api@11.0.6?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/rfc8040-model-api@11.0.7
 - pkg:maven/org.opendaylight.yangtools/rfc8040-model-api@11.0.7?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/rfc8040-model-api@11.0.8
+- pkg:maven/org.opendaylight.yangtools/rfc8040-model-api@11.0.8?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/rfc8040-model-api@12.0.0?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/rfc8040-model-api@13.0.0?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/rfc8040-model-api@13.0.1?classifier=sources
@@ -38,11 +40,14 @@
 - pkg:maven/org.opendaylight.yangtools/rfc8040-model-api@13.0.6
 - pkg:maven/org.opendaylight.yangtools/rfc8040-model-api@13.0.6?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/rfc8040-model-api@13.0.7?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/rfc8040-model-api@13.0.8?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/rfc8040-model-api@14.0.0?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/rfc8040-model-api@14.0.1
 - pkg:maven/org.opendaylight.yangtools/rfc8040-model-api@14.0.1?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/rfc8040-model-api@14.0.3?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/rfc8040-model-api@14.0.4?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/rfc8040-model-api@14.0.5
+- pkg:maven/org.opendaylight.yangtools/rfc8040-model-api@14.0.5?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/rfc8040-model-api@2.0.0
 - pkg:maven/org.opendaylight.yangtools/rfc8040-model-api@2.0.0?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/rfc8040-model-api@2.0.1

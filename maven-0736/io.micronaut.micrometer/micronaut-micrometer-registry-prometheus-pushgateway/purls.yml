@@ -1,0 +1,1 @@
+- pkg:maven/io.micronaut.micrometer/micronaut-micrometer-registry-prometheus-pushgateway@5.9.0?classifier=sources

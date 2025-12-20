@@ -5,3 +5,4 @@
 - pkg:maven/org.mvnpm.at.babel/plugin-syntax-typescript@7.24.7?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/plugin-syntax-typescript@7.25.4?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/plugin-syntax-typescript@7.25.7?classifier=sources
+- pkg:maven/org.mvnpm.at.babel/plugin-syntax-typescript@7.25.9?classifier=sources

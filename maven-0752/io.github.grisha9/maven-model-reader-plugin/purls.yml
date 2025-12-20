@@ -1,0 +1,2 @@
+- pkg:maven/io.github.grisha9/maven-model-reader-plugin@0.2?classifier=sources
+- pkg:maven/io.github.grisha9/maven-model-reader-plugin@0.3?classifier=sources

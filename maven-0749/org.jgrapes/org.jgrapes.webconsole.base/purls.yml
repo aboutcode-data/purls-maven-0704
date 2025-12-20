@@ -56,3 +56,5 @@
 - pkg:maven/org.jgrapes/org.jgrapes.webconsole.base@1.6.0?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.webconsole.base@1.7.0?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.webconsole.base@1.8.0?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.webconsole.base@2.0.0?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.webconsole.base@2.1.0?classifier=sources

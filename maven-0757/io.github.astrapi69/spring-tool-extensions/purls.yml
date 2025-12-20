@@ -5,4 +5,5 @@
 - pkg:maven/io.github.astrapi69/spring-tool-extensions@1.9?classifier=sources
 - pkg:maven/io.github.astrapi69/spring-tool-extensions@2.1?classifier=sources
 - pkg:maven/io.github.astrapi69/spring-tool-extensions@2?classifier=sources
+- pkg:maven/io.github.astrapi69/spring-tool-extensions@3.1?classifier=sources
 - pkg:maven/io.github.astrapi69/spring-tool-extensions@3?classifier=sources

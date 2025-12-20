@@ -10,3 +10,4 @@
 - pkg:maven/com.joom.spark/spark-platform_2.12@0.3.8?classifier=sources
 - pkg:maven/com.joom.spark/spark-platform_2.12@0.4.6?classifier=sources
 - pkg:maven/com.joom.spark/spark-platform_2.12@0.4.7?classifier=sources
+- pkg:maven/com.joom.spark/spark-platform_2.12@0.4.8?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.shardingsphere/shardingsphere-infra-database-p6spy@5.5.1
+- pkg:maven/org.apache.shardingsphere/shardingsphere-infra-database-p6spy@5.5.1?classifier=sources

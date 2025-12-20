@@ -47,6 +47,11 @@
 - pkg:maven/org.ossreviewtoolkit/model@33.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/model@33.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/model@34.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/model@35.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/model@36.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/model@37.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/model@38.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/model@39.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/model@4.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/model@5.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/model@5.1.0?classifier=sources

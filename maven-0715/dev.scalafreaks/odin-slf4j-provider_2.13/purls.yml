@@ -1,4 +1,8 @@
+- pkg:maven/dev.scalafreaks/odin-slf4j-provider_2.13@0.15.0
 - pkg:maven/dev.scalafreaks/odin-slf4j-provider_2.13@0.15.0-RC1
 - pkg:maven/dev.scalafreaks/odin-slf4j-provider_2.13@0.15.0-RC1?classifier=sources
 - pkg:maven/dev.scalafreaks/odin-slf4j-provider_2.13@0.15.0-RC2
 - pkg:maven/dev.scalafreaks/odin-slf4j-provider_2.13@0.15.0-RC2?classifier=sources
+- pkg:maven/dev.scalafreaks/odin-slf4j-provider_2.13@0.15.0-RC3
+- pkg:maven/dev.scalafreaks/odin-slf4j-provider_2.13@0.15.0-RC3?classifier=sources
+- pkg:maven/dev.scalafreaks/odin-slf4j-provider_2.13@0.15.0?classifier=sources

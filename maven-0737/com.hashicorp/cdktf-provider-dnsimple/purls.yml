@@ -212,3 +212,5 @@
 - pkg:maven/com.hashicorp/cdktf-provider-dnsimple@9.2.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-dnsimple@9.3.0
 - pkg:maven/com.hashicorp/cdktf-provider-dnsimple@9.3.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-dnsimple@9.4.0
+- pkg:maven/com.hashicorp/cdktf-provider-dnsimple@9.4.0?classifier=sources

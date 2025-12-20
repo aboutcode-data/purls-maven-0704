@@ -1,1 +1,2 @@
 - pkg:maven/io.github.vooft/pg-kueue-log-cli-producer@0.5.1?classifier=sources
+- pkg:maven/io.github.vooft/pg-kueue-log-cli-producer@0.5.2?classifier=sources

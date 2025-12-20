@@ -1,0 +1,14 @@
+- pkg:maven/org.jboss.mod_cluster/mod_cluster-container-tomcat@1.4.0.Alpha1
+- pkg:maven/org.jboss.mod_cluster/mod_cluster-container-tomcat@1.4.0.Alpha1?classifier=sources
+- pkg:maven/org.jboss.mod_cluster/mod_cluster-container-tomcat@1.4.0.Final
+- pkg:maven/org.jboss.mod_cluster/mod_cluster-container-tomcat@1.4.0.Final?classifier=sources
+- pkg:maven/org.jboss.mod_cluster/mod_cluster-container-tomcat@1.4.1.Final
+- pkg:maven/org.jboss.mod_cluster/mod_cluster-container-tomcat@1.4.1.Final?classifier=sources
+- pkg:maven/org.jboss.mod_cluster/mod_cluster-container-tomcat@1.4.2.Final
+- pkg:maven/org.jboss.mod_cluster/mod_cluster-container-tomcat@1.4.2.Final?classifier=sources
+- pkg:maven/org.jboss.mod_cluster/mod_cluster-container-tomcat@1.4.3.Final
+- pkg:maven/org.jboss.mod_cluster/mod_cluster-container-tomcat@1.4.3.Final?classifier=sources
+- pkg:maven/org.jboss.mod_cluster/mod_cluster-container-tomcat@1.4.4.Final
+- pkg:maven/org.jboss.mod_cluster/mod_cluster-container-tomcat@1.4.4.Final?classifier=sources
+- pkg:maven/org.jboss.mod_cluster/mod_cluster-container-tomcat@1.4.5.Final
+- pkg:maven/org.jboss.mod_cluster/mod_cluster-container-tomcat@1.4.5.Final?classifier=sources

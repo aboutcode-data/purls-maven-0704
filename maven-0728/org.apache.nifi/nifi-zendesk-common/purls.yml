@@ -4,6 +4,8 @@
 - pkg:maven/org.apache.nifi/nifi-zendesk-common@1.26.0?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-zendesk-common@1.27.0
 - pkg:maven/org.apache.nifi/nifi-zendesk-common@1.27.0?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-zendesk-common@1.28.0
+- pkg:maven/org.apache.nifi/nifi-zendesk-common@1.28.0?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-zendesk-common@2.0.0-M2
 - pkg:maven/org.apache.nifi/nifi-zendesk-common@2.0.0-M2?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-zendesk-common@2.0.0-M3

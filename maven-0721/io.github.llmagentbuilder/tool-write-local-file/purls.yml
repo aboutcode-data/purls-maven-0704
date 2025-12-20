@@ -1,1 +1,2 @@
 - pkg:maven/io.github.llmagentbuilder/tool-write-local-file@0.1.0?classifier=sources
+- pkg:maven/io.github.llmagentbuilder/tool-write-local-file@0.2.2?classifier=sources

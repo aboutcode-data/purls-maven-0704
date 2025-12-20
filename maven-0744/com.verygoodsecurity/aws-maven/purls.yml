@@ -1,2 +1,4 @@
+- pkg:maven/com.verygoodsecurity/aws-maven@1.4.10
+- pkg:maven/com.verygoodsecurity/aws-maven@1.4.10?classifier=sources
 - pkg:maven/com.verygoodsecurity/aws-maven@1.4.5
 - pkg:maven/com.verygoodsecurity/aws-maven@1.4.5?classifier=sources

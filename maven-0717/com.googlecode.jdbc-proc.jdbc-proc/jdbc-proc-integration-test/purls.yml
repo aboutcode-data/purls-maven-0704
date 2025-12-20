@@ -70,3 +70,5 @@
 - pkg:maven/com.googlecode.jdbc-proc.jdbc-proc/jdbc-proc-integration-test@1.1-8?classifier=sources
 - pkg:maven/com.googlecode.jdbc-proc.jdbc-proc/jdbc-proc-integration-test@1.1-9
 - pkg:maven/com.googlecode.jdbc-proc.jdbc-proc/jdbc-proc-integration-test@1.1-9?classifier=sources
+- pkg:maven/com.googlecode.jdbc-proc.jdbc-proc/jdbc-proc-integration-test@2.0-5
+- pkg:maven/com.googlecode.jdbc-proc.jdbc-proc/jdbc-proc-integration-test@2.0-5?classifier=sources

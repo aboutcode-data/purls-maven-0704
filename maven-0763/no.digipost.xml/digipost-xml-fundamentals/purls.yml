@@ -1,0 +1,2 @@
+- pkg:maven/no.digipost.xml/digipost-xml-fundamentals@1.0-RC1
+- pkg:maven/no.digipost.xml/digipost-xml-fundamentals@1.0-RC1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/cn.ibizlab.plugin/ibizlab-central-core@8.1.0.564.6
+- pkg:maven/cn.ibizlab.plugin/ibizlab-central-core@8.1.0.564.6?classifier=sources

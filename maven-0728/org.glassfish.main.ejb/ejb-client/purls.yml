@@ -51,3 +51,4 @@
 - pkg:maven/org.glassfish.main.ejb/ejb-client@8.0.0-M5?classifier=sources
 - pkg:maven/org.glassfish.main.ejb/ejb-client@8.0.0-M6?classifier=sources
 - pkg:maven/org.glassfish.main.ejb/ejb-client@8.0.0-M7?classifier=sources
+- pkg:maven/org.glassfish.main.ejb/ejb-client@8.0.0-M8?classifier=sources

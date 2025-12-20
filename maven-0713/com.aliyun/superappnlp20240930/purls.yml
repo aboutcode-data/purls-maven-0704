@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/superappnlp20240930@1.0.0
+- pkg:maven/com.aliyun/superappnlp20240930@1.0.0?classifier=sources

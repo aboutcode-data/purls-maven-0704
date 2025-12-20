@@ -41,4 +41,5 @@
 - pkg:maven/de.jensklingenberg.ktorfit/compiler-plugin@2.1.0-2.0.10?classifier=sources
 - pkg:maven/de.jensklingenberg.ktorfit/compiler-plugin@2.1.0-2.0.20?classifier=sources
 - pkg:maven/de.jensklingenberg.ktorfit/compiler-plugin@2.1.0-2.0.21-RC?classifier=sources
+- pkg:maven/de.jensklingenberg.ktorfit/compiler-plugin@2.1.0-2.0.21?classifier=sources
 - pkg:maven/de.jensklingenberg.ktorfit/compiler-plugin@2.1.0-2.1.0-Beta1?classifier=sources

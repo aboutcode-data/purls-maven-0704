@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel.springboot/camel-jolokia-starter@4.8.1
+- pkg:maven/org.apache.camel.springboot/camel-jolokia-starter@4.8.1?classifier=sources

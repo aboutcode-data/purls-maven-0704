@@ -2,3 +2,5 @@
 - pkg:maven/software.amazon.lastmile.kotlin.inject.anvil/runtime-macosx64@0.0.2?classifier=sources
 - pkg:maven/software.amazon.lastmile.kotlin.inject.anvil/runtime-macosx64@0.0.3?classifier=sources
 - pkg:maven/software.amazon.lastmile.kotlin.inject.anvil/runtime-macosx64@0.0.4?classifier=sources
+- pkg:maven/software.amazon.lastmile.kotlin.inject.anvil/runtime-macosx64@0.0.5?classifier=sources
+- pkg:maven/software.amazon.lastmile.kotlin.inject.anvil/runtime-macosx64@0.1.0?classifier=sources

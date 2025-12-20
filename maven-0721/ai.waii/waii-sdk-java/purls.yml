@@ -1,1 +1,2 @@
 - pkg:maven/ai.waii/waii-sdk-java@1.19.0?classifier=sources
+- pkg:maven/ai.waii/waii-sdk-java@1.23.0?classifier=sources

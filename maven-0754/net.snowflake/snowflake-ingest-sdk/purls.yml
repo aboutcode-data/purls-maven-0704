@@ -122,3 +122,7 @@
 - pkg:maven/net.snowflake/snowflake-ingest-sdk@2.2.2-unshaded
 - pkg:maven/net.snowflake/snowflake-ingest-sdk@2.2.2-unshaded?classifier=sources
 - pkg:maven/net.snowflake/snowflake-ingest-sdk@2.2.2?classifier=sources
+- pkg:maven/net.snowflake/snowflake-ingest-sdk@2.3.0
+- pkg:maven/net.snowflake/snowflake-ingest-sdk@2.3.0-unshaded
+- pkg:maven/net.snowflake/snowflake-ingest-sdk@2.3.0-unshaded?classifier=sources
+- pkg:maven/net.snowflake/snowflake-ingest-sdk@2.3.0?classifier=sources

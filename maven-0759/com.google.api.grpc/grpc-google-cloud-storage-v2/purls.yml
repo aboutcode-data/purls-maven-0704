@@ -162,6 +162,12 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-storage-v2@2.43.0-beta?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-storage-v2@2.43.1-beta
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-storage-v2@2.43.1-beta?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-storage-v2@2.43.2-beta
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-storage-v2@2.43.2-beta?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-storage-v2@2.44.0-beta
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-storage-v2@2.44.0-beta?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-storage-v2@2.44.1-beta
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-storage-v2@2.44.1-beta?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-storage-v2@2.5.0-alpha
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-storage-v2@2.5.0-alpha?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-storage-v2@2.5.1-alpha

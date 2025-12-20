@@ -97,6 +97,8 @@
 - pkg:maven/org.mongodb/mongodb-driver-reactivestreams@4.11.3?classifier=sources
 - pkg:maven/org.mongodb/mongodb-driver-reactivestreams@4.11.4
 - pkg:maven/org.mongodb/mongodb-driver-reactivestreams@4.11.4?classifier=sources
+- pkg:maven/org.mongodb/mongodb-driver-reactivestreams@4.11.5
+- pkg:maven/org.mongodb/mongodb-driver-reactivestreams@4.11.5?classifier=sources
 - pkg:maven/org.mongodb/mongodb-driver-reactivestreams@4.2.0
 - pkg:maven/org.mongodb/mongodb-driver-reactivestreams@4.2.0-beta1
 - pkg:maven/org.mongodb/mongodb-driver-reactivestreams@4.2.0-beta1?classifier=sources
@@ -187,3 +189,7 @@
 - pkg:maven/org.mongodb/mongodb-driver-reactivestreams@5.1.4?classifier=sources
 - pkg:maven/org.mongodb/mongodb-driver-reactivestreams@5.2.0
 - pkg:maven/org.mongodb/mongodb-driver-reactivestreams@5.2.0?classifier=sources
+- pkg:maven/org.mongodb/mongodb-driver-reactivestreams@5.2.1
+- pkg:maven/org.mongodb/mongodb-driver-reactivestreams@5.2.1?classifier=sources
+- pkg:maven/org.mongodb/mongodb-driver-reactivestreams@5.3.0-beta0
+- pkg:maven/org.mongodb/mongodb-driver-reactivestreams@5.3.0-beta0?classifier=sources

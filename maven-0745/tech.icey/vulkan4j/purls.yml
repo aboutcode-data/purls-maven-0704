@@ -1,1 +1,2 @@
 - pkg:maven/tech.icey/vulkan4j@0.1.0?classifier=sources
+- pkg:maven/tech.icey/vulkan4j@0.2.0?classifier=sources

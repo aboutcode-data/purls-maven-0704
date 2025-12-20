@@ -249,6 +249,8 @@
 - pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@7.17.23?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@7.17.24
 - pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@7.17.24?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@7.17.25
+- pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@7.17.25?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@7.17.2?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@7.17.3
 - pkg:maven/org.elasticsearch.plugin/aggs-matrix-stats-client@7.17.3?classifier=sources

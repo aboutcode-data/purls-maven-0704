@@ -774,6 +774,10 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-jdbc@5.3.34_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-jdbc@5.3.34_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-jdbc@5.3.34_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-jdbc@5.3.39_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-jdbc@5.3.39_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-jdbc@5.3.39_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-jdbc@5.3.39_1?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-jdbc@5.3.3_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-jdbc@5.3.3_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-jdbc@5.3.3_1?classifier=src&type=tar.gz
@@ -826,6 +830,10 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-jdbc@6.0.19_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-jdbc@6.0.19_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-jdbc@6.0.19_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-jdbc@6.0.23_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-jdbc@6.0.23_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-jdbc@6.0.23_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-jdbc@6.0.23_1?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-jdbc@6.0.2_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-jdbc@6.0.2_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-jdbc@6.0.2_1?classifier=src&type=tar.gz
@@ -850,6 +858,10 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-jdbc@6.0.8_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-jdbc@6.0.8_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-jdbc@6.0.8_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-jdbc@6.1.13_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-jdbc@6.1.13_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-jdbc@6.1.13_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-jdbc@6.1.13_1?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-jdbc@6.1.2_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-jdbc@6.1.2_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-jdbc@6.1.2_1?classifier=src&type=tar.gz

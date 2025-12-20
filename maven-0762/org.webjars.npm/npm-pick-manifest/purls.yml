@@ -1,3 +1,4 @@
+- pkg:maven/org.webjars.npm/npm-pick-manifest@10.0.0
 - pkg:maven/org.webjars.npm/npm-pick-manifest@2.1.0
 - pkg:maven/org.webjars.npm/npm-pick-manifest@2.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/npm-pick-manifest@2.2.3

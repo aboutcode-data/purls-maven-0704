@@ -1,0 +1,1 @@
+- pkg:maven/no.entur.logging.cloud/logback-logstash-encoder-azure@3.0.0?classifier=sources

@@ -10,6 +10,9 @@
 - pkg:maven/org.apache.sling/org.apache.sling.commons.metrics@1.2.12
 - pkg:maven/org.apache.sling/org.apache.sling.commons.metrics@1.2.12?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.commons.metrics@1.2.12?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.commons.metrics@1.2.14
+- pkg:maven/org.apache.sling/org.apache.sling.commons.metrics@1.2.14?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.commons.metrics@1.2.14?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.commons.metrics@1.2.2
 - pkg:maven/org.apache.sling/org.apache.sling.commons.metrics@1.2.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.commons.metrics@1.2.2?classifier=sources

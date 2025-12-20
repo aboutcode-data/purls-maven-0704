@@ -1,0 +1,4 @@
+- pkg:maven/com.github.yulichang/mybatis-plus-extension@3.5.7-001
+- pkg:maven/com.github.yulichang/mybatis-plus-extension@3.5.7-001?classifier=sources
+- pkg:maven/com.github.yulichang/mybatis-plus-extension@3.5.8-001
+- pkg:maven/com.github.yulichang/mybatis-plus-extension@3.5.8-001?classifier=sources

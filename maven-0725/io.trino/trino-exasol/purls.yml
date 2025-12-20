@@ -7,3 +7,7 @@
 - pkg:maven/io.trino/trino-exasol@458?classifier=sources
 - pkg:maven/io.trino/trino-exasol@459?classifier=sources
 - pkg:maven/io.trino/trino-exasol@460?classifier=sources
+- pkg:maven/io.trino/trino-exasol@461?classifier=sources
+- pkg:maven/io.trino/trino-exasol@462?classifier=sources
+- pkg:maven/io.trino/trino-exasol@463?classifier=sources
+- pkg:maven/io.trino/trino-exasol@464?classifier=sources

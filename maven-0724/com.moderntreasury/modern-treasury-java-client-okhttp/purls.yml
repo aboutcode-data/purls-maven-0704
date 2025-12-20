@@ -21,6 +21,8 @@
 - pkg:maven/com.moderntreasury/modern-treasury-java-client-okhttp@2.2.0?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-java-client-okhttp@2.20.0?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-java-client-okhttp@2.21.0?classifier=sources
+- pkg:maven/com.moderntreasury/modern-treasury-java-client-okhttp@2.21.1?classifier=sources
+- pkg:maven/com.moderntreasury/modern-treasury-java-client-okhttp@2.22.0?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-java-client-okhttp@2.3.0?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-java-client-okhttp@2.4.0?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-java-client-okhttp@2.4.1?classifier=sources

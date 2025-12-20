@@ -1,0 +1,2 @@
+- pkg:maven/io.zipkin.contrib.otel/encoder-brave@0.1.0
+- pkg:maven/io.zipkin.contrib.otel/encoder-brave@0.1.0?classifier=sources

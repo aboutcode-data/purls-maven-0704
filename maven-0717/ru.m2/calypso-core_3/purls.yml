@@ -6,3 +6,5 @@
 - pkg:maven/ru.m2/calypso-core_3@0.5.0?classifier=sources
 - pkg:maven/ru.m2/calypso-core_3@0.6.0
 - pkg:maven/ru.m2/calypso-core_3@0.6.0?classifier=sources
+- pkg:maven/ru.m2/calypso-core_3@0.7.0
+- pkg:maven/ru.m2/calypso-core_3@0.7.0?classifier=sources

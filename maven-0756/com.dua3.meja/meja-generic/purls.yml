@@ -67,3 +67,4 @@
 - pkg:maven/com.dua3.meja/meja-generic@5.0-RC1?classifier=sources
 - pkg:maven/com.dua3.meja/meja-generic@5.0.1?classifier=sources
 - pkg:maven/com.dua3.meja/meja-generic@5.0?classifier=sources
+- pkg:maven/com.dua3.meja/meja-generic@6-BETA-1?classifier=sources

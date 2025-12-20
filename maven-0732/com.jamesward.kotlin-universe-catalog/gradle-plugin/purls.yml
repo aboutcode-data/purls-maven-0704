@@ -334,3 +334,5 @@
 - pkg:maven/com.jamesward.kotlin-universe-catalog/gradle-plugin@2024.07.14-2?classifier=sources
 - pkg:maven/com.jamesward.kotlin-universe-catalog/gradle-plugin@2024.07.15-2?classifier=sources
 - pkg:maven/com.jamesward.kotlin-universe-catalog/gradle-plugin@2024.07.16-2?classifier=sources
+- pkg:maven/com.jamesward.kotlin-universe-catalog/gradle-plugin@2024.10.29-1?classifier=sources
+- pkg:maven/com.jamesward.kotlin-universe-catalog/gradle-plugin@2024.10.29-2?classifier=sources

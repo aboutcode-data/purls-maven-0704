@@ -16,6 +16,12 @@
 - pkg:maven/com.gu/fapi-client-play29_2.13@12.0.0-PREVIEW.glmove-suppress-images-prop.2024-10-01T1416.1b3d50f2
 - pkg:maven/com.gu/fapi-client-play29_2.13@12.0.0-PREVIEW.glmove-suppress-images-prop.2024-10-01T1416.1b3d50f2?classifier=sources
 - pkg:maven/com.gu/fapi-client-play29_2.13@12.0.0?classifier=sources
+- pkg:maven/com.gu/fapi-client-play29_2.13@12.1.0
+- pkg:maven/com.gu/fapi-client-play29_2.13@12.1.0-PREVIEW.gladd-primarysecondary-tags.2024-10-24T1603.e6de7d0d
+- pkg:maven/com.gu/fapi-client-play29_2.13@12.1.0-PREVIEW.gladd-primarysecondary-tags.2024-10-24T1603.e6de7d0d?classifier=sources
+- pkg:maven/com.gu/fapi-client-play29_2.13@12.1.0?classifier=sources
+- pkg:maven/com.gu/fapi-client-play29_2.13@12.1.1-PREVIEW.add-etag-caching-support.2024-10-31T1659.23b11d9e
+- pkg:maven/com.gu/fapi-client-play29_2.13@12.1.1-PREVIEW.add-etag-caching-support.2024-10-31T1659.23b11d9e?classifier=sources
 - pkg:maven/com.gu/fapi-client-play29_2.13@5.0.2
 - pkg:maven/com.gu/fapi-client-play29_2.13@5.0.2?classifier=sources
 - pkg:maven/com.gu/fapi-client-play29_2.13@5.0.3

@@ -27,3 +27,9 @@
 - pkg:maven/com.algolia/algoliasearch-client-kotlin-iosarm64@3.4.0?classifier=sources
 - pkg:maven/com.algolia/algoliasearch-client-kotlin-iosarm64@3.4.1?classifier=sources
 - pkg:maven/com.algolia/algoliasearch-client-kotlin-iosarm64@3.5.0?classifier=sources
+- pkg:maven/com.algolia/algoliasearch-client-kotlin-iosarm64@3.6.0?classifier=sources
+- pkg:maven/com.algolia/algoliasearch-client-kotlin-iosarm64@3.6.1?classifier=sources
+- pkg:maven/com.algolia/algoliasearch-client-kotlin-iosarm64@3.6.2?classifier=sources
+- pkg:maven/com.algolia/algoliasearch-client-kotlin-iosarm64@3.6.4?classifier=sources
+- pkg:maven/com.algolia/algoliasearch-client-kotlin-iosarm64@3.7.0?classifier=sources
+- pkg:maven/com.algolia/algoliasearch-client-kotlin-iosarm64@3.8.0?classifier=sources

@@ -10,3 +10,11 @@
 - pkg:maven/cn.hserver/hserver-plugin-runner@3.5.M5?classifier=sources
 - pkg:maven/cn.hserver/hserver-plugin-runner@3.5.M6
 - pkg:maven/cn.hserver/hserver-plugin-runner@3.5.M6?classifier=sources
+- pkg:maven/cn.hserver/hserver-plugin-runner@3.5.M7
+- pkg:maven/cn.hserver/hserver-plugin-runner@3.5.M7?classifier=sources
+- pkg:maven/cn.hserver/hserver-plugin-runner@3.5.M8
+- pkg:maven/cn.hserver/hserver-plugin-runner@3.5.M8?classifier=sources
+- pkg:maven/cn.hserver/hserver-plugin-runner@3.5.M9
+- pkg:maven/cn.hserver/hserver-plugin-runner@3.5.M9?classifier=sources
+- pkg:maven/cn.hserver/hserver-plugin-runner@3.6.0
+- pkg:maven/cn.hserver/hserver-plugin-runner@3.6.0?classifier=sources

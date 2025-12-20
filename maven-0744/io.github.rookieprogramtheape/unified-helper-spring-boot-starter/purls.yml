@@ -1,1 +1,2 @@
+- pkg:maven/io.github.rookieprogramtheape/unified-helper-spring-boot-starter@0.0.02?classifier=sources
 - pkg:maven/io.github.rookieprogramtheape/unified-helper-spring-boot-starter@0.0.1?classifier=sources

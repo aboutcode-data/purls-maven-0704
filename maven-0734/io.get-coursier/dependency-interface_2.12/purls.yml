@@ -1,2 +1,4 @@
 - pkg:maven/io.get-coursier/dependency-interface_2.12@0.2.3
 - pkg:maven/io.get-coursier/dependency-interface_2.12@0.2.3?classifier=sources
+- pkg:maven/io.get-coursier/dependency-interface_2.12@0.2.4
+- pkg:maven/io.get-coursier/dependency-interface_2.12@0.2.4?classifier=sources

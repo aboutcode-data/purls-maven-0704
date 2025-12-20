@@ -7,3 +7,4 @@
 - pkg:maven/hu.icellmobilsoft.roaster/roaster-testsuite-restassured@2.1.2
 - pkg:maven/hu.icellmobilsoft.roaster/roaster-testsuite-restassured@2.2.0
 - pkg:maven/hu.icellmobilsoft.roaster/roaster-testsuite-restassured@2.3.0
+- pkg:maven/hu.icellmobilsoft.roaster/roaster-testsuite-restassured@2.4.0

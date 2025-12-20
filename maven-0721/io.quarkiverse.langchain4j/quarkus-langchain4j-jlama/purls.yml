@@ -14,3 +14,4 @@
 - pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-jlama@0.20.2?classifier=sources
 - pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-jlama@0.20.3
 - pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-jlama@0.20.3?classifier=sources
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-jlama@0.21.0.CR1?classifier=sources

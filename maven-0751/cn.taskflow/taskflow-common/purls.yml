@@ -1,3 +1,5 @@
 - pkg:maven/cn.taskflow/taskflow-common@0.0.1-beta?classifier=sources
 - pkg:maven/cn.taskflow/taskflow-common@0.0.5-beta?classifier=sources
 - pkg:maven/cn.taskflow/taskflow-common@0.0.6-beta?classifier=sources
+- pkg:maven/cn.taskflow/taskflow-common@0.0.7-beta?classifier=sources
+- pkg:maven/cn.taskflow/taskflow-common@0.0.8-beta?classifier=sources

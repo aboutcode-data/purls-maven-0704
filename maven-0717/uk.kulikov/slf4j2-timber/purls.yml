@@ -6,3 +6,4 @@
 - pkg:maven/uk.kulikov/slf4j2-timber@0.8?classifier=sources
 - pkg:maven/uk.kulikov/slf4j2-timber@1.0?classifier=sources
 - pkg:maven/uk.kulikov/slf4j2-timber@1.1?classifier=sources
+- pkg:maven/uk.kulikov/slf4j2-timber@1.2?classifier=sources

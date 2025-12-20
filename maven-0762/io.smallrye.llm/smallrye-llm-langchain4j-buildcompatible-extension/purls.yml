@@ -1,0 +1,1 @@
+- pkg:maven/io.smallrye.llm/smallrye-llm-langchain4j-buildcompatible-extension@0.0.1?classifier=sources
