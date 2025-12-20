@@ -1,4 +1,5 @@
 - pkg:maven/io.exoquery/terpal-sql-jdbc@1.0.0.PL-1.0.0?classifier=sources
+- pkg:maven/io.exoquery/terpal-sql-jdbc@1.0.0.PL-1.1.0?classifier=sources
 - pkg:maven/io.exoquery/terpal-sql-jdbc@1.8.21-0.2.0?classifier=sources
 - pkg:maven/io.exoquery/terpal-sql-jdbc@1.8.21-0.3.0?classifier=sources
 - pkg:maven/io.exoquery/terpal-sql-jdbc@1.9.0-0.2.0?classifier=sources

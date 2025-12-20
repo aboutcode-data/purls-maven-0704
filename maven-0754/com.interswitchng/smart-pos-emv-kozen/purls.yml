@@ -4,3 +4,6 @@
 - pkg:maven/com.interswitchng/smart-pos-emv-kozen@2.3.0?classifier=sources
 - pkg:maven/com.interswitchng/smart-pos-emv-kozen@2.3.1?classifier=sources
 - pkg:maven/com.interswitchng/smart-pos-emv-kozen@2.3.3?classifier=sources
+- pkg:maven/com.interswitchng/smart-pos-emv-kozen@2.3.4?classifier=sources
+- pkg:maven/com.interswitchng/smart-pos-emv-kozen@2.4.0?classifier=sources
+- pkg:maven/com.interswitchng/smart-pos-emv-kozen@2.4.1?classifier=sources

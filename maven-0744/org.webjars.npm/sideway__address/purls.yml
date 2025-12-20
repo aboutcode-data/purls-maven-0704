@@ -1,2 +1,3 @@
 - pkg:maven/org.webjars.npm/sideway__address@4.1.4
 - pkg:maven/org.webjars.npm/sideway__address@4.1.4?classifier=sources
+- pkg:maven/org.webjars.npm/sideway__address@4.1.5

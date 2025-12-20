@@ -312,6 +312,8 @@
 - pkg:maven/org.redisson/redisson-all@3.38.0?classifier=sources
 - pkg:maven/org.redisson/redisson-all@3.38.1
 - pkg:maven/org.redisson/redisson-all@3.38.1?classifier=sources
+- pkg:maven/org.redisson/redisson-all@3.39.0
+- pkg:maven/org.redisson/redisson-all@3.39.0?classifier=sources
 - pkg:maven/org.redisson/redisson-all@3.4.0
 - pkg:maven/org.redisson/redisson-all@3.4.0?classifier=sources
 - pkg:maven/org.redisson/redisson-all@3.4.1
@@ -322,6 +324,10 @@
 - pkg:maven/org.redisson/redisson-all@3.4.3?classifier=sources
 - pkg:maven/org.redisson/redisson-all@3.4.4
 - pkg:maven/org.redisson/redisson-all@3.4.4?classifier=sources
+- pkg:maven/org.redisson/redisson-all@3.40.0
+- pkg:maven/org.redisson/redisson-all@3.40.0?classifier=sources
+- pkg:maven/org.redisson/redisson-all@3.40.1
+- pkg:maven/org.redisson/redisson-all@3.40.1?classifier=sources
 - pkg:maven/org.redisson/redisson-all@3.5.0
 - pkg:maven/org.redisson/redisson-all@3.5.0?classifier=sources
 - pkg:maven/org.redisson/redisson-all@3.5.1

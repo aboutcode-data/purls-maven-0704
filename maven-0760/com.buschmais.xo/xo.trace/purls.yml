@@ -44,3 +44,7 @@
 - pkg:maven/com.buschmais.xo/xo.trace@2.2.9?classifier=sources
 - pkg:maven/com.buschmais.xo/xo.trace@2.3.0
 - pkg:maven/com.buschmais.xo/xo.trace@2.3.0?classifier=sources
+- pkg:maven/com.buschmais.xo/xo.trace@2.4.0
+- pkg:maven/com.buschmais.xo/xo.trace@2.4.0?classifier=sources
+- pkg:maven/com.buschmais.xo/xo.trace@2.4.1
+- pkg:maven/com.buschmais.xo/xo.trace@2.4.1?classifier=sources

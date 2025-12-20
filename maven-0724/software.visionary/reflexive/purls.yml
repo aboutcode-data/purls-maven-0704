@@ -1,2 +1,5 @@
 - pkg:maven/software.visionary/reflexive@2024.06.11?classifier=sources
 - pkg:maven/software.visionary/reflexive@2024.08.20?classifier=sources
+- pkg:maven/software.visionary/reflexive@2024.10.13?classifier=sources
+- pkg:maven/software.visionary/reflexive@2024.11.30?classifier=sources
+- pkg:maven/software.visionary/reflexive@2024.12.01?classifier=sources

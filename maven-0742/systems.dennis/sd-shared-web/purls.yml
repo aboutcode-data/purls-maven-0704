@@ -109,3 +109,5 @@
 - pkg:maven/systems.dennis/sd-shared-web@3.5.8?classifier=sources
 - pkg:maven/systems.dennis/sd-shared-web@3.5.9?classifier=sources
 - pkg:maven/systems.dennis/sd-shared-web@3.6.1?classifier=sources
+- pkg:maven/systems.dennis/sd-shared-web@3.6.2?classifier=sources
+- pkg:maven/systems.dennis/sd-shared-web@3.6.3?classifier=sources

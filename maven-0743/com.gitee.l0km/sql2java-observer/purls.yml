@@ -160,6 +160,8 @@
 - pkg:maven/com.gitee.l0km/sql2java-observer@3.32.4?classifier=sources
 - pkg:maven/com.gitee.l0km/sql2java-observer@3.32.5
 - pkg:maven/com.gitee.l0km/sql2java-observer@3.32.5?classifier=sources
+- pkg:maven/com.gitee.l0km/sql2java-observer@3.33.0
+- pkg:maven/com.gitee.l0km/sql2java-observer@3.33.0?classifier=sources
 - pkg:maven/com.gitee.l0km/sql2java-observer@3.4.0
 - pkg:maven/com.gitee.l0km/sql2java-observer@3.4.0?classifier=sources
 - pkg:maven/com.gitee.l0km/sql2java-observer@3.4.1
@@ -225,6 +227,12 @@
 - pkg:maven/com.gitee.l0km/sql2java-observer@4.4.1
 - pkg:maven/com.gitee.l0km/sql2java-observer@4.4.1?classifier=sources
 - pkg:maven/com.gitee.l0km/sql2java-observer@4.4.2
+- pkg:maven/com.gitee.l0km/sql2java-observer@4.4.2-patch2
+- pkg:maven/com.gitee.l0km/sql2java-observer@4.4.2-patch2?classifier=sources
+- pkg:maven/com.gitee.l0km/sql2java-observer@4.4.2-patch3
+- pkg:maven/com.gitee.l0km/sql2java-observer@4.4.2-patch3?classifier=sources
+- pkg:maven/com.gitee.l0km/sql2java-observer@4.4.2-patch4
+- pkg:maven/com.gitee.l0km/sql2java-observer@4.4.2-patch4?classifier=sources
 - pkg:maven/com.gitee.l0km/sql2java-observer@4.4.2?classifier=sources
 - pkg:maven/com.gitee.l0km/sql2java-observer@4.4.3
 - pkg:maven/com.gitee.l0km/sql2java-observer@4.4.3?classifier=sources
@@ -238,3 +246,5 @@
 - pkg:maven/com.gitee.l0km/sql2java-observer@5.1.0?classifier=sources
 - pkg:maven/com.gitee.l0km/sql2java-observer@5.1.1
 - pkg:maven/com.gitee.l0km/sql2java-observer@5.1.1?classifier=sources
+- pkg:maven/com.gitee.l0km/sql2java-observer@5.2.0
+- pkg:maven/com.gitee.l0km/sql2java-observer@5.2.0?classifier=sources

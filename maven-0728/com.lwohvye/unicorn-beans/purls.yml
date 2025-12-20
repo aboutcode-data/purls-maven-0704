@@ -11,3 +11,5 @@
 - pkg:maven/com.lwohvye/unicorn-beans@4.5.0-tau-Beta?classifier=sources
 - pkg:maven/com.lwohvye/unicorn-beans@4.5.0-tau-RC2?classifier=sources
 - pkg:maven/com.lwohvye/unicorn-beans@4.5.0-tau-RC?classifier=sources
+- pkg:maven/com.lwohvye/unicorn-beans@4.5.0-tau?classifier=sources
+- pkg:maven/com.lwohvye/unicorn-beans@4.6.0-upsilon-Beta?classifier=sources

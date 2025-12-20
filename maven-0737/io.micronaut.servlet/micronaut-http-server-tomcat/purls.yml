@@ -63,6 +63,7 @@
 - pkg:maven/io.micronaut.servlet/micronaut-http-server-tomcat@4.11.0?classifier=sources
 - pkg:maven/io.micronaut.servlet/micronaut-http-server-tomcat@4.11.1?classifier=sources
 - pkg:maven/io.micronaut.servlet/micronaut-http-server-tomcat@4.11.2?classifier=sources
+- pkg:maven/io.micronaut.servlet/micronaut-http-server-tomcat@4.12.0?classifier=sources
 - pkg:maven/io.micronaut.servlet/micronaut-http-server-tomcat@4.2.0?classifier=sources
 - pkg:maven/io.micronaut.servlet/micronaut-http-server-tomcat@4.2.1?classifier=sources
 - pkg:maven/io.micronaut.servlet/micronaut-http-server-tomcat@4.2.2?classifier=sources

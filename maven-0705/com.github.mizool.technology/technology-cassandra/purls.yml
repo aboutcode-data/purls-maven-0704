@@ -134,3 +134,5 @@
 - pkg:maven/com.github.mizool.technology/technology-cassandra@5.2?classifier=sources
 - pkg:maven/com.github.mizool.technology/technology-cassandra@6.0
 - pkg:maven/com.github.mizool.technology/technology-cassandra@6.0?classifier=sources
+- pkg:maven/com.github.mizool.technology/technology-cassandra@6.1
+- pkg:maven/com.github.mizool.technology/technology-cassandra@6.1?classifier=sources

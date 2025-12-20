@@ -1,2 +1,3 @@
 - pkg:maven/io.github.luooyii/monsoon-module-common@3.3.3?classifier=sources
 - pkg:maven/io.github.luooyii/monsoon-module-common@3.3.4?classifier=sources
+- pkg:maven/io.github.luooyii/monsoon-module-common@3.3.5?classifier=sources

@@ -42,6 +42,12 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-components-template-bpm@10.6.30?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-template-bpm@10.6.31
 - pkg:maven/org.eclipse.dirigible/dirigible-components-template-bpm@10.6.31?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-template-bpm@10.6.32
+- pkg:maven/org.eclipse.dirigible/dirigible-components-template-bpm@10.6.32?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-template-bpm@10.6.33
+- pkg:maven/org.eclipse.dirigible/dirigible-components-template-bpm@10.6.33?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-template-bpm@10.6.34
+- pkg:maven/org.eclipse.dirigible/dirigible-components-template-bpm@10.6.34?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-template-bpm@10.6.5
 - pkg:maven/org.eclipse.dirigible/dirigible-components-template-bpm@10.6.5?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-template-bpm@10.6.6

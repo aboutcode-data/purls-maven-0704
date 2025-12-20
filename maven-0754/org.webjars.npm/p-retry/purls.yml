@@ -4,3 +4,4 @@
 - pkg:maven/org.webjars.npm/p-retry@4.6.2?classifier=sources
 - pkg:maven/org.webjars.npm/p-retry@6.1.0
 - pkg:maven/org.webjars.npm/p-retry@6.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/p-retry@6.2.0

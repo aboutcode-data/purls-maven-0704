@@ -1,1 +1,3 @@
 - pkg:maven/com.pubnub/pubnub-kotlin-api-jvm@10.0.0?classifier=sources
+- pkg:maven/com.pubnub/pubnub-kotlin-api-jvm@10.1.0?classifier=sources
+- pkg:maven/com.pubnub/pubnub-kotlin-api-jvm@10.2.0?classifier=sources

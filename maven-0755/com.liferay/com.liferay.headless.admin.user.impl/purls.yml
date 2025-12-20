@@ -866,6 +866,7 @@
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.impl@5.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.impl@5.0.12?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.impl@5.0.13
+- pkg:maven/com.liferay/com.liferay.headless.admin.user.impl@5.0.130?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.impl@5.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.impl@5.0.13?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.headless.admin.user.impl@5.0.14

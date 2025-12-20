@@ -1,0 +1,2 @@
+- pkg:maven/com.github.ghik/zerowaste_2.12.20@0.2.27
+- pkg:maven/com.github.ghik/zerowaste_2.12.20@0.2.27?classifier=sources

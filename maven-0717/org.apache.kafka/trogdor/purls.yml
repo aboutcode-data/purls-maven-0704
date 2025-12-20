@@ -23,3 +23,4 @@
 - pkg:maven/org.apache.kafka/trogdor@3.7.1?classifier=sources
 - pkg:maven/org.apache.kafka/trogdor@3.8.0?classifier=sources
 - pkg:maven/org.apache.kafka/trogdor@3.8.1?classifier=sources
+- pkg:maven/org.apache.kafka/trogdor@3.9.0?classifier=sources

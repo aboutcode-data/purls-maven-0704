@@ -116,3 +116,7 @@
 - pkg:maven/org.entur.ror.helpers/oauth2@2.8?classifier=sources
 - pkg:maven/org.entur.ror.helpers/oauth2@2.9
 - pkg:maven/org.entur.ror.helpers/oauth2@2.9?classifier=sources
+- pkg:maven/org.entur.ror.helpers/oauth2@3.0
+- pkg:maven/org.entur.ror.helpers/oauth2@3.0?classifier=sources
+- pkg:maven/org.entur.ror.helpers/oauth2@4.0
+- pkg:maven/org.entur.ror.helpers/oauth2@4.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.basistech.rosette/rosette-api-all@1.31.0
+- pkg:maven/com.basistech.rosette/rosette-api-all@1.31.0?classifier=sources

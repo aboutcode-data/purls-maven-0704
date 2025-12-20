@@ -22,3 +22,5 @@
 - pkg:maven/com.cloudsnorkel/cdk.turbo-layers@0.2.4?classifier=sources
 - pkg:maven/com.cloudsnorkel/cdk.turbo-layers@0.2.5
 - pkg:maven/com.cloudsnorkel/cdk.turbo-layers@0.2.5?classifier=sources
+- pkg:maven/com.cloudsnorkel/cdk.turbo-layers@0.3.0
+- pkg:maven/com.cloudsnorkel/cdk.turbo-layers@0.3.0?classifier=sources

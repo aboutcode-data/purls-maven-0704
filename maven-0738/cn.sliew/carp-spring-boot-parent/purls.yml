@@ -1,0 +1,2 @@
+- pkg:maven/cn.sliew/carp-spring-boot-parent@0.0.1
+- pkg:maven/cn.sliew/carp-spring-boot-parent@0.0.1?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/io.prometheus/prometheus-metrics-exporter-opentelemetry-otel-agent-resources@1.3.4?classifier=sources

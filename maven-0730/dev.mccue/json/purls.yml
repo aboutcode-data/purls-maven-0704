@@ -19,3 +19,5 @@
 - pkg:maven/dev.mccue/json@0.3.0?classifier=sources
 - pkg:maven/dev.mccue/json@0.3.1?classifier=sources
 - pkg:maven/dev.mccue/json@2023.12.23?classifier=sources
+- pkg:maven/dev.mccue/json@2024.11.17?classifier=sources
+- pkg:maven/dev.mccue/json@2024.11.20?classifier=sources

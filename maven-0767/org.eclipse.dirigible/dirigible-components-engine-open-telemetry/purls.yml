@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.dirigible/dirigible-components-engine-open-telemetry@10.6.34
+- pkg:maven/org.eclipse.dirigible/dirigible-components-engine-open-telemetry@10.6.34?classifier=sources

@@ -62,3 +62,4 @@
 - pkg:maven/com.azure/azure-digitaltwins-core@1.3.7?classifier=sources
 - pkg:maven/com.azure/azure-digitaltwins-core@1.3.8?classifier=sources
 - pkg:maven/com.azure/azure-digitaltwins-core@1.3.9?classifier=sources
+- pkg:maven/com.azure/azure-digitaltwins-core@1.4.0?classifier=sources

@@ -6,3 +6,4 @@
 - pkg:maven/io.codat/sync.payables@2.0.0?classifier=sources
 - pkg:maven/io.codat/sync.payables@3.0.0?classifier=sources
 - pkg:maven/io.codat/sync.payables@4.0.0?classifier=sources
+- pkg:maven/io.codat/sync.payables@4.1.0?classifier=sources

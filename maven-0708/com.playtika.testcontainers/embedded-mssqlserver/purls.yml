@@ -32,6 +32,8 @@
 - pkg:maven/com.playtika.testcontainers/embedded-mssqlserver@2.3.6?classifier=sources
 - pkg:maven/com.playtika.testcontainers/embedded-mssqlserver@2.3.7
 - pkg:maven/com.playtika.testcontainers/embedded-mssqlserver@2.3.7?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-mssqlserver@2.3.8
+- pkg:maven/com.playtika.testcontainers/embedded-mssqlserver@2.3.8?classifier=sources
 - pkg:maven/com.playtika.testcontainers/embedded-mssqlserver@3.0.0
 - pkg:maven/com.playtika.testcontainers/embedded-mssqlserver@3.0.0-RC1
 - pkg:maven/com.playtika.testcontainers/embedded-mssqlserver@3.0.0-RC1?classifier=sources

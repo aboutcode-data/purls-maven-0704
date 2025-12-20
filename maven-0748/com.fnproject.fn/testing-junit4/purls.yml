@@ -178,6 +178,8 @@
 - pkg:maven/com.fnproject.fn/testing-junit4@1.0.195?classifier=sources
 - pkg:maven/com.fnproject.fn/testing-junit4@1.0.196
 - pkg:maven/com.fnproject.fn/testing-junit4@1.0.196?classifier=sources
+- pkg:maven/com.fnproject.fn/testing-junit4@1.0.198
+- pkg:maven/com.fnproject.fn/testing-junit4@1.0.198?classifier=sources
 - pkg:maven/com.fnproject.fn/testing-junit4@1.0.64
 - pkg:maven/com.fnproject.fn/testing-junit4@1.0.64?classifier=sources
 - pkg:maven/com.fnproject.fn/testing-junit4@1.0.70

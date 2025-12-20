@@ -1,1 +1,2 @@
 - pkg:maven/org.eclipse.edc/dataplane-base-bom@0.10.0?classifier=sources
+- pkg:maven/org.eclipse.edc/dataplane-base-bom@0.10.1?classifier=sources

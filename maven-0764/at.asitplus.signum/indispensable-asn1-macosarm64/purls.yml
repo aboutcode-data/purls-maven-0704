@@ -1,0 +1,2 @@
+- pkg:maven/at.asitplus.signum/indispensable-asn1-macosarm64@3.10.0?classifier=sources
+- pkg:maven/at.asitplus.signum/indispensable-asn1-macosarm64@3.10.1?classifier=sources

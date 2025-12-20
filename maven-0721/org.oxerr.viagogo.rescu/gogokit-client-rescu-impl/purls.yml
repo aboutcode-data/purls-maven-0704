@@ -16,3 +16,5 @@
 - pkg:maven/org.oxerr.viagogo.rescu/gogokit-client-rescu-impl@6.4.1?classifier=sources
 - pkg:maven/org.oxerr.viagogo.rescu/gogokit-client-rescu-impl@6.5.0
 - pkg:maven/org.oxerr.viagogo.rescu/gogokit-client-rescu-impl@6.5.0?classifier=sources
+- pkg:maven/org.oxerr.viagogo.rescu/gogokit-client-rescu-impl@6.5.1
+- pkg:maven/org.oxerr.viagogo.rescu/gogokit-client-rescu-impl@6.5.1?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/dev.snipme/kodeview@0.6.0?classifier=sources
 - pkg:maven/dev.snipme/kodeview@0.7.0?classifier=sources
 - pkg:maven/dev.snipme/kodeview@0.8.0?classifier=sources
+- pkg:maven/dev.snipme/kodeview@0.9.0?classifier=sources

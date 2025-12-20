@@ -4,3 +4,5 @@
 - pkg:maven/org.openpreservation.odf/odf-core@0.13.1?classifier=sources
 - pkg:maven/org.openpreservation.odf/odf-core@0.16.0
 - pkg:maven/org.openpreservation.odf/odf-core@0.16.0?classifier=sources
+- pkg:maven/org.openpreservation.odf/odf-core@1.16.2
+- pkg:maven/org.openpreservation.odf/odf-core@1.16.2?classifier=sources

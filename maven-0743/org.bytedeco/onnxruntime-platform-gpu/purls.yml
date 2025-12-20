@@ -8,6 +8,8 @@
 - pkg:maven/org.bytedeco/onnxruntime-platform-gpu@1.16.3-1.5.10?classifier=sources
 - pkg:maven/org.bytedeco/onnxruntime-platform-gpu@1.2.0-1.5.3
 - pkg:maven/org.bytedeco/onnxruntime-platform-gpu@1.2.0-1.5.3?classifier=sources
+- pkg:maven/org.bytedeco/onnxruntime-platform-gpu@1.20.0-1.5.11
+- pkg:maven/org.bytedeco/onnxruntime-platform-gpu@1.20.0-1.5.11?classifier=sources
 - pkg:maven/org.bytedeco/onnxruntime-platform-gpu@1.4.0-1.5.4
 - pkg:maven/org.bytedeco/onnxruntime-platform-gpu@1.4.0-1.5.4?classifier=sources
 - pkg:maven/org.bytedeco/onnxruntime-platform-gpu@1.7.0-1.5.5

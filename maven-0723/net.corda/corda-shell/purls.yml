@@ -20,6 +20,7 @@
 - pkg:maven/net.corda/corda-shell@4.11?classifier=sources
 - pkg:maven/net.corda/corda-shell@4.12
 - pkg:maven/net.corda/corda-shell@4.12.1
+- pkg:maven/net.corda/corda-shell@4.12.2
 - pkg:maven/net.corda/corda-shell@4.12?classifier=sources
 - pkg:maven/net.corda/corda-shell@4.3
 - pkg:maven/net.corda/corda-shell@4.3?classifier=sources

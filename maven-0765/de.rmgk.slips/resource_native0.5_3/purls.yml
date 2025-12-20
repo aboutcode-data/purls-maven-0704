@@ -1,2 +1,4 @@
+- pkg:maven/de.rmgk.slips/resource_native0.5_3@0.10.0
+- pkg:maven/de.rmgk.slips/resource_native0.5_3@0.10.0?classifier=sources
 - pkg:maven/de.rmgk.slips/resource_native0.5_3@0.9.0
 - pkg:maven/de.rmgk.slips/resource_native0.5_3@0.9.0?classifier=sources

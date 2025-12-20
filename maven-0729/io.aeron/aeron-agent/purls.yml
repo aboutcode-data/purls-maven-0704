@@ -114,6 +114,8 @@
 - pkg:maven/io.aeron/aeron-agent@1.44.4?classifier=sources
 - pkg:maven/io.aeron/aeron-agent@1.44.5
 - pkg:maven/io.aeron/aeron-agent@1.44.5?classifier=sources
+- pkg:maven/io.aeron/aeron-agent@1.44.6
+- pkg:maven/io.aeron/aeron-agent@1.44.6?classifier=sources
 - pkg:maven/io.aeron/aeron-agent@1.45.0
 - pkg:maven/io.aeron/aeron-agent@1.45.0?classifier=sources
 - pkg:maven/io.aeron/aeron-agent@1.45.1

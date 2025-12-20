@@ -1,2 +1,4 @@
+- pkg:maven/io.trino.hive/hive-apache-jdbc@0.13.1-10
+- pkg:maven/io.trino.hive/hive-apache-jdbc@0.13.1-10?classifier=sources
 - pkg:maven/io.trino.hive/hive-apache-jdbc@0.13.1-9
 - pkg:maven/io.trino.hive/hive-apache-jdbc@0.13.1-9?classifier=sources

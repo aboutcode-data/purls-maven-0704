@@ -28,3 +28,5 @@
 - pkg:maven/com.aliyun/computenest20210601@3.2.0?classifier=sources
 - pkg:maven/com.aliyun/computenest20210601@3.3.0
 - pkg:maven/com.aliyun/computenest20210601@3.3.0?classifier=sources
+- pkg:maven/com.aliyun/computenest20210601@3.4.0
+- pkg:maven/com.aliyun/computenest20210601@3.4.0?classifier=sources

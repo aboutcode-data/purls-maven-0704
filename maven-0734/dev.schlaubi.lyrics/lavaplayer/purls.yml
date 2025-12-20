@@ -17,3 +17,7 @@
 - pkg:maven/dev.schlaubi.lyrics/lavaplayer@2.4.7?classifier=sources
 - pkg:maven/dev.schlaubi.lyrics/lavaplayer@2.4.9?classifier=sources
 - pkg:maven/dev.schlaubi.lyrics/lavaplayer@2.5.0?classifier=sources
+- pkg:maven/dev.schlaubi.lyrics/lavaplayer@2.5.2?classifier=sources
+- pkg:maven/dev.schlaubi.lyrics/lavaplayer@2.5.3?classifier=sources
+- pkg:maven/dev.schlaubi.lyrics/lavaplayer@2.6.0?classifier=sources
+- pkg:maven/dev.schlaubi.lyrics/lavaplayer@2.6.1?classifier=sources

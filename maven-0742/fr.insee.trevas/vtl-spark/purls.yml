@@ -54,3 +54,5 @@
 - pkg:maven/fr.insee.trevas/vtl-spark@1.6.0?classifier=sources
 - pkg:maven/fr.insee.trevas/vtl-spark@1.7.0
 - pkg:maven/fr.insee.trevas/vtl-spark@1.7.0?classifier=sources
+- pkg:maven/fr.insee.trevas/vtl-spark@1.8.0
+- pkg:maven/fr.insee.trevas/vtl-spark@1.8.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.tlabs-data/tablesaw-jsplot@0.43.2-rc1
+- pkg:maven/net.tlabs-data/tablesaw-jsplot@0.43.2-rc1?classifier=sources

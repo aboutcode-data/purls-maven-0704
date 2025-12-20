@@ -9,3 +9,5 @@
 - pkg:maven/ch.dfp/fincast@0.0.56?classifier=sources
 - pkg:maven/ch.dfp/fincast@0.0.57?classifier=sources
 - pkg:maven/ch.dfp/fincast@0.0.58?classifier=sources
+- pkg:maven/ch.dfp/fincast@0.0.59?classifier=sources
+- pkg:maven/ch.dfp/fincast@0.0.60?classifier=sources

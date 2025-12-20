@@ -80,3 +80,5 @@
 - pkg:maven/org.datayoo.moql/moql-engine@1.4.9?classifier=sources
 - pkg:maven/org.datayoo.moql/moql-engine@1.5.0
 - pkg:maven/org.datayoo.moql/moql-engine@1.5.0?classifier=sources
+- pkg:maven/org.datayoo.moql/moql-engine@1.5.1
+- pkg:maven/org.datayoo.moql/moql-engine@1.5.1?classifier=sources

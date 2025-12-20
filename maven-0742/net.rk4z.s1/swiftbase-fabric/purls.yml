@@ -1,0 +1,6 @@
+- pkg:maven/net.rk4z.s1/swiftbase-fabric@1.1.0?classifier=sources
+- pkg:maven/net.rk4z.s1/swiftbase-fabric@1.1.1?classifier=sources
+- pkg:maven/net.rk4z.s1/swiftbase-fabric@1.1.2?classifier=sources
+- pkg:maven/net.rk4z.s1/swiftbase-fabric@1.1.3?classifier=sources
+- pkg:maven/net.rk4z.s1/swiftbase-fabric@2.0.0?classifier=sources
+- pkg:maven/net.rk4z.s1/swiftbase-fabric@2.0.1?classifier=sources

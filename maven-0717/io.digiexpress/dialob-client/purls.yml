@@ -1,0 +1,2 @@
+- pkg:maven/io.digiexpress/dialob-client@4.278.122
+- pkg:maven/io.digiexpress/dialob-client@4.278.122?classifier=sources

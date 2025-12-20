@@ -1,0 +1,2 @@
+- pkg:maven/com.open-elements/oss-license-scanner@0.2.0?classifier=sources
+- pkg:maven/com.open-elements/oss-license-scanner@0.3.0?classifier=sources

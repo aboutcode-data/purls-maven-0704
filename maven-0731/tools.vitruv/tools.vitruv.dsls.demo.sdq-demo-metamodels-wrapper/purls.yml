@@ -1,0 +1,2 @@
+- pkg:maven/tools.vitruv/tools.vitruv.dsls.demo.sdq-demo-metamodels-wrapper@3.1.0
+- pkg:maven/tools.vitruv/tools.vitruv.dsls.demo.sdq-demo-metamodels-wrapper@3.1.0?classifier=sources

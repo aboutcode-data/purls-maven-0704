@@ -90,3 +90,5 @@
 - pkg:maven/org.fcrepo/fcrepo-webapp@6.4.1?type=war
 - pkg:maven/org.fcrepo/fcrepo-webapp@6.5.0?classifier=sources
 - pkg:maven/org.fcrepo/fcrepo-webapp@6.5.0?type=war
+- pkg:maven/org.fcrepo/fcrepo-webapp@6.5.1-RC3?classifier=sources
+- pkg:maven/org.fcrepo/fcrepo-webapp@6.5.1-RC3?type=war

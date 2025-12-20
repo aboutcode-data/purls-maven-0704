@@ -40,3 +40,5 @@
 - pkg:maven/org.komapper/komapper-dialect-sqlserver-jdbc@2.2.2?classifier=sources
 - pkg:maven/org.komapper/komapper-dialect-sqlserver-jdbc@3.0.0?classifier=sources
 - pkg:maven/org.komapper/komapper-dialect-sqlserver-jdbc@3.1.0?classifier=sources
+- pkg:maven/org.komapper/komapper-dialect-sqlserver-jdbc@4.0.0?classifier=sources
+- pkg:maven/org.komapper/komapper-dialect-sqlserver-jdbc@5.0.0?classifier=sources

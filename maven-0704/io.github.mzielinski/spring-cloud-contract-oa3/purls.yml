@@ -1,0 +1,2 @@
+- pkg:maven/io.github.mzielinski/spring-cloud-contract-oa3@3.1.10.5?classifier=sources
+- pkg:maven/io.github.mzielinski/spring-cloud-contract-oa3@4.1.4.1?classifier=sources

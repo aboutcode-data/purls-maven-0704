@@ -1,3 +1,4 @@
 - pkg:maven/org.webjars.npm/amplitude__analytics-types@0.13.0
 - pkg:maven/org.webjars.npm/amplitude__analytics-types@0.13.0?classifier=sources
 - pkg:maven/org.webjars.npm/amplitude__analytics-types@2.8.0
+- pkg:maven/org.webjars.npm/amplitude__analytics-types@2.8.4

@@ -4,3 +4,5 @@
 - pkg:maven/com.alibaba.cloud/spring-cloud-starter-xds-adapter@2.2.10-RC2
 - pkg:maven/com.alibaba.cloud/spring-cloud-starter-xds-adapter@2.2.10-RC2?classifier=sources
 - pkg:maven/com.alibaba.cloud/spring-cloud-starter-xds-adapter@2.2.10?classifier=sources
+- pkg:maven/com.alibaba.cloud/spring-cloud-starter-xds-adapter@2.2.11
+- pkg:maven/com.alibaba.cloud/spring-cloud-starter-xds-adapter@2.2.11?classifier=sources

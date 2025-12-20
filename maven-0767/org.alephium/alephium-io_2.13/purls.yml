@@ -518,3 +518,7 @@
 - pkg:maven/org.alephium/alephium-io_2.13@3.8.7?classifier=sources
 - pkg:maven/org.alephium/alephium-io_2.13@3.8.8
 - pkg:maven/org.alephium/alephium-io_2.13@3.8.8?classifier=sources
+- pkg:maven/org.alephium/alephium-io_2.13@3.9.0
+- pkg:maven/org.alephium/alephium-io_2.13@3.9.0?classifier=sources
+- pkg:maven/org.alephium/alephium-io_2.13@3.9.1
+- pkg:maven/org.alephium/alephium-io_2.13@3.9.1?classifier=sources

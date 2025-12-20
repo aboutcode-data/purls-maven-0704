@@ -11,3 +11,10 @@
 - pkg:maven/io.github.david-allison/anki-android-backend@0.1.43-anki24.06.3?classifier=sources
 - pkg:maven/io.github.david-allison/anki-android-backend@0.1.43-anki24.10beta3?classifier=sources
 - pkg:maven/io.github.david-allison/anki-android-backend@0.1.43-anki24.10rc1?classifier=sources
+- pkg:maven/io.github.david-allison/anki-android-backend@0.1.43-anki24.10rc2?classifier=sources
+- pkg:maven/io.github.david-allison/anki-android-backend@0.1.44-anki24.10rc2?classifier=sources
+- pkg:maven/io.github.david-allison/anki-android-backend@0.1.45-anki24.10rc2?classifier=sources
+- pkg:maven/io.github.david-allison/anki-android-backend@0.1.46-anki24.10rc2?classifier=sources
+- pkg:maven/io.github.david-allison/anki-android-backend@0.1.47-anki24.11rc1?classifier=sources
+- pkg:maven/io.github.david-allison/anki-android-backend@0.1.47-anki24.11rc2?classifier=sources
+- pkg:maven/io.github.david-allison/anki-android-backend@0.1.48-anki24.11?classifier=sources

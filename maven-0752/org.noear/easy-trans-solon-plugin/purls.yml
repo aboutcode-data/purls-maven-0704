@@ -200,6 +200,8 @@
 - pkg:maven/org.noear/easy-trans-solon-plugin@3.0.2-M6
 - pkg:maven/org.noear/easy-trans-solon-plugin@3.0.2-RC
 - pkg:maven/org.noear/easy-trans-solon-plugin@3.0.2-RC2
+- pkg:maven/org.noear/easy-trans-solon-plugin@3.0.3
 - pkg:maven/org.noear/easy-trans-solon-plugin@3.0.3-M3
 - pkg:maven/org.noear/easy-trans-solon-plugin@3.0.3-M4
 - pkg:maven/org.noear/easy-trans-solon-plugin@3.0.3-RC
+- pkg:maven/org.noear/easy-trans-solon-plugin@3.0.4-M2

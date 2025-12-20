@@ -74,6 +74,14 @@
 - pkg:maven/com.faendir.awscdkkt/dsl@2.164.0-1.0.1?classifier=sources
 - pkg:maven/com.faendir.awscdkkt/dsl@2.164.1-1.0.1?classifier=sources
 - pkg:maven/com.faendir.awscdkkt/dsl@2.165.0-1.0.1?classifier=sources
+- pkg:maven/com.faendir.awscdkkt/dsl@2.166.0-1.0.1?classifier=sources
+- pkg:maven/com.faendir.awscdkkt/dsl@2.167.0-1.0.1?classifier=sources
+- pkg:maven/com.faendir.awscdkkt/dsl@2.167.1-1.0.1?classifier=sources
+- pkg:maven/com.faendir.awscdkkt/dsl@2.167.2-1.0.1?classifier=sources
+- pkg:maven/com.faendir.awscdkkt/dsl@2.169.0-1.0.1?classifier=sources
+- pkg:maven/com.faendir.awscdkkt/dsl@2.170.0-1.0.1?classifier=sources
+- pkg:maven/com.faendir.awscdkkt/dsl@2.171.0-1.0.1?classifier=sources
+- pkg:maven/com.faendir.awscdkkt/dsl@2.171.1-1.0.1?classifier=sources
 - pkg:maven/com.faendir.awscdkkt/dsl@2.79.1-0.0.2?classifier=sources
 - pkg:maven/com.faendir.awscdkkt/dsl@2.79.1-0.0.3?classifier=sources
 - pkg:maven/com.faendir.awscdkkt/dsl@2.80.0-0.0.2?classifier=sources

@@ -78,8 +78,16 @@
 - pkg:maven/software.amazon.awscdk/cdk-asset-awscli-v2@2.0.125?classifier=sources
 - pkg:maven/software.amazon.awscdk/cdk-asset-awscli-v2@2.0.126
 - pkg:maven/software.amazon.awscdk/cdk-asset-awscli-v2@2.0.126?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-asset-awscli-v2@2.0.127
+- pkg:maven/software.amazon.awscdk/cdk-asset-awscli-v2@2.0.127?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-asset-awscli-v2@2.0.128
+- pkg:maven/software.amazon.awscdk/cdk-asset-awscli-v2@2.0.128?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-asset-awscli-v2@2.0.129
+- pkg:maven/software.amazon.awscdk/cdk-asset-awscli-v2@2.0.129?classifier=sources
 - pkg:maven/software.amazon.awscdk/cdk-asset-awscli-v2@2.0.12?classifier=sources
 - pkg:maven/software.amazon.awscdk/cdk-asset-awscli-v2@2.0.13
+- pkg:maven/software.amazon.awscdk/cdk-asset-awscli-v2@2.0.130
+- pkg:maven/software.amazon.awscdk/cdk-asset-awscli-v2@2.0.130?classifier=sources
 - pkg:maven/software.amazon.awscdk/cdk-asset-awscli-v2@2.0.13?classifier=sources
 - pkg:maven/software.amazon.awscdk/cdk-asset-awscli-v2@2.0.14
 - pkg:maven/software.amazon.awscdk/cdk-asset-awscli-v2@2.0.14?classifier=sources

@@ -180,3 +180,5 @@
 - pkg:maven/com.google.apis/google-api-services-networkservices@v1beta1-rev20240919-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-networkservices@v1beta1-rev20241010-2.0.0
 - pkg:maven/com.google.apis/google-api-services-networkservices@v1beta1-rev20241010-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-networkservices@v1beta1-rev20241016-2.0.0
+- pkg:maven/com.google.apis/google-api-services-networkservices@v1beta1-rev20241016-2.0.0?classifier=sources

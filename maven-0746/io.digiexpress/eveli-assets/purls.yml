@@ -1,0 +1,2 @@
+- pkg:maven/io.digiexpress/eveli-assets@4.278.122
+- pkg:maven/io.digiexpress/eveli-assets@4.278.122?classifier=sources

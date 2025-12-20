@@ -1,1 +1,2 @@
 - pkg:maven/io.klogging/klogging-iosx64@0.7.3?classifier=sources
+- pkg:maven/io.klogging/klogging-iosx64@0.8.0?classifier=sources

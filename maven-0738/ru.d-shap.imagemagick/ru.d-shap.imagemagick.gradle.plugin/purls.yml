@@ -1,2 +1,4 @@
 - pkg:maven/ru.d-shap.imagemagick/ru.d-shap.imagemagick.gradle.plugin@1.0
 - pkg:maven/ru.d-shap.imagemagick/ru.d-shap.imagemagick.gradle.plugin@1.0?classifier=sources
+- pkg:maven/ru.d-shap.imagemagick/ru.d-shap.imagemagick.gradle.plugin@1.1
+- pkg:maven/ru.d-shap.imagemagick/ru.d-shap.imagemagick.gradle.plugin@1.1?classifier=sources

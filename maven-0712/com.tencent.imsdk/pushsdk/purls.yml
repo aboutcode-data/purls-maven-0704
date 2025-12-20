@@ -2,3 +2,4 @@
 - pkg:maven/com.tencent.imsdk/pushsdk@8.1.6116?classifier=sources
 - pkg:maven/com.tencent.imsdk/pushsdk@8.1.6905?classifier=sources
 - pkg:maven/com.tencent.imsdk/pushsdk@8.2.6325?classifier=sources
+- pkg:maven/com.tencent.imsdk/pushsdk@8.3.6498?classifier=sources

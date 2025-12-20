@@ -278,6 +278,7 @@
 - pkg:maven/com.ecwid.apiclient/api-client@0.345.0?classifier=sources
 - pkg:maven/com.ecwid.apiclient/api-client@0.346.0?classifier=sources
 - pkg:maven/com.ecwid.apiclient/api-client@0.347.0?classifier=sources
+- pkg:maven/com.ecwid.apiclient/api-client@0.348.0?classifier=sources
 - pkg:maven/com.ecwid.apiclient/api-client@0.35.0?classifier=sources
 - pkg:maven/com.ecwid.apiclient/api-client@0.36.0?classifier=sources
 - pkg:maven/com.ecwid.apiclient/api-client@0.37.0?classifier=sources

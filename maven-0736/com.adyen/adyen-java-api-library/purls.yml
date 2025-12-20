@@ -186,6 +186,16 @@
 - pkg:maven/com.adyen/adyen-java-api-library@29.1.0?classifier=sources
 - pkg:maven/com.adyen/adyen-java-api-library@3.0.0
 - pkg:maven/com.adyen/adyen-java-api-library@3.0.0?classifier=sources
+- pkg:maven/com.adyen/adyen-java-api-library@30.0.0
+- pkg:maven/com.adyen/adyen-java-api-library@30.0.0?classifier=sources
+- pkg:maven/com.adyen/adyen-java-api-library@31.0.0
+- pkg:maven/com.adyen/adyen-java-api-library@31.0.0?classifier=sources
+- pkg:maven/com.adyen/adyen-java-api-library@31.1.0
+- pkg:maven/com.adyen/adyen-java-api-library@31.1.0?classifier=sources
+- pkg:maven/com.adyen/adyen-java-api-library@31.2.0
+- pkg:maven/com.adyen/adyen-java-api-library@31.2.0?classifier=sources
+- pkg:maven/com.adyen/adyen-java-api-library@31.3.0
+- pkg:maven/com.adyen/adyen-java-api-library@31.3.0?classifier=sources
 - pkg:maven/com.adyen/adyen-java-api-library@4.0.0
 - pkg:maven/com.adyen/adyen-java-api-library@4.0.0?classifier=sources
 - pkg:maven/com.adyen/adyen-java-api-library@4.0.1

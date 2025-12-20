@@ -46,3 +46,5 @@
 - pkg:maven/com.chutneytesting/server-core@2.8.0?classifier=sources
 - pkg:maven/com.chutneytesting/server-core@2.9.0
 - pkg:maven/com.chutneytesting/server-core@2.9.0?classifier=sources
+- pkg:maven/com.chutneytesting/server-core@3.0.0
+- pkg:maven/com.chutneytesting/server-core@3.0.0?classifier=sources

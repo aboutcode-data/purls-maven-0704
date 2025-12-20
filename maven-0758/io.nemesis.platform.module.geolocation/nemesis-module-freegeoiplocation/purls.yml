@@ -1,0 +1,2 @@
+- pkg:maven/io.nemesis.platform.module.geolocation/nemesis-module-freegeoiplocation@2.3.19.RELEASE
+- pkg:maven/io.nemesis.platform.module.geolocation/nemesis-module-freegeoiplocation@2.3.19.RELEASE?classifier=sources

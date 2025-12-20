@@ -1,2 +1,4 @@
 - pkg:maven/org.kie.j2cl.tools.json.mapper/common@0.4.1?classifier=sources
 - pkg:maven/org.kie.j2cl.tools.json.mapper/common@0.5.0?classifier=sources
+- pkg:maven/org.kie.j2cl.tools.json.mapper/common@0.6.0
+- pkg:maven/org.kie.j2cl.tools.json.mapper/common@0.6.0?classifier=sources

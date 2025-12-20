@@ -24,3 +24,5 @@
 - pkg:maven/gov.nasa.pds/transform@1.13.1?classifier=sources
 - pkg:maven/gov.nasa.pds/transform@1.13.2
 - pkg:maven/gov.nasa.pds/transform@1.13.2?classifier=sources
+- pkg:maven/gov.nasa.pds/transform@1.14.0
+- pkg:maven/gov.nasa.pds/transform@1.14.0?classifier=sources
