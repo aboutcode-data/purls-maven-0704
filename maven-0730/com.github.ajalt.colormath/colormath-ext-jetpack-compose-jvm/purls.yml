@@ -4,3 +4,4 @@
 - pkg:maven/com.github.ajalt.colormath/colormath-ext-jetpack-compose-jvm@3.3.3?classifier=sources
 - pkg:maven/com.github.ajalt.colormath/colormath-ext-jetpack-compose-jvm@3.4.0?classifier=sources
 - pkg:maven/com.github.ajalt.colormath/colormath-ext-jetpack-compose-jvm@3.5.0?classifier=sources
+- pkg:maven/com.github.ajalt.colormath/colormath-ext-jetpack-compose-jvm@3.6.0?classifier=sources

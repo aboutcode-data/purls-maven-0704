@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.beam/beam-runners-flink-1.17-job-server@2.56.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-runners-flink-1.17-job-server@2.57.0?classifier=sources

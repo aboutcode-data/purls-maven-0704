@@ -24,3 +24,5 @@
 - pkg:maven/com.helger.peppol/peppol-reporting-backend-redis@2.2.4?classifier=sources
 - pkg:maven/com.helger.peppol/peppol-reporting-backend-redis@2.2.5
 - pkg:maven/com.helger.peppol/peppol-reporting-backend-redis@2.2.5?classifier=sources
+- pkg:maven/com.helger.peppol/peppol-reporting-backend-redis@3.0.0
+- pkg:maven/com.helger.peppol/peppol-reporting-backend-redis@3.0.0?classifier=sources

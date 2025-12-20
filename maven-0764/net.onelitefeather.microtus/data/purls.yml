@@ -2,6 +2,7 @@
 - pkg:maven/net.onelitefeather.microtus/data@1.20.4-rv4?classifier=sources
 - pkg:maven/net.onelitefeather.microtus/data@1.20.4-rv5?classifier=sources
 - pkg:maven/net.onelitefeather.microtus/data@1.20.4-rv9?classifier=sources
+- pkg:maven/net.onelitefeather.microtus/data@1.21-rv2?classifier=sources
 - pkg:maven/net.onelitefeather.microtus/data@24w06a-rv1?classifier=sources
 - pkg:maven/net.onelitefeather.microtus/data@24w07a-rev1?classifier=sources
 - pkg:maven/net.onelitefeather.microtus/data@24w07a-rv1?classifier=sources

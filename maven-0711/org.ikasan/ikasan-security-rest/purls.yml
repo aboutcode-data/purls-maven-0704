@@ -28,3 +28,5 @@
 - pkg:maven/org.ikasan/ikasan-security-rest@3.3.3?classifier=sources
 - pkg:maven/org.ikasan/ikasan-security-rest@3.3.4
 - pkg:maven/org.ikasan/ikasan-security-rest@3.3.4?classifier=sources
+- pkg:maven/org.ikasan/ikasan-security-rest@4.0.0
+- pkg:maven/org.ikasan/ikasan-security-rest@4.0.0?classifier=sources

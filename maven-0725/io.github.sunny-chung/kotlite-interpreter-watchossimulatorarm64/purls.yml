@@ -2,3 +2,5 @@
 - pkg:maven/io.github.sunny-chung/kotlite-interpreter-watchossimulatorarm64@1.1.0-snapshot.1?classifier=sources
 - pkg:maven/io.github.sunny-chung/kotlite-interpreter-watchossimulatorarm64@1.1.0-snapshot.2?classifier=sources
 - pkg:maven/io.github.sunny-chung/kotlite-interpreter-watchossimulatorarm64@1.1.0?classifier=sources
+- pkg:maven/io.github.sunny-chung/kotlite-interpreter-watchossimulatorarm64@1.1.1?classifier=sources
+- pkg:maven/io.github.sunny-chung/kotlite-interpreter-watchossimulatorarm64@1.1.2?classifier=sources

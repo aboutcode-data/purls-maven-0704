@@ -2,3 +2,5 @@
 - pkg:maven/com.oracle.database.messaging/txeventq-connector@1.0?classifier=sources
 - pkg:maven/com.oracle.database.messaging/txeventq-connector@1.1
 - pkg:maven/com.oracle.database.messaging/txeventq-connector@1.1?classifier=sources
+- pkg:maven/com.oracle.database.messaging/txeventq-connector@23.4.0.24.06
+- pkg:maven/com.oracle.database.messaging/txeventq-connector@23.4.0.24.06?classifier=sources

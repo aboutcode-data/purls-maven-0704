@@ -76,3 +76,7 @@
 - pkg:maven/org.kiwiproject/dropwizard-service-utilities@3.4.0?classifier=sources
 - pkg:maven/org.kiwiproject/dropwizard-service-utilities@3.5.0
 - pkg:maven/org.kiwiproject/dropwizard-service-utilities@3.5.0?classifier=sources
+- pkg:maven/org.kiwiproject/dropwizard-service-utilities@3.6.0
+- pkg:maven/org.kiwiproject/dropwizard-service-utilities@3.6.0?classifier=sources
+- pkg:maven/org.kiwiproject/dropwizard-service-utilities@3.7.0
+- pkg:maven/org.kiwiproject/dropwizard-service-utilities@3.7.0?classifier=sources

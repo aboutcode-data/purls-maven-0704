@@ -2,3 +2,5 @@
 - pkg:maven/org.gosu-lang.gosu.managed/gw-commons-cli@1.2-1?classifier=sources
 - pkg:maven/org.gosu-lang.gosu.managed/gw-commons-cli@1.4
 - pkg:maven/org.gosu-lang.gosu.managed/gw-commons-cli@1.4?classifier=sources
+- pkg:maven/org.gosu-lang.gosu.managed/gw-commons-cli@1.5.0?classifier=sources
+- pkg:maven/org.gosu-lang.gosu.managed/gw-commons-cli@1.5?classifier=sources

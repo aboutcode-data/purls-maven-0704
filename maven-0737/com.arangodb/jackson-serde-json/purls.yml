@@ -34,3 +34,5 @@
 - pkg:maven/com.arangodb/jackson-serde-json@7.6.0?classifier=sources
 - pkg:maven/com.arangodb/jackson-serde-json@7.7.0
 - pkg:maven/com.arangodb/jackson-serde-json@7.7.0?classifier=sources
+- pkg:maven/com.arangodb/jackson-serde-json@7.7.1
+- pkg:maven/com.arangodb/jackson-serde-json@7.7.1?classifier=sources

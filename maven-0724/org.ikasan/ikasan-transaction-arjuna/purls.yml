@@ -54,3 +54,5 @@
 - pkg:maven/org.ikasan/ikasan-transaction-arjuna@3.3.3?classifier=sources
 - pkg:maven/org.ikasan/ikasan-transaction-arjuna@3.3.4
 - pkg:maven/org.ikasan/ikasan-transaction-arjuna@3.3.4?classifier=sources
+- pkg:maven/org.ikasan/ikasan-transaction-arjuna@4.0.0
+- pkg:maven/org.ikasan/ikasan-transaction-arjuna@4.0.0?classifier=sources

@@ -1,4 +1,5 @@
 - pkg:maven/io.github.data-catering/data-caterer-api@0.10.0?classifier=sources
+- pkg:maven/io.github.data-catering/data-caterer-api@0.10.10?classifier=sources
 - pkg:maven/io.github.data-catering/data-caterer-api@0.10.1?classifier=sources
 - pkg:maven/io.github.data-catering/data-caterer-api@0.10.2?classifier=sources
 - pkg:maven/io.github.data-catering/data-caterer-api@0.10.3?classifier=sources
@@ -6,6 +7,15 @@
 - pkg:maven/io.github.data-catering/data-caterer-api@0.10.5?classifier=sources
 - pkg:maven/io.github.data-catering/data-caterer-api@0.10.6?classifier=sources
 - pkg:maven/io.github.data-catering/data-caterer-api@0.10.7?classifier=sources
+- pkg:maven/io.github.data-catering/data-caterer-api@0.10.8?classifier=sources
+- pkg:maven/io.github.data-catering/data-caterer-api@0.10.9?classifier=sources
+- pkg:maven/io.github.data-catering/data-caterer-api@0.11.2?classifier=sources
+- pkg:maven/io.github.data-catering/data-caterer-api@0.11.3?classifier=sources
+- pkg:maven/io.github.data-catering/data-caterer-api@0.11.4?classifier=sources
+- pkg:maven/io.github.data-catering/data-caterer-api@0.11.5?classifier=sources
+- pkg:maven/io.github.data-catering/data-caterer-api@0.11.6?classifier=sources
+- pkg:maven/io.github.data-catering/data-caterer-api@0.11.7?classifier=sources
+- pkg:maven/io.github.data-catering/data-caterer-api@0.11.8?classifier=sources
 - pkg:maven/io.github.data-catering/data-caterer-api@0.5.1?classifier=sources
 - pkg:maven/io.github.data-catering/data-caterer-api@0.5.2?classifier=sources
 - pkg:maven/io.github.data-catering/data-caterer-api@0.5.3?classifier=sources

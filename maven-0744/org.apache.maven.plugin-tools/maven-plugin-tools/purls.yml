@@ -26,3 +26,4 @@
 - pkg:maven/org.apache.maven.plugin-tools/maven-plugin-tools@3.8.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.plugin-tools/maven-plugin-tools@3.8.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.plugin-tools/maven-plugin-tools@3.9.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.plugin-tools/maven-plugin-tools@4.0.0-beta-1?classifier=source-release&type=zip

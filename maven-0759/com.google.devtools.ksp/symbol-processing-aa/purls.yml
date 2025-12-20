@@ -28,3 +28,4 @@
 - pkg:maven/com.google.devtools.ksp/symbol-processing-aa@2.0.0-RC1-1.0.20?classifier=sources
 - pkg:maven/com.google.devtools.ksp/symbol-processing-aa@2.0.0-RC2-1.0.20?classifier=sources
 - pkg:maven/com.google.devtools.ksp/symbol-processing-aa@2.0.0-RC3-1.0.20?classifier=sources
+- pkg:maven/com.google.devtools.ksp/symbol-processing-aa@2.0.20-Beta1-1.0.22?classifier=sources

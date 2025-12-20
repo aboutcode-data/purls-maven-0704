@@ -1,1 +1,2 @@
 - pkg:maven/com.tencent.timpush/tuicore-debug@7.8.1126?classifier=sources
+- pkg:maven/com.tencent.timpush/tuicore-debug@8.0.5885?classifier=sources

@@ -52,3 +52,5 @@
 - pkg:maven/de.frachtwerk/essencium-backend-identity-model@2.5.8?classifier=sources
 - pkg:maven/de.frachtwerk/essencium-backend-identity-model@2.5.9
 - pkg:maven/de.frachtwerk/essencium-backend-identity-model@2.5.9?classifier=sources
+- pkg:maven/de.frachtwerk/essencium-backend-identity-model@2.6.0
+- pkg:maven/de.frachtwerk/essencium-backend-identity-model@2.6.0?classifier=sources

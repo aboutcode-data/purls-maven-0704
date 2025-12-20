@@ -27,3 +27,4 @@
 - pkg:maven/org.jboss.arquillian/arquillian-parent@1.7.1.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.arquillian/arquillian-parent@1.7.2.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.arquillian/arquillian-parent@1.8.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.arquillian/arquillian-parent@1.8.1.Final?classifier=source-release&type=zip

@@ -128,6 +128,8 @@
 - pkg:maven/org.opencb.cellbase/cellbase-app@5.8.2?classifier=sources
 - pkg:maven/org.opencb.cellbase/cellbase-app@5.8.3
 - pkg:maven/org.opencb.cellbase/cellbase-app@5.8.3?classifier=sources
+- pkg:maven/org.opencb.cellbase/cellbase-app@5.8.4
+- pkg:maven/org.opencb.cellbase/cellbase-app@5.8.4?classifier=sources
 - pkg:maven/org.opencb.cellbase/cellbase-app@6.0.0
 - pkg:maven/org.opencb.cellbase/cellbase-app@6.0.0?classifier=sources
 - pkg:maven/org.opencb.cellbase/cellbase-app@6.1.0

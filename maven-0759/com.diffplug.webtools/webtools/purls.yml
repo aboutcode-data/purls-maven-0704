@@ -1,0 +1,2 @@
+- pkg:maven/com.diffplug.webtools/webtools@0.1.0?classifier=sources
+- pkg:maven/com.diffplug.webtools/webtools@1.0.0?classifier=sources

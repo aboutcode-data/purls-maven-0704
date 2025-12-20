@@ -786,3 +786,7 @@
 - pkg:maven/net.openhft/chronicle-queue@5.26ea0?classifier=sources
 - pkg:maven/net.openhft/chronicle-queue@5.26ea1
 - pkg:maven/net.openhft/chronicle-queue@5.26ea1?classifier=sources
+- pkg:maven/net.openhft/chronicle-queue@5.26ea2
+- pkg:maven/net.openhft/chronicle-queue@5.26ea2?classifier=sources
+- pkg:maven/net.openhft/chronicle-queue@5.26ea3
+- pkg:maven/net.openhft/chronicle-queue@5.26ea3?classifier=sources

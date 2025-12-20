@@ -8,3 +8,4 @@
 - pkg:maven/dk.mada.style/mada-style-gradle@0.9.7?classifier=sources
 - pkg:maven/dk.mada.style/mada-style-gradle@0.9.8?classifier=sources
 - pkg:maven/dk.mada.style/mada-style-gradle@0.9.9?classifier=sources
+- pkg:maven/dk.mada.style/mada-style-gradle@1.0.0?classifier=sources

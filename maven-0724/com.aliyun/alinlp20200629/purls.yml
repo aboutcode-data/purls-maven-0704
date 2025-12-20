@@ -32,3 +32,5 @@
 - pkg:maven/com.aliyun/alinlp20200629@2.7.2?classifier=sources
 - pkg:maven/com.aliyun/alinlp20200629@3.0.0
 - pkg:maven/com.aliyun/alinlp20200629@3.0.0?classifier=sources
+- pkg:maven/com.aliyun/alinlp20200629@3.1.0
+- pkg:maven/com.aliyun/alinlp20200629@3.1.0?classifier=sources

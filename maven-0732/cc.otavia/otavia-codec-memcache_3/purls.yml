@@ -10,3 +10,4 @@
 - pkg:maven/cc.otavia/otavia-codec-memcache_3@0.3.6?classifier=sources
 - pkg:maven/cc.otavia/otavia-codec-memcache_3@0.3.7
 - pkg:maven/cc.otavia/otavia-codec-memcache_3@0.3.7?classifier=sources
+- pkg:maven/cc.otavia/otavia-codec-memcache_3@0.4.0

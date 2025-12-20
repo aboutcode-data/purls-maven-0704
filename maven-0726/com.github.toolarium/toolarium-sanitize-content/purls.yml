@@ -1,3 +1,4 @@
 - pkg:maven/com.github.toolarium/toolarium-sanitize-content@0.6.0?classifier=sources
 - pkg:maven/com.github.toolarium/toolarium-sanitize-content@0.6.1?classifier=sources
 - pkg:maven/com.github.toolarium/toolarium-sanitize-content@1.0.0?classifier=sources
+- pkg:maven/com.github.toolarium/toolarium-sanitize-content@1.0.1?classifier=sources

@@ -104,6 +104,10 @@
 - pkg:maven/com.codenameone/codenameone-designer@7.0.149?classifier=sources
 - pkg:maven/com.codenameone/codenameone-designer@7.0.150
 - pkg:maven/com.codenameone/codenameone-designer@7.0.150?classifier=sources
+- pkg:maven/com.codenameone/codenameone-designer@7.0.152
+- pkg:maven/com.codenameone/codenameone-designer@7.0.152?classifier=sources
+- pkg:maven/com.codenameone/codenameone-designer@7.0.153
+- pkg:maven/com.codenameone/codenameone-designer@7.0.153?classifier=sources
 - pkg:maven/com.codenameone/codenameone-designer@7.0.16
 - pkg:maven/com.codenameone/codenameone-designer@7.0.16?classifier=sources
 - pkg:maven/com.codenameone/codenameone-designer@7.0.17

@@ -1,3 +1,4 @@
+- pkg:maven/com.zegreatrob.tools/digger-core@1.0.100?classifier=sources
 - pkg:maven/com.zegreatrob.tools/digger-core@1.0.31?classifier=sources
 - pkg:maven/com.zegreatrob.tools/digger-core@1.0.32?classifier=sources
 - pkg:maven/com.zegreatrob.tools/digger-core@1.0.33?classifier=sources
@@ -64,3 +65,4 @@
 - pkg:maven/com.zegreatrob.tools/digger-core@1.0.96?classifier=sources
 - pkg:maven/com.zegreatrob.tools/digger-core@1.0.97?classifier=sources
 - pkg:maven/com.zegreatrob.tools/digger-core@1.0.98?classifier=sources
+- pkg:maven/com.zegreatrob.tools/digger-core@1.0.99?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/com.gccloud/gc-starter-server@1.1.0-beta1?classifier=sources
 - pkg:maven/com.gccloud/gc-starter-server@1.1.1
 - pkg:maven/com.gccloud/gc-starter-server@1.1.1?classifier=sources
+- pkg:maven/com.gccloud/gc-starter-server@1.2.4.2024062001.RELEASE
+- pkg:maven/com.gccloud/gc-starter-server@1.2.4.2024062001.RELEASE?classifier=sources

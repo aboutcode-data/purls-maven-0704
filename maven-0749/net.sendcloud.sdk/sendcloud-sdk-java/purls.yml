@@ -12,3 +12,5 @@
 - pkg:maven/net.sendcloud.sdk/sendcloud-sdk-java@1.7?classifier=sources
 - pkg:maven/net.sendcloud.sdk/sendcloud-sdk-java@1.8
 - pkg:maven/net.sendcloud.sdk/sendcloud-sdk-java@1.8?classifier=sources
+- pkg:maven/net.sendcloud.sdk/sendcloud-sdk-java@1.9
+- pkg:maven/net.sendcloud.sdk/sendcloud-sdk-java@1.9?classifier=sources

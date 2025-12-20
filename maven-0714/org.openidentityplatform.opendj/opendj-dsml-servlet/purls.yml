@@ -42,3 +42,5 @@
 - pkg:maven/org.openidentityplatform.opendj/opendj-dsml-servlet@4.6.2?type=war
 - pkg:maven/org.openidentityplatform.opendj/opendj-dsml-servlet@4.6.3?classifier=sources
 - pkg:maven/org.openidentityplatform.opendj/opendj-dsml-servlet@4.6.3?type=war
+- pkg:maven/org.openidentityplatform.opendj/opendj-dsml-servlet@4.6.4?classifier=sources
+- pkg:maven/org.openidentityplatform.opendj/opendj-dsml-servlet@4.6.4?type=war

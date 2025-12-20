@@ -118,3 +118,5 @@
 - pkg:maven/com.gu/facia-json-play27_2.12@6.0.0?classifier=sources
 - pkg:maven/com.gu/facia-json-play27_2.12@7.0.0
 - pkg:maven/com.gu/facia-json-play27_2.12@7.0.0?classifier=sources
+- pkg:maven/com.gu/facia-json-play27_2.12@8.0.0
+- pkg:maven/com.gu/facia-json-play27_2.12@8.0.0?classifier=sources

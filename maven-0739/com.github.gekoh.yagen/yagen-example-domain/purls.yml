@@ -168,6 +168,7 @@
 - pkg:maven/com.github.gekoh.yagen/yagen-example-domain@5.9.3?classifier=sources
 - pkg:maven/com.github.gekoh.yagen/yagen-example-domain@5.9.5
 - pkg:maven/com.github.gekoh.yagen/yagen-example-domain@5.9.5?classifier=sources
+- pkg:maven/com.github.gekoh.yagen/yagen-example-domain@6.0
 - pkg:maven/com.github.gekoh.yagen/yagen-example-domain@6.0-alpha1
 - pkg:maven/com.github.gekoh.yagen/yagen-example-domain@6.0-alpha1?classifier=sources
 - pkg:maven/com.github.gekoh.yagen/yagen-example-domain@6.0-alpha2
@@ -182,3 +183,8 @@
 - pkg:maven/com.github.gekoh.yagen/yagen-example-domain@6.0-alpha6?classifier=sources
 - pkg:maven/com.github.gekoh.yagen/yagen-example-domain@6.0-alpha7
 - pkg:maven/com.github.gekoh.yagen/yagen-example-domain@6.0-alpha7?classifier=sources
+- pkg:maven/com.github.gekoh.yagen/yagen-example-domain@6.0?classifier=sources
+- pkg:maven/com.github.gekoh.yagen/yagen-example-domain@6.1
+- pkg:maven/com.github.gekoh.yagen/yagen-example-domain@6.1?classifier=sources
+- pkg:maven/com.github.gekoh.yagen/yagen-example-domain@6.2
+- pkg:maven/com.github.gekoh.yagen/yagen-example-domain@6.2?classifier=sources

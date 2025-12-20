@@ -7,3 +7,4 @@
 - pkg:maven/com.connectrpc/connect-kotlin-google-java-ext@0.5.1?classifier=sources
 - pkg:maven/com.connectrpc/connect-kotlin-google-java-ext@0.6.0?classifier=sources
 - pkg:maven/com.connectrpc/connect-kotlin-google-java-ext@0.6.1?classifier=sources
+- pkg:maven/com.connectrpc/connect-kotlin-google-java-ext@0.7.0?classifier=sources

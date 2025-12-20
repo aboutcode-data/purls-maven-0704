@@ -95,6 +95,10 @@
 - pkg:maven/network.mysterium/mobile-node@1.29.2-rc3?type=aar
 - pkg:maven/network.mysterium/mobile-node@1.29.21?classifier=sources
 - pkg:maven/network.mysterium/mobile-node@1.29.21?type=aar
+- pkg:maven/network.mysterium/mobile-node@1.29.22?classifier=sources
+- pkg:maven/network.mysterium/mobile-node@1.29.22?type=aar
+- pkg:maven/network.mysterium/mobile-node@1.29.23?classifier=sources
+- pkg:maven/network.mysterium/mobile-node@1.29.23?type=aar
 - pkg:maven/network.mysterium/mobile-node@1.29.2?classifier=sources
 - pkg:maven/network.mysterium/mobile-node@1.29.2?type=aar
 - pkg:maven/network.mysterium/mobile-node@1.9.0?classifier=sources

@@ -24,3 +24,5 @@
 - pkg:maven/org.shenjia/mybatisx-generator@1.6.0?classifier=sources
 - pkg:maven/org.shenjia/mybatisx-generator@1.7.0
 - pkg:maven/org.shenjia/mybatisx-generator@1.7.0?classifier=sources
+- pkg:maven/org.shenjia/mybatisx-generator@2.0.0
+- pkg:maven/org.shenjia/mybatisx-generator@2.0.0?classifier=sources

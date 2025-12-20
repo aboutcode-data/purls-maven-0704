@@ -17,3 +17,4 @@
 - pkg:maven/com.seeq.json/common-json@65.0.2-v202405101638?classifier=sources
 - pkg:maven/com.seeq.json/common-json@65.0.4-v202405300107?classifier=sources
 - pkg:maven/com.seeq.json/common-json@65.0.5-v202406060204?classifier=sources
+- pkg:maven/com.seeq.json/common-json@65.1.0-v202406241742?classifier=sources

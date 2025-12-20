@@ -26,6 +26,10 @@
 - pkg:maven/net.optionfactory.spring/localized-enums@13.2?classifier=sources
 - pkg:maven/net.optionfactory.spring/localized-enums@13.3
 - pkg:maven/net.optionfactory.spring/localized-enums@13.3?classifier=sources
+- pkg:maven/net.optionfactory.spring/localized-enums@13.4
+- pkg:maven/net.optionfactory.spring/localized-enums@13.4?classifier=sources
+- pkg:maven/net.optionfactory.spring/localized-enums@13.6
+- pkg:maven/net.optionfactory.spring/localized-enums@13.6?classifier=sources
 - pkg:maven/net.optionfactory.spring/localized-enums@7.10
 - pkg:maven/net.optionfactory.spring/localized-enums@7.10?classifier=sources
 - pkg:maven/net.optionfactory.spring/localized-enums@7.11

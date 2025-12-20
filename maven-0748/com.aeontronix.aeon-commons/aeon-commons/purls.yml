@@ -46,3 +46,6 @@
 - pkg:maven/com.aeontronix.aeon-commons/aeon-commons@2.0.0-rc1
 - pkg:maven/com.aeontronix.aeon-commons/aeon-commons@2.0.0-rc2
 - pkg:maven/com.aeontronix.aeon-commons/aeon-commons@2.0.0-rc3
+- pkg:maven/com.aeontronix.aeon-commons/aeon-commons@2.0.0-rc4
+- pkg:maven/com.aeontronix.aeon-commons/aeon-commons@2.0.0-rc5
+- pkg:maven/com.aeontronix.aeon-commons/aeon-commons@2.0.0-rc7

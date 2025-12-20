@@ -16,5 +16,11 @@
 - pkg:maven/io.github.dbmdz.metadata/metasvc-server-backend-lobid@9.2.0-RC6
 - pkg:maven/io.github.dbmdz.metadata/metasvc-server-backend-lobid@9.2.0-RC6?classifier=sources
 - pkg:maven/io.github.dbmdz.metadata/metasvc-server-backend-lobid@9.2.0?classifier=sources
+- pkg:maven/io.github.dbmdz.metadata/metasvc-server-backend-lobid@9.2.1
 - pkg:maven/io.github.dbmdz.metadata/metasvc-server-backend-lobid@9.2.1-RC1
 - pkg:maven/io.github.dbmdz.metadata/metasvc-server-backend-lobid@9.2.1-RC1?classifier=sources
+- pkg:maven/io.github.dbmdz.metadata/metasvc-server-backend-lobid@9.2.1?classifier=sources
+- pkg:maven/io.github.dbmdz.metadata/metasvc-server-backend-lobid@9.3.0
+- pkg:maven/io.github.dbmdz.metadata/metasvc-server-backend-lobid@9.3.0-RC1
+- pkg:maven/io.github.dbmdz.metadata/metasvc-server-backend-lobid@9.3.0-RC1?classifier=sources
+- pkg:maven/io.github.dbmdz.metadata/metasvc-server-backend-lobid@9.3.0?classifier=sources

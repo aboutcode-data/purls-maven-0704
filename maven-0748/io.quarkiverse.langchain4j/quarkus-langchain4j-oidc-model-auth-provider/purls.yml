@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-oidc-model-auth-provider@0.16.1
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-oidc-model-auth-provider@0.16.1?classifier=sources

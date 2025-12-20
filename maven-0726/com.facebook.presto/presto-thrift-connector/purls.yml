@@ -150,3 +150,4 @@
 - pkg:maven/com.facebook.presto/presto-thrift-connector@0.285?classifier=sources
 - pkg:maven/com.facebook.presto/presto-thrift-connector@0.286?classifier=sources
 - pkg:maven/com.facebook.presto/presto-thrift-connector@0.287?classifier=sources
+- pkg:maven/com.facebook.presto/presto-thrift-connector@0.288?classifier=sources

@@ -21,3 +21,4 @@
 - pkg:maven/com.datomic/client-api@1.0.65
 - pkg:maven/com.datomic/client-api@1.0.67
 - pkg:maven/com.datomic/client-api@1.0.68
+- pkg:maven/com.datomic/client-api@1.0.69

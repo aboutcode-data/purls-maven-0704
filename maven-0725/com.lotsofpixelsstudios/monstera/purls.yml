@@ -31,7 +31,11 @@
 - pkg:maven/com.lotsofpixelsstudios/monstera@0.4.0-SNAPSHOT23?classifier=sources
 - pkg:maven/com.lotsofpixelsstudios/monstera@0.4.0-SNAPSHOT24?classifier=sources
 - pkg:maven/com.lotsofpixelsstudios/monstera@0.4.0-SNAPSHOT25?classifier=sources
+- pkg:maven/com.lotsofpixelsstudios/monstera@0.4.0-SNAPSHOT26?classifier=sources
+- pkg:maven/com.lotsofpixelsstudios/monstera@0.4.0-SNAPSHOT29?classifier=sources
 - pkg:maven/com.lotsofpixelsstudios/monstera@0.4.0-SNAPSHOT2?classifier=sources
+- pkg:maven/com.lotsofpixelsstudios/monstera@0.4.0-SNAPSHOT30?classifier=sources
+- pkg:maven/com.lotsofpixelsstudios/monstera@0.4.0-SNAPSHOT31?classifier=sources
 - pkg:maven/com.lotsofpixelsstudios/monstera@0.4.0-SNAPSHOT3?classifier=sources
 - pkg:maven/com.lotsofpixelsstudios/monstera@0.4.0-SNAPSHOT4?classifier=sources
 - pkg:maven/com.lotsofpixelsstudios/monstera@0.4.0-SNAPSHOT5?classifier=sources
@@ -39,3 +43,9 @@
 - pkg:maven/com.lotsofpixelsstudios/monstera@0.4.0-SNAPSHOT7?classifier=sources
 - pkg:maven/com.lotsofpixelsstudios/monstera@0.4.0-SNAPSHOT8?classifier=sources
 - pkg:maven/com.lotsofpixelsstudios/monstera@0.4.0-SNAPSHOT9?classifier=sources
+- pkg:maven/com.lotsofpixelsstudios/monstera@0.4.0?classifier=sources
+- pkg:maven/com.lotsofpixelsstudios/monstera@0.4.1?classifier=sources
+- pkg:maven/com.lotsofpixelsstudios/monstera@0.4.2?classifier=sources
+- pkg:maven/com.lotsofpixelsstudios/monstera@0.4.3-SNAPSHOT1?classifier=sources
+- pkg:maven/com.lotsofpixelsstudios/monstera@0.4.3?classifier=sources
+- pkg:maven/com.lotsofpixelsstudios/monstera@0.4.4?classifier=sources

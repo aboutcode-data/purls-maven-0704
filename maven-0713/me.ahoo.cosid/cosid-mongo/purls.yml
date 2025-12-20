@@ -11,6 +11,7 @@
 - pkg:maven/me.ahoo.cosid/cosid-mongo@1.19.1?classifier=sources
 - pkg:maven/me.ahoo.cosid/cosid-mongo@1.19.2?classifier=sources
 - pkg:maven/me.ahoo.cosid/cosid-mongo@1.19.3?classifier=sources
+- pkg:maven/me.ahoo.cosid/cosid-mongo@1.20.0?classifier=sources
 - pkg:maven/me.ahoo.cosid/cosid-mongo@2.0.6?classifier=sources
 - pkg:maven/me.ahoo.cosid/cosid-mongo@2.1.0?classifier=sources
 - pkg:maven/me.ahoo.cosid/cosid-mongo@2.1.1?classifier=sources
@@ -41,3 +42,7 @@
 - pkg:maven/me.ahoo.cosid/cosid-mongo@2.6.9?classifier=sources
 - pkg:maven/me.ahoo.cosid/cosid-mongo@2.8.0?classifier=sources
 - pkg:maven/me.ahoo.cosid/cosid-mongo@2.8.1?classifier=sources
+- pkg:maven/me.ahoo.cosid/cosid-mongo@2.8.2?classifier=sources
+- pkg:maven/me.ahoo.cosid/cosid-mongo@2.8.3?classifier=sources
+- pkg:maven/me.ahoo.cosid/cosid-mongo@2.9.0?classifier=sources
+- pkg:maven/me.ahoo.cosid/cosid-mongo@2.9.1?classifier=sources

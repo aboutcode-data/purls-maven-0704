@@ -1,0 +1,6 @@
+- pkg:maven/com.github.plokhotnyuk.jsoniter-scala/jsoniter-scala-core_native0.5_2.13@2.30.3
+- pkg:maven/com.github.plokhotnyuk.jsoniter-scala/jsoniter-scala-core_native0.5_2.13@2.30.3?classifier=sources
+- pkg:maven/com.github.plokhotnyuk.jsoniter-scala/jsoniter-scala-core_native0.5_2.13@2.30.4
+- pkg:maven/com.github.plokhotnyuk.jsoniter-scala/jsoniter-scala-core_native0.5_2.13@2.30.4?classifier=sources
+- pkg:maven/com.github.plokhotnyuk.jsoniter-scala/jsoniter-scala-core_native0.5_2.13@2.30.5
+- pkg:maven/com.github.plokhotnyuk.jsoniter-scala/jsoniter-scala-core_native0.5_2.13@2.30.5?classifier=sources

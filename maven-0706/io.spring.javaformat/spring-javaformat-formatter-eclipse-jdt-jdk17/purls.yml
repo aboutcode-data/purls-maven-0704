@@ -1,0 +1,2 @@
+- pkg:maven/io.spring.javaformat/spring-javaformat-formatter-eclipse-jdt-jdk17@0.0.42
+- pkg:maven/io.spring.javaformat/spring-javaformat-formatter-eclipse-jdt-jdk17@0.0.42?classifier=sources

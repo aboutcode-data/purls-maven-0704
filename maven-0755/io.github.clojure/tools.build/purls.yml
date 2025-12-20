@@ -4,6 +4,8 @@
 - pkg:maven/io.github.clojure/tools.build@0.10.1?classifier=sources
 - pkg:maven/io.github.clojure/tools.build@0.10.3
 - pkg:maven/io.github.clojure/tools.build@0.10.3?classifier=sources
+- pkg:maven/io.github.clojure/tools.build@0.10.4
+- pkg:maven/io.github.clojure/tools.build@0.10.4?classifier=sources
 - pkg:maven/io.github.clojure/tools.build@0.9.3
 - pkg:maven/io.github.clojure/tools.build@0.9.3?classifier=sources
 - pkg:maven/io.github.clojure/tools.build@0.9.4

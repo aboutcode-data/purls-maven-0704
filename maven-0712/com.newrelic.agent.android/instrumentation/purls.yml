@@ -6,3 +6,6 @@
 - pkg:maven/com.newrelic.agent.android/instrumentation@7.2.1?classifier=sources
 - pkg:maven/com.newrelic.agent.android/instrumentation@7.3.0?classifier=sources
 - pkg:maven/com.newrelic.agent.android/instrumentation@7.3.1?classifier=sources
+- pkg:maven/com.newrelic.agent.android/instrumentation@7.4.0?classifier=sources
+- pkg:maven/com.newrelic.agent.android/instrumentation@7.4.1?classifier=sources
+- pkg:maven/com.newrelic.agent.android/instrumentation@7.5.0?classifier=sources

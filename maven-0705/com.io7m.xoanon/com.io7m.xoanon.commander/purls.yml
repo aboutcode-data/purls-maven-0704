@@ -6,3 +6,5 @@
 - pkg:maven/com.io7m.xoanon/com.io7m.xoanon.commander@1.0.0?classifier=sources
 - pkg:maven/com.io7m.xoanon/com.io7m.xoanon.commander@1.0.1
 - pkg:maven/com.io7m.xoanon/com.io7m.xoanon.commander@1.0.1?classifier=sources
+- pkg:maven/com.io7m.xoanon/com.io7m.xoanon.commander@2.0.0
+- pkg:maven/com.io7m.xoanon/com.io7m.xoanon.commander@2.0.0?classifier=sources

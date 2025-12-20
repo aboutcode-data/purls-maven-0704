@@ -4,3 +4,4 @@
 - pkg:maven/net.rsprot/buffer@1.0.0-ALPHA-20240528?classifier=sources
 - pkg:maven/net.rsprot/buffer@1.0.0-ALPHA-20240529?classifier=sources
 - pkg:maven/net.rsprot/buffer@1.0.0-ALPHA-20240605?classifier=sources
+- pkg:maven/net.rsprot/buffer@1.0.0-ALPHA-20240629?classifier=sources

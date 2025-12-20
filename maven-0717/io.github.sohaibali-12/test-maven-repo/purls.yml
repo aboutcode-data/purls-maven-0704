@@ -1,0 +1,2 @@
+- pkg:maven/io.github.sohaibali-12/test-maven-repo@1.0.0?classifier=sources
+- pkg:maven/io.github.sohaibali-12/test-maven-repo@1.0.1?classifier=sources

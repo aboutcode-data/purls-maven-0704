@@ -1,3 +1,4 @@
+- pkg:maven/tech.corefinance/microservice-common-mongodb@0.0.16?classifier=sources
 - pkg:maven/tech.corefinance/microservice-common-mongodb@0.0.1?classifier=sources
 - pkg:maven/tech.corefinance/microservice-common-mongodb@0.0.2?classifier=sources
 - pkg:maven/tech.corefinance/microservice-common-mongodb@0.0.3?classifier=sources

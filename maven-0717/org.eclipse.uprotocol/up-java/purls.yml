@@ -1,5 +1,7 @@
 - pkg:maven/org.eclipse.uprotocol/up-java@0.1.10
 - pkg:maven/org.eclipse.uprotocol/up-java@0.1.10?classifier=sources
+- pkg:maven/org.eclipse.uprotocol/up-java@0.1.11
+- pkg:maven/org.eclipse.uprotocol/up-java@0.1.11?classifier=sources
 - pkg:maven/org.eclipse.uprotocol/up-java@0.1.9
 - pkg:maven/org.eclipse.uprotocol/up-java@0.1.9?classifier=sources
 - pkg:maven/org.eclipse.uprotocol/up-java@1.5.6

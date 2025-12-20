@@ -2,3 +2,4 @@
 - pkg:maven/cn.katool.security/katool-security-spring-boot-starter@1.0.0.ALPHA?classifier=sources
 - pkg:maven/cn.katool.security/katool-security-spring-boot-starter@1.1.0-ALPHA
 - pkg:maven/cn.katool.security/katool-security-spring-boot-starter@1.1.0-ALPHA?classifier=sources
+- pkg:maven/cn.katool.security/katool-security-spring-boot-starter@1.1.0.BETA?classifier=sources

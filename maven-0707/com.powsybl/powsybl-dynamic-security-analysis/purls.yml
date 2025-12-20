@@ -1,0 +1,4 @@
+- pkg:maven/com.powsybl/powsybl-dynamic-security-analysis@6.4.0
+- pkg:maven/com.powsybl/powsybl-dynamic-security-analysis@6.4.0-RC2
+- pkg:maven/com.powsybl/powsybl-dynamic-security-analysis@6.4.0-RC2?classifier=sources
+- pkg:maven/com.powsybl/powsybl-dynamic-security-analysis@6.4.0?classifier=sources

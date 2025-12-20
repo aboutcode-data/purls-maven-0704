@@ -180,3 +180,7 @@
 - pkg:maven/io.smallrye/smallrye-open-api-core@3.8.0?classifier=sources
 - pkg:maven/io.smallrye/smallrye-open-api-core@3.9.0
 - pkg:maven/io.smallrye/smallrye-open-api-core@3.9.0?classifier=sources
+- pkg:maven/io.smallrye/smallrye-open-api-core@4.0.0-alpha1
+- pkg:maven/io.smallrye/smallrye-open-api-core@4.0.0-alpha1?classifier=sources
+- pkg:maven/io.smallrye/smallrye-open-api-core@4.0.0-alpha2
+- pkg:maven/io.smallrye/smallrye-open-api-core@4.0.0-alpha2?classifier=sources

@@ -331,3 +331,5 @@
 - pkg:maven/com.commercetools.rmf/postman@1.0.0-20240531093705?classifier=sources
 - pkg:maven/com.commercetools.rmf/postman@1.0.0-20240603062301?classifier=sources
 - pkg:maven/com.commercetools.rmf/postman@1.0.0-20240607210018?classifier=sources
+- pkg:maven/com.commercetools.rmf/postman@1.0.0-20240702123806?classifier=sources
+- pkg:maven/com.commercetools.rmf/postman@1.0.0-20240710102139?classifier=sources

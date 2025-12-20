@@ -1,0 +1,4 @@
+- pkg:maven/com.bird/android-sdk@0.0.1-beta?classifier=sources
+- pkg:maven/com.bird/android-sdk@0.0.2-beta?classifier=sources
+- pkg:maven/com.bird/android-sdk@0.0.3-beta?classifier=sources
+- pkg:maven/com.bird/android-sdk@0.0.4-beta?classifier=sources

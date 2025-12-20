@@ -5,6 +5,7 @@
 - pkg:maven/io.vena/bosk-jackson@0.0.104?classifier=sources
 - pkg:maven/io.vena/bosk-jackson@0.0.105?classifier=sources
 - pkg:maven/io.vena/bosk-jackson@0.0.106?classifier=sources
+- pkg:maven/io.vena/bosk-jackson@0.0.107?classifier=sources
 - pkg:maven/io.vena/bosk-jackson@0.0.60?classifier=sources
 - pkg:maven/io.vena/bosk-jackson@0.0.62?classifier=sources
 - pkg:maven/io.vena/bosk-jackson@0.0.63?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.stubit/random@0.3?classifier=sources
+- pkg:maven/org.stubit/random@0.4?classifier=sources

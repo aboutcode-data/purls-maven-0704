@@ -1,1 +1,2 @@
 - pkg:maven/pub.ihub.integration/ihub-bytebuddy-core@0.1.3?classifier=sources
+- pkg:maven/pub.ihub.integration/ihub-bytebuddy-core@0.1.5?classifier=sources

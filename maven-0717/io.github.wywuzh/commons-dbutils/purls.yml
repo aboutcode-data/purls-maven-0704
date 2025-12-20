@@ -1,0 +1,9 @@
+- pkg:maven/io.github.wywuzh/commons-dbutils@2.7.11.RELEASE?classifier=sources
+- pkg:maven/io.github.wywuzh/commons-dbutils@2.7.12.RELEASE?classifier=sources
+- pkg:maven/io.github.wywuzh/commons-dbutils@2.7.13.RELEASE?classifier=sources
+- pkg:maven/io.github.wywuzh/commons-dbutils@2.7.14.RELEASE?classifier=sources
+- pkg:maven/io.github.wywuzh/commons-dbutils@2.7.15.RELEASE?classifier=sources
+- pkg:maven/io.github.wywuzh/commons-dbutils@2.7.16.RELEASE?classifier=sources
+- pkg:maven/io.github.wywuzh/commons-dbutils@2.7.17.RELEASE?classifier=sources
+- pkg:maven/io.github.wywuzh/commons-dbutils@2.7.18.RELEASE?classifier=sources
+- pkg:maven/io.github.wywuzh/commons-dbutils@3.0.1-RELEASE?classifier=sources

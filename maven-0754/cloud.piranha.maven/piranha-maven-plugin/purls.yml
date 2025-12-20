@@ -1,0 +1,2 @@
+- pkg:maven/cloud.piranha.maven/piranha-maven-plugin@24.6.0
+- pkg:maven/cloud.piranha.maven/piranha-maven-plugin@24.6.0?classifier=sources

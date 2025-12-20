@@ -1,0 +1,2 @@
+- pkg:maven/xyz.amricko0b/quarkus-json-rpc-core-deployment@0.0.1?classifier=sources
+- pkg:maven/xyz.amricko0b/quarkus-json-rpc-core-deployment@0.0.2?classifier=sources

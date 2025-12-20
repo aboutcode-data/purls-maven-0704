@@ -101,3 +101,5 @@
 - pkg:maven/org.duracloud/manifeststitch@7.1.4?classifier=sources
 - pkg:maven/org.duracloud/manifeststitch@8.0.0
 - pkg:maven/org.duracloud/manifeststitch@8.0.0?classifier=sources
+- pkg:maven/org.duracloud/manifeststitch@8.1.0
+- pkg:maven/org.duracloud/manifeststitch@8.1.0?classifier=sources

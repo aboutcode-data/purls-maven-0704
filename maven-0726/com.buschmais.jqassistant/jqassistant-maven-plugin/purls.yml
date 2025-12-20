@@ -112,6 +112,7 @@
 - pkg:maven/com.buschmais.jqassistant/jqassistant-maven-plugin@2.2.0?classifier=sources
 - pkg:maven/com.buschmais.jqassistant/jqassistant-maven-plugin@2.2.1
 - pkg:maven/com.buschmais.jqassistant/jqassistant-maven-plugin@2.2.1?classifier=sources
+- pkg:maven/com.buschmais.jqassistant/jqassistant-maven-plugin@2.3.0
 - pkg:maven/com.buschmais.jqassistant/jqassistant-maven-plugin@2.3.0-M1
 - pkg:maven/com.buschmais.jqassistant/jqassistant-maven-plugin@2.3.0-M1?classifier=sources
 - pkg:maven/com.buschmais.jqassistant/jqassistant-maven-plugin@2.3.0-M2
@@ -122,3 +123,12 @@
 - pkg:maven/com.buschmais.jqassistant/jqassistant-maven-plugin@2.3.0-M4?classifier=sources
 - pkg:maven/com.buschmais.jqassistant/jqassistant-maven-plugin@2.3.0-M5
 - pkg:maven/com.buschmais.jqassistant/jqassistant-maven-plugin@2.3.0-M5?classifier=sources
+- pkg:maven/com.buschmais.jqassistant/jqassistant-maven-plugin@2.3.0-RC1
+- pkg:maven/com.buschmais.jqassistant/jqassistant-maven-plugin@2.3.0-RC1?classifier=sources
+- pkg:maven/com.buschmais.jqassistant/jqassistant-maven-plugin@2.3.0-RC2
+- pkg:maven/com.buschmais.jqassistant/jqassistant-maven-plugin@2.3.0-RC2?classifier=sources
+- pkg:maven/com.buschmais.jqassistant/jqassistant-maven-plugin@2.3.0?classifier=sources
+- pkg:maven/com.buschmais.jqassistant/jqassistant-maven-plugin@2.3.1
+- pkg:maven/com.buschmais.jqassistant/jqassistant-maven-plugin@2.3.1?classifier=sources
+- pkg:maven/com.buschmais.jqassistant/jqassistant-maven-plugin@2.4.0-M1
+- pkg:maven/com.buschmais.jqassistant/jqassistant-maven-plugin@2.4.0-M1?classifier=sources

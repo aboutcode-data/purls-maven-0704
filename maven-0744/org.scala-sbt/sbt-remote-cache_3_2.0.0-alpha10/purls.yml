@@ -1,0 +1,2 @@
+- pkg:maven/org.scala-sbt/sbt-remote-cache_3_2.0.0-alpha10@2.0.0-alpha10
+- pkg:maven/org.scala-sbt/sbt-remote-cache_3_2.0.0-alpha10@2.0.0-alpha10?classifier=sources
