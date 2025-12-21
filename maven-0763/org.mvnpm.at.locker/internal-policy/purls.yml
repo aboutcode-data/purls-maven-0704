@@ -9,3 +9,7 @@
 - pkg:maven/org.mvnpm.at.locker/internal-policy@0.25.3?classifier=sources
 - pkg:maven/org.mvnpm.at.locker/internal-policy@0.25.4
 - pkg:maven/org.mvnpm.at.locker/internal-policy@0.25.4?classifier=sources
+- pkg:maven/org.mvnpm.at.locker/internal-policy@0.25.5
+- pkg:maven/org.mvnpm.at.locker/internal-policy@0.25.5?classifier=sources
+- pkg:maven/org.mvnpm.at.locker/internal-policy@0.25.6
+- pkg:maven/org.mvnpm.at.locker/internal-policy@0.25.6?classifier=sources

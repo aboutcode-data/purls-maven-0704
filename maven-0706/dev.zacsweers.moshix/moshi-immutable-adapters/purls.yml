@@ -11,3 +11,4 @@
 - pkg:maven/dev.zacsweers.moshix/moshi-immutable-adapters@0.31.0-alpha01?classifier=sources
 - pkg:maven/dev.zacsweers.moshix/moshi-immutable-adapters@0.31.0?classifier=sources
 - pkg:maven/dev.zacsweers.moshix/moshi-immutable-adapters@0.32.0-2.2.20-Beta2-alpha01?classifier=sources
+- pkg:maven/dev.zacsweers.moshix/moshi-immutable-adapters@0.32.0?classifier=sources

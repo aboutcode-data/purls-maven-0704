@@ -1,5 +1,6 @@
 - pkg:maven/org.webjars.npm/firebase__functions@0.11.6
 - pkg:maven/org.webjars.npm/firebase__functions@0.12.8
+- pkg:maven/org.webjars.npm/firebase__functions@0.13.1
 - pkg:maven/org.webjars.npm/firebase__functions@0.4.20
 - pkg:maven/org.webjars.npm/firebase__functions@0.4.20?classifier=sources
 - pkg:maven/org.webjars.npm/firebase__functions@0.4.3

@@ -249,6 +249,7 @@
 - pkg:maven/com.facebook.presto/presto-tpch@0.291?classifier=sources
 - pkg:maven/com.facebook.presto/presto-tpch@0.292?classifier=sources
 - pkg:maven/com.facebook.presto/presto-tpch@0.293?classifier=sources
+- pkg:maven/com.facebook.presto/presto-tpch@0.294?classifier=sources
 - pkg:maven/com.facebook.presto/presto-tpch@0.60?classifier=sources
 - pkg:maven/com.facebook.presto/presto-tpch@0.61?classifier=sources
 - pkg:maven/com.facebook.presto/presto-tpch@0.62?classifier=sources

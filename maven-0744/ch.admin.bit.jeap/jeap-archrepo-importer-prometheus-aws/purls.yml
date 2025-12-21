@@ -27,3 +27,14 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-prometheus-aws@1.30.1?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-prometheus-aws@1.31.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-prometheus-aws@1.32.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-prometheus-aws@1.32.1?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-prometheus-aws@1.32.2?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-prometheus-aws@1.33.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-prometheus-aws@2.0.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-prometheus-aws@2.1.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-prometheus-aws@2.1.1?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-prometheus-aws@2.2.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-prometheus-aws@2.3.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-prometheus-aws@2.4.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-prometheus-aws@2.5.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-prometheus-aws@2.5.1?classifier=sources

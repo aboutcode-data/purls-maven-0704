@@ -64,3 +64,6 @@
 - pkg:maven/me.proton.core/user-recovery@34.0.1?classifier=sources
 - pkg:maven/me.proton.core/user-recovery@34.1.0?classifier=sources
 - pkg:maven/me.proton.core/user-recovery@34.2.0?classifier=sources
+- pkg:maven/me.proton.core/user-recovery@34.2.1?classifier=sources
+- pkg:maven/me.proton.core/user-recovery@34.3.0?classifier=sources
+- pkg:maven/me.proton.core/user-recovery@34.4.0?classifier=sources

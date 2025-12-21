@@ -1,1 +1,2 @@
 - pkg:maven/org.operaton.bpm.distro/operaton-sql-scripts@7.23.0?classifier=sources
+- pkg:maven/org.operaton.bpm.distro/operaton-sql-scripts@7.23.1?classifier=sources

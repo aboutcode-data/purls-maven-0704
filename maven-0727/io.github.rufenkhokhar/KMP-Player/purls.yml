@@ -1,3 +1,4 @@
 - pkg:maven/io.github.rufenkhokhar/KMP-Player@1.0.0-beta?classifier=sources
 - pkg:maven/io.github.rufenkhokhar/KMP-Player@1.0.0-internal?classifier=sources
 - pkg:maven/io.github.rufenkhokhar/KMP-Player@1.0.1-beta?classifier=sources
+- pkg:maven/io.github.rufenkhokhar/KMP-Player@1.0.2-beta?classifier=sources

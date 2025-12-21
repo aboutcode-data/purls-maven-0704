@@ -1,1 +1,4 @@
 - pkg:maven/io.gitee.zjarlin/addzero-jimmer-ext-dynamic-datasource@0.0.607?classifier=sources
+- pkg:maven/io.gitee.zjarlin/addzero-jimmer-ext-dynamic-datasource@0.0.609?classifier=sources
+- pkg:maven/io.gitee.zjarlin/addzero-jimmer-ext-dynamic-datasource@0.0.610?classifier=sources
+- pkg:maven/io.gitee.zjarlin/addzero-jimmer-ext-dynamic-datasource@0.0.611?classifier=sources

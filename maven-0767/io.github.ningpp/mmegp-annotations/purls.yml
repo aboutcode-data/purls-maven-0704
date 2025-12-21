@@ -16,3 +16,4 @@
 - pkg:maven/io.github.ningpp/mmegp-annotations@1.1.0?classifier=sources
 - pkg:maven/io.github.ningpp/mmegp-annotations@1.2.0
 - pkg:maven/io.github.ningpp/mmegp-annotations@1.2.0?classifier=sources
+- pkg:maven/io.github.ningpp/mmegp-annotations@2.0.0-M1?classifier=sources

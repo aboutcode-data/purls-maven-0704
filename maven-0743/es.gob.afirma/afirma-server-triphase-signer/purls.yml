@@ -8,3 +8,4 @@
 - pkg:maven/es.gob.afirma/afirma-server-triphase-signer@1.7.2?type=war
 - pkg:maven/es.gob.afirma/afirma-server-triphase-signer@1.8.2?classifier=sources
 - pkg:maven/es.gob.afirma/afirma-server-triphase-signer@1.8.2?type=war
+- pkg:maven/es.gob.afirma/afirma-server-triphase-signer@2.8.1?classifier=sources

@@ -1,1 +1,3 @@
 - pkg:maven/com.framewiki/wiki-datasource-mongodb@1.0.11?classifier=sources
+- pkg:maven/com.framewiki/wiki-datasource-mongodb@1.1.0?classifier=sources
+- pkg:maven/com.framewiki/wiki-datasource-mongodb@1.1.1?classifier=sources

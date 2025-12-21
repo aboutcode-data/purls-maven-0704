@@ -8,6 +8,7 @@
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.federatedRepository@1.1.21
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.federatedRepository@1.2.103?classifier=sources
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.federatedRepository@1.2.104?classifier=sources
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.federatedRepository@1.2.105?classifier=sources
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.federatedRepository@1.2.22
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.federatedRepository@1.2.23
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.federatedRepository@1.2.24

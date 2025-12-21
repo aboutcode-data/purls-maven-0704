@@ -78,6 +78,9 @@
 - pkg:maven/io.camunda/operate-importer-8_5@8.6.22?classifier=sources
 - pkg:maven/io.camunda/operate-importer-8_5@8.6.23?classifier=sources
 - pkg:maven/io.camunda/operate-importer-8_5@8.6.24?classifier=sources
+- pkg:maven/io.camunda/operate-importer-8_5@8.6.25?classifier=sources
+- pkg:maven/io.camunda/operate-importer-8_5@8.6.26?classifier=sources
+- pkg:maven/io.camunda/operate-importer-8_5@8.6.27?classifier=sources
 - pkg:maven/io.camunda/operate-importer-8_5@8.6.2?classifier=sources
 - pkg:maven/io.camunda/operate-importer-8_5@8.6.3
 - pkg:maven/io.camunda/operate-importer-8_5@8.6.3?classifier=sources

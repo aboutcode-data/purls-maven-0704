@@ -1,0 +1,1 @@
+- pkg:maven/org.jetbrains.exposed/exposed-migration-jdbc@1.0.0-rc-1?classifier=sources

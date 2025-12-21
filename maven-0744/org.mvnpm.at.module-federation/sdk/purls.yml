@@ -32,4 +32,6 @@
 - pkg:maven/org.mvnpm.at.module-federation/sdk@0.18.2?classifier=sources
 - pkg:maven/org.mvnpm.at.module-federation/sdk@0.18.3
 - pkg:maven/org.mvnpm.at.module-federation/sdk@0.18.3?classifier=sources
+- pkg:maven/org.mvnpm.at.module-federation/sdk@0.18.4
+- pkg:maven/org.mvnpm.at.module-federation/sdk@0.18.4?classifier=sources
 - pkg:maven/org.mvnpm.at.module-federation/sdk@0.8.4?classifier=sources

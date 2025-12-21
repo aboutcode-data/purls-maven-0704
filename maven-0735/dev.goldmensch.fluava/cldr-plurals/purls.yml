@@ -5,3 +5,8 @@
 - pkg:maven/dev.goldmensch.fluava/cldr-plurals@0.1.4?classifier=sources
 - pkg:maven/dev.goldmensch.fluava/cldr-plurals@0.2.0?classifier=sources
 - pkg:maven/dev.goldmensch.fluava/cldr-plurals@0.2.1?classifier=sources
+- pkg:maven/dev.goldmensch.fluava/cldr-plurals@0.3.0?classifier=sources
+- pkg:maven/dev.goldmensch.fluava/cldr-plurals@0.3.1?classifier=sources
+- pkg:maven/dev.goldmensch.fluava/cldr-plurals@0.3.2?classifier=sources
+- pkg:maven/dev.goldmensch.fluava/cldr-plurals@0.4.0?classifier=sources
+- pkg:maven/dev.goldmensch.fluava/cldr-plurals@0.4.1?classifier=sources

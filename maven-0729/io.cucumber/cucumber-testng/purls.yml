@@ -230,6 +230,11 @@
 - pkg:maven/io.cucumber/cucumber-testng@7.25.0?classifier=sources
 - pkg:maven/io.cucumber/cucumber-testng@7.26.0?classifier=sources
 - pkg:maven/io.cucumber/cucumber-testng@7.27.0?classifier=sources
+- pkg:maven/io.cucumber/cucumber-testng@7.27.1?classifier=sources
+- pkg:maven/io.cucumber/cucumber-testng@7.27.2?classifier=sources
+- pkg:maven/io.cucumber/cucumber-testng@7.28.0?classifier=sources
+- pkg:maven/io.cucumber/cucumber-testng@7.28.1?classifier=sources
+- pkg:maven/io.cucumber/cucumber-testng@7.28.2?classifier=sources
 - pkg:maven/io.cucumber/cucumber-testng@7.3.0
 - pkg:maven/io.cucumber/cucumber-testng@7.3.0?classifier=sources
 - pkg:maven/io.cucumber/cucumber-testng@7.3.1

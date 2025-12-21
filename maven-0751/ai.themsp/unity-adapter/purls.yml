@@ -12,3 +12,9 @@
 - pkg:maven/ai.themsp/unity-adapter@2.3.2?classifier=sources
 - pkg:maven/ai.themsp/unity-adapter@2.3.3?classifier=sources
 - pkg:maven/ai.themsp/unity-adapter@2.4.0?classifier=sources
+- pkg:maven/ai.themsp/unity-adapter@2.5.0?classifier=sources
+- pkg:maven/ai.themsp/unity-adapter@2.6.0-newsbreak-msp-migration?classifier=sources
+- pkg:maven/ai.themsp/unity-adapter@2.6.0?classifier=sources
+- pkg:maven/ai.themsp/unity-adapter@2.6.1-newsbreak-msp-migration?classifier=sources
+- pkg:maven/ai.themsp/unity-adapter@2.6.2-newsbreak-msp-migration?classifier=sources
+- pkg:maven/ai.themsp/unity-adapter@2.6.4-newsbreak-msp-migration?classifier=sources

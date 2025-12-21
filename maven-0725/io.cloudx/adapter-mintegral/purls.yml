@@ -1,1 +1,2 @@
 - pkg:maven/io.cloudx/adapter-mintegral@0.0.1.00?classifier=sources
+- pkg:maven/io.cloudx/adapter-mintegral@0.0.1.40?classifier=sources

@@ -1,5 +1,6 @@
 - pkg:maven/org.openidentityplatform.opendj/opendj-dsml-servlet@4.10.0?classifier=sources
 - pkg:maven/org.openidentityplatform.opendj/opendj-dsml-servlet@4.10.1?classifier=sources
+- pkg:maven/org.openidentityplatform.opendj/opendj-dsml-servlet@4.10.2?classifier=sources
 - pkg:maven/org.openidentityplatform.opendj/opendj-dsml-servlet@4.4.10?classifier=sources
 - pkg:maven/org.openidentityplatform.opendj/opendj-dsml-servlet@4.4.10?type=war
 - pkg:maven/org.openidentityplatform.opendj/opendj-dsml-servlet@4.4.11?classifier=sources

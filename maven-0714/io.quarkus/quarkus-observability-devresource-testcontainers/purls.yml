@@ -57,6 +57,7 @@
 - pkg:maven/io.quarkus/quarkus-observability-devresource-testcontainers@3.15.5
 - pkg:maven/io.quarkus/quarkus-observability-devresource-testcontainers@3.15.5?classifier=sources
 - pkg:maven/io.quarkus/quarkus-observability-devresource-testcontainers@3.15.6.1?classifier=sources
+- pkg:maven/io.quarkus/quarkus-observability-devresource-testcontainers@3.15.6.2?classifier=sources
 - pkg:maven/io.quarkus/quarkus-observability-devresource-testcontainers@3.15.6?classifier=sources
 - pkg:maven/io.quarkus/quarkus-observability-devresource-testcontainers@3.16.0
 - pkg:maven/io.quarkus/quarkus-observability-devresource-testcontainers@3.16.0.CR1
@@ -121,6 +122,7 @@
 - pkg:maven/io.quarkus/quarkus-observability-devresource-testcontainers@3.20.1
 - pkg:maven/io.quarkus/quarkus-observability-devresource-testcontainers@3.20.1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-observability-devresource-testcontainers@3.20.2.1?classifier=sources
+- pkg:maven/io.quarkus/quarkus-observability-devresource-testcontainers@3.20.2.2?classifier=sources
 - pkg:maven/io.quarkus/quarkus-observability-devresource-testcontainers@3.20.2?classifier=sources
 - pkg:maven/io.quarkus/quarkus-observability-devresource-testcontainers@3.21.0
 - pkg:maven/io.quarkus/quarkus-observability-devresource-testcontainers@3.21.0.CR1
@@ -167,3 +169,8 @@
 - pkg:maven/io.quarkus/quarkus-observability-devresource-testcontainers@3.25.4?classifier=sources
 - pkg:maven/io.quarkus/quarkus-observability-devresource-testcontainers@3.26.0.CR1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-observability-devresource-testcontainers@3.26.0?classifier=sources
+- pkg:maven/io.quarkus/quarkus-observability-devresource-testcontainers@3.26.1?classifier=sources
+- pkg:maven/io.quarkus/quarkus-observability-devresource-testcontainers@3.26.2?classifier=sources
+- pkg:maven/io.quarkus/quarkus-observability-devresource-testcontainers@3.26.3?classifier=sources
+- pkg:maven/io.quarkus/quarkus-observability-devresource-testcontainers@3.27.0.CR1?classifier=sources
+- pkg:maven/io.quarkus/quarkus-observability-devresource-testcontainers@3.28.0.CR1?classifier=sources

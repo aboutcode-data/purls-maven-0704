@@ -1,1 +1,2 @@
 - pkg:maven/io.github.icodegarden/beecomb-worker@2.3.0?classifier=sources
+- pkg:maven/io.github.icodegarden/beecomb-worker@2.4.0?classifier=sources

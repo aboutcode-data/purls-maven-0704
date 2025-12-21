@@ -1,1 +1,2 @@
 - pkg:maven/com.prodege.bitlabs/core@5.0.0?classifier=sources
+- pkg:maven/com.prodege.bitlabs/core@5.1.0?classifier=sources

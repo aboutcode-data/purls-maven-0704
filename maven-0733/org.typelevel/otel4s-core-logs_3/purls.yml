@@ -1,0 +1,2 @@
+- pkg:maven/org.typelevel/otel4s-core-logs_3@0.14.0-RC1
+- pkg:maven/org.typelevel/otel4s-core-logs_3@0.14.0-RC1?classifier=sources

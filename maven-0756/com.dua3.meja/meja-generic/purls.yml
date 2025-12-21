@@ -97,3 +97,5 @@
 - pkg:maven/com.dua3.meja/meja-generic@9.0.0-beta3-snapshot?classifier=sources
 - pkg:maven/com.dua3.meja/meja-generic@9.0.0-beta3?classifier=sources
 - pkg:maven/com.dua3.meja/meja-generic@9.0.0-beta4?classifier=sources
+- pkg:maven/com.dua3.meja/meja-generic@9.0.0-beta5?classifier=sources
+- pkg:maven/com.dua3.meja/meja-generic@9.0.0-beta6?classifier=sources

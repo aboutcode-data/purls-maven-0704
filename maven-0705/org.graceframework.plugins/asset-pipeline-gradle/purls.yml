@@ -36,3 +36,4 @@
 - pkg:maven/org.graceframework.plugins/asset-pipeline-gradle@6.3.0-RC1?classifier=sources
 - pkg:maven/org.graceframework.plugins/asset-pipeline-gradle@6.3.0-RC2?classifier=sources
 - pkg:maven/org.graceframework.plugins/asset-pipeline-gradle@6.3.0?classifier=sources
+- pkg:maven/org.graceframework.plugins/asset-pipeline-gradle@7.0.0-M1?classifier=sources

@@ -86,6 +86,7 @@
 - pkg:maven/com.squareup.wire/wire-swift-generator@5.2.1?classifier=sources
 - pkg:maven/com.squareup.wire/wire-swift-generator@5.3.0?classifier=sources
 - pkg:maven/com.squareup.wire/wire-swift-generator@5.3.10?classifier=sources
+- pkg:maven/com.squareup.wire/wire-swift-generator@5.3.11?classifier=sources
 - pkg:maven/com.squareup.wire/wire-swift-generator@5.3.1?classifier=sources
 - pkg:maven/com.squareup.wire/wire-swift-generator@5.3.2?classifier=sources
 - pkg:maven/com.squareup.wire/wire-swift-generator@5.3.3?classifier=sources
@@ -95,3 +96,4 @@
 - pkg:maven/com.squareup.wire/wire-swift-generator@5.3.7?classifier=sources
 - pkg:maven/com.squareup.wire/wire-swift-generator@5.3.8?classifier=sources
 - pkg:maven/com.squareup.wire/wire-swift-generator@5.3.9?classifier=sources
+- pkg:maven/com.squareup.wire/wire-swift-generator@5.4.0?classifier=sources

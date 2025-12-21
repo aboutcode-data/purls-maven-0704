@@ -158,3 +158,4 @@
 - pkg:maven/com.github.mizool.technology/technology-aws@6.7?classifier=sources
 - pkg:maven/com.github.mizool.technology/technology-aws@6.8?classifier=sources
 - pkg:maven/com.github.mizool.technology/technology-aws@7.0?classifier=sources
+- pkg:maven/com.github.mizool.technology/technology-aws@8.0?classifier=sources

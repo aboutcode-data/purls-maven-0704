@@ -4,3 +4,4 @@
 - pkg:maven/io.github.aumaidkh/networking-client@1.0.0-BETA_03?classifier=sources
 - pkg:maven/io.github.aumaidkh/networking-client@1.0.0-BETA_04?classifier=sources
 - pkg:maven/io.github.aumaidkh/networking-client@1.0.0-BETA_05?classifier=sources
+- pkg:maven/io.github.aumaidkh/networking-client@1.0.0-BETA_06?classifier=sources

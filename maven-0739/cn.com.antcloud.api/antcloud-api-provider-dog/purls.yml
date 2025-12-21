@@ -3,3 +3,4 @@
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-dog@1.0.2
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-dog@1.0.2?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-dog@1.0.8?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-dog@1.0.9?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.splunk.android/sr-instrumentation-session-recording-frame-capturer@1.0.19?classifier=sources
+- pkg:maven/com.splunk.android/sr-instrumentation-session-recording-frame-capturer@1.0.20?classifier=sources
+- pkg:maven/com.splunk.android/sr-instrumentation-session-recording-frame-capturer@1.0.21?classifier=sources
+- pkg:maven/com.splunk.android/sr-instrumentation-session-recording-frame-capturer@1.0.22?classifier=sources

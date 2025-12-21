@@ -145,3 +145,10 @@
 - pkg:maven/one.empty3/empty3-library-mp@2025.8.19?classifier=sources
 - pkg:maven/one.empty3/empty3-library-mp@2025.8.20-0?classifier=sources
 - pkg:maven/one.empty3/empty3-library-mp@2025.8.20-1?classifier=sources
+- pkg:maven/one.empty3/empty3-library-mp@2025.9.1?classifier=sources
+- pkg:maven/one.empty3/empty3-library-mp@2025.9.5-1?classifier=sources
+- pkg:maven/one.empty3/empty3-library-mp@2025.9.5-2?classifier=sources
+- pkg:maven/one.empty3/empty3-library-mp@2025.9.5?classifier=sources
+- pkg:maven/one.empty3/empty3-library-mp@2025.9.6-1?classifier=sources
+- pkg:maven/one.empty3/empty3-library-mp@2025.9.6?classifier=sources
+- pkg:maven/one.empty3/empty3-library-mp@2025.9.8?classifier=sources

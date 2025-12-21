@@ -27,3 +27,5 @@
 - pkg:maven/com.diffplug.durian/durian-swt.gtk.linux.x86@4.3.1?classifier=sources
 - pkg:maven/com.diffplug.durian/durian-swt.gtk.linux.x86@5.0.0?classifier=sources
 - pkg:maven/com.diffplug.durian/durian-swt.gtk.linux.x86@5.0.1?classifier=sources
+- pkg:maven/com.diffplug.durian/durian-swt.gtk.linux.x86@5.1.0?classifier=sources
+- pkg:maven/com.diffplug.durian/durian-swt.gtk.linux.x86@5.2.0?classifier=sources

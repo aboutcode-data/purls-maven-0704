@@ -298,7 +298,17 @@
 - pkg:maven/com.regnosys.rosetta.code-generators/golang@11.76.1?classifier=sources
 - pkg:maven/com.regnosys.rosetta.code-generators/golang@11.77.0?classifier=sources
 - pkg:maven/com.regnosys.rosetta.code-generators/golang@11.77.1?classifier=sources
+- pkg:maven/com.regnosys.rosetta.code-generators/golang@11.78.0?classifier=sources
+- pkg:maven/com.regnosys.rosetta.code-generators/golang@11.78.1?classifier=sources
+- pkg:maven/com.regnosys.rosetta.code-generators/golang@11.78.2?classifier=sources
+- pkg:maven/com.regnosys.rosetta.code-generators/golang@11.79.0?classifier=sources
+- pkg:maven/com.regnosys.rosetta.code-generators/golang@11.79.1?classifier=sources
+- pkg:maven/com.regnosys.rosetta.code-generators/golang@11.79.2?classifier=sources
 - pkg:maven/com.regnosys.rosetta.code-generators/golang@11.8.0
 - pkg:maven/com.regnosys.rosetta.code-generators/golang@11.8.0?classifier=sources
+- pkg:maven/com.regnosys.rosetta.code-generators/golang@11.80.0?classifier=sources
+- pkg:maven/com.regnosys.rosetta.code-generators/golang@11.80.1?classifier=sources
+- pkg:maven/com.regnosys.rosetta.code-generators/golang@11.80.2?classifier=sources
+- pkg:maven/com.regnosys.rosetta.code-generators/golang@11.81.0?classifier=sources
 - pkg:maven/com.regnosys.rosetta.code-generators/golang@11.9.0
 - pkg:maven/com.regnosys.rosetta.code-generators/golang@11.9.0?classifier=sources

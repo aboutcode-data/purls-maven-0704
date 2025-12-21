@@ -43,6 +43,9 @@
 - pkg:maven/net.folivo/trixnity-client-repository-room-jvm@4.21.0?classifier=sources
 - pkg:maven/net.folivo/trixnity-client-repository-room-jvm@4.21.1?classifier=sources
 - pkg:maven/net.folivo/trixnity-client-repository-room-jvm@4.22.0?classifier=sources
+- pkg:maven/net.folivo/trixnity-client-repository-room-jvm@4.22.1?classifier=sources
+- pkg:maven/net.folivo/trixnity-client-repository-room-jvm@4.22.2?classifier=sources
+- pkg:maven/net.folivo/trixnity-client-repository-room-jvm@4.22.3?classifier=sources
 - pkg:maven/net.folivo/trixnity-client-repository-room-jvm@4.5.0?classifier=sources
 - pkg:maven/net.folivo/trixnity-client-repository-room-jvm@4.5.1?classifier=sources
 - pkg:maven/net.folivo/trixnity-client-repository-room-jvm@4.6.0?classifier=sources

@@ -60,3 +60,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.ui@2.8.700?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.ui@2.8.800
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.ui@2.8.800?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.ui@2.8.900
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.ui@2.8.900?classifier=sources

@@ -76,3 +76,9 @@
 - pkg:maven/org.mvnpm/lucide-react@0.540.0?classifier=sources
 - pkg:maven/org.mvnpm/lucide-react@0.541.0
 - pkg:maven/org.mvnpm/lucide-react@0.541.0?classifier=sources
+- pkg:maven/org.mvnpm/lucide-react@0.542.0
+- pkg:maven/org.mvnpm/lucide-react@0.542.0?classifier=sources
+- pkg:maven/org.mvnpm/lucide-react@0.543.0
+- pkg:maven/org.mvnpm/lucide-react@0.543.0?classifier=sources
+- pkg:maven/org.mvnpm/lucide-react@0.544.0
+- pkg:maven/org.mvnpm/lucide-react@0.544.0?classifier=sources

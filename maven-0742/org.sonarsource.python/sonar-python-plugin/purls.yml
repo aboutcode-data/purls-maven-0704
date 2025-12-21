@@ -91,3 +91,4 @@
 - pkg:maven/org.sonarsource.python/sonar-python-plugin@5.6.0.23855?classifier=sources
 - pkg:maven/org.sonarsource.python/sonar-python-plugin@5.7.0.24163?classifier=sources
 - pkg:maven/org.sonarsource.python/sonar-python-plugin@5.8.0.24785?classifier=sources
+- pkg:maven/org.sonarsource.python/sonar-python-plugin@5.9.0.25193?classifier=sources

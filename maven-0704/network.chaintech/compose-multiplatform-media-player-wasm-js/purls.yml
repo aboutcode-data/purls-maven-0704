@@ -1,0 +1,2 @@
+- pkg:maven/network.chaintech/compose-multiplatform-media-player-wasm-js@1.0.45?classifier=sources
+- pkg:maven/network.chaintech/compose-multiplatform-media-player-wasm-js@1.0.46?classifier=sources

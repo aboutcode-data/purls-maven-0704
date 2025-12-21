@@ -56,3 +56,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.navigator.resources@3.9.600?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.navigator.resources@3.9.700
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.navigator.resources@3.9.700?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.navigator.resources@3.9.800
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.navigator.resources@3.9.800?classifier=sources

@@ -5,3 +5,5 @@
 - pkg:maven/org.mvnpm.at.azure/core-rest-pipeline@1.21.0?classifier=sources
 - pkg:maven/org.mvnpm.at.azure/core-rest-pipeline@1.22.0
 - pkg:maven/org.mvnpm.at.azure/core-rest-pipeline@1.22.0?classifier=sources
+- pkg:maven/org.mvnpm.at.azure/core-rest-pipeline@1.22.1
+- pkg:maven/org.mvnpm.at.azure/core-rest-pipeline@1.22.1?classifier=sources

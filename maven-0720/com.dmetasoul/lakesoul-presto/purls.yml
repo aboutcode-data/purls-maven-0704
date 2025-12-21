@@ -10,6 +10,7 @@
 - pkg:maven/com.dmetasoul/lakesoul-presto@0.28-2.6.1?classifier=sources
 - pkg:maven/com.dmetasoul/lakesoul-presto@0.28-2.6.2
 - pkg:maven/com.dmetasoul/lakesoul-presto@0.28-2.6.2?classifier=sources
+- pkg:maven/com.dmetasoul/lakesoul-presto@0.29-3.0.0?classifier=sources
 - pkg:maven/com.dmetasoul/lakesoul-presto@2.4.0-presto-0.28
 - pkg:maven/com.dmetasoul/lakesoul-presto@2.4.0-presto-0.28?classifier=sources
 - pkg:maven/com.dmetasoul/lakesoul-presto@2.4.1-presto-0.28

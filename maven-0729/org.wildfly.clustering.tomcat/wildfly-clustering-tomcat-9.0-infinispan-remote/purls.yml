@@ -1,1 +1,2 @@
 - pkg:maven/org.wildfly.clustering.tomcat/wildfly-clustering-tomcat-9.0-infinispan-remote@27.0.0.Final?classifier=sources
+- pkg:maven/org.wildfly.clustering.tomcat/wildfly-clustering-tomcat-9.0-infinispan-remote@27.0.1.Final?classifier=sources

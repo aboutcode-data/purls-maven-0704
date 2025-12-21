@@ -66,3 +66,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.osgi@3.23.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.osgi@3.23.100
 - pkg:maven/org.eclipse.platform/org.eclipse.osgi@3.23.100?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.osgi@3.23.200
+- pkg:maven/org.eclipse.platform/org.eclipse.osgi@3.23.200?classifier=sources

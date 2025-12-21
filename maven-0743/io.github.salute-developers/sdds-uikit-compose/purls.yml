@@ -14,6 +14,8 @@
 - pkg:maven/io.github.salute-developers/sdds-uikit-compose@0.22.0?classifier=sources
 - pkg:maven/io.github.salute-developers/sdds-uikit-compose@0.23.0?classifier=sources
 - pkg:maven/io.github.salute-developers/sdds-uikit-compose@0.24.0?classifier=sources
+- pkg:maven/io.github.salute-developers/sdds-uikit-compose@0.25.0?classifier=sources
+- pkg:maven/io.github.salute-developers/sdds-uikit-compose@0.26.0?classifier=sources
 - pkg:maven/io.github.salute-developers/sdds-uikit-compose@0.5.0?classifier=sources
 - pkg:maven/io.github.salute-developers/sdds-uikit-compose@0.6.0?classifier=sources
 - pkg:maven/io.github.salute-developers/sdds-uikit-compose@0.7.0?classifier=sources

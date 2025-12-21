@@ -1,6 +1,8 @@
 - pkg:maven/com.plumery.api/plumery-kotlin-client-okhttp@0.10.0?classifier=sources
 - pkg:maven/com.plumery.api/plumery-kotlin-client-okhttp@0.10.1?classifier=sources
 - pkg:maven/com.plumery.api/plumery-kotlin-client-okhttp@0.10.2?classifier=sources
+- pkg:maven/com.plumery.api/plumery-kotlin-client-okhttp@0.10.3?classifier=sources
+- pkg:maven/com.plumery.api/plumery-kotlin-client-okhttp@0.11.0?classifier=sources
 - pkg:maven/com.plumery.api/plumery-kotlin-client-okhttp@0.3.0?classifier=sources
 - pkg:maven/com.plumery.api/plumery-kotlin-client-okhttp@0.4.0?classifier=sources
 - pkg:maven/com.plumery.api/plumery-kotlin-client-okhttp@0.5.0?classifier=sources

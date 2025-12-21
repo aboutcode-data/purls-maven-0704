@@ -369,6 +369,16 @@
 - pkg:maven/io.github.ministryofjustice.bichard7/bichard7-next-data@2.0.293?classifier=sources
 - pkg:maven/io.github.ministryofjustice.bichard7/bichard7-next-data@2.0.294
 - pkg:maven/io.github.ministryofjustice.bichard7/bichard7-next-data@2.0.294?classifier=sources
+- pkg:maven/io.github.ministryofjustice.bichard7/bichard7-next-data@2.0.295
+- pkg:maven/io.github.ministryofjustice.bichard7/bichard7-next-data@2.0.295?classifier=sources
+- pkg:maven/io.github.ministryofjustice.bichard7/bichard7-next-data@2.0.296
+- pkg:maven/io.github.ministryofjustice.bichard7/bichard7-next-data@2.0.296?classifier=sources
+- pkg:maven/io.github.ministryofjustice.bichard7/bichard7-next-data@2.0.297
+- pkg:maven/io.github.ministryofjustice.bichard7/bichard7-next-data@2.0.297?classifier=sources
+- pkg:maven/io.github.ministryofjustice.bichard7/bichard7-next-data@2.0.298
+- pkg:maven/io.github.ministryofjustice.bichard7/bichard7-next-data@2.0.298?classifier=sources
+- pkg:maven/io.github.ministryofjustice.bichard7/bichard7-next-data@2.0.299
+- pkg:maven/io.github.ministryofjustice.bichard7/bichard7-next-data@2.0.299?classifier=sources
 - pkg:maven/io.github.ministryofjustice.bichard7/bichard7-next-data@2.0.29?classifier=sources
 - pkg:maven/io.github.ministryofjustice.bichard7/bichard7-next-data@2.0.3
 - pkg:maven/io.github.ministryofjustice.bichard7/bichard7-next-data@2.0.30

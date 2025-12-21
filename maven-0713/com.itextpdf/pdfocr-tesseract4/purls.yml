@@ -11,3 +11,5 @@
 - pkg:maven/com.itextpdf/pdfocr-tesseract4@4.0.0?classifier=sources
 - pkg:maven/com.itextpdf/pdfocr-tesseract4@4.0.1?classifier=sources
 - pkg:maven/com.itextpdf/pdfocr-tesseract4@4.0.2?classifier=sources
+- pkg:maven/com.itextpdf/pdfocr-tesseract4@4.1.0
+- pkg:maven/com.itextpdf/pdfocr-tesseract4@4.1.0?classifier=sources

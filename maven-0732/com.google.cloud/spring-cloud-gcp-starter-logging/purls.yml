@@ -74,6 +74,8 @@
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-logging@3.9.5
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-logging@3.9.6
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-logging@3.9.7
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-logging@3.9.8
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-logging@3.9.9
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-logging@4.0.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-logging@4.1.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-logging@4.1.1
@@ -142,6 +144,8 @@
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-logging@5.12.3
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-logging@5.13.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-logging@5.13.1
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-logging@5.13.2
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-logging@5.13.3
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-logging@5.2.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-logging@5.2.1
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-logging@5.3.0
@@ -165,5 +169,9 @@
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-logging@6.2.3
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-logging@6.3.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-logging@6.3.1
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-logging@6.3.2
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-logging@6.3.3
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-logging@7.0.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-logging@7.1.0
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-logging@7.2.0
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-logging@7.3.0

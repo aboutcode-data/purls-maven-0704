@@ -23,6 +23,7 @@
 - pkg:maven/de.tum.in.ase/artemis-java-test-sandbox@1.13.0
 - pkg:maven/de.tum.in.ase/artemis-java-test-sandbox@1.13.0?classifier=sources
 - pkg:maven/de.tum.in.ase/artemis-java-test-sandbox@1.14.0?classifier=sources
+- pkg:maven/de.tum.in.ase/artemis-java-test-sandbox@1.15.0?classifier=sources
 - pkg:maven/de.tum.in.ase/artemis-java-test-sandbox@1.2.0
 - pkg:maven/de.tum.in.ase/artemis-java-test-sandbox@1.2.0?classifier=sources
 - pkg:maven/de.tum.in.ase/artemis-java-test-sandbox@1.2.1

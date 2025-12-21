@@ -1,0 +1,4 @@
+- pkg:maven/cn.raddev/onecode-annotation@3.0
+- pkg:maven/cn.raddev/onecode-annotation@3.0.1
+- pkg:maven/cn.raddev/onecode-annotation@3.0.1?classifier=sources
+- pkg:maven/cn.raddev/onecode-annotation@3.0?classifier=sources

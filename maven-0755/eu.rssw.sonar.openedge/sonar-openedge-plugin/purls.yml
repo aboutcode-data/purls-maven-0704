@@ -78,3 +78,4 @@
 - pkg:maven/eu.rssw.sonar.openedge/sonar-openedge-plugin@3.1.0?classifier=sources
 - pkg:maven/eu.rssw.sonar.openedge/sonar-openedge-plugin@3.2.0?classifier=sources
 - pkg:maven/eu.rssw.sonar.openedge/sonar-openedge-plugin@3.3.0?classifier=sources
+- pkg:maven/eu.rssw.sonar.openedge/sonar-openedge-plugin@3.3.1?classifier=sources

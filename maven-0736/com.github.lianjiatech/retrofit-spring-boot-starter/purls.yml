@@ -123,6 +123,8 @@
 - pkg:maven/com.github.lianjiatech/retrofit-spring-boot-starter@2.4.7
 - pkg:maven/com.github.lianjiatech/retrofit-spring-boot-starter@2.4.7?classifier=sources
 - pkg:maven/com.github.lianjiatech/retrofit-spring-boot-starter@2.4.8?classifier=sources
+- pkg:maven/com.github.lianjiatech/retrofit-spring-boot-starter@2.4.9?classifier=sources
+- pkg:maven/com.github.lianjiatech/retrofit-spring-boot-starter@2.5.0?classifier=sources
 - pkg:maven/com.github.lianjiatech/retrofit-spring-boot-starter@3.0.0
 - pkg:maven/com.github.lianjiatech/retrofit-spring-boot-starter@3.0.0?classifier=sources
 - pkg:maven/com.github.lianjiatech/retrofit-spring-boot-starter@3.0.1
@@ -148,3 +150,4 @@
 - pkg:maven/com.github.lianjiatech/retrofit-spring-boot-starter@3.1.7
 - pkg:maven/com.github.lianjiatech/retrofit-spring-boot-starter@3.1.7?classifier=sources
 - pkg:maven/com.github.lianjiatech/retrofit-spring-boot-starter@3.1.8?classifier=sources
+- pkg:maven/com.github.lianjiatech/retrofit-spring-boot-starter@3.2.0?classifier=sources

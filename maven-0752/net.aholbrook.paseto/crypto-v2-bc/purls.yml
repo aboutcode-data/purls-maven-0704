@@ -1,0 +1,2 @@
+- pkg:maven/net.aholbrook.paseto/crypto-v2-bc@0.7.0?classifier=sources
+- pkg:maven/net.aholbrook.paseto/crypto-v2-bc@0.8.0?classifier=sources

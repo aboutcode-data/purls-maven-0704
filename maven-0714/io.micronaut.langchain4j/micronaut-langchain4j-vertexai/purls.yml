@@ -5,3 +5,4 @@
 - pkg:maven/io.micronaut.langchain4j/micronaut-langchain4j-vertexai@1.0.0-RC2?classifier=sources
 - pkg:maven/io.micronaut.langchain4j/micronaut-langchain4j-vertexai@1.0.0?classifier=sources
 - pkg:maven/io.micronaut.langchain4j/micronaut-langchain4j-vertexai@1.1.0?classifier=sources
+- pkg:maven/io.micronaut.langchain4j/micronaut-langchain4j-vertexai@1.2.0?classifier=sources

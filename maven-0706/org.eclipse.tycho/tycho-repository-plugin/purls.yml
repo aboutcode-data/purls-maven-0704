@@ -24,3 +24,4 @@
 - pkg:maven/org.eclipse.tycho/tycho-repository-plugin@4.0.8?classifier=sources
 - pkg:maven/org.eclipse.tycho/tycho-repository-plugin@4.0.9
 - pkg:maven/org.eclipse.tycho/tycho-repository-plugin@4.0.9?classifier=sources
+- pkg:maven/org.eclipse.tycho/tycho-repository-plugin@5.0.0?classifier=sources

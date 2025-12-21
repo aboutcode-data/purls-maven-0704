@@ -2,3 +2,5 @@
 - pkg:maven/com.codbex.atlas/codbex-atlas-components-ui-welcome@2.72.0?classifier=sources
 - pkg:maven/com.codbex.atlas/codbex-atlas-components-ui-welcome@2.73.0?classifier=sources
 - pkg:maven/com.codbex.atlas/codbex-atlas-components-ui-welcome@2.74.0?classifier=sources
+- pkg:maven/com.codbex.atlas/codbex-atlas-components-ui-welcome@2.75.0?classifier=sources
+- pkg:maven/com.codbex.atlas/codbex-atlas-components-ui-welcome@2.76.0?classifier=sources

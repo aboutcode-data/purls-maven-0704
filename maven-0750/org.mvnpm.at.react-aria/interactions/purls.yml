@@ -8,3 +8,5 @@
 - pkg:maven/org.mvnpm.at.react-aria/interactions@3.25.3?classifier=sources
 - pkg:maven/org.mvnpm.at.react-aria/interactions@3.25.4
 - pkg:maven/org.mvnpm.at.react-aria/interactions@3.25.4?classifier=sources
+- pkg:maven/org.mvnpm.at.react-aria/interactions@3.25.5
+- pkg:maven/org.mvnpm.at.react-aria/interactions@3.25.5?classifier=sources

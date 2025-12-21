@@ -129,3 +129,4 @@
 - pkg:maven/com.google.android.horologist/horologist-media3-backend@0.7.9-alpha?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-media3-backend@0.8.0-alpha?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-media3-backend@0.8.1-alpha?classifier=sources
+- pkg:maven/com.google.android.horologist/horologist-media3-backend@0.8.2-alpha?classifier=sources

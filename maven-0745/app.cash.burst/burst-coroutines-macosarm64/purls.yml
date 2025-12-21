@@ -1,0 +1,2 @@
+- pkg:maven/app.cash.burst/burst-coroutines-macosarm64@2.8.0?classifier=sources
+- pkg:maven/app.cash.burst/burst-coroutines-macosarm64@2.8.1?classifier=sources

@@ -226,6 +226,8 @@
 - pkg:maven/org.http4k/http4k-client-fuel@6.15.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-client-fuel@6.15.0.1?classifier=sources
 - pkg:maven/org.http4k/http4k-client-fuel@6.15.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-client-fuel@6.16.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-client-fuel@6.17.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-client-fuel@6.2.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-client-fuel@6.4.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-client-fuel@6.4.1.0?classifier=sources

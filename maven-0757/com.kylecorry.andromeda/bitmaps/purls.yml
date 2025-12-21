@@ -27,3 +27,7 @@
 - pkg:maven/com.kylecorry.andromeda/bitmaps@15.2.0?classifier=sources
 - pkg:maven/com.kylecorry.andromeda/bitmaps@15.3.0?classifier=sources
 - pkg:maven/com.kylecorry.andromeda/bitmaps@16.0.0?classifier=sources
+- pkg:maven/com.kylecorry.andromeda/bitmaps@16.0.1?classifier=sources
+- pkg:maven/com.kylecorry.andromeda/bitmaps@16.0.2?classifier=sources
+- pkg:maven/com.kylecorry.andromeda/bitmaps@16.1.0?classifier=sources
+- pkg:maven/com.kylecorry.andromeda/bitmaps@17.0.0?classifier=sources

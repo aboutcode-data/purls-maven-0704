@@ -1,0 +1,2 @@
+- pkg:maven/dev.resteasy.vertx/resteasy-vertx-embedded-server@1.0.0.Final?classifier=sources
+- pkg:maven/dev.resteasy.vertx/resteasy-vertx-embedded-server@1.0.1.Final?classifier=sources

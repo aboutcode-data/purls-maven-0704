@@ -168,4 +168,6 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-build-tools@4.2.2?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-build-tools@4.3.0
 - pkg:maven/org.springframework.cloud/spring-cloud-build-tools@4.3.0?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-build-tools@4.3.1?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-build-tools@5.0.0-M1?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-build-tools@5.0.0-M2?classifier=sources

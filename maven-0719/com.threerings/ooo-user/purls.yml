@@ -8,4 +8,5 @@
 - pkg:maven/com.threerings/ooo-user@1.4.5
 - pkg:maven/com.threerings/ooo-user@1.4.5?classifier=sources
 - pkg:maven/com.threerings/ooo-user@1.4?classifier=sources
+- pkg:maven/com.threerings/ooo-user@1.5.1?classifier=sources
 - pkg:maven/com.threerings/ooo-user@1.5?classifier=sources

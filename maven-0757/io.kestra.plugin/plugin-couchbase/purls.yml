@@ -14,3 +14,4 @@
 - pkg:maven/io.kestra.plugin/plugin-couchbase@0.23.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-couchbase@0.24.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-couchbase@0.9.0?classifier=sources
+- pkg:maven/io.kestra.plugin/plugin-couchbase@1.0.0?classifier=sources

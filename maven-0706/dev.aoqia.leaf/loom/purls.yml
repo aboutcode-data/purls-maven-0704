@@ -13,3 +13,4 @@
 - pkg:maven/dev.aoqia.leaf/loom@0.4.0?classifier=sources
 - pkg:maven/dev.aoqia.leaf/loom@0.5.1?classifier=sources
 - pkg:maven/dev.aoqia.leaf/loom@0.6.0?classifier=sources
+- pkg:maven/dev.aoqia.leaf/loom@0.6.1?classifier=sources

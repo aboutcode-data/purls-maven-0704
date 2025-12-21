@@ -1,3 +1,4 @@
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-snowflake-pure-test@4.100.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-snowflake-pure-test@4.88.11?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-snowflake-pure-test@4.89.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-snowflake-pure-test@4.89.1?classifier=sources
@@ -18,4 +19,8 @@
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-snowflake-pure-test@4.96.4?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-snowflake-pure-test@4.96.5?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-snowflake-pure-test@4.97.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-snowflake-pure-test@4.97.1?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-snowflake-pure-test@4.97.2?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-snowflake-pure-test@4.98.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-snowflake-pure-test@4.99.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-snowflake-pure-test@release-4.96.3?classifier=sources

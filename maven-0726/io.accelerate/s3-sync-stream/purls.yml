@@ -1,0 +1,1 @@
+- pkg:maven/io.accelerate/s3-sync-stream@0.0.18?classifier=sources

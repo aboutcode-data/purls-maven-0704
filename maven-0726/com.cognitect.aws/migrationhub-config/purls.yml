@@ -10,3 +10,4 @@
 - pkg:maven/com.cognitect.aws/migrationhub-config@857.2.1574.0?classifier=sources
 - pkg:maven/com.cognitect.aws/migrationhub-config@871.2.29.35
 - pkg:maven/com.cognitect.aws/migrationhub-config@871.2.29.35?classifier=sources
+- pkg:maven/com.cognitect.aws/migrationhub-config@871.2.33.0?classifier=sources

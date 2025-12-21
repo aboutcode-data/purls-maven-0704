@@ -66,3 +66,5 @@
 - pkg:maven/com.facebook.airlift/json@0.219?classifier=sources
 - pkg:maven/com.facebook.airlift/json@0.220?classifier=sources
 - pkg:maven/com.facebook.airlift/json@0.221?classifier=sources
+- pkg:maven/com.facebook.airlift/json@0.222?classifier=sources
+- pkg:maven/com.facebook.airlift/json@0.223?classifier=sources

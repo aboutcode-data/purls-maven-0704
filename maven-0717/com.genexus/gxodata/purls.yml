@@ -27,6 +27,7 @@
 - pkg:maven/com.genexus/gxodata@2.7.23?classifier=sources
 - pkg:maven/com.genexus/gxodata@2.7.24
 - pkg:maven/com.genexus/gxodata@2.7.24?classifier=sources
+- pkg:maven/com.genexus/gxodata@2.7.26?classifier=sources
 - pkg:maven/com.genexus/gxodata@2.7.2?classifier=sources
 - pkg:maven/com.genexus/gxodata@2.7.3
 - pkg:maven/com.genexus/gxodata@2.7.3?classifier=sources
@@ -187,6 +188,7 @@
 - pkg:maven/com.genexus/gxodata@4.9.0
 - pkg:maven/com.genexus/gxodata@4.9.0?classifier=sources
 - pkg:maven/com.genexus/gxodata@4.9.10?classifier=sources
+- pkg:maven/com.genexus/gxodata@4.9.12?classifier=sources
 - pkg:maven/com.genexus/gxodata@4.9.2
 - pkg:maven/com.genexus/gxodata@4.9.2?classifier=sources
 - pkg:maven/com.genexus/gxodata@4.9.5?classifier=sources

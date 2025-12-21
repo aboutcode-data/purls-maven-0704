@@ -67,3 +67,7 @@
 - pkg:maven/com.rickclephas.kmp/nsexception-kt-core-macosx64@1.0.2-kotlin-2.2.10-RC2?classifier=sources
 - pkg:maven/com.rickclephas.kmp/nsexception-kt-core-macosx64@1.0.2-kotlin-2.2.20-Beta2?classifier=sources
 - pkg:maven/com.rickclephas.kmp/nsexception-kt-core-macosx64@1.0.2?classifier=sources
+- pkg:maven/com.rickclephas.kmp/nsexception-kt-core-macosx64@1.0.3-kotlin-2.2.20-RC2?classifier=sources
+- pkg:maven/com.rickclephas.kmp/nsexception-kt-core-macosx64@1.0.3-kotlin-2.2.20-RC?classifier=sources
+- pkg:maven/com.rickclephas.kmp/nsexception-kt-core-macosx64@1.0.3?classifier=sources
+- pkg:maven/com.rickclephas.kmp/nsexception-kt-core-macosx64@1.0.4?classifier=sources

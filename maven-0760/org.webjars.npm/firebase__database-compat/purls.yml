@@ -14,3 +14,4 @@
 - pkg:maven/org.webjars.npm/firebase__database-compat@0.3.4?classifier=sources
 - pkg:maven/org.webjars.npm/firebase__database-compat@1.0.7
 - pkg:maven/org.webjars.npm/firebase__database-compat@2.0.10
+- pkg:maven/org.webjars.npm/firebase__database-compat@2.1.0
