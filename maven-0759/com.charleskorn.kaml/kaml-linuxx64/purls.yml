@@ -24,3 +24,5 @@
 - pkg:maven/com.charleskorn.kaml/kaml-linuxx64@0.80.1?classifier=sources
 - pkg:maven/com.charleskorn.kaml/kaml-linuxx64@0.81.0?classifier=sources
 - pkg:maven/com.charleskorn.kaml/kaml-linuxx64@0.82.0?classifier=sources
+- pkg:maven/com.charleskorn.kaml/kaml-linuxx64@0.83.0?classifier=sources
+- pkg:maven/com.charleskorn.kaml/kaml-linuxx64@0.85.0?classifier=sources

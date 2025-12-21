@@ -1,1 +1,2 @@
 - pkg:maven/org.eclipse.edc/runtime-core@0.13.0?classifier=sources
+- pkg:maven/org.eclipse.edc/runtime-core@0.13.1?classifier=sources

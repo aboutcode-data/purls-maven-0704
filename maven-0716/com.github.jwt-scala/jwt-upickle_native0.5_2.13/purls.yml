@@ -2,3 +2,5 @@
 - pkg:maven/com.github.jwt-scala/jwt-upickle_native0.5_2.13@10.0.4?classifier=sources
 - pkg:maven/com.github.jwt-scala/jwt-upickle_native0.5_2.13@11.0.0
 - pkg:maven/com.github.jwt-scala/jwt-upickle_native0.5_2.13@11.0.0?classifier=sources
+- pkg:maven/com.github.jwt-scala/jwt-upickle_native0.5_2.13@11.0.2
+- pkg:maven/com.github.jwt-scala/jwt-upickle_native0.5_2.13@11.0.2?classifier=sources

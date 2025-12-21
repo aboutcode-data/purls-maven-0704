@@ -4,3 +4,4 @@
 - pkg:maven/org.bedework/bw-cli-toolcmd@5.0.3?classifier=sources
 - pkg:maven/org.bedework/bw-cli-toolcmd@5.0.4
 - pkg:maven/org.bedework/bw-cli-toolcmd@5.0.4?classifier=sources
+- pkg:maven/org.bedework/bw-cli-toolcmd@6.0.0?classifier=sources

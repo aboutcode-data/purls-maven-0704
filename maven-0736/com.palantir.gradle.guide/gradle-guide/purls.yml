@@ -6,3 +6,5 @@
 - pkg:maven/com.palantir.gradle.guide/gradle-guide@1.5.0?classifier=sources
 - pkg:maven/com.palantir.gradle.guide/gradle-guide@1.6.0?classifier=sources
 - pkg:maven/com.palantir.gradle.guide/gradle-guide@1.7.0?classifier=sources
+- pkg:maven/com.palantir.gradle.guide/gradle-guide@1.8.0?classifier=sources
+- pkg:maven/com.palantir.gradle.guide/gradle-guide@1.9.0?classifier=sources

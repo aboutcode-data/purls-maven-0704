@@ -30,3 +30,4 @@
 - pkg:maven/ai.tock/tock-deepl-translate@25.3.3?classifier=sources
 - pkg:maven/ai.tock/tock-deepl-translate@25.3.4
 - pkg:maven/ai.tock/tock-deepl-translate@25.3.4?classifier=sources
+- pkg:maven/ai.tock/tock-deepl-translate@25.3.9?classifier=sources

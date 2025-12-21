@@ -98,3 +98,5 @@
 - pkg:maven/com.aliyun/sls20201230@5.8.1?classifier=sources
 - pkg:maven/com.aliyun/sls20201230@5.8.2
 - pkg:maven/com.aliyun/sls20201230@5.8.2?classifier=sources
+- pkg:maven/com.aliyun/sls20201230@5.9.0
+- pkg:maven/com.aliyun/sls20201230@5.9.0?classifier=sources

@@ -16,6 +16,7 @@
 - pkg:maven/org.elasticsearch/elasticsearch-entitlement-bridge@8.17.7?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-entitlement-bridge@8.17.8
 - pkg:maven/org.elasticsearch/elasticsearch-entitlement-bridge@8.17.8?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-entitlement-bridge@8.17.9?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-entitlement-bridge@8.18.0
 - pkg:maven/org.elasticsearch/elasticsearch-entitlement-bridge@8.18.0?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-entitlement-bridge@8.18.1
@@ -24,6 +25,7 @@
 - pkg:maven/org.elasticsearch/elasticsearch-entitlement-bridge@8.18.2?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-entitlement-bridge@8.18.3
 - pkg:maven/org.elasticsearch/elasticsearch-entitlement-bridge@8.18.3?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-entitlement-bridge@8.18.4?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-entitlement-bridge@9.0.0
 - pkg:maven/org.elasticsearch/elasticsearch-entitlement-bridge@9.0.0-beta1
 - pkg:maven/org.elasticsearch/elasticsearch-entitlement-bridge@9.0.0-beta1?classifier=sources
@@ -36,3 +38,4 @@
 - pkg:maven/org.elasticsearch/elasticsearch-entitlement-bridge@9.0.2?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-entitlement-bridge@9.0.3
 - pkg:maven/org.elasticsearch/elasticsearch-entitlement-bridge@9.0.3?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-entitlement-bridge@9.0.4?classifier=sources

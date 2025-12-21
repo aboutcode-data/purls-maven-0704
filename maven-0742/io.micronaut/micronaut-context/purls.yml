@@ -199,6 +199,7 @@
 - pkg:maven/io.micronaut/micronaut-context@4.7.23?classifier=sources
 - pkg:maven/io.micronaut/micronaut-context@4.7.24?classifier=sources
 - pkg:maven/io.micronaut/micronaut-context@4.7.25?classifier=sources
+- pkg:maven/io.micronaut/micronaut-context@4.7.26?classifier=sources
 - pkg:maven/io.micronaut/micronaut-context@4.7.2?classifier=sources
 - pkg:maven/io.micronaut/micronaut-context@4.7.3?classifier=sources
 - pkg:maven/io.micronaut/micronaut-context@4.7.4?classifier=sources
@@ -232,3 +233,6 @@
 - pkg:maven/io.micronaut/micronaut-context@4.9.3?classifier=sources
 - pkg:maven/io.micronaut/micronaut-context@4.9.4?classifier=sources
 - pkg:maven/io.micronaut/micronaut-context@4.9.5?classifier=sources
+- pkg:maven/io.micronaut/micronaut-context@4.9.6?classifier=sources
+- pkg:maven/io.micronaut/micronaut-context@4.9.7?classifier=sources
+- pkg:maven/io.micronaut/micronaut-context@4.9.8?classifier=sources

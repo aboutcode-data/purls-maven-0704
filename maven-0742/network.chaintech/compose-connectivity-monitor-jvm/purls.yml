@@ -1,2 +1,3 @@
 - pkg:maven/network.chaintech/compose-connectivity-monitor-jvm@1.0.1?classifier=sources
 - pkg:maven/network.chaintech/compose-connectivity-monitor-jvm@1.0.2?classifier=sources
+- pkg:maven/network.chaintech/compose-connectivity-monitor-jvm@1.0.3?classifier=sources

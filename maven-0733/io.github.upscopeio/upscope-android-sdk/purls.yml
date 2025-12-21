@@ -1,0 +1,4 @@
+- pkg:maven/io.github.upscopeio/upscope-android-sdk@2025.7.15?classifier=sources
+- pkg:maven/io.github.upscopeio/upscope-android-sdk@2025.7.15?type=aar
+- pkg:maven/io.github.upscopeio/upscope-android-sdk@2025.7.16?classifier=sources
+- pkg:maven/io.github.upscopeio/upscope-android-sdk@2025.7.16?type=aar

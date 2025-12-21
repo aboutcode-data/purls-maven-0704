@@ -144,6 +144,10 @@
 - pkg:maven/com.google.cloud/spring-cloud-gcp-pubsub@3.9.3?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-gcp-pubsub@3.9.4
 - pkg:maven/com.google.cloud/spring-cloud-gcp-pubsub@3.9.4?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-gcp-pubsub@3.9.5
+- pkg:maven/com.google.cloud/spring-cloud-gcp-pubsub@3.9.5?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-gcp-pubsub@3.9.6
+- pkg:maven/com.google.cloud/spring-cloud-gcp-pubsub@3.9.6?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-gcp-pubsub@4.0.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-pubsub@4.0.0?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-gcp-pubsub@4.1.0
@@ -202,6 +206,8 @@
 - pkg:maven/com.google.cloud/spring-cloud-gcp-pubsub@4.11.1?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-gcp-pubsub@4.11.2
 - pkg:maven/com.google.cloud/spring-cloud-gcp-pubsub@4.11.2?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-gcp-pubsub@4.11.3
+- pkg:maven/com.google.cloud/spring-cloud-gcp-pubsub@4.11.3?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-gcp-pubsub@4.2.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-pubsub@4.2.0?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-gcp-pubsub@4.3.0
@@ -272,6 +278,10 @@
 - pkg:maven/com.google.cloud/spring-cloud-gcp-pubsub@5.12.1?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-gcp-pubsub@5.12.2
 - pkg:maven/com.google.cloud/spring-cloud-gcp-pubsub@5.12.2?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-gcp-pubsub@5.12.3
+- pkg:maven/com.google.cloud/spring-cloud-gcp-pubsub@5.12.3?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-gcp-pubsub@5.13.0
+- pkg:maven/com.google.cloud/spring-cloud-gcp-pubsub@5.13.0?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-gcp-pubsub@5.2.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-pubsub@5.2.0?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-gcp-pubsub@5.2.1
@@ -312,3 +322,9 @@
 - pkg:maven/com.google.cloud/spring-cloud-gcp-pubsub@6.2.1?classifier=sources
 - pkg:maven/com.google.cloud/spring-cloud-gcp-pubsub@6.2.2
 - pkg:maven/com.google.cloud/spring-cloud-gcp-pubsub@6.2.2?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-gcp-pubsub@6.2.3
+- pkg:maven/com.google.cloud/spring-cloud-gcp-pubsub@6.2.3?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-gcp-pubsub@6.3.0
+- pkg:maven/com.google.cloud/spring-cloud-gcp-pubsub@6.3.0?classifier=sources
+- pkg:maven/com.google.cloud/spring-cloud-gcp-pubsub@7.0.0
+- pkg:maven/com.google.cloud/spring-cloud-gcp-pubsub@7.0.0?classifier=sources

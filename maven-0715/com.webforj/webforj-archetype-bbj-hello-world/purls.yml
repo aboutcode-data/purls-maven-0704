@@ -4,3 +4,4 @@
 - pkg:maven/com.webforj/webforj-archetype-bbj-hello-world@24.22?classifier=sources
 - pkg:maven/com.webforj/webforj-archetype-bbj-hello-world@25.00?classifier=sources
 - pkg:maven/com.webforj/webforj-archetype-bbj-hello-world@25.01?classifier=sources
+- pkg:maven/com.webforj/webforj-archetype-bbj-hello-world@25.02?classifier=sources

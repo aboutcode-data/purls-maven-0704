@@ -16,6 +16,7 @@
 - pkg:maven/org.wicketstuff/wicketstuff-datetime-yui@10.4.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datetime-yui@10.5.0
 - pkg:maven/org.wicketstuff/wicketstuff-datetime-yui@10.5.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-datetime-yui@10.6.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datetime-yui@8.0.0
 - pkg:maven/org.wicketstuff/wicketstuff-datetime-yui@8.0.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datetime-yui@8.1.0

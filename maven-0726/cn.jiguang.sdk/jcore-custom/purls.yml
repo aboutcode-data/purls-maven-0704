@@ -25,7 +25,11 @@
 - pkg:maven/cn.jiguang.sdk/jcore-custom@4.6.9?classifier=sources
 - pkg:maven/cn.jiguang.sdk/jcore-custom@4.7.7?classifier=sources
 - pkg:maven/cn.jiguang.sdk/jcore-custom@4.7.8?classifier=sources
+- pkg:maven/cn.jiguang.sdk/jcore-custom@4.7.9.a?classifier=sources
+- pkg:maven/cn.jiguang.sdk/jcore-custom@4.7.9.b?classifier=sources
+- pkg:maven/cn.jiguang.sdk/jcore-custom@4.7.9?classifier=sources
 - pkg:maven/cn.jiguang.sdk/jcore-custom@4.8.3?classifier=sources
 - pkg:maven/cn.jiguang.sdk/jcore-custom@4.8.4?classifier=sources
 - pkg:maven/cn.jiguang.sdk/jcore-custom@4.8.6?classifier=sources
 - pkg:maven/cn.jiguang.sdk/jcore-custom@4.8.9?classifier=sources
+- pkg:maven/cn.jiguang.sdk/jcore-custom@5.0.6?classifier=sources

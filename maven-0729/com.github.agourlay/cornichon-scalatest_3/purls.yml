@@ -1,2 +1,4 @@
 - pkg:maven/com.github.agourlay/cornichon-scalatest_3@0.22.0
 - pkg:maven/com.github.agourlay/cornichon-scalatest_3@0.22.0?classifier=sources
+- pkg:maven/com.github.agourlay/cornichon-scalatest_3@0.22.1
+- pkg:maven/com.github.agourlay/cornichon-scalatest_3@0.22.1?classifier=sources

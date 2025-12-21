@@ -1,0 +1,3 @@
+- pkg:maven/cn.rongcloud.sdk/xiaomi@5.22.0?type=aar
+- pkg:maven/cn.rongcloud.sdk/xiaomi@5.7.9?type=aar
+- pkg:maven/cn.rongcloud.sdk/xiaomi@5.8.4?type=aar

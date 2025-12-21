@@ -1,1 +1,2 @@
 - pkg:maven/eu.cloudnetservice.cloudnet/dockerized-services-api@4.0.0-RC12?classifier=sources
+- pkg:maven/eu.cloudnetservice.cloudnet/dockerized-services-api@4.0.0-RC13?classifier=sources

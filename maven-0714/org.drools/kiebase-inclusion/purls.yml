@@ -1,5 +1,7 @@
 - pkg:maven/org.drools/kiebase-inclusion@10.0.0
 - pkg:maven/org.drools/kiebase-inclusion@10.0.0?classifier=sources
+- pkg:maven/org.drools/kiebase-inclusion@10.1.0
+- pkg:maven/org.drools/kiebase-inclusion@10.1.0?classifier=sources
 - pkg:maven/org.drools/kiebase-inclusion@6.0.0.Alpha7
 - pkg:maven/org.drools/kiebase-inclusion@6.0.0.Alpha7?classifier=sources
 - pkg:maven/org.drools/kiebase-inclusion@6.0.0.Alpha9

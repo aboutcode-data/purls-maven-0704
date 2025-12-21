@@ -70,6 +70,10 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-netapp-v1@0.43.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-netapp-v1@0.45.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-netapp-v1@0.45.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-netapp-v1@0.46.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-netapp-v1@0.46.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-netapp-v1@0.47.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-netapp-v1@0.47.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-netapp-v1@0.6.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-netapp-v1@0.6.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-netapp-v1@0.7.0

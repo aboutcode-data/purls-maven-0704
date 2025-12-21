@@ -143,6 +143,7 @@
 - pkg:maven/io.camunda/camunda-zeebe@8.4.19?classifier=sources
 - pkg:maven/io.camunda/camunda-zeebe@8.4.1?classifier=sources
 - pkg:maven/io.camunda/camunda-zeebe@8.4.20?classifier=sources
+- pkg:maven/io.camunda/camunda-zeebe@8.4.21?classifier=sources
 - pkg:maven/io.camunda/camunda-zeebe@8.4.2?classifier=sources
 - pkg:maven/io.camunda/camunda-zeebe@8.4.3?classifier=sources
 - pkg:maven/io.camunda/camunda-zeebe@8.4.4?classifier=sources
@@ -167,6 +168,7 @@
 - pkg:maven/io.camunda/camunda-zeebe@8.5.18?classifier=sources
 - pkg:maven/io.camunda/camunda-zeebe@8.5.19?classifier=sources
 - pkg:maven/io.camunda/camunda-zeebe@8.5.1?classifier=sources
+- pkg:maven/io.camunda/camunda-zeebe@8.5.20?classifier=sources
 - pkg:maven/io.camunda/camunda-zeebe@8.5.2?classifier=sources
 - pkg:maven/io.camunda/camunda-zeebe@8.5.3?classifier=sources
 - pkg:maven/io.camunda/camunda-zeebe@8.5.4?classifier=sources
@@ -213,6 +215,8 @@
 - pkg:maven/io.camunda/camunda-zeebe@8.6.19?classifier=sources
 - pkg:maven/io.camunda/camunda-zeebe@8.6.1?classifier=sources
 - pkg:maven/io.camunda/camunda-zeebe@8.6.20?classifier=sources
+- pkg:maven/io.camunda/camunda-zeebe@8.6.21?classifier=sources
+- pkg:maven/io.camunda/camunda-zeebe@8.6.22?classifier=sources
 - pkg:maven/io.camunda/camunda-zeebe@8.6.2?classifier=sources
 - pkg:maven/io.camunda/camunda-zeebe@8.6.3?classifier=sources
 - pkg:maven/io.camunda/camunda-zeebe@8.6.4?classifier=sources
@@ -257,6 +261,8 @@
 - pkg:maven/io.camunda/camunda-zeebe@8.7.6-rc1?classifier=sources
 - pkg:maven/io.camunda/camunda-zeebe@8.7.6-rc2?classifier=sources
 - pkg:maven/io.camunda/camunda-zeebe@8.7.6?classifier=sources
+- pkg:maven/io.camunda/camunda-zeebe@8.7.7?classifier=sources
+- pkg:maven/io.camunda/camunda-zeebe@8.7.8?classifier=sources
 - pkg:maven/io.camunda/camunda-zeebe@8.8.0-alpha1-rc1?classifier=sources
 - pkg:maven/io.camunda/camunda-zeebe@8.8.0-alpha1?classifier=sources
 - pkg:maven/io.camunda/camunda-zeebe@8.8.0-alpha2-rc1?classifier=sources
@@ -271,3 +277,5 @@
 - pkg:maven/io.camunda/camunda-zeebe@8.8.0-alpha5?classifier=sources
 - pkg:maven/io.camunda/camunda-zeebe@8.8.0-alpha6-rc1?classifier=sources
 - pkg:maven/io.camunda/camunda-zeebe@8.8.0-alpha6-rc2?classifier=sources
+- pkg:maven/io.camunda/camunda-zeebe@8.8.0-alpha6-rc3?classifier=sources
+- pkg:maven/io.camunda/camunda-zeebe@8.8.0-alpha6?classifier=sources

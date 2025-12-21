@@ -1,0 +1,2 @@
+- pkg:maven/org.kie.kogito/jobs-service-storage-jpa@10.1.0
+- pkg:maven/org.kie.kogito/jobs-service-storage-jpa@10.1.0?classifier=sources

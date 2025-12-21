@@ -41,6 +41,19 @@
 - pkg:maven/com.graphql-java/java-dataloader@0.0.0-2025-05-12T05-59-51-cabda40?classifier=sources
 - pkg:maven/com.graphql-java/java-dataloader@0.0.0-2025-06-05T04-50-05-5d61833?classifier=sources
 - pkg:maven/com.graphql-java/java-dataloader@0.0.0-2025-06-18T04-55-10-ccdb2aa?classifier=sources
+- pkg:maven/com.graphql-java/java-dataloader@0.0.0-2025-06-21T23-53-43-40109e8?classifier=sources
+- pkg:maven/com.graphql-java/java-dataloader@0.0.0-2025-06-22T00-24-37-10731f8?classifier=sources
+- pkg:maven/com.graphql-java/java-dataloader@0.0.0-2025-06-25T06-26-23-79cd214?classifier=sources
+- pkg:maven/com.graphql-java/java-dataloader@0.0.0-2025-06-25T06-33-20-8b385cf?classifier=sources
+- pkg:maven/com.graphql-java/java-dataloader@0.0.0-2025-07-01T22-50-52-48d10d9?classifier=sources
+- pkg:maven/com.graphql-java/java-dataloader@0.0.0-2025-07-01T22-51-40-f325e57?classifier=sources
+- pkg:maven/com.graphql-java/java-dataloader@0.0.0-2025-07-01T22-54-08-725d59b?classifier=sources
+- pkg:maven/com.graphql-java/java-dataloader@0.0.0-2025-07-01T23-16-02-bdf71e5?classifier=sources
+- pkg:maven/com.graphql-java/java-dataloader@0.0.0-2025-07-03T03-52-03-e80bd44?classifier=sources
+- pkg:maven/com.graphql-java/java-dataloader@0.0.0-2025-07-07T21-57-31-b3f792b?classifier=sources
+- pkg:maven/com.graphql-java/java-dataloader@0.0.0-2025-07-07T21-57-44-9480a65?classifier=sources
+- pkg:maven/com.graphql-java/java-dataloader@0.0.0-2025-07-14T21-16-18-cbff76c?classifier=sources
+- pkg:maven/com.graphql-java/java-dataloader@0.0.0-2025-07-21T20-27-51-9413127?classifier=sources
 - pkg:maven/com.graphql-java/java-dataloader@1.0.1
 - pkg:maven/com.graphql-java/java-dataloader@1.0.1-alpha3
 - pkg:maven/com.graphql-java/java-dataloader@1.0.1-alpha3?classifier=sources
@@ -111,3 +124,4 @@
 - pkg:maven/com.graphql-java/java-dataloader@3.4.0?classifier=sources
 - pkg:maven/com.graphql-java/java-dataloader@4.0.0?classifier=sources
 - pkg:maven/com.graphql-java/java-dataloader@5.0.0?classifier=sources
+- pkg:maven/com.graphql-java/java-dataloader@5.0.1?classifier=sources

@@ -45,3 +45,4 @@
 - pkg:maven/org.graceframework/grace-web-sitemesh@2023.3.0-RC1?classifier=sources
 - pkg:maven/org.graceframework/grace-web-sitemesh@2023.3.0-RC2?classifier=sources
 - pkg:maven/org.graceframework/grace-web-sitemesh@2023.3.0?classifier=sources
+- pkg:maven/org.graceframework/grace-web-sitemesh@2024.0.0-M1?classifier=sources

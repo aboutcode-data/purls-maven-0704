@@ -56,6 +56,7 @@
 - pkg:maven/com.commercetools.rmf/postman@0.1.62?classifier=sources
 - pkg:maven/com.commercetools.rmf/postman@0.1.63?classifier=sources
 - pkg:maven/com.commercetools.rmf/postman@0.1.64?classifier=sources
+- pkg:maven/com.commercetools.rmf/postman@0.1.65?classifier=sources
 - pkg:maven/com.commercetools.rmf/postman@0.1.6?classifier=sources
 - pkg:maven/com.commercetools.rmf/postman@0.1.7?classifier=sources
 - pkg:maven/com.commercetools.rmf/postman@0.1.8?classifier=sources
@@ -377,3 +378,9 @@
 - pkg:maven/com.commercetools.rmf/postman@1.0.0-20250502063857?classifier=sources
 - pkg:maven/com.commercetools.rmf/postman@1.0.0-20250519091519?classifier=sources
 - pkg:maven/com.commercetools.rmf/postman@1.0.0-20250610130823?classifier=sources
+- pkg:maven/com.commercetools.rmf/postman@1.0.0-20250701125945?classifier=sources
+- pkg:maven/com.commercetools.rmf/postman@1.0.0-20250702152020?classifier=sources
+- pkg:maven/com.commercetools.rmf/postman@1.0.0-20250704103631?classifier=sources
+- pkg:maven/com.commercetools.rmf/postman@1.0.0-20250704114608?classifier=sources
+- pkg:maven/com.commercetools.rmf/postman@1.0.0-20250714094859?classifier=sources
+- pkg:maven/com.commercetools.rmf/postman@1.0.0-20250715115518?classifier=sources

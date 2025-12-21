@@ -5,3 +5,5 @@
 - pkg:maven/org.mvnpm.at.babel/plugin-transform-runtime@7.27.3?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/plugin-transform-runtime@7.27.4
 - pkg:maven/org.mvnpm.at.babel/plugin-transform-runtime@7.27.4?classifier=sources
+- pkg:maven/org.mvnpm.at.babel/plugin-transform-runtime@7.28.0
+- pkg:maven/org.mvnpm.at.babel/plugin-transform-runtime@7.28.0?classifier=sources

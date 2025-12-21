@@ -50,3 +50,4 @@
 - pkg:maven/io.getstream/stream-video-android-ui-core@1.8.0?classifier=sources
 - pkg:maven/io.getstream/stream-video-android-ui-core@1.9.0?classifier=sources
 - pkg:maven/io.getstream/stream-video-android-ui-core@1.9.1?classifier=sources
+- pkg:maven/io.getstream/stream-video-android-ui-core@1.9.2?classifier=sources

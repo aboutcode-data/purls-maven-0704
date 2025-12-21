@@ -1,0 +1,1 @@
+- pkg:maven/aws.sdk.kotlin/aws-crt-kotlin-jvm@0.0.1?classifier=sources

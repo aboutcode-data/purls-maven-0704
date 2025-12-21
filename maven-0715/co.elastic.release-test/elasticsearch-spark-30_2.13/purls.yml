@@ -1,0 +1,1 @@
+- pkg:maven/co.elastic.release-test/elasticsearch-spark-30_2.13@9.0.4?classifier=sources

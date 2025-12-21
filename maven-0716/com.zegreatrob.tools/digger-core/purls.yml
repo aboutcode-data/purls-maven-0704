@@ -227,7 +227,12 @@
 - pkg:maven/com.zegreatrob.tools/digger-core@1.7.26?classifier=sources
 - pkg:maven/com.zegreatrob.tools/digger-core@1.7.27?classifier=sources
 - pkg:maven/com.zegreatrob.tools/digger-core@1.7.28?classifier=sources
+- pkg:maven/com.zegreatrob.tools/digger-core@1.7.29?classifier=sources
 - pkg:maven/com.zegreatrob.tools/digger-core@1.7.2?classifier=sources
+- pkg:maven/com.zegreatrob.tools/digger-core@1.7.30?classifier=sources
+- pkg:maven/com.zegreatrob.tools/digger-core@1.7.31?classifier=sources
+- pkg:maven/com.zegreatrob.tools/digger-core@1.7.32?classifier=sources
+- pkg:maven/com.zegreatrob.tools/digger-core@1.7.33?classifier=sources
 - pkg:maven/com.zegreatrob.tools/digger-core@1.7.3?classifier=sources
 - pkg:maven/com.zegreatrob.tools/digger-core@1.7.4?classifier=sources
 - pkg:maven/com.zegreatrob.tools/digger-core@1.7.5?classifier=sources

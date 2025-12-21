@@ -36,3 +36,5 @@
 - pkg:maven/com.moesif.springrequest/moesif-springrequest@1.1.0?classifier=sources
 - pkg:maven/com.moesif.springrequest/moesif-springrequest@1.1.2
 - pkg:maven/com.moesif.springrequest/moesif-springrequest@1.1.2?classifier=sources
+- pkg:maven/com.moesif.springrequest/moesif-springrequest@1.2.2
+- pkg:maven/com.moesif.springrequest/moesif-springrequest@1.2.2?classifier=sources

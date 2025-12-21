@@ -1,3 +1,6 @@
 - pkg:maven/io.github.remmerw/odin-iosx64@0.2.3?classifier=sources
 - pkg:maven/io.github.remmerw/odin-iosx64@0.2.4?classifier=sources
 - pkg:maven/io.github.remmerw/odin-iosx64@0.2.5?classifier=sources
+- pkg:maven/io.github.remmerw/odin-iosx64@0.2.6?classifier=sources
+- pkg:maven/io.github.remmerw/odin-iosx64@0.2.7?classifier=sources
+- pkg:maven/io.github.remmerw/odin-iosx64@0.2.8?classifier=sources

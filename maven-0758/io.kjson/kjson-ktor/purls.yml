@@ -10,3 +10,4 @@
 - pkg:maven/io.kjson/kjson-ktor@1.3?classifier=sources
 - pkg:maven/io.kjson/kjson-ktor@1.4
 - pkg:maven/io.kjson/kjson-ktor@1.4?classifier=sources
+- pkg:maven/io.kjson/kjson-ktor@1.5?classifier=sources

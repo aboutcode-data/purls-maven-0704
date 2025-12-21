@@ -5,3 +5,4 @@
 - pkg:maven/com.trendyol.android.devtools/analytics-logger@0.2.0?classifier=sources
 - pkg:maven/com.trendyol.android.devtools/analytics-logger@0.3.0?classifier=sources
 - pkg:maven/com.trendyol.android.devtools/analytics-logger@0.4.0?classifier=sources
+- pkg:maven/com.trendyol.android.devtools/analytics-logger@0.5.0?classifier=sources

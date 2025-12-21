@@ -24,3 +24,4 @@
 - pkg:maven/com.juul.tuulbox/functional-iosx64@7.3.0?classifier=sources
 - pkg:maven/com.juul.tuulbox/functional-iosx64@8.0.0?classifier=sources
 - pkg:maven/com.juul.tuulbox/functional-iosx64@8.0.1?classifier=sources
+- pkg:maven/com.juul.tuulbox/functional-iosx64@8.0.3?classifier=sources

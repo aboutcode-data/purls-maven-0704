@@ -2,3 +2,4 @@
 - pkg:maven/io.github.darthpetter/easy-massive-loading@1.0.5
 - pkg:maven/io.github.darthpetter/easy-massive-loading@1.0.5?classifier=sources
 - pkg:maven/io.github.darthpetter/easy-massive-loading@1.0?classifier=sources
+- pkg:maven/io.github.darthpetter/easy-massive-loading@2.1.0?classifier=sources

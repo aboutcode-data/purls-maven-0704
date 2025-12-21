@@ -15,6 +15,7 @@
 - pkg:maven/com.aliyun.rum/alibabacloud-android-rum-plugin@0.3.11?classifier=sources
 - pkg:maven/com.aliyun.rum/alibabacloud-android-rum-plugin@0.3.12-beta.1?classifier=sources
 - pkg:maven/com.aliyun.rum/alibabacloud-android-rum-plugin@0.3.12?classifier=sources
+- pkg:maven/com.aliyun.rum/alibabacloud-android-rum-plugin@0.3.13?classifier=sources
 - pkg:maven/com.aliyun.rum/alibabacloud-android-rum-plugin@0.3.1?classifier=sources
 - pkg:maven/com.aliyun.rum/alibabacloud-android-rum-plugin@0.3.2-beta.1?classifier=sources
 - pkg:maven/com.aliyun.rum/alibabacloud-android-rum-plugin@0.3.2?classifier=sources
@@ -32,5 +33,9 @@
 - pkg:maven/com.aliyun.rum/alibabacloud-android-rum-plugin@0.3.8?classifier=sources
 - pkg:maven/com.aliyun.rum/alibabacloud-android-rum-plugin@0.3.9-beta.2?classifier=sources
 - pkg:maven/com.aliyun.rum/alibabacloud-android-rum-plugin@0.3.9?classifier=sources
+- pkg:maven/com.aliyun.rum/alibabacloud-android-rum-plugin@0.4.0-beta.1?classifier=sources
+- pkg:maven/com.aliyun.rum/alibabacloud-android-rum-plugin@0.4.0-beta.2?classifier=sources
+- pkg:maven/com.aliyun.rum/alibabacloud-android-rum-plugin@0.4.0-beta.3?classifier=sources
+- pkg:maven/com.aliyun.rum/alibabacloud-android-rum-plugin@0.4.0-beta.4?classifier=sources
 - pkg:maven/com.aliyun.rum/alibabacloud-android-rum-plugin@0.4.0-dev.1?classifier=sources
 - pkg:maven/com.aliyun.rum/alibabacloud-android-rum-plugin@0.4.0-dev.2?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/cn.com.antcloud.api/antcloud-api-collabinv@1.0.40?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-collabinv@1.0.41
 - pkg:maven/cn.com.antcloud.api/antcloud-api-collabinv@1.0.41?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-collabinv@1.0.43
+- pkg:maven/cn.com.antcloud.api/antcloud-api-collabinv@1.0.43?classifier=sources

@@ -1,5 +1,7 @@
 - pkg:maven/org.optaplanner/optaplanner-spring-boot-starter@10.0.0
 - pkg:maven/org.optaplanner/optaplanner-spring-boot-starter@10.0.0?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-spring-boot-starter@10.1.0
+- pkg:maven/org.optaplanner/optaplanner-spring-boot-starter@10.1.0?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-spring-boot-starter@7.32.0.Final
 - pkg:maven/org.optaplanner/optaplanner-spring-boot-starter@7.33.0.Final
 - pkg:maven/org.optaplanner/optaplanner-spring-boot-starter@7.34.0.Final

@@ -44,3 +44,4 @@
 - pkg:maven/org.tomitribe/tomitribe-crest-test@0.34?classifier=sources
 - pkg:maven/org.tomitribe/tomitribe-crest-test@0.35
 - pkg:maven/org.tomitribe/tomitribe-crest-test@0.35?classifier=sources
+- pkg:maven/org.tomitribe/tomitribe-crest-test@0.36?classifier=sources

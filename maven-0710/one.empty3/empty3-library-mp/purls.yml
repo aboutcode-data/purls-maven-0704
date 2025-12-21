@@ -138,3 +138,5 @@
 - pkg:maven/one.empty3/empty3-library-mp@2025.6.22?classifier=sources
 - pkg:maven/one.empty3/empty3-library-mp@2025.6.23?classifier=sources
 - pkg:maven/one.empty3/empty3-library-mp@2025.6.29?classifier=sources
+- pkg:maven/one.empty3/empty3-library-mp@2025.6.30?classifier=sources
+- pkg:maven/one.empty3/empty3-library-mp@2025.7.20?classifier=sources

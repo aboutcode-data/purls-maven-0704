@@ -6,3 +6,5 @@
 - pkg:maven/net.avalara/avalara-sdk@24.2.29?classifier=sources
 - pkg:maven/net.avalara/avalara-sdk@25.6.0
 - pkg:maven/net.avalara/avalara-sdk@25.6.0?classifier=sources
+- pkg:maven/net.avalara/avalara-sdk@25.7.0?classifier=sources
+- pkg:maven/net.avalara/avalara-sdk@25.7.2?classifier=sources

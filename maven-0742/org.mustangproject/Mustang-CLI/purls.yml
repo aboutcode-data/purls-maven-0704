@@ -46,6 +46,8 @@
 - pkg:maven/org.mustangproject/Mustang-CLI@2.16.5?classifier=sources
 - pkg:maven/org.mustangproject/Mustang-CLI@2.17.0
 - pkg:maven/org.mustangproject/Mustang-CLI@2.17.0?classifier=sources
+- pkg:maven/org.mustangproject/Mustang-CLI@2.18.0
+- pkg:maven/org.mustangproject/Mustang-CLI@2.18.0?classifier=sources
 - pkg:maven/org.mustangproject/Mustang-CLI@2.2.0
 - pkg:maven/org.mustangproject/Mustang-CLI@2.2.0?classifier=sources
 - pkg:maven/org.mustangproject/Mustang-CLI@2.2.1

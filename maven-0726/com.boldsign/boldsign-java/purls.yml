@@ -7,3 +7,5 @@
 - pkg:maven/com.boldsign/boldsign-java@1.0.0-beta.7?classifier=sources
 - pkg:maven/com.boldsign/boldsign-java@1.0.1?classifier=sources
 - pkg:maven/com.boldsign/boldsign-java@1.0.2?classifier=sources
+- pkg:maven/com.boldsign/boldsign-java@1.0.3-beta.1?classifier=sources
+- pkg:maven/com.boldsign/boldsign-java@1.0.3?classifier=sources

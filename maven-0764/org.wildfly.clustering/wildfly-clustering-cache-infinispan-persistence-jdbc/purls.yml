@@ -1,0 +1,2 @@
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-cache-infinispan-persistence-jdbc@7.0.7.Final?classifier=sources
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-cache-infinispan-persistence-jdbc@7.0.8.Final?classifier=sources

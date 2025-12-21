@@ -52,3 +52,6 @@
 - pkg:maven/io.github.wywuzh/commons-dbutils@3.3.4.RELEASE?classifier=sources
 - pkg:maven/io.github.wywuzh/commons-dbutils@3.3.5.RELEASE?classifier=sources
 - pkg:maven/io.github.wywuzh/commons-dbutils@3.3.6.RELEASE?classifier=sources
+- pkg:maven/io.github.wywuzh/commons-dbutils@3.3.7.RELEASE?classifier=sources
+- pkg:maven/io.github.wywuzh/commons-dbutils@3.3.8.RELEASE?classifier=sources
+- pkg:maven/io.github.wywuzh/commons-dbutils@3.3.9.RELEASE?classifier=sources

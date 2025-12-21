@@ -561,3 +561,6 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-displayer@17.4.0-rc-1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-displayer@17.4.0?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-displayer@17.4.1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-displayer@17.4.2?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-displayer@17.5.0?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-displayer@17.6.0-rc-1?classifier=sources

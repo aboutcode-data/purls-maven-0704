@@ -1,0 +1,2 @@
+- pkg:maven/com.sonatype.central.testing.amazon/frauddetector@3.5.7?classifier=sources
+- pkg:maven/com.sonatype.central.testing.amazon/frauddetector@3.6.2?classifier=sources

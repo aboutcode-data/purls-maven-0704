@@ -340,3 +340,5 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-compiler-embeddable@2.2.0-RC3?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-compiler-embeddable@2.2.0-RC?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-compiler-embeddable@2.2.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-compiler-embeddable@2.2.10-RC?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-compiler-embeddable@2.2.20-Beta1?classifier=sources

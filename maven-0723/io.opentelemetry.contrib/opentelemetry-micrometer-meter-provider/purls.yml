@@ -33,3 +33,5 @@
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-micrometer-meter-provider@1.44.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-micrometer-meter-provider@1.45.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-micrometer-meter-provider@1.46.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.contrib/opentelemetry-micrometer-meter-provider@1.47.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.contrib/opentelemetry-micrometer-meter-provider@1.48.0-alpha?classifier=sources

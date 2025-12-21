@@ -1,1 +1,2 @@
 - pkg:maven/com.devinsterling/localize-base@1.0.0?classifier=sources
+- pkg:maven/com.devinsterling/localize-base@1.1.0?classifier=sources

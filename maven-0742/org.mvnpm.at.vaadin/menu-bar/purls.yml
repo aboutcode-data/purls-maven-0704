@@ -90,3 +90,9 @@
 - pkg:maven/org.mvnpm.at.vaadin/menu-bar@24.8.0?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/menu-bar@24.8.1
 - pkg:maven/org.mvnpm.at.vaadin/menu-bar@24.8.1?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/menu-bar@24.8.2
+- pkg:maven/org.mvnpm.at.vaadin/menu-bar@24.8.2?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/menu-bar@24.8.3
+- pkg:maven/org.mvnpm.at.vaadin/menu-bar@24.8.3?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/menu-bar@24.8.4
+- pkg:maven/org.mvnpm.at.vaadin/menu-bar@24.8.4?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.protelis/protelis.parser.parent@12.2.0?classifier=sources
 - pkg:maven/org.protelis/protelis.parser.parent@12.3.0?classifier=sources
 - pkg:maven/org.protelis/protelis.parser.parent@12.4.0?classifier=sources
+- pkg:maven/org.protelis/protelis.parser.parent@12.4.1-dev0k%2B0254b52?classifier=sources
+- pkg:maven/org.protelis/protelis.parser.parent@12.4.1?classifier=sources

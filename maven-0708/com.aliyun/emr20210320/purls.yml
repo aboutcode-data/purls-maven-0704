@@ -46,3 +46,5 @@
 - pkg:maven/com.aliyun/emr20210320@2.2.0?classifier=sources
 - pkg:maven/com.aliyun/emr20210320@2.3.0
 - pkg:maven/com.aliyun/emr20210320@2.3.0?classifier=sources
+- pkg:maven/com.aliyun/emr20210320@2.4.0?classifier=sources
+- pkg:maven/com.aliyun/emr20210320@3.0.0?classifier=sources

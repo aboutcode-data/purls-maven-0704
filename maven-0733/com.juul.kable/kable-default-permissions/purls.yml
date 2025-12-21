@@ -1,2 +1,6 @@
 - pkg:maven/com.juul.kable/kable-default-permissions@0.37.0?classifier=sources
 - pkg:maven/com.juul.kable/kable-default-permissions@0.37.1?classifier=sources
+- pkg:maven/com.juul.kable/kable-default-permissions@0.38.0?classifier=sources
+- pkg:maven/com.juul.kable/kable-default-permissions@0.38.1?classifier=sources
+- pkg:maven/com.juul.kable/kable-default-permissions@0.39.0-rc1?classifier=sources
+- pkg:maven/com.juul.kable/kable-default-permissions@0.39.0?classifier=sources

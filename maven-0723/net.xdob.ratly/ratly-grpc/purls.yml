@@ -7,4 +7,12 @@
 - pkg:maven/net.xdob.ratly/ratly-grpc@1.5.0?classifier=sources
 - pkg:maven/net.xdob.ratly/ratly-grpc@2.0.0?classifier=sources
 - pkg:maven/net.xdob.ratly/ratly-grpc@2.1.0?classifier=sources
+- pkg:maven/net.xdob.ratly/ratly-grpc@2.10.0?classifier=sources
 - pkg:maven/net.xdob.ratly/ratly-grpc@2.2.0?classifier=sources
+- pkg:maven/net.xdob.ratly/ratly-grpc@2.3.0?classifier=sources
+- pkg:maven/net.xdob.ratly/ratly-grpc@2.4.0?classifier=sources
+- pkg:maven/net.xdob.ratly/ratly-grpc@2.5.0?classifier=sources
+- pkg:maven/net.xdob.ratly/ratly-grpc@2.6.0?classifier=sources
+- pkg:maven/net.xdob.ratly/ratly-grpc@2.7.0?classifier=sources
+- pkg:maven/net.xdob.ratly/ratly-grpc@2.8.0?classifier=sources
+- pkg:maven/net.xdob.ratly/ratly-grpc@2.9.0?classifier=sources

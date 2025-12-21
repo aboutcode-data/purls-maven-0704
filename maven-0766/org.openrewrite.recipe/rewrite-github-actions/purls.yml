@@ -85,3 +85,6 @@
 - pkg:maven/org.openrewrite.recipe/rewrite-github-actions@3.6.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-github-actions@3.7.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-github-actions@3.8.0?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-github-actions@3.9.0?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-github-actions@3.9.1?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-github-actions@3.9.2?classifier=sources

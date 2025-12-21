@@ -334,6 +334,8 @@
 - pkg:maven/com.hashicorp/cdktf-provider-ionoscloud@11.3.7?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-ionoscloud@12.0.0
 - pkg:maven/com.hashicorp/cdktf-provider-ionoscloud@12.0.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-ionoscloud@12.0.1
+- pkg:maven/com.hashicorp/cdktf-provider-ionoscloud@12.0.1?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-ionoscloud@2.0.0
 - pkg:maven/com.hashicorp/cdktf-provider-ionoscloud@2.0.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-ionoscloud@2.0.1

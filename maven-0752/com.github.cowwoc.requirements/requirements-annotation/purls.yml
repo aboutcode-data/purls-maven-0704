@@ -4,3 +4,5 @@
 - pkg:maven/com.github.cowwoc.requirements/requirements-annotation@11.1?classifier=sources
 - pkg:maven/com.github.cowwoc.requirements/requirements-annotation@11.2
 - pkg:maven/com.github.cowwoc.requirements/requirements-annotation@11.2?classifier=sources
+- pkg:maven/com.github.cowwoc.requirements/requirements-annotation@12.1
+- pkg:maven/com.github.cowwoc.requirements/requirements-annotation@12.1?classifier=sources

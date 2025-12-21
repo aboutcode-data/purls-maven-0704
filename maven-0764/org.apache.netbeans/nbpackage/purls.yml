@@ -7,3 +7,6 @@
 - pkg:maven/org.apache.netbeans/nbpackage@1.0-beta5
 - pkg:maven/org.apache.netbeans/nbpackage@1.0-beta5?classifier=source-release&type=zip
 - pkg:maven/org.apache.netbeans/nbpackage@1.0-beta5?classifier=sources
+- pkg:maven/org.apache.netbeans/nbpackage@1.0-beta6
+- pkg:maven/org.apache.netbeans/nbpackage@1.0-beta6?classifier=source-release&type=zip
+- pkg:maven/org.apache.netbeans/nbpackage@1.0-beta6?classifier=sources

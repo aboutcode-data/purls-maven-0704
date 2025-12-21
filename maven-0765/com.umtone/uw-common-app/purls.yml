@@ -22,3 +22,4 @@
 - pkg:maven/com.umtone/uw-common-app@1.0.87?classifier=sources
 - pkg:maven/com.umtone/uw-common-app@1.0.88?classifier=sources
 - pkg:maven/com.umtone/uw-common-app@1.0.89?classifier=sources
+- pkg:maven/com.umtone/uw-common-app@1.0.90?classifier=sources

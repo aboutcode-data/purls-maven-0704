@@ -1,5 +1,7 @@
 - pkg:maven/org.drools/drools-ruleunits-engine@10.0.0
 - pkg:maven/org.drools/drools-ruleunits-engine@10.0.0?classifier=sources
+- pkg:maven/org.drools/drools-ruleunits-engine@10.1.0
+- pkg:maven/org.drools/drools-ruleunits-engine@10.1.0?classifier=sources
 - pkg:maven/org.drools/drools-ruleunits-engine@8.28.0.Beta
 - pkg:maven/org.drools/drools-ruleunits-engine@8.29.0.Final
 - pkg:maven/org.drools/drools-ruleunits-engine@8.30.0.Final

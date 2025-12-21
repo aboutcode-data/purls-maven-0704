@@ -1,0 +1,4 @@
+- pkg:maven/org.jetbrains.scala/sbt-declarative-core_2.12_1.0@5.0.4
+- pkg:maven/org.jetbrains.scala/sbt-declarative-core_2.12_1.0@5.0.4?classifier=sources
+- pkg:maven/org.jetbrains.scala/sbt-declarative-core_2.12_1.0@5.0.5
+- pkg:maven/org.jetbrains.scala/sbt-declarative-core_2.12_1.0@5.0.5?classifier=sources

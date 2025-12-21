@@ -21,3 +21,4 @@
 - pkg:maven/io.deephaven/deephaven-test-configs@0.39.2?classifier=sources
 - pkg:maven/io.deephaven/deephaven-test-configs@0.39.3?classifier=sources
 - pkg:maven/io.deephaven/deephaven-test-configs@0.39.4?classifier=sources
+- pkg:maven/io.deephaven/deephaven-test-configs@0.39.5?classifier=sources

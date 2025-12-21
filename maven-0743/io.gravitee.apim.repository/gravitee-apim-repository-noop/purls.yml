@@ -141,6 +141,7 @@
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.4.2?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.4.30?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.4.31?classifier=sources
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.4.32?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.4.3?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.4.4?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.4.5?classifier=sources
@@ -162,6 +163,8 @@
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.5.19?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.5.1?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.5.20?classifier=sources
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.5.21?classifier=sources
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.5.22?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.5.2?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.5.3?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.5.4?classifier=sources
@@ -177,6 +180,8 @@
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.6.12?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.6.13?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.6.14?classifier=sources
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.6.15?classifier=sources
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.6.16?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.6.1?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.6.2?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.6.3?classifier=sources
@@ -190,6 +195,7 @@
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.7.0-alpha.2?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.7.0-alpha.3?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.7.0?classifier=sources
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.7.10?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.7.1?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.7.2?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.7.3?classifier=sources
@@ -198,7 +204,10 @@
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.7.6?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.7.7?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.7.8?classifier=sources
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.7.9?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.8.0-alpha.1?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.8.0-alpha.2?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.8.0-alpha.3?classifier=sources
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.8.0?classifier=sources
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.8.1?classifier=sources
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-noop@4.8.2?classifier=sources

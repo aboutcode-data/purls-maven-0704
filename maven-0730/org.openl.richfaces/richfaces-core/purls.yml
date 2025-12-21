@@ -1,0 +1,2 @@
+- pkg:maven/org.openl.richfaces/richfaces-core@10.0.0-openl
+- pkg:maven/org.openl.richfaces/richfaces-core@10.0.0-openl?classifier=sources

@@ -98,3 +98,4 @@
 - pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-sdk@5.0.2?classifier=sources
 - pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-sdk@5.1.0?classifier=sources
 - pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-sdk@5.2.0?classifier=sources
+- pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-sdk@5.2.1?classifier=sources

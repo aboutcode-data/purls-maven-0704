@@ -1,0 +1,2 @@
+- pkg:maven/org.opendaylight.controller/raft-api@11.0.0
+- pkg:maven/org.opendaylight.controller/raft-api@11.0.0?classifier=sources

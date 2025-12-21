@@ -2,3 +2,5 @@
 - pkg:maven/biz.softfor/biz.softfor.spring.sqllog@3.4.3?classifier=sources
 - pkg:maven/biz.softfor/biz.softfor.spring.sqllog@3.4.4
 - pkg:maven/biz.softfor/biz.softfor.spring.sqllog@3.4.4?classifier=sources
+- pkg:maven/biz.softfor/biz.softfor.spring.sqllog@3.5.3
+- pkg:maven/biz.softfor/biz.softfor.spring.sqllog@3.5.3?classifier=sources

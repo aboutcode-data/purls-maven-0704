@@ -231,3 +231,6 @@
 - pkg:maven/cn.herodotus.oss/dialect-sdk-minio@3.5.1.0?classifier=sources
 - pkg:maven/cn.herodotus.oss/dialect-sdk-minio@3.5.2.0?classifier=sources
 - pkg:maven/cn.herodotus.oss/dialect-sdk-minio@3.5.3.0?classifier=sources
+- pkg:maven/cn.herodotus.oss/dialect-sdk-minio@3.5.3.1?classifier=sources
+- pkg:maven/cn.herodotus.oss/dialect-sdk-minio@3.5.3.2?classifier=sources
+- pkg:maven/cn.herodotus.oss/dialect-sdk-minio@3.5.4.0?classifier=sources

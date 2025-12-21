@@ -2268,6 +2268,12 @@
 - pkg:maven/com.pepperize/cdk-ses-smtp-credentials@0.3.8?classifier=sources
 - pkg:maven/com.pepperize/cdk-ses-smtp-credentials@0.3.9
 - pkg:maven/com.pepperize/cdk-ses-smtp-credentials@0.3.90
+- pkg:maven/com.pepperize/cdk-ses-smtp-credentials@0.3.900
+- pkg:maven/com.pepperize/cdk-ses-smtp-credentials@0.3.900?classifier=sources
+- pkg:maven/com.pepperize/cdk-ses-smtp-credentials@0.3.901
+- pkg:maven/com.pepperize/cdk-ses-smtp-credentials@0.3.901?classifier=sources
+- pkg:maven/com.pepperize/cdk-ses-smtp-credentials@0.3.902
+- pkg:maven/com.pepperize/cdk-ses-smtp-credentials@0.3.902?classifier=sources
 - pkg:maven/com.pepperize/cdk-ses-smtp-credentials@0.3.90?classifier=sources
 - pkg:maven/com.pepperize/cdk-ses-smtp-credentials@0.3.91
 - pkg:maven/com.pepperize/cdk-ses-smtp-credentials@0.3.91?classifier=sources

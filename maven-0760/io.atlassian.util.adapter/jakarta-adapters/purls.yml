@@ -11,3 +11,4 @@
 - pkg:maven/io.atlassian.util.adapter/jakarta-adapters@0.2.3?classifier=sources
 - pkg:maven/io.atlassian.util.adapter/jakarta-adapters@0.2.4-m01?classifier=sources
 - pkg:maven/io.atlassian.util.adapter/jakarta-adapters@0.2.4?classifier=sources
+- pkg:maven/io.atlassian.util.adapter/jakarta-adapters@0.2.5?classifier=sources

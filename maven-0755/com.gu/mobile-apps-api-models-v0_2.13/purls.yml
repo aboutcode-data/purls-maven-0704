@@ -299,6 +299,10 @@
 - pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.61-PREVIEW.abcondensed-palette.2025-06-19T1041.f1c057fb
 - pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.61-PREVIEW.abcondensed-palette.2025-06-19T1041.f1c057fb?classifier=sources
 - pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.61?classifier=sources
+- pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.62-PREVIEW.abtest-change.2025-07-10T1641.c7544fed
+- pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.62-PREVIEW.abtest-change.2025-07-10T1641.c7544fed?classifier=sources
+- pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.62-PREVIEW.abtest-change.2025-07-11T1659.896d15b4
+- pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.62-PREVIEW.abtest-change.2025-07-11T1659.896d15b4?classifier=sources
 - pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.6?classifier=sources
 - pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.7
 - pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.7?classifier=sources

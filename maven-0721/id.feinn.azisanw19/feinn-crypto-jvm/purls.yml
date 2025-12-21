@@ -1,1 +1,8 @@
+- pkg:maven/id.feinn.azisanw19/feinn-crypto-jvm@1.1.0-alpha01?classifier=sources
+- pkg:maven/id.feinn.azisanw19/feinn-crypto-jvm@1.1.0-alpha03?classifier=sources
+- pkg:maven/id.feinn.azisanw19/feinn-crypto-jvm@1.1.0-alpha04?classifier=sources
+- pkg:maven/id.feinn.azisanw19/feinn-crypto-jvm@1.1.0-alpha05?classifier=sources
 - pkg:maven/id.feinn.azisanw19/feinn-crypto-jvm@1.1.0?classifier=sources
+- pkg:maven/id.feinn.azisanw19/feinn-crypto-jvm@1.1.1?classifier=sources
+- pkg:maven/id.feinn.azisanw19/feinn-crypto-jvm@1.1.2?classifier=sources
+- pkg:maven/id.feinn.azisanw19/feinn-crypto-jvm@1.2.0?classifier=sources

@@ -30,3 +30,4 @@
 - pkg:maven/com.github.fmjsjx/myboot-starter-http-router@3.3.3?classifier=sources
 - pkg:maven/com.github.fmjsjx/myboot-starter-http-router@3.3.4?classifier=sources
 - pkg:maven/com.github.fmjsjx/myboot-starter-http-router@3.4.0?classifier=sources
+- pkg:maven/com.github.fmjsjx/myboot-starter-http-router@3.4.1?classifier=sources

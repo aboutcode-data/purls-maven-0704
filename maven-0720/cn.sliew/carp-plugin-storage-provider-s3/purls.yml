@@ -1,0 +1,2 @@
+- pkg:maven/cn.sliew/carp-plugin-storage-provider-s3@0.0.33?classifier=sources
+- pkg:maven/cn.sliew/carp-plugin-storage-provider-s3@0.0.34?classifier=sources

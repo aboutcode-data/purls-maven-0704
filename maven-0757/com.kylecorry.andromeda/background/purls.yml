@@ -24,3 +24,4 @@
 - pkg:maven/com.kylecorry.andromeda/background@14.4.3?classifier=sources
 - pkg:maven/com.kylecorry.andromeda/background@15.0.0?classifier=sources
 - pkg:maven/com.kylecorry.andromeda/background@15.1.0?classifier=sources
+- pkg:maven/com.kylecorry.andromeda/background@15.2.0?classifier=sources

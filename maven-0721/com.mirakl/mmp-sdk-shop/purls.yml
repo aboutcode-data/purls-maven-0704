@@ -21,3 +21,6 @@
 - pkg:maven/com.mirakl/mmp-sdk-shop@8.7.0?classifier=sources
 - pkg:maven/com.mirakl/mmp-sdk-shop@8.8.0?classifier=sources
 - pkg:maven/com.mirakl/mmp-sdk-shop@9.0.0?classifier=sources
+- pkg:maven/com.mirakl/mmp-sdk-shop@9.1.0?classifier=sources
+- pkg:maven/com.mirakl/mmp-sdk-shop@9.2.0?classifier=sources
+- pkg:maven/com.mirakl/mmp-sdk-shop@9.3.0?classifier=sources
