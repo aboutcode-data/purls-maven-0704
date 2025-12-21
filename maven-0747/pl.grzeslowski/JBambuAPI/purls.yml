@@ -1,3 +1,7 @@
 - pkg:maven/pl.grzeslowski/JBambuAPI@0.2.0?classifier=sources
 - pkg:maven/pl.grzeslowski/JBambuAPI@1.0.0?classifier=sources
 - pkg:maven/pl.grzeslowski/JBambuAPI@1.1.0?classifier=sources
+- pkg:maven/pl.grzeslowski/JBambuAPI@1.2.0?classifier=sources
+- pkg:maven/pl.grzeslowski/JBambuAPI@1.3.0?classifier=sources
+- pkg:maven/pl.grzeslowski/JBambuAPI@1.4.0?classifier=sources
+- pkg:maven/pl.grzeslowski/JBambuAPI@1.5.0?classifier=sources

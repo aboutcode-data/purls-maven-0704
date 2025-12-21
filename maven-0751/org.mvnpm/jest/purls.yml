@@ -1,1 +1,2 @@
+- pkg:maven/org.mvnpm/jest@26.6.3?classifier=sources
 - pkg:maven/org.mvnpm/jest@29.7.0?classifier=sources

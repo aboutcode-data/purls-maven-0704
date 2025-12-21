@@ -46,6 +46,8 @@
 - pkg:maven/org.wvlet.airframe/airframe-rx-widget_sjs1_2.13@2025.1.7?classifier=sources
 - pkg:maven/org.wvlet.airframe/airframe-rx-widget_sjs1_2.13@2025.1.8
 - pkg:maven/org.wvlet.airframe/airframe-rx-widget_sjs1_2.13@2025.1.8?classifier=sources
+- pkg:maven/org.wvlet.airframe/airframe-rx-widget_sjs1_2.13@2025.1.9
+- pkg:maven/org.wvlet.airframe/airframe-rx-widget_sjs1_2.13@2025.1.9?classifier=sources
 - pkg:maven/org.wvlet.airframe/airframe-rx-widget_sjs1_2.13@21.1.0
 - pkg:maven/org.wvlet.airframe/airframe-rx-widget_sjs1_2.13@21.1.0?classifier=sources
 - pkg:maven/org.wvlet.airframe/airframe-rx-widget_sjs1_2.13@21.1.1

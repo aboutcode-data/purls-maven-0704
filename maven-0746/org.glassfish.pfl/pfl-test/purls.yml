@@ -32,3 +32,5 @@
 - pkg:maven/org.glassfish.pfl/pfl-test@4.1.2?classifier=sources
 - pkg:maven/org.glassfish.pfl/pfl-test@5.0.0
 - pkg:maven/org.glassfish.pfl/pfl-test@5.0.0?classifier=sources
+- pkg:maven/org.glassfish.pfl/pfl-test@5.1.0
+- pkg:maven/org.glassfish.pfl/pfl-test@5.1.0?classifier=sources

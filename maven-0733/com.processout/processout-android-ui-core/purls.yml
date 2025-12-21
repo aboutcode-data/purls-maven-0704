@@ -20,3 +20,4 @@
 - pkg:maven/com.processout/processout-android-ui-core@4.25.0?classifier=sources
 - pkg:maven/com.processout/processout-android-ui-core@4.26.0?classifier=sources
 - pkg:maven/com.processout/processout-android-ui-core@4.27.0?classifier=sources
+- pkg:maven/com.processout/processout-android-ui-core@4.28.0?classifier=sources

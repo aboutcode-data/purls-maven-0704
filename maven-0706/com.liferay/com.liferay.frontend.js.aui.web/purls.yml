@@ -457,6 +457,7 @@
 - pkg:maven/com.liferay/com.liferay.frontend.js.aui.web@2.0.80
 - pkg:maven/com.liferay/com.liferay.frontend.js.aui.web@2.0.80?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.aui.web@2.0.80?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.js.aui.web@2.0.81?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.aui.web@2.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.aui.web@2.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.js.aui.web@2.0.9
@@ -718,6 +719,7 @@
 - pkg:maven/com.liferay/com.liferay.frontend.js.aui.web@3.0.86
 - pkg:maven/com.liferay/com.liferay.frontend.js.aui.web@3.0.86?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.aui.web@3.0.87?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.js.aui.web@3.0.88?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.aui.web@3.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.aui.web@3.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.js.aui.web@3.0.9
@@ -910,6 +912,7 @@
 - pkg:maven/com.liferay/com.liferay.frontend.js.aui.web@4.0.65
 - pkg:maven/com.liferay/com.liferay.frontend.js.aui.web@4.0.65?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.aui.web@4.0.66?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.js.aui.web@4.0.67?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.aui.web@4.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.aui.web@4.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.js.aui.web@4.0.7
@@ -933,6 +936,7 @@
 - pkg:maven/com.liferay/com.liferay.frontend.js.aui.web@5.0.104?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.aui.web@5.0.105?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.aui.web@5.0.106?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.js.aui.web@5.0.107?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.aui.web@5.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.aui.web@5.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.js.aui.web@5.0.11

@@ -1,1 +1,7 @@
 - pkg:maven/com.forsyth.novm/novm-runtime@0.8.0?classifier=sources
+- pkg:maven/com.forsyth.novm/novm-runtime@0.9.0?classifier=sources
+- pkg:maven/com.forsyth.novm/novm-runtime@1.0.0?classifier=sources
+- pkg:maven/com.forsyth.novm/novm-runtime@1.0.2?classifier=sources
+- pkg:maven/com.forsyth.novm/novm-runtime@1.1.0?classifier=sources
+- pkg:maven/com.forsyth.novm/novm-runtime@1.2.0?classifier=sources
+- pkg:maven/com.forsyth.novm/novm-runtime@1.3.0?classifier=sources

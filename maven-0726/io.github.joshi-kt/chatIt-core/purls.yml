@@ -1,0 +1,5 @@
+- pkg:maven/io.github.joshi-kt/chatIt-core@0.0.1?classifier=sources
+- pkg:maven/io.github.joshi-kt/chatIt-core@0.1.0?classifier=sources
+- pkg:maven/io.github.joshi-kt/chatIt-core@0.1.1?classifier=sources
+- pkg:maven/io.github.joshi-kt/chatIt-core@1.0.0-beta?classifier=sources
+- pkg:maven/io.github.joshi-kt/chatIt-core@1.0.0?classifier=sources

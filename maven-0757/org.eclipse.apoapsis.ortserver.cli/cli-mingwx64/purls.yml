@@ -2,3 +2,5 @@
 - pkg:maven/org.eclipse.apoapsis.ortserver.cli/cli-mingwx64@0.1.0-RC16?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.cli/cli-mingwx64@0.1.0-RC17?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.cli/cli-mingwx64@0.1.0-RC18?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.cli/cli-mingwx64@0.1.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.cli/cli-mingwx64@0.2.0?classifier=sources

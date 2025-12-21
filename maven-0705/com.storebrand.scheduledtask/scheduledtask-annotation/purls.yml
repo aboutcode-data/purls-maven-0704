@@ -1,1 +1,2 @@
 - pkg:maven/com.storebrand.scheduledtask/scheduledtask-annotation@0.1.8%2B2024-08-28?classifier=sources
+- pkg:maven/com.storebrand.scheduledtask/scheduledtask-annotation@0.2.0%2B2025-04-02?classifier=sources

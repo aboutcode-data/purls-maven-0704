@@ -27,3 +27,5 @@
 - pkg:maven/org.jetbrains.compose.runtime/runtime-saveable-linuxarm64@1.8.0-alpha02?classifier=sources
 - pkg:maven/org.jetbrains.compose.runtime/runtime-saveable-linuxarm64@1.8.0-alpha03?classifier=sources
 - pkg:maven/org.jetbrains.compose.runtime/runtime-saveable-linuxarm64@1.8.0-alpha04?classifier=sources
+- pkg:maven/org.jetbrains.compose.runtime/runtime-saveable-linuxarm64@1.8.0-beta01?classifier=sources
+- pkg:maven/org.jetbrains.compose.runtime/runtime-saveable-linuxarm64@1.8.0-beta02?classifier=sources

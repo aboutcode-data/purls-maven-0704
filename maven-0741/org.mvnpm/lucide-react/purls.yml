@@ -2,3 +2,7 @@
 - pkg:maven/org.mvnpm/lucide-react@0.453.0?classifier=sources
 - pkg:maven/org.mvnpm/lucide-react@0.475.0?classifier=sources
 - pkg:maven/org.mvnpm/lucide-react@0.483.0?classifier=sources
+- pkg:maven/org.mvnpm/lucide-react@0.484.0?classifier=sources
+- pkg:maven/org.mvnpm/lucide-react@0.485.0?classifier=sources
+- pkg:maven/org.mvnpm/lucide-react@0.486.0?classifier=sources
+- pkg:maven/org.mvnpm/lucide-react@0.487.0?classifier=sources

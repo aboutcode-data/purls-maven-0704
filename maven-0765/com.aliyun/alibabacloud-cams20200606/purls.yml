@@ -50,5 +50,7 @@
 - pkg:maven/com.aliyun/alibabacloud-cams20200606@1.0.34?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-cams20200606@1.0.35
 - pkg:maven/com.aliyun/alibabacloud-cams20200606@1.0.35?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-cams20200606@1.0.36
+- pkg:maven/com.aliyun/alibabacloud-cams20200606@1.0.36?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-cams20200606@1.0.9
 - pkg:maven/com.aliyun/alibabacloud-cams20200606@1.0.9?classifier=sources

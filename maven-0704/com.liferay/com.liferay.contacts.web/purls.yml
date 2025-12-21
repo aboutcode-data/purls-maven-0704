@@ -406,6 +406,7 @@
 - pkg:maven/com.liferay/com.liferay.contacts.web@2.0.6
 - pkg:maven/com.liferay/com.liferay.contacts.web@2.0.60?classifier=sources
 - pkg:maven/com.liferay/com.liferay.contacts.web@2.0.61?classifier=sources
+- pkg:maven/com.liferay/com.liferay.contacts.web@2.0.62?classifier=sources
 - pkg:maven/com.liferay/com.liferay.contacts.web@2.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.contacts.web@2.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.contacts.web@2.0.7
@@ -610,6 +611,7 @@
 - pkg:maven/com.liferay/com.liferay.contacts.web@3.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.contacts.web@3.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.contacts.web@3.0.7
+- pkg:maven/com.liferay/com.liferay.contacts.web@3.0.70?classifier=sources
 - pkg:maven/com.liferay/com.liferay.contacts.web@3.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.contacts.web@3.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.contacts.web@3.0.8
@@ -793,6 +795,7 @@
 - pkg:maven/com.liferay/com.liferay.contacts.web@4.0.64?classifier=sources
 - pkg:maven/com.liferay/com.liferay.contacts.web@4.0.65?classifier=sources
 - pkg:maven/com.liferay/com.liferay.contacts.web@4.0.66?classifier=sources
+- pkg:maven/com.liferay/com.liferay.contacts.web@4.0.67?classifier=sources
 - pkg:maven/com.liferay/com.liferay.contacts.web@4.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.contacts.web@4.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.contacts.web@4.0.7
@@ -962,6 +965,7 @@
 - pkg:maven/com.liferay/com.liferay.contacts.web@5.0.63?classifier=sources
 - pkg:maven/com.liferay/com.liferay.contacts.web@5.0.64?classifier=sources
 - pkg:maven/com.liferay/com.liferay.contacts.web@5.0.65?classifier=sources
+- pkg:maven/com.liferay/com.liferay.contacts.web@5.0.66?classifier=sources
 - pkg:maven/com.liferay/com.liferay.contacts.web@5.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.contacts.web@5.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.contacts.web@5.0.7

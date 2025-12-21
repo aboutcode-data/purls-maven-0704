@@ -20,3 +20,5 @@
 - pkg:maven/org.wso2.carbon.identity.conditional.auth.typingdna/org.wso2.carbon.identity.conditional.auth.typingdna.api@1.0.8?type=war
 - pkg:maven/org.wso2.carbon.identity.conditional.auth.typingdna/org.wso2.carbon.identity.conditional.auth.typingdna.api@1.0.9?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.conditional.auth.typingdna/org.wso2.carbon.identity.conditional.auth.typingdna.api@1.0.9?type=war
+- pkg:maven/org.wso2.carbon.identity.conditional.auth.typingdna/org.wso2.carbon.identity.conditional.auth.typingdna.api@2.0.2?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.conditional.auth.typingdna/org.wso2.carbon.identity.conditional.auth.typingdna.api@2.0.2?type=war

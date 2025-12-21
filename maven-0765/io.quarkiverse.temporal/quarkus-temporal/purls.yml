@@ -27,3 +27,4 @@
 - pkg:maven/io.quarkiverse.temporal/quarkus-temporal@0.0.9
 - pkg:maven/io.quarkiverse.temporal/quarkus-temporal@0.0.9?classifier=sources
 - pkg:maven/io.quarkiverse.temporal/quarkus-temporal@0.1.0?classifier=sources
+- pkg:maven/io.quarkiverse.temporal/quarkus-temporal@0.1.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.virtuslab/besom-kafka-connect_3@0.0.8%2Bdirty-core.0.4
+- pkg:maven/org.virtuslab/besom-kafka-connect_3@0.0.8%2Bdirty-core.0.4?classifier=sources

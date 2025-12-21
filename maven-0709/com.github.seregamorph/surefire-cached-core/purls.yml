@@ -1,0 +1,2 @@
+- pkg:maven/com.github.seregamorph/surefire-cached-core@0.1?classifier=sources
+- pkg:maven/com.github.seregamorph/surefire-cached-core@0.2?classifier=sources

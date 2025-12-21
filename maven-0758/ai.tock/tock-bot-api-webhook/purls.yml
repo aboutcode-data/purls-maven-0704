@@ -61,3 +61,5 @@
 - pkg:maven/ai.tock/tock-bot-api-webhook@24.9.6
 - pkg:maven/ai.tock/tock-bot-api-webhook@24.9.7
 - pkg:maven/ai.tock/tock-bot-api-webhook@24.9.8
+- pkg:maven/ai.tock/tock-bot-api-webhook@25.3.0
+- pkg:maven/ai.tock/tock-bot-api-webhook@25.3.1

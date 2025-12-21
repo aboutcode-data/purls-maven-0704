@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/archiver-utils@1.3.0?classifier=sources
+- pkg:maven/org.mvnpm/archiver-utils@5.0.2?classifier=sources

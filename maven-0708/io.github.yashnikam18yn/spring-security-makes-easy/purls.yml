@@ -10,3 +10,4 @@
 - pkg:maven/io.github.yashnikam18yn/spring-security-makes-easy@1.0.8?classifier=sources
 - pkg:maven/io.github.yashnikam18yn/spring-security-makes-easy@1.0.9?classifier=sources
 - pkg:maven/io.github.yashnikam18yn/spring-security-makes-easy@1.1.1?classifier=sources
+- pkg:maven/io.github.yashnikam18yn/spring-security-makes-easy@1.1.2?classifier=sources

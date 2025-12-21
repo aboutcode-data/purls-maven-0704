@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm/spdx-expression-parse@3.0.1?classifier=sources
+- pkg:maven/org.mvnpm/spdx-expression-parse@4.0.0?classifier=sources

@@ -15,6 +15,7 @@
 - pkg:maven/org.projectnessie.nessie/nessie-cli@0.103.0?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-cli@0.103.1?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-cli@0.103.2?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-cli@0.103.3?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-cli@0.83.0?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-cli@0.83.1?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-cli@0.83.2?classifier=sources

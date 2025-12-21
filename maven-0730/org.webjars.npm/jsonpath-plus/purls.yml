@@ -1,3 +1,4 @@
+- pkg:maven/org.webjars.npm/jsonpath-plus@10.3.0
 - pkg:maven/org.webjars.npm/jsonpath-plus@3.0.0
 - pkg:maven/org.webjars.npm/jsonpath-plus@3.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/jsonpath-plus@4.0.0

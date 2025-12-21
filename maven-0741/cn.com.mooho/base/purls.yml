@@ -79,6 +79,7 @@
 - pkg:maven/cn.com.mooho/base@2.8.21?classifier=sources
 - pkg:maven/cn.com.mooho/base@2.8.22?classifier=sources
 - pkg:maven/cn.com.mooho/base@2.8.23?classifier=sources
+- pkg:maven/cn.com.mooho/base@2.8.24?classifier=sources
 - pkg:maven/cn.com.mooho/base@2.8.2?classifier=sources
 - pkg:maven/cn.com.mooho/base@2.8.3
 - pkg:maven/cn.com.mooho/base@2.8.3?classifier=sources

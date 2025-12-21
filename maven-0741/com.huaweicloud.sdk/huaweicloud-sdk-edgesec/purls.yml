@@ -80,6 +80,12 @@
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-edgesec@3.1.139?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-edgesec@3.1.140
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-edgesec@3.1.140?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-edgesec@3.1.141
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-edgesec@3.1.141?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-edgesec@3.1.142
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-edgesec@3.1.142?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-edgesec@3.1.143
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-edgesec@3.1.143?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-edgesec@3.1.55
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-edgesec@3.1.55?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-edgesec@3.1.56

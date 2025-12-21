@@ -5,3 +5,4 @@
 - pkg:maven/com.nablarch.archetype/nablarch-batch-dbless-archetype@6?classifier=sources
 - pkg:maven/com.nablarch.archetype/nablarch-batch-dbless-archetype@6u1?classifier=sources
 - pkg:maven/com.nablarch.archetype/nablarch-batch-dbless-archetype@6u2?classifier=sources
+- pkg:maven/com.nablarch.archetype/nablarch-batch-dbless-archetype@6u3?classifier=sources

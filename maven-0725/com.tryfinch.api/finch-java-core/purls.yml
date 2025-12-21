@@ -91,3 +91,6 @@
 - pkg:maven/com.tryfinch.api/finch-java-core@4.0.2?classifier=sources
 - pkg:maven/com.tryfinch.api/finch-java-core@4.1.0?classifier=sources
 - pkg:maven/com.tryfinch.api/finch-java-core@4.2.0?classifier=sources
+- pkg:maven/com.tryfinch.api/finch-java-core@5.0.0?classifier=sources
+- pkg:maven/com.tryfinch.api/finch-java-core@5.1.0?classifier=sources
+- pkg:maven/com.tryfinch.api/finch-java-core@5.2.0?classifier=sources

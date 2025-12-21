@@ -204,6 +204,7 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.channel.web@3.0.22
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.channel.web@3.0.22?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.channel.web@3.0.23?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.channel.web@3.0.24?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.channel.web@3.0.2?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.channel.web@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.channel.web@3.0.3
@@ -443,5 +444,6 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.channel.web@4.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.channel.web@4.0.9
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.channel.web@4.0.90?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.channel.web@4.0.91?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.channel.web@4.0.9?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.channel.web@4.0.9?classifier=sources-commercial

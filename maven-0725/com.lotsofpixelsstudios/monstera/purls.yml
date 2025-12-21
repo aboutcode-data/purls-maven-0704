@@ -50,3 +50,7 @@
 - pkg:maven/com.lotsofpixelsstudios/monstera@0.4.3?classifier=sources
 - pkg:maven/com.lotsofpixelsstudios/monstera@0.4.4?classifier=sources
 - pkg:maven/com.lotsofpixelsstudios/monstera@0.4.5?classifier=sources
+- pkg:maven/com.lotsofpixelsstudios/monstera@0.5.6?classifier=sources
+- pkg:maven/com.lotsofpixelsstudios/monstera@0.5.7?classifier=sources
+- pkg:maven/com.lotsofpixelsstudios/monstera@0.5.8?classifier=sources
+- pkg:maven/com.lotsofpixelsstudios/monstera@0.5.9?classifier=sources

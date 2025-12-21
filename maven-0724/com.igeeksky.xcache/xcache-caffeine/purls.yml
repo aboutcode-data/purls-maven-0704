@@ -1,3 +1,6 @@
 - pkg:maven/com.igeeksky.xcache/xcache-caffeine@0.9.10?classifier=sources
 - pkg:maven/com.igeeksky.xcache/xcache-caffeine@0.9.23?classifier=sources
 - pkg:maven/com.igeeksky.xcache/xcache-caffeine@0.9.9?classifier=sources
+- pkg:maven/com.igeeksky.xcache/xcache-caffeine@1.0.0?classifier=sources
+- pkg:maven/com.igeeksky.xcache/xcache-caffeine@1.0.1?classifier=sources
+- pkg:maven/com.igeeksky.xcache/xcache-caffeine@1.0.2?classifier=sources

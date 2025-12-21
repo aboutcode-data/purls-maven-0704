@@ -38,3 +38,5 @@
 - pkg:maven/com.adobe.aio/aio-lib-java-events-webhook@1.1.8?classifier=sources
 - pkg:maven/com.adobe.aio/aio-lib-java-events-webhook@2.0.0
 - pkg:maven/com.adobe.aio/aio-lib-java-events-webhook@2.0.0?classifier=sources
+- pkg:maven/com.adobe.aio/aio-lib-java-events-webhook@2.0.2
+- pkg:maven/com.adobe.aio/aio-lib-java-events-webhook@2.0.2?classifier=sources

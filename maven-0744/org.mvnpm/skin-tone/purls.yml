@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/skin-tone@2.0.0?classifier=sources
+- pkg:maven/org.mvnpm/skin-tone@4.0.0?classifier=sources

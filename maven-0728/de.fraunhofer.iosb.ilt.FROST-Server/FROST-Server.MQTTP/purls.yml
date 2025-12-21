@@ -102,6 +102,8 @@
 - pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.MQTTP@2.4.6?type=war
 - pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.MQTTP@2.4.7?classifier=sources
 - pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.MQTTP@2.4.7?type=war
+- pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.MQTTP@2.4.8?classifier=sources
+- pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.MQTTP@2.4.8?type=war
 - pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.MQTTP@2.5.0?classifier=sources
 - pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.MQTTP@2.5.0?type=war
 - pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.MQTTP@2.5.1?classifier=sources
@@ -110,3 +112,9 @@
 - pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.MQTTP@2.5.2?type=war
 - pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.MQTTP@2.5.3?classifier=sources
 - pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.MQTTP@2.5.3?type=war
+- pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.MQTTP@2.5.4?classifier=sources
+- pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.MQTTP@2.5.4?type=war
+- pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.MQTTP@2.5.5?classifier=sources
+- pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.MQTTP@2.5.5?type=war
+- pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.MQTTP@2.5.6?classifier=sources
+- pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.MQTTP@2.5.6?type=war

@@ -96,6 +96,8 @@
 - pkg:maven/com.basistech.rosette/rosette-api-json@1.31.0?classifier=sources
 - pkg:maven/com.basistech.rosette/rosette-api-json@1.32.0
 - pkg:maven/com.basistech.rosette/rosette-api-json@1.32.0?classifier=sources
+- pkg:maven/com.basistech.rosette/rosette-api-json@1.33.0
+- pkg:maven/com.basistech.rosette/rosette-api-json@1.33.0?classifier=sources
 - pkg:maven/com.basistech.rosette/rosette-api-json@1.4.12
 - pkg:maven/com.basistech.rosette/rosette-api-json@1.4.12?classifier=sources
 - pkg:maven/com.basistech.rosette/rosette-api-json@1.4.13

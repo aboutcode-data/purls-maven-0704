@@ -1,3 +1,4 @@
+- pkg:maven/org.mvnpm/d3-dispatch@1.0.6?classifier=sources
 - pkg:maven/org.mvnpm/d3-dispatch@2.0.0?classifier=sources
 - pkg:maven/org.mvnpm/d3-dispatch@3.0.0?classifier=sources
 - pkg:maven/org.mvnpm/d3-dispatch@3.0.1?classifier=sources

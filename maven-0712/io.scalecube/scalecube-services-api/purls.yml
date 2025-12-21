@@ -222,6 +222,7 @@
 - pkg:maven/io.scalecube/scalecube-services-api@2.12.3?classifier=sources
 - pkg:maven/io.scalecube/scalecube-services-api@2.12.5
 - pkg:maven/io.scalecube/scalecube-services-api@2.12.5?classifier=sources
+- pkg:maven/io.scalecube/scalecube-services-api@2.12.6
 - pkg:maven/io.scalecube/scalecube-services-api@2.12.6.auth-refactoring.RC1
 - pkg:maven/io.scalecube/scalecube-services-api@2.12.6.auth-refactoring.RC1?classifier=sources
 - pkg:maven/io.scalecube/scalecube-services-api@2.12.6.auth-refactoring.RC2
@@ -230,6 +231,17 @@
 - pkg:maven/io.scalecube/scalecube-services-api@2.12.6.auth-refactoring.RC4?classifier=sources
 - pkg:maven/io.scalecube/scalecube-services-api@2.12.6.auth-refactoring.RC5
 - pkg:maven/io.scalecube/scalecube-services-api@2.12.6.auth-refactoring.RC5?classifier=sources
+- pkg:maven/io.scalecube/scalecube-services-api@2.12.6.better-close.rc1
+- pkg:maven/io.scalecube/scalecube-services-api@2.12.6.better-close.rc1?classifier=sources
+- pkg:maven/io.scalecube/scalecube-services-api@2.12.6?classifier=sources
+- pkg:maven/io.scalecube/scalecube-services-api@2.12.7.auth-refactoring.RC1
+- pkg:maven/io.scalecube/scalecube-services-api@2.12.7.auth-refactoring.RC1?classifier=sources
+- pkg:maven/io.scalecube/scalecube-services-api@2.12.7.auth-refactoring.RC2
+- pkg:maven/io.scalecube/scalecube-services-api@2.12.7.auth-refactoring.RC2?classifier=sources
+- pkg:maven/io.scalecube/scalecube-services-api@2.12.7.auth-refactoring.RC3
+- pkg:maven/io.scalecube/scalecube-services-api@2.12.7.auth-refactoring.RC3?classifier=sources
+- pkg:maven/io.scalecube/scalecube-services-api@2.12.7.auth-refactoring.RC4
+- pkg:maven/io.scalecube/scalecube-services-api@2.12.7.auth-refactoring.RC4?classifier=sources
 - pkg:maven/io.scalecube/scalecube-services-api@2.2.0
 - pkg:maven/io.scalecube/scalecube-services-api@2.2.0?classifier=sources
 - pkg:maven/io.scalecube/scalecube-services-api@2.2.1

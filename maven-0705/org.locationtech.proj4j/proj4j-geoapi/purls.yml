@@ -1,0 +1,2 @@
+- pkg:maven/org.locationtech.proj4j/proj4j-geoapi@1.4.0
+- pkg:maven/org.locationtech.proj4j/proj4j-geoapi@1.4.0?classifier=sources

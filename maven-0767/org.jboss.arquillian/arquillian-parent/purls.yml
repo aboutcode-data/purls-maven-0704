@@ -32,3 +32,4 @@
 - pkg:maven/org.jboss.arquillian/arquillian-parent@1.9.1.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.arquillian/arquillian-parent@1.9.2.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.arquillian/arquillian-parent@1.9.3.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.arquillian/arquillian-parent@1.9.4.Final?classifier=source-release&type=zip

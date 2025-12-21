@@ -59,6 +59,8 @@
 - pkg:maven/com.google.devtools.ksp/symbol-processing-aa@2.1.10-RC-1.0.29?classifier=sources
 - pkg:maven/com.google.devtools.ksp/symbol-processing-aa@2.1.10-RC2-1.0.29?classifier=sources
 - pkg:maven/com.google.devtools.ksp/symbol-processing-aa@2.1.20-1.0.31?classifier=sources
+- pkg:maven/com.google.devtools.ksp/symbol-processing-aa@2.1.20-1.0.32?classifier=sources
+- pkg:maven/com.google.devtools.ksp/symbol-processing-aa@2.1.20-2.0.0?classifier=sources
 - pkg:maven/com.google.devtools.ksp/symbol-processing-aa@2.1.20-Beta1-1.0.29?classifier=sources
 - pkg:maven/com.google.devtools.ksp/symbol-processing-aa@2.1.20-Beta2-1.0.29?classifier=sources
 - pkg:maven/com.google.devtools.ksp/symbol-processing-aa@2.1.20-Beta2-1.0.30?classifier=sources

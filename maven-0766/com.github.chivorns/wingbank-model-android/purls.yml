@@ -12,3 +12,4 @@
 - pkg:maven/com.github.chivorns/wingbank-model-android@2.0.2?classifier=sources
 - pkg:maven/com.github.chivorns/wingbank-model-android@2.0.3-SNAPSHOT-01?classifier=sources
 - pkg:maven/com.github.chivorns/wingbank-model-android@2.0.3-SNAPSHOT-02?classifier=sources
+- pkg:maven/com.github.chivorns/wingbank-model-android@2.0.4?classifier=sources

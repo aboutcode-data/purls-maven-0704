@@ -112,3 +112,5 @@
 - pkg:maven/eu.maveniverse.maven.plugins/toolbox@0.7.0?classifier=sources
 - pkg:maven/eu.maveniverse.maven.plugins/toolbox@0.7.1
 - pkg:maven/eu.maveniverse.maven.plugins/toolbox@0.7.1?classifier=sources
+- pkg:maven/eu.maveniverse.maven.plugins/toolbox@0.7.2
+- pkg:maven/eu.maveniverse.maven.plugins/toolbox@0.7.2?classifier=sources

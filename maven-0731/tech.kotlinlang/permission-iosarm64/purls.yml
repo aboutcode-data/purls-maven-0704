@@ -1,0 +1,3 @@
+- pkg:maven/tech.kotlinlang/permission-iosarm64@0.0.3?classifier=sources
+- pkg:maven/tech.kotlinlang/permission-iosarm64@0.0.4?classifier=sources
+- pkg:maven/tech.kotlinlang/permission-iosarm64@0.0.6?classifier=sources

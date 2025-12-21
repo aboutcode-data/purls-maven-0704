@@ -637,3 +637,5 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-v1@6.9.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-v1@6.9.1
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-v1@6.9.1?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-v1@6.90.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-v1@6.90.0?classifier=sources

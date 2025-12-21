@@ -85,3 +85,5 @@
 - pkg:maven/jakarta.enterprise/cdi-tck-ext-lib@4.1.0.RC1
 - pkg:maven/jakarta.enterprise/cdi-tck-ext-lib@4.1.0.RC1?classifier=sources
 - pkg:maven/jakarta.enterprise/cdi-tck-ext-lib@4.1.0?classifier=sources
+- pkg:maven/jakarta.enterprise/cdi-tck-ext-lib@5.0.0.Alpha1
+- pkg:maven/jakarta.enterprise/cdi-tck-ext-lib@5.0.0.Alpha1?classifier=sources

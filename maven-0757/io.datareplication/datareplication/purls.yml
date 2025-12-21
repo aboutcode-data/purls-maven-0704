@@ -1,0 +1,4 @@
+- pkg:maven/io.datareplication/datareplication@1.0.0-rc1?classifier=sources
+- pkg:maven/io.datareplication/datareplication@1.0.0-rc2?classifier=sources
+- pkg:maven/io.datareplication/datareplication@1.0.0-rc3?classifier=sources
+- pkg:maven/io.datareplication/datareplication@1.0.0?classifier=sources

@@ -1,4 +1,5 @@
 - pkg:maven/org.webjars.npm/react-aria__interactions@3.0.0
+- pkg:maven/org.webjars.npm/react-aria__interactions@3.0.0-nightly.2584
 - pkg:maven/org.webjars.npm/react-aria__interactions@3.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/react-aria__interactions@3.20.1
 - pkg:maven/org.webjars.npm/react-aria__interactions@3.20.1?classifier=sources

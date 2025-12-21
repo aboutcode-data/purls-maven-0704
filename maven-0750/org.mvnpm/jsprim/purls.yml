@@ -1,1 +1,2 @@
+- pkg:maven/org.mvnpm/jsprim@1.4.2?classifier=sources
 - pkg:maven/org.mvnpm/jsprim@2.0.2?classifier=sources

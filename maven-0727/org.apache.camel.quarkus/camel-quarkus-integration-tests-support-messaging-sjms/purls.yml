@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-tests-support-messaging-sjms@3.18.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-tests-support-messaging-sjms@3.19.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-tests-support-messaging-sjms@3.19.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-tests-support-messaging-sjms@3.20.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-tests-support-messaging-sjms@3.20.0?classifier=sources

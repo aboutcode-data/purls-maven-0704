@@ -4,3 +4,5 @@
 - pkg:maven/com.google.apis/google-api-services-bigquerydatapolicy@v1-rev20240122-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-bigquerydatapolicy@v1-rev20240806-2.0.0
 - pkg:maven/com.google.apis/google-api-services-bigquerydatapolicy@v1-rev20240806-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-bigquerydatapolicy@v1-rev20250317-2.0.0
+- pkg:maven/com.google.apis/google-api-services-bigquerydatapolicy@v1-rev20250317-2.0.0?classifier=sources

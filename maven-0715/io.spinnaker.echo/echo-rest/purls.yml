@@ -42,3 +42,8 @@
 - pkg:maven/io.spinnaker.echo/echo-rest@2.44.2?classifier=sources
 - pkg:maven/io.spinnaker.echo/echo-rest@2.44.3?classifier=sources
 - pkg:maven/io.spinnaker.echo/echo-rest@2.44.4?classifier=sources
+- pkg:maven/io.spinnaker.echo/echo-rest@2.44.5?classifier=sources
+- pkg:maven/io.spinnaker.echo/echo-rest@2.44.6?classifier=sources
+- pkg:maven/io.spinnaker.echo/echo-rest@2.45.0?classifier=sources
+- pkg:maven/io.spinnaker.echo/echo-rest@2.46.0?classifier=sources
+- pkg:maven/io.spinnaker.echo/echo-rest@2.47.0?classifier=sources

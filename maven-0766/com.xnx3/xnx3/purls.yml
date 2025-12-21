@@ -1,4 +1,5 @@
 - pkg:maven/com.xnx3/xnx3@2.10?classifier=sources
+- pkg:maven/com.xnx3/xnx3@2.11?classifier=sources
 - pkg:maven/com.xnx3/xnx3@2.3
 - pkg:maven/com.xnx3/xnx3@2.3?classifier=sources
 - pkg:maven/com.xnx3/xnx3@2.5

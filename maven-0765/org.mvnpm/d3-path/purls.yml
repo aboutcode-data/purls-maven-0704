@@ -1,1 +1,2 @@
+- pkg:maven/org.mvnpm/d3-path@1.0.9?classifier=sources
 - pkg:maven/org.mvnpm/d3-path@3.1.0?classifier=sources

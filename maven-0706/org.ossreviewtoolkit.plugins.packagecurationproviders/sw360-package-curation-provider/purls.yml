@@ -78,6 +78,9 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/sw360-package-curation-provider@53.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/sw360-package-curation-provider@54.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/sw360-package-curation-provider@55.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/sw360-package-curation-provider@55.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/sw360-package-curation-provider@55.2.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/sw360-package-curation-provider@55.3.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/sw360-package-curation-provider@6.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/sw360-package-curation-provider@6.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/sw360-package-curation-provider@6.1.1?classifier=sources

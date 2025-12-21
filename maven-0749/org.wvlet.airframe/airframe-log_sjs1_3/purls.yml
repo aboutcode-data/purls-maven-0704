@@ -16,6 +16,8 @@
 - pkg:maven/org.wvlet.airframe/airframe-log_sjs1_3@2025.1.7?classifier=sources
 - pkg:maven/org.wvlet.airframe/airframe-log_sjs1_3@2025.1.8
 - pkg:maven/org.wvlet.airframe/airframe-log_sjs1_3@2025.1.8?classifier=sources
+- pkg:maven/org.wvlet.airframe/airframe-log_sjs1_3@2025.1.9
+- pkg:maven/org.wvlet.airframe/airframe-log_sjs1_3@2025.1.9?classifier=sources
 - pkg:maven/org.wvlet.airframe/airframe-log_sjs1_3@22.10.0
 - pkg:maven/org.wvlet.airframe/airframe-log_sjs1_3@22.10.0?classifier=sources
 - pkg:maven/org.wvlet.airframe/airframe-log_sjs1_3@22.10.1

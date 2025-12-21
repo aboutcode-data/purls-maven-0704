@@ -97,3 +97,4 @@
 - pkg:maven/com.sweetmesoft.kmplibrary/kmplibrary-iosx64@1.5.8?classifier=sources
 - pkg:maven/com.sweetmesoft.kmplibrary/kmplibrary-iosx64@1.5.9?classifier=sources
 - pkg:maven/com.sweetmesoft.kmplibrary/kmplibrary-iosx64@1.6.0?classifier=sources
+- pkg:maven/com.sweetmesoft.kmplibrary/kmplibrary-iosx64@1.6.1?classifier=sources

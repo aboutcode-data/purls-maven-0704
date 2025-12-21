@@ -1,0 +1,2 @@
+- pkg:maven/dev.bpm-crafters.process-engine-adapters/process-engine-adapter-camunda-platform-c7-remote-spring-boot-starter@2025.04.1
+- pkg:maven/dev.bpm-crafters.process-engine-adapters/process-engine-adapter-camunda-platform-c7-remote-spring-boot-starter@2025.04.1?classifier=sources

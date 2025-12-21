@@ -6,3 +6,4 @@
 - pkg:maven/com.hcl.commerce/hcl-cache-core@9.1.15.2?classifier=sources
 - pkg:maven/com.hcl.commerce/hcl-cache-core@9.1.16.0?classifier=sources
 - pkg:maven/com.hcl.commerce/hcl-cache-core@9.1.17.0?classifier=sources
+- pkg:maven/com.hcl.commerce/hcl-cache-core@9.1.18.0?classifier=sources

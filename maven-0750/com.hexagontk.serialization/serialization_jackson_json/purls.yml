@@ -8,3 +8,5 @@
 - pkg:maven/com.hexagontk.serialization/serialization_jackson_json@4.0.2?classifier=sources
 - pkg:maven/com.hexagontk.serialization/serialization_jackson_json@4.0.3?classifier=sources
 - pkg:maven/com.hexagontk.serialization/serialization_jackson_json@4.0.4?classifier=sources
+- pkg:maven/com.hexagontk.serialization/serialization_jackson_json@4.1.0?classifier=sources
+- pkg:maven/com.hexagontk.serialization/serialization_jackson_json@4.1.1?classifier=sources

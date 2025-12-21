@@ -4,3 +4,5 @@
 - pkg:maven/net.microfalx.talos/talos-junit@0.8.4?classifier=sources
 - pkg:maven/net.microfalx.talos/talos-junit@1.0.0
 - pkg:maven/net.microfalx.talos/talos-junit@1.0.0?classifier=sources
+- pkg:maven/net.microfalx.talos/talos-junit@1.0.1
+- pkg:maven/net.microfalx.talos/talos-junit@1.0.1?classifier=sources

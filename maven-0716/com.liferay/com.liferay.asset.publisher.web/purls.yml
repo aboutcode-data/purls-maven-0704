@@ -620,6 +620,7 @@
 - pkg:maven/com.liferay/com.liferay.asset.publisher.web@2.0.13?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.publisher.web@2.0.14
 - pkg:maven/com.liferay/com.liferay.asset.publisher.web@2.0.140?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.publisher.web@2.0.141?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.publisher.web@2.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.publisher.web@2.0.14?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.publisher.web@2.0.15
@@ -1081,6 +1082,7 @@
 - pkg:maven/com.liferay/com.liferay.asset.publisher.web@3.0.152?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.publisher.web@3.0.153?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.publisher.web@3.0.154?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.publisher.web@3.0.155?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.publisher.web@3.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.publisher.web@3.0.15?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.publisher.web@3.0.16
@@ -1423,6 +1425,7 @@
 - pkg:maven/com.liferay/com.liferay.asset.publisher.web@4.0.121?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.publisher.web@4.0.122?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.publisher.web@4.0.123?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.publisher.web@4.0.124?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.publisher.web@4.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.publisher.web@4.0.12?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.publisher.web@4.0.13
@@ -1806,6 +1809,7 @@
 - pkg:maven/com.liferay/com.liferay.asset.publisher.web@5.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.publisher.web@5.0.14?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.publisher.web@5.0.15
+- pkg:maven/com.liferay/com.liferay.asset.publisher.web@5.0.150?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.publisher.web@5.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.publisher.web@5.0.15?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.publisher.web@5.0.16

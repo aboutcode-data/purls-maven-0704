@@ -368,3 +368,7 @@
 - pkg:maven/com.commercetools.rmf/java-base@1.0.0-20250304145154?classifier=sources
 - pkg:maven/com.commercetools.rmf/java-base@1.0.0-20250305131617?classifier=sources
 - pkg:maven/com.commercetools.rmf/java-base@1.0.0-20250306135546?classifier=sources
+- pkg:maven/com.commercetools.rmf/java-base@1.0.0-20250325121204?classifier=sources
+- pkg:maven/com.commercetools.rmf/java-base@1.0.0-20250331204200?classifier=sources
+- pkg:maven/com.commercetools.rmf/java-base@1.0.0-20250401053655?classifier=sources
+- pkg:maven/com.commercetools.rmf/java-base@1.0.0-20250403113703?classifier=sources

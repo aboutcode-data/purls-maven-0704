@@ -360,6 +360,9 @@
 - pkg:maven/io.branch.sdk.android/library@5.15.0?classifier=sources
 - pkg:maven/io.branch.sdk.android/library@5.15.1?classifier=sources
 - pkg:maven/io.branch.sdk.android/library@5.15.2?classifier=sources
+- pkg:maven/io.branch.sdk.android/library@5.16.0?classifier=sources
+- pkg:maven/io.branch.sdk.android/library@5.16.1?classifier=sources
+- pkg:maven/io.branch.sdk.android/library@5.16.2?classifier=sources
 - pkg:maven/io.branch.sdk.android/library@5.2.0?classifier=sources
 - pkg:maven/io.branch.sdk.android/library@5.2.0?type=aar
 - pkg:maven/io.branch.sdk.android/library@5.2.1?classifier=sources

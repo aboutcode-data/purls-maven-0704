@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/svgo@0.7.2?classifier=sources
+- pkg:maven/org.mvnpm/svgo@3.3.2?classifier=sources

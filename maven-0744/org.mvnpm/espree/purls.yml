@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm/espree@10.3.0?classifier=sources
+- pkg:maven/org.mvnpm/espree@9.6.1?classifier=sources

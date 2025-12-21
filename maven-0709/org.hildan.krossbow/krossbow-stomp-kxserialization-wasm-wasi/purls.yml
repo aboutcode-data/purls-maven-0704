@@ -3,3 +3,5 @@
 - pkg:maven/org.hildan.krossbow/krossbow-stomp-kxserialization-wasm-wasi@8.2.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-stomp-kxserialization-wasm-wasi@9.0.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-stomp-kxserialization-wasm-wasi@9.1.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-stomp-kxserialization-wasm-wasi@9.2.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-stomp-kxserialization-wasm-wasi@9.3.0?classifier=sources

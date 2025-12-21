@@ -29,3 +29,9 @@
 - pkg:maven/it.unibo.alchemist/alchemist-maintenance-tooling-js@41.0.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-maintenance-tooling-js@42.0.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-maintenance-tooling-js@42.0.1?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-maintenance-tooling-js@42.0.2?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-maintenance-tooling-js@42.0.3?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-maintenance-tooling-js@42.0.4?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-maintenance-tooling-js@42.0.5?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-maintenance-tooling-js@42.0.6?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-maintenance-tooling-js@42.0.7?classifier=sources

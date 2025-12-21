@@ -73,3 +73,4 @@
 - pkg:maven/org.jboss.pnc/bpm@3.0.2?classifier=sources
 - pkg:maven/org.jboss.pnc/bpm@3.0.3?classifier=sources
 - pkg:maven/org.jboss.pnc/bpm@3.0.4?classifier=sources
+- pkg:maven/org.jboss.pnc/bpm@3.1.4?classifier=sources

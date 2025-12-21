@@ -1,1 +1,4 @@
+- pkg:maven/org.mvnpm/jsdom@0.2.19?classifier=sources
+- pkg:maven/org.mvnpm/jsdom@16.7.0?classifier=sources
+- pkg:maven/org.mvnpm/jsdom@20.0.3?classifier=sources
 - pkg:maven/org.mvnpm/jsdom@26.0.0?classifier=sources

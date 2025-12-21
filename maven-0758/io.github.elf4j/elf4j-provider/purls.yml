@@ -48,6 +48,8 @@
 - pkg:maven/io.github.elf4j/elf4j-provider@13.2.2?classifier=sources
 - pkg:maven/io.github.elf4j/elf4j-provider@14.0.0
 - pkg:maven/io.github.elf4j/elf4j-provider@14.0.0?classifier=sources
+- pkg:maven/io.github.elf4j/elf4j-provider@15.0.0
+- pkg:maven/io.github.elf4j/elf4j-provider@15.0.0?classifier=sources
 - pkg:maven/io.github.elf4j/elf4j-provider@2.0.0
 - pkg:maven/io.github.elf4j/elf4j-provider@2.0.0?classifier=sources
 - pkg:maven/io.github.elf4j/elf4j-provider@2.0.1

@@ -550,3 +550,5 @@
 - pkg:maven/com.vaadin/vaadin-gradle-plugin@24.6.7?classifier=sources
 - pkg:maven/com.vaadin/vaadin-gradle-plugin@24.7.0
 - pkg:maven/com.vaadin/vaadin-gradle-plugin@24.7.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-gradle-plugin@24.7.1
+- pkg:maven/com.vaadin/vaadin-gradle-plugin@24.7.1?classifier=sources

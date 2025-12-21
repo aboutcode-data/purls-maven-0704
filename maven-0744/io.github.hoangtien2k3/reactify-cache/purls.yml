@@ -1,1 +1,4 @@
 - pkg:maven/io.github.hoangtien2k3/reactify-cache@1.1.8?classifier=sources
+- pkg:maven/io.github.hoangtien2k3/reactify-cache@1.2.3?classifier=sources
+- pkg:maven/io.github.hoangtien2k3/reactify-cache@1.2.4?classifier=sources
+- pkg:maven/io.github.hoangtien2k3/reactify-cache@1.2.6?classifier=sources

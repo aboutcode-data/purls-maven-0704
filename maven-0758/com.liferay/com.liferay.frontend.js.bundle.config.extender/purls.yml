@@ -146,6 +146,7 @@
 - pkg:maven/com.liferay/com.liferay.frontend.js.bundle.config.extender@2.0.23
 - pkg:maven/com.liferay/com.liferay.frontend.js.bundle.config.extender@2.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.bundle.config.extender@2.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.js.bundle.config.extender@2.0.25?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.bundle.config.extender@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.bundle.config.extender@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.js.bundle.config.extender@2.0.3
@@ -221,6 +222,7 @@
 - pkg:maven/com.liferay/com.liferay.frontend.js.bundle.config.extender@3.0.24
 - pkg:maven/com.liferay/com.liferay.frontend.js.bundle.config.extender@3.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.bundle.config.extender@3.0.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.js.bundle.config.extender@3.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.bundle.config.extender@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.bundle.config.extender@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.js.bundle.config.extender@3.0.3
@@ -287,6 +289,7 @@
 - pkg:maven/com.liferay/com.liferay.frontend.js.bundle.config.extender@4.0.21
 - pkg:maven/com.liferay/com.liferay.frontend.js.bundle.config.extender@4.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.bundle.config.extender@4.0.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.js.bundle.config.extender@4.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.bundle.config.extender@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.bundle.config.extender@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.js.bundle.config.extender@4.0.3

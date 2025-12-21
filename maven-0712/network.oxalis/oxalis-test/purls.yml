@@ -52,6 +52,10 @@
 - pkg:maven/network.oxalis/oxalis-test@6.6.0?classifier=sources
 - pkg:maven/network.oxalis/oxalis-test@6.7.0
 - pkg:maven/network.oxalis/oxalis-test@6.7.0?classifier=sources
+- pkg:maven/network.oxalis/oxalis-test@6.8.0-RC1
+- pkg:maven/network.oxalis/oxalis-test@6.8.0-RC1?classifier=sources
+- pkg:maven/network.oxalis/oxalis-test@6.8.0-RC3
+- pkg:maven/network.oxalis/oxalis-test@6.8.0-RC3?classifier=sources
 - pkg:maven/network.oxalis/oxalis-test@7.0.0
 - pkg:maven/network.oxalis/oxalis-test@7.0.0-RC1
 - pkg:maven/network.oxalis/oxalis-test@7.0.0-RC1?classifier=sources

@@ -7,3 +7,4 @@
 - pkg:maven/org.mvnpm.at.babel/preset-typescript@7.25.7?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/preset-typescript@7.25.9?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/preset-typescript@7.26.0?classifier=sources
+- pkg:maven/org.mvnpm.at.babel/preset-typescript@7.27.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/ru.vladislavsumin.core.factory-generator/api-iosarm64@0.0.3?classifier=sources
+- pkg:maven/ru.vladislavsumin.core.factory-generator/api-iosarm64@0.0.4?classifier=sources

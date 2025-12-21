@@ -217,3 +217,4 @@
 - pkg:maven/com.vaadin/vaadin-quarkus-extension@24.6.6
 - pkg:maven/com.vaadin/vaadin-quarkus-extension@24.6.7
 - pkg:maven/com.vaadin/vaadin-quarkus-extension@24.7.0
+- pkg:maven/com.vaadin/vaadin-quarkus-extension@24.7.1

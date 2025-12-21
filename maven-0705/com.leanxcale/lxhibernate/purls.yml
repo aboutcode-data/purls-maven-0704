@@ -28,3 +28,9 @@
 - pkg:maven/com.leanxcale/lxhibernate@2.3.2410041530?classifier=sources
 - pkg:maven/com.leanxcale/lxhibernate@2.5.2502191324
 - pkg:maven/com.leanxcale/lxhibernate@2.5.2502191324?classifier=sources
+- pkg:maven/com.leanxcale/lxhibernate@2.7.2504081031
+- pkg:maven/com.leanxcale/lxhibernate@2.7.2504081031?classifier=sources
+- pkg:maven/com.leanxcale/lxhibernate@2.7.2504091103
+- pkg:maven/com.leanxcale/lxhibernate@2.7.2504091103?classifier=sources
+- pkg:maven/com.leanxcale/lxhibernate@2.7.2504091220
+- pkg:maven/com.leanxcale/lxhibernate@2.7.2504091220?classifier=sources

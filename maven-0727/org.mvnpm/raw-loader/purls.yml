@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm/raw-loader@0.5.1?classifier=sources
+- pkg:maven/org.mvnpm/raw-loader@4.0.2?classifier=sources
