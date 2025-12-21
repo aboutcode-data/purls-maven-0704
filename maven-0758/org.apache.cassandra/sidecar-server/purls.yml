@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.cassandra/sidecar-server@0.1.0?classifier=sources

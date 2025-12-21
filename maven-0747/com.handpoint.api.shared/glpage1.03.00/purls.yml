@@ -164,3 +164,5 @@
 - pkg:maven/com.handpoint.api.shared/glpage1.03.00@7.1009.1?type=aar
 - pkg:maven/com.handpoint.api.shared/glpage1.03.00@7.1009.4?classifier=sources
 - pkg:maven/com.handpoint.api.shared/glpage1.03.00@7.1009.4?type=aar
+- pkg:maven/com.handpoint.api.shared/glpage1.03.00@7.1009.5?classifier=sources
+- pkg:maven/com.handpoint.api.shared/glpage1.03.00@7.1009.5?type=aar

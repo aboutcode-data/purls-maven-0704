@@ -1,0 +1,2 @@
+- pkg:maven/cloud.huazai.component/component-objectstorage-spring-boot-starter@2.0.0?classifier=sources
+- pkg:maven/cloud.huazai.component/component-objectstorage-spring-boot-starter@2.1.0?classifier=sources

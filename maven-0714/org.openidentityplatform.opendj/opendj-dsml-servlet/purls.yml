@@ -60,3 +60,5 @@
 - pkg:maven/org.openidentityplatform.opendj/opendj-dsml-servlet@4.9.1?type=war
 - pkg:maven/org.openidentityplatform.opendj/opendj-dsml-servlet@4.9.2?classifier=sources
 - pkg:maven/org.openidentityplatform.opendj/opendj-dsml-servlet@4.9.2?type=war
+- pkg:maven/org.openidentityplatform.opendj/opendj-dsml-servlet@4.9.3?classifier=sources
+- pkg:maven/org.openidentityplatform.opendj/opendj-dsml-servlet@4.9.3?type=war

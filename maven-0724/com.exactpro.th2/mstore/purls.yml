@@ -1,4 +1,5 @@
 - pkg:maven/com.exactpro.th2/mstore@5.1.0-dev?classifier=sources
+- pkg:maven/com.exactpro.th2/mstore@5.10.0-dev?classifier=sources
 - pkg:maven/com.exactpro.th2/mstore@5.2.0-dev?classifier=sources
 - pkg:maven/com.exactpro.th2/mstore@5.2.1-dev?classifier=sources
 - pkg:maven/com.exactpro.th2/mstore@5.2.2-dev?classifier=sources

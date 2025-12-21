@@ -4,3 +4,5 @@
 - pkg:maven/io.github.the-best-is-best/klocal-notification-iosarm64@1.0.0-4-rc?classifier=sources
 - pkg:maven/io.github.the-best-is-best/klocal-notification-iosarm64@1.0.0-5-rc?classifier=sources
 - pkg:maven/io.github.the-best-is-best/klocal-notification-iosarm64@1.0.0-6-rc?classifier=sources
+- pkg:maven/io.github.the-best-is-best/klocal-notification-iosarm64@1.0.0?classifier=sources
+- pkg:maven/io.github.the-best-is-best/klocal-notification-iosarm64@1.0.1?classifier=sources

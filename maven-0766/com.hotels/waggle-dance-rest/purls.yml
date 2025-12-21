@@ -136,3 +136,5 @@
 - pkg:maven/com.hotels/waggle-dance-rest@3.9.8?classifier=sources
 - pkg:maven/com.hotels/waggle-dance-rest@3.9.9
 - pkg:maven/com.hotels/waggle-dance-rest@3.9.9?classifier=sources
+- pkg:maven/com.hotels/waggle-dance-rest@4.0.0
+- pkg:maven/com.hotels/waggle-dance-rest@4.0.0?classifier=sources

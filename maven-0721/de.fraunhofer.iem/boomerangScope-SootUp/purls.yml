@@ -1,0 +1,2 @@
+- pkg:maven/de.fraunhofer.iem/boomerangScope-SootUp@4.0.0
+- pkg:maven/de.fraunhofer.iem/boomerangScope-SootUp@4.0.0?classifier=sources

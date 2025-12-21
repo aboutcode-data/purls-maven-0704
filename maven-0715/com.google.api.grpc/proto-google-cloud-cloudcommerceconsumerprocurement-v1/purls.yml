@@ -64,3 +64,7 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-cloudcommerceconsumerprocurement-v1@0.55.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-cloudcommerceconsumerprocurement-v1@0.56.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-cloudcommerceconsumerprocurement-v1@0.56.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-cloudcommerceconsumerprocurement-v1@0.57.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-cloudcommerceconsumerprocurement-v1@0.57.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-cloudcommerceconsumerprocurement-v1@0.58.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-cloudcommerceconsumerprocurement-v1@0.58.0?classifier=sources

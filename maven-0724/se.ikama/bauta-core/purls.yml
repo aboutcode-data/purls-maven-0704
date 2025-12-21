@@ -132,3 +132,7 @@
 - pkg:maven/se.ikama/bauta-core@0.0.8?classifier=sources
 - pkg:maven/se.ikama/bauta-core@0.0.9
 - pkg:maven/se.ikama/bauta-core@0.0.9?classifier=sources
+- pkg:maven/se.ikama/bauta-core@2.0.0
+- pkg:maven/se.ikama/bauta-core@2.0.0?classifier=sources
+- pkg:maven/se.ikama/bauta-core@2.0.1
+- pkg:maven/se.ikama/bauta-core@2.0.1?classifier=sources

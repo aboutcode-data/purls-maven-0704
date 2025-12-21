@@ -75,6 +75,10 @@
 - pkg:maven/io.evitadb/jacoco@2024.12.0
 - pkg:maven/io.evitadb/jacoco@2024.12.0?classifier=sources
 - pkg:maven/io.evitadb/jacoco@2024.12.1
+- pkg:maven/io.evitadb/jacoco@2024.12.10
+- pkg:maven/io.evitadb/jacoco@2024.12.10?classifier=sources
+- pkg:maven/io.evitadb/jacoco@2024.12.11
+- pkg:maven/io.evitadb/jacoco@2024.12.11?classifier=sources
 - pkg:maven/io.evitadb/jacoco@2024.12.1?classifier=sources
 - pkg:maven/io.evitadb/jacoco@2024.12.2
 - pkg:maven/io.evitadb/jacoco@2024.12.2?classifier=sources
@@ -90,6 +94,8 @@
 - pkg:maven/io.evitadb/jacoco@2024.12.7?classifier=sources
 - pkg:maven/io.evitadb/jacoco@2024.12.8
 - pkg:maven/io.evitadb/jacoco@2024.12.8?classifier=sources
+- pkg:maven/io.evitadb/jacoco@2024.12.9
+- pkg:maven/io.evitadb/jacoco@2024.12.9?classifier=sources
 - pkg:maven/io.evitadb/jacoco@2024.2.0
 - pkg:maven/io.evitadb/jacoco@2024.2.0?classifier=sources
 - pkg:maven/io.evitadb/jacoco@2024.2.1

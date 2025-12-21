@@ -3,3 +3,5 @@
 - pkg:maven/org.virtuslab/pulumi-keycloak-kotlin@5.3.2.1?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-keycloak-kotlin@5.3.4.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-keycloak-kotlin@5.4.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-keycloak-kotlin@6.1.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-keycloak-kotlin@6.2.1.0?classifier=sources

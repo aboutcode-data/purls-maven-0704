@@ -246,3 +246,7 @@
 - pkg:maven/com.google.cloud/google-cloud-phishingprotection@0.89.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-phishingprotection@0.9.0
 - pkg:maven/com.google.cloud/google-cloud-phishingprotection@0.9.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-phishingprotection@0.90.0
+- pkg:maven/com.google.cloud/google-cloud-phishingprotection@0.90.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-phishingprotection@0.91.0
+- pkg:maven/com.google.cloud/google-cloud-phishingprotection@0.91.0?classifier=sources

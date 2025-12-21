@@ -1,0 +1,2 @@
+- pkg:maven/com.i360day/spring-boot-starter-amqp-invoker@3.0.0
+- pkg:maven/com.i360day/spring-boot-starter-amqp-invoker@3.0.0?classifier=sources

@@ -114,3 +114,9 @@
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-dataquality-grammar@4.70.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-dataquality-grammar@4.70.1
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-dataquality-grammar@4.70.1?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-dataquality-grammar@4.71.1
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-dataquality-grammar@4.71.1?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-dataquality-grammar@4.72.0
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-dataquality-grammar@4.72.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-dataquality-grammar@4.73.0
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-dataquality-grammar@4.73.0?classifier=sources

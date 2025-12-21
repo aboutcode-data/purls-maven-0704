@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm.at.babel/plugin-transform-for-of@7.22.15?classifier=sources
+- pkg:maven/org.mvnpm.at.babel/plugin-transform-for-of@7.26.9?classifier=sources

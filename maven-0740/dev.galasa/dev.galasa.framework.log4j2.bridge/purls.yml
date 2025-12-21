@@ -5,3 +5,4 @@
 - pkg:maven/dev.galasa/dev.galasa.framework.log4j2.bridge@0.25.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.framework.log4j2.bridge@0.38.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.framework.log4j2.bridge@0.39.0?classifier=sources
+- pkg:maven/dev.galasa/dev.galasa.framework.log4j2.bridge@0.40.0?classifier=sources

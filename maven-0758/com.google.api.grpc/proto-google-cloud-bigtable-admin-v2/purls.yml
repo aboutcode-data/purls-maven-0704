@@ -474,6 +474,14 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-bigtable-admin-v2@2.51.2?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-bigtable-admin-v2@2.52.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-bigtable-admin-v2@2.52.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-bigtable-admin-v2@2.53.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-bigtable-admin-v2@2.53.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-bigtable-admin-v2@2.54.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-bigtable-admin-v2@2.54.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-bigtable-admin-v2@2.55.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-bigtable-admin-v2@2.55.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-bigtable-admin-v2@2.56.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-bigtable-admin-v2@2.56.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-bigtable-admin-v2@2.6.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-bigtable-admin-v2@2.6.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-bigtable-admin-v2@2.6.1

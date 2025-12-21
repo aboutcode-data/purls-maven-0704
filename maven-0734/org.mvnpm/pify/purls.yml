@@ -1,3 +1,4 @@
 - pkg:maven/org.mvnpm/pify@2.3.0?classifier=sources
+- pkg:maven/org.mvnpm/pify@3.0.0?classifier=sources
 - pkg:maven/org.mvnpm/pify@4.0.1?classifier=sources
 - pkg:maven/org.mvnpm/pify@6.1.0?classifier=sources

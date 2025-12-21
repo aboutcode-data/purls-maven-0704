@@ -4,6 +4,8 @@
 - pkg:maven/com.chuusai/shapeless_sjs1_2.13@2.3.11?classifier=sources
 - pkg:maven/com.chuusai/shapeless_sjs1_2.13@2.3.12
 - pkg:maven/com.chuusai/shapeless_sjs1_2.13@2.3.12?classifier=sources
+- pkg:maven/com.chuusai/shapeless_sjs1_2.13@2.3.13
+- pkg:maven/com.chuusai/shapeless_sjs1_2.13@2.3.13?classifier=sources
 - pkg:maven/com.chuusai/shapeless_sjs1_2.13@2.3.3
 - pkg:maven/com.chuusai/shapeless_sjs1_2.13@2.3.3?classifier=sources
 - pkg:maven/com.chuusai/shapeless_sjs1_2.13@2.3.4

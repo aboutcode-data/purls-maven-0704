@@ -1,0 +1,2 @@
+- pkg:maven/com.volcengine/volcengine-java-sdk-clouddetect@0.1.157
+- pkg:maven/com.volcengine/volcengine-java-sdk-clouddetect@0.1.157?classifier=sources

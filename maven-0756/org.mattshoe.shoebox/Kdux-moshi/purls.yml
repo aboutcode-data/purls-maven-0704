@@ -1,1 +1,2 @@
 - pkg:maven/org.mattshoe.shoebox/Kdux-moshi@1.0.10?classifier=sources
+- pkg:maven/org.mattshoe.shoebox/Kdux-moshi@1.0.11?classifier=sources

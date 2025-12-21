@@ -35,6 +35,8 @@
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@10.2.2-m01?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@10.2.2-m02-BAM-14706-2?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@10.2.2-m02-BAM-14706-3?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-api@10.2.2?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-api@10.2.3-m01?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@5.16.33
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@5.16.33?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@6.0.0
@@ -282,6 +284,10 @@
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@9.2.20?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@9.2.21?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@9.2.22?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-api@9.2.23?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-api@9.2.24-rc1?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-api@9.2.24-rc2?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-api@9.2.24?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@9.2.2?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@9.2.3?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@9.2.4?classifier=sources
@@ -312,6 +318,7 @@
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@9.5.4?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@9.6.0?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@9.6.10?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-api@9.6.11?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@9.6.1?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@9.6.2?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-api@9.6.3?classifier=sources

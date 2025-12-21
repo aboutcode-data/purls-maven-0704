@@ -68,4 +68,8 @@
 - pkg:maven/com.thoughtworks.paranamer/paranamer-generator@2.8
 - pkg:maven/com.thoughtworks.paranamer/paranamer-generator@2.8.1
 - pkg:maven/com.thoughtworks.paranamer/paranamer-generator@2.8.1?classifier=sources
+- pkg:maven/com.thoughtworks.paranamer/paranamer-generator@2.8.2
+- pkg:maven/com.thoughtworks.paranamer/paranamer-generator@2.8.2?classifier=sources
+- pkg:maven/com.thoughtworks.paranamer/paranamer-generator@2.8.3
+- pkg:maven/com.thoughtworks.paranamer/paranamer-generator@2.8.3?classifier=sources
 - pkg:maven/com.thoughtworks.paranamer/paranamer-generator@2.8?classifier=sources

@@ -3,6 +3,7 @@
 - pkg:maven/org.webjars.npm/vega-encode@3.2.2
 - pkg:maven/org.webjars.npm/vega-encode@3.2.2?classifier=sources
 - pkg:maven/org.webjars.npm/vega-encode@4.10.1
+- pkg:maven/org.webjars.npm/vega-encode@4.10.2
 - pkg:maven/org.webjars.npm/vega-encode@4.5.2
 - pkg:maven/org.webjars.npm/vega-encode@4.5.2?classifier=sources
 - pkg:maven/org.webjars.npm/vega-encode@4.8.2

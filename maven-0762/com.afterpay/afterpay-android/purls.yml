@@ -27,3 +27,6 @@
 - pkg:maven/com.afterpay/afterpay-android@4.5.0?classifier=sources
 - pkg:maven/com.afterpay/afterpay-android@4.5.1?classifier=sources
 - pkg:maven/com.afterpay/afterpay-android@4.7.0?classifier=sources
+- pkg:maven/com.afterpay/afterpay-android@4.8.0?classifier=sources
+- pkg:maven/com.afterpay/afterpay-android@4.8.1?classifier=sources
+- pkg:maven/com.afterpay/afterpay-android@4.8.2?classifier=sources

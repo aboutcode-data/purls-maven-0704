@@ -1,0 +1,2 @@
+- pkg:maven/io.helidon.integrations.crac/helidon-integrations-crac@4.2.0
+- pkg:maven/io.helidon.integrations.crac/helidon-integrations-crac@4.2.0?classifier=sources

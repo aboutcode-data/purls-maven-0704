@@ -3,3 +3,4 @@
 - pkg:maven/io.rsocket.kotlin/rsocket-transport-local@0.14.3?classifier=sources
 - pkg:maven/io.rsocket.kotlin/rsocket-transport-local@0.15.4?classifier=sources
 - pkg:maven/io.rsocket.kotlin/rsocket-transport-local@0.16.0?classifier=sources
+- pkg:maven/io.rsocket.kotlin/rsocket-transport-local@0.20.0?classifier=sources

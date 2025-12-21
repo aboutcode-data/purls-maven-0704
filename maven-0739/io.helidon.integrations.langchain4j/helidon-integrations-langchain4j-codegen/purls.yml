@@ -1,0 +1,2 @@
+- pkg:maven/io.helidon.integrations.langchain4j/helidon-integrations-langchain4j-codegen@4.2.0
+- pkg:maven/io.helidon.integrations.langchain4j/helidon-integrations-langchain4j-codegen@4.2.0?classifier=sources

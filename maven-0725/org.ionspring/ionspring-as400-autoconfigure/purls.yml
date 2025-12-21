@@ -1,1 +1,2 @@
 - pkg:maven/org.ionspring/ionspring-as400-autoconfigure@0.1.0?classifier=sources
+- pkg:maven/org.ionspring/ionspring-as400-autoconfigure@0.1.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-rt-management@3.19.0?classifier=sources
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-rt-management@3.20.0.CR1?classifier=sources

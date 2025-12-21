@@ -1,8 +1,15 @@
 - pkg:maven/org.mvnpm.at.types/node@11.10.6?classifier=sources
+- pkg:maven/org.mvnpm.at.types/node@17.0.45?classifier=sources
 - pkg:maven/org.mvnpm.at.types/node@18.19.42?classifier=sources
 - pkg:maven/org.mvnpm.at.types/node@20.0.0?classifier=sources
 - pkg:maven/org.mvnpm.at.types/node@20.12.10?classifier=sources
 - pkg:maven/org.mvnpm.at.types/node@20.12.7?classifier=sources
 - pkg:maven/org.mvnpm.at.types/node@22.0.0?classifier=sources
 - pkg:maven/org.mvnpm.at.types/node@22.12.0?classifier=sources
+- pkg:maven/org.mvnpm.at.types/node@22.13.10?classifier=sources
+- pkg:maven/org.mvnpm.at.types/node@22.13.5?classifier=sources
+- pkg:maven/org.mvnpm.at.types/node@22.13.6?classifier=sources
+- pkg:maven/org.mvnpm.at.types/node@22.13.7?classifier=sources
+- pkg:maven/org.mvnpm.at.types/node@22.13.8?classifier=sources
+- pkg:maven/org.mvnpm.at.types/node@22.13.9?classifier=sources
 - pkg:maven/org.mvnpm.at.types/node@22.9.0?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/io.debezium/debezium-platform-conductor@3.1.0.Beta1?classifier=sources

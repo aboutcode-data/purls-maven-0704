@@ -7,3 +7,5 @@
 - pkg:maven/com.hivemq/hivemq-edge-adapter-sdk@2025.1?classifier=sources
 - pkg:maven/com.hivemq/hivemq-edge-adapter-sdk@2025.2?classifier=sources
 - pkg:maven/com.hivemq/hivemq-edge-adapter-sdk@2025.3?classifier=sources
+- pkg:maven/com.hivemq/hivemq-edge-adapter-sdk@2025.4-rc?classifier=sources
+- pkg:maven/com.hivemq/hivemq-edge-adapter-sdk@2025.4?classifier=sources

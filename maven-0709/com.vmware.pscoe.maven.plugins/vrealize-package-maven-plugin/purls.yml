@@ -50,3 +50,5 @@
 - pkg:maven/com.vmware.pscoe.maven.plugins/vrealize-package-maven-plugin@4.1.0?classifier=sources
 - pkg:maven/com.vmware.pscoe.maven.plugins/vrealize-package-maven-plugin@4.2.0
 - pkg:maven/com.vmware.pscoe.maven.plugins/vrealize-package-maven-plugin@4.2.0?classifier=sources
+- pkg:maven/com.vmware.pscoe.maven.plugins/vrealize-package-maven-plugin@4.2.1
+- pkg:maven/com.vmware.pscoe.maven.plugins/vrealize-package-maven-plugin@4.2.1?classifier=sources

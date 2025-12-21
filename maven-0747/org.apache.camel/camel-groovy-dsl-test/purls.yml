@@ -108,6 +108,8 @@
 - pkg:maven/org.apache.camel/camel-groovy-dsl-test@3.22.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-groovy-dsl-test@3.22.3
 - pkg:maven/org.apache.camel/camel-groovy-dsl-test@3.22.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-groovy-dsl-test@3.22.4
+- pkg:maven/org.apache.camel/camel-groovy-dsl-test@3.22.4?classifier=sources
 - pkg:maven/org.apache.camel/camel-groovy-dsl-test@4.0.0
 - pkg:maven/org.apache.camel/camel-groovy-dsl-test@4.0.0-M1
 - pkg:maven/org.apache.camel/camel-groovy-dsl-test@4.0.0-M1?classifier=sources
@@ -164,3 +166,7 @@
 - pkg:maven/org.apache.camel/camel-groovy-dsl-test@4.8.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-groovy-dsl-test@4.8.3
 - pkg:maven/org.apache.camel/camel-groovy-dsl-test@4.8.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-groovy-dsl-test@4.8.4
+- pkg:maven/org.apache.camel/camel-groovy-dsl-test@4.8.4?classifier=sources
+- pkg:maven/org.apache.camel/camel-groovy-dsl-test@4.8.5
+- pkg:maven/org.apache.camel/camel-groovy-dsl-test@4.8.5?classifier=sources

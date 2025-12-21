@@ -67,6 +67,8 @@
 - pkg:maven/com.azure/azure-sdk-template@1.2.1-alpha.20240314.11?classifier=sources
 - pkg:maven/com.azure/azure-sdk-template@1.2.1-alpha.20240314.9?classifier=sources
 - pkg:maven/com.azure/azure-sdk-template@1.2.1-alpha.20240315.3?classifier=sources
+- pkg:maven/com.azure/azure-sdk-template@1.2.1-alpha.20250228.2?classifier=sources
+- pkg:maven/com.azure/azure-sdk-template@1.2.1-alpha.20250303.2?classifier=sources
 - pkg:maven/com.azure/azure-sdk-template@1.2.1-beta.1
 - pkg:maven/com.azure/azure-sdk-template@1.2.1-beta.10
 - pkg:maven/com.azure/azure-sdk-template@1.2.1-beta.1001?classifier=sources
@@ -575,6 +577,13 @@
 - pkg:maven/com.azure/azure-sdk-template@1.2.1-beta.4574287?classifier=sources
 - pkg:maven/com.azure/azure-sdk-template@1.2.1-beta.4581290?classifier=sources
 - pkg:maven/com.azure/azure-sdk-template@1.2.1-beta.4581777?classifier=sources
+- pkg:maven/com.azure/azure-sdk-template@1.2.1-beta.4603222?classifier=sources
+- pkg:maven/com.azure/azure-sdk-template@1.2.1-beta.4606758?classifier=sources
+- pkg:maven/com.azure/azure-sdk-template@1.2.1-beta.4607111?classifier=sources
+- pkg:maven/com.azure/azure-sdk-template@1.2.1-beta.4611599?classifier=sources
+- pkg:maven/com.azure/azure-sdk-template@1.2.1-beta.4612367?classifier=sources
+- pkg:maven/com.azure/azure-sdk-template@1.2.1-beta.4649064?classifier=sources
+- pkg:maven/com.azure/azure-sdk-template@1.2.1-beta.4649996?classifier=sources
 - pkg:maven/com.azure/azure-sdk-template@1.2.1-beta.4?classifier=sources
 - pkg:maven/com.azure/azure-sdk-template@1.2.1-beta.5
 - pkg:maven/com.azure/azure-sdk-template@1.2.1-beta.5?classifier=sources

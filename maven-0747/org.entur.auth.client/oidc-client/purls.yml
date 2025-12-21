@@ -1,0 +1,1 @@
+- pkg:maven/org.entur.auth.client/oidc-client@1.0.0?classifier=sources

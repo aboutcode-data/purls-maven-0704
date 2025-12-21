@@ -106,3 +106,4 @@
 - pkg:maven/com.liferay/com.liferay.configuration.admin.api@4.2.2
 - pkg:maven/com.liferay/com.liferay.configuration.admin.api@4.2.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.configuration.admin.api@4.3.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.configuration.admin.api@4.4.0?classifier=sources

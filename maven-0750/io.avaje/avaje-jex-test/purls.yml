@@ -67,6 +67,12 @@
 - pkg:maven/io.avaje/avaje-jex-test@3.0-RC2
 - pkg:maven/io.avaje/avaje-jex-test@3.0-RC20
 - pkg:maven/io.avaje/avaje-jex-test@3.0-RC20?classifier=sources
+- pkg:maven/io.avaje/avaje-jex-test@3.0-RC21
+- pkg:maven/io.avaje/avaje-jex-test@3.0-RC21?classifier=sources
+- pkg:maven/io.avaje/avaje-jex-test@3.0-RC22
+- pkg:maven/io.avaje/avaje-jex-test@3.0-RC22?classifier=sources
+- pkg:maven/io.avaje/avaje-jex-test@3.0-RC23
+- pkg:maven/io.avaje/avaje-jex-test@3.0-RC23?classifier=sources
 - pkg:maven/io.avaje/avaje-jex-test@3.0-RC2?classifier=sources
 - pkg:maven/io.avaje/avaje-jex-test@3.0-RC3
 - pkg:maven/io.avaje/avaje-jex-test@3.0-RC3?classifier=sources

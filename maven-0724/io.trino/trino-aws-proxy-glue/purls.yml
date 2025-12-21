@@ -1,2 +1,4 @@
 - pkg:maven/io.trino/trino-aws-proxy-glue@4
 - pkg:maven/io.trino/trino-aws-proxy-glue@4?classifier=sources
+- pkg:maven/io.trino/trino-aws-proxy-glue@5
+- pkg:maven/io.trino/trino-aws-proxy-glue@5?classifier=sources

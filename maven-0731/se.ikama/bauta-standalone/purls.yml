@@ -1,2 +1,4 @@
 - pkg:maven/se.ikama/bauta-standalone@0.0.68?classifier=sources
 - pkg:maven/se.ikama/bauta-standalone@0.0.69?classifier=sources
+- pkg:maven/se.ikama/bauta-standalone@2.0.0?classifier=sources
+- pkg:maven/se.ikama/bauta-standalone@2.0.1?classifier=sources

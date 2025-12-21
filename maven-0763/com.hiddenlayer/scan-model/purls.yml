@@ -3,3 +3,4 @@
 - pkg:maven/com.hiddenlayer/scan-model@0.1.13?classifier=sources
 - pkg:maven/com.hiddenlayer/scan-model@0.1.14?classifier=sources
 - pkg:maven/com.hiddenlayer/scan-model@0.2.0?classifier=sources
+- pkg:maven/com.hiddenlayer/scan-model@0.3.0?classifier=sources

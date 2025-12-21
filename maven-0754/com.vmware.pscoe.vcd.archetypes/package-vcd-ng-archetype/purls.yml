@@ -24,3 +24,4 @@
 - pkg:maven/com.vmware.pscoe.vcd.archetypes/package-vcd-ng-archetype@4.0.0?classifier=sources
 - pkg:maven/com.vmware.pscoe.vcd.archetypes/package-vcd-ng-archetype@4.1.0?classifier=sources
 - pkg:maven/com.vmware.pscoe.vcd.archetypes/package-vcd-ng-archetype@4.2.0?classifier=sources
+- pkg:maven/com.vmware.pscoe.vcd.archetypes/package-vcd-ng-archetype@4.2.1?classifier=sources

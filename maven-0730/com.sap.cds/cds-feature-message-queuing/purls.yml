@@ -220,3 +220,5 @@
 - pkg:maven/com.sap.cds/cds-feature-message-queuing@3.7.1?classifier=sources
 - pkg:maven/com.sap.cds/cds-feature-message-queuing@3.7.2
 - pkg:maven/com.sap.cds/cds-feature-message-queuing@3.7.2?classifier=sources
+- pkg:maven/com.sap.cds/cds-feature-message-queuing@3.8.0
+- pkg:maven/com.sap.cds/cds-feature-message-queuing@3.8.0?classifier=sources

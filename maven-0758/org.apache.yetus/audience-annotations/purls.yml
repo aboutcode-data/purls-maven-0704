@@ -14,6 +14,8 @@
 - pkg:maven/org.apache.yetus/audience-annotations@0.14.1?classifier=sources
 - pkg:maven/org.apache.yetus/audience-annotations@0.15.0
 - pkg:maven/org.apache.yetus/audience-annotations@0.15.0?classifier=sources
+- pkg:maven/org.apache.yetus/audience-annotations@0.15.1
+- pkg:maven/org.apache.yetus/audience-annotations@0.15.1?classifier=sources
 - pkg:maven/org.apache.yetus/audience-annotations@0.3.0
 - pkg:maven/org.apache.yetus/audience-annotations@0.3.0?classifier=sources
 - pkg:maven/org.apache.yetus/audience-annotations@0.4.0

@@ -1,3 +1,4 @@
+- pkg:maven/tech.bison/commercetools-datalift-core@0.10.0?classifier=sources
 - pkg:maven/tech.bison/commercetools-datalift-core@0.3.0?classifier=sources
 - pkg:maven/tech.bison/commercetools-datalift-core@0.4.0?classifier=sources
 - pkg:maven/tech.bison/commercetools-datalift-core@0.5.0?classifier=sources

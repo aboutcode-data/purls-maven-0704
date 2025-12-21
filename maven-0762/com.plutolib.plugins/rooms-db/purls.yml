@@ -1,3 +1,5 @@
+- pkg:maven/com.plutolib.plugins/rooms-db@0.0.1-testing2?classifier=sources
+- pkg:maven/com.plutolib.plugins/rooms-db@0.0.1-testing3?classifier=sources
 - pkg:maven/com.plutolib.plugins/rooms-db@2.0.2-beta2?classifier=sources
 - pkg:maven/com.plutolib.plugins/rooms-db@2.0.3?classifier=sources
 - pkg:maven/com.plutolib.plugins/rooms-db@2.0.4?classifier=sources

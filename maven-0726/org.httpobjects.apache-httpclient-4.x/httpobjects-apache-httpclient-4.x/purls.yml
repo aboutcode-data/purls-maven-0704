@@ -15,3 +15,4 @@
 - pkg:maven/org.httpobjects.apache-httpclient-4.x/httpobjects-apache-httpclient-4.x@1.0.0.pre5?classifier=sources
 - pkg:maven/org.httpobjects.apache-httpclient-4.x/httpobjects-apache-httpclient-4.x@1.0.0.pre6?classifier=sources
 - pkg:maven/org.httpobjects.apache-httpclient-4.x/httpobjects-apache-httpclient-4.x@1.0.0.pre7?classifier=sources
+- pkg:maven/org.httpobjects.apache-httpclient-4.x/httpobjects-apache-httpclient-4.x@1.0.0.pre8?classifier=sources

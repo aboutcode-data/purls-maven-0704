@@ -73,6 +73,14 @@
 - pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.8.0-rc2?classifier=sources
 - pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.8.0?classifier=sources
 - pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.9.0-rc1
+- pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.9.0-rc10
+- pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.9.0-rc10?classifier=sources
+- pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.9.0-rc14
+- pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.9.0-rc14?classifier=sources
+- pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.9.0-rc15
+- pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.9.0-rc15?classifier=sources
+- pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.9.0-rc16
+- pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.9.0-rc16?classifier=sources
 - pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.9.0-rc1?classifier=sources
 - pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.9.0-rc2
 - pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.9.0-rc2?classifier=sources
@@ -84,3 +92,9 @@
 - pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.9.0-rc5?classifier=sources
 - pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.9.0-rc6
 - pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.9.0-rc6?classifier=sources
+- pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.9.0-rc7
+- pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.9.0-rc7?classifier=sources
+- pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.9.0-rc8
+- pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.9.0-rc8?classifier=sources
+- pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.9.0-rc9
+- pkg:maven/com.snowplowanalytics/snowplow-event-generator-core_2.12@0.9.0-rc9?classifier=sources

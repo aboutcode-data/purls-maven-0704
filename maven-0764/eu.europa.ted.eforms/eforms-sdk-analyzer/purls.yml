@@ -1,1 +1,2 @@
 - pkg:maven/eu.europa.ted.eforms/eforms-sdk-analyzer@1.13.0?classifier=sources
+- pkg:maven/eu.europa.ted.eforms/eforms-sdk-analyzer@1.13.1?classifier=sources

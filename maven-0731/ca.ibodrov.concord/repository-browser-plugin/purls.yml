@@ -1,0 +1,4 @@
+- pkg:maven/ca.ibodrov.concord/repository-browser-plugin@1.0.0
+- pkg:maven/ca.ibodrov.concord/repository-browser-plugin@1.0.0?classifier=sources
+- pkg:maven/ca.ibodrov.concord/repository-browser-plugin@1.0.1
+- pkg:maven/ca.ibodrov.concord/repository-browser-plugin@1.0.1?classifier=sources

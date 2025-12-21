@@ -47,3 +47,5 @@
 - pkg:maven/it.unibo.collektive/stdlib-iosarm64@16.0.1?classifier=sources
 - pkg:maven/it.unibo.collektive/stdlib-iosarm64@16.1.0?classifier=sources
 - pkg:maven/it.unibo.collektive/stdlib-iosarm64@16.1.1?classifier=sources
+- pkg:maven/it.unibo.collektive/stdlib-iosarm64@17.0.0?classifier=sources
+- pkg:maven/it.unibo.collektive/stdlib-iosarm64@17.0.1?classifier=sources

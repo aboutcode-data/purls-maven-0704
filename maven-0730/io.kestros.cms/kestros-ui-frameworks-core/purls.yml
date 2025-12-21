@@ -6,3 +6,5 @@
 - pkg:maven/io.kestros.cms/kestros-ui-frameworks-core@0.0.2?classifier=sources
 - pkg:maven/io.kestros.cms/kestros-ui-frameworks-core@0.1.0
 - pkg:maven/io.kestros.cms/kestros-ui-frameworks-core@0.1.0?classifier=sources
+- pkg:maven/io.kestros.cms/kestros-ui-frameworks-core@0.1.3
+- pkg:maven/io.kestros.cms/kestros-ui-frameworks-core@0.1.3?classifier=sources

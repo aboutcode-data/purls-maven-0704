@@ -6,3 +6,7 @@
 - pkg:maven/com.genexus/gxazureserverless@4.8.2?classifier=sources
 - pkg:maven/com.genexus/gxazureserverless@4.8.3
 - pkg:maven/com.genexus/gxazureserverless@4.8.3?classifier=sources
+- pkg:maven/com.genexus/gxazureserverless@4.8.4
+- pkg:maven/com.genexus/gxazureserverless@4.8.4?classifier=sources
+- pkg:maven/com.genexus/gxazureserverless@4.8.5
+- pkg:maven/com.genexus/gxazureserverless@4.8.5?classifier=sources

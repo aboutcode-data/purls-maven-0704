@@ -1,0 +1,2 @@
+- pkg:maven/io.kestros.cms/kestros-user-core@0.3.1
+- pkg:maven/io.kestros.cms/kestros-user-core@0.3.1?classifier=sources

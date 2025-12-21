@@ -312,6 +312,8 @@
 - pkg:maven/com.liferay/com.liferay.change.tracking.web@2.0.14
 - pkg:maven/com.liferay/com.liferay.change.tracking.web@2.0.140?classifier=sources
 - pkg:maven/com.liferay/com.liferay.change.tracking.web@2.0.141?classifier=sources
+- pkg:maven/com.liferay/com.liferay.change.tracking.web@2.0.142?classifier=sources
+- pkg:maven/com.liferay/com.liferay.change.tracking.web@2.0.143?classifier=sources
 - pkg:maven/com.liferay/com.liferay.change.tracking.web@2.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.change.tracking.web@2.0.14?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.change.tracking.web@2.0.15

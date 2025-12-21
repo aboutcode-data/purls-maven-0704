@@ -2,3 +2,4 @@
 - pkg:maven/org.hildan.krossbow/krossbow-stomp-core-wasm-js@8.1.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-stomp-core-wasm-js@8.2.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-stomp-core-wasm-js@9.0.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-stomp-core-wasm-js@9.1.0?classifier=sources

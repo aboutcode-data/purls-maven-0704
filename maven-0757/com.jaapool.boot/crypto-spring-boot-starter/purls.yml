@@ -1,0 +1,3 @@
+- pkg:maven/com.jaapool.boot/crypto-spring-boot-starter@2.0.0?classifier=sources
+- pkg:maven/com.jaapool.boot/crypto-spring-boot-starter@2.1.0?classifier=sources
+- pkg:maven/com.jaapool.boot/crypto-spring-boot-starter@2.1.1?classifier=sources

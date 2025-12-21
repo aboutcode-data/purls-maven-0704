@@ -1,0 +1,11 @@
+- pkg:maven/io.github.smyrgeorge/actor4k-iosarm64@0.30.0?classifier=sources
+- pkg:maven/io.github.smyrgeorge/actor4k-iosarm64@0.35.0?classifier=sources
+- pkg:maven/io.github.smyrgeorge/actor4k-iosarm64@0.36.0?classifier=sources
+- pkg:maven/io.github.smyrgeorge/actor4k-iosarm64@0.37.0?classifier=sources
+- pkg:maven/io.github.smyrgeorge/actor4k-iosarm64@0.40.0?classifier=sources
+- pkg:maven/io.github.smyrgeorge/actor4k-iosarm64@0.41.0?classifier=sources
+- pkg:maven/io.github.smyrgeorge/actor4k-iosarm64@0.42.0?classifier=sources
+- pkg:maven/io.github.smyrgeorge/actor4k-iosarm64@0.50.0?classifier=sources
+- pkg:maven/io.github.smyrgeorge/actor4k-iosarm64@0.51.0?classifier=sources
+- pkg:maven/io.github.smyrgeorge/actor4k-iosarm64@0.52.0?classifier=sources
+- pkg:maven/io.github.smyrgeorge/actor4k-iosarm64@0.53.0?classifier=sources

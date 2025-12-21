@@ -1,0 +1,1 @@
+- pkg:maven/com.bakdata.gradle/gradle-avro-dependency-plugin@1.5.0?classifier=sources

@@ -484,6 +484,10 @@
 - pkg:maven/com.hashicorp/cdktf-provider-okta@13.7.1?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-okta@13.8.0
 - pkg:maven/com.hashicorp/cdktf-provider-okta@13.8.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-okta@13.8.1
+- pkg:maven/com.hashicorp/cdktf-provider-okta@13.8.1?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-okta@13.9.0
+- pkg:maven/com.hashicorp/cdktf-provider-okta@13.9.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-okta@2.0.0
 - pkg:maven/com.hashicorp/cdktf-provider-okta@2.0.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-okta@2.0.1

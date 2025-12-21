@@ -102,3 +102,5 @@
 - pkg:maven/org.clojure/core.async@1.7.701?classifier=sources
 - pkg:maven/org.clojure/core.async@1.8.711-beta1
 - pkg:maven/org.clojure/core.async@1.8.711-beta1?classifier=sources
+- pkg:maven/org.clojure/core.async@1.8.718-beta2
+- pkg:maven/org.clojure/core.async@1.8.718-beta2?classifier=sources

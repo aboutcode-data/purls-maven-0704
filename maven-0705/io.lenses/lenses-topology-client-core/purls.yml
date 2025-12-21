@@ -8,3 +8,6 @@
 - pkg:maven/io.lenses/lenses-topology-client-core@4.1.1?classifier=sources
 - pkg:maven/io.lenses/lenses-topology-client-core@4.1.2
 - pkg:maven/io.lenses/lenses-topology-client-core@4.1.2?classifier=sources
+- pkg:maven/io.lenses/lenses-topology-client-core@6.0.0?classifier=sources
+- pkg:maven/io.lenses/lenses-topology-client-core@6.0.1?classifier=sources
+- pkg:maven/io.lenses/lenses-topology-client-core@6.0.2?classifier=sources

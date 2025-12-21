@@ -44,3 +44,5 @@
 - pkg:maven/org.camunda.bpm.juel/camunda-juel@7.23.0-alpha2?classifier=sources
 - pkg:maven/org.camunda.bpm.juel/camunda-juel@7.23.0-alpha3
 - pkg:maven/org.camunda.bpm.juel/camunda-juel@7.23.0-alpha3?classifier=sources
+- pkg:maven/org.camunda.bpm.juel/camunda-juel@7.23.0-alpha4
+- pkg:maven/org.camunda.bpm.juel/camunda-juel@7.23.0-alpha4?classifier=sources

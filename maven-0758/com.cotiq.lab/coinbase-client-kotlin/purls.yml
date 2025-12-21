@@ -1,0 +1,2 @@
+- pkg:maven/com.cotiq.lab/coinbase-client-kotlin@0.0.1?classifier=sources
+- pkg:maven/com.cotiq.lab/coinbase-client-kotlin@0.0.2?classifier=sources

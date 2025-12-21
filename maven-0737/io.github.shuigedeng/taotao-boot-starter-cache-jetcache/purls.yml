@@ -3,3 +3,4 @@
 - pkg:maven/io.github.shuigedeng/taotao-boot-starter-cache-jetcache@2024.12?classifier=sources
 - pkg:maven/io.github.shuigedeng/taotao-boot-starter-cache-jetcache@2025.01?classifier=sources
 - pkg:maven/io.github.shuigedeng/taotao-boot-starter-cache-jetcache@2025.02?classifier=sources
+- pkg:maven/io.github.shuigedeng/taotao-boot-starter-cache-jetcache@2025.03?classifier=sources

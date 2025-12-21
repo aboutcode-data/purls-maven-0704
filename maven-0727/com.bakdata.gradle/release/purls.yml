@@ -11,3 +11,7 @@
 - pkg:maven/com.bakdata.gradle/release@1.6.1?classifier=sources
 - pkg:maven/com.bakdata.gradle/release@1.7.0?classifier=sources
 - pkg:maven/com.bakdata.gradle/release@1.7.1?classifier=sources
+- pkg:maven/com.bakdata.gradle/release@1.8.0?classifier=sources
+- pkg:maven/com.bakdata.gradle/release@1.8.1?classifier=sources
+- pkg:maven/com.bakdata.gradle/release@1.9.0?classifier=sources
+- pkg:maven/com.bakdata.gradle/release@1.9.1?classifier=sources

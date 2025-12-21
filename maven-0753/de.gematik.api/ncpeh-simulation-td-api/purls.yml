@@ -16,3 +16,5 @@
 - pkg:maven/de.gematik.api/ncpeh-simulation-td-api@1.6.2?classifier=sources
 - pkg:maven/de.gematik.api/ncpeh-simulation-td-api@1.6.3
 - pkg:maven/de.gematik.api/ncpeh-simulation-td-api@1.6.3?classifier=sources
+- pkg:maven/de.gematik.api/ncpeh-simulation-td-api@2.0.0
+- pkg:maven/de.gematik.api/ncpeh-simulation-td-api@2.0.0?classifier=sources

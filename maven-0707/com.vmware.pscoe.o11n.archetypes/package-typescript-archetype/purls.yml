@@ -24,3 +24,4 @@
 - pkg:maven/com.vmware.pscoe.o11n.archetypes/package-typescript-archetype@4.0.0?classifier=sources
 - pkg:maven/com.vmware.pscoe.o11n.archetypes/package-typescript-archetype@4.1.0?classifier=sources
 - pkg:maven/com.vmware.pscoe.o11n.archetypes/package-typescript-archetype@4.2.0?classifier=sources
+- pkg:maven/com.vmware.pscoe.o11n.archetypes/package-typescript-archetype@4.2.1?classifier=sources
