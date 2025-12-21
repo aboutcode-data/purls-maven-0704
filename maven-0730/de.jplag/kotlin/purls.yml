@@ -10,3 +10,5 @@
 - pkg:maven/de.jplag/kotlin@5.0.0?classifier=sources
 - pkg:maven/de.jplag/kotlin@5.1.0
 - pkg:maven/de.jplag/kotlin@5.1.0?classifier=sources
+- pkg:maven/de.jplag/kotlin@6.0.0
+- pkg:maven/de.jplag/kotlin@6.0.0?classifier=sources

@@ -298,3 +298,5 @@
 - pkg:maven/com.amazonaws/aws-java-sdk-swf-libraries@1.9.8?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-swf-libraries@1.9.9
 - pkg:maven/com.amazonaws/aws-java-sdk-swf-libraries@1.9.9?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-swf-libraries@2.0.0
+- pkg:maven/com.amazonaws/aws-java-sdk-swf-libraries@2.0.0?classifier=sources

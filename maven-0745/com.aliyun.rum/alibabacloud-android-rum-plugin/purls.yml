@@ -24,3 +24,4 @@
 - pkg:maven/com.aliyun.rum/alibabacloud-android-rum-plugin@0.3.8-beta.2?classifier=sources
 - pkg:maven/com.aliyun.rum/alibabacloud-android-rum-plugin@0.3.8-beta.3?classifier=sources
 - pkg:maven/com.aliyun.rum/alibabacloud-android-rum-plugin@0.3.8?classifier=sources
+- pkg:maven/com.aliyun.rum/alibabacloud-android-rum-plugin@0.3.9-beta.2?classifier=sources

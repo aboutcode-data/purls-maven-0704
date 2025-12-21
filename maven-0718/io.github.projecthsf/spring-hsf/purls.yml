@@ -1,1 +1,2 @@
 - pkg:maven/io.github.projecthsf/spring-hsf@1.0.0?classifier=sources
+- pkg:maven/io.github.projecthsf/spring-hsf@2.0.0?classifier=sources

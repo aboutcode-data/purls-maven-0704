@@ -1,0 +1,2 @@
+- pkg:maven/ch.admin.bit.jeap/jeap-spring-boot-monitoring-starter-it-mvc@17.16.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-spring-boot-monitoring-starter-it-mvc@17.17.0?classifier=sources

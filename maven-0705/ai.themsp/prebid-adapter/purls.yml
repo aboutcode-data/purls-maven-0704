@@ -5,4 +5,6 @@
 - pkg:maven/ai.themsp/prebid-adapter@0.14.0?classifier=sources
 - pkg:maven/ai.themsp/prebid-adapter@0.15.0?classifier=sources
 - pkg:maven/ai.themsp/prebid-adapter@0.16.0?classifier=sources
+- pkg:maven/ai.themsp/prebid-adapter@0.17.0?classifier=sources
+- pkg:maven/ai.themsp/prebid-adapter@0.18.0?classifier=sources
 - pkg:maven/ai.themsp/prebid-adapter@0.8.0?classifier=sources

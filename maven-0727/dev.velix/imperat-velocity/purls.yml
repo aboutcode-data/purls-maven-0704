@@ -15,3 +15,4 @@
 - pkg:maven/dev.velix/imperat-velocity@1.4.0?classifier=sources
 - pkg:maven/dev.velix/imperat-velocity@1.5.0?classifier=sources
 - pkg:maven/dev.velix/imperat-velocity@1.5.1?classifier=sources
+- pkg:maven/dev.velix/imperat-velocity@1.6.1?classifier=sources

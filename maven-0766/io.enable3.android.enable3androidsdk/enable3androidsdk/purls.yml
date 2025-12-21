@@ -1,0 +1,2 @@
+- pkg:maven/io.enable3.android.enable3androidsdk/enable3androidsdk@1.0.50?classifier=sources
+- pkg:maven/io.enable3.android.enable3androidsdk/enable3androidsdk@1.0.50?type=aar

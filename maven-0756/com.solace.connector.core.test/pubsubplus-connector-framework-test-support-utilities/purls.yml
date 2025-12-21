@@ -1,0 +1,2 @@
+- pkg:maven/com.solace.connector.core.test/pubsubplus-connector-framework-test-support-utilities@2.12.11
+- pkg:maven/com.solace.connector.core.test/pubsubplus-connector-framework-test-support-utilities@2.12.11?classifier=sources

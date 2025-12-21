@@ -18,6 +18,7 @@
 - pkg:maven/io.github.domstolene.esas/kjennelse-beslutning@08082024.8c97c04
 - pkg:maven/io.github.domstolene.esas/kjennelse-beslutning@09082024.5b32dfd
 - pkg:maven/io.github.domstolene.esas/kjennelse-beslutning@09092024.7aaa4a1
+- pkg:maven/io.github.domstolene.esas/kjennelse-beslutning@10022025.b6cc4e3
 - pkg:maven/io.github.domstolene.esas/kjennelse-beslutning@11092024.006eaf7
 - pkg:maven/io.github.domstolene.esas/kjennelse-beslutning@11092024.15fecc6
 - pkg:maven/io.github.domstolene.esas/kjennelse-beslutning@11092024.5a9c25b
@@ -26,6 +27,9 @@
 - pkg:maven/io.github.domstolene.esas/kjennelse-beslutning@11112024.af01eb6
 - pkg:maven/io.github.domstolene.esas/kjennelse-beslutning@11122024.cb3a97b
 - pkg:maven/io.github.domstolene.esas/kjennelse-beslutning@12082024.bb73262
+- pkg:maven/io.github.domstolene.esas/kjennelse-beslutning@13022025.7ec6ab8
+- pkg:maven/io.github.domstolene.esas/kjennelse-beslutning@13022025.bbbfce8
+- pkg:maven/io.github.domstolene.esas/kjennelse-beslutning@13022025.e4efb2a
 - pkg:maven/io.github.domstolene.esas/kjennelse-beslutning@13082024.149fd3a
 - pkg:maven/io.github.domstolene.esas/kjennelse-beslutning@13092024.20fb337
 - pkg:maven/io.github.domstolene.esas/kjennelse-beslutning@13092024.67e56fa
@@ -35,10 +39,13 @@
 - pkg:maven/io.github.domstolene.esas/kjennelse-beslutning@15102024.ecced1e
 - pkg:maven/io.github.domstolene.esas/kjennelse-beslutning@15112024.e51ff1f
 - pkg:maven/io.github.domstolene.esas/kjennelse-beslutning@16122024.194fdac
+- pkg:maven/io.github.domstolene.esas/kjennelse-beslutning@17022025.01cad54
 - pkg:maven/io.github.domstolene.esas/kjennelse-beslutning@17092024.cdcf544
+- pkg:maven/io.github.domstolene.esas/kjennelse-beslutning@18022025.b9ee7f3
 - pkg:maven/io.github.domstolene.esas/kjennelse-beslutning@18092024.394bb17
 - pkg:maven/io.github.domstolene.esas/kjennelse-beslutning@18092024.cb232df
 - pkg:maven/io.github.domstolene.esas/kjennelse-beslutning@18092024.ed79b9c
+- pkg:maven/io.github.domstolene.esas/kjennelse-beslutning@19022025.3c7654b
 - pkg:maven/io.github.domstolene.esas/kjennelse-beslutning@19092024.0c0807a
 - pkg:maven/io.github.domstolene.esas/kjennelse-beslutning@19112024.98a84a7
 - pkg:maven/io.github.domstolene.esas/kjennelse-beslutning@20112024.ce52f8a
@@ -62,6 +69,8 @@
 - pkg:maven/io.github.domstolene.esas/kjennelse-beslutning@27112024.8017835
 - pkg:maven/io.github.domstolene.esas/kjennelse-beslutning@28102024.cc6a5d3
 - pkg:maven/io.github.domstolene.esas/kjennelse-beslutning@28112024.21bb619
+- pkg:maven/io.github.domstolene.esas/kjennelse-beslutning@29012025.78d08e0
+- pkg:maven/io.github.domstolene.esas/kjennelse-beslutning@29012025.c5d49e7
 - pkg:maven/io.github.domstolene.esas/kjennelse-beslutning@29082024.59a5902
 - pkg:maven/io.github.domstolene.esas/kjennelse-beslutning@29082024.dfc77f5
 - pkg:maven/io.github.domstolene.esas/kjennelse-beslutning@30082024.8401a1b

@@ -82,3 +82,5 @@
 - pkg:maven/be.yildiz-games/module-window-javafx@3.5.8?classifier=sources
 - pkg:maven/be.yildiz-games/module-window-javafx@3.6.0
 - pkg:maven/be.yildiz-games/module-window-javafx@3.6.0?classifier=sources
+- pkg:maven/be.yildiz-games/module-window-javafx@3.6.1
+- pkg:maven/be.yildiz-games/module-window-javafx@3.6.1?classifier=sources

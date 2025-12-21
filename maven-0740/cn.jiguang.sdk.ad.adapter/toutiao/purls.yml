@@ -31,3 +31,9 @@
 - pkg:maven/cn.jiguang.sdk.ad.adapter/toutiao@6.4.1.6.11111?type=aar
 - pkg:maven/cn.jiguang.sdk.ad.adapter/toutiao@6.5.0.2.11261?classifier=sources
 - pkg:maven/cn.jiguang.sdk.ad.adapter/toutiao@6.5.0.2.11261?type=aar
+- pkg:maven/cn.jiguang.sdk.ad.adapter/toutiao@6.6.0.5.12261?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad.adapter/toutiao@6.6.0.5.12261?type=aar
+- pkg:maven/cn.jiguang.sdk.ad.adapter/toutiao@6.6.0.7.12261?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad.adapter/toutiao@6.6.0.7.12261?type=aar
+- pkg:maven/cn.jiguang.sdk.ad.adapter/toutiao@6.6.0.7.12262?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad.adapter/toutiao@6.6.0.7.12262?type=aar

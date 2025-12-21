@@ -1,0 +1,2 @@
+- pkg:maven/com.m-daq/trc-market-data-client-sdk@1.17.1?classifier=sources
+- pkg:maven/com.m-daq/trc-market-data-client-sdk@1.17.2?classifier=sources

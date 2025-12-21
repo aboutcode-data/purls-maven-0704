@@ -16,5 +16,13 @@
 - pkg:maven/com.kaltura/KalturaApiClient@21.3.0?classifier=sources
 - pkg:maven/com.kaltura/KalturaApiClient@21.6.0
 - pkg:maven/com.kaltura/KalturaApiClient@21.6.0?classifier=sources
+- pkg:maven/com.kaltura/KalturaApiClient@21.8.0
+- pkg:maven/com.kaltura/KalturaApiClient@21.8.0?classifier=sources
+- pkg:maven/com.kaltura/KalturaApiClient@21.9.0
+- pkg:maven/com.kaltura/KalturaApiClient@21.9.0?classifier=sources
+- pkg:maven/com.kaltura/KalturaApiClient@21.9.1
+- pkg:maven/com.kaltura/KalturaApiClient@21.9.1?classifier=sources
+- pkg:maven/com.kaltura/KalturaApiClient@21.9.2
+- pkg:maven/com.kaltura/KalturaApiClient@21.9.2?classifier=sources
 - pkg:maven/com.kaltura/KalturaApiClient@Ursa-21.2.0
 - pkg:maven/com.kaltura/KalturaApiClient@Ursa-21.2.0?classifier=sources

@@ -53,3 +53,4 @@
 - pkg:maven/com.workos/workos@4.6.1?classifier=sources
 - pkg:maven/com.workos/workos@4.7.0?classifier=sources
 - pkg:maven/com.workos/workos@4.8.0?classifier=sources
+- pkg:maven/com.workos/workos@4.9.0?classifier=sources

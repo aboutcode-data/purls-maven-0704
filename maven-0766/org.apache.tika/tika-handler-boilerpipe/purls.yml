@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.tika/tika-handler-boilerpipe@3.0.0-BETA2?classifier=sources
 - pkg:maven/org.apache.tika/tika-handler-boilerpipe@3.0.0-BETA?classifier=sources
 - pkg:maven/org.apache.tika/tika-handler-boilerpipe@3.0.0?classifier=sources
+- pkg:maven/org.apache.tika/tika-handler-boilerpipe@3.1.0
+- pkg:maven/org.apache.tika/tika-handler-boilerpipe@3.1.0?classifier=sources

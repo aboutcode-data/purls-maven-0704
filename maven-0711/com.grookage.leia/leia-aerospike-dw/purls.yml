@@ -1,0 +1,6 @@
+- pkg:maven/com.grookage.leia/leia-aerospike-dw@0.0.1-RC14?classifier=sources
+- pkg:maven/com.grookage.leia/leia-aerospike-dw@0.0.1-RC15?classifier=sources
+- pkg:maven/com.grookage.leia/leia-aerospike-dw@0.0.1-RC16?classifier=sources
+- pkg:maven/com.grookage.leia/leia-aerospike-dw@0.0.1-RC17?classifier=sources
+- pkg:maven/com.grookage.leia/leia-aerospike-dw@0.0.1-RC18?classifier=sources
+- pkg:maven/com.grookage.leia/leia-aerospike-dw@0.0.1-RC19?classifier=sources

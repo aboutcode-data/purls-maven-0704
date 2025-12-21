@@ -22,3 +22,4 @@
 - pkg:maven/com.wultra.android.mtokensdk/wultra-mtoken-sdk@1.8.3?classifier=sources
 - pkg:maven/com.wultra.android.mtokensdk/wultra-mtoken-sdk@1.8.4?classifier=sources
 - pkg:maven/com.wultra.android.mtokensdk/wultra-mtoken-sdk@1.9.0?classifier=sources
+- pkg:maven/com.wultra.android.mtokensdk/wultra-mtoken-sdk@2.0.0?classifier=sources

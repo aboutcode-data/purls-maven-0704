@@ -1,2 +1,3 @@
 - pkg:maven/org.mvnpm/webpack@4.1.0?classifier=sources
 - pkg:maven/org.mvnpm/webpack@5.93.0?classifier=sources
+- pkg:maven/org.mvnpm/webpack@5.97.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.garnercorp/test-charged1_3@0.0.2
+- pkg:maven/com.garnercorp/test-charged1_3@0.0.2?classifier=sources

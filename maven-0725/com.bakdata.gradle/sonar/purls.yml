@@ -43,3 +43,5 @@
 - pkg:maven/com.bakdata.gradle/sonar@1.5.2?classifier=sources
 - pkg:maven/com.bakdata.gradle/sonar@1.6.0?classifier=sources
 - pkg:maven/com.bakdata.gradle/sonar@1.6.1?classifier=sources
+- pkg:maven/com.bakdata.gradle/sonar@1.7.0?classifier=sources
+- pkg:maven/com.bakdata.gradle/sonar@1.7.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.cowwoc.requirements/requirements-annotation@11.0
+- pkg:maven/com.github.cowwoc.requirements/requirements-annotation@11.0?classifier=sources

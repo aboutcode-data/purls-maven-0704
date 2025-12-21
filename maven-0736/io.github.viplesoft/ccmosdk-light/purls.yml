@@ -1,1 +1,2 @@
 - pkg:maven/io.github.viplesoft/ccmosdk-light@0.9.10?classifier=sources
+- pkg:maven/io.github.viplesoft/ccmosdk-light@0.9.21?classifier=sources

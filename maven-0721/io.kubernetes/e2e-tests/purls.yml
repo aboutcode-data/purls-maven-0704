@@ -41,3 +41,7 @@
 - pkg:maven/io.kubernetes/e2e-tests@21.0.2-legacy
 - pkg:maven/io.kubernetes/e2e-tests@22.0.0
 - pkg:maven/io.kubernetes/e2e-tests@22.0.0-legacy
+- pkg:maven/io.kubernetes/e2e-tests@22.0.1
+- pkg:maven/io.kubernetes/e2e-tests@22.0.1-legacy
+- pkg:maven/io.kubernetes/e2e-tests@23.0.0
+- pkg:maven/io.kubernetes/e2e-tests@23.0.0-legacy

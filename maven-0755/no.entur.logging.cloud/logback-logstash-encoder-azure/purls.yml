@@ -3,3 +3,8 @@
 - pkg:maven/no.entur.logging.cloud/logback-logstash-encoder-azure@3.0.2?classifier=sources
 - pkg:maven/no.entur.logging.cloud/logback-logstash-encoder-azure@4.0.0?classifier=sources
 - pkg:maven/no.entur.logging.cloud/logback-logstash-encoder-azure@4.0.1?classifier=sources
+- pkg:maven/no.entur.logging.cloud/logback-logstash-encoder-azure@4.0.2?classifier=sources
+- pkg:maven/no.entur.logging.cloud/logback-logstash-encoder-azure@4.0.3?classifier=sources
+- pkg:maven/no.entur.logging.cloud/logback-logstash-encoder-azure@4.1.0?classifier=sources
+- pkg:maven/no.entur.logging.cloud/logback-logstash-encoder-azure@4.1.1?classifier=sources
+- pkg:maven/no.entur.logging.cloud/logback-logstash-encoder-azure@4.1.2?classifier=sources

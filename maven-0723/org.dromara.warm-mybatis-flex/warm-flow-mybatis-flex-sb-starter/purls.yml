@@ -1,1 +1,2 @@
 - pkg:maven/org.dromara.warm-mybatis-flex/warm-flow-mybatis-flex-sb-starter@1.6.0-m3?classifier=sources
+- pkg:maven/org.dromara.warm-mybatis-flex/warm-flow-mybatis-flex-sb-starter@1.6.6?classifier=sources

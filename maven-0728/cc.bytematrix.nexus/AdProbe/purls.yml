@@ -1,0 +1,4 @@
+- pkg:maven/cc.bytematrix.nexus/AdProbe@1.0.01?classifier=sources
+- pkg:maven/cc.bytematrix.nexus/AdProbe@1.0.02?classifier=sources
+- pkg:maven/cc.bytematrix.nexus/AdProbe@1.0.03?classifier=sources
+- pkg:maven/cc.bytematrix.nexus/AdProbe@1.0.0?classifier=sources

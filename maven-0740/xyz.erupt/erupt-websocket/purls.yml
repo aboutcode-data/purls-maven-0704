@@ -2,3 +2,5 @@
 - pkg:maven/xyz.erupt/erupt-websocket@1.12.17?classifier=sources
 - pkg:maven/xyz.erupt/erupt-websocket@1.12.18
 - pkg:maven/xyz.erupt/erupt-websocket@1.12.18?classifier=sources
+- pkg:maven/xyz.erupt/erupt-websocket@1.12.19
+- pkg:maven/xyz.erupt/erupt-websocket@1.12.19?classifier=sources

@@ -20,3 +20,4 @@
 - pkg:maven/org.netbeans.external/org-apache-xmlrpc@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.external/org-apache-xmlrpc@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.external/org-apache-xmlrpc@RELEASE240?classifier=sources
+- pkg:maven/org.netbeans.external/org-apache-xmlrpc@RELEASE250?classifier=sources

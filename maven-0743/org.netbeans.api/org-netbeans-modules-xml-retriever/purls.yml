@@ -24,4 +24,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-xml-retriever@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-xml-retriever@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-xml-retriever@RELEASE240?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-xml-retriever@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-xml-retriever@RELEASE90?classifier=sources

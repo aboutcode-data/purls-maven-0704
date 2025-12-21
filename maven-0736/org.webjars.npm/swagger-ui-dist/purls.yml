@@ -452,6 +452,7 @@
 - pkg:maven/org.webjars.npm/swagger-ui-dist@5.19.0
 - pkg:maven/org.webjars.npm/swagger-ui-dist@5.2.0
 - pkg:maven/org.webjars.npm/swagger-ui-dist@5.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/swagger-ui-dist@5.20.0
 - pkg:maven/org.webjars.npm/swagger-ui-dist@5.3.0
 - pkg:maven/org.webjars.npm/swagger-ui-dist@5.3.0?classifier=sources
 - pkg:maven/org.webjars.npm/swagger-ui-dist@5.3.1

@@ -168,3 +168,7 @@
 - pkg:maven/de.arbeitsagentur.opdt/keycloak-cassandra-model-tests@4.1.0-26.0?classifier=sources
 - pkg:maven/de.arbeitsagentur.opdt/keycloak-cassandra-model-tests@5.0.0-26.0
 - pkg:maven/de.arbeitsagentur.opdt/keycloak-cassandra-model-tests@5.0.0-26.0?classifier=sources
+- pkg:maven/de.arbeitsagentur.opdt/keycloak-cassandra-model-tests@5.0.1-26.0
+- pkg:maven/de.arbeitsagentur.opdt/keycloak-cassandra-model-tests@5.0.1-26.0?classifier=sources
+- pkg:maven/de.arbeitsagentur.opdt/keycloak-cassandra-model-tests@5.1.0-26.1
+- pkg:maven/de.arbeitsagentur.opdt/keycloak-cassandra-model-tests@5.1.0-26.1?classifier=sources

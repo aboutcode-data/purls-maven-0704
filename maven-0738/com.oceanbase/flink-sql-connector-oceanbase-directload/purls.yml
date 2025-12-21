@@ -1,2 +1,4 @@
 - pkg:maven/com.oceanbase/flink-sql-connector-oceanbase-directload@1.4
 - pkg:maven/com.oceanbase/flink-sql-connector-oceanbase-directload@1.4?classifier=sources
+- pkg:maven/com.oceanbase/flink-sql-connector-oceanbase-directload@1.5
+- pkg:maven/com.oceanbase/flink-sql-connector-oceanbase-directload@1.5?classifier=sources

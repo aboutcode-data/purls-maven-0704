@@ -1,2 +1,4 @@
 - pkg:maven/de.learnlib/learnlib-observation-pack-vpa@0.17.0
 - pkg:maven/de.learnlib/learnlib-observation-pack-vpa@0.17.0?classifier=sources
+- pkg:maven/de.learnlib/learnlib-observation-pack-vpa@0.18.0
+- pkg:maven/de.learnlib/learnlib-observation-pack-vpa@0.18.0?classifier=sources

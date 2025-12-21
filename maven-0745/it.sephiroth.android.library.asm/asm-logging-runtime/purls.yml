@@ -1,2 +1,4 @@
 - pkg:maven/it.sephiroth.android.library.asm/asm-logging-runtime@2.0.10?classifier=sources
+- pkg:maven/it.sephiroth.android.library.asm/asm-logging-runtime@2.0.12?classifier=sources
+- pkg:maven/it.sephiroth.android.library.asm/asm-logging-runtime@2.0.14?classifier=sources
 - pkg:maven/it.sephiroth.android.library.asm/asm-logging-runtime@2.0.9?classifier=sources

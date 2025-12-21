@@ -14,3 +14,4 @@
 - pkg:maven/dev.evo.elasticmagic/elasticmagic-serde-jackson-yaml@0.0.29?classifier=sources
 - pkg:maven/dev.evo.elasticmagic/elasticmagic-serde-jackson-yaml@0.0.30?classifier=sources
 - pkg:maven/dev.evo.elasticmagic/elasticmagic-serde-jackson-yaml@0.0.32?classifier=sources
+- pkg:maven/dev.evo.elasticmagic/elasticmagic-serde-jackson-yaml@0.1.0?classifier=sources

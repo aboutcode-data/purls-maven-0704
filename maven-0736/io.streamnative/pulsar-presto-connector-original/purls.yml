@@ -1411,11 +1411,15 @@
 - pkg:maven/io.streamnative/pulsar-presto-connector-original@3.0.8.1
 - pkg:maven/io.streamnative/pulsar-presto-connector-original@3.0.8.1?classifier=sources
 - pkg:maven/io.streamnative/pulsar-presto-connector-original@3.0.8.2
+- pkg:maven/io.streamnative/pulsar-presto-connector-original@3.0.8.2-62444a
+- pkg:maven/io.streamnative/pulsar-presto-connector-original@3.0.8.2-62444a?classifier=sources
 - pkg:maven/io.streamnative/pulsar-presto-connector-original@3.0.8.2-shaded
 - pkg:maven/io.streamnative/pulsar-presto-connector-original@3.0.8.2-shaded?classifier=sources
 - pkg:maven/io.streamnative/pulsar-presto-connector-original@3.0.8.2?classifier=sources
 - pkg:maven/io.streamnative/pulsar-presto-connector-original@3.0.8.3
 - pkg:maven/io.streamnative/pulsar-presto-connector-original@3.0.8.3?classifier=sources
+- pkg:maven/io.streamnative/pulsar-presto-connector-original@3.0.8.4
+- pkg:maven/io.streamnative/pulsar-presto-connector-original@3.0.8.4?classifier=sources
 - pkg:maven/io.streamnative/pulsar-presto-connector-original@3.1.0.1
 - pkg:maven/io.streamnative/pulsar-presto-connector-original@3.1.0.1?classifier=sources
 - pkg:maven/io.streamnative/pulsar-presto-connector-original@3.1.0.2

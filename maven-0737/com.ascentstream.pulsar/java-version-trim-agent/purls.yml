@@ -18,3 +18,7 @@
 - pkg:maven/com.ascentstream.pulsar/java-version-trim-agent@2.10.7.4-SNAPSHOT-35e64fa
 - pkg:maven/com.ascentstream.pulsar/java-version-trim-agent@2.10.7.4-SNAPSHOT-35e64fa?classifier=sources
 - pkg:maven/com.ascentstream.pulsar/java-version-trim-agent@2.10.7.4?classifier=sources
+- pkg:maven/com.ascentstream.pulsar/java-version-trim-agent@2.10.7.8
+- pkg:maven/com.ascentstream.pulsar/java-version-trim-agent@2.10.7.8?classifier=sources
+- pkg:maven/com.ascentstream.pulsar/java-version-trim-agent@2.10.7.9
+- pkg:maven/com.ascentstream.pulsar/java-version-trim-agent@2.10.7.9?classifier=sources

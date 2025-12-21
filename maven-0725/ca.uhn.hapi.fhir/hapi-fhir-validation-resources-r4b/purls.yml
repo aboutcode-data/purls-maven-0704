@@ -74,3 +74,5 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-r4b@7.6.0?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-r4b@7.6.1
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-r4b@7.6.1?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-r4b@8.0.0
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-r4b@8.0.0?classifier=sources

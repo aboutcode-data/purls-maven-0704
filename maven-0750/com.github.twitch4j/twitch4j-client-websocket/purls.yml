@@ -12,3 +12,4 @@
 - pkg:maven/com.github.twitch4j/twitch4j-client-websocket@1.21.0?classifier=sources
 - pkg:maven/com.github.twitch4j/twitch4j-client-websocket@1.22.0?classifier=sources
 - pkg:maven/com.github.twitch4j/twitch4j-client-websocket@1.23.0?classifier=sources
+- pkg:maven/com.github.twitch4j/twitch4j-client-websocket@1.24.0?classifier=sources

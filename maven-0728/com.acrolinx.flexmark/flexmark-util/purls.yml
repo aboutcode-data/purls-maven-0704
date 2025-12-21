@@ -1,1 +1,2 @@
 - pkg:maven/com.acrolinx.flexmark/flexmark-util@0.70.0
+- pkg:maven/com.acrolinx.flexmark/flexmark-util@0.70.1

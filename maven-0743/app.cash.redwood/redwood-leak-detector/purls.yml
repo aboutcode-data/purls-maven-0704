@@ -2,3 +2,4 @@
 - pkg:maven/app.cash.redwood/redwood-leak-detector@0.14.0?classifier=sources
 - pkg:maven/app.cash.redwood/redwood-leak-detector@0.15.0?classifier=sources
 - pkg:maven/app.cash.redwood/redwood-leak-detector@0.16.0?classifier=sources
+- pkg:maven/app.cash.redwood/redwood-leak-detector@0.17.0?classifier=sources

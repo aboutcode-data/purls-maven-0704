@@ -1,0 +1,2 @@
+- pkg:maven/com.distrimind.upnp.desktop/UPnPIGD-Desktop@1.4.6-STABLE?classifier=sources
+- pkg:maven/com.distrimind.upnp.desktop/UPnPIGD-Desktop@1.4.7-STABLE?classifier=sources

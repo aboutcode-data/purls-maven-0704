@@ -86,3 +86,5 @@
 - pkg:maven/be.personify.iam/personify-api@1.5.1.RELEASE?classifier=sources
 - pkg:maven/be.personify.iam/personify-api@1.5.2.RELEASE
 - pkg:maven/be.personify.iam/personify-api@1.5.2.RELEASE?classifier=sources
+- pkg:maven/be.personify.iam/personify-api@1.5.3.RELEASE
+- pkg:maven/be.personify.iam/personify-api@1.5.3.RELEASE?classifier=sources

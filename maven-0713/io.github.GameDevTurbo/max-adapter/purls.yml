@@ -9,3 +9,4 @@
 - pkg:maven/io.github.GameDevTurbo/max-adapter@11.3.3.71?classifier=sources
 - pkg:maven/io.github.GameDevTurbo/max-adapter@11.3.3.72?classifier=sources
 - pkg:maven/io.github.GameDevTurbo/max-adapter@11.3.3.73?classifier=sources
+- pkg:maven/io.github.GameDevTurbo/max-adapter@11.3.3.74?classifier=sources

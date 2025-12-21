@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm.at.shoelace-style/animations@1.1.0?classifier=sources
+- pkg:maven/org.mvnpm.at.shoelace-style/animations@1.2.0?classifier=sources

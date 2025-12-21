@@ -12,3 +12,5 @@
 - pkg:maven/at.asitplus.wallet/eupidcredential@2.2.2?classifier=sources
 - pkg:maven/at.asitplus.wallet/eupidcredential@2.2.3?classifier=sources
 - pkg:maven/at.asitplus.wallet/eupidcredential@2.3.0?classifier=sources
+- pkg:maven/at.asitplus.wallet/eupidcredential@2.3.1?classifier=sources
+- pkg:maven/at.asitplus.wallet/eupidcredential@2.3.2?classifier=sources

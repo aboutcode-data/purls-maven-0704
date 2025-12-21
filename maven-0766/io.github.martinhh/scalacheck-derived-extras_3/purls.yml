@@ -1,0 +1,2 @@
+- pkg:maven/io.github.martinhh/scalacheck-derived-extras_3@0.6.0
+- pkg:maven/io.github.martinhh/scalacheck-derived-extras_3@0.6.0?classifier=sources

@@ -86,3 +86,5 @@
 - pkg:maven/org.camunda.connect/camunda-connect-core@7.23.0-alpha1?classifier=sources
 - pkg:maven/org.camunda.connect/camunda-connect-core@7.23.0-alpha2
 - pkg:maven/org.camunda.connect/camunda-connect-core@7.23.0-alpha2?classifier=sources
+- pkg:maven/org.camunda.connect/camunda-connect-core@7.23.0-alpha3
+- pkg:maven/org.camunda.connect/camunda-connect-core@7.23.0-alpha3?classifier=sources

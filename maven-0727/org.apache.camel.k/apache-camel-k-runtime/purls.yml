@@ -31,6 +31,7 @@
 - pkg:maven/org.apache.camel.k/apache-camel-k-runtime@1.9.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.k/apache-camel-k-runtime@2.16.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.k/apache-camel-k-runtime@3.15.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel.k/apache-camel-k-runtime@3.15.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.k/apache-camel-k-runtime@3.2.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.k/apache-camel-k-runtime@3.2.3?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.k/apache-camel-k-runtime@3.6.0?classifier=source-release&type=zip

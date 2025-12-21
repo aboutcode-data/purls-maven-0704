@@ -1,0 +1,2 @@
+- pkg:maven/com.iqiny.silly/silly-flowable-70@1.2.10-jdk17
+- pkg:maven/com.iqiny.silly/silly-flowable-70@1.2.10-jdk17?classifier=sources

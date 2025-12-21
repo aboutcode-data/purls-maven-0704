@@ -54,6 +54,10 @@
 - pkg:maven/io.github.pityka/tasks-ssh_2.13@3.0.0-M14?classifier=sources
 - pkg:maven/io.github.pityka/tasks-ssh_2.13@3.0.0-M15
 - pkg:maven/io.github.pityka/tasks-ssh_2.13@3.0.0-M15?classifier=sources
+- pkg:maven/io.github.pityka/tasks-ssh_2.13@3.0.0-M16
+- pkg:maven/io.github.pityka/tasks-ssh_2.13@3.0.0-M16?classifier=sources
+- pkg:maven/io.github.pityka/tasks-ssh_2.13@3.0.0-M17
+- pkg:maven/io.github.pityka/tasks-ssh_2.13@3.0.0-M17?classifier=sources
 - pkg:maven/io.github.pityka/tasks-ssh_2.13@3.0.0-M2
 - pkg:maven/io.github.pityka/tasks-ssh_2.13@3.0.0-M2?classifier=sources
 - pkg:maven/io.github.pityka/tasks-ssh_2.13@3.0.0-M3

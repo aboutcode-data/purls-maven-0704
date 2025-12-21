@@ -8,3 +8,5 @@
 - pkg:maven/dev.ikm.jpms/auto-service@1.0.1-r6?classifier=sources
 - pkg:maven/dev.ikm.jpms/auto-service@1.0.1-r7
 - pkg:maven/dev.ikm.jpms/auto-service@1.0.1-r7?classifier=sources
+- pkg:maven/dev.ikm.jpms/auto-service@1.1.1-r1
+- pkg:maven/dev.ikm.jpms/auto-service@1.1.1-r1?classifier=sources

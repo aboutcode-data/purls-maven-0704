@@ -60,3 +60,4 @@
 - pkg:maven/hu.simplexion.zakadabar/i18n-jvm@2023.2.10?classifier=sources
 - pkg:maven/hu.simplexion.zakadabar/i18n-jvm@2023.4.12?classifier=sources
 - pkg:maven/hu.simplexion.zakadabar/i18n-jvm@2023.4.20?classifier=sources
+- pkg:maven/hu.simplexion.zakadabar/i18n-jvm@2025.1.27?classifier=sources

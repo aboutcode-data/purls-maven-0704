@@ -139,6 +139,10 @@
 - pkg:maven/com.google.cloud/google-cloud-notebooks@1.53.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-notebooks@1.54.0
 - pkg:maven/com.google.cloud/google-cloud-notebooks@1.54.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-notebooks@1.55.0
+- pkg:maven/com.google.cloud/google-cloud-notebooks@1.55.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-notebooks@1.56.0
+- pkg:maven/com.google.cloud/google-cloud-notebooks@1.56.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-notebooks@1.6.0
 - pkg:maven/com.google.cloud/google-cloud-notebooks@1.6.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-notebooks@1.7.0

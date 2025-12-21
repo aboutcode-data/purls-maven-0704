@@ -518,3 +518,5 @@
 - pkg:maven/systems.manifold/manifold-image@2024.1.8?classifier=sources
 - pkg:maven/systems.manifold/manifold-image@2024.1.9
 - pkg:maven/systems.manifold/manifold-image@2024.1.9?classifier=sources
+- pkg:maven/systems.manifold/manifold-image@2025.1.0
+- pkg:maven/systems.manifold/manifold-image@2025.1.0?classifier=sources

@@ -22,3 +22,14 @@
 - pkg:maven/it.unibo.collektive/test-tooling@12.2.1?classifier=sources
 - pkg:maven/it.unibo.collektive/test-tooling@12.2.2?classifier=sources
 - pkg:maven/it.unibo.collektive/test-tooling@12.3.0?classifier=sources
+- pkg:maven/it.unibo.collektive/test-tooling@12.3.1?classifier=sources
+- pkg:maven/it.unibo.collektive/test-tooling@12.3.3?classifier=sources
+- pkg:maven/it.unibo.collektive/test-tooling@13.0.0?classifier=sources
+- pkg:maven/it.unibo.collektive/test-tooling@13.1.0?classifier=sources
+- pkg:maven/it.unibo.collektive/test-tooling@13.1.1?classifier=sources
+- pkg:maven/it.unibo.collektive/test-tooling@14.0.0?classifier=sources
+- pkg:maven/it.unibo.collektive/test-tooling@15.0.0?classifier=sources
+- pkg:maven/it.unibo.collektive/test-tooling@16.0.0?classifier=sources
+- pkg:maven/it.unibo.collektive/test-tooling@16.0.1?classifier=sources
+- pkg:maven/it.unibo.collektive/test-tooling@16.1.0?classifier=sources
+- pkg:maven/it.unibo.collektive/test-tooling@16.1.1?classifier=sources

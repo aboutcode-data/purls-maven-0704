@@ -5,3 +5,6 @@
 - pkg:maven/com.yhyzgn.http/pigeon-spring-starter-abstract@1.0.4?classifier=sources
 - pkg:maven/com.yhyzgn.http/pigeon-spring-starter-abstract@1.1.0?classifier=sources
 - pkg:maven/com.yhyzgn.http/pigeon-spring-starter-abstract@2.0.0?classifier=sources
+- pkg:maven/com.yhyzgn.http/pigeon-spring-starter-abstract@2.0.1?classifier=sources
+- pkg:maven/com.yhyzgn.http/pigeon-spring-starter-abstract@2.0.2?classifier=sources
+- pkg:maven/com.yhyzgn.http/pigeon-spring-starter-abstract@2.0.3?classifier=sources

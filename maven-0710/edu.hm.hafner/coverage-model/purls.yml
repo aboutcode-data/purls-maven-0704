@@ -98,6 +98,8 @@
 - pkg:maven/edu.hm.hafner/coverage-model@0.50.0?classifier=sources
 - pkg:maven/edu.hm.hafner/coverage-model@0.51.0
 - pkg:maven/edu.hm.hafner/coverage-model@0.51.0?classifier=sources
+- pkg:maven/edu.hm.hafner/coverage-model@0.53.0
+- pkg:maven/edu.hm.hafner/coverage-model@0.53.0?classifier=sources
 - pkg:maven/edu.hm.hafner/coverage-model@0.6.0
 - pkg:maven/edu.hm.hafner/coverage-model@0.6.0?classifier=sources
 - pkg:maven/edu.hm.hafner/coverage-model@0.7.0

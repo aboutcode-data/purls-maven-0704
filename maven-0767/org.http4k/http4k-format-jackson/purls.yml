@@ -955,6 +955,7 @@
 - pkg:maven/org.http4k/http4k-format-jackson@4.47.1.0?classifier=sources
 - pkg:maven/org.http4k/http4k-format-jackson@4.47.2.0?classifier=sources
 - pkg:maven/org.http4k/http4k-format-jackson@4.48.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-format-jackson@4.48.2.0?classifier=sources
 - pkg:maven/org.http4k/http4k-format-jackson@4.5.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-format-jackson@4.5.0.1?classifier=sources
 - pkg:maven/org.http4k/http4k-format-jackson@4.6.0.0?classifier=sources
@@ -1081,6 +1082,8 @@
 - pkg:maven/org.http4k/http4k-format-jackson@5.45.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-format-jackson@5.45.1.0?classifier=sources
 - pkg:maven/org.http4k/http4k-format-jackson@5.45.2.0?classifier=sources
+- pkg:maven/org.http4k/http4k-format-jackson@5.46.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-format-jackson@5.47.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-format-jackson@5.5.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-format-jackson@5.6.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-format-jackson@5.6.1.0?classifier=sources
@@ -1103,3 +1106,5 @@
 - pkg:maven/org.http4k/http4k-format-jackson@5.8.5.1?classifier=sources
 - pkg:maven/org.http4k/http4k-format-jackson@5.8.6.0?classifier=sources
 - pkg:maven/org.http4k/http4k-format-jackson@5.9.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-format-jackson@6.0.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-format-jackson@6.0.1.0?classifier=sources

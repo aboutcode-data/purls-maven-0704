@@ -65,6 +65,8 @@
 - pkg:maven/xyz.erupt/erupt-cloud-server@1.12.17?classifier=sources
 - pkg:maven/xyz.erupt/erupt-cloud-server@1.12.18
 - pkg:maven/xyz.erupt/erupt-cloud-server@1.12.18?classifier=sources
+- pkg:maven/xyz.erupt/erupt-cloud-server@1.12.19
+- pkg:maven/xyz.erupt/erupt-cloud-server@1.12.19?classifier=sources
 - pkg:maven/xyz.erupt/erupt-cloud-server@1.12.1?classifier=sources
 - pkg:maven/xyz.erupt/erupt-cloud-server@1.12.2
 - pkg:maven/xyz.erupt/erupt-cloud-server@1.12.2?classifier=sources

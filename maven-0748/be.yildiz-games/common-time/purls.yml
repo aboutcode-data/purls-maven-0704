@@ -1,6 +1,8 @@
 - pkg:maven/be.yildiz-games/common-time@1.0.0
 - pkg:maven/be.yildiz-games/common-time@1.0.0?classifier=sources
 - pkg:maven/be.yildiz-games/common-time@1.0.1
+- pkg:maven/be.yildiz-games/common-time@1.0.10
+- pkg:maven/be.yildiz-games/common-time@1.0.10?classifier=sources
 - pkg:maven/be.yildiz-games/common-time@1.0.1?classifier=sources
 - pkg:maven/be.yildiz-games/common-time@1.0.3
 - pkg:maven/be.yildiz-games/common-time@1.0.3?classifier=sources
