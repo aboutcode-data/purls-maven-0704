@@ -36,3 +36,6 @@
 - pkg:maven/org.noear/solon-ai-repo-qdrant@3.3.1-M1?classifier=sources
 - pkg:maven/org.noear/solon-ai-repo-qdrant@3.3.1-M2?classifier=sources
 - pkg:maven/org.noear/solon-ai-repo-qdrant@3.3.1-M3?classifier=sources
+- pkg:maven/org.noear/solon-ai-repo-qdrant@3.3.1-RC?classifier=sources
+- pkg:maven/org.noear/solon-ai-repo-qdrant@3.3.1?classifier=sources
+- pkg:maven/org.noear/solon-ai-repo-qdrant@3.3.2-M1?classifier=sources

@@ -24,3 +24,6 @@
 - pkg:maven/io.dyte/webrtc-js@0.118.0?classifier=sources
 - pkg:maven/io.dyte/webrtc-js@0.118.1?classifier=sources
 - pkg:maven/io.dyte/webrtc-js@0.119.0?classifier=sources
+- pkg:maven/io.dyte/webrtc-js@0.120.0?classifier=sources
+- pkg:maven/io.dyte/webrtc-js@0.120.1?classifier=sources
+- pkg:maven/io.dyte/webrtc-js@0.120.2?classifier=sources

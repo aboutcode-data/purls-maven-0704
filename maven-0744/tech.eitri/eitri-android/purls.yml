@@ -1,4 +1,7 @@
 - pkg:maven/tech.eitri/eitri-android@0.0.0?classifier=sources
+- pkg:maven/tech.eitri/eitri-android@2.36.1-alpha?classifier=sources
+- pkg:maven/tech.eitri/eitri-android@2.36.1?classifier=sources
+- pkg:maven/tech.eitri/eitri-android@3.10.0?classifier=sources
 - pkg:maven/tech.eitri/eitri-android@3.7.0?classifier=sources
 - pkg:maven/tech.eitri/eitri-android@3.8.0?classifier=sources
 - pkg:maven/tech.eitri/eitri-android@3.8.1?classifier=sources

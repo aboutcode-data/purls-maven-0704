@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel/camel-jbang-plugin-edit@4.12.0
+- pkg:maven/org.apache.camel/camel-jbang-plugin-edit@4.12.0?classifier=sources

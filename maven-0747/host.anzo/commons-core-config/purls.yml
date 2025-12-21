@@ -1,0 +1,6 @@
+- pkg:maven/host.anzo/commons-core-config@1.50?classifier=sources
+- pkg:maven/host.anzo/commons-core-config@1.51?classifier=sources
+- pkg:maven/host.anzo/commons-core-config@1.52?classifier=sources
+- pkg:maven/host.anzo/commons-core-config@1.53?classifier=sources
+- pkg:maven/host.anzo/commons-core-config@1.54?classifier=sources
+- pkg:maven/host.anzo/commons-core-config@1.56?classifier=sources

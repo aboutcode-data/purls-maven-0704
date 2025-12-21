@@ -6,3 +6,5 @@
 - pkg:maven/com.quinsoft.zeidon/zeidon-jaxrs@2.1.0?classifier=sources
 - pkg:maven/com.quinsoft.zeidon/zeidon-jaxrs@2.2.0
 - pkg:maven/com.quinsoft.zeidon/zeidon-jaxrs@2.2.0?classifier=sources
+- pkg:maven/com.quinsoft.zeidon/zeidon-jaxrs@2.3.0
+- pkg:maven/com.quinsoft.zeidon/zeidon-jaxrs@2.3.0?classifier=sources

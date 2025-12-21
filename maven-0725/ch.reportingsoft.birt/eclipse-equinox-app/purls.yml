@@ -1,2 +1,4 @@
 - pkg:maven/ch.reportingsoft.birt/eclipse-equinox-app@1.7.200
 - pkg:maven/ch.reportingsoft.birt/eclipse-equinox-app@1.7.200?classifier=sources
+- pkg:maven/ch.reportingsoft.birt/eclipse-equinox-app@1.7.300
+- pkg:maven/ch.reportingsoft.birt/eclipse-equinox-app@1.7.300?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/io.github.projectunified/uni-item-nexo@1.0.0?classifier=sources
+- pkg:maven/io.github.projectunified/uni-item-nexo@1.1.0?classifier=sources
+- pkg:maven/io.github.projectunified/uni-item-nexo@1.2.0?classifier=sources
+- pkg:maven/io.github.projectunified/uni-item-nexo@2.0.0?classifier=sources
+- pkg:maven/io.github.projectunified/uni-item-nexo@2.1.0?classifier=sources
+- pkg:maven/io.github.projectunified/uni-item-nexo@2.1.1?classifier=sources
+- pkg:maven/io.github.projectunified/uni-item-nexo@2.2.0?classifier=sources
+- pkg:maven/io.github.projectunified/uni-item-nexo@2.2.1?classifier=sources

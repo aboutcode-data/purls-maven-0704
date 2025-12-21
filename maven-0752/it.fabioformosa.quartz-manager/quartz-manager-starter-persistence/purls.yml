@@ -12,3 +12,4 @@
 - pkg:maven/it.fabioformosa.quartz-manager/quartz-manager-starter-persistence@4.0.8?classifier=sources
 - pkg:maven/it.fabioformosa.quartz-manager/quartz-manager-starter-persistence@4.0.9
 - pkg:maven/it.fabioformosa.quartz-manager/quartz-manager-starter-persistence@4.0.9?classifier=sources
+- pkg:maven/it.fabioformosa.quartz-manager/quartz-manager-starter-persistence@4?classifier=sources

@@ -1,3 +1,5 @@
 - pkg:maven/de.averbis.textanalysis/health-typesystems-bom@3.24.0
 - pkg:maven/de.averbis.textanalysis/health-typesystems-bom@3.25.0
 - pkg:maven/de.averbis.textanalysis/health-typesystems-bom@3.26.0
+- pkg:maven/de.averbis.textanalysis/health-typesystems-bom@3.27.0
+- pkg:maven/de.averbis.textanalysis/health-typesystems-bom@3.28.0

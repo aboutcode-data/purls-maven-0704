@@ -1,2 +1,4 @@
+- pkg:maven/org.mvnpm/remark-parse@10.0.2
+- pkg:maven/org.mvnpm/remark-parse@10.0.2?classifier=sources
 - pkg:maven/org.mvnpm/remark-parse@11.0.0?classifier=sources
 - pkg:maven/org.mvnpm/remark-parse@9.0.0?classifier=sources

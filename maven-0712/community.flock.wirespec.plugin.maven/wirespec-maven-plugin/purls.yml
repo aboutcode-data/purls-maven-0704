@@ -32,6 +32,11 @@
 - pkg:maven/community.flock.wirespec.plugin.maven/wirespec-maven-plugin@0.13.0?classifier=sources
 - pkg:maven/community.flock.wirespec.plugin.maven/wirespec-maven-plugin@0.13.1?classifier=sources
 - pkg:maven/community.flock.wirespec.plugin.maven/wirespec-maven-plugin@0.14.10?classifier=sources
+- pkg:maven/community.flock.wirespec.plugin.maven/wirespec-maven-plugin@0.14.11?classifier=sources
+- pkg:maven/community.flock.wirespec.plugin.maven/wirespec-maven-plugin@0.14.25?classifier=sources
+- pkg:maven/community.flock.wirespec.plugin.maven/wirespec-maven-plugin@0.14.28?classifier=sources
+- pkg:maven/community.flock.wirespec.plugin.maven/wirespec-maven-plugin@0.14.29?classifier=sources
+- pkg:maven/community.flock.wirespec.plugin.maven/wirespec-maven-plugin@0.14.30?classifier=sources
 - pkg:maven/community.flock.wirespec.plugin.maven/wirespec-maven-plugin@0.14.3?classifier=sources
 - pkg:maven/community.flock.wirespec.plugin.maven/wirespec-maven-plugin@0.8.10?classifier=sources
 - pkg:maven/community.flock.wirespec.plugin.maven/wirespec-maven-plugin@0.8.11?classifier=sources

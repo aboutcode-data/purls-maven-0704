@@ -3,3 +3,5 @@
 - pkg:maven/org.mvnpm.at.types/codemirror@5.60.12?classifier=sources
 - pkg:maven/org.mvnpm.at.types/codemirror@5.60.14?classifier=sources
 - pkg:maven/org.mvnpm.at.types/codemirror@5.60.15?classifier=sources
+- pkg:maven/org.mvnpm.at.types/codemirror@5.60.16
+- pkg:maven/org.mvnpm.at.types/codemirror@5.60.16?classifier=sources

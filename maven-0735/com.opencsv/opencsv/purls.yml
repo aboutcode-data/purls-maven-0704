@@ -40,6 +40,10 @@
 - pkg:maven/com.opencsv/opencsv@5.0?classifier=sources
 - pkg:maven/com.opencsv/opencsv@5.1
 - pkg:maven/com.opencsv/opencsv@5.10?classifier=sources
+- pkg:maven/com.opencsv/opencsv@5.11
+- pkg:maven/com.opencsv/opencsv@5.11.1
+- pkg:maven/com.opencsv/opencsv@5.11.1?classifier=sources
+- pkg:maven/com.opencsv/opencsv@5.11?classifier=sources
 - pkg:maven/com.opencsv/opencsv@5.1?classifier=sources
 - pkg:maven/com.opencsv/opencsv@5.2
 - pkg:maven/com.opencsv/opencsv@5.2?classifier=sources

@@ -24,3 +24,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-restapi@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-restapi@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-restapi@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-restapi@RELEASE260?classifier=sources

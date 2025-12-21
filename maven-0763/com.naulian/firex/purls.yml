@@ -1,1 +1,2 @@
 - pkg:maven/com.naulian/firex@1.4.0-alpha01?classifier=sources
+- pkg:maven/com.naulian/firex@1.4.0-rc?classifier=sources

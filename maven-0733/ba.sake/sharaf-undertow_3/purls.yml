@@ -1,0 +1,2 @@
+- pkg:maven/ba.sake/sharaf-undertow_3@0.10.0
+- pkg:maven/ba.sake/sharaf-undertow_3@0.10.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/io.github.marcinzh/turbolift-bindless-next_3@0.110.0
 - pkg:maven/io.github.marcinzh/turbolift-bindless-next_3@0.110.0?classifier=sources
+- pkg:maven/io.github.marcinzh/turbolift-bindless-next_3@0.112.0
+- pkg:maven/io.github.marcinzh/turbolift-bindless-next_3@0.112.0?classifier=sources

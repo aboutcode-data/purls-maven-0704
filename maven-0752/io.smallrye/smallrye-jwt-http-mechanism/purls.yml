@@ -69,3 +69,4 @@
 - pkg:maven/io.smallrye/smallrye-jwt-http-mechanism@4.6.0
 - pkg:maven/io.smallrye/smallrye-jwt-http-mechanism@4.6.0?classifier=sources
 - pkg:maven/io.smallrye/smallrye-jwt-http-mechanism@4.6.1?classifier=sources
+- pkg:maven/io.smallrye/smallrye-jwt-http-mechanism@4.6.2?classifier=sources

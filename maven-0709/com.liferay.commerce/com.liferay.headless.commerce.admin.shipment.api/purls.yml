@@ -85,3 +85,4 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.shipment.api@4.1.1?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.shipment.api@5.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.shipment.api@6.0.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.shipment.api@7.0.0?classifier=sources

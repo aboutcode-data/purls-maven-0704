@@ -18,3 +18,5 @@
 - pkg:maven/com.webforj/webforj-terminal@24.22?classifier=sources
 - pkg:maven/com.webforj/webforj-terminal@25.00
 - pkg:maven/com.webforj/webforj-terminal@25.00?classifier=sources
+- pkg:maven/com.webforj/webforj-terminal@25.01
+- pkg:maven/com.webforj/webforj-terminal@25.01?classifier=sources

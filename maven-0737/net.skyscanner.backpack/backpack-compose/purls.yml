@@ -116,3 +116,7 @@
 - pkg:maven/net.skyscanner.backpack/backpack-compose@67.8.0?classifier=sources
 - pkg:maven/net.skyscanner.backpack/backpack-compose@67.9.0?classifier=sources
 - pkg:maven/net.skyscanner.backpack/backpack-compose@68.0.0?classifier=sources
+- pkg:maven/net.skyscanner.backpack/backpack-compose@68.1.0?classifier=sources
+- pkg:maven/net.skyscanner.backpack/backpack-compose@69.0.0?classifier=sources
+- pkg:maven/net.skyscanner.backpack/backpack-compose@69.1.0?classifier=sources
+- pkg:maven/net.skyscanner.backpack/backpack-compose@70.0.0?classifier=sources

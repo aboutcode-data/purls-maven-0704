@@ -1,5 +1,6 @@
 - pkg:maven/io.github.juliarn/npc-lib-minestom@3.0.0-beta10?classifier=sources
 - pkg:maven/io.github.juliarn/npc-lib-minestom@3.0.0-beta11?classifier=sources
+- pkg:maven/io.github.juliarn/npc-lib-minestom@3.0.0-beta12?classifier=sources
 - pkg:maven/io.github.juliarn/npc-lib-minestom@3.0.0-beta6?classifier=sources
 - pkg:maven/io.github.juliarn/npc-lib-minestom@3.0.0-beta7?classifier=sources
 - pkg:maven/io.github.juliarn/npc-lib-minestom@3.0.0-beta8?classifier=sources

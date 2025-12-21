@@ -1,0 +1,2 @@
+- pkg:maven/io.github.otavia-projects/mill-rust_mill0.12_2.13@0.2.5
+- pkg:maven/io.github.otavia-projects/mill-rust_mill0.12_2.13@0.2.5?classifier=sources

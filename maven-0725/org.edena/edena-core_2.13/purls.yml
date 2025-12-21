@@ -1,0 +1,2 @@
+- pkg:maven/org.edena/edena-core_2.13@1.0.0
+- pkg:maven/org.edena/edena-core_2.13@1.0.0?classifier=sources

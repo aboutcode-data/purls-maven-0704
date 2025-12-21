@@ -1,0 +1,1 @@
+- pkg:maven/app.cash.sqldelight/runtime-wasm-js@2.1.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/com.yelstream.topp.standard/topp-standard-polyglarium@0.2.4?classifier=sources
+- pkg:maven/com.yelstream.topp.standard/topp-standard-polyglarium@0.2.6?classifier=sources

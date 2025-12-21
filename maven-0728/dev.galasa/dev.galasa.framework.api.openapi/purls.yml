@@ -9,3 +9,4 @@
 - pkg:maven/dev.galasa/dev.galasa.framework.api.openapi@0.38.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.framework.api.openapi@0.39.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.framework.api.openapi@0.40.0?classifier=sources
+- pkg:maven/dev.galasa/dev.galasa.framework.api.openapi@0.41.0?classifier=sources

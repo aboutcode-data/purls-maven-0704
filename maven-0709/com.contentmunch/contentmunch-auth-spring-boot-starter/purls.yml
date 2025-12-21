@@ -1,0 +1,5 @@
+- pkg:maven/com.contentmunch/contentmunch-auth-spring-boot-starter@7.1.0?classifier=sources
+- pkg:maven/com.contentmunch/contentmunch-auth-spring-boot-starter@7.2.0?classifier=sources
+- pkg:maven/com.contentmunch/contentmunch-auth-spring-boot-starter@7.3.0?classifier=sources
+- pkg:maven/com.contentmunch/contentmunch-auth-spring-boot-starter@7.4.0?classifier=sources
+- pkg:maven/com.contentmunch/contentmunch-auth-spring-boot-starter@7.5.0?classifier=sources

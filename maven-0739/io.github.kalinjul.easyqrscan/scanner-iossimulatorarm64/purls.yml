@@ -7,3 +7,4 @@
 - pkg:maven/io.github.kalinjul.easyqrscan/scanner-iossimulatorarm64@0.1.6?classifier=sources
 - pkg:maven/io.github.kalinjul.easyqrscan/scanner-iossimulatorarm64@0.2.0?classifier=sources
 - pkg:maven/io.github.kalinjul.easyqrscan/scanner-iossimulatorarm64@0.3.0?classifier=sources
+- pkg:maven/io.github.kalinjul.easyqrscan/scanner-iossimulatorarm64@0.4.0?classifier=sources

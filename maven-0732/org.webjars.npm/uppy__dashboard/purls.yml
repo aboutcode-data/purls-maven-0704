@@ -23,3 +23,4 @@
 - pkg:maven/org.webjars.npm/uppy__dashboard@3.6.0
 - pkg:maven/org.webjars.npm/uppy__dashboard@3.6.0?classifier=sources
 - pkg:maven/org.webjars.npm/uppy__dashboard@4.1.2
+- pkg:maven/org.webjars.npm/uppy__dashboard@4.3.4

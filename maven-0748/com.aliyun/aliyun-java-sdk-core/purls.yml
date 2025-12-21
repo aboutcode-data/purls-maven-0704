@@ -295,6 +295,8 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-core@4.7.4
 - pkg:maven/com.aliyun/aliyun-java-sdk-core@4.7.4-20250416-hotfix
 - pkg:maven/com.aliyun/aliyun-java-sdk-core@4.7.4-20250416-hotfix?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-core@4.7.4-20250509-hotfix
+- pkg:maven/com.aliyun/aliyun-java-sdk-core@4.7.4-20250509-hotfix?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-core@4.7.4?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-core@4.7.5
 - pkg:maven/com.aliyun/aliyun-java-sdk-core@4.7.5?classifier=sources

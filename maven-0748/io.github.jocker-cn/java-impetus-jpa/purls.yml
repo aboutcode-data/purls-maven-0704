@@ -16,3 +16,4 @@
 - pkg:maven/io.github.jocker-cn/java-impetus-jpa@1.0.7-Beta?classifier=sources
 - pkg:maven/io.github.jocker-cn/java-impetus-jpa@1.0.8-Beta
 - pkg:maven/io.github.jocker-cn/java-impetus-jpa@1.0.8-Beta?classifier=sources
+- pkg:maven/io.github.jocker-cn/java-impetus-jpa@1.0.9-Beta?classifier=sources

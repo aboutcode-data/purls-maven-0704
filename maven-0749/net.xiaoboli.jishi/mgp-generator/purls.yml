@@ -46,3 +46,4 @@
 - pkg:maven/net.xiaoboli.jishi/mgp-generator@1.0.57?classifier=sources
 - pkg:maven/net.xiaoboli.jishi/mgp-generator@1.0.58
 - pkg:maven/net.xiaoboli.jishi/mgp-generator@1.0.58?classifier=sources
+- pkg:maven/net.xiaoboli.jishi/mgp-generator@1.0.59?classifier=sources

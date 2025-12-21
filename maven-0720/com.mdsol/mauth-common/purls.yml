@@ -54,6 +54,8 @@
 - pkg:maven/com.mdsol/mauth-common@18.0.0?classifier=sources
 - pkg:maven/com.mdsol/mauth-common@18.1.0
 - pkg:maven/com.mdsol/mauth-common@18.1.0?classifier=sources
+- pkg:maven/com.mdsol/mauth-common@19.0.0
+- pkg:maven/com.mdsol/mauth-common@19.0.0?classifier=sources
 - pkg:maven/com.mdsol/mauth-common@2.0.0
 - pkg:maven/com.mdsol/mauth-common@2.0.0?classifier=sources
 - pkg:maven/com.mdsol/mauth-common@2.0.1

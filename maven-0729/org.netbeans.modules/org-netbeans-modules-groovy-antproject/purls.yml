@@ -25,3 +25,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-antproject@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-antproject@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-antproject@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-antproject@RELEASE260?classifier=sources

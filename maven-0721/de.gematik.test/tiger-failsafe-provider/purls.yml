@@ -1,0 +1,4 @@
+- pkg:maven/de.gematik.test/tiger-failsafe-provider@3.7.8
+- pkg:maven/de.gematik.test/tiger-failsafe-provider@3.7.8?classifier=sources
+- pkg:maven/de.gematik.test/tiger-failsafe-provider@3.7.9
+- pkg:maven/de.gematik.test/tiger-failsafe-provider@3.7.9?classifier=sources

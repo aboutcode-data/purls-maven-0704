@@ -7,11 +7,13 @@
 - pkg:maven/io.spinnaker.igor/igor-integration@2025.0.0?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-integration@2025.0.1?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-integration@2025.0.2?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-integration@2025.0.3?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-integration@4.16.0?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-integration@4.16.1?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-integration@4.17.0?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-integration@4.18.0?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-integration@4.18.1?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-integration@4.18.2?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-integration@4.19.0?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-integration@4.19.1?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-integration@4.19.2?classifier=sources
@@ -23,6 +25,10 @@
 - pkg:maven/io.spinnaker.igor/igor-integration@main-11?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-integration@main-12?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-integration@main-13?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-integration@main-14?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-integration@main-15?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-integration@main-16?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-integration@main-17?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-integration@main-5?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-integration@main-6?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-integration@main-7?classifier=sources

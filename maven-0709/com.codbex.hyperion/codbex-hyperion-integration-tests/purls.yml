@@ -8,3 +8,8 @@
 - pkg:maven/com.codbex.hyperion/codbex-hyperion-integration-tests@2.36.0
 - pkg:maven/com.codbex.hyperion/codbex-hyperion-integration-tests@2.37.0
 - pkg:maven/com.codbex.hyperion/codbex-hyperion-integration-tests@2.38.0
+- pkg:maven/com.codbex.hyperion/codbex-hyperion-integration-tests@2.39.0
+- pkg:maven/com.codbex.hyperion/codbex-hyperion-integration-tests@2.40.0
+- pkg:maven/com.codbex.hyperion/codbex-hyperion-integration-tests@2.41.0
+- pkg:maven/com.codbex.hyperion/codbex-hyperion-integration-tests@2.42.0
+- pkg:maven/com.codbex.hyperion/codbex-hyperion-integration-tests@2.43.0

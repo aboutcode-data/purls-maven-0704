@@ -1,0 +1,4 @@
+- pkg:maven/com.github.jelmerk/hnswlib-spark_4_0_2.13@2.0.0-beta.2
+- pkg:maven/com.github.jelmerk/hnswlib-spark_4_0_2.13@2.0.0-beta.2?classifier=sources
+- pkg:maven/com.github.jelmerk/hnswlib-spark_4_0_2.13@HEAD%2B20250602-0825
+- pkg:maven/com.github.jelmerk/hnswlib-spark_4_0_2.13@HEAD%2B20250602-0825?classifier=sources

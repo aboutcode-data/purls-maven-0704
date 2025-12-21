@@ -12,6 +12,7 @@
 - pkg:maven/io.github.ivysdk/Max@10.0.21?classifier=sources
 - pkg:maven/io.github.ivysdk/Max@10.0.22?classifier=sources
 - pkg:maven/io.github.ivysdk/Max@10.0.23?classifier=sources
+- pkg:maven/io.github.ivysdk/Max@10.0.24?classifier=sources
 - pkg:maven/io.github.ivysdk/Max@10.0.3?classifier=sources
 - pkg:maven/io.github.ivysdk/Max@10.0.4?classifier=sources
 - pkg:maven/io.github.ivysdk/Max@10.0.5?classifier=sources

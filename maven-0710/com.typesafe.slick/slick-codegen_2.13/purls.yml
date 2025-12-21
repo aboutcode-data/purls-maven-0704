@@ -34,3 +34,5 @@
 - pkg:maven/com.typesafe.slick/slick-codegen_2.13@3.5.2?classifier=sources
 - pkg:maven/com.typesafe.slick/slick-codegen_2.13@3.6.0
 - pkg:maven/com.typesafe.slick/slick-codegen_2.13@3.6.0?classifier=sources
+- pkg:maven/com.typesafe.slick/slick-codegen_2.13@3.6.1
+- pkg:maven/com.typesafe.slick/slick-codegen_2.13@3.6.1?classifier=sources

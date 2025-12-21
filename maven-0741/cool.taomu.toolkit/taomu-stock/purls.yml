@@ -1,0 +1,2 @@
+- pkg:maven/cool.taomu.toolkit/taomu-stock@0.0.2-SNAPSHOT-1?classifier=sources
+- pkg:maven/cool.taomu.toolkit/taomu-stock@0.0.3?classifier=sources

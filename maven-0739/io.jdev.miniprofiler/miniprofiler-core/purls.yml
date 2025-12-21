@@ -1,3 +1,4 @@
+- pkg:maven/io.jdev.miniprofiler/miniprofiler-core@0.10.0?classifier=sources
 - pkg:maven/io.jdev.miniprofiler/miniprofiler-core@0.3
 - pkg:maven/io.jdev.miniprofiler/miniprofiler-core@0.3?classifier=sources
 - pkg:maven/io.jdev.miniprofiler/miniprofiler-core@0.4

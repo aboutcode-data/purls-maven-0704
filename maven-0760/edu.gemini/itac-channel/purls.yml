@@ -132,3 +132,5 @@
 - pkg:maven/edu.gemini/itac-channel@2024.2.0?classifier=sources
 - pkg:maven/edu.gemini/itac-channel@2025.1.0
 - pkg:maven/edu.gemini/itac-channel@2025.1.0?classifier=sources
+- pkg:maven/edu.gemini/itac-channel@2025.2.0
+- pkg:maven/edu.gemini/itac-channel@2025.2.0?classifier=sources

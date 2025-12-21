@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm/micromark-extension-gfm-table@0.4.3?classifier=sources
+- pkg:maven/org.mvnpm/micromark-extension-gfm-table@1.0.7
+- pkg:maven/org.mvnpm/micromark-extension-gfm-table@1.0.7?classifier=sources
 - pkg:maven/org.mvnpm/micromark-extension-gfm-table@2.1.1?classifier=sources

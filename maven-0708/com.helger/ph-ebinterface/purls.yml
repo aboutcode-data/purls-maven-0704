@@ -61,3 +61,4 @@
 - pkg:maven/com.helger/ph-ebinterface@7.0.0?classifier=sources
 - pkg:maven/com.helger/ph-ebinterface@7.1.0
 - pkg:maven/com.helger/ph-ebinterface@7.1.0?classifier=sources
+- pkg:maven/com.helger/ph-ebinterface@7.1.1?classifier=sources

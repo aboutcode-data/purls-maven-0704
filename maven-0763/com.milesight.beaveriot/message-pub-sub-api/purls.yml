@@ -1,0 +1,2 @@
+- pkg:maven/com.milesight.beaveriot/message-pub-sub-api@1.2.0?classifier=sources
+- pkg:maven/com.milesight.beaveriot/message-pub-sub-api@1.2.1?classifier=sources

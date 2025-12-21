@@ -1,1 +1,2 @@
 - pkg:maven/io.github.kalinjul.kotlin.multiplatform/oidc-ktor-wasm-js@0.12.3?classifier=sources
+- pkg:maven/io.github.kalinjul.kotlin.multiplatform/oidc-ktor-wasm-js@0.12.4?classifier=sources

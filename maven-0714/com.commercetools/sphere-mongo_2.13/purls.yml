@@ -57,6 +57,8 @@
 - pkg:maven/com.commercetools/sphere-mongo_2.13@0.15.0
 - pkg:maven/com.commercetools/sphere-mongo_2.13@0.15.0?classifier=sources
 - pkg:maven/com.commercetools/sphere-mongo_2.13@0.15.1
+- pkg:maven/com.commercetools/sphere-mongo_2.13@0.15.10
+- pkg:maven/com.commercetools/sphere-mongo_2.13@0.15.10?classifier=sources
 - pkg:maven/com.commercetools/sphere-mongo_2.13@0.15.1?classifier=sources
 - pkg:maven/com.commercetools/sphere-mongo_2.13@0.15.2
 - pkg:maven/com.commercetools/sphere-mongo_2.13@0.15.2?classifier=sources
@@ -68,3 +70,9 @@
 - pkg:maven/com.commercetools/sphere-mongo_2.13@0.15.5?classifier=sources
 - pkg:maven/com.commercetools/sphere-mongo_2.13@0.15.6
 - pkg:maven/com.commercetools/sphere-mongo_2.13@0.15.6?classifier=sources
+- pkg:maven/com.commercetools/sphere-mongo_2.13@0.15.7
+- pkg:maven/com.commercetools/sphere-mongo_2.13@0.15.7?classifier=sources
+- pkg:maven/com.commercetools/sphere-mongo_2.13@0.15.8
+- pkg:maven/com.commercetools/sphere-mongo_2.13@0.15.8?classifier=sources
+- pkg:maven/com.commercetools/sphere-mongo_2.13@0.15.9
+- pkg:maven/com.commercetools/sphere-mongo_2.13@0.15.9?classifier=sources

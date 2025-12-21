@@ -1,1 +1,2 @@
+- pkg:maven/fun.adaptive/adaptive-lib-graphics@0.25.515-RC1?classifier=sources
 - pkg:maven/fun.adaptive/adaptive-lib-graphics@0.7.0?classifier=sources

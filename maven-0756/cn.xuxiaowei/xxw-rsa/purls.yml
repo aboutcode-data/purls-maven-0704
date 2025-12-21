@@ -1,0 +1,2 @@
+- pkg:maven/cn.xuxiaowei/xxw-rsa@0.0.2
+- pkg:maven/cn.xuxiaowei/xxw-rsa@0.0.2?classifier=sources

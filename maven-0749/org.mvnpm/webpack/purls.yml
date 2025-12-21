@@ -16,3 +16,5 @@
 - pkg:maven/org.mvnpm/webpack@5.99.7?classifier=sources
 - pkg:maven/org.mvnpm/webpack@5.99.8
 - pkg:maven/org.mvnpm/webpack@5.99.8?classifier=sources
+- pkg:maven/org.mvnpm/webpack@5.99.9
+- pkg:maven/org.mvnpm/webpack@5.99.9?classifier=sources

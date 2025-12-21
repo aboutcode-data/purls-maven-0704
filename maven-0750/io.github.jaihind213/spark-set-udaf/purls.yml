@@ -1,0 +1,3 @@
+- pkg:maven/io.github.jaihind213/spark-set-udaf@spark3.5.2-scala2.13-1.0.0?classifier=sources
+- pkg:maven/io.github.jaihind213/spark-set-udaf@spark3.5.2-scala2.13-1.0.1-jdk11?classifier=sources
+- pkg:maven/io.github.jaihind213/spark-set-udaf@spark3.5.2-scala2.13-1.0.1?classifier=sources

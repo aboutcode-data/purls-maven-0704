@@ -602,6 +602,10 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-webjar-handlers@17.3.0-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-webjar-handlers@17.3.0-rc-1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-webjar-handlers@17.3.0?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-webjar-handlers@17.4.0
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-webjar-handlers@17.4.0-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-webjar-handlers@17.4.0-rc-1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-webjar-handlers@17.4.0?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-webjar-handlers@9.0
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-webjar-handlers@9.0-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-webjar-handlers@9.0-rc-1?classifier=sources

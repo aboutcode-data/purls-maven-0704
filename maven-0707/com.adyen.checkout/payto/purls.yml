@@ -1,1 +1,2 @@
 - pkg:maven/com.adyen.checkout/payto@5.10.0?classifier=sources
+- pkg:maven/com.adyen.checkout/payto@5.11.0?classifier=sources

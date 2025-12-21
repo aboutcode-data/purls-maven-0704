@@ -13,3 +13,6 @@
 - pkg:maven/com.truv.sdk/android_sdk@1.7.1?classifier=sources
 - pkg:maven/com.truv.sdk/android_sdk@1.8.0-rc.1?classifier=sources
 - pkg:maven/com.truv.sdk/android_sdk@1.8.0?classifier=sources
+- pkg:maven/com.truv.sdk/android_sdk@1.8.1-rc.2?classifier=sources
+- pkg:maven/com.truv.sdk/android_sdk@1.8.1?classifier=sources
+- pkg:maven/com.truv.sdk/android_sdk@1.9.0-rc.1?classifier=sources

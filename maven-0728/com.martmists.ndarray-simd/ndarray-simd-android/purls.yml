@@ -12,3 +12,8 @@
 - pkg:maven/com.martmists.ndarray-simd/ndarray-simd-android@1.5.4?classifier=sources
 - pkg:maven/com.martmists.ndarray-simd/ndarray-simd-android@1.5.5-14d1e4a?classifier=sources
 - pkg:maven/com.martmists.ndarray-simd/ndarray-simd-android@1.5.5?classifier=sources
+- pkg:maven/com.martmists.ndarray-simd/ndarray-simd-android@1.6.0-aeb6c11?classifier=sources
+- pkg:maven/com.martmists.ndarray-simd/ndarray-simd-android@1.6.0?classifier=sources
+- pkg:maven/com.martmists.ndarray-simd/ndarray-simd-android@1.7.0-8716687?classifier=sources
+- pkg:maven/com.martmists.ndarray-simd/ndarray-simd-android@1.7.0-be857fc?classifier=sources
+- pkg:maven/com.martmists.ndarray-simd/ndarray-simd-android@1.7.0?classifier=sources

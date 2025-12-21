@@ -16,3 +16,5 @@
 - pkg:maven/io.apicurio/apicurio-registry-jsonschema-serde-kafka@3.0.6?classifier=sources
 - pkg:maven/io.apicurio/apicurio-registry-jsonschema-serde-kafka@3.0.7
 - pkg:maven/io.apicurio/apicurio-registry-jsonschema-serde-kafka@3.0.7?classifier=sources
+- pkg:maven/io.apicurio/apicurio-registry-jsonschema-serde-kafka@3.0.8
+- pkg:maven/io.apicurio/apicurio-registry-jsonschema-serde-kafka@3.0.8?classifier=sources

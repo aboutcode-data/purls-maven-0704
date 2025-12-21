@@ -7,3 +7,4 @@
 - pkg:maven/net.luckperms/api@5.3
 - pkg:maven/net.luckperms/api@5.3?classifier=sources
 - pkg:maven/net.luckperms/api@5.4?classifier=sources
+- pkg:maven/net.luckperms/api@5.5?classifier=sources

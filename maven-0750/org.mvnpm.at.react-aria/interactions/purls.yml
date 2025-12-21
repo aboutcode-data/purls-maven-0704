@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm.at.react-aria/interactions@3.24.1?classifier=sources
 - pkg:maven/org.mvnpm.at.react-aria/interactions@3.25.0?classifier=sources
+- pkg:maven/org.mvnpm.at.react-aria/interactions@3.25.1
+- pkg:maven/org.mvnpm.at.react-aria/interactions@3.25.1?classifier=sources

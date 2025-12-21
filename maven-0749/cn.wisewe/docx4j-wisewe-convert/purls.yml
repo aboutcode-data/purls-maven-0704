@@ -8,3 +8,4 @@
 - pkg:maven/cn.wisewe/docx4j-wisewe-convert@1.6.1.RELEASE?classifier=sources
 - pkg:maven/cn.wisewe/docx4j-wisewe-convert@1.7.0.RELEASE
 - pkg:maven/cn.wisewe/docx4j-wisewe-convert@1.7.0.RELEASE?classifier=sources
+- pkg:maven/cn.wisewe/docx4j-wisewe-convert@1.7.1.RELEASE?classifier=sources

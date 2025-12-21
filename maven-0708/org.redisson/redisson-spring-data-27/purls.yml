@@ -122,3 +122,7 @@
 - pkg:maven/org.redisson/redisson-spring-data-27@3.45.1?classifier=sources
 - pkg:maven/org.redisson/redisson-spring-data-27@3.46.0
 - pkg:maven/org.redisson/redisson-spring-data-27@3.46.0?classifier=sources
+- pkg:maven/org.redisson/redisson-spring-data-27@3.47.0
+- pkg:maven/org.redisson/redisson-spring-data-27@3.47.0?classifier=sources
+- pkg:maven/org.redisson/redisson-spring-data-27@3.48.0
+- pkg:maven/org.redisson/redisson-spring-data-27@3.48.0?classifier=sources

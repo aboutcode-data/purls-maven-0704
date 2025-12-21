@@ -5,3 +5,4 @@
 - pkg:maven/io.github.naksha-oss/here-naksha-lib-base-js@3.0.0-beta.21?classifier=sources
 - pkg:maven/io.github.naksha-oss/here-naksha-lib-base-js@3.0.0-beta.22?classifier=sources
 - pkg:maven/io.github.naksha-oss/here-naksha-lib-base-js@3.0.0-beta.23?classifier=sources
+- pkg:maven/io.github.naksha-oss/here-naksha-lib-base-js@3.0.0-beta.24?classifier=sources

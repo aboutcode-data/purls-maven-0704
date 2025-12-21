@@ -3,3 +3,4 @@
 - pkg:maven/cloud.mindbox/mindbox-rustore@2.13.0-rc?classifier=sources
 - pkg:maven/cloud.mindbox/mindbox-rustore@2.13.0?classifier=sources
 - pkg:maven/cloud.mindbox/mindbox-rustore@2.13.2-rc?classifier=sources
+- pkg:maven/cloud.mindbox/mindbox-rustore@2.13.3?classifier=sources

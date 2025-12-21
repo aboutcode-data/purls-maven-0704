@@ -52,6 +52,7 @@
 - pkg:maven/io.micronaut.spring/micronaut-spring-boot@5.1.0?classifier=sources
 - pkg:maven/io.micronaut.spring/micronaut-spring-boot@5.1.1?classifier=sources
 - pkg:maven/io.micronaut.spring/micronaut-spring-boot@5.10.0?classifier=sources
+- pkg:maven/io.micronaut.spring/micronaut-spring-boot@5.10.1?classifier=sources
 - pkg:maven/io.micronaut.spring/micronaut-spring-boot@5.2.0?classifier=sources
 - pkg:maven/io.micronaut.spring/micronaut-spring-boot@5.3.0?classifier=sources
 - pkg:maven/io.micronaut.spring/micronaut-spring-boot@5.3.1?classifier=sources

@@ -52,3 +52,4 @@
 - pkg:maven/org.eclipse.jetty.ee10.websocket/jetty-ee10-websocket-jetty-client-webapp@12.1.0.alpha1?classifier=sources
 - pkg:maven/org.eclipse.jetty.ee10.websocket/jetty-ee10-websocket-jetty-client-webapp@12.1.0.alpha2
 - pkg:maven/org.eclipse.jetty.ee10.websocket/jetty-ee10-websocket-jetty-client-webapp@12.1.0.alpha2?classifier=sources
+- pkg:maven/org.eclipse.jetty.ee10.websocket/jetty-ee10-websocket-jetty-client-webapp@12.1.0.beta0?classifier=sources

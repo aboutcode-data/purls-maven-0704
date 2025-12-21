@@ -21,3 +21,4 @@
 - pkg:maven/org.danilopianini/maven-central-portal-kotlin-api-linuxarm64@2.8.1?classifier=sources
 - pkg:maven/org.danilopianini/maven-central-portal-kotlin-api-linuxarm64@2.8.2?classifier=sources
 - pkg:maven/org.danilopianini/maven-central-portal-kotlin-api-linuxarm64@2.9.0?classifier=sources
+- pkg:maven/org.danilopianini/maven-central-portal-kotlin-api-linuxarm64@3.0.0?classifier=sources

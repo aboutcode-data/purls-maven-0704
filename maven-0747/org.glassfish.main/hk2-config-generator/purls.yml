@@ -28,6 +28,8 @@
 - pkg:maven/org.glassfish.main/hk2-config-generator@7.0.23?classifier=sources
 - pkg:maven/org.glassfish.main/hk2-config-generator@7.0.24
 - pkg:maven/org.glassfish.main/hk2-config-generator@7.0.24?classifier=sources
+- pkg:maven/org.glassfish.main/hk2-config-generator@7.0.25
+- pkg:maven/org.glassfish.main/hk2-config-generator@7.0.25?classifier=sources
 - pkg:maven/org.glassfish.main/hk2-config-generator@7.0.5
 - pkg:maven/org.glassfish.main/hk2-config-generator@7.0.5?classifier=sources
 - pkg:maven/org.glassfish.main/hk2-config-generator@7.0.6
@@ -40,6 +42,8 @@
 - pkg:maven/org.glassfish.main/hk2-config-generator@7.0.9?classifier=sources
 - pkg:maven/org.glassfish.main/hk2-config-generator@8.0.0-JDK17-M10
 - pkg:maven/org.glassfish.main/hk2-config-generator@8.0.0-JDK17-M10?classifier=sources
+- pkg:maven/org.glassfish.main/hk2-config-generator@8.0.0-JDK17-M12
+- pkg:maven/org.glassfish.main/hk2-config-generator@8.0.0-JDK17-M12?classifier=sources
 - pkg:maven/org.glassfish.main/hk2-config-generator@8.0.0-JDK17-M5
 - pkg:maven/org.glassfish.main/hk2-config-generator@8.0.0-JDK17-M5?classifier=sources
 - pkg:maven/org.glassfish.main/hk2-config-generator@8.0.0-JDK17-M6
@@ -53,6 +57,8 @@
 - pkg:maven/org.glassfish.main/hk2-config-generator@8.0.0-M10?classifier=sources
 - pkg:maven/org.glassfish.main/hk2-config-generator@8.0.0-M11
 - pkg:maven/org.glassfish.main/hk2-config-generator@8.0.0-M11?classifier=sources
+- pkg:maven/org.glassfish.main/hk2-config-generator@8.0.0-M12
+- pkg:maven/org.glassfish.main/hk2-config-generator@8.0.0-M12?classifier=sources
 - pkg:maven/org.glassfish.main/hk2-config-generator@8.0.0-M1?classifier=sources
 - pkg:maven/org.glassfish.main/hk2-config-generator@8.0.0-M2
 - pkg:maven/org.glassfish.main/hk2-config-generator@8.0.0-M2?classifier=sources

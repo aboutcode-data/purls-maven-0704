@@ -12,3 +12,11 @@
 - pkg:maven/com.codbex.atlas/codbex-atlas-integration-tests@2.40.0
 - pkg:maven/com.codbex.atlas/codbex-atlas-integration-tests@2.41.0
 - pkg:maven/com.codbex.atlas/codbex-atlas-integration-tests@2.42.0
+- pkg:maven/com.codbex.atlas/codbex-atlas-integration-tests@2.43.0
+- pkg:maven/com.codbex.atlas/codbex-atlas-integration-tests@2.44.0
+- pkg:maven/com.codbex.atlas/codbex-atlas-integration-tests@2.45.0
+- pkg:maven/com.codbex.atlas/codbex-atlas-integration-tests@2.46.0
+- pkg:maven/com.codbex.atlas/codbex-atlas-integration-tests@2.47.0
+- pkg:maven/com.codbex.atlas/codbex-atlas-integration-tests@2.48.0
+- pkg:maven/com.codbex.atlas/codbex-atlas-integration-tests@2.49.0
+- pkg:maven/com.codbex.atlas/codbex-atlas-integration-tests@2.50.0

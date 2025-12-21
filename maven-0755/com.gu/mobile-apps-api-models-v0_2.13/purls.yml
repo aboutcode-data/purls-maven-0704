@@ -279,6 +279,8 @@
 - pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.57-PREVIEW.ldadd-nav-cards-enum.2025-04-30T1153.9a2801f1
 - pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.57-PREVIEW.ldadd-nav-cards-enum.2025-04-30T1153.9a2801f1?classifier=sources
 - pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.57?classifier=sources
+- pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.58
+- pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.58?classifier=sources
 - pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.5?classifier=sources
 - pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.6
 - pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.6?classifier=sources

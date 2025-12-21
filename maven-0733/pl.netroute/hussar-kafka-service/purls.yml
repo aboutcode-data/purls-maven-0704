@@ -10,3 +10,9 @@
 - pkg:maven/pl.netroute/hussar-kafka-service@1.7.0?classifier=sources
 - pkg:maven/pl.netroute/hussar-kafka-service@1.8.0?classifier=sources
 - pkg:maven/pl.netroute/hussar-kafka-service@1.9.0?classifier=sources
+- pkg:maven/pl.netroute/hussar-kafka-service@2.0.0?classifier=sources
+- pkg:maven/pl.netroute/hussar-kafka-service@2.1.0?classifier=sources
+- pkg:maven/pl.netroute/hussar-kafka-service@2.2.0?classifier=sources
+- pkg:maven/pl.netroute/hussar-kafka-service@2.3.0?classifier=sources
+- pkg:maven/pl.netroute/hussar-kafka-service@2.4.0?classifier=sources
+- pkg:maven/pl.netroute/hussar-kafka-service@2.5.0?classifier=sources

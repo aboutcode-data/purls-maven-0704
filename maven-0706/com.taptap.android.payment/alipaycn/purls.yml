@@ -7,8 +7,15 @@
 - pkg:maven/com.taptap.android.payment/alipaycn@4.5.3?classifier=sources
 - pkg:maven/com.taptap.android.payment/alipaycn@4.5.4?classifier=sources
 - pkg:maven/com.taptap.android.payment/alipaycn@4.5.5?classifier=sources
+- pkg:maven/com.taptap.android.payment/alipaycn@4.5.7?classifier=sources
+- pkg:maven/com.taptap.android.payment/alipaycn@4.5.8?classifier=sources
+- pkg:maven/com.taptap.android.payment/alipaycn@4.5.9?classifier=sources
 - pkg:maven/com.taptap.android.payment/alipaycn@4.6.0-beta.1?classifier=sources
 - pkg:maven/com.taptap.android.payment/alipaycn@4.6.0-beta.2?classifier=sources
+- pkg:maven/com.taptap.android.payment/alipaycn@4.6.1-beta.10?classifier=sources
+- pkg:maven/com.taptap.android.payment/alipaycn@4.6.1-beta.11?classifier=sources
+- pkg:maven/com.taptap.android.payment/alipaycn@4.6.1-beta.12?classifier=sources
+- pkg:maven/com.taptap.android.payment/alipaycn@4.6.1-beta.13?classifier=sources
 - pkg:maven/com.taptap.android.payment/alipaycn@4.6.1-beta.1?classifier=sources
 - pkg:maven/com.taptap.android.payment/alipaycn@4.6.1-beta.3?classifier=sources
 - pkg:maven/com.taptap.android.payment/alipaycn@4.6.1-beta.4?classifier=sources

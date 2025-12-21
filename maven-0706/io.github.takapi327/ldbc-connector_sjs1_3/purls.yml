@@ -1,3 +1,4 @@
+- pkg:maven/io.github.takapi327/ldbc-connector_sjs1_3@0.3.0
 - pkg:maven/io.github.takapi327/ldbc-connector_sjs1_3@0.3.0-RC1
 - pkg:maven/io.github.takapi327/ldbc-connector_sjs1_3@0.3.0-RC1?classifier=sources
 - pkg:maven/io.github.takapi327/ldbc-connector_sjs1_3@0.3.0-RC2
@@ -42,3 +43,4 @@
 - pkg:maven/io.github.takapi327/ldbc-connector_sjs1_3@0.3.0-beta8?classifier=sources
 - pkg:maven/io.github.takapi327/ldbc-connector_sjs1_3@0.3.0-beta9
 - pkg:maven/io.github.takapi327/ldbc-connector_sjs1_3@0.3.0-beta9?classifier=sources
+- pkg:maven/io.github.takapi327/ldbc-connector_sjs1_3@0.3.0?classifier=sources

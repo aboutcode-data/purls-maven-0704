@@ -10,3 +10,4 @@
 - pkg:maven/io.opengood.api/rest-api-contracts@4.2.0?classifier=sources
 - pkg:maven/io.opengood.api/rest-api-contracts@4.3.0?classifier=sources
 - pkg:maven/io.opengood.api/rest-api-contracts@4.4.0?classifier=sources
+- pkg:maven/io.opengood.api/rest-api-contracts@4.5.0?classifier=sources
