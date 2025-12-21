@@ -1,0 +1,3 @@
+- pkg:maven/com.quantori/cqp-storage-elasticsearch@0.0.10?classifier=sources
+- pkg:maven/com.quantori/cqp-storage-elasticsearch@0.0.11?classifier=sources
+- pkg:maven/com.quantori/cqp-storage-elasticsearch@0.0.12?classifier=sources

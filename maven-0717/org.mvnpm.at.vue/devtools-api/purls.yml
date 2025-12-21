@@ -1,1 +1,3 @@
 - pkg:maven/org.mvnpm.at.vue/devtools-api@6.6.3?classifier=sources
+- pkg:maven/org.mvnpm.at.vue/devtools-api@6.6.4
+- pkg:maven/org.mvnpm.at.vue/devtools-api@6.6.4?classifier=sources

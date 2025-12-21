@@ -12,3 +12,4 @@
 - pkg:maven/com.google.appengine.demos/sample-badentrypoint@2.0.32?type=war
 - pkg:maven/com.google.appengine.demos/sample-badentrypoint@2.0.33?type=war
 - pkg:maven/com.google.appengine.demos/sample-badentrypoint@2.0.34?type=war
+- pkg:maven/com.google.appengine.demos/sample-badentrypoint@2.0.35?type=war

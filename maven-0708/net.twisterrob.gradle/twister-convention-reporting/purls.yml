@@ -5,3 +5,4 @@
 - pkg:maven/net.twisterrob.gradle/twister-convention-reporting@0.15?classifier=sources
 - pkg:maven/net.twisterrob.gradle/twister-convention-reporting@0.16?classifier=sources
 - pkg:maven/net.twisterrob.gradle/twister-convention-reporting@0.17?classifier=sources
+- pkg:maven/net.twisterrob.gradle/twister-convention-reporting@0.18?classifier=sources

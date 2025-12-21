@@ -1,4 +1,7 @@
 - pkg:maven/io.github.aniketdhakorkar/form-builder-ui-desktop@1.0.0-beta-101?classifier=sources
+- pkg:maven/io.github.aniketdhakorkar/form-builder-ui-desktop@1.0.0-beta-102?classifier=sources
+- pkg:maven/io.github.aniketdhakorkar/form-builder-ui-desktop@1.0.0-beta-103?classifier=sources
+- pkg:maven/io.github.aniketdhakorkar/form-builder-ui-desktop@1.0.0-beta-104?classifier=sources
 - pkg:maven/io.github.aniketdhakorkar/form-builder-ui-desktop@1.0.0-beta-15?classifier=sources
 - pkg:maven/io.github.aniketdhakorkar/form-builder-ui-desktop@1.0.0-beta-16?classifier=sources
 - pkg:maven/io.github.aniketdhakorkar/form-builder-ui-desktop@1.0.0-beta-18?classifier=sources

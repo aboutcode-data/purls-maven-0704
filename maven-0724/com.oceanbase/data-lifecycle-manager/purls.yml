@@ -25,3 +25,4 @@
 - pkg:maven/com.oceanbase/data-lifecycle-manager@1.2.2.bp?classifier=sources
 - pkg:maven/com.oceanbase/data-lifecycle-manager@1.2.2?classifier=sources
 - pkg:maven/com.oceanbase/data-lifecycle-manager@1.2.3?classifier=sources
+- pkg:maven/com.oceanbase/data-lifecycle-manager@1.2.4?classifier=sources

@@ -6,3 +6,4 @@
 - pkg:maven/org.webjars.npm/preline@2.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/preline@2.3.0
 - pkg:maven/org.webjars.npm/preline@2.4.0
+- pkg:maven/org.webjars.npm/preline@3.0.1

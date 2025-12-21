@@ -86,3 +86,5 @@
 - pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-jline-cli@4.5.9-eu?classifier=sources
 - pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-jline-cli@4.6.0-eu
 - pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-jline-cli@4.6.0-eu?classifier=sources
+- pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-jline-cli@4.7.3-eu?classifier=sources
+- pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-jline-cli@4.7.4-eu?classifier=sources

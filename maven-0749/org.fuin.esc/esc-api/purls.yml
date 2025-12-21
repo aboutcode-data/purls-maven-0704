@@ -20,3 +20,7 @@
 - pkg:maven/org.fuin.esc/esc-api@0.6.0?classifier=sources
 - pkg:maven/org.fuin.esc/esc-api@0.7.0
 - pkg:maven/org.fuin.esc/esc-api@0.7.0?classifier=sources
+- pkg:maven/org.fuin.esc/esc-api@0.8.0
+- pkg:maven/org.fuin.esc/esc-api@0.8.0?classifier=sources
+- pkg:maven/org.fuin.esc/esc-api@0.9.0
+- pkg:maven/org.fuin.esc/esc-api@0.9.0?classifier=sources

@@ -12,4 +12,7 @@
 - pkg:maven/ru.tinkoff.kora.experimental/camunda-engine-bpmn@1.1.21?classifier=sources
 - pkg:maven/ru.tinkoff.kora.experimental/camunda-engine-bpmn@1.1.22?classifier=sources
 - pkg:maven/ru.tinkoff.kora.experimental/camunda-engine-bpmn@1.1.23?classifier=sources
+- pkg:maven/ru.tinkoff.kora.experimental/camunda-engine-bpmn@1.1.24?classifier=sources
+- pkg:maven/ru.tinkoff.kora.experimental/camunda-engine-bpmn@1.1.25?classifier=sources
+- pkg:maven/ru.tinkoff.kora.experimental/camunda-engine-bpmn@1.1.26?classifier=sources
 - pkg:maven/ru.tinkoff.kora.experimental/camunda-engine-bpmn@1.1.9?classifier=sources

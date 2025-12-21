@@ -1,1 +1,2 @@
 - pkg:maven/net.sf.esfinge/greenframework@0.0.1?classifier=sources
+- pkg:maven/net.sf.esfinge/greenframework@0.0.2?classifier=sources

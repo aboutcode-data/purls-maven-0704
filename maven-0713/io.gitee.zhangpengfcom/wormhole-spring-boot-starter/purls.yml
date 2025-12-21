@@ -1,0 +1,2 @@
+- pkg:maven/io.gitee.zhangpengfcom/wormhole-spring-boot-starter@1.0.0.RELEASE?classifier=sources
+- pkg:maven/io.gitee.zhangpengfcom/wormhole-spring-boot-starter@1.0.0?classifier=sources

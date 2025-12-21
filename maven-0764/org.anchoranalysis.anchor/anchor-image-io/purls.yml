@@ -1,0 +1,2 @@
+- pkg:maven/org.anchoranalysis.anchor/anchor-image-io@0.2.1?classifier=sources
+- pkg:maven/org.anchoranalysis.anchor/anchor-image-io@1.0.0?classifier=sources

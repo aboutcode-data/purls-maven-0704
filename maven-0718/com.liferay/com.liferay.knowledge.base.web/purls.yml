@@ -1254,6 +1254,7 @@
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@5.0.14
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@5.0.140?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@5.0.141?classifier=sources
+- pkg:maven/com.liferay/com.liferay.knowledge.base.web@5.0.142?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@5.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@5.0.14?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.knowledge.base.web@5.0.15

@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.redocly/ajv@8.11.2
+- pkg:maven/org.mvnpm.at.redocly/ajv@8.11.2?classifier=sources

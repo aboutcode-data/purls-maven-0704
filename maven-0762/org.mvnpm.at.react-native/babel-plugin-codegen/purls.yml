@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.react-native/babel-plugin-codegen@0.74.89
+- pkg:maven/org.mvnpm.at.react-native/babel-plugin-codegen@0.74.89?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/net.xyzsd.fluent/fluent-functions-icu@0.70?classifier=sources
+- pkg:maven/net.xyzsd.fluent/fluent-functions-icu@0.72?classifier=sources

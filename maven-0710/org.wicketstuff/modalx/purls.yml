@@ -54,6 +54,8 @@
 - pkg:maven/org.wicketstuff/modalx@10.3.0?classifier=sources
 - pkg:maven/org.wicketstuff/modalx@10.4.0
 - pkg:maven/org.wicketstuff/modalx@10.4.0?classifier=sources
+- pkg:maven/org.wicketstuff/modalx@10.5.0
+- pkg:maven/org.wicketstuff/modalx@10.5.0?classifier=sources
 - pkg:maven/org.wicketstuff/modalx@6.0.0
 - pkg:maven/org.wicketstuff/modalx@6.0.0-beta1
 - pkg:maven/org.wicketstuff/modalx@6.0.0-beta1.1
@@ -262,6 +264,7 @@
 - pkg:maven/org.wicketstuff/modalx@9.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/modalx@9.20.0
 - pkg:maven/org.wicketstuff/modalx@9.20.0?classifier=sources
+- pkg:maven/org.wicketstuff/modalx@9.21.0?classifier=sources
 - pkg:maven/org.wicketstuff/modalx@9.3.0
 - pkg:maven/org.wicketstuff/modalx@9.3.0?classifier=sources
 - pkg:maven/org.wicketstuff/modalx@9.4.0

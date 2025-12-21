@@ -67,3 +67,4 @@
 - pkg:maven/ru.testit/testit-adapter-junit5@2.5.2?classifier=sources
 - pkg:maven/ru.testit/testit-adapter-junit5@2.6.0-TMS-CLOUD?classifier=sources
 - pkg:maven/ru.testit/testit-adapter-junit5@2.6.1-TMS-CLOUD?classifier=sources
+- pkg:maven/ru.testit/testit-adapter-junit5@2.6.2-TMS-5.3?classifier=sources

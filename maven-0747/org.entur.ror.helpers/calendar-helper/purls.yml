@@ -141,6 +141,8 @@
 - pkg:maven/org.entur.ror.helpers/calendar-helper@5.0
 - pkg:maven/org.entur.ror.helpers/calendar-helper@5.0?classifier=sources
 - pkg:maven/org.entur.ror.helpers/calendar-helper@5.1
+- pkg:maven/org.entur.ror.helpers/calendar-helper@5.10
+- pkg:maven/org.entur.ror.helpers/calendar-helper@5.10?classifier=sources
 - pkg:maven/org.entur.ror.helpers/calendar-helper@5.1?classifier=sources
 - pkg:maven/org.entur.ror.helpers/calendar-helper@5.2
 - pkg:maven/org.entur.ror.helpers/calendar-helper@5.2?classifier=sources
@@ -152,3 +154,9 @@
 - pkg:maven/org.entur.ror.helpers/calendar-helper@5.5?classifier=sources
 - pkg:maven/org.entur.ror.helpers/calendar-helper@5.6
 - pkg:maven/org.entur.ror.helpers/calendar-helper@5.6?classifier=sources
+- pkg:maven/org.entur.ror.helpers/calendar-helper@5.7
+- pkg:maven/org.entur.ror.helpers/calendar-helper@5.7?classifier=sources
+- pkg:maven/org.entur.ror.helpers/calendar-helper@5.8
+- pkg:maven/org.entur.ror.helpers/calendar-helper@5.8?classifier=sources
+- pkg:maven/org.entur.ror.helpers/calendar-helper@5.9
+- pkg:maven/org.entur.ror.helpers/calendar-helper@5.9?classifier=sources

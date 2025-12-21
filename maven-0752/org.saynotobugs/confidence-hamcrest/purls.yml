@@ -21,3 +21,4 @@
 - pkg:maven/org.saynotobugs/confidence-hamcrest@0.59.0?classifier=sources
 - pkg:maven/org.saynotobugs/confidence-hamcrest@0.60.0?classifier=sources
 - pkg:maven/org.saynotobugs/confidence-hamcrest@0.61.0?classifier=sources
+- pkg:maven/org.saynotobugs/confidence-hamcrest@0.61.1?classifier=sources

@@ -30,6 +30,8 @@
 - pkg:maven/org.frankframework/credentialprovider@8.3.0?classifier=sources
 - pkg:maven/org.frankframework/credentialprovider@8.3.1
 - pkg:maven/org.frankframework/credentialprovider@8.3.1?classifier=sources
+- pkg:maven/org.frankframework/credentialprovider@8.3.2
+- pkg:maven/org.frankframework/credentialprovider@8.3.2?classifier=sources
 - pkg:maven/org.frankframework/credentialprovider@9.0.0
 - pkg:maven/org.frankframework/credentialprovider@9.0.0?classifier=sources
 - pkg:maven/org.frankframework/credentialprovider@9.0.1

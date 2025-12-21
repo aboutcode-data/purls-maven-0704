@@ -1816,6 +1816,16 @@
 - pkg:maven/com.yahoo.vespa/vespaclient-core@8.509.33?classifier=sources
 - pkg:maven/com.yahoo.vespa/vespaclient-core@8.51.18
 - pkg:maven/com.yahoo.vespa/vespaclient-core@8.51.18?classifier=sources
+- pkg:maven/com.yahoo.vespa/vespaclient-core@8.510.84
+- pkg:maven/com.yahoo.vespa/vespaclient-core@8.510.84?classifier=sources
+- pkg:maven/com.yahoo.vespa/vespaclient-core@8.511.14
+- pkg:maven/com.yahoo.vespa/vespaclient-core@8.511.14?classifier=sources
+- pkg:maven/com.yahoo.vespa/vespaclient-core@8.512.63
+- pkg:maven/com.yahoo.vespa/vespaclient-core@8.512.63?classifier=sources
+- pkg:maven/com.yahoo.vespa/vespaclient-core@8.513.17
+- pkg:maven/com.yahoo.vespa/vespaclient-core@8.513.17?classifier=sources
+- pkg:maven/com.yahoo.vespa/vespaclient-core@8.514.24
+- pkg:maven/com.yahoo.vespa/vespaclient-core@8.514.24?classifier=sources
 - pkg:maven/com.yahoo.vespa/vespaclient-core@8.52.15
 - pkg:maven/com.yahoo.vespa/vespaclient-core@8.52.15?classifier=sources
 - pkg:maven/com.yahoo.vespa/vespaclient-core@8.53.21

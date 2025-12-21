@@ -51,3 +51,4 @@
 - pkg:maven/se.swedenconnect.spring.saml.idp/spring-saml-idp@2.3.7
 - pkg:maven/se.swedenconnect.spring.saml.idp/spring-saml-idp@2.3.7?classifier=sources
 - pkg:maven/se.swedenconnect.spring.saml.idp/spring-saml-idp@2.3.8?classifier=sources
+- pkg:maven/se.swedenconnect.spring.saml.idp/spring-saml-idp@2.3.9?classifier=sources

@@ -24,6 +24,16 @@
 - pkg:maven/com.codbex.phoebe/codbex-phoebe-welcome@2.3.0?classifier=sources
 - pkg:maven/com.codbex.phoebe/codbex-phoebe-welcome@2.33.0
 - pkg:maven/com.codbex.phoebe/codbex-phoebe-welcome@2.33.0?classifier=sources
+- pkg:maven/com.codbex.phoebe/codbex-phoebe-welcome@2.34.0
+- pkg:maven/com.codbex.phoebe/codbex-phoebe-welcome@2.34.0?classifier=sources
+- pkg:maven/com.codbex.phoebe/codbex-phoebe-welcome@2.35.0
+- pkg:maven/com.codbex.phoebe/codbex-phoebe-welcome@2.35.0?classifier=sources
+- pkg:maven/com.codbex.phoebe/codbex-phoebe-welcome@2.36.0
+- pkg:maven/com.codbex.phoebe/codbex-phoebe-welcome@2.36.0?classifier=sources
+- pkg:maven/com.codbex.phoebe/codbex-phoebe-welcome@2.37.0
+- pkg:maven/com.codbex.phoebe/codbex-phoebe-welcome@2.37.0?classifier=sources
+- pkg:maven/com.codbex.phoebe/codbex-phoebe-welcome@2.38.0
+- pkg:maven/com.codbex.phoebe/codbex-phoebe-welcome@2.38.0?classifier=sources
 - pkg:maven/com.codbex.phoebe/codbex-phoebe-welcome@2.5.0
 - pkg:maven/com.codbex.phoebe/codbex-phoebe-welcome@2.5.0?classifier=sources
 - pkg:maven/com.codbex.phoebe/codbex-phoebe-welcome@2.6.0

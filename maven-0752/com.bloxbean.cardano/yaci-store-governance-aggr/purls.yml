@@ -1,0 +1,2 @@
+- pkg:maven/com.bloxbean.cardano/yaci-store-governance-aggr@0.2.0-preview2?classifier=sources
+- pkg:maven/com.bloxbean.cardano/yaci-store-governance-aggr@2.0.0-beta1?classifier=sources

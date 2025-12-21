@@ -1,1 +1,2 @@
 - pkg:maven/me.rochblondiaux/blockbenchmodelreader@1.2?classifier=sources
+- pkg:maven/me.rochblondiaux/blockbenchmodelreader@1.3?classifier=sources

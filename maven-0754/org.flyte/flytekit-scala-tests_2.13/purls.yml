@@ -59,3 +59,4 @@
 - pkg:maven/org.flyte/flytekit-scala-tests_2.13@0.4.6
 - pkg:maven/org.flyte/flytekit-scala-tests_2.13@0.4.60
 - pkg:maven/org.flyte/flytekit-scala-tests_2.13@0.4.61
+- pkg:maven/org.flyte/flytekit-scala-tests_2.13@0.4.62

@@ -54,3 +54,9 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-storage-control-v2@2.49.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-storage-control-v2@2.50.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-storage-control-v2@2.50.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-storage-control-v2@2.51.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-storage-control-v2@2.51.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-storage-control-v2@2.52.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-storage-control-v2@2.52.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-storage-control-v2@2.52.1
+- pkg:maven/com.google.api.grpc/proto-google-cloud-storage-control-v2@2.52.1?classifier=sources

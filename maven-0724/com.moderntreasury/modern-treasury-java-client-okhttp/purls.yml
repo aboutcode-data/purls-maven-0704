@@ -39,3 +39,4 @@
 - pkg:maven/com.moderntreasury/modern-treasury-java-client-okhttp@5.0.0?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-java-client-okhttp@6.0.0?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-java-client-okhttp@6.1.0?classifier=sources
+- pkg:maven/com.moderntreasury/modern-treasury-java-client-okhttp@6.2.0?classifier=sources

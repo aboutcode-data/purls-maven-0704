@@ -30,3 +30,5 @@
 - pkg:maven/dev.velix/imperat-velocity@1.8.1?classifier=sources
 - pkg:maven/dev.velix/imperat-velocity@1.8.2?classifier=sources
 - pkg:maven/dev.velix/imperat-velocity@1.8.3?classifier=sources
+- pkg:maven/dev.velix/imperat-velocity@1.8.4?classifier=sources
+- pkg:maven/dev.velix/imperat-velocity@1.9.0?classifier=sources

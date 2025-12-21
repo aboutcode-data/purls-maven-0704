@@ -49,3 +49,5 @@
 - pkg:maven/io.github.lyxnx.gradle.android/settings-plugin@2025.03.14?classifier=sources
 - pkg:maven/io.github.lyxnx.gradle.android/settings-plugin@2025.03.28?classifier=sources
 - pkg:maven/io.github.lyxnx.gradle.android/settings-plugin@2025.04.11?classifier=sources
+- pkg:maven/io.github.lyxnx.gradle.android/settings-plugin@2025.04.18?classifier=sources
+- pkg:maven/io.github.lyxnx.gradle.android/settings-plugin@2025.04.25?classifier=sources

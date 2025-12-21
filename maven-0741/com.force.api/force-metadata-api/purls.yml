@@ -114,3 +114,7 @@
 - pkg:maven/com.force.api/force-metadata-api@63.0.0?classifier=sources
 - pkg:maven/com.force.api/force-metadata-api@64.0.0
 - pkg:maven/com.force.api/force-metadata-api@64.0.0?classifier=sources
+- pkg:maven/com.force.api/force-metadata-api@64.0.1
+- pkg:maven/com.force.api/force-metadata-api@64.0.1?classifier=sources
+- pkg:maven/com.force.api/force-metadata-api@64.0.2
+- pkg:maven/com.force.api/force-metadata-api@64.0.2?classifier=sources

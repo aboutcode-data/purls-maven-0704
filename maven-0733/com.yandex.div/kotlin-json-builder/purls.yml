@@ -59,6 +59,8 @@
 - pkg:maven/com.yandex.div/kotlin-json-builder@31.1.0?classifier=sources
 - pkg:maven/com.yandex.div/kotlin-json-builder@31.10.0?classifier=sources
 - pkg:maven/com.yandex.div/kotlin-json-builder@31.11.0?classifier=sources
+- pkg:maven/com.yandex.div/kotlin-json-builder@31.12.0?classifier=sources
+- pkg:maven/com.yandex.div/kotlin-json-builder@31.13.0?classifier=sources
 - pkg:maven/com.yandex.div/kotlin-json-builder@31.2.0?classifier=sources
 - pkg:maven/com.yandex.div/kotlin-json-builder@31.3.0?classifier=sources
 - pkg:maven/com.yandex.div/kotlin-json-builder@31.4.0?classifier=sources

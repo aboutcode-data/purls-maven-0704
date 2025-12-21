@@ -10,3 +10,5 @@
 - pkg:maven/com.vaadin/vaadin-feature-pack-flow-gplwcpe@24.7.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-feature-pack-flow-gplwcpe@24.7.3
 - pkg:maven/com.vaadin/vaadin-feature-pack-flow-gplwcpe@24.7.3?classifier=sources
+- pkg:maven/com.vaadin/vaadin-feature-pack-flow-gplwcpe@24.7.4
+- pkg:maven/com.vaadin/vaadin-feature-pack-flow-gplwcpe@24.7.4?classifier=sources

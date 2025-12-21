@@ -88,6 +88,8 @@
 - pkg:maven/org.jboss.ws.cxf/jbossws-cxf-transports-undertow@5.4.13.Final?classifier=sources
 - pkg:maven/org.jboss.ws.cxf/jbossws-cxf-transports-undertow@5.4.14.Final
 - pkg:maven/org.jboss.ws.cxf/jbossws-cxf-transports-undertow@5.4.14.Final?classifier=sources
+- pkg:maven/org.jboss.ws.cxf/jbossws-cxf-transports-undertow@5.4.15.Final
+- pkg:maven/org.jboss.ws.cxf/jbossws-cxf-transports-undertow@5.4.15.Final?classifier=sources
 - pkg:maven/org.jboss.ws.cxf/jbossws-cxf-transports-undertow@5.4.2.Final
 - pkg:maven/org.jboss.ws.cxf/jbossws-cxf-transports-undertow@5.4.2.Final?classifier=sources
 - pkg:maven/org.jboss.ws.cxf/jbossws-cxf-transports-undertow@5.4.3.Final
@@ -122,3 +124,5 @@
 - pkg:maven/org.jboss.ws.cxf/jbossws-cxf-transports-undertow@7.3.0.Final?classifier=sources
 - pkg:maven/org.jboss.ws.cxf/jbossws-cxf-transports-undertow@7.3.1.Final
 - pkg:maven/org.jboss.ws.cxf/jbossws-cxf-transports-undertow@7.3.1.Final?classifier=sources
+- pkg:maven/org.jboss.ws.cxf/jbossws-cxf-transports-undertow@7.3.2.Final?classifier=sources
+- pkg:maven/org.jboss.ws.cxf/jbossws-cxf-transports-undertow@7.3.3.Final?classifier=sources

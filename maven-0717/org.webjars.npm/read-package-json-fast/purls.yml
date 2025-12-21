@@ -9,3 +9,4 @@
 - pkg:maven/org.webjars.npm/read-package-json-fast@2.0.3
 - pkg:maven/org.webjars.npm/read-package-json-fast@2.0.3?classifier=sources
 - pkg:maven/org.webjars.npm/read-package-json-fast@3.0.2
+- pkg:maven/org.webjars.npm/read-package-json-fast@4.0.0

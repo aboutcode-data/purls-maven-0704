@@ -1,3 +1,12 @@
+- pkg:maven/io.spinnaker.kork/kork-cloud-config-server@2025.0-0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-cloud-config-server@2025.0-1?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-cloud-config-server@2025.0-2?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-cloud-config-server@2025.0-3?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-cloud-config-server@2025.0-4?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-cloud-config-server@2025.0-5?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-cloud-config-server@2025.0.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-cloud-config-server@2025.0.1?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-cloud-config-server@2025.0.2?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-cloud-config-server@7.105.0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-cloud-config-server@7.107.0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-cloud-config-server@7.108.0?classifier=sources
@@ -177,3 +186,12 @@
 - pkg:maven/io.spinnaker.kork/kork-cloud-config-server@7.92.5?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-cloud-config-server@7.92.6?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-cloud-config-server@7.92.7?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-cloud-config-server@main-10?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-cloud-config-server@main-11?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-cloud-config-server@main-12?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-cloud-config-server@main-13?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-cloud-config-server@main-5?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-cloud-config-server@main-6?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-cloud-config-server@main-7?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-cloud-config-server@main-8?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-cloud-config-server@main-9?classifier=sources

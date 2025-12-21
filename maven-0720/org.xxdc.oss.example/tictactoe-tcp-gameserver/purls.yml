@@ -1,0 +1,4 @@
+- pkg:maven/org.xxdc.oss.example/tictactoe-tcp-gameserver@2.0.14-jdk24?classifier=sources
+- pkg:maven/org.xxdc.oss.example/tictactoe-tcp-gameserver@2.0.15-jdk24?classifier=sources
+- pkg:maven/org.xxdc.oss.example/tictactoe-tcp-gameserver@2.0.16-jdk24?classifier=sources
+- pkg:maven/org.xxdc.oss.example/tictactoe-tcp-gameserver@2.1.1-jdk24?classifier=sources

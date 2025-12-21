@@ -15,3 +15,6 @@
 - pkg:maven/com.grookage.concierge/concierge-elastic-dw@0.0.1-RC7?classifier=sources
 - pkg:maven/com.grookage.concierge/concierge-elastic-dw@0.0.1-RC8?classifier=sources
 - pkg:maven/com.grookage.concierge/concierge-elastic-dw@0.0.1-RC9?classifier=sources
+- pkg:maven/com.grookage.concierge/concierge-elastic-dw@1.0.0?classifier=sources
+- pkg:maven/com.grookage.concierge/concierge-elastic-dw@1.0.1?classifier=sources
+- pkg:maven/com.grookage.concierge/concierge-elastic-dw@1.0.2?classifier=sources

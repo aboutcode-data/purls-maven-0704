@@ -9,3 +9,4 @@
 - pkg:maven/net.kyori/adventure-platform-bukkit@4.3.2?classifier=sources
 - pkg:maven/net.kyori/adventure-platform-bukkit@4.3.3?classifier=sources
 - pkg:maven/net.kyori/adventure-platform-bukkit@4.3.4?classifier=sources
+- pkg:maven/net.kyori/adventure-platform-bukkit@4.4.0?classifier=sources

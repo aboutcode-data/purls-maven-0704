@@ -1,1 +1,2 @@
 - pkg:maven/org.teavm/teavm-wasm-gc-deobfuscator@0.11.0?classifier=sources
+- pkg:maven/org.teavm/teavm-wasm-gc-deobfuscator@0.12.0?classifier=sources

@@ -7,3 +7,4 @@
 - pkg:maven/com.webauthn4j/webauthn4j-metadata-async@0.28.5.RELEASE?classifier=sources
 - pkg:maven/com.webauthn4j/webauthn4j-metadata-async@0.28.6.RELEASE?classifier=sources
 - pkg:maven/com.webauthn4j/webauthn4j-metadata-async@0.29.0.RELEASE?classifier=sources
+- pkg:maven/com.webauthn4j/webauthn4j-metadata-async@0.29.1.RELEASE?classifier=sources

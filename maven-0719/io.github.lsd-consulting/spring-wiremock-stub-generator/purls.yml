@@ -89,6 +89,11 @@
 - pkg:maven/io.github.lsd-consulting/spring-wiremock-stub-generator@3.1.20?classifier=sources
 - pkg:maven/io.github.lsd-consulting/spring-wiremock-stub-generator@3.1.21?classifier=sources
 - pkg:maven/io.github.lsd-consulting/spring-wiremock-stub-generator@3.1.22?classifier=sources
+- pkg:maven/io.github.lsd-consulting/spring-wiremock-stub-generator@3.1.23?classifier=sources
+- pkg:maven/io.github.lsd-consulting/spring-wiremock-stub-generator@3.1.24?classifier=sources
+- pkg:maven/io.github.lsd-consulting/spring-wiremock-stub-generator@3.1.25?classifier=sources
+- pkg:maven/io.github.lsd-consulting/spring-wiremock-stub-generator@3.1.26?classifier=sources
+- pkg:maven/io.github.lsd-consulting/spring-wiremock-stub-generator@3.1.27?classifier=sources
 - pkg:maven/io.github.lsd-consulting/spring-wiremock-stub-generator@3.1.2?classifier=sources
 - pkg:maven/io.github.lsd-consulting/spring-wiremock-stub-generator@3.1.4?classifier=sources
 - pkg:maven/io.github.lsd-consulting/spring-wiremock-stub-generator@3.1.5?classifier=sources

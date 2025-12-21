@@ -3,3 +3,4 @@
 - pkg:maven/io.github.z4kn4fein/semver-androidnativearm64@1.2.0?classifier=sources
 - pkg:maven/io.github.z4kn4fein/semver-androidnativearm64@1.2.1?classifier=sources
 - pkg:maven/io.github.z4kn4fein/semver-androidnativearm64@2.0.0?classifier=sources
+- pkg:maven/io.github.z4kn4fein/semver-androidnativearm64@3.0.0?classifier=sources

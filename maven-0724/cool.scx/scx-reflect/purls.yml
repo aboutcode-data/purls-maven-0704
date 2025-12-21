@@ -40,3 +40,17 @@
 - pkg:maven/cool.scx/scx-reflect@3.5.1?classifier=sources
 - pkg:maven/cool.scx/scx-reflect@3.5.2?classifier=sources
 - pkg:maven/cool.scx/scx-reflect@3.5.3?classifier=sources
+- pkg:maven/cool.scx/scx-reflect@3.5.4?classifier=sources
+- pkg:maven/cool.scx/scx-reflect@3.5.5?classifier=sources
+- pkg:maven/cool.scx/scx-reflect@3.5.6?classifier=sources
+- pkg:maven/cool.scx/scx-reflect@3.5.7?classifier=sources
+- pkg:maven/cool.scx/scx-reflect@3.5.8?classifier=sources
+- pkg:maven/cool.scx/scx-reflect@3.5.9?classifier=sources
+- pkg:maven/cool.scx/scx-reflect@3.6.0?classifier=sources
+- pkg:maven/cool.scx/scx-reflect@3.6.1?classifier=sources
+- pkg:maven/cool.scx/scx-reflect@3.6.2?classifier=sources
+- pkg:maven/cool.scx/scx-reflect@3.6.3?classifier=sources
+- pkg:maven/cool.scx/scx-reflect@3.6.4?classifier=sources
+- pkg:maven/cool.scx/scx-reflect@3.6.5?classifier=sources
+- pkg:maven/cool.scx/scx-reflect@3.6.6?classifier=sources
+- pkg:maven/cool.scx/scx-reflect@3.6.7?classifier=sources

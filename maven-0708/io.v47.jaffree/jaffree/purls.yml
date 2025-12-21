@@ -10,3 +10,4 @@
 - pkg:maven/io.v47.jaffree/jaffree@1.0.0?classifier=sources
 - pkg:maven/io.v47.jaffree/jaffree@1.1.0?classifier=sources
 - pkg:maven/io.v47.jaffree/jaffree@1.1.1?classifier=sources
+- pkg:maven/io.v47.jaffree/jaffree@2.0.0?classifier=sources

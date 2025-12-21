@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/alpinejs-form-validation@1.1.0
+- pkg:maven/org.mvnpm/alpinejs-form-validation@1.1.0?classifier=sources

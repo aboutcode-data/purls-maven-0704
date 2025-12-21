@@ -25,3 +25,4 @@
 - pkg:maven/com.bumble.appyx/testing-junit5@1.6.0-alpha01?classifier=sources
 - pkg:maven/com.bumble.appyx/testing-junit5@1.6.0?classifier=sources
 - pkg:maven/com.bumble.appyx/testing-junit5@1.7.0?classifier=sources
+- pkg:maven/com.bumble.appyx/testing-junit5@1.7.1?classifier=sources

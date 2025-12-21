@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.react-native-community/cli-platform-apple@13.5.1
+- pkg:maven/org.mvnpm.at.react-native-community/cli-platform-apple@13.5.1?classifier=sources

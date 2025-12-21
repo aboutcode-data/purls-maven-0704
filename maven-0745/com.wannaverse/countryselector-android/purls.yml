@@ -1,0 +1,2 @@
+- pkg:maven/com.wannaverse/countryselector-android@0.0.0?classifier=sources
+- pkg:maven/com.wannaverse/countryselector-android@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.scalar/use-toasts@0.7.9
+- pkg:maven/org.mvnpm.at.scalar/use-toasts@0.7.9?classifier=sources

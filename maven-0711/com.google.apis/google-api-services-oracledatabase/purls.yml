@@ -10,3 +10,7 @@
 - pkg:maven/com.google.apis/google-api-services-oracledatabase@v1-rev20250205-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-oracledatabase@v1-rev20250223-2.0.0
 - pkg:maven/com.google.apis/google-api-services-oracledatabase@v1-rev20250223-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-oracledatabase@v1-rev20250416-2.0.0
+- pkg:maven/com.google.apis/google-api-services-oracledatabase@v1-rev20250416-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-oracledatabase@v1-rev20250428-2.0.0
+- pkg:maven/com.google.apis/google-api-services-oracledatabase@v1-rev20250428-2.0.0?classifier=sources

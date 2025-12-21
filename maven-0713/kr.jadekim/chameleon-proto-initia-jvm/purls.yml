@@ -2,3 +2,4 @@
 - pkg:maven/kr.jadekim/chameleon-proto-initia-jvm@0.2.15-2?classifier=sources
 - pkg:maven/kr.jadekim/chameleon-proto-initia-jvm@0.2.15-3?classifier=sources
 - pkg:maven/kr.jadekim/chameleon-proto-initia-jvm@0.6.4-4?classifier=sources
+- pkg:maven/kr.jadekim/chameleon-proto-initia-jvm@1.0.0-5?classifier=sources

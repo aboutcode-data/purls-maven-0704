@@ -1,0 +1,2 @@
+- pkg:maven/org.opentmf.dnext/dnext-catalog-sync-service@1.0.9?classifier=sources
+- pkg:maven/org.opentmf.dnext/dnext-catalog-sync-service@1.1.0?classifier=sources

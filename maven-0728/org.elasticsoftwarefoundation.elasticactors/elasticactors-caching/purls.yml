@@ -68,3 +68,4 @@
 - pkg:maven/org.elasticsoftwarefoundation.elasticactors/elasticactors-caching@7.3.0?classifier=sources
 - pkg:maven/org.elasticsoftwarefoundation.elasticactors/elasticactors-caching@7.3.1
 - pkg:maven/org.elasticsoftwarefoundation.elasticactors/elasticactors-caching@7.3.1?classifier=sources
+- pkg:maven/org.elasticsoftwarefoundation.elasticactors/elasticactors-caching@7.4.3?classifier=sources

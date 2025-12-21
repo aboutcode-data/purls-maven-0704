@@ -10,3 +10,5 @@
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-spring-web-core@14.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-spring-web-core@15.0.0.Final
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-spring-web-core@15.0.0.Final?classifier=sources
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-spring-web-core@16.0.0.Final
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-spring-web-core@16.0.0.Final?classifier=sources

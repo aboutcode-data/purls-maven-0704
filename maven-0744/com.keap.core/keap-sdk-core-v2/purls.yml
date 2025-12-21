@@ -1,0 +1,2 @@
+- pkg:maven/com.keap.core/keap-sdk-core-v2@0.0.175
+- pkg:maven/com.keap.core/keap-sdk-core-v2@0.0.175?classifier=sources

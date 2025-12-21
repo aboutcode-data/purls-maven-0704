@@ -71,3 +71,4 @@
 - pkg:maven/com.landawn/abacus-query@2.1.7?classifier=sources
 - pkg:maven/com.landawn/abacus-query@2.1.8?classifier=sources
 - pkg:maven/com.landawn/abacus-query@2.1.9?classifier=sources
+- pkg:maven/com.landawn/abacus-query@2.2.0?classifier=sources

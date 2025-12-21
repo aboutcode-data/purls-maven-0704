@@ -4,3 +4,5 @@
 - pkg:maven/eu.europa.ec.joinup.sat/jdplus-benchmarking-base-workspace@1.2.0?classifier=sources
 - pkg:maven/eu.europa.ec.joinup.sat/jdplus-benchmarking-base-workspace@1.2.1
 - pkg:maven/eu.europa.ec.joinup.sat/jdplus-benchmarking-base-workspace@1.2.1?classifier=sources
+- pkg:maven/eu.europa.ec.joinup.sat/jdplus-benchmarking-base-workspace@2.0.0
+- pkg:maven/eu.europa.ec.joinup.sat/jdplus-benchmarking-base-workspace@2.0.0?classifier=sources

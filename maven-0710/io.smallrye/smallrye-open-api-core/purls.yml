@@ -198,6 +198,7 @@
 - pkg:maven/io.smallrye/smallrye-open-api-core@4.0.0-alpha6?classifier=sources
 - pkg:maven/io.smallrye/smallrye-open-api-core@4.0.0-beta2?classifier=sources
 - pkg:maven/io.smallrye/smallrye-open-api-core@4.0.0?classifier=sources
+- pkg:maven/io.smallrye/smallrye-open-api-core@4.0.10?classifier=sources
 - pkg:maven/io.smallrye/smallrye-open-api-core@4.0.1?classifier=sources
 - pkg:maven/io.smallrye/smallrye-open-api-core@4.0.2?classifier=sources
 - pkg:maven/io.smallrye/smallrye-open-api-core@4.0.3?classifier=sources
@@ -207,3 +208,4 @@
 - pkg:maven/io.smallrye/smallrye-open-api-core@4.0.7?classifier=sources
 - pkg:maven/io.smallrye/smallrye-open-api-core@4.0.8?classifier=sources
 - pkg:maven/io.smallrye/smallrye-open-api-core@4.0.9?classifier=sources
+- pkg:maven/io.smallrye/smallrye-open-api-core@4.1.0-alpha3?classifier=sources

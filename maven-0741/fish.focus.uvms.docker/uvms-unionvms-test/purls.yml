@@ -33,3 +33,4 @@
 - pkg:maven/fish.focus.uvms.docker/uvms-unionvms-test@4.3.2
 - pkg:maven/fish.focus.uvms.docker/uvms-unionvms-test@4.3.3
 - pkg:maven/fish.focus.uvms.docker/uvms-unionvms-test@4.3.4
+- pkg:maven/fish.focus.uvms.docker/uvms-unionvms-test@4.4.1

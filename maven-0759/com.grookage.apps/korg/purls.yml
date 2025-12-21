@@ -1,2 +1,5 @@
 - pkg:maven/com.grookage.apps/korg@0.0.1-RC1?classifier=sources
 - pkg:maven/com.grookage.apps/korg@0.0.1-RC2?classifier=sources
+- pkg:maven/com.grookage.apps/korg@1.0.0?classifier=sources
+- pkg:maven/com.grookage.apps/korg@1.0.1?classifier=sources
+- pkg:maven/com.grookage.apps/korg@1.0.2?classifier=sources

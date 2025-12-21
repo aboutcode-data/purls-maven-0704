@@ -4,6 +4,8 @@
 - pkg:maven/com.utopia-rise/godot-plugins-common@0.12.1-4.4?classifier=sources
 - pkg:maven/com.utopia-rise/godot-plugins-common@0.12.2-4.4?classifier=sources
 - pkg:maven/com.utopia-rise/godot-plugins-common@0.12.3-4.4.1?classifier=sources
+- pkg:maven/com.utopia-rise/godot-plugins-common@0.13.0-4.4.1?classifier=sources
+- pkg:maven/com.utopia-rise/godot-plugins-common@0.13.1-4.4.1?classifier=sources
 - pkg:maven/com.utopia-rise/godot-plugins-common@0.7.0-4.1.2?classifier=sources
 - pkg:maven/com.utopia-rise/godot-plugins-common@0.7.1-4.1.2?classifier=sources
 - pkg:maven/com.utopia-rise/godot-plugins-common@0.7.2-4.1.2?classifier=sources

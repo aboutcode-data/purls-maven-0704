@@ -64,3 +64,4 @@
 - pkg:maven/net.dreamlu/mica-openapi@3.4.1?classifier=sources
 - pkg:maven/net.dreamlu/mica-openapi@3.4.3?classifier=sources
 - pkg:maven/net.dreamlu/mica-openapi@3.4.4?classifier=sources
+- pkg:maven/net.dreamlu/mica-openapi@3.4.5?classifier=sources

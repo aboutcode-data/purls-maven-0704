@@ -14,3 +14,9 @@
 - pkg:maven/works.bosk/bosk-core@0.1.120?classifier=sources
 - pkg:maven/works.bosk/bosk-core@0.1.121?classifier=sources
 - pkg:maven/works.bosk/bosk-core@0.1.122?classifier=sources
+- pkg:maven/works.bosk/bosk-core@0.1.123?classifier=sources
+- pkg:maven/works.bosk/bosk-core@0.1.124?classifier=sources
+- pkg:maven/works.bosk/bosk-core@0.1.125?classifier=sources
+- pkg:maven/works.bosk/bosk-core@0.1.126?classifier=sources
+- pkg:maven/works.bosk/bosk-core@0.1.127?classifier=sources
+- pkg:maven/works.bosk/bosk-core@0.1.128?classifier=sources

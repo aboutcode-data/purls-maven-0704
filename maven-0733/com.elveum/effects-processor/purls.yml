@@ -13,3 +13,4 @@
 - pkg:maven/com.elveum/effects-processor@1.0.3-beta01?classifier=sources
 - pkg:maven/com.elveum/effects-processor@1.0.3-beta02?classifier=sources
 - pkg:maven/com.elveum/effects-processor@1.0.3?classifier=sources
+- pkg:maven/com.elveum/effects-processor@1.0.4?classifier=sources

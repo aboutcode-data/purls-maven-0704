@@ -29,6 +29,9 @@
 - pkg:maven/com.sqlapp/sqlapp-core-mdb@0.30.2?classifier=sources
 - pkg:maven/com.sqlapp/sqlapp-core-mdb@0.30.3?classifier=sources
 - pkg:maven/com.sqlapp/sqlapp-core-mdb@0.30.4?classifier=sources
+- pkg:maven/com.sqlapp/sqlapp-core-mdb@0.31.10?classifier=sources
+- pkg:maven/com.sqlapp/sqlapp-core-mdb@0.31.11?classifier=sources
+- pkg:maven/com.sqlapp/sqlapp-core-mdb@0.31.12?classifier=sources
 - pkg:maven/com.sqlapp/sqlapp-core-mdb@0.31.1?classifier=sources
 - pkg:maven/com.sqlapp/sqlapp-core-mdb@0.31.3?classifier=sources
 - pkg:maven/com.sqlapp/sqlapp-core-mdb@0.31.4?classifier=sources
@@ -36,6 +39,7 @@
 - pkg:maven/com.sqlapp/sqlapp-core-mdb@0.31.6?classifier=sources
 - pkg:maven/com.sqlapp/sqlapp-core-mdb@0.31.7?classifier=sources
 - pkg:maven/com.sqlapp/sqlapp-core-mdb@0.31.8?classifier=sources
+- pkg:maven/com.sqlapp/sqlapp-core-mdb@0.31.9?classifier=sources
 - pkg:maven/com.sqlapp/sqlapp-core-mdb@0.4.9
 - pkg:maven/com.sqlapp/sqlapp-core-mdb@0.4.9?classifier=sources
 - pkg:maven/com.sqlapp/sqlapp-core-mdb@0.8.1

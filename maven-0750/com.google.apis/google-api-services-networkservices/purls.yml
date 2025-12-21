@@ -98,6 +98,10 @@
 - pkg:maven/com.google.apis/google-api-services-networkservices@v1-rev20250212-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-networkservices@v1-rev20250224-2.0.0
 - pkg:maven/com.google.apis/google-api-services-networkservices@v1-rev20250224-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-networkservices@v1-rev20250410-2.0.0
+- pkg:maven/com.google.apis/google-api-services-networkservices@v1-rev20250410-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-networkservices@v1-rev20250423-2.0.0
+- pkg:maven/com.google.apis/google-api-services-networkservices@v1-rev20250423-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-networkservices@v1beta1-rev20210721-1.32.1
 - pkg:maven/com.google.apis/google-api-services-networkservices@v1beta1-rev20210721-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-networkservices@v1beta1-rev20210728-1.32.1
@@ -202,3 +206,7 @@
 - pkg:maven/com.google.apis/google-api-services-networkservices@v1beta1-rev20250212-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-networkservices@v1beta1-rev20250224-2.0.0
 - pkg:maven/com.google.apis/google-api-services-networkservices@v1beta1-rev20250224-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-networkservices@v1beta1-rev20250410-2.0.0
+- pkg:maven/com.google.apis/google-api-services-networkservices@v1beta1-rev20250410-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-networkservices@v1beta1-rev20250423-2.0.0
+- pkg:maven/com.google.apis/google-api-services-networkservices@v1beta1-rev20250423-2.0.0?classifier=sources

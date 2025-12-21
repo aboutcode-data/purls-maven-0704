@@ -51,3 +51,4 @@
 - pkg:maven/io.insert-koin/koin-test-macosarm64@4.1.0-Beta5?classifier=sources
 - pkg:maven/io.insert-koin/koin-test-macosarm64@4.1.0-Beta6?classifier=sources
 - pkg:maven/io.insert-koin/koin-test-macosarm64@4.1.0-Beta7?classifier=sources
+- pkg:maven/io.insert-koin/koin-test-macosarm64@4.1.0-Beta8?classifier=sources

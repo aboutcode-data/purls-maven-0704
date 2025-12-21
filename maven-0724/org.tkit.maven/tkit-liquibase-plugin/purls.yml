@@ -22,6 +22,9 @@
 - pkg:maven/org.tkit.maven/tkit-liquibase-plugin@1.12.0?classifier=sources
 - pkg:maven/org.tkit.maven/tkit-liquibase-plugin@1.13.0
 - pkg:maven/org.tkit.maven/tkit-liquibase-plugin@1.13.0?classifier=sources
+- pkg:maven/org.tkit.maven/tkit-liquibase-plugin@1.14.0
+- pkg:maven/org.tkit.maven/tkit-liquibase-plugin@1.14.0?classifier=sources
+- pkg:maven/org.tkit.maven/tkit-liquibase-plugin@1.15.0?classifier=sources
 - pkg:maven/org.tkit.maven/tkit-liquibase-plugin@1.2.0
 - pkg:maven/org.tkit.maven/tkit-liquibase-plugin@1.2.0?classifier=sources
 - pkg:maven/org.tkit.maven/tkit-liquibase-plugin@1.4.0

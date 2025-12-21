@@ -95,6 +95,8 @@
 - pkg:maven/com.wavemaker.commons/wavemaker-commons-util@11.10.4?classifier=sources
 - pkg:maven/com.wavemaker.commons/wavemaker-commons-util@11.10.5.ee?classifier=sources
 - pkg:maven/com.wavemaker.commons/wavemaker-commons-util@11.10.5?classifier=sources
+- pkg:maven/com.wavemaker.commons/wavemaker-commons-util@11.11.0.ee?classifier=sources
+- pkg:maven/com.wavemaker.commons/wavemaker-commons-util@11.11.0?classifier=sources
 - pkg:maven/com.wavemaker.commons/wavemaker-commons-util@11.2.0.ee?classifier=sources
 - pkg:maven/com.wavemaker.commons/wavemaker-commons-util@11.2.0?classifier=sources
 - pkg:maven/com.wavemaker.commons/wavemaker-commons-util@11.2.1?classifier=sources

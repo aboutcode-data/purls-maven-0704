@@ -68,3 +68,4 @@
 - pkg:maven/io.deephaven/deephaven-jpy-ext@0.37.5?classifier=sources
 - pkg:maven/io.deephaven/deephaven-jpy-ext@0.37.6?classifier=sources
 - pkg:maven/io.deephaven/deephaven-jpy-ext@0.38.0?classifier=sources
+- pkg:maven/io.deephaven/deephaven-jpy-ext@0.39.0?classifier=sources

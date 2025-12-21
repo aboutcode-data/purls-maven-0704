@@ -6,3 +6,4 @@
 - pkg:maven/org.webjars.npm/is-alphanumerical@1.0.3?classifier=sources
 - pkg:maven/org.webjars.npm/is-alphanumerical@1.0.4
 - pkg:maven/org.webjars.npm/is-alphanumerical@1.0.4?classifier=sources
+- pkg:maven/org.webjars.npm/is-alphanumerical@2.0.1
