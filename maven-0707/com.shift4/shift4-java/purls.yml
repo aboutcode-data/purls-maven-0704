@@ -20,3 +20,4 @@
 - pkg:maven/com.shift4/shift4-java@2.7.0?classifier=sources
 - pkg:maven/com.shift4/shift4-java@2.8.0?classifier=sources
 - pkg:maven/com.shift4/shift4-java@2.9.0?classifier=sources
+- pkg:maven/com.shift4/shift4-java@3.0.0?classifier=sources

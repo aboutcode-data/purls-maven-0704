@@ -90,6 +90,8 @@
 - pkg:maven/io.apicurio/apicurio-registry-utils-import-export@2.6.0.Final?classifier=sources
 - pkg:maven/io.apicurio/apicurio-registry-utils-import-export@2.6.1.Final
 - pkg:maven/io.apicurio/apicurio-registry-utils-import-export@2.6.1.Final?classifier=sources
+- pkg:maven/io.apicurio/apicurio-registry-utils-import-export@2.6.11.Final?classifier=sources
+- pkg:maven/io.apicurio/apicurio-registry-utils-import-export@2.6.12.Final?classifier=sources
 - pkg:maven/io.apicurio/apicurio-registry-utils-import-export@2.6.2.Final
 - pkg:maven/io.apicurio/apicurio-registry-utils-import-export@2.6.2.Final?classifier=sources
 - pkg:maven/io.apicurio/apicurio-registry-utils-import-export@2.6.3.Final
@@ -134,3 +136,4 @@
 - pkg:maven/io.apicurio/apicurio-registry-utils-import-export@3.0.7?classifier=sources
 - pkg:maven/io.apicurio/apicurio-registry-utils-import-export@3.0.8
 - pkg:maven/io.apicurio/apicurio-registry-utils-import-export@3.0.8?classifier=sources
+- pkg:maven/io.apicurio/apicurio-registry-utils-import-export@3.0.9?classifier=sources

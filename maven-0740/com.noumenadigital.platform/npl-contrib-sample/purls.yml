@@ -23,3 +23,4 @@
 - pkg:maven/com.noumenadigital.platform/npl-contrib-sample@2025.1.5?classifier=sources
 - pkg:maven/com.noumenadigital.platform/npl-contrib-sample@2025.1.6?classifier=sources
 - pkg:maven/com.noumenadigital.platform/npl-contrib-sample@2025.1.7?classifier=sources
+- pkg:maven/com.noumenadigital.platform/npl-contrib-sample@2025.1.8?classifier=sources

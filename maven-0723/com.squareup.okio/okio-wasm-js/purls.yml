@@ -3,6 +3,8 @@
 - pkg:maven/com.squareup.okio/okio-wasm-js@3.10.2?classifier=sources
 - pkg:maven/com.squareup.okio/okio-wasm-js@3.11.0?classifier=sources
 - pkg:maven/com.squareup.okio/okio-wasm-js@3.12.0?classifier=sources
+- pkg:maven/com.squareup.okio/okio-wasm-js@3.13.0?classifier=sources
+- pkg:maven/com.squareup.okio/okio-wasm-js@3.14.0?classifier=sources
 - pkg:maven/com.squareup.okio/okio-wasm-js@3.7.0?classifier=sources
 - pkg:maven/com.squareup.okio/okio-wasm-js@3.8.0?classifier=sources
 - pkg:maven/com.squareup.okio/okio-wasm-js@3.9.0?classifier=sources

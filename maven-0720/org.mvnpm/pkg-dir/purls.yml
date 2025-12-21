@@ -2,3 +2,5 @@
 - pkg:maven/org.mvnpm/pkg-dir@4.2.0?classifier=sources
 - pkg:maven/org.mvnpm/pkg-dir@7.0.0?classifier=sources
 - pkg:maven/org.mvnpm/pkg-dir@8.0.0?classifier=sources
+- pkg:maven/org.mvnpm/pkg-dir@9.0.0
+- pkg:maven/org.mvnpm/pkg-dir@9.0.0?classifier=sources

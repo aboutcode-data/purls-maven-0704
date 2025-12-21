@@ -1,0 +1,1 @@
+- pkg:maven/io.github.wajda/scala-cross-build-maven-plugin@0.2.3?classifier=sources

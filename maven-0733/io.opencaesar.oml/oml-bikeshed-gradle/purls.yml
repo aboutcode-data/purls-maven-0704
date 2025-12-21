@@ -54,6 +54,8 @@
 - pkg:maven/io.opencaesar.oml/oml-bikeshed-gradle@2.11.0?classifier=sources
 - pkg:maven/io.opencaesar.oml/oml-bikeshed-gradle@2.12.0
 - pkg:maven/io.opencaesar.oml/oml-bikeshed-gradle@2.12.0?classifier=sources
+- pkg:maven/io.opencaesar.oml/oml-bikeshed-gradle@2.13.0
+- pkg:maven/io.opencaesar.oml/oml-bikeshed-gradle@2.13.0?classifier=sources
 - pkg:maven/io.opencaesar.oml/oml-bikeshed-gradle@2.2.0
 - pkg:maven/io.opencaesar.oml/oml-bikeshed-gradle@2.2.0?classifier=sources
 - pkg:maven/io.opencaesar.oml/oml-bikeshed-gradle@2.3.0

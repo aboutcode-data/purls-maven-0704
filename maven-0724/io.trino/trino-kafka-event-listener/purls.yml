@@ -20,3 +20,4 @@
 - pkg:maven/io.trino/trino-kafka-event-listener@473?classifier=sources
 - pkg:maven/io.trino/trino-kafka-event-listener@474?classifier=sources
 - pkg:maven/io.trino/trino-kafka-event-listener@475?classifier=sources
+- pkg:maven/io.trino/trino-kafka-event-listener@476?classifier=sources

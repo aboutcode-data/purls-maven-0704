@@ -202,6 +202,8 @@
 - pkg:maven/org.glassfish.jersey.examples/extended-wadl-webapp@2.45?type=war
 - pkg:maven/org.glassfish.jersey.examples/extended-wadl-webapp@2.46?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/extended-wadl-webapp@2.46?type=war
+- pkg:maven/org.glassfish.jersey.examples/extended-wadl-webapp@2.47?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/extended-wadl-webapp@2.47?type=war
 - pkg:maven/org.glassfish.jersey.examples/extended-wadl-webapp@2.4?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/extended-wadl-webapp@2.4?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/extended-wadl-webapp@2.4?type=war
@@ -245,6 +247,8 @@
 - pkg:maven/org.glassfish.jersey.examples/extended-wadl-webapp@3.0.16?type=war
 - pkg:maven/org.glassfish.jersey.examples/extended-wadl-webapp@3.0.17?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/extended-wadl-webapp@3.0.17?type=war
+- pkg:maven/org.glassfish.jersey.examples/extended-wadl-webapp@3.0.18?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/extended-wadl-webapp@3.0.18?type=war
 - pkg:maven/org.glassfish.jersey.examples/extended-wadl-webapp@3.0.4?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/extended-wadl-webapp@3.0.4?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/extended-wadl-webapp@3.0.4?type=war

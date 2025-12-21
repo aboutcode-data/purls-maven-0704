@@ -26,6 +26,10 @@
 - pkg:maven/com.google.api-ads/ad-manager@0.21.0?classifier=sources
 - pkg:maven/com.google.api-ads/ad-manager@0.22.0
 - pkg:maven/com.google.api-ads/ad-manager@0.22.0?classifier=sources
+- pkg:maven/com.google.api-ads/ad-manager@0.24.0
+- pkg:maven/com.google.api-ads/ad-manager@0.24.0?classifier=sources
+- pkg:maven/com.google.api-ads/ad-manager@0.25.0
+- pkg:maven/com.google.api-ads/ad-manager@0.25.0?classifier=sources
 - pkg:maven/com.google.api-ads/ad-manager@0.3.0
 - pkg:maven/com.google.api-ads/ad-manager@0.3.0?classifier=sources
 - pkg:maven/com.google.api-ads/ad-manager@0.4.0

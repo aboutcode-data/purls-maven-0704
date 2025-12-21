@@ -1,3 +1,5 @@
+- pkg:maven/org.ekrich/sconfig_native0.5_2.12@1.10.0
+- pkg:maven/org.ekrich/sconfig_native0.5_2.12@1.10.0?classifier=sources
 - pkg:maven/org.ekrich/sconfig_native0.5_2.12@1.7.0
 - pkg:maven/org.ekrich/sconfig_native0.5_2.12@1.7.0?classifier=sources
 - pkg:maven/org.ekrich/sconfig_native0.5_2.12@1.8.0

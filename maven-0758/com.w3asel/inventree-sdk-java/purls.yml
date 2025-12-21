@@ -4,4 +4,6 @@
 - pkg:maven/com.w3asel/inventree-sdk-java@0.17.294.2?classifier=sources
 - pkg:maven/com.w3asel/inventree-sdk-java@0.17.294.3
 - pkg:maven/com.w3asel/inventree-sdk-java@0.17.294.3?classifier=sources
+- pkg:maven/com.w3asel/inventree-sdk-java@0.17.294.4
+- pkg:maven/com.w3asel/inventree-sdk-java@0.17.294.4?classifier=sources
 - pkg:maven/com.w3asel/inventree-sdk-java@0.17.294?classifier=sources

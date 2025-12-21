@@ -72,6 +72,7 @@
 - pkg:maven/com.vaadin/vaadin-upload-testbench@14.12.7?classifier=sources
 - pkg:maven/com.vaadin/vaadin-upload-testbench@14.12.8
 - pkg:maven/com.vaadin/vaadin-upload-testbench@14.12.8?classifier=sources
+- pkg:maven/com.vaadin/vaadin-upload-testbench@14.13.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-upload-testbench@14.5.0
 - pkg:maven/com.vaadin/vaadin-upload-testbench@14.5.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-upload-testbench@14.5.1
@@ -569,6 +570,7 @@
 - pkg:maven/com.vaadin/vaadin-upload-testbench@23.5.8?classifier=sources
 - pkg:maven/com.vaadin/vaadin-upload-testbench@23.5.9
 - pkg:maven/com.vaadin/vaadin-upload-testbench@23.5.9?classifier=sources
+- pkg:maven/com.vaadin/vaadin-upload-testbench@23.6.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-upload-testbench@24.0.0
 - pkg:maven/com.vaadin/vaadin-upload-testbench@24.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-upload-testbench@24.0.1
@@ -783,6 +785,7 @@
 - pkg:maven/com.vaadin/vaadin-upload-testbench@24.6.10
 - pkg:maven/com.vaadin/vaadin-upload-testbench@24.6.10?classifier=sources
 - pkg:maven/com.vaadin/vaadin-upload-testbench@24.6.11?classifier=sources
+- pkg:maven/com.vaadin/vaadin-upload-testbench@24.6.12?classifier=sources
 - pkg:maven/com.vaadin/vaadin-upload-testbench@24.6.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-upload-testbench@24.6.2
 - pkg:maven/com.vaadin/vaadin-upload-testbench@24.6.2?classifier=sources
@@ -812,6 +815,11 @@
 - pkg:maven/com.vaadin/vaadin-upload-testbench@24.7.4?classifier=sources
 - pkg:maven/com.vaadin/vaadin-upload-testbench@24.7.5?classifier=sources
 - pkg:maven/com.vaadin/vaadin-upload-testbench@24.7.6?classifier=sources
+- pkg:maven/com.vaadin/vaadin-upload-testbench@24.7.7?classifier=sources
+- pkg:maven/com.vaadin/vaadin-upload-testbench@24.7.8?classifier=sources
+- pkg:maven/com.vaadin/vaadin-upload-testbench@24.8.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-upload-testbench@24.8.1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-upload-testbench@24.8.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-upload-testbench@3.0.0
 - pkg:maven/com.vaadin/vaadin-upload-testbench@3.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-upload-testbench@3.1.0

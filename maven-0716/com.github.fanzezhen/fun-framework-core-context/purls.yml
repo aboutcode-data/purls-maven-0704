@@ -13,3 +13,4 @@
 - pkg:maven/com.github.fanzezhen/fun-framework-core-context@3.4.3.9
 - pkg:maven/com.github.fanzezhen/fun-framework-core-context@3.4.3.9?classifier=sources
 - pkg:maven/com.github.fanzezhen/fun-framework-core-context@3.5.0.20250530?classifier=sources
+- pkg:maven/com.github.fanzezhen/fun-framework-core-context@3.5.0.20250606?classifier=sources

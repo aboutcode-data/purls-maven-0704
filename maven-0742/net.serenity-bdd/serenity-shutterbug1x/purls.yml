@@ -313,6 +313,10 @@
 - pkg:maven/net.serenity-bdd/serenity-shutterbug1x@4.2.3
 - pkg:maven/net.serenity-bdd/serenity-shutterbug1x@4.2.30
 - pkg:maven/net.serenity-bdd/serenity-shutterbug1x@4.2.30?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-shutterbug1x@4.2.31
+- pkg:maven/net.serenity-bdd/serenity-shutterbug1x@4.2.31?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-shutterbug1x@4.2.32
+- pkg:maven/net.serenity-bdd/serenity-shutterbug1x@4.2.32?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-shutterbug1x@4.2.3?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-shutterbug1x@4.2.4
 - pkg:maven/net.serenity-bdd/serenity-shutterbug1x@4.2.4?classifier=sources

@@ -1,4 +1,6 @@
+- pkg:maven/com.daml/daml-common-staging_daml-errors_2.13@2.10.1
 - pkg:maven/com.daml/daml-common-staging_daml-errors_2.13@2.10.1-snapshot.20250523.13179.0.v7cd2f5cf
 - pkg:maven/com.daml/daml-common-staging_daml-errors_2.13@2.10.1-snapshot.20250523.13179.0.v7cd2f5cf?classifier=sources
 - pkg:maven/com.daml/daml-common-staging_daml-errors_2.13@2.10.1-snapshot.20250527.13181.0.v1004bc26
 - pkg:maven/com.daml/daml-common-staging_daml-errors_2.13@2.10.1-snapshot.20250527.13181.0.v1004bc26?classifier=sources
+- pkg:maven/com.daml/daml-common-staging_daml-errors_2.13@2.10.1?classifier=sources

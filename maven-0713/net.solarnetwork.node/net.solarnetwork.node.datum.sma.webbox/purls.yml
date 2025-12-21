@@ -2,3 +2,5 @@
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.sma.webbox@1.0.0?classifier=sources
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.sma.webbox@2.0.0
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.sma.webbox@2.0.0?classifier=sources
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.sma.webbox@3.0.0
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.sma.webbox@3.0.0?classifier=sources

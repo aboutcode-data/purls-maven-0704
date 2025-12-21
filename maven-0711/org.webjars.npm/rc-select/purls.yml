@@ -15,6 +15,7 @@
 - pkg:maven/org.webjars.npm/rc-select@14.15.0
 - pkg:maven/org.webjars.npm/rc-select@14.15.1
 - pkg:maven/org.webjars.npm/rc-select@14.16.4
+- pkg:maven/org.webjars.npm/rc-select@14.16.8
 - pkg:maven/org.webjars.npm/rc-select@14.2.0
 - pkg:maven/org.webjars.npm/rc-select@14.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/rc-select@14.5.2

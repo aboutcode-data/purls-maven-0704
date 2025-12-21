@@ -82,3 +82,4 @@
 - pkg:maven/org.primefaces/primefaces-showcase@15.0.3?type=war
 - pkg:maven/org.primefaces/primefaces-showcase@15.0.4?classifier=sources
 - pkg:maven/org.primefaces/primefaces-showcase@15.0.4?type=war
+- pkg:maven/org.primefaces/primefaces-showcase@15.0.5?classifier=sources

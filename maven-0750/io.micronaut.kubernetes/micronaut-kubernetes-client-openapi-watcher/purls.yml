@@ -1,1 +1,2 @@
 - pkg:maven/io.micronaut.kubernetes/micronaut-kubernetes-client-openapi-watcher@7.0.0?classifier=sources
+- pkg:maven/io.micronaut.kubernetes/micronaut-kubernetes-client-openapi-watcher@7.1.0?classifier=sources

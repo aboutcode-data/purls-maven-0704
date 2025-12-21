@@ -1,0 +1,1 @@
+- pkg:maven/io.vertx/vertx-web-sstore-caffeine@5.0.1?classifier=sources

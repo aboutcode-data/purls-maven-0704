@@ -1,1 +1,2 @@
 - pkg:maven/fun.wswj.middleware/db-router-spring-boot-starter@1.0.0?classifier=sources
+- pkg:maven/fun.wswj.middleware/db-router-spring-boot-starter@1.0.1?classifier=sources

@@ -1,3 +1,4 @@
+- pkg:maven/org.jboss.arquillian.junit5/arquillian-junit5-container@1.10.0.Final?classifier=sources
 - pkg:maven/org.jboss.arquillian.junit5/arquillian-junit5-container@1.7.0.Alpha10?classifier=sources
 - pkg:maven/org.jboss.arquillian.junit5/arquillian-junit5-container@1.7.0.Alpha11?classifier=sources
 - pkg:maven/org.jboss.arquillian.junit5/arquillian-junit5-container@1.7.0.Alpha12?classifier=sources
@@ -24,3 +25,5 @@
 - pkg:maven/org.jboss.arquillian.junit5/arquillian-junit5-container@1.9.3.Final
 - pkg:maven/org.jboss.arquillian.junit5/arquillian-junit5-container@1.9.3.Final?classifier=sources
 - pkg:maven/org.jboss.arquillian.junit5/arquillian-junit5-container@1.9.4.Final?classifier=sources
+- pkg:maven/org.jboss.arquillian.junit5/arquillian-junit5-container@1.9.5.Final
+- pkg:maven/org.jboss.arquillian.junit5/arquillian-junit5-container@1.9.5.Final?classifier=sources

@@ -6,6 +6,10 @@
 - pkg:maven/org.neo4j/cypher-parser-common@2025.03.0?classifier=sources
 - pkg:maven/org.neo4j/cypher-parser-common@2025.04.0
 - pkg:maven/org.neo4j/cypher-parser-common@2025.04.0?classifier=sources
+- pkg:maven/org.neo4j/cypher-parser-common@2025.05.0
+- pkg:maven/org.neo4j/cypher-parser-common@2025.05.0?classifier=sources
+- pkg:maven/org.neo4j/cypher-parser-common@2025.05.1
+- pkg:maven/org.neo4j/cypher-parser-common@2025.05.1?classifier=sources
 - pkg:maven/org.neo4j/cypher-parser-common@5.21.0
 - pkg:maven/org.neo4j/cypher-parser-common@5.21.0?classifier=sources
 - pkg:maven/org.neo4j/cypher-parser-common@5.21.2
@@ -38,3 +42,5 @@
 - pkg:maven/org.neo4j/cypher-parser-common@5.26.6?classifier=sources
 - pkg:maven/org.neo4j/cypher-parser-common@5.26.7
 - pkg:maven/org.neo4j/cypher-parser-common@5.26.7?classifier=sources
+- pkg:maven/org.neo4j/cypher-parser-common@5.26.8
+- pkg:maven/org.neo4j/cypher-parser-common@5.26.8?classifier=sources

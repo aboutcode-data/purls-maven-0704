@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/react-base16-styling@0.9.1
+- pkg:maven/org.mvnpm/react-base16-styling@0.9.1?classifier=sources

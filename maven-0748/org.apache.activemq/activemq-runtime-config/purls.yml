@@ -154,3 +154,5 @@
 - pkg:maven/org.apache.activemq/activemq-runtime-config@6.1.5?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-runtime-config@6.1.6
 - pkg:maven/org.apache.activemq/activemq-runtime-config@6.1.6?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-runtime-config@6.1.7
+- pkg:maven/org.apache.activemq/activemq-runtime-config@6.1.7?classifier=sources

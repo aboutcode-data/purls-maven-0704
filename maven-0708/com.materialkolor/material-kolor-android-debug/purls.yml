@@ -30,3 +30,4 @@
 - pkg:maven/com.materialkolor/material-kolor-android-debug@1.4.3?classifier=sources
 - pkg:maven/com.materialkolor/material-kolor-android-debug@3.0.0-beta04?classifier=sources
 - pkg:maven/com.materialkolor/material-kolor-android-debug@3.0.0-beta05?classifier=sources
+- pkg:maven/com.materialkolor/material-kolor-android-debug@3.0.0-beta07?classifier=sources

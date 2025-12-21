@@ -1,1 +1,3 @@
+- pkg:maven/org.mvnpm/prism-react-renderer@1.3.5
+- pkg:maven/org.mvnpm/prism-react-renderer@1.3.5?classifier=sources
 - pkg:maven/org.mvnpm/prism-react-renderer@2.4.1?classifier=sources

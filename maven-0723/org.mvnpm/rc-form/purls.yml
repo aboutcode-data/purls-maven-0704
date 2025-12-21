@@ -1,0 +1,6 @@
+- pkg:maven/org.mvnpm/rc-form@0.14.1
+- pkg:maven/org.mvnpm/rc-form@0.14.1?classifier=sources
+- pkg:maven/org.mvnpm/rc-form@0.17.2
+- pkg:maven/org.mvnpm/rc-form@0.17.2?classifier=sources
+- pkg:maven/org.mvnpm/rc-form@2.4.12
+- pkg:maven/org.mvnpm/rc-form@2.4.12?classifier=sources

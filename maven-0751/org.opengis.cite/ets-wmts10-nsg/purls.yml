@@ -1,2 +1,4 @@
 - pkg:maven/org.opengis.cite/ets-wmts10-nsg@0.4
 - pkg:maven/org.opengis.cite/ets-wmts10-nsg@0.4?classifier=sources
+- pkg:maven/org.opengis.cite/ets-wmts10-nsg@0.5
+- pkg:maven/org.opengis.cite/ets-wmts10-nsg@0.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/cn.com.antcloud.api/antcloud-api-sofakafka@1.2.28
+- pkg:maven/cn.com.antcloud.api/antcloud-api-sofakafka@1.2.28?classifier=sources

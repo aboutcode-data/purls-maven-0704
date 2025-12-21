@@ -137,3 +137,4 @@
 - pkg:maven/org.yakworks/gorm-test-domain@7.3.84?classifier=sources
 - pkg:maven/org.yakworks/gorm-test-domain@7.3.85?classifier=sources
 - pkg:maven/org.yakworks/gorm-test-domain@7.3.86?classifier=sources
+- pkg:maven/org.yakworks/gorm-test-domain@7.3.87?classifier=sources

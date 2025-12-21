@@ -1,2 +1,3 @@
 - pkg:maven/com.weirdkid/quaqua-jfc@24.02
 - pkg:maven/com.weirdkid/quaqua-jfc@24.02?classifier=sources
+- pkg:maven/com.weirdkid/quaqua-jfc@25.6?classifier=sources

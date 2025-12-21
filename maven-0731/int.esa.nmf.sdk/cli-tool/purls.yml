@@ -1,0 +1,2 @@
+- pkg:maven/int.esa.nmf.sdk/cli-tool@4.0
+- pkg:maven/int.esa.nmf.sdk/cli-tool@4.0?classifier=sources

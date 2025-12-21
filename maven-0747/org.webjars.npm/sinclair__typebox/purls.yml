@@ -2,3 +2,4 @@
 - pkg:maven/org.webjars.npm/sinclair__typebox@0.24.51?classifier=sources
 - pkg:maven/org.webjars.npm/sinclair__typebox@0.27.8
 - pkg:maven/org.webjars.npm/sinclair__typebox@0.27.8?classifier=sources
+- pkg:maven/org.webjars.npm/sinclair__typebox@0.34.3

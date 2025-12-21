@@ -1,1 +1,2 @@
 - pkg:maven/io.kestros.cms/kestros-application-archetype@0.1.2?classifier=sources
+- pkg:maven/io.kestros.cms/kestros-application-archetype@0.1.3?classifier=sources

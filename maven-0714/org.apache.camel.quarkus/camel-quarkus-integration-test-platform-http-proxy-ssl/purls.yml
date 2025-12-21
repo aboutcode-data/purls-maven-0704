@@ -54,6 +54,8 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-platform-http-proxy-ssl@3.22.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-platform-http-proxy-ssl@3.23.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-platform-http-proxy-ssl@3.23.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-platform-http-proxy-ssl@3.24.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-platform-http-proxy-ssl@3.24.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-platform-http-proxy-ssl@3.4.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-platform-http-proxy-ssl@3.4.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-platform-http-proxy-ssl@3.5.0

@@ -7,6 +7,10 @@
 - pkg:maven/com.stripe/financial-connections-lite@21.15.0?classifier=sources
 - pkg:maven/com.stripe/financial-connections-lite@21.15.1?classifier=sources
 - pkg:maven/com.stripe/financial-connections-lite@21.16.0?classifier=sources
+- pkg:maven/com.stripe/financial-connections-lite@21.17.0?classifier=sources
+- pkg:maven/com.stripe/financial-connections-lite@21.18.0?classifier=sources
+- pkg:maven/com.stripe/financial-connections-lite@21.19.0?classifier=sources
+- pkg:maven/com.stripe/financial-connections-lite@21.20.0?classifier=sources
 - pkg:maven/com.stripe/financial-connections-lite@21.7.0?classifier=sources
 - pkg:maven/com.stripe/financial-connections-lite@21.7.1?classifier=sources
 - pkg:maven/com.stripe/financial-connections-lite@21.8.0?classifier=sources

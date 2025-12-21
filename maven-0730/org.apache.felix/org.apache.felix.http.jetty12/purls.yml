@@ -43,6 +43,9 @@
 - pkg:maven/org.apache.felix/org.apache.felix.http.jetty12@1.0.32
 - pkg:maven/org.apache.felix/org.apache.felix.http.jetty12@1.0.32?classifier=source-release&type=zip
 - pkg:maven/org.apache.felix/org.apache.felix.http.jetty12@1.0.32?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.http.jetty12@1.0.34
+- pkg:maven/org.apache.felix/org.apache.felix.http.jetty12@1.0.34?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.http.jetty12@1.0.34?classifier=sources
 - pkg:maven/org.apache.felix/org.apache.felix.http.jetty12@1.0.4
 - pkg:maven/org.apache.felix/org.apache.felix.http.jetty12@1.0.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.felix/org.apache.felix.http.jetty12@1.0.4?classifier=sources

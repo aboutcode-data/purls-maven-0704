@@ -52,3 +52,7 @@
 - pkg:maven/io.gate/gate-api@6.97.2?classifier=sources
 - pkg:maven/io.gate/gate-api@6.97.4
 - pkg:maven/io.gate/gate-api@6.97.4?classifier=sources
+- pkg:maven/io.gate/gate-api@6.98.0
+- pkg:maven/io.gate/gate-api@6.98.0?classifier=sources
+- pkg:maven/io.gate/gate-api@6.99.0
+- pkg:maven/io.gate/gate-api@6.99.0?classifier=sources

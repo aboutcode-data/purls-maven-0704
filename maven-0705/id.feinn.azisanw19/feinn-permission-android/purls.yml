@@ -4,3 +4,5 @@
 - pkg:maven/id.feinn.azisanw19/feinn-permission-android@1.0.0-alpha08?classifier=sources
 - pkg:maven/id.feinn.azisanw19/feinn-permission-android@1.0.0-alpha09?classifier=sources
 - pkg:maven/id.feinn.azisanw19/feinn-permission-android@1.0.0-alpha10?classifier=sources
+- pkg:maven/id.feinn.azisanw19/feinn-permission-android@1.0.0?classifier=sources
+- pkg:maven/id.feinn.azisanw19/feinn-permission-android@1.1.0?classifier=sources

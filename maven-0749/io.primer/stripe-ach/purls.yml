@@ -14,3 +14,6 @@
 - pkg:maven/io.primer/stripe-ach@2.38.2?classifier=sources
 - pkg:maven/io.primer/stripe-ach@2.38.3?classifier=sources
 - pkg:maven/io.primer/stripe-ach@2.39.0?classifier=sources
+- pkg:maven/io.primer/stripe-ach@2.40.0?classifier=sources
+- pkg:maven/io.primer/stripe-ach@2.40.1?classifier=sources
+- pkg:maven/io.primer/stripe-ach@2.41.0?classifier=sources

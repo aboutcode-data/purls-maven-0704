@@ -128,3 +128,5 @@
 - pkg:maven/edu.gemini/lucuma-react-hotkeys-hooks_sjs1_3@0.82.0?classifier=sources
 - pkg:maven/edu.gemini/lucuma-react-hotkeys-hooks_sjs1_3@0.83.0
 - pkg:maven/edu.gemini/lucuma-react-hotkeys-hooks_sjs1_3@0.83.0?classifier=sources
+- pkg:maven/edu.gemini/lucuma-react-hotkeys-hooks_sjs1_3@0.84.0
+- pkg:maven/edu.gemini/lucuma-react-hotkeys-hooks_sjs1_3@0.84.0?classifier=sources

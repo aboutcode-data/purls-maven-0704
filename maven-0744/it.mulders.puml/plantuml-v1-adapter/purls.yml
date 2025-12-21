@@ -10,4 +10,5 @@
 - pkg:maven/it.mulders.puml/plantuml-v1-adapter@0.4.2
 - pkg:maven/it.mulders.puml/plantuml-v1-adapter@0.4.2?classifier=sources
 - pkg:maven/it.mulders.puml/plantuml-v1-adapter@0.4.6?classifier=sources
+- pkg:maven/it.mulders.puml/plantuml-v1-adapter@0.4.7?classifier=sources
 - pkg:maven/it.mulders.puml/plantuml-v1-adapter@0.4?classifier=sources

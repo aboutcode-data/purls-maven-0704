@@ -4,3 +4,4 @@
 - pkg:maven/software.amazon.s3.analyticsaccelerator/analyticsaccelerator-s3@0.0.4?classifier=sources
 - pkg:maven/software.amazon.s3.analyticsaccelerator/analyticsaccelerator-s3@1.0.0?classifier=sources
 - pkg:maven/software.amazon.s3.analyticsaccelerator/analyticsaccelerator-s3@1.1.0?classifier=sources
+- pkg:maven/software.amazon.s3.analyticsaccelerator/analyticsaccelerator-s3@1.2.0?classifier=sources

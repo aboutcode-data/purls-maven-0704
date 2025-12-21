@@ -40,3 +40,9 @@
 - pkg:maven/fr.lirmm.graphik/integraal-unifiers@1.7.2?classifier=sources
 - pkg:maven/fr.lirmm.graphik/integraal-unifiers@2.0.0
 - pkg:maven/fr.lirmm.graphik/integraal-unifiers@2.0.0?classifier=sources
+- pkg:maven/fr.lirmm.graphik/integraal-unifiers@2.0.1
+- pkg:maven/fr.lirmm.graphik/integraal-unifiers@2.0.1?classifier=sources
+- pkg:maven/fr.lirmm.graphik/integraal-unifiers@2.0.2
+- pkg:maven/fr.lirmm.graphik/integraal-unifiers@2.0.2?classifier=sources
+- pkg:maven/fr.lirmm.graphik/integraal-unifiers@2.0.7
+- pkg:maven/fr.lirmm.graphik/integraal-unifiers@2.0.7?classifier=sources

@@ -11,3 +11,5 @@
 - pkg:maven/com.onfido.sdk/onfido-public-api@22.7.0?classifier=sources
 - pkg:maven/com.onfido.sdk/onfido-public-api@22.8.0?classifier=sources
 - pkg:maven/com.onfido.sdk/onfido-public-api@22.9.0?classifier=sources
+- pkg:maven/com.onfido.sdk/onfido-public-api@22.9.1?classifier=sources
+- pkg:maven/com.onfido.sdk/onfido-public-api@22.9.2?classifier=sources

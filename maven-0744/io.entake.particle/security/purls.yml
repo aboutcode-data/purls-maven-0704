@@ -1,2 +1,3 @@
 - pkg:maven/io.entake.particle/security@3.3.2?classifier=sources
 - pkg:maven/io.entake.particle/security@3.4.2?classifier=sources
+- pkg:maven/io.entake.particle/security@3.5.3?classifier=sources

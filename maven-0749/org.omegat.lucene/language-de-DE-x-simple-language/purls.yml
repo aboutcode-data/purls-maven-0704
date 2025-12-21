@@ -1,0 +1,2 @@
+- pkg:maven/org.omegat.lucene/language-de-DE-x-simple-language@6.5-omt2.0?classifier=sources
+- pkg:maven/org.omegat.lucene/language-de-DE-x-simple-language@6.5-omt2.1?classifier=sources

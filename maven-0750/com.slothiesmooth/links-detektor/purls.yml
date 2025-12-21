@@ -1,0 +1,7 @@
+- pkg:maven/com.slothiesmooth/links-detektor@2.0.0?classifier=sources
+- pkg:maven/com.slothiesmooth/links-detektor@2.0.1?classifier=sources
+- pkg:maven/com.slothiesmooth/links-detektor@2.0.2-alpha01?classifier=sources
+- pkg:maven/com.slothiesmooth/links-detektor@2.0.2-alpha02?classifier=sources
+- pkg:maven/com.slothiesmooth/links-detektor@2.0.2?classifier=sources
+- pkg:maven/com.slothiesmooth/links-detektor@2.0.3?classifier=sources
+- pkg:maven/com.slothiesmooth/links-detektor@v2.0.3?classifier=sources

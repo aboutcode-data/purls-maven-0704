@@ -1,2 +1,4 @@
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.setup.log4j2@1.0.0
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.setup.log4j2@1.0.0?classifier=sources
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.setup.log4j2@2.0.0
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.setup.log4j2@2.0.0?classifier=sources

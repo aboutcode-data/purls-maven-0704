@@ -24,3 +24,5 @@
 - pkg:maven/com.holon-platform.jaxrs/holon-jaxrs-client-reactor@5.5.0?classifier=sources
 - pkg:maven/com.holon-platform.jaxrs/holon-jaxrs-client-reactor@5.7.0
 - pkg:maven/com.holon-platform.jaxrs/holon-jaxrs-client-reactor@5.7.0?classifier=sources
+- pkg:maven/com.holon-platform.jaxrs/holon-jaxrs-client-reactor@6.0.0
+- pkg:maven/com.holon-platform.jaxrs/holon-jaxrs-client-reactor@6.0.0?classifier=sources

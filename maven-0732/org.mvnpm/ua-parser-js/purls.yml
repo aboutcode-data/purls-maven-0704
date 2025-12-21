@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm/ua-parser-js@0.7.40?classifier=sources
+- pkg:maven/org.mvnpm/ua-parser-js@1.0.40
+- pkg:maven/org.mvnpm/ua-parser-js@1.0.40?classifier=sources
 - pkg:maven/org.mvnpm/ua-parser-js@2.0.0?classifier=sources

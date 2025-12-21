@@ -18,6 +18,7 @@
 - pkg:maven/com.liferay/org.apache.felix.scr@2.1.14.LIFERAY-PATCHED-11?classifier=sources
 - pkg:maven/com.liferay/org.apache.felix.scr@2.1.14.LIFERAY-PATCHED-12?classifier=sources
 - pkg:maven/com.liferay/org.apache.felix.scr@2.1.14.LIFERAY-PATCHED-13?classifier=sources
+- pkg:maven/com.liferay/org.apache.felix.scr@2.1.14.LIFERAY-PATCHED-14?classifier=sources
 - pkg:maven/com.liferay/org.apache.felix.scr@2.1.14.LIFERAY-PATCHED-1?classifier=sources
 - pkg:maven/com.liferay/org.apache.felix.scr@2.1.14.LIFERAY-PATCHED-1?classifier=sources-commercial
 - pkg:maven/com.liferay/org.apache.felix.scr@2.1.14.LIFERAY-PATCHED-2

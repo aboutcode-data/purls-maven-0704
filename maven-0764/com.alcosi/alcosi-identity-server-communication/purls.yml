@@ -1,0 +1,12 @@
+- pkg:maven/com.alcosi/alcosi-identity-server-communication@1.00-RELEASE
+- pkg:maven/com.alcosi/alcosi-identity-server-communication@1.00-RELEASE?classifier=sources
+- pkg:maven/com.alcosi/alcosi-identity-server-communication@2.03-RELEASE
+- pkg:maven/com.alcosi/alcosi-identity-server-communication@2.03-RELEASE?classifier=sources
+- pkg:maven/com.alcosi/alcosi-identity-server-communication@3.00-RELEASE
+- pkg:maven/com.alcosi/alcosi-identity-server-communication@3.00-RELEASE?classifier=sources
+- pkg:maven/com.alcosi/alcosi-identity-server-communication@3.01-RELEASE
+- pkg:maven/com.alcosi/alcosi-identity-server-communication@3.01-RELEASE?classifier=sources
+- pkg:maven/com.alcosi/alcosi-identity-server-communication@3.02-RELEASE
+- pkg:maven/com.alcosi/alcosi-identity-server-communication@3.02-RELEASE?classifier=sources
+- pkg:maven/com.alcosi/alcosi-identity-server-communication@3.03-RELEASE
+- pkg:maven/com.alcosi/alcosi-identity-server-communication@3.03-RELEASE?classifier=sources

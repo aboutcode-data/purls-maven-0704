@@ -10,3 +10,4 @@
 - pkg:maven/dev.ikm.jpms/record-builder-core@36-r7?classifier=sources
 - pkg:maven/dev.ikm.jpms/record-builder-core@44-r1
 - pkg:maven/dev.ikm.jpms/record-builder-core@44-r1?classifier=sources
+- pkg:maven/dev.ikm.jpms/record-builder-core@44-r2?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/io.github.simple-scala-tooling/smithy-trait-codegen-mill_mill0.11_2.13@0.1.0
+- pkg:maven/io.github.simple-scala-tooling/smithy-trait-codegen-mill_mill0.11_2.13@0.1.0?classifier=sources
+- pkg:maven/io.github.simple-scala-tooling/smithy-trait-codegen-mill_mill0.11_2.13@9e5645b
+- pkg:maven/io.github.simple-scala-tooling/smithy-trait-codegen-mill_mill0.11_2.13@9e5645b?classifier=sources
+- pkg:maven/io.github.simple-scala-tooling/smithy-trait-codegen-mill_mill0.11_2.13@b91ce2e
+- pkg:maven/io.github.simple-scala-tooling/smithy-trait-codegen-mill_mill0.11_2.13@b91ce2e?classifier=sources

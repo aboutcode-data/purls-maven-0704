@@ -1,2 +1,4 @@
 - pkg:maven/io.spring.initializr/initializr-service-sample@0.21.0
 - pkg:maven/io.spring.initializr/initializr-service-sample@0.21.0?classifier=sources
+- pkg:maven/io.spring.initializr/initializr-service-sample@0.22.0
+- pkg:maven/io.spring.initializr/initializr-service-sample@0.22.0?classifier=sources

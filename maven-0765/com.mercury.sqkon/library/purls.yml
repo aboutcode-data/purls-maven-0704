@@ -14,4 +14,5 @@
 - pkg:maven/com.mercury.sqkon/library@1.0.0-alpha15?classifier=sources
 - pkg:maven/com.mercury.sqkon/library@1.0.0-alpha16?classifier=sources
 - pkg:maven/com.mercury.sqkon/library@1.0.0-alpha17?classifier=sources
+- pkg:maven/com.mercury.sqkon/library@1.0.0-alpha18?classifier=sources
 - pkg:maven/com.mercury.sqkon/library@v0.1.0-alpha01?classifier=sources

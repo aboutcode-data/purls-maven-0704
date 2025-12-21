@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/nano-css@5.6.2
+- pkg:maven/org.mvnpm/nano-css@5.6.2?classifier=sources

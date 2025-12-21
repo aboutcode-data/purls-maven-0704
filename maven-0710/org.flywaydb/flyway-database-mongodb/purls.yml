@@ -76,6 +76,7 @@
 - pkg:maven/org.flywaydb/flyway-database-mongodb@11.1.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-database-mongodb@11.1.1
 - pkg:maven/org.flywaydb/flyway-database-mongodb@11.1.1?classifier=sources
+- pkg:maven/org.flywaydb/flyway-database-mongodb@11.10.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-database-mongodb@11.2.0
 - pkg:maven/org.flywaydb/flyway-database-mongodb@11.2.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-database-mongodb@11.3.0
@@ -108,3 +109,6 @@
 - pkg:maven/org.flywaydb/flyway-database-mongodb@11.8.1?classifier=sources
 - pkg:maven/org.flywaydb/flyway-database-mongodb@11.8.2
 - pkg:maven/org.flywaydb/flyway-database-mongodb@11.8.2?classifier=sources
+- pkg:maven/org.flywaydb/flyway-database-mongodb@11.9.0?classifier=sources
+- pkg:maven/org.flywaydb/flyway-database-mongodb@11.9.1?classifier=sources
+- pkg:maven/org.flywaydb/flyway-database-mongodb@11.9.2?classifier=sources

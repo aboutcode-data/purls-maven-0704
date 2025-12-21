@@ -6,6 +6,7 @@
 - pkg:maven/org.immutables/criteria-sql@2.10.0?classifier=sources
 - pkg:maven/org.immutables/criteria-sql@2.10.1
 - pkg:maven/org.immutables/criteria-sql@2.10.1?classifier=sources
+- pkg:maven/org.immutables/criteria-sql@2.11.0?classifier=sources
 - pkg:maven/org.immutables/criteria-sql@2.8.0-dt-experimental-1
 - pkg:maven/org.immutables/criteria-sql@2.8.0-dt-experimental-1?classifier=sources
 - pkg:maven/org.immutables/criteria-sql@2.8.0-dt-experimental-2

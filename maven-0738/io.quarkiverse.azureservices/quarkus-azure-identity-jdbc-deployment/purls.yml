@@ -1,0 +1,1 @@
+- pkg:maven/io.quarkiverse.azureservices/quarkus-azure-identity-jdbc-deployment@1.1.6?classifier=sources

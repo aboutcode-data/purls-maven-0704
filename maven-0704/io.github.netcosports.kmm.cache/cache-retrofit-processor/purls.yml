@@ -1,1 +1,2 @@
 - pkg:maven/io.github.netcosports.kmm.cache/cache-retrofit-processor@3.0.0?classifier=sources
+- pkg:maven/io.github.netcosports.kmm.cache/cache-retrofit-processor@3.0.1?classifier=sources

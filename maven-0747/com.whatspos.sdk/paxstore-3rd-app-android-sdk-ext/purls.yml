@@ -4,3 +4,4 @@
 - pkg:maven/com.whatspos.sdk/paxstore-3rd-app-android-sdk-ext@9.0.0?type=aar
 - pkg:maven/com.whatspos.sdk/paxstore-3rd-app-android-sdk-ext@9.2.0?type=aar
 - pkg:maven/com.whatspos.sdk/paxstore-3rd-app-android-sdk-ext@9.2.1?type=aar
+- pkg:maven/com.whatspos.sdk/paxstore-3rd-app-android-sdk-ext@9.7.0?classifier=sources

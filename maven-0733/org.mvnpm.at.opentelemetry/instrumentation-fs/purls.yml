@@ -3,3 +3,5 @@
 - pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-fs@0.20.0?classifier=sources
 - pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-fs@0.21.0
 - pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-fs@0.21.0?classifier=sources
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-fs@0.22.0
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-fs@0.22.0?classifier=sources

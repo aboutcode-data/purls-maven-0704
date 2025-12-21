@@ -1,1 +1,2 @@
+- pkg:maven/eu.codlab/kotlin-mapcompose-jvm@0.10.0?classifier=sources
 - pkg:maven/eu.codlab/kotlin-mapcompose-jvm@0.9.5?classifier=sources

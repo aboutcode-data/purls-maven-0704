@@ -1,0 +1,8 @@
+- pkg:maven/io.github.disneystreaming.alloy/alloy-protobuf@0.3.21-5-219046
+- pkg:maven/io.github.disneystreaming.alloy/alloy-protobuf@0.3.21-5-219046?classifier=sources
+- pkg:maven/io.github.disneystreaming.alloy/alloy-protobuf@0.3.22
+- pkg:maven/io.github.disneystreaming.alloy/alloy-protobuf@0.3.22?classifier=sources
+- pkg:maven/io.github.disneystreaming.alloy/alloy-protobuf@0.3.23
+- pkg:maven/io.github.disneystreaming.alloy/alloy-protobuf@0.3.23?classifier=sources
+- pkg:maven/io.github.disneystreaming.alloy/alloy-protobuf@0.3.24
+- pkg:maven/io.github.disneystreaming.alloy/alloy-protobuf@0.3.24?classifier=sources

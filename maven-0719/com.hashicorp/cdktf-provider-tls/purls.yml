@@ -1048,6 +1048,8 @@
 - pkg:maven/com.hashicorp/cdktf-provider-tls@10.0.1?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-tls@10.1.0
 - pkg:maven/com.hashicorp/cdktf-provider-tls@10.1.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-tls@11.0.0
+- pkg:maven/com.hashicorp/cdktf-provider-tls@11.0.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-tls@2.0.0
 - pkg:maven/com.hashicorp/cdktf-provider-tls@2.0.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-tls@2.0.1

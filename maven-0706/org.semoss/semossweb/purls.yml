@@ -60,3 +60,4 @@
 - pkg:maven/org.semoss/semossweb@4.2.2?type=war
 - pkg:maven/org.semoss/semossweb@4.3.0?type=war
 - pkg:maven/org.semoss/semossweb@4.3.1?type=war
+- pkg:maven/org.semoss/semossweb@4.3.2?type=war

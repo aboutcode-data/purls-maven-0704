@@ -2,3 +2,4 @@
 - pkg:maven/com.pinterest.kafka.tieredstorage/ts-common@0.0.2?classifier=sources
 - pkg:maven/com.pinterest.kafka.tieredstorage/ts-common@1.0.0
 - pkg:maven/com.pinterest.kafka.tieredstorage/ts-common@1.0.0?classifier=sources
+- pkg:maven/com.pinterest.kafka.tieredstorage/ts-common@1.0.1?classifier=sources

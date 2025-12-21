@@ -1,0 +1,2 @@
+- pkg:maven/xyz.elemental.expath/elemental-expath-package-archetype@1.0.0?classifier=sources
+- pkg:maven/xyz.elemental.expath/elemental-expath-package-archetype@1.0.1?classifier=sources

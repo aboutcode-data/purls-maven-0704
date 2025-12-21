@@ -29,3 +29,11 @@
 - pkg:maven/org.eclipse.lmos/arc-azure-client@0.131.0-M1?classifier=sources
 - pkg:maven/org.eclipse.lmos/arc-azure-client@0.131.0-M2?classifier=sources
 - pkg:maven/org.eclipse.lmos/arc-azure-client@0.131.0-M3?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-azure-client@0.131.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-azure-client@0.132.0-M1?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-azure-client@0.132.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-azure-client@0.134.0-M1?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-azure-client@0.134.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-azure-client@0.135.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-azure-client@0.136.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-azure-client@0.137.0?classifier=sources

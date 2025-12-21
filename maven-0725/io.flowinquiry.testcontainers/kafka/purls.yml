@@ -1,0 +1,1 @@
+- pkg:maven/io.flowinquiry.testcontainers/kafka@0.9.3?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.dilivva.blueline/compose-builder-android@2.0.0?classifier=sources
+- pkg:maven/com.dilivva.blueline/compose-builder-android@2.0.1?classifier=sources
+- pkg:maven/com.dilivva.blueline/compose-builder-android@unspecified?classifier=sources
+- pkg:maven/com.dilivva.blueline/compose-builder-android@v2.0.1?classifier=sources
