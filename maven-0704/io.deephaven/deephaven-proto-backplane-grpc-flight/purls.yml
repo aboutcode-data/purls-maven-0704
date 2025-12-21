@@ -79,6 +79,8 @@
 - pkg:maven/io.deephaven/deephaven-proto-backplane-grpc-flight@0.40.0?classifier=sources
 - pkg:maven/io.deephaven/deephaven-proto-backplane-grpc-flight@0.40.1?classifier=sources
 - pkg:maven/io.deephaven/deephaven-proto-backplane-grpc-flight@0.40.2?classifier=sources
+- pkg:maven/io.deephaven/deephaven-proto-backplane-grpc-flight@0.40.3?classifier=sources
+- pkg:maven/io.deephaven/deephaven-proto-backplane-grpc-flight@0.40.4?classifier=sources
 - pkg:maven/io.deephaven/deephaven-proto-backplane-grpc-flight@0.5.0?classifier=sources
 - pkg:maven/io.deephaven/deephaven-proto-backplane-grpc-flight@0.5.1?classifier=sources
 - pkg:maven/io.deephaven/deephaven-proto-backplane-grpc-flight@0.5.2?classifier=sources

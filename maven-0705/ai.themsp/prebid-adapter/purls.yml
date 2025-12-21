@@ -39,3 +39,4 @@
 - pkg:maven/ai.themsp/prebid-adapter@2.7.2-newsbreak-msp-migration?classifier=sources
 - pkg:maven/ai.themsp/prebid-adapter@2.7.3-newsbreak-msp-migration?classifier=sources
 - pkg:maven/ai.themsp/prebid-adapter@2.7.4-newsbreak-msp-migration?classifier=sources
+- pkg:maven/ai.themsp/prebid-adapter@2.8.0?classifier=sources

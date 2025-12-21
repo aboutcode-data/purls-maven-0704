@@ -417,6 +417,8 @@
 - pkg:maven/com.sagframe/sagacity-sqltoy-solon-plugin@5.6.53.RC1?classifier=sources
 - pkg:maven/com.sagframe/sagacity-sqltoy-solon-plugin@5.6.53.jre8?classifier=sources
 - pkg:maven/com.sagframe/sagacity-sqltoy-solon-plugin@5.6.53?classifier=sources
+- pkg:maven/com.sagframe/sagacity-sqltoy-solon-plugin@5.6.54.jre8?classifier=sources
+- pkg:maven/com.sagframe/sagacity-sqltoy-solon-plugin@5.6.54?classifier=sources
 - pkg:maven/com.sagframe/sagacity-sqltoy-solon-plugin@5.6.5?classifier=sources
 - pkg:maven/com.sagframe/sagacity-sqltoy-solon-plugin@5.6.6
 - pkg:maven/com.sagframe/sagacity-sqltoy-solon-plugin@5.6.6.jre8

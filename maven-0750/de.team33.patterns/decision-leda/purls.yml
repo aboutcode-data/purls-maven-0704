@@ -1,2 +1,3 @@
 - pkg:maven/de.team33.patterns/decision-leda@1.23.0
 - pkg:maven/de.team33.patterns/decision-leda@1.23.0?classifier=sources
+- pkg:maven/de.team33.patterns/decision-leda@1.26.0?classifier=sources

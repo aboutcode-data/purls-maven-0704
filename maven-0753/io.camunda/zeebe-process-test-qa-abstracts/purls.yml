@@ -452,6 +452,7 @@
 - pkg:maven/io.camunda/zeebe-process-test-qa-abstracts@8.7.13?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-qa-abstracts@8.7.14?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-qa-abstracts@8.7.15?classifier=sources
+- pkg:maven/io.camunda/zeebe-process-test-qa-abstracts@8.7.16?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-qa-abstracts@8.7.1?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-qa-abstracts@8.7.2
 - pkg:maven/io.camunda/zeebe-process-test-qa-abstracts@8.7.2-rc1
@@ -474,6 +475,7 @@
 - pkg:maven/io.camunda/zeebe-process-test-qa-abstracts@8.7.7?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-qa-abstracts@8.7.8?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-qa-abstracts@8.7.9?classifier=sources
+- pkg:maven/io.camunda/zeebe-process-test-qa-abstracts@8.8.0
 - pkg:maven/io.camunda/zeebe-process-test-qa-abstracts@8.8.0-alpha1-rc1
 - pkg:maven/io.camunda/zeebe-process-test-qa-abstracts@8.8.0-alpha1-rc1?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-qa-abstracts@8.8.0-alpha2
@@ -518,3 +520,8 @@
 - pkg:maven/io.camunda/zeebe-process-test-qa-abstracts@8.8.0-rc2?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-qa-abstracts@8.8.0-rc3
 - pkg:maven/io.camunda/zeebe-process-test-qa-abstracts@8.8.0-rc3?classifier=sources
+- pkg:maven/io.camunda/zeebe-process-test-qa-abstracts@8.8.0-rc4
+- pkg:maven/io.camunda/zeebe-process-test-qa-abstracts@8.8.0-rc4?classifier=sources
+- pkg:maven/io.camunda/zeebe-process-test-qa-abstracts@8.8.0?classifier=sources
+- pkg:maven/io.camunda/zeebe-process-test-qa-abstracts@8.8.1
+- pkg:maven/io.camunda/zeebe-process-test-qa-abstracts@8.8.1?classifier=sources

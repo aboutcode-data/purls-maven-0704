@@ -6,3 +6,4 @@
 - pkg:maven/org.opendaylight.controller/raft-api@11.0.2?classifier=sources
 - pkg:maven/org.opendaylight.controller/raft-api@12.0.0
 - pkg:maven/org.opendaylight.controller/raft-api@12.0.0?classifier=sources
+- pkg:maven/org.opendaylight.controller/raft-api@12.0.1?classifier=sources

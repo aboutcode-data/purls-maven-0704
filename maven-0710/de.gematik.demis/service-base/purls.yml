@@ -7,3 +7,5 @@
 - pkg:maven/de.gematik.demis/service-base@2.6.0
 - pkg:maven/de.gematik.demis/service-base@2.6.0?classifier=sources
 - pkg:maven/de.gematik.demis/service-base@2.7.2?classifier=sources
+- pkg:maven/de.gematik.demis/service-base@2.8.0?classifier=sources
+- pkg:maven/de.gematik.demis/service-base@2.8.1?classifier=sources

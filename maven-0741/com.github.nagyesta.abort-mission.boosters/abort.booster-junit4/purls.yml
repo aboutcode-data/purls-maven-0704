@@ -9,7 +9,9 @@
 - pkg:maven/com.github.nagyesta.abort-mission.boosters/abort.booster-junit4@6.0.116?classifier=sources
 - pkg:maven/com.github.nagyesta.abort-mission.boosters/abort.booster-junit4@6.0.11?classifier=sources
 - pkg:maven/com.github.nagyesta.abort-mission.boosters/abort.booster-junit4@6.0.140?classifier=sources
+- pkg:maven/com.github.nagyesta.abort-mission.boosters/abort.booster-junit4@6.0.150?classifier=sources
 - pkg:maven/com.github.nagyesta.abort-mission.boosters/abort.booster-junit4@6.0.15?classifier=sources
+- pkg:maven/com.github.nagyesta.abort-mission.boosters/abort.booster-junit4@6.0.163?classifier=sources
 - pkg:maven/com.github.nagyesta.abort-mission.boosters/abort.booster-junit4@6.0.25?classifier=sources
 - pkg:maven/com.github.nagyesta.abort-mission.boosters/abort.booster-junit4@6.0.33?classifier=sources
 - pkg:maven/com.github.nagyesta.abort-mission.boosters/abort.booster-junit4@6.0.43?classifier=sources
@@ -17,3 +19,4 @@
 - pkg:maven/com.github.nagyesta.abort-mission.boosters/abort.booster-junit4@6.0.78?classifier=sources
 - pkg:maven/com.github.nagyesta.abort-mission.boosters/abort.booster-junit4@6.0.94?classifier=sources
 - pkg:maven/com.github.nagyesta.abort-mission.boosters/abort.booster-junit4@6.0.9?classifier=sources
+- pkg:maven/com.github.nagyesta.abort-mission.boosters/abort.booster-junit4@6.1.0?classifier=sources

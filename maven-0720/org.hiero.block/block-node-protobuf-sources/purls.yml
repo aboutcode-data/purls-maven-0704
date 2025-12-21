@@ -19,3 +19,11 @@
 - pkg:maven/org.hiero.block/block-node-protobuf-sources@0.19.1?classifier=sources
 - pkg:maven/org.hiero.block/block-node-protobuf-sources@0.20.0-rc1?classifier=sources
 - pkg:maven/org.hiero.block/block-node-protobuf-sources@0.20.0-rc2?classifier=sources
+- pkg:maven/org.hiero.block/block-node-protobuf-sources@0.20.0-rc3?classifier=sources
+- pkg:maven/org.hiero.block/block-node-protobuf-sources@0.20.0-rc4?classifier=sources
+- pkg:maven/org.hiero.block/block-node-protobuf-sources@0.20.0-rc5?classifier=sources
+- pkg:maven/org.hiero.block/block-node-protobuf-sources@0.20.0?classifier=sources
+- pkg:maven/org.hiero.block/block-node-protobuf-sources@0.20.1?classifier=sources
+- pkg:maven/org.hiero.block/block-node-protobuf-sources@0.21.0-rc1?classifier=sources
+- pkg:maven/org.hiero.block/block-node-protobuf-sources@0.21.0?classifier=sources
+- pkg:maven/org.hiero.block/block-node-protobuf-sources@0.21.1?classifier=sources

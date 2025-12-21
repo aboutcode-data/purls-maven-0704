@@ -1,2 +1,4 @@
 - pkg:maven/com.dripower/postgresql-async_3@0.3.124
 - pkg:maven/com.dripower/postgresql-async_3@0.3.124?classifier=sources
+- pkg:maven/com.dripower/postgresql-async_3@0.3.125
+- pkg:maven/com.dripower/postgresql-async_3@0.3.125?classifier=sources

@@ -88,3 +88,6 @@
 - pkg:maven/com.landawn/abacus-query@3.2.4?classifier=sources
 - pkg:maven/com.landawn/abacus-query@3.2.5?classifier=sources
 - pkg:maven/com.landawn/abacus-query@3.2.6?classifier=sources
+- pkg:maven/com.landawn/abacus-query@3.2.7?classifier=sources
+- pkg:maven/com.landawn/abacus-query@3.25.0?classifier=sources
+- pkg:maven/com.landawn/abacus-query@3.25.1?classifier=sources

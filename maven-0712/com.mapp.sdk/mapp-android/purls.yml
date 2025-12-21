@@ -73,3 +73,7 @@
 - pkg:maven/com.mapp.sdk/mapp-android@6.1.2-beta01?type=aar
 - pkg:maven/com.mapp.sdk/mapp-android@6.1.2?classifier=sources
 - pkg:maven/com.mapp.sdk/mapp-android@6.1.2?type=aar
+- pkg:maven/com.mapp.sdk/mapp-android@6.1.3-beta01?classifier=sources
+- pkg:maven/com.mapp.sdk/mapp-android@6.1.3-beta01?type=aar
+- pkg:maven/com.mapp.sdk/mapp-android@6.1.3-beta02?classifier=sources
+- pkg:maven/com.mapp.sdk/mapp-android@6.1.3-beta02?type=aar

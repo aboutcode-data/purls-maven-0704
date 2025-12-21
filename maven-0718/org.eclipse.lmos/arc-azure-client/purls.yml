@@ -83,3 +83,6 @@
 - pkg:maven/org.eclipse.lmos/arc-azure-client@0.175.0?classifier=sources
 - pkg:maven/org.eclipse.lmos/arc-azure-client@0.176.0?classifier=sources
 - pkg:maven/org.eclipse.lmos/arc-azure-client@0.177.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-azure-client@0.178.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-azure-client@0.179.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-azure-client@0.180.0?classifier=sources

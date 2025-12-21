@@ -136,6 +136,7 @@
 - pkg:maven/com.aliyun/alibabacloud-aimiaobi20230801@1.0.75?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-aimiaobi20230801@1.0.76?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-aimiaobi20230801@1.0.77?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-aimiaobi20230801@1.0.78?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-aimiaobi20230801@1.0.7?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-aimiaobi20230801@1.0.8
 - pkg:maven/com.aliyun/alibabacloud-aimiaobi20230801@1.0.8?classifier=sources

@@ -1,3 +1,4 @@
+- pkg:maven/io.qtjambi/qtjambi-quick-native-windows-arm64@6.10.0
 - pkg:maven/io.qtjambi/qtjambi-quick-native-windows-arm64@6.8.5
 - pkg:maven/io.qtjambi/qtjambi-quick-native-windows-arm64@6.8.6
 - pkg:maven/io.qtjambi/qtjambi-quick-native-windows-arm64@6.9.2

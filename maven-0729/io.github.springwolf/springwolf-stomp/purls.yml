@@ -7,6 +7,7 @@
 - pkg:maven/io.github.springwolf/springwolf-stomp@1.16.0?classifier=sources
 - pkg:maven/io.github.springwolf/springwolf-stomp@1.17.0?classifier=sources
 - pkg:maven/io.github.springwolf/springwolf-stomp@1.18.0?classifier=sources
+- pkg:maven/io.github.springwolf/springwolf-stomp@1.19.0?classifier=sources
 - pkg:maven/io.github.springwolf/springwolf-stomp@1.4.0?classifier=sources
 - pkg:maven/io.github.springwolf/springwolf-stomp@1.5.0?classifier=sources
 - pkg:maven/io.github.springwolf/springwolf-stomp@1.6.0?classifier=sources

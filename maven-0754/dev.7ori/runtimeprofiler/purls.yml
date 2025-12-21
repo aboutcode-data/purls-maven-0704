@@ -1,1 +1,2 @@
 - pkg:maven/dev.7ori/runtimeprofiler@2.0.0?classifier=sources
+- pkg:maven/dev.7ori/runtimeprofiler@2.1.0?classifier=sources

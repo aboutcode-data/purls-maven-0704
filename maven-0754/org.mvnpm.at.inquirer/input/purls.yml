@@ -14,3 +14,5 @@
 - pkg:maven/org.mvnpm.at.inquirer/input@4.2.2?classifier=sources
 - pkg:maven/org.mvnpm.at.inquirer/input@4.2.4
 - pkg:maven/org.mvnpm.at.inquirer/input@4.2.4?classifier=sources
+- pkg:maven/org.mvnpm.at.inquirer/input@4.2.5
+- pkg:maven/org.mvnpm.at.inquirer/input@4.2.5?classifier=sources

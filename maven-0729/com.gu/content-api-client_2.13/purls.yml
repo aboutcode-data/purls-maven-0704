@@ -243,6 +243,12 @@
 - pkg:maven/com.gu/content-api-client_2.13@36.0.1-PREVIEW.filterbump-cpai-version.2025-09-18T1032.332cf666
 - pkg:maven/com.gu/content-api-client_2.13@36.0.1-PREVIEW.filterbump-cpai-version.2025-09-18T1032.332cf666?classifier=sources
 - pkg:maven/com.gu/content-api-client_2.13@37.0.0
+- pkg:maven/com.gu/content-api-client_2.13@37.0.0-PREVIEW.filterbump-cpai-version.2025-10-08T1015.be077ecb
+- pkg:maven/com.gu/content-api-client_2.13@37.0.0-PREVIEW.filterbump-cpai-version.2025-10-08T1015.be077ecb?classifier=sources
 - pkg:maven/com.gu/content-api-client_2.13@37.0.0?classifier=sources
 - pkg:maven/com.gu/content-api-client_2.13@37.1.0
 - pkg:maven/com.gu/content-api-client_2.13@37.1.0?classifier=sources
+- pkg:maven/com.gu/content-api-client_2.13@38.0.0-PREVIEW.filterbump-cpai-version.2025-10-16T1510.b17a4568
+- pkg:maven/com.gu/content-api-client_2.13@38.0.0-PREVIEW.filterbump-cpai-version.2025-10-16T1510.b17a4568?classifier=sources
+- pkg:maven/com.gu/content-api-client_2.13@38.0.0-PREVIEW.filterbump-cpai-version.2025-10-17T1452.d9337833
+- pkg:maven/com.gu/content-api-client_2.13@38.0.0-PREVIEW.filterbump-cpai-version.2025-10-17T1452.d9337833?classifier=sources

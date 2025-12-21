@@ -1,0 +1,1 @@
+- pkg:maven/org.infinispan/infinispan-lua51-platform@1.0.0?classifier=sources

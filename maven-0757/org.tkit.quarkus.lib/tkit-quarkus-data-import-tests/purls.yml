@@ -144,3 +144,4 @@
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-data-import-tests@3.5.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-data-import-tests@3.6.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-data-import-tests@4.0.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-data-import-tests@4.1.0?classifier=sources

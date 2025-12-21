@@ -120,6 +120,7 @@
 - pkg:maven/tv.hd3g/mailkit@21.2.0?classifier=sources
 - pkg:maven/tv.hd3g/mailkit@22.0.0
 - pkg:maven/tv.hd3g/mailkit@22.0.0?classifier=sources
+- pkg:maven/tv.hd3g/mailkit@23.0.0?classifier=sources
 - pkg:maven/tv.hd3g/mailkit@9.0.0
 - pkg:maven/tv.hd3g/mailkit@9.0.0?classifier=sources
 - pkg:maven/tv.hd3g/mailkit@9.0.1

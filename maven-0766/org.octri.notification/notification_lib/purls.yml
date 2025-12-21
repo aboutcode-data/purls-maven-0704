@@ -1,2 +1,5 @@
 - pkg:maven/org.octri.notification/notification_lib@0.1.0?classifier=sources
 - pkg:maven/org.octri.notification/notification_lib@0.2.0?classifier=sources
+- pkg:maven/org.octri.notification/notification_lib@0.3.0?classifier=sources
+- pkg:maven/org.octri.notification/notification_lib@1.0.0?classifier=sources
+- pkg:maven/org.octri.notification/notification_lib@2.0.0?classifier=sources

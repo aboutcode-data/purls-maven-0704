@@ -82,3 +82,11 @@
 - pkg:maven/org.mvnpm/lucide-react@0.543.0?classifier=sources
 - pkg:maven/org.mvnpm/lucide-react@0.544.0
 - pkg:maven/org.mvnpm/lucide-react@0.544.0?classifier=sources
+- pkg:maven/org.mvnpm/lucide-react@0.545.0
+- pkg:maven/org.mvnpm/lucide-react@0.545.0?classifier=sources
+- pkg:maven/org.mvnpm/lucide-react@0.546.0
+- pkg:maven/org.mvnpm/lucide-react@0.546.0?classifier=sources
+- pkg:maven/org.mvnpm/lucide-react@0.547.0
+- pkg:maven/org.mvnpm/lucide-react@0.547.0?classifier=sources
+- pkg:maven/org.mvnpm/lucide-react@0.548.0
+- pkg:maven/org.mvnpm/lucide-react@0.548.0?classifier=sources

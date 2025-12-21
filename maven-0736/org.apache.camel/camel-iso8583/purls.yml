@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.camel/camel-iso8583@4.14.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-iso8583@4.14.1
 - pkg:maven/org.apache.camel/camel-iso8583@4.14.1?classifier=sources
+- pkg:maven/org.apache.camel/camel-iso8583@4.15.0
+- pkg:maven/org.apache.camel/camel-iso8583@4.15.0?classifier=sources

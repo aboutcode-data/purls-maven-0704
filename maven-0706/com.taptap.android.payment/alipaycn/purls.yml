@@ -48,3 +48,5 @@
 - pkg:maven/com.taptap.android.payment/alipaycn@4.8.1-beta.7?classifier=sources
 - pkg:maven/com.taptap.android.payment/alipaycn@4.8.1?classifier=sources
 - pkg:maven/com.taptap.android.payment/alipaycn@4.8.2?classifier=sources
+- pkg:maven/com.taptap.android.payment/alipaycn@4.8.3?classifier=sources
+- pkg:maven/com.taptap.android.payment/alipaycn@4.8.4-beta.0?classifier=sources

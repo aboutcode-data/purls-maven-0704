@@ -12,3 +12,5 @@
 - pkg:maven/org.beangle.sqlplus/beangle-sqlplus@0.0.43?classifier=sources
 - pkg:maven/org.beangle.sqlplus/beangle-sqlplus@0.0.44
 - pkg:maven/org.beangle.sqlplus/beangle-sqlplus@0.0.44?classifier=sources
+- pkg:maven/org.beangle.sqlplus/beangle-sqlplus@0.0.45
+- pkg:maven/org.beangle.sqlplus/beangle-sqlplus@0.0.45?classifier=sources

@@ -72,6 +72,8 @@
 - pkg:maven/org.openrewrite.recipe/rewrite-micronaut@2.27.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-micronaut@2.27.1?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-micronaut@2.28.0?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-micronaut@2.29.0?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-micronaut@2.29.1?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-micronaut@2.3.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-micronaut@2.3.1?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-micronaut@2.4.1?classifier=sources

@@ -36,3 +36,5 @@
 - pkg:maven/com.mapp.intelligence.tracking/tracking@0.2.3?classifier=sources
 - pkg:maven/com.mapp.intelligence.tracking/tracking@0.2.4
 - pkg:maven/com.mapp.intelligence.tracking/tracking@0.2.4?classifier=sources
+- pkg:maven/com.mapp.intelligence.tracking/tracking@1.0.3
+- pkg:maven/com.mapp.intelligence.tracking/tracking@1.0.3?classifier=sources

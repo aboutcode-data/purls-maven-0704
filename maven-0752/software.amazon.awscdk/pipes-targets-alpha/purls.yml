@@ -252,3 +252,7 @@
 - pkg:maven/software.amazon.awscdk/pipes-targets-alpha@2.218.0-alpha.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/pipes-targets-alpha@2.219.0-alpha.0
 - pkg:maven/software.amazon.awscdk/pipes-targets-alpha@2.219.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/pipes-targets-alpha@2.220.0-alpha.0
+- pkg:maven/software.amazon.awscdk/pipes-targets-alpha@2.220.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/pipes-targets-alpha@2.221.0-alpha.0
+- pkg:maven/software.amazon.awscdk/pipes-targets-alpha@2.221.0-alpha.0?classifier=sources

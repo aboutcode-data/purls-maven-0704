@@ -1,4 +1,7 @@
+- pkg:maven/net.linlan.eframe/module-quartz@1.1.10?classifier=sources
+- pkg:maven/net.linlan.eframe/module-quartz@1.1.11?classifier=sources
 - pkg:maven/net.linlan.eframe/module-quartz@1.1.1?classifier=sources
 - pkg:maven/net.linlan.eframe/module-quartz@1.1.4?classifier=sources
 - pkg:maven/net.linlan.eframe/module-quartz@1.1.5?classifier=sources
 - pkg:maven/net.linlan.eframe/module-quartz@1.1.6?classifier=sources
+- pkg:maven/net.linlan.eframe/module-quartz@1.1.7?classifier=sources

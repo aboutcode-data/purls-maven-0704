@@ -326,6 +326,10 @@
 - pkg:maven/software.amazon.awscdk/sagemaker-alpha@2.218.0-alpha.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/sagemaker-alpha@2.219.0-alpha.0
 - pkg:maven/software.amazon.awscdk/sagemaker-alpha@2.219.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/sagemaker-alpha@2.220.0-alpha.0
+- pkg:maven/software.amazon.awscdk/sagemaker-alpha@2.220.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/sagemaker-alpha@2.221.0-alpha.0
+- pkg:maven/software.amazon.awscdk/sagemaker-alpha@2.221.0-alpha.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/sagemaker-alpha@2.51.0-alpha.0
 - pkg:maven/software.amazon.awscdk/sagemaker-alpha@2.51.0-alpha.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/sagemaker-alpha@2.51.1-alpha.0

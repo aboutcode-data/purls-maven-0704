@@ -284,3 +284,5 @@
 - pkg:maven/com.dataforgedev/sparky@9.2.5-rc.3?classifier=sources
 - pkg:maven/com.dataforgedev/sparky@9.2.5-rc.4
 - pkg:maven/com.dataforgedev/sparky@9.2.5-rc.4?classifier=sources
+- pkg:maven/com.dataforgedev/sparky@9.2.6-rc.1
+- pkg:maven/com.dataforgedev/sparky@9.2.6-rc.1?classifier=sources

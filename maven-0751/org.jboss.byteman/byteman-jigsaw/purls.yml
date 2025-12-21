@@ -1,0 +1,1 @@
+- pkg:maven/org.jboss.byteman/byteman-jigsaw@4.0.26?classifier=sources

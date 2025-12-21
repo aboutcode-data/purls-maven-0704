@@ -26,3 +26,4 @@
 - pkg:maven/org.praxislive/praxiscore-hub-net@6.2.0?classifier=sources
 - pkg:maven/org.praxislive/praxiscore-hub-net@6.3.0
 - pkg:maven/org.praxislive/praxiscore-hub-net@6.3.0?classifier=sources
+- pkg:maven/org.praxislive/praxiscore-hub-net@6.4.0?classifier=sources

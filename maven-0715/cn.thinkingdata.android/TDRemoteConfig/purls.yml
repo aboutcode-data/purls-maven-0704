@@ -7,3 +7,7 @@
 - pkg:maven/cn.thinkingdata.android/TDRemoteConfig@1.1.4?classifier=sources
 - pkg:maven/cn.thinkingdata.android/TDRemoteConfig@1.2.0?classifier=sources
 - pkg:maven/cn.thinkingdata.android/TDRemoteConfig@1.2.1?classifier=sources
+- pkg:maven/cn.thinkingdata.android/TDRemoteConfig@1.2.2?classifier=sources
+- pkg:maven/cn.thinkingdata.android/TDRemoteConfig@1.2.3-test?classifier=sources
+- pkg:maven/cn.thinkingdata.android/TDRemoteConfig@1.2.3?classifier=sources
+- pkg:maven/cn.thinkingdata.android/TDRemoteConfig@1.2.4?classifier=sources

@@ -13,3 +13,4 @@
 - pkg:maven/org.glassfish.soteria/soteria.spi.bean.decorator.weld@3.0.4?classifier=sources
 - pkg:maven/org.glassfish.soteria/soteria.spi.bean.decorator.weld@4.0.0
 - pkg:maven/org.glassfish.soteria/soteria.spi.bean.decorator.weld@4.0.0?classifier=sources
+- pkg:maven/org.glassfish.soteria/soteria.spi.bean.decorator.weld@4.0.2?classifier=sources

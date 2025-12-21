@@ -11,5 +11,9 @@
 - pkg:maven/org.mvnpm.at.opentelemetry/sdk-node@0.204.0?classifier=sources
 - pkg:maven/org.mvnpm.at.opentelemetry/sdk-node@0.205.0
 - pkg:maven/org.mvnpm.at.opentelemetry/sdk-node@0.205.0?classifier=sources
+- pkg:maven/org.mvnpm.at.opentelemetry/sdk-node@0.206.0
+- pkg:maven/org.mvnpm.at.opentelemetry/sdk-node@0.206.0?classifier=sources
+- pkg:maven/org.mvnpm.at.opentelemetry/sdk-node@0.207.0
+- pkg:maven/org.mvnpm.at.opentelemetry/sdk-node@0.207.0?classifier=sources
 - pkg:maven/org.mvnpm.at.opentelemetry/sdk-node@0.54.2?classifier=sources
 - pkg:maven/org.mvnpm.at.opentelemetry/sdk-node@0.57.2?classifier=sources

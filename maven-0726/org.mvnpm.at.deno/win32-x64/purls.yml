@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.deno/win32-x64@2.5.4
+- pkg:maven/org.mvnpm.at.deno/win32-x64@2.5.4?classifier=sources

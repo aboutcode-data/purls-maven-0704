@@ -5,3 +5,4 @@
 - pkg:maven/io.sundr/builder-hello-nested-example@0.220.0?classifier=sources
 - pkg:maven/io.sundr/builder-hello-nested-example@0.220.1?classifier=sources
 - pkg:maven/io.sundr/builder-hello-nested-example@0.230.0?classifier=sources
+- pkg:maven/io.sundr/builder-hello-nested-example@0.230.1?classifier=sources

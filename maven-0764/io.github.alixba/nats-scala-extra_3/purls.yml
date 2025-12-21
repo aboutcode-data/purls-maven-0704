@@ -1,0 +1,2 @@
+- pkg:maven/io.github.alixba/nats-scala-extra_3@0.0.1
+- pkg:maven/io.github.alixba/nats-scala-extra_3@0.0.1?classifier=sources

@@ -118,6 +118,8 @@
 - pkg:maven/org.joinedworkz.profile/org.joinedworkz.profile.standalone@1.3.69?classifier=sources
 - pkg:maven/org.joinedworkz.profile/org.joinedworkz.profile.standalone@1.3.6?classifier=sources
 - pkg:maven/org.joinedworkz.profile/org.joinedworkz.profile.standalone@1.3.7
+- pkg:maven/org.joinedworkz.profile/org.joinedworkz.profile.standalone@1.3.70?classifier=sources
+- pkg:maven/org.joinedworkz.profile/org.joinedworkz.profile.standalone@1.3.71?classifier=sources
 - pkg:maven/org.joinedworkz.profile/org.joinedworkz.profile.standalone@1.3.7?classifier=sources
 - pkg:maven/org.joinedworkz.profile/org.joinedworkz.profile.standalone@1.3.8
 - pkg:maven/org.joinedworkz.profile/org.joinedworkz.profile.standalone@1.3.8?classifier=sources

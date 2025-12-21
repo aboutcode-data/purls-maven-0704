@@ -1,3 +1,4 @@
+- pkg:maven/org.opendaylight.netconf/restconf-server-api-testlib@10.0.0?classifier=sources
 - pkg:maven/org.opendaylight.netconf/restconf-server-api-testlib@9.0.0
 - pkg:maven/org.opendaylight.netconf/restconf-server-api-testlib@9.0.0?classifier=sources
 - pkg:maven/org.opendaylight.netconf/restconf-server-api-testlib@9.0.1?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-security-dynamic-test-deployment@3.5.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-security-dynamic-test-deployment@3.6.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-security-dynamic-test-deployment@4.0.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-security-dynamic-test-deployment@4.1.0?classifier=sources

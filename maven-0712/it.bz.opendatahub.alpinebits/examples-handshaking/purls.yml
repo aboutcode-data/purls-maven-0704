@@ -8,3 +8,4 @@
 - pkg:maven/it.bz.opendatahub.alpinebits/examples-handshaking@2.1.2?type=war
 - pkg:maven/it.bz.opendatahub.alpinebits/examples-handshaking@3.0.0?classifier=sources
 - pkg:maven/it.bz.opendatahub.alpinebits/examples-handshaking@3.0.0?type=war
+- pkg:maven/it.bz.opendatahub.alpinebits/examples-handshaking@4.0.1?classifier=sources

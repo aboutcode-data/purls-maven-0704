@@ -23,4 +23,6 @@
 - pkg:maven/io.lighty.modules/lighty-openapi@21.1.0?classifier=sources
 - pkg:maven/io.lighty.modules/lighty-openapi@21.2.0
 - pkg:maven/io.lighty.modules/lighty-openapi@21.2.0?classifier=sources
+- pkg:maven/io.lighty.modules/lighty-openapi@21.3.0?classifier=sources
 - pkg:maven/io.lighty.modules/lighty-openapi@22.0.0?classifier=sources
+- pkg:maven/io.lighty.modules/lighty-openapi@22.1.0?classifier=sources

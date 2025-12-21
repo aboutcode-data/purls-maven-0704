@@ -38,3 +38,5 @@
 - pkg:maven/net.rsprot/osrs-229-api@1.0.0-ALPHA-20250926?classifier=sources
 - pkg:maven/net.rsprot/osrs-229-api@1.0.0-ALPHA-20250927?classifier=sources
 - pkg:maven/net.rsprot/osrs-229-api@1.0.0-ALPHA-20251005?classifier=sources
+- pkg:maven/net.rsprot/osrs-229-api@1.0.0-ALPHA-20251009?classifier=sources
+- pkg:maven/net.rsprot/osrs-229-api@1.0.0-ALPHA-20251012?classifier=sources

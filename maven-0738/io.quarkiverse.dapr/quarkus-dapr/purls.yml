@@ -18,3 +18,4 @@
 - pkg:maven/io.quarkiverse.dapr/quarkus-dapr@2.3.0?classifier=sources
 - pkg:maven/io.quarkiverse.dapr/quarkus-dapr@2.3.1?classifier=sources
 - pkg:maven/io.quarkiverse.dapr/quarkus-dapr@2.4.0?classifier=sources
+- pkg:maven/io.quarkiverse.dapr/quarkus-dapr@2.5.0-rc.1?classifier=sources

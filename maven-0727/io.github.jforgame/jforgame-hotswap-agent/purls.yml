@@ -14,3 +14,7 @@
 - pkg:maven/io.github.jforgame/jforgame-hotswap-agent@2.4.0?classifier=sources
 - pkg:maven/io.github.jforgame/jforgame-hotswap-agent@2.5.0
 - pkg:maven/io.github.jforgame/jforgame-hotswap-agent@2.5.0?classifier=sources
+- pkg:maven/io.github.jforgame/jforgame-hotswap-agent@2.6.0
+- pkg:maven/io.github.jforgame/jforgame-hotswap-agent@2.6.0?classifier=sources
+- pkg:maven/io.github.jforgame/jforgame-hotswap-agent@3.0.0
+- pkg:maven/io.github.jforgame/jforgame-hotswap-agent@3.0.0?classifier=sources

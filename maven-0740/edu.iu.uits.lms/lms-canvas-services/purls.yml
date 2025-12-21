@@ -147,3 +147,4 @@
 - pkg:maven/edu.iu.uits.lms/lms-canvas-services@6.2.8?classifier=sources
 - pkg:maven/edu.iu.uits.lms/lms-canvas-services@6.2.9?classifier=sources
 - pkg:maven/edu.iu.uits.lms/lms-canvas-services@6.3.0?classifier=sources
+- pkg:maven/edu.iu.uits.lms/lms-canvas-services@6.3.1?classifier=sources

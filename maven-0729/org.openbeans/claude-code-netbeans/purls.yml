@@ -1,0 +1,2 @@
+- pkg:maven/org.openbeans/claude-code-netbeans@1.0.8?classifier=sources
+- pkg:maven/org.openbeans/claude-code-netbeans@1.2.0?classifier=sources

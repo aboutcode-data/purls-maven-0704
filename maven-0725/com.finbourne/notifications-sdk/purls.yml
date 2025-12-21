@@ -68,6 +68,7 @@
 - pkg:maven/com.finbourne/notifications-sdk@2.0.133?classifier=sources
 - pkg:maven/com.finbourne/notifications-sdk@2.0.134?classifier=sources
 - pkg:maven/com.finbourne/notifications-sdk@2.0.135?classifier=sources
+- pkg:maven/com.finbourne/notifications-sdk@2.0.136?classifier=sources
 - pkg:maven/com.finbourne/notifications-sdk@2.0.13?classifier=sources
 - pkg:maven/com.finbourne/notifications-sdk@2.0.14
 - pkg:maven/com.finbourne/notifications-sdk@2.0.14?classifier=sources

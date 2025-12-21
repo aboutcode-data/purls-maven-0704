@@ -1,0 +1,3 @@
+- pkg:maven/dev.knebelhub/gelf-logger@1.1.21?classifier=sources
+- pkg:maven/dev.knebelhub/gelf-logger@1.1.22?classifier=sources
+- pkg:maven/dev.knebelhub/gelf-logger@1.1.23?classifier=sources

@@ -121,5 +121,8 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/scancode-scanner@69.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/scancode-scanner@7.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/scancode-scanner@7.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/scancode-scanner@70.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/scancode-scanner@70.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/scancode-scanner@70.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/scancode-scanner@8.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/scancode-scanner@9.0.0?classifier=sources

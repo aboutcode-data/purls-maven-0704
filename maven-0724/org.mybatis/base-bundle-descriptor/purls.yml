@@ -5,6 +5,7 @@
 - pkg:maven/org.mybatis/base-bundle-descriptor@10?classifier=sources
 - pkg:maven/org.mybatis/base-bundle-descriptor@11?classifier=sources
 - pkg:maven/org.mybatis/base-bundle-descriptor@12?classifier=sources
+- pkg:maven/org.mybatis/base-bundle-descriptor@13?classifier=sources
 - pkg:maven/org.mybatis/base-bundle-descriptor@2
 - pkg:maven/org.mybatis/base-bundle-descriptor@2?classifier=sources
 - pkg:maven/org.mybatis/base-bundle-descriptor@3

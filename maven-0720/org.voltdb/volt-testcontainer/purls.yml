@@ -9,3 +9,5 @@
 - pkg:maven/org.voltdb/volt-testcontainer@1.4.0
 - pkg:maven/org.voltdb/volt-testcontainer@1.4.0?classifier=sources
 - pkg:maven/org.voltdb/volt-testcontainer@1.4.1?classifier=sources
+- pkg:maven/org.voltdb/volt-testcontainer@1.5.0?classifier=sources
+- pkg:maven/org.voltdb/volt-testcontainer@1.6.0?classifier=sources

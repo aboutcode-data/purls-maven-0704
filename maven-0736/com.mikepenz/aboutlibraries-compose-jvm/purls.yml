@@ -103,3 +103,5 @@
 - pkg:maven/com.mikepenz/aboutlibraries-compose-jvm@13.0.0-a02?classifier=sources
 - pkg:maven/com.mikepenz/aboutlibraries-compose-jvm@13.0.0-b01?classifier=sources
 - pkg:maven/com.mikepenz/aboutlibraries-compose-jvm@13.0.0-rc01?classifier=sources
+- pkg:maven/com.mikepenz/aboutlibraries-compose-jvm@13.0.0?classifier=sources
+- pkg:maven/com.mikepenz/aboutlibraries-compose-jvm@13.1.0?classifier=sources

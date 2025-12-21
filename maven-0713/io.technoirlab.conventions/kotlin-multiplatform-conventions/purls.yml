@@ -1,0 +1,5 @@
+- pkg:maven/io.technoirlab.conventions/kotlin-multiplatform-conventions@v37?classifier=sources
+- pkg:maven/io.technoirlab.conventions/kotlin-multiplatform-conventions@v38?classifier=sources
+- pkg:maven/io.technoirlab.conventions/kotlin-multiplatform-conventions@v39?classifier=sources
+- pkg:maven/io.technoirlab.conventions/kotlin-multiplatform-conventions@v40?classifier=sources
+- pkg:maven/io.technoirlab.conventions/kotlin-multiplatform-conventions@v41?classifier=sources

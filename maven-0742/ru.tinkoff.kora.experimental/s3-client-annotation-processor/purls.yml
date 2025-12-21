@@ -27,3 +27,4 @@
 - pkg:maven/ru.tinkoff.kora.experimental/s3-client-annotation-processor@1.2.1?classifier=sources
 - pkg:maven/ru.tinkoff.kora.experimental/s3-client-annotation-processor@1.2.2?classifier=sources
 - pkg:maven/ru.tinkoff.kora.experimental/s3-client-annotation-processor@1.2.3?classifier=sources
+- pkg:maven/ru.tinkoff.kora.experimental/s3-client-annotation-processor@1.2.4?classifier=sources

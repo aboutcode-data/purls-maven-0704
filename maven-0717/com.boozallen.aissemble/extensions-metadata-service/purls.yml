@@ -41,3 +41,4 @@
 - pkg:maven/com.boozallen.aissemble/extensions-metadata-service@1.9.3?classifier=sources
 - pkg:maven/com.boozallen.aissemble/extensions-metadata-service@1.9.4
 - pkg:maven/com.boozallen.aissemble/extensions-metadata-service@1.9.4?classifier=sources
+- pkg:maven/com.boozallen.aissemble/extensions-metadata-service@2.0.0?classifier=sources

@@ -7,3 +7,4 @@
 - pkg:maven/com.cognitect.aws/payment-cryptography-data@871.2.29.35
 - pkg:maven/com.cognitect.aws/payment-cryptography-data@871.2.29.35?classifier=sources
 - pkg:maven/com.cognitect.aws/payment-cryptography-data@871.2.32.2?classifier=sources
+- pkg:maven/com.cognitect.aws/payment-cryptography-data@871.2.35.1?classifier=sources

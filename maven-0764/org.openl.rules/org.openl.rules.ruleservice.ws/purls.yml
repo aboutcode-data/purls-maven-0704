@@ -332,6 +332,10 @@
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws@5.27.13-jakarta?type=war
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws@5.27.13?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws@5.27.13?type=war
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws@5.27.14-jakarta?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws@5.27.14-jakarta?type=war
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws@5.27.14?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws@5.27.14?type=war
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws@5.27.1?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws@5.27.1?type=war
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws@5.27.2?classifier=sources
@@ -396,3 +400,5 @@
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws@5.9.3?type=war
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws@5.9.4.1?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws@5.9.4.1?type=war
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws@6.0.0-beta?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws@6.0.0-beta?type=war

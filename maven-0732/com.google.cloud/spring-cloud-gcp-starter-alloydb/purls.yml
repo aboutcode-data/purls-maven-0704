@@ -13,6 +13,8 @@
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-alloydb@5.13.3
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-alloydb@5.13.4
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-alloydb@5.13.5
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-alloydb@5.13.6
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-alloydb@5.13.7
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-alloydb@5.2.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-alloydb@5.2.1
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-alloydb@5.3.0
@@ -40,9 +42,13 @@
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-alloydb@6.3.3
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-alloydb@6.3.4
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-alloydb@6.4.0
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-alloydb@6.5.0
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-alloydb@6.5.1
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-alloydb@7.0.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-alloydb@7.1.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-alloydb@7.2.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-alloydb@7.3.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-alloydb@7.3.1
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-alloydb@7.3.2
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-alloydb@7.4.0
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-alloydb@7.4.1

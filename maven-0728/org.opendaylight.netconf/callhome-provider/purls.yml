@@ -90,6 +90,7 @@
 - pkg:maven/org.opendaylight.netconf/callhome-provider@1.9.3?classifier=sources
 - pkg:maven/org.opendaylight.netconf/callhome-provider@1.9.4
 - pkg:maven/org.opendaylight.netconf/callhome-provider@1.9.4?classifier=sources
+- pkg:maven/org.opendaylight.netconf/callhome-provider@10.0.0?classifier=sources
 - pkg:maven/org.opendaylight.netconf/callhome-provider@2.0.0
 - pkg:maven/org.opendaylight.netconf/callhome-provider@2.0.0?classifier=sources
 - pkg:maven/org.opendaylight.netconf/callhome-provider@2.0.1

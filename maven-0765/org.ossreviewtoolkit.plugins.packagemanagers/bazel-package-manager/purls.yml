@@ -92,3 +92,6 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/bazel-package-manager@68.2.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/bazel-package-manager@69.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/bazel-package-manager@69.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/bazel-package-manager@70.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/bazel-package-manager@70.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/bazel-package-manager@70.1.0?classifier=sources

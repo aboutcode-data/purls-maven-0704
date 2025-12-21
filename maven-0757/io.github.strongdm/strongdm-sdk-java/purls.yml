@@ -52,6 +52,12 @@
 - pkg:maven/io.github.strongdm/strongdm-sdk-java@15.16.0?classifier=sources
 - pkg:maven/io.github.strongdm/strongdm-sdk-java@15.17.0?classifier=sources
 - pkg:maven/io.github.strongdm/strongdm-sdk-java@15.2.0?classifier=sources
+- pkg:maven/io.github.strongdm/strongdm-sdk-java@15.20.0?classifier=sources
+- pkg:maven/io.github.strongdm/strongdm-sdk-java@15.21.0?classifier=sources
+- pkg:maven/io.github.strongdm/strongdm-sdk-java@15.22.0?classifier=sources
+- pkg:maven/io.github.strongdm/strongdm-sdk-java@15.23.0?classifier=sources
+- pkg:maven/io.github.strongdm/strongdm-sdk-java@15.25.0?classifier=sources
+- pkg:maven/io.github.strongdm/strongdm-sdk-java@15.26.0?classifier=sources
 - pkg:maven/io.github.strongdm/strongdm-sdk-java@15.4.0?classifier=sources
 - pkg:maven/io.github.strongdm/strongdm-sdk-java@15.5.0?classifier=sources
 - pkg:maven/io.github.strongdm/strongdm-sdk-java@15.6.0?classifier=sources

@@ -1,3 +1,4 @@
+- pkg:maven/org.webjars.npm/dnd-kit__sortable@10.0.0
 - pkg:maven/org.webjars.npm/dnd-kit__sortable@7.0.0-next-202242114536
 - pkg:maven/org.webjars.npm/dnd-kit__sortable@7.0.0-next-202242114536?classifier=sources
 - pkg:maven/org.webjars.npm/dnd-kit__sortable@7.0.1

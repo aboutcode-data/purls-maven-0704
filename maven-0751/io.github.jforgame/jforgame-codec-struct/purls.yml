@@ -16,3 +16,7 @@
 - pkg:maven/io.github.jforgame/jforgame-codec-struct@2.4.0?classifier=sources
 - pkg:maven/io.github.jforgame/jforgame-codec-struct@2.5.0
 - pkg:maven/io.github.jforgame/jforgame-codec-struct@2.5.0?classifier=sources
+- pkg:maven/io.github.jforgame/jforgame-codec-struct@2.6.0
+- pkg:maven/io.github.jforgame/jforgame-codec-struct@2.6.0?classifier=sources
+- pkg:maven/io.github.jforgame/jforgame-codec-struct@3.0.0
+- pkg:maven/io.github.jforgame/jforgame-codec-struct@3.0.0?classifier=sources

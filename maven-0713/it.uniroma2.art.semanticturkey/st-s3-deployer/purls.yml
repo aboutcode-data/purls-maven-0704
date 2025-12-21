@@ -1,2 +1,3 @@
 - pkg:maven/it.uniroma2.art.semanticturkey/st-s3-deployer@14.0
 - pkg:maven/it.uniroma2.art.semanticturkey/st-s3-deployer@14.0?classifier=sources
+- pkg:maven/it.uniroma2.art.semanticturkey/st-s3-deployer@15.0?classifier=sources

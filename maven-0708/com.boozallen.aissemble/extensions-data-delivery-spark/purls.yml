@@ -41,3 +41,4 @@
 - pkg:maven/com.boozallen.aissemble/extensions-data-delivery-spark@1.9.3?classifier=sources
 - pkg:maven/com.boozallen.aissemble/extensions-data-delivery-spark@1.9.4
 - pkg:maven/com.boozallen.aissemble/extensions-data-delivery-spark@1.9.4?classifier=sources
+- pkg:maven/com.boozallen.aissemble/extensions-data-delivery-spark@2.0.0?classifier=sources

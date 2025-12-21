@@ -1,0 +1,3 @@
+- pkg:maven/com.ganshane.xcoin.protobuf/xcoin-notifier-protobuf@0.12?classifier=sources
+- pkg:maven/com.ganshane.xcoin.protobuf/xcoin-notifier-protobuf@0.13?classifier=sources
+- pkg:maven/com.ganshane.xcoin.protobuf/xcoin-notifier-protobuf@0.14?classifier=sources
