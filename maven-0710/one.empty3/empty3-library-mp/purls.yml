@@ -46,6 +46,8 @@
 - pkg:maven/one.empty3/empty3-library-mp@2025.10.19?classifier=sources
 - pkg:maven/one.empty3/empty3-library-mp@2025.10.20?classifier=sources
 - pkg:maven/one.empty3/empty3-library-mp@2025.10.21?classifier=sources
+- pkg:maven/one.empty3/empty3-library-mp@2025.10.27?classifier=sources
+- pkg:maven/one.empty3/empty3-library-mp@2025.11.1?classifier=sources
 - pkg:maven/one.empty3/empty3-library-mp@2025.2.15-2?classifier=sources
 - pkg:maven/one.empty3/empty3-library-mp@2025.2.15?classifier=sources
 - pkg:maven/one.empty3/empty3-library-mp@2025.2.1?classifier=sources

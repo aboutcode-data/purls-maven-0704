@@ -164,3 +164,4 @@
 - pkg:maven/io.trino/trino-filesystem@475?classifier=sources
 - pkg:maven/io.trino/trino-filesystem@476
 - pkg:maven/io.trino/trino-filesystem@476?classifier=sources
+- pkg:maven/io.trino/trino-filesystem@478?classifier=sources

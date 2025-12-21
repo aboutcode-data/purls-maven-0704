@@ -283,3 +283,4 @@
 - pkg:maven/com.ibm.cloud/platform-services-examples@0.68.6?classifier=sources
 - pkg:maven/com.ibm.cloud/platform-services-examples@0.69.0?classifier=sources
 - pkg:maven/com.ibm.cloud/platform-services-examples@0.70.0?classifier=sources
+- pkg:maven/com.ibm.cloud/platform-services-examples@0.71.0?classifier=sources

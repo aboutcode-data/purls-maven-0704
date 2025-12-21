@@ -10,6 +10,7 @@
 - pkg:maven/com.helger.phive/phive-api@10.1.1?classifier=sources
 - pkg:maven/com.helger.phive/phive-api@11.0.0?classifier=sources
 - pkg:maven/com.helger.phive/phive-api@11.0.1?classifier=sources
+- pkg:maven/com.helger.phive/phive-api@11.1.0?classifier=sources
 - pkg:maven/com.helger.phive/phive-api@7.0.0
 - pkg:maven/com.helger.phive/phive-api@7.0.0?classifier=sources
 - pkg:maven/com.helger.phive/phive-api@7.0.1

@@ -57,6 +57,8 @@
 - pkg:maven/org.opendaylight.openflowplugin/openflowplugin-blueprint-config@0.20.1?classifier=sources
 - pkg:maven/org.opendaylight.openflowplugin/openflowplugin-blueprint-config@0.21.0
 - pkg:maven/org.opendaylight.openflowplugin/openflowplugin-blueprint-config@0.21.0?classifier=sources
+- pkg:maven/org.opendaylight.openflowplugin/openflowplugin-blueprint-config@0.21.1
+- pkg:maven/org.opendaylight.openflowplugin/openflowplugin-blueprint-config@0.21.1?classifier=sources
 - pkg:maven/org.opendaylight.openflowplugin/openflowplugin-blueprint-config@0.3.0-Boron
 - pkg:maven/org.opendaylight.openflowplugin/openflowplugin-blueprint-config@0.3.0-Boron?classifier=sources
 - pkg:maven/org.opendaylight.openflowplugin/openflowplugin-blueprint-config@0.3.1-Boron-SR1

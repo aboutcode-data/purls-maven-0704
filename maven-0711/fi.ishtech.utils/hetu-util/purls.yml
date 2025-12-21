@@ -2,3 +2,6 @@
 - pkg:maven/fi.ishtech.utils/hetu-util@1.0.0?classifier=sources
 - pkg:maven/fi.ishtech.utils/hetu-util@1.1.0
 - pkg:maven/fi.ishtech.utils/hetu-util@1.1.0?classifier=sources
+- pkg:maven/fi.ishtech.utils/hetu-util@2.0.0?classifier=sources
+- pkg:maven/fi.ishtech.utils/hetu-util@3.0.0?classifier=sources
+- pkg:maven/fi.ishtech.utils/hetu-util@4.0.0?classifier=sources

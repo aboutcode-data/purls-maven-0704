@@ -14,6 +14,7 @@
 - pkg:maven/net.sourceforge.plantuml/plantuml-mit@1.2024.7?classifier=sources
 - pkg:maven/net.sourceforge.plantuml/plantuml-mit@1.2024.8?classifier=sources
 - pkg:maven/net.sourceforge.plantuml/plantuml-mit@1.2025.0?classifier=sources
+- pkg:maven/net.sourceforge.plantuml/plantuml-mit@1.2025.10?classifier=sources
 - pkg:maven/net.sourceforge.plantuml/plantuml-mit@1.2025.2?classifier=sources
 - pkg:maven/net.sourceforge.plantuml/plantuml-mit@1.2025.3?classifier=sources
 - pkg:maven/net.sourceforge.plantuml/plantuml-mit@1.2025.4?classifier=sources

@@ -1,7 +1,15 @@
 - pkg:maven/net.ximatai.muyun.database/muyun-database-core@1.25.10?classifier=sources
 - pkg:maven/net.ximatai.muyun.database/muyun-database-core@1.25.11?classifier=sources
 - pkg:maven/net.ximatai.muyun.database/muyun-database-core@1.25.12?classifier=sources
+- pkg:maven/net.ximatai.muyun.database/muyun-database-core@1.25.13?classifier=sources
+- pkg:maven/net.ximatai.muyun.database/muyun-database-core@1.25.14?classifier=sources
+- pkg:maven/net.ximatai.muyun.database/muyun-database-core@1.25.15?classifier=sources
+- pkg:maven/net.ximatai.muyun.database/muyun-database-core@1.25.16?classifier=sources
+- pkg:maven/net.ximatai.muyun.database/muyun-database-core@1.25.17?classifier=sources
+- pkg:maven/net.ximatai.muyun.database/muyun-database-core@1.25.18?classifier=sources
+- pkg:maven/net.ximatai.muyun.database/muyun-database-core@1.25.19?classifier=sources
 - pkg:maven/net.ximatai.muyun.database/muyun-database-core@1.25.1?classifier=sources
+- pkg:maven/net.ximatai.muyun.database/muyun-database-core@1.25.20?classifier=sources
 - pkg:maven/net.ximatai.muyun.database/muyun-database-core@1.25.2?classifier=sources
 - pkg:maven/net.ximatai.muyun.database/muyun-database-core@1.25.3?classifier=sources
 - pkg:maven/net.ximatai.muyun.database/muyun-database-core@1.25.4?classifier=sources
@@ -10,3 +18,6 @@
 - pkg:maven/net.ximatai.muyun.database/muyun-database-core@1.25.7?classifier=sources
 - pkg:maven/net.ximatai.muyun.database/muyun-database-core@1.25.8?classifier=sources
 - pkg:maven/net.ximatai.muyun.database/muyun-database-core@1.25.9?classifier=sources
+- pkg:maven/net.ximatai.muyun.database/muyun-database-core@1.26.1?classifier=sources
+- pkg:maven/net.ximatai.muyun.database/muyun-database-core@1.26.2?classifier=sources
+- pkg:maven/net.ximatai.muyun.database/muyun-database-core@2.26.1?classifier=sources

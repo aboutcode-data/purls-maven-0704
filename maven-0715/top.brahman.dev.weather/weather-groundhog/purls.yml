@@ -1,0 +1,13 @@
+- pkg:maven/top.brahman.dev.weather/weather-groundhog@1.0.0?classifier=sources
+- pkg:maven/top.brahman.dev.weather/weather-groundhog@1.0.12?classifier=sources
+- pkg:maven/top.brahman.dev.weather/weather-groundhog@1.0.13?classifier=sources
+- pkg:maven/top.brahman.dev.weather/weather-groundhog@1.0.21?classifier=sources
+- pkg:maven/top.brahman.dev.weather/weather-groundhog@1.0.22?classifier=sources
+- pkg:maven/top.brahman.dev.weather/weather-groundhog@1.0.25?classifier=sources
+- pkg:maven/top.brahman.dev.weather/weather-groundhog@1.0.26?classifier=sources
+- pkg:maven/top.brahman.dev.weather/weather-groundhog@1.0.27?classifier=sources
+- pkg:maven/top.brahman.dev.weather/weather-groundhog@1.0.29?classifier=sources
+- pkg:maven/top.brahman.dev.weather/weather-groundhog@1.0.30?classifier=sources
+- pkg:maven/top.brahman.dev.weather/weather-groundhog@1.0.7?classifier=sources
+- pkg:maven/top.brahman.dev.weather/weather-groundhog@1.0.9?classifier=sources
+- pkg:maven/top.brahman.dev.weather/weather-groundhog@1.1.0?classifier=sources

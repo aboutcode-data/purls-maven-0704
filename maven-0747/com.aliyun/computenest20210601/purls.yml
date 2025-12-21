@@ -51,3 +51,4 @@
 - pkg:maven/com.aliyun/computenest20210601@4.2.0?classifier=sources
 - pkg:maven/com.aliyun/computenest20210601@4.3.0?classifier=sources
 - pkg:maven/com.aliyun/computenest20210601@4.3.1?classifier=sources
+- pkg:maven/com.aliyun/computenest20210601@4.3.2?classifier=sources

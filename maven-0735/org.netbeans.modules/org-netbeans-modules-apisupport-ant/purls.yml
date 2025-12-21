@@ -27,4 +27,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-ant@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-ant@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-ant@RELEASE270?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-ant@RELEASE280?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-ant@RELEASE90?classifier=sources

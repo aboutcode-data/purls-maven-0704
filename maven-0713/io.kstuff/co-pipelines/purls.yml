@@ -1,1 +1,2 @@
 - pkg:maven/io.kstuff/co-pipelines@4.0?classifier=sources
+- pkg:maven/io.kstuff/co-pipelines@4.1?classifier=sources

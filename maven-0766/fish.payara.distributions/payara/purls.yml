@@ -76,6 +76,7 @@
 - pkg:maven/fish.payara.distributions/payara@6.2024.8?classifier=sources
 - pkg:maven/fish.payara.distributions/payara@6.2024.9?classifier=sources
 - pkg:maven/fish.payara.distributions/payara@6.2025.10?classifier=sources
+- pkg:maven/fish.payara.distributions/payara@6.2025.11?classifier=sources
 - pkg:maven/fish.payara.distributions/payara@6.2025.1?classifier=sources
 - pkg:maven/fish.payara.distributions/payara@6.2025.2?classifier=sources
 - pkg:maven/fish.payara.distributions/payara@6.2025.3?classifier=sources
@@ -93,3 +94,4 @@
 - pkg:maven/fish.payara.distributions/payara@7.2025.1.Alpha3?classifier=sources
 - pkg:maven/fish.payara.distributions/payara@7.2025.1.Alpha4?classifier=sources
 - pkg:maven/fish.payara.distributions/payara@7.2025.1.Beta1?classifier=sources
+- pkg:maven/fish.payara.distributions/payara@7.2025.1?classifier=sources

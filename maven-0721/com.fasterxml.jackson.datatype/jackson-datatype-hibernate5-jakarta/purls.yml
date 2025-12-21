@@ -39,5 +39,8 @@
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-hibernate5-jakarta@2.19.0?classifier=sources
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-hibernate5-jakarta@2.19.1?classifier=sources
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-hibernate5-jakarta@2.19.2?classifier=sources
+- pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-hibernate5-jakarta@2.19.3?classifier=sources
+- pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-hibernate5-jakarta@2.19.4?classifier=sources
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-hibernate5-jakarta@2.20.0-rc1?classifier=sources
 - pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-hibernate5-jakarta@2.20.0?classifier=sources
+- pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-hibernate5-jakarta@2.20.1?classifier=sources

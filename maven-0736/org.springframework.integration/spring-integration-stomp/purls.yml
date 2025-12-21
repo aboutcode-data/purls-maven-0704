@@ -312,3 +312,4 @@
 - pkg:maven/org.springframework.integration/spring-integration-stomp@7.0.0-M2?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-stomp@7.0.0-M3?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-stomp@7.0.0-RC1?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-stomp@7.0.0-RC2?classifier=sources

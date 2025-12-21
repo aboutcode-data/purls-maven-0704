@@ -112,3 +112,7 @@
 - pkg:maven/io.github.tors42/chariot@0.1.7?classifier=sources
 - pkg:maven/io.github.tors42/chariot@0.1.8?classifier=sources
 - pkg:maven/io.github.tors42/chariot@0.1.9?classifier=sources
+- pkg:maven/io.github.tors42/chariot@0.2.0
+- pkg:maven/io.github.tors42/chariot@0.2.0?classifier=sources
+- pkg:maven/io.github.tors42/chariot@0.2.1
+- pkg:maven/io.github.tors42/chariot@0.2.1?classifier=sources

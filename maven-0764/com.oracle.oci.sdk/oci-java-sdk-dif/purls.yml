@@ -1,0 +1,4 @@
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dif@3.76.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dif@3.76.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dif@3.76.1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-dif@3.76.1?classifier=sources

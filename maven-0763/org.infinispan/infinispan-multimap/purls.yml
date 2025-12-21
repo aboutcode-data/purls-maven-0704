@@ -411,6 +411,10 @@
 - pkg:maven/org.infinispan/infinispan-multimap@16.0.0.Dev04?classifier=sources
 - pkg:maven/org.infinispan/infinispan-multimap@16.0.0.Dev05?classifier=sources
 - pkg:maven/org.infinispan/infinispan-multimap@16.0.0.Dev06?classifier=sources
+- pkg:maven/org.infinispan/infinispan-multimap@16.0.0.Dev07?classifier=sources
+- pkg:maven/org.infinispan/infinispan-multimap@16.0.0.Dev08?classifier=sources
+- pkg:maven/org.infinispan/infinispan-multimap@16.0.0?classifier=sources
+- pkg:maven/org.infinispan/infinispan-multimap@16.0.1?classifier=sources
 - pkg:maven/org.infinispan/infinispan-multimap@9.2.0.Alpha1
 - pkg:maven/org.infinispan/infinispan-multimap@9.2.0.Alpha1?classifier=sources
 - pkg:maven/org.infinispan/infinispan-multimap@9.2.0.Alpha2

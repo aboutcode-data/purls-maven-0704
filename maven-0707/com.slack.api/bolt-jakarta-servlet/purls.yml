@@ -129,3 +129,4 @@
 - pkg:maven/com.slack.api/bolt-jakarta-servlet@1.45.3
 - pkg:maven/com.slack.api/bolt-jakarta-servlet@1.45.3?classifier=sources
 - pkg:maven/com.slack.api/bolt-jakarta-servlet@1.45.4?classifier=sources
+- pkg:maven/com.slack.api/bolt-jakarta-servlet@1.46.0?classifier=sources

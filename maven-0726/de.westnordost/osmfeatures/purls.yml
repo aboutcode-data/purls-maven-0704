@@ -10,3 +10,4 @@
 - pkg:maven/de.westnordost/osmfeatures@6.2?classifier=sources
 - pkg:maven/de.westnordost/osmfeatures@6.3?classifier=sources
 - pkg:maven/de.westnordost/osmfeatures@7.0?classifier=sources
+- pkg:maven/de.westnordost/osmfeatures@7.1.0?classifier=sources

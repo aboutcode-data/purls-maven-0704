@@ -30,6 +30,12 @@
 - pkg:maven/org.mvnpm.at.sentry-internal/browser-utils@10.21.0?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry-internal/browser-utils@10.22.0
 - pkg:maven/org.mvnpm.at.sentry-internal/browser-utils@10.22.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry-internal/browser-utils@10.23.0
+- pkg:maven/org.mvnpm.at.sentry-internal/browser-utils@10.23.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry-internal/browser-utils@10.24.0
+- pkg:maven/org.mvnpm.at.sentry-internal/browser-utils@10.24.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry-internal/browser-utils@10.25.0
+- pkg:maven/org.mvnpm.at.sentry-internal/browser-utils@10.25.0?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry-internal/browser-utils@10.3.0
 - pkg:maven/org.mvnpm.at.sentry-internal/browser-utils@10.3.0?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry-internal/browser-utils@10.4.0

@@ -19,6 +19,9 @@
 - pkg:maven/dev.kensa/kensa-assertions-assertj@0.5.26?classifier=sources
 - pkg:maven/dev.kensa/kensa-assertions-assertj@0.5.2?classifier=sources
 - pkg:maven/dev.kensa/kensa-assertions-assertj@0.5.30?classifier=sources
+- pkg:maven/dev.kensa/kensa-assertions-assertj@0.5.31?classifier=sources
+- pkg:maven/dev.kensa/kensa-assertions-assertj@0.5.32?classifier=sources
+- pkg:maven/dev.kensa/kensa-assertions-assertj@0.5.33?classifier=sources
 - pkg:maven/dev.kensa/kensa-assertions-assertj@0.5.3?classifier=sources
 - pkg:maven/dev.kensa/kensa-assertions-assertj@0.5.4?classifier=sources
 - pkg:maven/dev.kensa/kensa-assertions-assertj@0.5.5?classifier=sources

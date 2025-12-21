@@ -1,3 +1,5 @@
 - pkg:maven/io.unmeshed/unmeshed-api-common@1.9.9?classifier=sources
 - pkg:maven/io.unmeshed/unmeshed-api-common@2.0.2?classifier=sources
 - pkg:maven/io.unmeshed/unmeshed-api-common@2.0.3?classifier=sources
+- pkg:maven/io.unmeshed/unmeshed-api-common@2.0.4?classifier=sources
+- pkg:maven/io.unmeshed/unmeshed-api-common@2.0.5?classifier=sources

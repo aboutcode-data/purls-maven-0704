@@ -54,3 +54,4 @@
 - pkg:maven/io.tarantool/testcontainers-java-tarantool@1.3.3?classifier=sources
 - pkg:maven/io.tarantool/testcontainers-java-tarantool@1.4.0
 - pkg:maven/io.tarantool/testcontainers-java-tarantool@1.4.0?classifier=sources
+- pkg:maven/io.tarantool/testcontainers-java-tarantool@v1.4.1?classifier=sources

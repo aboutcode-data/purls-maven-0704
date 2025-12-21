@@ -86,3 +86,4 @@
 - pkg:maven/org.gephi/graphstore@0.7.2?classifier=sources
 - pkg:maven/org.gephi/graphstore@0.7.3?classifier=sources
 - pkg:maven/org.gephi/graphstore@0.8.0?classifier=sources
+- pkg:maven/org.gephi/graphstore@0.8.1?classifier=sources

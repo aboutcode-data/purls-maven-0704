@@ -23,3 +23,4 @@
 - pkg:maven/org.netbeans.external/org-apache-commons-codec@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.external/org-apache-commons-codec@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.external/org-apache-commons-codec@RELEASE270?classifier=sources
+- pkg:maven/org.netbeans.external/org-apache-commons-codec@RELEASE280?classifier=sources

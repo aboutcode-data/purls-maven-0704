@@ -45,6 +45,7 @@
 - pkg:maven/org.opensearch/opensearch-ssl-config@2.19.1?classifier=sources
 - pkg:maven/org.opensearch/opensearch-ssl-config@2.19.2?classifier=sources
 - pkg:maven/org.opensearch/opensearch-ssl-config@2.19.3?classifier=sources
+- pkg:maven/org.opensearch/opensearch-ssl-config@2.19.4?classifier=sources
 - pkg:maven/org.opensearch/opensearch-ssl-config@2.2.0?classifier=sources
 - pkg:maven/org.opensearch/opensearch-ssl-config@2.2.1?classifier=sources
 - pkg:maven/org.opensearch/opensearch-ssl-config@2.3.0?classifier=sources
@@ -62,3 +63,4 @@
 - pkg:maven/org.opensearch/opensearch-ssl-config@3.2.0?classifier=sources
 - pkg:maven/org.opensearch/opensearch-ssl-config@3.3.0?classifier=sources
 - pkg:maven/org.opensearch/opensearch-ssl-config@3.3.1?classifier=sources
+- pkg:maven/org.opensearch/opensearch-ssl-config@3.3.2?classifier=sources

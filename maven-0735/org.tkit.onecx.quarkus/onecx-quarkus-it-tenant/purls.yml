@@ -61,3 +61,4 @@
 - pkg:maven/org.tkit.onecx.quarkus/onecx-quarkus-it-tenant@1.5.0?classifier=sources
 - pkg:maven/org.tkit.onecx.quarkus/onecx-quarkus-it-tenant@1.6.0?classifier=sources
 - pkg:maven/org.tkit.onecx.quarkus/onecx-quarkus-it-tenant@1.7.0?classifier=sources
+- pkg:maven/org.tkit.onecx.quarkus/onecx-quarkus-it-tenant@2.0.0?classifier=sources

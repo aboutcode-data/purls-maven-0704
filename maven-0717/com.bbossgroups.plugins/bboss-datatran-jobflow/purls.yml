@@ -1,2 +1,4 @@
 - pkg:maven/com.bbossgroups.plugins/bboss-datatran-jobflow@7.3.9?classifier=sources
 - pkg:maven/com.bbossgroups.plugins/bboss-datatran-jobflow@7.5.0?classifier=sources
+- pkg:maven/com.bbossgroups.plugins/bboss-datatran-jobflow@7.5.2?classifier=sources
+- pkg:maven/com.bbossgroups.plugins/bboss-datatran-jobflow@7.5.3?classifier=sources

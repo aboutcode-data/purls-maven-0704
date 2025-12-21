@@ -94,3 +94,4 @@
 - pkg:maven/se.sundsvall.dept44/dept44-starter-webservicetemplate@6.0.8?classifier=sources
 - pkg:maven/se.sundsvall.dept44/dept44-starter-webservicetemplate@6.0.9
 - pkg:maven/se.sundsvall.dept44/dept44-starter-webservicetemplate@6.0.9?classifier=sources
+- pkg:maven/se.sundsvall.dept44/dept44-starter-webservicetemplate@7.0.0?classifier=sources

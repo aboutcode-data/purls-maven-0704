@@ -11,3 +11,7 @@
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-cache-infinispan-persistence-remote@8.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-cache-infinispan-persistence-remote@8.0.1.Final?classifier=sources
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-cache-infinispan-persistence-remote@8.0.2.Final?classifier=sources
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-cache-infinispan-persistence-remote@8.0.3.Final?classifier=sources
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-cache-infinispan-persistence-remote@8.0.4.Final?classifier=sources
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-cache-infinispan-persistence-remote@9.0.0.Beta1?classifier=sources
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-cache-infinispan-persistence-remote@9.0.0.Beta2?classifier=sources

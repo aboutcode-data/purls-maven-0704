@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.tailwindcss/oxide-linux-arm64-gnu@4.1.16
+- pkg:maven/org.mvnpm.at.tailwindcss/oxide-linux-arm64-gnu@4.1.16?classifier=sources

@@ -15,5 +15,7 @@
 - pkg:maven/org.mvnpm.at.opentelemetry/exporter-logs-otlp-http@0.206.0?classifier=sources
 - pkg:maven/org.mvnpm.at.opentelemetry/exporter-logs-otlp-http@0.207.0
 - pkg:maven/org.mvnpm.at.opentelemetry/exporter-logs-otlp-http@0.207.0?classifier=sources
+- pkg:maven/org.mvnpm.at.opentelemetry/exporter-logs-otlp-http@0.208.0
+- pkg:maven/org.mvnpm.at.opentelemetry/exporter-logs-otlp-http@0.208.0?classifier=sources
 - pkg:maven/org.mvnpm.at.opentelemetry/exporter-logs-otlp-http@0.54.2?classifier=sources
 - pkg:maven/org.mvnpm.at.opentelemetry/exporter-logs-otlp-http@0.57.2?classifier=sources

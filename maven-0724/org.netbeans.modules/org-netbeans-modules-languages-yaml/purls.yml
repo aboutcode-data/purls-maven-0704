@@ -27,4 +27,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-yaml@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-yaml@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-yaml@RELEASE270?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-yaml@RELEASE280?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-yaml@RELEASE90?classifier=sources

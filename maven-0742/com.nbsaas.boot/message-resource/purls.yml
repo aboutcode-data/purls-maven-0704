@@ -27,3 +27,4 @@
 - pkg:maven/com.nbsaas.boot/message-resource@1.1.4-2024?classifier=sources
 - pkg:maven/com.nbsaas.boot/message-resource@1.1.5-2024
 - pkg:maven/com.nbsaas.boot/message-resource@1.1.5-2024?classifier=sources
+- pkg:maven/com.nbsaas.boot/message-resource@1.2.1-2025?classifier=sources

@@ -62,4 +62,6 @@
 - pkg:maven/com.pugwoo/redis-helper@1.5.3?classifier=sources
 - pkg:maven/com.pugwoo/redis-helper@1.5.4
 - pkg:maven/com.pugwoo/redis-helper@1.5.4?classifier=sources
+- pkg:maven/com.pugwoo/redis-helper@1.5.5?classifier=sources
 - pkg:maven/com.pugwoo/redis-helper@1.6.0?classifier=sources
+- pkg:maven/com.pugwoo/redis-helper@1.6.1?classifier=sources

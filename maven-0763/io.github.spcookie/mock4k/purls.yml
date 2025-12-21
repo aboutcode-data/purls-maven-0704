@@ -2,3 +2,7 @@
 - pkg:maven/io.github.spcookie/mock4k@1.1.1?classifier=sources
 - pkg:maven/io.github.spcookie/mock4k@1.2.0?classifier=sources
 - pkg:maven/io.github.spcookie/mock4k@2.0.0?classifier=sources
+- pkg:maven/io.github.spcookie/mock4k@2.1.0-jre11?classifier=sources
+- pkg:maven/io.github.spcookie/mock4k@2.1.0?classifier=sources
+- pkg:maven/io.github.spcookie/mock4k@2.1.1-jre11?classifier=sources
+- pkg:maven/io.github.spcookie/mock4k@2.1.1?classifier=sources

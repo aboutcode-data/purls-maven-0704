@@ -111,6 +111,7 @@
 - pkg:maven/org.owasp/dependency-check-core@12.1.6?classifier=sources
 - pkg:maven/org.owasp/dependency-check-core@12.1.7?classifier=sources
 - pkg:maven/org.owasp/dependency-check-core@12.1.8?classifier=sources
+- pkg:maven/org.owasp/dependency-check-core@12.1.9?classifier=sources
 - pkg:maven/org.owasp/dependency-check-core@2.0.0
 - pkg:maven/org.owasp/dependency-check-core@2.0.0?classifier=sources
 - pkg:maven/org.owasp/dependency-check-core@2.0.1

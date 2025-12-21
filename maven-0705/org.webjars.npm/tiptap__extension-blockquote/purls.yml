@@ -8,3 +8,4 @@
 - pkg:maven/org.webjars.npm/tiptap__extension-blockquote@2.0.3?classifier=sources
 - pkg:maven/org.webjars.npm/tiptap__extension-blockquote@2.1.0-rc.1
 - pkg:maven/org.webjars.npm/tiptap__extension-blockquote@2.1.0-rc.1?classifier=sources
+- pkg:maven/org.webjars.npm/tiptap__extension-blockquote@3.10.2

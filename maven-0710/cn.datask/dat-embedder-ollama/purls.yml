@@ -1,0 +1,4 @@
+- pkg:maven/cn.datask/dat-embedder-ollama@0.6.1?classifier=sources
+- pkg:maven/cn.datask/dat-embedder-ollama@0.6.2?classifier=sources
+- pkg:maven/cn.datask/dat-embedder-ollama@0.6.3?classifier=sources
+- pkg:maven/cn.datask/dat-embedder-ollama@0.6.4-beta1?classifier=sources

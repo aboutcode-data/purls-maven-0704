@@ -51,6 +51,7 @@
 - pkg:maven/com.arangodb/jackson-serde-json@7.21.0?classifier=sources
 - pkg:maven/com.arangodb/jackson-serde-json@7.22.0?classifier=sources
 - pkg:maven/com.arangodb/jackson-serde-json@7.22.1?classifier=sources
+- pkg:maven/com.arangodb/jackson-serde-json@7.23.0?classifier=sources
 - pkg:maven/com.arangodb/jackson-serde-json@7.3.0
 - pkg:maven/com.arangodb/jackson-serde-json@7.3.0?classifier=sources
 - pkg:maven/com.arangodb/jackson-serde-json@7.4.0

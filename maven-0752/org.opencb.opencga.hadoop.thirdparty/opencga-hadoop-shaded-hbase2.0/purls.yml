@@ -1,0 +1,1 @@
+- pkg:maven/org.opencb.opencga.hadoop.thirdparty/opencga-hadoop-shaded-hbase2.0@1.1.0?classifier=sources

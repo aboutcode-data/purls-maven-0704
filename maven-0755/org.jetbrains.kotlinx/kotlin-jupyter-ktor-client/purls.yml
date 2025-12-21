@@ -1,3 +1,4 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-ktor-client@0.2.0-dev-32?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-ktor-client@0.2.0-dev-39?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-ktor-client@0.2.0-dev-40?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-ktor-client@0.3.0-5?classifier=sources

@@ -8,3 +8,4 @@
 - pkg:maven/xyz.erupt/erupt-websocket@1.12.20?classifier=sources
 - pkg:maven/xyz.erupt/erupt-websocket@1.12.21?classifier=sources
 - pkg:maven/xyz.erupt/erupt-websocket@1.12.23?classifier=sources
+- pkg:maven/xyz.erupt/erupt-websocket@1.13.1?classifier=sources

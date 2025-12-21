@@ -12,3 +12,4 @@
 - pkg:maven/se.sundsvall.dept44/dept44-starter-scheduler@6.0.8?classifier=sources
 - pkg:maven/se.sundsvall.dept44/dept44-starter-scheduler@6.0.9
 - pkg:maven/se.sundsvall.dept44/dept44-starter-scheduler@6.0.9?classifier=sources
+- pkg:maven/se.sundsvall.dept44/dept44-starter-scheduler@7.0.0?classifier=sources

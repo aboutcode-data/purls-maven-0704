@@ -100,3 +100,4 @@
 - pkg:maven/com.notifyvisitors.notifyvisitors/notifyvisitors@v5.5.4?classifier=sources
 - pkg:maven/com.notifyvisitors.notifyvisitors/notifyvisitors@v5.6.0?classifier=sources
 - pkg:maven/com.notifyvisitors.notifyvisitors/notifyvisitors@v5.6.1?classifier=sources
+- pkg:maven/com.notifyvisitors.notifyvisitors/notifyvisitors@v5.6.2?classifier=sources

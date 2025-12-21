@@ -27,3 +27,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-lib-v8debug@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-lib-v8debug@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-lib-v8debug@RELEASE270?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-lib-v8debug@RELEASE280?classifier=sources

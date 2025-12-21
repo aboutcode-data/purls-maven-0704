@@ -91,3 +91,5 @@
 - pkg:maven/com.github.nagyesta.abort-mission.boosters/abort.booster-testng@6.0.94?classifier=sources
 - pkg:maven/com.github.nagyesta.abort-mission.boosters/abort.booster-testng@6.0.9?classifier=sources
 - pkg:maven/com.github.nagyesta.abort-mission.boosters/abort.booster-testng@6.1.0?classifier=sources
+- pkg:maven/com.github.nagyesta.abort-mission.boosters/abort.booster-testng@6.1.7?classifier=sources
+- pkg:maven/com.github.nagyesta.abort-mission.boosters/abort.booster-testng@6.1.8?classifier=sources

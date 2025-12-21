@@ -1,3 +1,10 @@
 - pkg:maven/net.lsafer.compose-simplenav/compose-simplenav@0.0.2-rc.0?classifier=sources
 - pkg:maven/net.lsafer.compose-simplenav/compose-simplenav@0.0.2-rc.1?classifier=sources
 - pkg:maven/net.lsafer.compose-simplenav/compose-simplenav@0.0.2-rc.2?classifier=sources
+- pkg:maven/net.lsafer.compose-simplenav/compose-simplenav@0.0.2-rc.3?classifier=sources
+- pkg:maven/net.lsafer.compose-simplenav/compose-simplenav@0.0.3-rc.0?classifier=sources
+- pkg:maven/net.lsafer.compose-simplenav/compose-simplenav@0.0.3-rc.1?classifier=sources
+- pkg:maven/net.lsafer.compose-simplenav/compose-simplenav@0.0.3-rc.2?classifier=sources
+- pkg:maven/net.lsafer.compose-simplenav/compose-simplenav@0.0.3-rc.3?classifier=sources
+- pkg:maven/net.lsafer.compose-simplenav/compose-simplenav@0.0.4-rc.0?classifier=sources
+- pkg:maven/net.lsafer.compose-simplenav/compose-simplenav@0.0.5-rc.0?classifier=sources

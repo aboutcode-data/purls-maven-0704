@@ -175,3 +175,4 @@
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-policy@4.8.0
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-policy@4.8.0?classifier=sources
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-policy@4.9.0?classifier=sources
+- pkg:maven/io.gravitee.plugin/gravitee-plugin-policy@4.9.1?classifier=sources

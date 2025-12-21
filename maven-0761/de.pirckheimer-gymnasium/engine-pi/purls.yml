@@ -21,3 +21,7 @@
 - pkg:maven/de.pirckheimer-gymnasium/engine-pi@0.34.0?classifier=sources
 - pkg:maven/de.pirckheimer-gymnasium/engine-pi@0.35.0?classifier=sources
 - pkg:maven/de.pirckheimer-gymnasium/engine-pi@0.36.0?classifier=sources
+- pkg:maven/de.pirckheimer-gymnasium/engine-pi@0.37.0?classifier=sources
+- pkg:maven/de.pirckheimer-gymnasium/engine-pi@0.38.0?classifier=sources
+- pkg:maven/de.pirckheimer-gymnasium/engine-pi@0.39.0?classifier=sources
+- pkg:maven/de.pirckheimer-gymnasium/engine-pi@0.40.0?classifier=sources

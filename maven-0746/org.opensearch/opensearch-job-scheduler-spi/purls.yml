@@ -46,6 +46,7 @@
 - pkg:maven/org.opensearch/opensearch-job-scheduler-spi@2.19.1.0?classifier=sources
 - pkg:maven/org.opensearch/opensearch-job-scheduler-spi@2.19.2.0?classifier=sources
 - pkg:maven/org.opensearch/opensearch-job-scheduler-spi@2.19.3.0?classifier=sources
+- pkg:maven/org.opensearch/opensearch-job-scheduler-spi@2.19.4.0?classifier=sources
 - pkg:maven/org.opensearch/opensearch-job-scheduler-spi@2.2.0.0?classifier=sources
 - pkg:maven/org.opensearch/opensearch-job-scheduler-spi@2.2.1.0?classifier=sources
 - pkg:maven/org.opensearch/opensearch-job-scheduler-spi@2.3.0.0?classifier=sources
@@ -63,3 +64,4 @@
 - pkg:maven/org.opensearch/opensearch-job-scheduler-spi@3.2.0.0?classifier=sources
 - pkg:maven/org.opensearch/opensearch-job-scheduler-spi@3.3.0.0?classifier=sources
 - pkg:maven/org.opensearch/opensearch-job-scheduler-spi@3.3.1.0?classifier=sources
+- pkg:maven/org.opensearch/opensearch-job-scheduler-spi@3.3.2.0?classifier=sources

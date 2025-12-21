@@ -1,2 +1,4 @@
 - pkg:maven/net.rossonet.waldot/waldot-plugin-tinkerpop@0.1.1?classifier=sources
 - pkg:maven/net.rossonet.waldot/waldot-plugin-tinkerpop@0.2.1?classifier=sources
+- pkg:maven/net.rossonet.waldot/waldot-plugin-tinkerpop@0.3.3?classifier=sources
+- pkg:maven/net.rossonet.waldot/waldot-plugin-tinkerpop@0.4.1?classifier=sources

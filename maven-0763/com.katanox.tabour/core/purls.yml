@@ -12,3 +12,4 @@
 - pkg:maven/com.katanox.tabour/core@2.0.0-RC3?classifier=sources
 - pkg:maven/com.katanox.tabour/core@2.0.0-RC4?classifier=sources
 - pkg:maven/com.katanox.tabour/core@2.0.0-RC?classifier=sources
+- pkg:maven/com.katanox.tabour/core@2.0.0?classifier=sources

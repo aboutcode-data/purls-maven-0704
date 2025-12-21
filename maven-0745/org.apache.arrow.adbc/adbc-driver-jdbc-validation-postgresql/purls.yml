@@ -24,6 +24,8 @@
 - pkg:maven/org.apache.arrow.adbc/adbc-driver-jdbc-validation-postgresql@0.2.0?classifier=sources
 - pkg:maven/org.apache.arrow.adbc/adbc-driver-jdbc-validation-postgresql@0.20.0
 - pkg:maven/org.apache.arrow.adbc/adbc-driver-jdbc-validation-postgresql@0.20.0?classifier=sources
+- pkg:maven/org.apache.arrow.adbc/adbc-driver-jdbc-validation-postgresql@0.21.0
+- pkg:maven/org.apache.arrow.adbc/adbc-driver-jdbc-validation-postgresql@0.21.0?classifier=sources
 - pkg:maven/org.apache.arrow.adbc/adbc-driver-jdbc-validation-postgresql@0.3.0
 - pkg:maven/org.apache.arrow.adbc/adbc-driver-jdbc-validation-postgresql@0.3.0?classifier=sources
 - pkg:maven/org.apache.arrow.adbc/adbc-driver-jdbc-validation-postgresql@0.4.0

@@ -1,1 +1,3 @@
 - pkg:maven/org.mvnpm/when-exit@2.1.4?classifier=sources
+- pkg:maven/org.mvnpm/when-exit@2.1.5
+- pkg:maven/org.mvnpm/when-exit@2.1.5?classifier=sources

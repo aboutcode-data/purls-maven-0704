@@ -30,3 +30,5 @@
 - pkg:maven/org.opentcs/opentcs-plantoverview-themes-default@6.5.0?classifier=sources
 - pkg:maven/org.opentcs/opentcs-plantoverview-themes-default@6.6.0?classifier=sources
 - pkg:maven/org.opentcs/opentcs-plantoverview-themes-default@6.7.0?classifier=sources
+- pkg:maven/org.opentcs/opentcs-plantoverview-themes-default@7.0.0?classifier=sources
+- pkg:maven/org.opentcs/opentcs-plantoverview-themes-default@7.0.1?classifier=sources

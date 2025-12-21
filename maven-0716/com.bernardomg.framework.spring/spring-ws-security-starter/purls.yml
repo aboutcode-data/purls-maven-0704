@@ -89,6 +89,13 @@
 - pkg:maven/com.bernardomg.framework.spring/spring-ws-security-starter@0.4.2?classifier=sources
 - pkg:maven/com.bernardomg.framework.spring/spring-ws-security-starter@0.4.3
 - pkg:maven/com.bernardomg.framework.spring/spring-ws-security-starter@0.4.30?classifier=sources
+- pkg:maven/com.bernardomg.framework.spring/spring-ws-security-starter@0.4.31?classifier=sources
+- pkg:maven/com.bernardomg.framework.spring/spring-ws-security-starter@0.4.32?classifier=sources
+- pkg:maven/com.bernardomg.framework.spring/spring-ws-security-starter@0.4.33?classifier=sources
+- pkg:maven/com.bernardomg.framework.spring/spring-ws-security-starter@0.4.34?classifier=sources
+- pkg:maven/com.bernardomg.framework.spring/spring-ws-security-starter@0.4.35?classifier=sources
+- pkg:maven/com.bernardomg.framework.spring/spring-ws-security-starter@0.4.36?classifier=sources
+- pkg:maven/com.bernardomg.framework.spring/spring-ws-security-starter@0.4.37?classifier=sources
 - pkg:maven/com.bernardomg.framework.spring/spring-ws-security-starter@0.4.3?classifier=sources
 - pkg:maven/com.bernardomg.framework.spring/spring-ws-security-starter@0.4.4
 - pkg:maven/com.bernardomg.framework.spring/spring-ws-security-starter@0.4.4?classifier=sources

@@ -10,6 +10,7 @@
 - pkg:maven/com.helger.phive/phive-ves-engine@10.1.1?classifier=sources
 - pkg:maven/com.helger.phive/phive-ves-engine@11.0.0?classifier=sources
 - pkg:maven/com.helger.phive/phive-ves-engine@11.0.1?classifier=sources
+- pkg:maven/com.helger.phive/phive-ves-engine@11.1.0?classifier=sources
 - pkg:maven/com.helger.phive/phive-ves-engine@9.0.0
 - pkg:maven/com.helger.phive/phive-ves-engine@9.0.0-beta1
 - pkg:maven/com.helger.phive/phive-ves-engine@9.0.0-beta1?classifier=sources

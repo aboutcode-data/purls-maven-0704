@@ -1,0 +1,1 @@
+- pkg:maven/io.quarkiverse.web-bundler/quarkus-web-bundler-common@2.0.0.CR1?classifier=sources

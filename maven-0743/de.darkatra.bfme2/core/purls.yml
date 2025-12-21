@@ -17,3 +17,5 @@
 - pkg:maven/de.darkatra.bfme2/core@1.0.33?classifier=sources
 - pkg:maven/de.darkatra.bfme2/core@1.0.34?classifier=sources
 - pkg:maven/de.darkatra.bfme2/core@1.0.35?classifier=sources
+- pkg:maven/de.darkatra.bfme2/core@1.0.36?classifier=sources
+- pkg:maven/de.darkatra.bfme2/core@1.0.37?classifier=sources

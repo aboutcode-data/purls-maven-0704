@@ -37,3 +37,4 @@
 - pkg:maven/se.swedenconnect.opensaml/opensaml-addons@2.1.4?classifier=sources
 - pkg:maven/se.swedenconnect.opensaml/opensaml-addons@2.1.5?classifier=sources
 - pkg:maven/se.swedenconnect.opensaml/opensaml-addons@2.1.6?classifier=sources
+- pkg:maven/se.swedenconnect.opensaml/opensaml-addons@2.1.7?classifier=sources

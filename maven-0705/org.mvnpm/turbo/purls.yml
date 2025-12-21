@@ -17,3 +17,7 @@
 - pkg:maven/org.mvnpm/turbo@2.5.7?classifier=sources
 - pkg:maven/org.mvnpm/turbo@2.5.8
 - pkg:maven/org.mvnpm/turbo@2.5.8?classifier=sources
+- pkg:maven/org.mvnpm/turbo@2.6.0
+- pkg:maven/org.mvnpm/turbo@2.6.0?classifier=sources
+- pkg:maven/org.mvnpm/turbo@2.6.1
+- pkg:maven/org.mvnpm/turbo@2.6.1?classifier=sources

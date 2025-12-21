@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.borewit/text-codec@0.1.1
+- pkg:maven/org.mvnpm.at.borewit/text-codec@0.1.1?classifier=sources

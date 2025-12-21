@@ -74,6 +74,8 @@
 - pkg:maven/com.icthh.xm.commons/xm-commons-lep-js@2.3.49?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-lep-js@2.3.50
 - pkg:maven/com.icthh.xm.commons/xm-commons-lep-js@2.3.50?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-lep-js@2.3.51
+- pkg:maven/com.icthh.xm.commons/xm-commons-lep-js@2.3.51?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-lep-js@2.3.7
 - pkg:maven/com.icthh.xm.commons/xm-commons-lep-js@2.3.7?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-lep-js@2.3.8
@@ -89,6 +91,7 @@
 - pkg:maven/com.icthh.xm.commons/xm-commons-lep-js@3.2.19?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-lep-js@3.2.1?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-lep-js@3.2.21?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-lep-js@3.2.22?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-lep-js@3.2.2?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-lep-js@3.2.3?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-lep-js@3.2.7?classifier=sources
@@ -141,3 +144,4 @@
 - pkg:maven/com.icthh.xm.commons/xm-commons-lep-js@4.1.0?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-lep-js@4.1.1?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-lep-js@4.1.2?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-lep-js@4.1.4?classifier=sources

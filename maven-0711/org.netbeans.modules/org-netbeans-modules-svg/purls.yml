@@ -1,1 +1,2 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-svg@RELEASE270?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-svg@RELEASE280?classifier=sources

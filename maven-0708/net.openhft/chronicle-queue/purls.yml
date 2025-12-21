@@ -805,6 +805,10 @@
 - pkg:maven/net.openhft/chronicle-queue@5.27ea0
 - pkg:maven/net.openhft/chronicle-queue@5.27ea0?classifier=sources
 - pkg:maven/net.openhft/chronicle-queue@5.27ea1
+- pkg:maven/net.openhft/chronicle-queue@5.27ea10
+- pkg:maven/net.openhft/chronicle-queue@5.27ea10?classifier=sources
+- pkg:maven/net.openhft/chronicle-queue@5.27ea11
+- pkg:maven/net.openhft/chronicle-queue@5.27ea11?classifier=sources
 - pkg:maven/net.openhft/chronicle-queue@5.27ea1?classifier=sources
 - pkg:maven/net.openhft/chronicle-queue@5.27ea2
 - pkg:maven/net.openhft/chronicle-queue@5.27ea2?classifier=sources

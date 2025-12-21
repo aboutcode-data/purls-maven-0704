@@ -61,4 +61,5 @@
 - pkg:maven/com.eygraber/gradle-conventions-kotlin@0.0.86?classifier=sources
 - pkg:maven/com.eygraber/gradle-conventions-kotlin@0.0.87?classifier=sources
 - pkg:maven/com.eygraber/gradle-conventions-kotlin@0.0.88?classifier=sources
+- pkg:maven/com.eygraber/gradle-conventions-kotlin@0.0.89?classifier=sources
 - pkg:maven/com.eygraber/gradle-conventions-kotlin@unspecified?classifier=sources

@@ -45,3 +45,7 @@
 - pkg:maven/org.mvnpm.at.jsonjoy.com/json-pack@17.61.0?classifier=sources
 - pkg:maven/org.mvnpm.at.jsonjoy.com/json-pack@17.61.1
 - pkg:maven/org.mvnpm.at.jsonjoy.com/json-pack@17.61.1?classifier=sources
+- pkg:maven/org.mvnpm.at.jsonjoy.com/json-pack@17.62.0
+- pkg:maven/org.mvnpm.at.jsonjoy.com/json-pack@17.62.0?classifier=sources
+- pkg:maven/org.mvnpm.at.jsonjoy.com/json-pack@17.63.0
+- pkg:maven/org.mvnpm.at.jsonjoy.com/json-pack@17.63.0?classifier=sources

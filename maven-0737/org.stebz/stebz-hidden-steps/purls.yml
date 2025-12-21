@@ -1,1 +1,4 @@
+- pkg:maven/org.stebz/stebz-hidden-steps@1.10?classifier=sources
 - pkg:maven/org.stebz/stebz-hidden-steps@1.7?classifier=sources
+- pkg:maven/org.stebz/stebz-hidden-steps@1.8?classifier=sources
+- pkg:maven/org.stebz/stebz-hidden-steps@1.9?classifier=sources
