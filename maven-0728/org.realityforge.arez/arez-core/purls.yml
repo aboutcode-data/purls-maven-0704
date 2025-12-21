@@ -279,6 +279,8 @@
 - pkg:maven/org.realityforge.arez/arez-core@0.220?classifier=sources
 - pkg:maven/org.realityforge.arez/arez-core@0.221
 - pkg:maven/org.realityforge.arez/arez-core@0.221?classifier=sources
+- pkg:maven/org.realityforge.arez/arez-core@0.222
+- pkg:maven/org.realityforge.arez/arez-core@0.222?classifier=sources
 - pkg:maven/org.realityforge.arez/arez-core@0.22?classifier=sources
 - pkg:maven/org.realityforge.arez/arez-core@0.23
 - pkg:maven/org.realityforge.arez/arez-core@0.23?classifier=sources

@@ -21,6 +21,7 @@
 - pkg:maven/io.bill24/b24paymentsdk@1.1.23-beta.28?classifier=sources
 - pkg:maven/io.bill24/b24paymentsdk@1.1.23-beta.29?classifier=sources
 - pkg:maven/io.bill24/b24paymentsdk@1.1.23-beta.2?classifier=sources
+- pkg:maven/io.bill24/b24paymentsdk@1.1.23-beta.30?classifier=sources
 - pkg:maven/io.bill24/b24paymentsdk@1.1.23-beta.3?classifier=sources
 - pkg:maven/io.bill24/b24paymentsdk@1.1.23-beta.4?classifier=sources
 - pkg:maven/io.bill24/b24paymentsdk@1.1.23-beta.5?classifier=sources

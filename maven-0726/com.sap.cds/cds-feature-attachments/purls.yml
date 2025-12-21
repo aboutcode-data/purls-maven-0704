@@ -11,3 +11,4 @@
 - pkg:maven/com.sap.cds/cds-feature-attachments@1.0.8
 - pkg:maven/com.sap.cds/cds-feature-attachments@1.0.8?classifier=sources
 - pkg:maven/com.sap.cds/cds-feature-attachments@1.0.9?classifier=sources
+- pkg:maven/com.sap.cds/cds-feature-attachments@1.1.0?classifier=sources

@@ -3,3 +3,7 @@
 - pkg:maven/org.flywaydb/flyway-nc-callbacks@11.10.2?classifier=sources
 - pkg:maven/org.flywaydb/flyway-nc-callbacks@11.10.3?classifier=sources
 - pkg:maven/org.flywaydb/flyway-nc-callbacks@11.10.4?classifier=sources
+- pkg:maven/org.flywaydb/flyway-nc-callbacks@11.10.5?classifier=sources
+- pkg:maven/org.flywaydb/flyway-nc-callbacks@11.11.0?classifier=sources
+- pkg:maven/org.flywaydb/flyway-nc-callbacks@11.11.1?classifier=sources
+- pkg:maven/org.flywaydb/flyway-nc-callbacks@11.11.2?classifier=sources

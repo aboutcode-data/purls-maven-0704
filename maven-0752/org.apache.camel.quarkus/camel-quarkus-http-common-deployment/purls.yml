@@ -79,6 +79,8 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-http-common-deployment@3.22.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-http-common-deployment@3.23.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-http-common-deployment@3.24.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-http-common-deployment@3.25.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-http-common-deployment@3.26.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-http-common-deployment@3.4.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-http-common-deployment@3.5.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-http-common-deployment@3.6.0

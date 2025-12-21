@@ -26,3 +26,11 @@
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-sttp-stub4-server_2.13@1.11.37?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-sttp-stub4-server_2.13@1.11.38
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-sttp-stub4-server_2.13@1.11.38?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-sttp-stub4-server_2.13@1.11.39
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-sttp-stub4-server_2.13@1.11.39?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-sttp-stub4-server_2.13@1.11.40
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-sttp-stub4-server_2.13@1.11.40?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-sttp-stub4-server_2.13@1.11.41
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-sttp-stub4-server_2.13@1.11.41?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-sttp-stub4-server_2.13@1.11.42
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-sttp-stub4-server_2.13@1.11.42?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-consul-configdata-retry-tests@4.2.2?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-consul-configdata-retry-tests@5.0.0-M1?classifier=sources

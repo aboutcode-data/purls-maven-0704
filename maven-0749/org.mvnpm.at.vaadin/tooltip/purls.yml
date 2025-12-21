@@ -12,6 +12,8 @@
 - pkg:maven/org.mvnpm.at.vaadin/tooltip@23.5.1?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/tooltip@23.6.0
 - pkg:maven/org.mvnpm.at.vaadin/tooltip@23.6.0?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/tooltip@23.6.1
+- pkg:maven/org.mvnpm.at.vaadin/tooltip@23.6.1?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/tooltip@24.0.0?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/tooltip@24.0.2?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/tooltip@24.0.5?classifier=sources
@@ -100,3 +102,5 @@
 - pkg:maven/org.mvnpm.at.vaadin/tooltip@24.8.3?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/tooltip@24.8.4
 - pkg:maven/org.mvnpm.at.vaadin/tooltip@24.8.4?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/tooltip@24.8.5
+- pkg:maven/org.mvnpm.at.vaadin/tooltip@24.8.5?classifier=sources

@@ -1,4 +1,6 @@
 - pkg:maven/org.kodein.type/kaverit-android@2.10.0?classifier=sources
+- pkg:maven/org.kodein.type/kaverit-android@2.11.0-alpha01?classifier=sources
+- pkg:maven/org.kodein.type/kaverit-android@2.11.0?classifier=sources
 - pkg:maven/org.kodein.type/kaverit-android@2.7.0?classifier=sources
 - pkg:maven/org.kodein.type/kaverit-android@2.8.0?classifier=sources
 - pkg:maven/org.kodein.type/kaverit-android@2.8.1?classifier=sources

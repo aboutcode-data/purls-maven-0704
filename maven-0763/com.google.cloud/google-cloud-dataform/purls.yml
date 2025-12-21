@@ -124,8 +124,14 @@
 - pkg:maven/com.google.cloud/google-cloud-dataform@0.66.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-dataform@0.67.0
 - pkg:maven/com.google.cloud/google-cloud-dataform@0.67.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-dataform@0.69.0
+- pkg:maven/com.google.cloud/google-cloud-dataform@0.69.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-dataform@0.7.0
 - pkg:maven/com.google.cloud/google-cloud-dataform@0.7.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-dataform@0.70.0
+- pkg:maven/com.google.cloud/google-cloud-dataform@0.70.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-dataform@0.71.0
+- pkg:maven/com.google.cloud/google-cloud-dataform@0.71.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-dataform@0.8.0
 - pkg:maven/com.google.cloud/google-cloud-dataform@0.8.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-dataform@0.9.0

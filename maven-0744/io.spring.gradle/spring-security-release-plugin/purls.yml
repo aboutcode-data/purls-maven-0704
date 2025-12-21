@@ -1,2 +1,3 @@
 - pkg:maven/io.spring.gradle/spring-security-release-plugin@1.0.10?classifier=sources
+- pkg:maven/io.spring.gradle/spring-security-release-plugin@1.0.11?classifier=sources
 - pkg:maven/io.spring.gradle/spring-security-release-plugin@1.0.1?classifier=sources

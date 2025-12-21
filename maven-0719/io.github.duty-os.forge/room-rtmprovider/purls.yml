@@ -17,3 +17,4 @@
 - pkg:maven/io.github.duty-os.forge/room-rtmprovider@0.1.9?classifier=sources
 - pkg:maven/io.github.duty-os.forge/room-rtmprovider@0.2.0-beta01?classifier=sources
 - pkg:maven/io.github.duty-os.forge/room-rtmprovider@1.0.0-alpha01?classifier=sources
+- pkg:maven/io.github.duty-os.forge/room-rtmprovider@1.0.0?classifier=sources

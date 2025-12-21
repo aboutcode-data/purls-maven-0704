@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm.at.types/babel__traverse@7.20.6?classifier=sources
 - pkg:maven/org.mvnpm.at.types/babel__traverse@7.20.7?classifier=sources
+- pkg:maven/org.mvnpm.at.types/babel__traverse@7.28.0
+- pkg:maven/org.mvnpm.at.types/babel__traverse@7.28.0?classifier=sources

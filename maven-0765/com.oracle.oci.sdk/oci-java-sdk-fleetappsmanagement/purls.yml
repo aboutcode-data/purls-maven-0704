@@ -88,3 +88,9 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-fleetappsmanagement@3.68.2?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-fleetappsmanagement@3.69.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-fleetappsmanagement@3.69.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-fleetappsmanagement@3.70.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-fleetappsmanagement@3.70.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-fleetappsmanagement@3.70.1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-fleetappsmanagement@3.70.1?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-fleetappsmanagement@3.71.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-fleetappsmanagement@3.71.0?classifier=sources

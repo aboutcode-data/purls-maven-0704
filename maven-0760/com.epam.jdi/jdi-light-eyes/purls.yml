@@ -92,3 +92,4 @@
 - pkg:maven/com.epam.jdi/jdi-light-eyes@1.5.3?classifier=sources
 - pkg:maven/com.epam.jdi/jdi-light-eyes@1.6.0
 - pkg:maven/com.epam.jdi/jdi-light-eyes@1.6.0?classifier=sources
+- pkg:maven/com.epam.jdi/jdi-light-eyes@1.6.1?classifier=sources

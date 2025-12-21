@@ -12,3 +12,4 @@
 - pkg:maven/org.stubit/spring-data@0.8.6?classifier=sources
 - pkg:maven/org.stubit/spring-data@0.8?classifier=sources
 - pkg:maven/org.stubit/spring-data@0.9.1?classifier=sources
+- pkg:maven/org.stubit/spring-data@0.9.2?classifier=sources

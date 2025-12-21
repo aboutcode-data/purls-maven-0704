@@ -20,3 +20,4 @@
 - pkg:maven/site.edody.dframe/dframe-admin-spring-boot-starter@1.3.5-GA?classifier=sources
 - pkg:maven/site.edody.dframe/dframe-admin-spring-boot-starter@1.3.6-GA?classifier=sources
 - pkg:maven/site.edody.dframe/dframe-admin-spring-boot-starter@1.3.7-GA?classifier=sources
+- pkg:maven/site.edody.dframe/dframe-admin-spring-boot-starter@1.3.8-GA?classifier=sources

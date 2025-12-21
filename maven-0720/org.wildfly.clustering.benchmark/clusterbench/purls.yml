@@ -1,0 +1,2 @@
+- pkg:maven/org.wildfly.clustering.benchmark/clusterbench@13.0.1.CR1?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.clustering.benchmark/clusterbench@13.0.1.Final?classifier=source-release&type=zip

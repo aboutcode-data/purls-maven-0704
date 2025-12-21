@@ -38,3 +38,4 @@
 - pkg:maven/org.apache.beam/beam-runners-spark-3-job-server@2.64.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-runners-spark-3-job-server@2.65.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-runners-spark-3-job-server@2.66.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-runners-spark-3-job-server@2.67.0?classifier=sources

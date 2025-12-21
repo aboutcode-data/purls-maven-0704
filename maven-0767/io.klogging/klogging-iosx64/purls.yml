@@ -5,6 +5,8 @@
 - pkg:maven/io.klogging/klogging-iosx64@0.11.2?classifier=sources
 - pkg:maven/io.klogging/klogging-iosx64@0.11.3?classifier=sources
 - pkg:maven/io.klogging/klogging-iosx64@0.11.4?classifier=sources
+- pkg:maven/io.klogging/klogging-iosx64@0.11.5?classifier=sources
+- pkg:maven/io.klogging/klogging-iosx64@0.11.6?classifier=sources
 - pkg:maven/io.klogging/klogging-iosx64@0.7.3?classifier=sources
 - pkg:maven/io.klogging/klogging-iosx64@0.8.0?classifier=sources
 - pkg:maven/io.klogging/klogging-iosx64@0.9.0?classifier=sources

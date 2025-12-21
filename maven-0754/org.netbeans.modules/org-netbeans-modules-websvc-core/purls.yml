@@ -25,3 +25,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-core@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-core@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-core@RELEASE260?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-core@RELEASE270?classifier=sources

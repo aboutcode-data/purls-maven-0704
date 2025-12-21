@@ -8,3 +8,4 @@
 - pkg:maven/com.datastax.oss.quarkus/cassandra-quarkus-integration-tests-dse@1.2.0-alpha2
 - pkg:maven/com.datastax.oss.quarkus/cassandra-quarkus-integration-tests-dse@1.2.0-alpha2?classifier=sources
 - pkg:maven/com.datastax.oss.quarkus/cassandra-quarkus-integration-tests-dse@1.2.0?classifier=sources
+- pkg:maven/com.datastax.oss.quarkus/cassandra-quarkus-integration-tests-dse@1.3.0-rc1?classifier=sources

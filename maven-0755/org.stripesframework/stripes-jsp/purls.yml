@@ -6,3 +6,4 @@
 - pkg:maven/org.stripesframework/stripes-jsp@2.0.0-EAP-5?classifier=sources
 - pkg:maven/org.stripesframework/stripes-jsp@3.0.0-EAP-6?classifier=sources
 - pkg:maven/org.stripesframework/stripes-jsp@3.0.0-EAP-7?classifier=sources
+- pkg:maven/org.stripesframework/stripes-jsp@3.0.0-EAP-8?classifier=sources

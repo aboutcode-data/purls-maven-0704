@@ -1,5 +1,6 @@
 - pkg:maven/studio.lunabee.compose/lbcfoundation@1.0.0?classifier=sources
 - pkg:maven/studio.lunabee.compose/lbcfoundation@1.1.0?classifier=sources
+- pkg:maven/studio.lunabee.compose/lbcfoundation@1.10.0?classifier=sources
 - pkg:maven/studio.lunabee.compose/lbcfoundation@1.2.0?classifier=sources
 - pkg:maven/studio.lunabee.compose/lbcfoundation@1.4.0?classifier=sources
 - pkg:maven/studio.lunabee.compose/lbcfoundation@1.5.0-dev-329?classifier=sources

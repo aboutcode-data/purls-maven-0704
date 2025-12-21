@@ -35,3 +35,4 @@
 - pkg:maven/com.materialkolor/material-color-utilities-wasm-js@3.0.0-beta05?classifier=sources
 - pkg:maven/com.materialkolor/material-color-utilities-wasm-js@3.0.0-beta07?classifier=sources
 - pkg:maven/com.materialkolor/material-color-utilities-wasm-js@3.0.0?classifier=sources
+- pkg:maven/com.materialkolor/material-color-utilities-wasm-js@3.0.1?classifier=sources

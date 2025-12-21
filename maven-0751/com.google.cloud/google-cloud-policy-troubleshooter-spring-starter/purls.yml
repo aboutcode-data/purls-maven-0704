@@ -130,6 +130,8 @@
 - pkg:maven/com.google.cloud/google-cloud-policy-troubleshooter-spring-starter@5.12.3-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-policy-troubleshooter-spring-starter@5.13.0-preview
 - pkg:maven/com.google.cloud/google-cloud-policy-troubleshooter-spring-starter@5.13.0-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-policy-troubleshooter-spring-starter@5.13.1-preview
+- pkg:maven/com.google.cloud/google-cloud-policy-troubleshooter-spring-starter@5.13.1-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-policy-troubleshooter-spring-starter@5.2.0-preview
 - pkg:maven/com.google.cloud/google-cloud-policy-troubleshooter-spring-starter@5.2.0-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-policy-troubleshooter-spring-starter@5.2.1-preview
@@ -174,5 +176,9 @@
 - pkg:maven/com.google.cloud/google-cloud-policy-troubleshooter-spring-starter@6.2.3-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-policy-troubleshooter-spring-starter@6.3.0-preview
 - pkg:maven/com.google.cloud/google-cloud-policy-troubleshooter-spring-starter@6.3.0-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-policy-troubleshooter-spring-starter@6.3.1-preview
+- pkg:maven/com.google.cloud/google-cloud-policy-troubleshooter-spring-starter@6.3.1-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-policy-troubleshooter-spring-starter@7.0.0-preview
 - pkg:maven/com.google.cloud/google-cloud-policy-troubleshooter-spring-starter@7.0.0-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-policy-troubleshooter-spring-starter@7.1.0-preview
+- pkg:maven/com.google.cloud/google-cloud-policy-troubleshooter-spring-starter@7.1.0-preview?classifier=sources

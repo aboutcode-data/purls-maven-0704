@@ -145,3 +145,4 @@
 - pkg:maven/edu.hm.hafner/autograding-model@6.5.0
 - pkg:maven/edu.hm.hafner/autograding-model@6.5.0?classifier=sources
 - pkg:maven/edu.hm.hafner/autograding-model@7.0.0?classifier=sources
+- pkg:maven/edu.hm.hafner/autograding-model@7.1.0?classifier=sources

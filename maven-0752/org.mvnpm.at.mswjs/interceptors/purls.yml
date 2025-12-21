@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.mswjs/interceptors@0.39.5
+- pkg:maven/org.mvnpm.at.mswjs/interceptors@0.39.5?classifier=sources

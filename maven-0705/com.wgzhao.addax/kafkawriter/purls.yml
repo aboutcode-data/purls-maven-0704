@@ -16,3 +16,4 @@
 - pkg:maven/com.wgzhao.addax/kafkawriter@5.1.2?classifier=sources
 - pkg:maven/com.wgzhao.addax/kafkawriter@6.0.0?classifier=sources
 - pkg:maven/com.wgzhao.addax/kafkawriter@6.0.2?classifier=sources
+- pkg:maven/com.wgzhao.addax/kafkawriter@6.0.3?classifier=sources

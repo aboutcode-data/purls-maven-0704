@@ -1,0 +1,10 @@
+- pkg:maven/dev.mckelle/ravioli-views-api@0.9.3?classifier=sources
+- pkg:maven/dev.mckelle/ravioli-views-api@1.0.0?classifier=sources
+- pkg:maven/dev.mckelle/ravioli-views-api@1.0.11?classifier=sources
+- pkg:maven/dev.mckelle/ravioli-views-api@1.0.12?classifier=sources
+- pkg:maven/dev.mckelle/ravioli-views-api@1.0.13?classifier=sources
+- pkg:maven/dev.mckelle/ravioli-views-api@1.0.14?classifier=sources
+- pkg:maven/dev.mckelle/ravioli-views-api@1.0.1?classifier=sources
+- pkg:maven/dev.mckelle/ravioli-views-api@1.0.21?classifier=sources
+- pkg:maven/dev.mckelle/ravioli-views-api@1.0.22?classifier=sources
+- pkg:maven/dev.mckelle/ravioli-views-api@1.0.2?classifier=sources

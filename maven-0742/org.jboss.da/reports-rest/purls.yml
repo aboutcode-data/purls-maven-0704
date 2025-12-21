@@ -64,3 +64,4 @@
 - pkg:maven/org.jboss.da/reports-rest@2.6.5?type=war
 - pkg:maven/org.jboss.da/reports-rest@2.6.8?classifier=sources
 - pkg:maven/org.jboss.da/reports-rest@2.6.8?type=war
+- pkg:maven/org.jboss.da/reports-rest@2.6.9?classifier=sources

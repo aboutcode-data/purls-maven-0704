@@ -1,1 +1,2 @@
+- pkg:maven/io.github.gsrathoreniks/scratchify@1.0.0-alpha2?classifier=sources
 - pkg:maven/io.github.gsrathoreniks/scratchify@1.0.0-alpha?classifier=sources

@@ -151,3 +151,10 @@
 - pkg:maven/app.cash.backfila/client-misk-hibernate@2025.07.23.140020-050225a?classifier=sources
 - pkg:maven/app.cash.backfila/client-misk-hibernate@2025.07.23.173934-775d335?classifier=sources
 - pkg:maven/app.cash.backfila/client-misk-hibernate@2025.07.24.041611-fe2805d?classifier=sources
+- pkg:maven/app.cash.backfila/client-misk-hibernate@2025.07.28.193750-99c8949?classifier=sources
+- pkg:maven/app.cash.backfila/client-misk-hibernate@2025.07.29.140022-aff1b8a?classifier=sources
+- pkg:maven/app.cash.backfila/client-misk-hibernate@2025.07.29.142305-3186c23?classifier=sources
+- pkg:maven/app.cash.backfila/client-misk-hibernate@2025.07.30.212905-62fef5f?classifier=sources
+- pkg:maven/app.cash.backfila/client-misk-hibernate@2025.08.05.160339-9a99c21?classifier=sources
+- pkg:maven/app.cash.backfila/client-misk-hibernate@2025.08.11.145111-7a0dd85?classifier=sources
+- pkg:maven/app.cash.backfila/client-misk-hibernate@2025.08.14.163215-db8d186?classifier=sources

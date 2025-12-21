@@ -5,6 +5,9 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-process-archive-domain@8.14.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-process-archive-domain@8.15.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-process-archive-domain@8.16.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-process-archive-domain@8.17.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-process-archive-domain@8.18.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-process-archive-domain@8.19.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-process-archive-domain@8.4.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-process-archive-domain@8.5.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-process-archive-domain@8.6.0?classifier=sources

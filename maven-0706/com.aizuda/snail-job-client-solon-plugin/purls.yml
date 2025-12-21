@@ -1,1 +1,2 @@
 - pkg:maven/com.aizuda/snail-job-client-solon-plugin@1.0.0-solon?classifier=sources
+- pkg:maven/com.aizuda/snail-job-client-solon-plugin@1.7.0-solon?classifier=sources

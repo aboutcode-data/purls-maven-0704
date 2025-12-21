@@ -42,3 +42,5 @@
 - pkg:maven/dev.soundness/telekinesis-core@0.38.0?classifier=sources
 - pkg:maven/dev.soundness/telekinesis-core@0.39.0
 - pkg:maven/dev.soundness/telekinesis-core@0.39.0?classifier=sources
+- pkg:maven/dev.soundness/telekinesis-core@0.40.0
+- pkg:maven/dev.soundness/telekinesis-core@0.40.0?classifier=sources

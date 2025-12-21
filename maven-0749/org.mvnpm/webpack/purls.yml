@@ -8,6 +8,14 @@
 - pkg:maven/org.mvnpm/webpack@5.100.1?classifier=sources
 - pkg:maven/org.mvnpm/webpack@5.100.2
 - pkg:maven/org.mvnpm/webpack@5.100.2?classifier=sources
+- pkg:maven/org.mvnpm/webpack@5.101.0
+- pkg:maven/org.mvnpm/webpack@5.101.0?classifier=sources
+- pkg:maven/org.mvnpm/webpack@5.101.1
+- pkg:maven/org.mvnpm/webpack@5.101.1?classifier=sources
+- pkg:maven/org.mvnpm/webpack@5.101.2
+- pkg:maven/org.mvnpm/webpack@5.101.2?classifier=sources
+- pkg:maven/org.mvnpm/webpack@5.101.3
+- pkg:maven/org.mvnpm/webpack@5.101.3?classifier=sources
 - pkg:maven/org.mvnpm/webpack@5.93.0?classifier=sources
 - pkg:maven/org.mvnpm/webpack@5.97.1?classifier=sources
 - pkg:maven/org.mvnpm/webpack@5.98.0?classifier=sources

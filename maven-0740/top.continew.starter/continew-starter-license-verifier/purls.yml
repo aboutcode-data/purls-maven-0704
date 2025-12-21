@@ -2,3 +2,4 @@
 - pkg:maven/top.continew.starter/continew-starter-license-verifier@2.13.1?classifier=sources
 - pkg:maven/top.continew.starter/continew-starter-license-verifier@2.13.2?classifier=sources
 - pkg:maven/top.continew.starter/continew-starter-license-verifier@2.13.3?classifier=sources
+- pkg:maven/top.continew.starter/continew-starter-license-verifier@2.13.4?classifier=sources

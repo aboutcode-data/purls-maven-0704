@@ -1,1 +1,2 @@
 - pkg:maven/com.matthiashennemeyer/compose-webview-multiplatform-iosarm64@1.0.2?classifier=sources
+- pkg:maven/com.matthiashennemeyer/compose-webview-multiplatform-iosarm64@1.0.3?classifier=sources

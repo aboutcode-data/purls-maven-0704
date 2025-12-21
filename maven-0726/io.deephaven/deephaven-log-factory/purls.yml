@@ -73,3 +73,4 @@
 - pkg:maven/io.deephaven/deephaven-log-factory@0.39.3?classifier=sources
 - pkg:maven/io.deephaven/deephaven-log-factory@0.39.4?classifier=sources
 - pkg:maven/io.deephaven/deephaven-log-factory@0.39.5?classifier=sources
+- pkg:maven/io.deephaven/deephaven-log-factory@0.39.6?classifier=sources

@@ -320,6 +320,7 @@
 - pkg:maven/io.quarkus.qe/quarkus-test-kubernetes@1.6.2
 - pkg:maven/io.quarkus.qe/quarkus-test-kubernetes@1.6.2?classifier=sources
 - pkg:maven/io.quarkus.qe/quarkus-test-kubernetes@1.6.3?classifier=sources
+- pkg:maven/io.quarkus.qe/quarkus-test-kubernetes@1.6.4?classifier=sources
 - pkg:maven/io.quarkus.qe/quarkus-test-kubernetes@1.7.0.Beta0
 - pkg:maven/io.quarkus.qe/quarkus-test-kubernetes@1.7.0.Beta0?classifier=sources
 - pkg:maven/io.quarkus.qe/quarkus-test-kubernetes@1.7.0.Beta1?classifier=sources

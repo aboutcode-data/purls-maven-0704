@@ -10,3 +10,5 @@
 - pkg:maven/dev.patrickgold.jetpref/jetpref-material-ui@0.2.0-rc03?classifier=sources
 - pkg:maven/dev.patrickgold.jetpref/jetpref-material-ui@0.2.0-rc04?classifier=sources
 - pkg:maven/dev.patrickgold.jetpref/jetpref-material-ui@0.2.0?classifier=sources
+- pkg:maven/dev.patrickgold.jetpref/jetpref-material-ui@0.3.0-beta01?classifier=sources
+- pkg:maven/dev.patrickgold.jetpref/jetpref-material-ui@0.3.0-beta02?classifier=sources

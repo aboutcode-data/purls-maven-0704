@@ -1,1 +1,2 @@
 - pkg:maven/org.sunbird.obsrv.connector/connector-sdk-flink@1.0.0?classifier=sources
+- pkg:maven/org.sunbird.obsrv.connector/connector-sdk-flink@2.0.0?classifier=sources

@@ -330,6 +330,8 @@
 - pkg:maven/com.vaadin/vaadin-gradle-plugin@23.5.9
 - pkg:maven/com.vaadin/vaadin-gradle-plugin@23.5.9?classifier=sources
 - pkg:maven/com.vaadin/vaadin-gradle-plugin@23.6.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-gradle-plugin@23.6.1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-gradle-plugin@23.6.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-gradle-plugin@24.0.0
 - pkg:maven/com.vaadin/vaadin-gradle-plugin@24.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-gradle-plugin@24.0.1
@@ -585,3 +587,5 @@
 - pkg:maven/com.vaadin/vaadin-gradle-plugin@24.8.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-gradle-plugin@24.8.3?classifier=sources
 - pkg:maven/com.vaadin/vaadin-gradle-plugin@24.8.4?classifier=sources
+- pkg:maven/com.vaadin/vaadin-gradle-plugin@24.8.5?classifier=sources
+- pkg:maven/com.vaadin/vaadin-gradle-plugin@24.8.6?classifier=sources

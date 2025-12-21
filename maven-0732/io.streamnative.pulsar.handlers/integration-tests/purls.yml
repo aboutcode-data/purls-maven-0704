@@ -18,6 +18,7 @@
 - pkg:maven/io.streamnative.pulsar.handlers/integration-tests@3.3.3.4?classifier=sources
 - pkg:maven/io.streamnative.pulsar.handlers/integration-tests@3.3.5.1
 - pkg:maven/io.streamnative.pulsar.handlers/integration-tests@3.3.5.10?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/integration-tests@3.3.5.11?classifier=sources
 - pkg:maven/io.streamnative.pulsar.handlers/integration-tests@3.3.5.1?classifier=sources
 - pkg:maven/io.streamnative.pulsar.handlers/integration-tests@3.3.5.2
 - pkg:maven/io.streamnative.pulsar.handlers/integration-tests@3.3.5.2?classifier=sources
@@ -70,3 +71,6 @@
 - pkg:maven/io.streamnative.pulsar.handlers/integration-tests@4.0.5.2?classifier=sources
 - pkg:maven/io.streamnative.pulsar.handlers/integration-tests@4.0.5.3?classifier=sources
 - pkg:maven/io.streamnative.pulsar.handlers/integration-tests@4.0.5.4?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/integration-tests@4.0.5.5?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/integration-tests@4.0.6.1?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/integration-tests@4.0.6.2?classifier=sources

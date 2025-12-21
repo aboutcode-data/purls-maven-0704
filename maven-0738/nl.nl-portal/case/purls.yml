@@ -10,3 +10,4 @@
 - pkg:maven/nl.nl-portal/case@1.6.0?classifier=sources
 - pkg:maven/nl.nl-portal/case@2.0.0?classifier=sources
 - pkg:maven/nl.nl-portal/case@2.0.1?classifier=sources
+- pkg:maven/nl.nl-portal/case@2.0.2?classifier=sources

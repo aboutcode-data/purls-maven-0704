@@ -1,1 +1,2 @@
 - pkg:maven/io.github.opentelekomcloud/opentelekomcloud-functiongraph-java-samples-events-dds@0.0.4-beta?classifier=sources
+- pkg:maven/io.github.opentelekomcloud/opentelekomcloud-functiongraph-java-samples-events-dds@0.0.5-beta?classifier=sources

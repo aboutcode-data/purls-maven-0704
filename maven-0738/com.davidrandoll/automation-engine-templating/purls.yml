@@ -1,2 +1,3 @@
 - pkg:maven/com.davidrandoll/automation-engine-templating@0.0.1-beta?classifier=sources
 - pkg:maven/com.davidrandoll/automation-engine-templating@1.0.0?classifier=sources
+- pkg:maven/com.davidrandoll/automation-engine-templating@1.2.0?classifier=sources

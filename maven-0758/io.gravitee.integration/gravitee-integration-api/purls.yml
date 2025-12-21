@@ -46,3 +46,4 @@
 - pkg:maven/io.gravitee.integration/gravitee-integration-api@4.1.0?classifier=sources
 - pkg:maven/io.gravitee.integration/gravitee-integration-api@5.0.0
 - pkg:maven/io.gravitee.integration/gravitee-integration-api@5.0.0?classifier=sources
+- pkg:maven/io.gravitee.integration/gravitee-integration-api@5.1.0?classifier=sources

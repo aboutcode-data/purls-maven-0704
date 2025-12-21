@@ -1,3 +1,4 @@
 - pkg:maven/com.tmatesoft.svnkit/svnkit@1.10.11
 - pkg:maven/com.tmatesoft.svnkit/svnkit@1.10.11?classifier=sources
 - pkg:maven/com.tmatesoft.svnkit/svnkit@1.10.12?classifier=sources
+- pkg:maven/com.tmatesoft.svnkit/svnkit@1.10.13?classifier=sources

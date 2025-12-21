@@ -276,6 +276,10 @@
 - pkg:maven/com.cognite.spark.datasource/cdf-spark-datasource-fatjar_2.13@3.21.1182?classifier=sources
 - pkg:maven/com.cognite.spark.datasource/cdf-spark-datasource-fatjar_2.13@3.21.1183
 - pkg:maven/com.cognite.spark.datasource/cdf-spark-datasource-fatjar_2.13@3.21.1183?classifier=sources
+- pkg:maven/com.cognite.spark.datasource/cdf-spark-datasource-fatjar_2.13@3.21.1189
+- pkg:maven/com.cognite.spark.datasource/cdf-spark-datasource-fatjar_2.13@3.21.1189?classifier=sources
+- pkg:maven/com.cognite.spark.datasource/cdf-spark-datasource-fatjar_2.13@3.21.1190
+- pkg:maven/com.cognite.spark.datasource/cdf-spark-datasource-fatjar_2.13@3.21.1190?classifier=sources
 - pkg:maven/com.cognite.spark.datasource/cdf-spark-datasource-fatjar_2.13@3.3.1050
 - pkg:maven/com.cognite.spark.datasource/cdf-spark-datasource-fatjar_2.13@3.3.1050?classifier=sources
 - pkg:maven/com.cognite.spark.datasource/cdf-spark-datasource-fatjar_2.13@3.4.1051

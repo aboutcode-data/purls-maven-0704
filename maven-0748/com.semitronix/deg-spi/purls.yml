@@ -1,0 +1,2 @@
+- pkg:maven/com.semitronix/deg-spi@7.1?classifier=sources
+- pkg:maven/com.semitronix/deg-spi@7.2?classifier=sources

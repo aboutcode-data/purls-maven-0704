@@ -24,3 +24,4 @@
 - pkg:maven/io.github.smyrgeorge/actor4k-iosarm64@0.73.0?classifier=sources
 - pkg:maven/io.github.smyrgeorge/actor4k-iosarm64@0.75.0?classifier=sources
 - pkg:maven/io.github.smyrgeorge/actor4k-iosarm64@0.76.0?classifier=sources
+- pkg:maven/io.github.smyrgeorge/actor4k-iosarm64@0.80.0?classifier=sources

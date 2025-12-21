@@ -76,3 +76,5 @@
 - pkg:maven/org.apache.deltaspike/checkstyle-rules@1.9.6?classifier=sources
 - pkg:maven/org.apache.deltaspike/checkstyle-rules@2.0.0
 - pkg:maven/org.apache.deltaspike/checkstyle-rules@2.0.0?classifier=sources
+- pkg:maven/org.apache.deltaspike/checkstyle-rules@2.0.1
+- pkg:maven/org.apache.deltaspike/checkstyle-rules@2.0.1?classifier=sources

@@ -45,3 +45,5 @@
 - pkg:maven/com.yandex.ads.mediation/mobileads-ironsource@8.8.0.1?classifier=sources
 - pkg:maven/com.yandex.ads.mediation/mobileads-ironsource@8.8.0.2?classifier=sources
 - pkg:maven/com.yandex.ads.mediation/mobileads-ironsource@8.8.0.3?classifier=sources
+- pkg:maven/com.yandex.ads.mediation/mobileads-ironsource@8.8.0.4?classifier=sources
+- pkg:maven/com.yandex.ads.mediation/mobileads-ironsource@8.8.0.5?classifier=sources

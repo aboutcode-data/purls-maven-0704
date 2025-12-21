@@ -1,1 +1,2 @@
 - pkg:maven/org.talend.sdk.component/databasemapping@1.83.0?classifier=sources
+- pkg:maven/org.talend.sdk.component/databasemapping@1.84.0?classifier=sources

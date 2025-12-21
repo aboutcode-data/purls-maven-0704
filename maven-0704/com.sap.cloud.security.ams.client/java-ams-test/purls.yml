@@ -32,3 +32,5 @@
 - pkg:maven/com.sap.cloud.security.ams.client/java-ams-test@2.7.0?classifier=sources
 - pkg:maven/com.sap.cloud.security.ams.client/java-ams-test@3.3.0
 - pkg:maven/com.sap.cloud.security.ams.client/java-ams-test@3.3.0?classifier=sources
+- pkg:maven/com.sap.cloud.security.ams.client/java-ams-test@3.4.0
+- pkg:maven/com.sap.cloud.security.ams.client/java-ams-test@3.4.0?classifier=sources

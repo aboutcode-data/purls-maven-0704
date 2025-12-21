@@ -6,3 +6,6 @@
 - pkg:maven/de.codelix.commandapi/core@2.2.7?classifier=sources
 - pkg:maven/de.codelix.commandapi/core@2.2.8?classifier=sources
 - pkg:maven/de.codelix.commandapi/core@4.0.0?classifier=sources
+- pkg:maven/de.codelix.commandapi/core@4.1.0?classifier=sources
+- pkg:maven/de.codelix.commandapi/core@4.2.0?classifier=sources
+- pkg:maven/de.codelix.commandapi/core@4.3.0?classifier=sources

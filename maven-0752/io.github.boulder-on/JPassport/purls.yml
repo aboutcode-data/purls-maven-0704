@@ -2,3 +2,5 @@
 - pkg:maven/io.github.boulder-on/JPassport@1.0.0-22?classifier=sources
 - pkg:maven/io.github.boulder-on/JPassport@1.0.1-22
 - pkg:maven/io.github.boulder-on/JPassport@1.0.1-22?classifier=sources
+- pkg:maven/io.github.boulder-on/JPassport@1.1.0-24
+- pkg:maven/io.github.boulder-on/JPassport@1.1.0-24?classifier=sources

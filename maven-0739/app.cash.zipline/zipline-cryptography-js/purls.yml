@@ -13,4 +13,5 @@
 - pkg:maven/app.cash.zipline/zipline-cryptography-js@1.20.1?classifier=sources
 - pkg:maven/app.cash.zipline/zipline-cryptography-js@1.21.0?classifier=sources
 - pkg:maven/app.cash.zipline/zipline-cryptography-js@1.21.1?classifier=sources
+- pkg:maven/app.cash.zipline/zipline-cryptography-js@1.22.0?classifier=sources
 - pkg:maven/app.cash.zipline/zipline-cryptography-js@1.9.0?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/com.azure/azure-monitor-query-logs@1.0.0?classifier=sources

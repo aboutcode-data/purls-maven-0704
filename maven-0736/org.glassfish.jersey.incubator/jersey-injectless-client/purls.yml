@@ -38,6 +38,7 @@
 - pkg:maven/org.glassfish.jersey.incubator/jersey-injectless-client@3.0.18?classifier=sources
 - pkg:maven/org.glassfish.jersey.incubator/jersey-injectless-client@3.1.10
 - pkg:maven/org.glassfish.jersey.incubator/jersey-injectless-client@3.1.10?classifier=sources
+- pkg:maven/org.glassfish.jersey.incubator/jersey-injectless-client@3.1.11?classifier=sources
 - pkg:maven/org.glassfish.jersey.incubator/jersey-injectless-client@3.1.2
 - pkg:maven/org.glassfish.jersey.incubator/jersey-injectless-client@3.1.2?classifier=sources
 - pkg:maven/org.glassfish.jersey.incubator/jersey-injectless-client@3.1.3

@@ -1,0 +1,2 @@
+- pkg:maven/org.qubership.atp.mia/atp-mia-distribution@2.0.62?classifier=sources
+- pkg:maven/org.qubership.atp.mia/atp-mia-distribution@2.0.63?classifier=sources

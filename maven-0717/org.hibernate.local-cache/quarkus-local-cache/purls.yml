@@ -1,0 +1,1 @@
+- pkg:maven/org.hibernate.local-cache/quarkus-local-cache@0.4.0?classifier=sources
