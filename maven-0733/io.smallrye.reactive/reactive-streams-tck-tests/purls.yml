@@ -44,3 +44,4 @@
 - pkg:maven/io.smallrye.reactive/reactive-streams-tck-tests@2.9.2?classifier=sources
 - pkg:maven/io.smallrye.reactive/reactive-streams-tck-tests@2.9.3?classifier=sources
 - pkg:maven/io.smallrye.reactive/reactive-streams-tck-tests@2.9.4?classifier=sources
+- pkg:maven/io.smallrye.reactive/reactive-streams-tck-tests@3.0.0?classifier=sources

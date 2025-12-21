@@ -12,3 +12,4 @@
 - pkg:maven/com.squareup.okhttp3/okhttp-coroutines@5.0.0-alpha.9?classifier=sources
 - pkg:maven/com.squareup.okhttp3/okhttp-coroutines@5.0.0?classifier=sources
 - pkg:maven/com.squareup.okhttp3/okhttp-coroutines@5.1.0?classifier=sources
+- pkg:maven/com.squareup.okhttp3/okhttp-coroutines@5.2.0?classifier=sources

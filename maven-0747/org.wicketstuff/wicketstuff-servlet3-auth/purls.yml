@@ -17,6 +17,7 @@
 - pkg:maven/org.wicketstuff/wicketstuff-servlet3-auth@10.5.0
 - pkg:maven/org.wicketstuff/wicketstuff-servlet3-auth@10.5.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-servlet3-auth@10.6.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-servlet3-auth@10.7.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-servlet3-auth@6.15.0
 - pkg:maven/org.wicketstuff/wicketstuff-servlet3-auth@6.15.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-servlet3-auth@6.16.0

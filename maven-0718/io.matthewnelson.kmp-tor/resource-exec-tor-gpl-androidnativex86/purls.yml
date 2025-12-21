@@ -1,2 +1,3 @@
 - pkg:maven/io.matthewnelson.kmp-tor/resource-exec-tor-gpl-androidnativex86@408.16.4?classifier=sources
 - pkg:maven/io.matthewnelson.kmp-tor/resource-exec-tor-gpl-androidnativex86@408.17.0?classifier=sources
+- pkg:maven/io.matthewnelson.kmp-tor/resource-exec-tor-gpl-androidnativex86@408.17.1?classifier=sources

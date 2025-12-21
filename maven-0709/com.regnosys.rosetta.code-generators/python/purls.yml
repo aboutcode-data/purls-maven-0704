@@ -310,5 +310,16 @@
 - pkg:maven/com.regnosys.rosetta.code-generators/python@11.80.1?classifier=sources
 - pkg:maven/com.regnosys.rosetta.code-generators/python@11.80.2?classifier=sources
 - pkg:maven/com.regnosys.rosetta.code-generators/python@11.81.0?classifier=sources
+- pkg:maven/com.regnosys.rosetta.code-generators/python@11.81.1?classifier=sources
+- pkg:maven/com.regnosys.rosetta.code-generators/python@11.82.0?classifier=sources
+- pkg:maven/com.regnosys.rosetta.code-generators/python@11.82.1?classifier=sources
+- pkg:maven/com.regnosys.rosetta.code-generators/python@11.82.2?classifier=sources
+- pkg:maven/com.regnosys.rosetta.code-generators/python@11.82.5?classifier=sources
+- pkg:maven/com.regnosys.rosetta.code-generators/python@11.83.0?classifier=sources
+- pkg:maven/com.regnosys.rosetta.code-generators/python@11.84.0?classifier=sources
+- pkg:maven/com.regnosys.rosetta.code-generators/python@11.85.0?classifier=sources
+- pkg:maven/com.regnosys.rosetta.code-generators/python@11.85.1?classifier=sources
+- pkg:maven/com.regnosys.rosetta.code-generators/python@11.85.2?classifier=sources
+- pkg:maven/com.regnosys.rosetta.code-generators/python@11.86.0?classifier=sources
 - pkg:maven/com.regnosys.rosetta.code-generators/python@11.9.0
 - pkg:maven/com.regnosys.rosetta.code-generators/python@11.9.0?classifier=sources

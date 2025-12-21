@@ -31,3 +31,4 @@
 - pkg:maven/org.webjars.npm/uppy__dropbox@3.1.4?classifier=sources
 - pkg:maven/org.webjars.npm/uppy__dropbox@4.1.1
 - pkg:maven/org.webjars.npm/uppy__dropbox@4.2.3
+- pkg:maven/org.webjars.npm/uppy__dropbox@5.0.0

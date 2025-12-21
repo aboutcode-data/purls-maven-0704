@@ -19,7 +19,9 @@
 - pkg:maven/io.streamnative.connectors/pulsar-spark-connector_2.12@3.4.0.2
 - pkg:maven/io.streamnative.connectors/pulsar-spark-connector_2.12@3.4.0.2?classifier=sources
 - pkg:maven/io.streamnative.connectors/pulsar-spark-connector_2.12@3.4.0.3
+- pkg:maven/io.streamnative.connectors/pulsar-spark-connector_2.12@3.4.0.3-p2?classifier=sources
 - pkg:maven/io.streamnative.connectors/pulsar-spark-connector_2.12@3.4.0.3?classifier=sources
 - pkg:maven/io.streamnative.connectors/pulsar-spark-connector_2.12@3.4.0.4
 - pkg:maven/io.streamnative.connectors/pulsar-spark-connector_2.12@3.4.0.4-datalossfix?classifier=sources
+- pkg:maven/io.streamnative.connectors/pulsar-spark-connector_2.12@3.4.0.4-p2?classifier=sources
 - pkg:maven/io.streamnative.connectors/pulsar-spark-connector_2.12@3.4.0.4?classifier=sources

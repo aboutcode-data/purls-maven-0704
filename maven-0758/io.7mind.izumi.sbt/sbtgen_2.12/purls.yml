@@ -12,6 +12,8 @@
 - pkg:maven/io.7mind.izumi.sbt/sbtgen_2.12@0.0.107?classifier=sources
 - pkg:maven/io.7mind.izumi.sbt/sbtgen_2.12@0.0.108
 - pkg:maven/io.7mind.izumi.sbt/sbtgen_2.12@0.0.108?classifier=sources
+- pkg:maven/io.7mind.izumi.sbt/sbtgen_2.12@0.0.109
+- pkg:maven/io.7mind.izumi.sbt/sbtgen_2.12@0.0.109?classifier=sources
 - pkg:maven/io.7mind.izumi.sbt/sbtgen_2.12@0.0.11
 - pkg:maven/io.7mind.izumi.sbt/sbtgen_2.12@0.0.11?classifier=sources
 - pkg:maven/io.7mind.izumi.sbt/sbtgen_2.12@0.0.12

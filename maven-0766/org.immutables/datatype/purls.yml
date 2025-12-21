@@ -1,3 +1,4 @@
 - pkg:maven/org.immutables/datatype@2.11.1?classifier=sources
 - pkg:maven/org.immutables/datatype@2.11.2?classifier=sources
 - pkg:maven/org.immutables/datatype@2.11.3?classifier=sources
+- pkg:maven/org.immutables/datatype@2.11.4?classifier=sources

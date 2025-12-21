@@ -8,3 +8,5 @@
 - pkg:maven/com.test-steps.thekla4j/thekla4j-websocket@1.5.0?classifier=sources
 - pkg:maven/com.test-steps.thekla4j/thekla4j-websocket@1.6.0?classifier=sources
 - pkg:maven/com.test-steps.thekla4j/thekla4j-websocket@1.7.0?classifier=sources
+- pkg:maven/com.test-steps.thekla4j/thekla4j-websocket@v2.0.0?classifier=sources
+- pkg:maven/com.test-steps.thekla4j/thekla4j-websocket@v2.0.1?classifier=sources

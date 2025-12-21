@@ -1,0 +1,4 @@
+- pkg:maven/org.allaymc.stateupdater/item-updater@1.21.100-R2?classifier=sources
+- pkg:maven/org.allaymc.stateupdater/item-updater@1.21.100-R3?classifier=sources
+- pkg:maven/org.allaymc.stateupdater/item-updater@1.21.100?classifier=sources
+- pkg:maven/org.allaymc.stateupdater/item-updater@1.21.110-R1?classifier=sources

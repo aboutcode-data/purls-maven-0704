@@ -101,6 +101,7 @@
 - pkg:maven/cn.rongcloud.sdk/voice_beautifier@5.22.0?type=aar
 - pkg:maven/cn.rongcloud.sdk/voice_beautifier@5.24.0?type=aar
 - pkg:maven/cn.rongcloud.sdk/voice_beautifier@5.26.0?type=aar
+- pkg:maven/cn.rongcloud.sdk/voice_beautifier@5.28.0?type=aar
 - pkg:maven/cn.rongcloud.sdk/voice_beautifier@5.3.4.1?type=aar
 - pkg:maven/cn.rongcloud.sdk/voice_beautifier@5.3.4?type=aar
 - pkg:maven/cn.rongcloud.sdk/voice_beautifier@5.3.5.1?type=aar

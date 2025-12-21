@@ -101,7 +101,11 @@
 - pkg:maven/io.spinnaker.echo/echo-rest@2025.1.3?classifier=sources
 - pkg:maven/io.spinnaker.echo/echo-rest@2025.1.4?classifier=sources
 - pkg:maven/io.spinnaker.echo/echo-rest@2025.2-0?classifier=sources
+- pkg:maven/io.spinnaker.echo/echo-rest@2025.2-1?classifier=sources
+- pkg:maven/io.spinnaker.echo/echo-rest@2025.2-2?classifier=sources
 - pkg:maven/io.spinnaker.echo/echo-rest@2025.2.0?classifier=sources
+- pkg:maven/io.spinnaker.echo/echo-rest@2025.2.1?classifier=sources
+- pkg:maven/io.spinnaker.echo/echo-rest@2025.2.2?classifier=sources
 - pkg:maven/io.spinnaker.echo/echo-rest@main-10?classifier=sources
 - pkg:maven/io.spinnaker.echo/echo-rest@main-11?classifier=sources
 - pkg:maven/io.spinnaker.echo/echo-rest@main-12?classifier=sources
@@ -170,5 +174,12 @@
 - pkg:maven/io.spinnaker.echo/echo-rest@main-78?classifier=sources
 - pkg:maven/io.spinnaker.echo/echo-rest@main-79?classifier=sources
 - pkg:maven/io.spinnaker.echo/echo-rest@main-7?classifier=sources
+- pkg:maven/io.spinnaker.echo/echo-rest@main-80?classifier=sources
+- pkg:maven/io.spinnaker.echo/echo-rest@main-81?classifier=sources
+- pkg:maven/io.spinnaker.echo/echo-rest@main-84?classifier=sources
+- pkg:maven/io.spinnaker.echo/echo-rest@main-85?classifier=sources
+- pkg:maven/io.spinnaker.echo/echo-rest@main-86?classifier=sources
+- pkg:maven/io.spinnaker.echo/echo-rest@main-87?classifier=sources
+- pkg:maven/io.spinnaker.echo/echo-rest@main-88?classifier=sources
 - pkg:maven/io.spinnaker.echo/echo-rest@main-8?classifier=sources
 - pkg:maven/io.spinnaker.echo/echo-rest@main-9?classifier=sources

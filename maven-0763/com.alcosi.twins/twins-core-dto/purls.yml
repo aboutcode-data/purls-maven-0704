@@ -1,0 +1,14 @@
+- pkg:maven/com.alcosi.twins/twins-core-dto@1.3.411
+- pkg:maven/com.alcosi.twins/twins-core-dto@1.3.411?classifier=sources
+- pkg:maven/com.alcosi.twins/twins-core-dto@1.3.421
+- pkg:maven/com.alcosi.twins/twins-core-dto@1.3.421?classifier=sources
+- pkg:maven/com.alcosi.twins/twins-core-dto@1.3.422
+- pkg:maven/com.alcosi.twins/twins-core-dto@1.3.422?classifier=sources
+- pkg:maven/com.alcosi.twins/twins-core-dto@1.3.423
+- pkg:maven/com.alcosi.twins/twins-core-dto@1.3.423?classifier=sources
+- pkg:maven/com.alcosi.twins/twins-core-dto@1.3.426
+- pkg:maven/com.alcosi.twins/twins-core-dto@1.3.426?classifier=sources
+- pkg:maven/com.alcosi.twins/twins-core-dto@1.3.427
+- pkg:maven/com.alcosi.twins/twins-core-dto@1.3.427?classifier=sources
+- pkg:maven/com.alcosi.twins/twins-core-dto@1.3.430
+- pkg:maven/com.alcosi.twins/twins-core-dto@1.3.430?classifier=sources

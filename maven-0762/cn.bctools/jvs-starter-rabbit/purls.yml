@@ -2,3 +2,4 @@
 - pkg:maven/cn.bctools/jvs-starter-rabbit@1.0.0?classifier=sources
 - pkg:maven/cn.bctools/jvs-starter-rabbit@1.1.0
 - pkg:maven/cn.bctools/jvs-starter-rabbit@1.1.0?classifier=sources
+- pkg:maven/cn.bctools/jvs-starter-rabbit@2.1.0?classifier=sources

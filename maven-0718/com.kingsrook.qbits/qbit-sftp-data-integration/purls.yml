@@ -1,0 +1,4 @@
+- pkg:maven/com.kingsrook.qbits/qbit-sftp-data-integration@0.2.0-RC.1?classifier=sources
+- pkg:maven/com.kingsrook.qbits/qbit-sftp-data-integration@0.2.1?classifier=sources
+- pkg:maven/com.kingsrook.qbits/qbit-sftp-data-integration@0.2.2?classifier=sources
+- pkg:maven/com.kingsrook.qbits/qbit-sftp-data-integration@v0.2.1?classifier=sources

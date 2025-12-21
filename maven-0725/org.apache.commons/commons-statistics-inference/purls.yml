@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.commons/commons-statistics-inference@1.1?classifier=sources
+- pkg:maven/org.apache.commons/commons-statistics-inference@1.2?classifier=sources

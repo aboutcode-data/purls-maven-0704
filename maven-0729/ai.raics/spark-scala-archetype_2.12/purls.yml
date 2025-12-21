@@ -1,0 +1,2 @@
+- pkg:maven/ai.raics/spark-scala-archetype_2.12@3.5.5_1.0.0?classifier=sources
+- pkg:maven/ai.raics/spark-scala-archetype_2.12@3.5.6_1.0.0?classifier=sources

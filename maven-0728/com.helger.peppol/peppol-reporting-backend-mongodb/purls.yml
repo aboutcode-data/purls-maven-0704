@@ -35,3 +35,4 @@
 - pkg:maven/com.helger.peppol/peppol-reporting-backend-mongodb@3.1.0
 - pkg:maven/com.helger.peppol/peppol-reporting-backend-mongodb@3.1.0?classifier=sources
 - pkg:maven/com.helger.peppol/peppol-reporting-backend-mongodb@4.0.0?classifier=sources
+- pkg:maven/com.helger.peppol/peppol-reporting-backend-mongodb@4.0.1?classifier=sources

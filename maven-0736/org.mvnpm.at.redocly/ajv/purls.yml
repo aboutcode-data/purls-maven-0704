@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm.at.redocly/ajv@8.11.2
 - pkg:maven/org.mvnpm.at.redocly/ajv@8.11.2?classifier=sources
+- pkg:maven/org.mvnpm.at.redocly/ajv@8.11.3
+- pkg:maven/org.mvnpm.at.redocly/ajv@8.11.3?classifier=sources

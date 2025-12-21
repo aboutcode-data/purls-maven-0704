@@ -17,6 +17,7 @@
 - pkg:maven/org.wicketstuff/wicket-mount-core@10.5.0
 - pkg:maven/org.wicketstuff/wicket-mount-core@10.5.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicket-mount-core@10.6.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicket-mount-core@10.7.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicket-mount-core@6.15.0
 - pkg:maven/org.wicketstuff/wicket-mount-core@6.15.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicket-mount-core@6.16.0

@@ -1,6 +1,8 @@
 - pkg:maven/com.gitee.melin/bee@1.9.10?classifier=sources
 - pkg:maven/com.gitee.melin/bee@1.9.11?classifier=sources
 - pkg:maven/com.gitee.melin/bee@1.9.12?classifier=sources
+- pkg:maven/com.gitee.melin/bee@1.9.13?classifier=sources
+- pkg:maven/com.gitee.melin/bee@1.9.14?classifier=sources
 - pkg:maven/com.gitee.melin/bee@1.9.7?classifier=sources
 - pkg:maven/com.gitee.melin/bee@1.9.8?classifier=sources
 - pkg:maven/com.gitee.melin/bee@1.9.9?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.moesif.filter/moesif-play-filter_2.12@1.18.0
 - pkg:maven/com.moesif.filter/moesif-play-filter_2.12@1.18.0?classifier=sources
+- pkg:maven/com.moesif.filter/moesif-play-filter_2.12@1.19.0
+- pkg:maven/com.moesif.filter/moesif-play-filter_2.12@1.19.0?classifier=sources

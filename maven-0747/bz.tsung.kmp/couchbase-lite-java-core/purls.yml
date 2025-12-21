@@ -1,0 +1,2 @@
+- pkg:maven/bz.tsung.kmp/couchbase-lite-java-core@1.4.4?classifier=sources
+- pkg:maven/bz.tsung.kmp/couchbase-lite-java-core@1.4.5?classifier=sources

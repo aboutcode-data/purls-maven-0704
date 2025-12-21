@@ -19,3 +19,4 @@
 - pkg:maven/com.evervault.sdk/evervault-inputs@1.8.0?classifier=sources
 - pkg:maven/com.evervault.sdk/evervault-inputs@1.9.0?classifier=sources
 - pkg:maven/com.evervault.sdk/evervault-inputs@2.0.0?classifier=sources
+- pkg:maven/com.evervault.sdk/evervault-inputs@2.1.1?classifier=sources

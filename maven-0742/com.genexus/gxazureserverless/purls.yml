@@ -1,3 +1,4 @@
+- pkg:maven/com.genexus/gxazureserverless@4.10.0?classifier=sources
 - pkg:maven/com.genexus/gxazureserverless@4.8.0
 - pkg:maven/com.genexus/gxazureserverless@4.8.0?classifier=sources
 - pkg:maven/com.genexus/gxazureserverless@4.8.1

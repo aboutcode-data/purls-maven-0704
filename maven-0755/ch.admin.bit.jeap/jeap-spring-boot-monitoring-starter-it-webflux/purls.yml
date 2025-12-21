@@ -35,3 +35,4 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-spring-boot-monitoring-starter-it-webflux@17.42.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-spring-boot-monitoring-starter-it-webflux@17.43.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-spring-boot-monitoring-starter-it-webflux@18.0.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-spring-boot-monitoring-starter-it-webflux@18.1.0?classifier=sources

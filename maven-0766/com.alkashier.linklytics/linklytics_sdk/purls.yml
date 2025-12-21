@@ -1,0 +1,10 @@
+- pkg:maven/com.alkashier.linklytics/linklytics_sdk@1.0.0?classifier=sources
+- pkg:maven/com.alkashier.linklytics/linklytics_sdk@1.0.1?classifier=sources
+- pkg:maven/com.alkashier.linklytics/linklytics_sdk@1.0.2?classifier=sources
+- pkg:maven/com.alkashier.linklytics/linklytics_sdk@1.0.3?classifier=sources
+- pkg:maven/com.alkashier.linklytics/linklytics_sdk@1.0.4?classifier=sources
+- pkg:maven/com.alkashier.linklytics/linklytics_sdk@1.1.0?classifier=sources
+- pkg:maven/com.alkashier.linklytics/linklytics_sdk@1.1.1?classifier=sources
+- pkg:maven/com.alkashier.linklytics/linklytics_sdk@1.2.0?classifier=sources
+- pkg:maven/com.alkashier.linklytics/linklytics_sdk@1.2.1?classifier=sources
+- pkg:maven/com.alkashier.linklytics/linklytics_sdk@1.2.2?classifier=sources

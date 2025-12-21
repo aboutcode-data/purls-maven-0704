@@ -23,3 +23,6 @@
 - pkg:maven/com.umtone/uw-common-app@1.0.88?classifier=sources
 - pkg:maven/com.umtone/uw-common-app@1.0.89?classifier=sources
 - pkg:maven/com.umtone/uw-common-app@1.0.90?classifier=sources
+- pkg:maven/com.umtone/uw-common-app@1.0.91?classifier=sources
+- pkg:maven/com.umtone/uw-common-app@1.0.92?classifier=sources
+- pkg:maven/com.umtone/uw-common-app@1.0.93?classifier=sources

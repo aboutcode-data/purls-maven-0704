@@ -11,6 +11,10 @@
 - pkg:maven/com.tidal.sdk/tidalapi@0.2.9?classifier=sources
 - pkg:maven/com.tidal.sdk/tidalapi@0.3.0?classifier=sources
 - pkg:maven/com.tidal.sdk/tidalapi@0.3.10?classifier=sources
+- pkg:maven/com.tidal.sdk/tidalapi@0.3.11?classifier=sources
+- pkg:maven/com.tidal.sdk/tidalapi@0.3.13?classifier=sources
+- pkg:maven/com.tidal.sdk/tidalapi@0.3.14?classifier=sources
+- pkg:maven/com.tidal.sdk/tidalapi@0.3.15?classifier=sources
 - pkg:maven/com.tidal.sdk/tidalapi@0.3.1?classifier=sources
 - pkg:maven/com.tidal.sdk/tidalapi@0.3.2?classifier=sources
 - pkg:maven/com.tidal.sdk/tidalapi@0.3.3?classifier=sources

@@ -31,6 +31,7 @@
 - pkg:maven/com.swrve.sdk.android/swrve-huawei@11.5.0?classifier=sources
 - pkg:maven/com.swrve.sdk.android/swrve-huawei@11.6.0?classifier=sources
 - pkg:maven/com.swrve.sdk.android/swrve-huawei@11.7.0?classifier=sources
+- pkg:maven/com.swrve.sdk.android/swrve-huawei@11.8.0?classifier=sources
 - pkg:maven/com.swrve.sdk.android/swrve-huawei@7.6.0?classifier=sources
 - pkg:maven/com.swrve.sdk.android/swrve-huawei@7.6.0?type=aar
 - pkg:maven/com.swrve.sdk.android/swrve-huawei@7.6.1?classifier=sources

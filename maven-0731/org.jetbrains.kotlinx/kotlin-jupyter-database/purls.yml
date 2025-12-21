@@ -1,0 +1,7 @@
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-database@0.0.3-10?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-database@0.0.3-11?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-database@0.0.3-12?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-database@0.0.3-13?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-database@0.0.3-15?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-database@0.0.3-16?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-database@0.0.3-17?classifier=sources

@@ -2,6 +2,7 @@
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-neptune-deployment@2.20.1?classifier=sources
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-neptune-deployment@3.1.0?classifier=sources
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-neptune-deployment@3.1.1?classifier=sources
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-neptune-deployment@3.10.0?classifier=sources
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-neptune-deployment@3.2.0?classifier=sources
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-neptune-deployment@3.3.0?classifier=sources
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-neptune-deployment@3.3.1?classifier=sources

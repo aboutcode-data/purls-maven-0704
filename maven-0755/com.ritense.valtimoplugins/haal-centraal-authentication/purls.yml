@@ -1,1 +1,4 @@
+- pkg:maven/com.ritense.valtimoplugins/haal-centraal-authentication@0.10?classifier=sources
+- pkg:maven/com.ritense.valtimoplugins/haal-centraal-authentication@0.11?classifier=sources
+- pkg:maven/com.ritense.valtimoplugins/haal-centraal-authentication@0.12?classifier=sources
 - pkg:maven/com.ritense.valtimoplugins/haal-centraal-authentication@0.9?classifier=sources

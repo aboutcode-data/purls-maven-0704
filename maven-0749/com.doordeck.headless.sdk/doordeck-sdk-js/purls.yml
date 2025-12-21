@@ -48,6 +48,9 @@
 - pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-js@0.152.0?classifier=sources
 - pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-js@0.153.0?classifier=sources
 - pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-js@0.154.0?classifier=sources
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-js@0.155.0?classifier=sources
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-js@0.156.0?classifier=sources
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-js@0.157.0?classifier=sources
 - pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-js@0.38.0-dev.18%2Bd9d9475?classifier=sources
 - pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-js@0.38.0?classifier=sources
 - pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-js@0.39.0?classifier=sources

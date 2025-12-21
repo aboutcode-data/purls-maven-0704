@@ -1,3 +1,4 @@
+- pkg:maven/cool.scx/scx-websocket-routing@3.8.10?classifier=sources
 - pkg:maven/cool.scx/scx-websocket-routing@3.8.2?classifier=sources
 - pkg:maven/cool.scx/scx-websocket-routing@3.8.3?classifier=sources
 - pkg:maven/cool.scx/scx-websocket-routing@3.8.4?classifier=sources

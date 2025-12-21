@@ -3,3 +3,4 @@
 - pkg:maven/com.oraen.box/oraen-box-loader@1.1.0-RELEASE?classifier=sources
 - pkg:maven/com.oraen.box/oraen-box-loader@1.2.0-RELEASE?classifier=sources
 - pkg:maven/com.oraen.box/oraen-box-loader@1.2.1-RELEASE?classifier=sources
+- pkg:maven/com.oraen.box/oraen-box-loader@2.0.0-RELEASE?classifier=sources

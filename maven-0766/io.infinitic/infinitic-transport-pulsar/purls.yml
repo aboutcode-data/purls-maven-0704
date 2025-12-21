@@ -27,6 +27,7 @@
 - pkg:maven/io.infinitic/infinitic-transport-pulsar@0.17.1?classifier=sources
 - pkg:maven/io.infinitic/infinitic-transport-pulsar@0.18.0?classifier=sources
 - pkg:maven/io.infinitic/infinitic-transport-pulsar@0.18.1?classifier=sources
+- pkg:maven/io.infinitic/infinitic-transport-pulsar@0.18.2?classifier=sources
 - pkg:maven/io.infinitic/infinitic-transport-pulsar@0.9.0?classifier=sources
 - pkg:maven/io.infinitic/infinitic-transport-pulsar@0.9.10?classifier=sources
 - pkg:maven/io.infinitic/infinitic-transport-pulsar@0.9.11?classifier=sources

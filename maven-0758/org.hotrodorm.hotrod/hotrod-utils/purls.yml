@@ -100,3 +100,5 @@
 - pkg:maven/org.hotrodorm.hotrod/hotrod-utils@4.8.0?classifier=sources
 - pkg:maven/org.hotrodorm.hotrod/hotrod-utils@4.8.1
 - pkg:maven/org.hotrodorm.hotrod/hotrod-utils@4.8.1?classifier=sources
+- pkg:maven/org.hotrodorm.hotrod/hotrod-utils@4.8.3
+- pkg:maven/org.hotrodorm.hotrod/hotrod-utils@4.8.3?classifier=sources

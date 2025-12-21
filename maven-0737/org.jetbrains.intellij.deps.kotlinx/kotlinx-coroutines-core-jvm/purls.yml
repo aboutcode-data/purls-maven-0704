@@ -1,0 +1,1 @@
+- pkg:maven/org.jetbrains.intellij.deps.kotlinx/kotlinx-coroutines-core-jvm@1.8.0-intellij-14?classifier=sources

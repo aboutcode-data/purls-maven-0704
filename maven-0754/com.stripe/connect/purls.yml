@@ -30,6 +30,10 @@
 - pkg:maven/com.stripe/connect@21.24.4?classifier=sources
 - pkg:maven/com.stripe/connect@21.25.0?classifier=sources
 - pkg:maven/com.stripe/connect@21.26.0?classifier=sources
+- pkg:maven/com.stripe/connect@21.26.1?classifier=sources
+- pkg:maven/com.stripe/connect@21.27.0?classifier=sources
+- pkg:maven/com.stripe/connect@21.28.0?classifier=sources
+- pkg:maven/com.stripe/connect@21.28.1?classifier=sources
 - pkg:maven/com.stripe/connect@21.3.0?classifier=sources
 - pkg:maven/com.stripe/connect@21.3.1?classifier=sources
 - pkg:maven/com.stripe/connect@21.3.2?classifier=sources

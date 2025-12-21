@@ -1,0 +1,4 @@
+- pkg:maven/org.mvnpm/remeda@1.61.0
+- pkg:maven/org.mvnpm/remeda@1.61.0?classifier=sources
+- pkg:maven/org.mvnpm/remeda@2.32.0
+- pkg:maven/org.mvnpm/remeda@2.32.0?classifier=sources

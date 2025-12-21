@@ -7,6 +7,7 @@
 - pkg:maven/org.jvnet.jaxb/jaxb-plugins-ant@4.0.0
 - pkg:maven/org.jvnet.jaxb/jaxb-plugins-ant@4.0.0?classifier=sources
 - pkg:maven/org.jvnet.jaxb/jaxb-plugins-ant@4.0.10?classifier=sources
+- pkg:maven/org.jvnet.jaxb/jaxb-plugins-ant@4.0.11?classifier=sources
 - pkg:maven/org.jvnet.jaxb/jaxb-plugins-ant@4.0.2
 - pkg:maven/org.jvnet.jaxb/jaxb-plugins-ant@4.0.2?classifier=sources
 - pkg:maven/org.jvnet.jaxb/jaxb-plugins-ant@4.0.3

@@ -158,10 +158,14 @@
 - pkg:maven/com.gu/fapi-client-play29_2.13@22.0.0?classifier=sources
 - pkg:maven/com.gu/fapi-client-play29_2.13@22.0.1
 - pkg:maven/com.gu/fapi-client-play29_2.13@22.0.1?classifier=sources
+- pkg:maven/com.gu/fapi-client-play29_2.13@23.0.0
+- pkg:maven/com.gu/fapi-client-play29_2.13@23.0.0-PREVIEW.filterfapi-bump.2025-09-18T1102.347ddf70
+- pkg:maven/com.gu/fapi-client-play29_2.13@23.0.0-PREVIEW.filterfapi-bump.2025-09-18T1102.347ddf70?classifier=sources
 - pkg:maven/com.gu/fapi-client-play29_2.13@23.0.0-PREVIEW.update-etag-caching.2025-09-04T1455.0497ec16
 - pkg:maven/com.gu/fapi-client-play29_2.13@23.0.0-PREVIEW.update-etag-caching.2025-09-04T1455.0497ec16?classifier=sources
 - pkg:maven/com.gu/fapi-client-play29_2.13@23.0.0-PREVIEW.update-etag-caching.2025-09-04T1546.cb7db237
 - pkg:maven/com.gu/fapi-client-play29_2.13@23.0.0-PREVIEW.update-etag-caching.2025-09-04T1546.cb7db237?classifier=sources
+- pkg:maven/com.gu/fapi-client-play29_2.13@23.0.0?classifier=sources
 - pkg:maven/com.gu/fapi-client-play29_2.13@5.0.2
 - pkg:maven/com.gu/fapi-client-play29_2.13@5.0.2?classifier=sources
 - pkg:maven/com.gu/fapi-client-play29_2.13@5.0.3

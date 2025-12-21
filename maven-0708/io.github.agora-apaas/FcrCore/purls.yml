@@ -30,4 +30,8 @@
 - pkg:maven/io.github.agora-apaas/FcrCore@3.7.0?classifier=sources
 - pkg:maven/io.github.agora-apaas/FcrCore@3.7.3?classifier=sources
 - pkg:maven/io.github.agora-apaas/FcrCore@3.7.4.100?classifier=sources
+- pkg:maven/io.github.agora-apaas/FcrCore@3.7.4.101?classifier=sources
 - pkg:maven/io.github.agora-apaas/FcrCore@3.7.4?classifier=sources
+- pkg:maven/io.github.agora-apaas/FcrCore@3.7.5?classifier=sources
+- pkg:maven/io.github.agora-apaas/FcrCore@3.7.6?classifier=sources
+- pkg:maven/io.github.agora-apaas/FcrCore@3.7.7?classifier=sources

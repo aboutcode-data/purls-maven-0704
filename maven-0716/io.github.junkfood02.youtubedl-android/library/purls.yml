@@ -6,3 +6,4 @@
 - pkg:maven/io.github.junkfood02.youtubedl-android/library@0.17.2?classifier=sources
 - pkg:maven/io.github.junkfood02.youtubedl-android/library@0.17.3?classifier=sources
 - pkg:maven/io.github.junkfood02.youtubedl-android/library@0.17.4?classifier=sources
+- pkg:maven/io.github.junkfood02.youtubedl-android/library@0.18.0?classifier=sources

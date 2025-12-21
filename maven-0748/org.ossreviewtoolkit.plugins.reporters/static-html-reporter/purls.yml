@@ -116,6 +116,9 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/static-html-reporter@67.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/static-html-reporter@68.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/static-html-reporter@68.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/static-html-reporter@68.2.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/static-html-reporter@69.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/static-html-reporter@69.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/static-html-reporter@7.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/static-html-reporter@7.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/static-html-reporter@8.0.0?classifier=sources

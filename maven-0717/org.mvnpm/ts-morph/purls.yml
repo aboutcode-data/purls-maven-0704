@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/ts-morph@18.0.0
+- pkg:maven/org.mvnpm/ts-morph@18.0.0?classifier=sources

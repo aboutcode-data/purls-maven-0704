@@ -4,3 +4,4 @@
 - pkg:maven/com.antgroup.antchain.openapi/openapi-zolozfaceverify@1.5.0?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-zolozfaceverify@1.6.0
 - pkg:maven/com.antgroup.antchain.openapi/openapi-zolozfaceverify@1.6.0?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-zolozfaceverify@1.6.2?classifier=sources

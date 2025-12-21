@@ -40,3 +40,6 @@
 - pkg:maven/io.quarkiverse.zanzibar/quarkus-zanzibar-authzed-deployment@2.3.1?classifier=sources
 - pkg:maven/io.quarkiverse.zanzibar/quarkus-zanzibar-authzed-deployment@2.3.2?classifier=sources
 - pkg:maven/io.quarkiverse.zanzibar/quarkus-zanzibar-authzed-deployment@2.4.0?classifier=sources
+- pkg:maven/io.quarkiverse.zanzibar/quarkus-zanzibar-authzed-deployment@2.5.0?classifier=sources
+- pkg:maven/io.quarkiverse.zanzibar/quarkus-zanzibar-authzed-deployment@2.6.0?classifier=sources
+- pkg:maven/io.quarkiverse.zanzibar/quarkus-zanzibar-authzed-deployment@2.7.0?classifier=sources

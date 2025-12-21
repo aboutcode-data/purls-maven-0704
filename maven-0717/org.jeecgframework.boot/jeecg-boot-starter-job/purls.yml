@@ -49,3 +49,4 @@
 - pkg:maven/org.jeecgframework.boot/jeecg-boot-starter-job@3.8.2-20250808?classifier=sources
 - pkg:maven/org.jeecgframework.boot/jeecg-boot-starter-job@3.8.2-RC?classifier=sources
 - pkg:maven/org.jeecgframework.boot/jeecg-boot-starter-job@3.8.2?classifier=sources
+- pkg:maven/org.jeecgframework.boot/jeecg-boot-starter-job@3.8.3?classifier=sources

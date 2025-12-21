@@ -289,10 +289,16 @@
 - pkg:maven/com.pulumi/confluentcloud@2.35.0?classifier=sources
 - pkg:maven/com.pulumi/confluentcloud@2.36.0?classifier=sources
 - pkg:maven/com.pulumi/confluentcloud@2.37.0?classifier=sources
+- pkg:maven/com.pulumi/confluentcloud@2.38.0?classifier=sources
+- pkg:maven/com.pulumi/confluentcloud@2.39.0?classifier=sources
 - pkg:maven/com.pulumi/confluentcloud@2.4.0-alpha.1727846318?classifier=sources
 - pkg:maven/com.pulumi/confluentcloud@2.4.0-alpha.1727873098?classifier=sources
 - pkg:maven/com.pulumi/confluentcloud@2.4.0-alpha.1727966829?classifier=sources
 - pkg:maven/com.pulumi/confluentcloud@2.4.0?classifier=sources
+- pkg:maven/com.pulumi/confluentcloud@2.40.0?classifier=sources
+- pkg:maven/com.pulumi/confluentcloud@2.41.0?classifier=sources
+- pkg:maven/com.pulumi/confluentcloud@2.42.0?classifier=sources
+- pkg:maven/com.pulumi/confluentcloud@2.43.0?classifier=sources
 - pkg:maven/com.pulumi/confluentcloud@2.5.0-alpha.1728105692?classifier=sources
 - pkg:maven/com.pulumi/confluentcloud@2.5.0-alpha.1728307091?classifier=sources
 - pkg:maven/com.pulumi/confluentcloud@2.5.0?classifier=sources

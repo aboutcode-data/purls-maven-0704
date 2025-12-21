@@ -57,6 +57,8 @@
 - pkg:maven/org.neo4j.driver/neo4j-java-driver-all@5.28.0
 - pkg:maven/org.neo4j.driver/neo4j-java-driver-all@5.28.0?classifier=sources
 - pkg:maven/org.neo4j.driver/neo4j-java-driver-all@5.28.1
+- pkg:maven/org.neo4j.driver/neo4j-java-driver-all@5.28.10
+- pkg:maven/org.neo4j.driver/neo4j-java-driver-all@5.28.10?classifier=sources
 - pkg:maven/org.neo4j.driver/neo4j-java-driver-all@5.28.1?classifier=sources
 - pkg:maven/org.neo4j.driver/neo4j-java-driver-all@5.28.2
 - pkg:maven/org.neo4j.driver/neo4j-java-driver-all@5.28.2?classifier=sources
@@ -90,6 +92,9 @@
 - pkg:maven/org.neo4j.driver/neo4j-java-driver-all@5.8.0?classifier=sources
 - pkg:maven/org.neo4j.driver/neo4j-java-driver-all@5.9.0
 - pkg:maven/org.neo4j.driver/neo4j-java-driver-all@5.9.0?classifier=sources
+- pkg:maven/org.neo4j.driver/neo4j-java-driver-all@6.0.0
+- pkg:maven/org.neo4j.driver/neo4j-java-driver-all@6.0.0-RC1
+- pkg:maven/org.neo4j.driver/neo4j-java-driver-all@6.0.0-RC1?classifier=sources
 - pkg:maven/org.neo4j.driver/neo4j-java-driver-all@6.0.0-alpha01
 - pkg:maven/org.neo4j.driver/neo4j-java-driver-all@6.0.0-alpha01?classifier=sources
 - pkg:maven/org.neo4j.driver/neo4j-java-driver-all@6.0.0-alpha02
@@ -98,3 +103,6 @@
 - pkg:maven/org.neo4j.driver/neo4j-java-driver-all@6.0.0-alpha03?classifier=sources
 - pkg:maven/org.neo4j.driver/neo4j-java-driver-all@6.0.0-beta01
 - pkg:maven/org.neo4j.driver/neo4j-java-driver-all@6.0.0-beta01?classifier=sources
+- pkg:maven/org.neo4j.driver/neo4j-java-driver-all@6.0.0?classifier=sources
+- pkg:maven/org.neo4j.driver/neo4j-java-driver-all@6.0.1
+- pkg:maven/org.neo4j.driver/neo4j-java-driver-all@6.0.1?classifier=sources

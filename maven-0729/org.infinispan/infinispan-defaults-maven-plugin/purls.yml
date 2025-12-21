@@ -408,6 +408,8 @@
 - pkg:maven/org.infinispan/infinispan-defaults-maven-plugin@16.0.0.Dev01?classifier=sources
 - pkg:maven/org.infinispan/infinispan-defaults-maven-plugin@16.0.0.Dev02?classifier=sources
 - pkg:maven/org.infinispan/infinispan-defaults-maven-plugin@16.0.0.Dev03?classifier=sources
+- pkg:maven/org.infinispan/infinispan-defaults-maven-plugin@16.0.0.Dev04?classifier=sources
+- pkg:maven/org.infinispan/infinispan-defaults-maven-plugin@16.0.0.Dev05?classifier=sources
 - pkg:maven/org.infinispan/infinispan-defaults-maven-plugin@9.0.0.Beta2
 - pkg:maven/org.infinispan/infinispan-defaults-maven-plugin@9.0.0.Beta2?classifier=sources
 - pkg:maven/org.infinispan/infinispan-defaults-maven-plugin@9.0.0.CR1

@@ -3,3 +3,5 @@
 - pkg:maven/com.zepben/protobuf@1.0.0b2?classifier=sources
 - pkg:maven/com.zepben/protobuf@1.0.0b3?classifier=sources
 - pkg:maven/com.zepben/protobuf@1.0.0b4?classifier=sources
+- pkg:maven/com.zepben/protobuf@1.1.0?classifier=sources
+- pkg:maven/com.zepben/protobuf@1.1.0b1?classifier=sources

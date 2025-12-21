@@ -372,6 +372,10 @@
 - pkg:maven/io.cronapp/cronapi-watson-speech-to-text@3.2.1-SP.22?classifier=sources
 - pkg:maven/io.cronapp/cronapi-watson-speech-to-text@3.2.1-SP.23
 - pkg:maven/io.cronapp/cronapi-watson-speech-to-text@3.2.1-SP.23?classifier=sources
+- pkg:maven/io.cronapp/cronapi-watson-speech-to-text@3.2.1-SP.24
+- pkg:maven/io.cronapp/cronapi-watson-speech-to-text@3.2.1-SP.24?classifier=sources
+- pkg:maven/io.cronapp/cronapi-watson-speech-to-text@3.2.1-SP.26
+- pkg:maven/io.cronapp/cronapi-watson-speech-to-text@3.2.1-SP.26?classifier=sources
 - pkg:maven/io.cronapp/cronapi-watson-speech-to-text@3.2.1-SP.2?classifier=sources
 - pkg:maven/io.cronapp/cronapi-watson-speech-to-text@3.2.1-SP.3
 - pkg:maven/io.cronapp/cronapi-watson-speech-to-text@3.2.1-SP.3?classifier=sources
@@ -412,3 +416,7 @@
 - pkg:maven/io.cronapp/cronapi-watson-speech-to-text@4.1.4?classifier=sources
 - pkg:maven/io.cronapp/cronapi-watson-speech-to-text@4.1.5
 - pkg:maven/io.cronapp/cronapi-watson-speech-to-text@4.1.5?classifier=sources
+- pkg:maven/io.cronapp/cronapi-watson-speech-to-text@4.1.6
+- pkg:maven/io.cronapp/cronapi-watson-speech-to-text@4.1.6?classifier=sources
+- pkg:maven/io.cronapp/cronapi-watson-speech-to-text@4.2.0
+- pkg:maven/io.cronapp/cronapi-watson-speech-to-text@4.2.0?classifier=sources

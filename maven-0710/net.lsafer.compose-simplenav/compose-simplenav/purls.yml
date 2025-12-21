@@ -1,0 +1,2 @@
+- pkg:maven/net.lsafer.compose-simplenav/compose-simplenav@0.0.2-rc.0?classifier=sources
+- pkg:maven/net.lsafer.compose-simplenav/compose-simplenav@0.0.2-rc.1?classifier=sources

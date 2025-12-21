@@ -489,6 +489,8 @@
 - pkg:maven/org.hl7.fhir.publisher/org.hl7.fhir.publisher.core@2.0.15?classifier=sources
 - pkg:maven/org.hl7.fhir.publisher/org.hl7.fhir.publisher.core@2.0.16?classifier=sources
 - pkg:maven/org.hl7.fhir.publisher/org.hl7.fhir.publisher.core@2.0.17?classifier=sources
+- pkg:maven/org.hl7.fhir.publisher/org.hl7.fhir.publisher.core@2.0.18?classifier=sources
+- pkg:maven/org.hl7.fhir.publisher/org.hl7.fhir.publisher.core@2.0.19?classifier=sources
 - pkg:maven/org.hl7.fhir.publisher/org.hl7.fhir.publisher.core@2.0.1?classifier=sources
 - pkg:maven/org.hl7.fhir.publisher/org.hl7.fhir.publisher.core@2.0.2
 - pkg:maven/org.hl7.fhir.publisher/org.hl7.fhir.publisher.core@2.0.2?classifier=sources

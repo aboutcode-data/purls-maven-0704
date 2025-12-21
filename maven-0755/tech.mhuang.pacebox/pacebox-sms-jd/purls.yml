@@ -1,6 +1,7 @@
 - pkg:maven/tech.mhuang.pacebox/pacebox-sms-jd@1.0.0
 - pkg:maven/tech.mhuang.pacebox/pacebox-sms-jd@1.0.0-jdk17
 - pkg:maven/tech.mhuang.pacebox/pacebox-sms-jd@1.0.0-jdk17?classifier=sources
+- pkg:maven/tech.mhuang.pacebox/pacebox-sms-jd@1.0.0-jdk25?classifier=sources
 - pkg:maven/tech.mhuang.pacebox/pacebox-sms-jd@1.0.0?classifier=sources
 - pkg:maven/tech.mhuang.pacebox/pacebox-sms-jd@1.0.1-jdk17
 - pkg:maven/tech.mhuang.pacebox/pacebox-sms-jd@1.0.1-jdk17?classifier=sources
@@ -12,3 +13,5 @@
 - pkg:maven/tech.mhuang.pacebox/pacebox-sms-jd@1.0.5-jdk17?classifier=sources
 - pkg:maven/tech.mhuang.pacebox/pacebox-sms-jd@1.0.5-jdk21
 - pkg:maven/tech.mhuang.pacebox/pacebox-sms-jd@1.0.5-jdk21?classifier=sources
+- pkg:maven/tech.mhuang.pacebox/pacebox-sms-jd@1.0.6-jdk24?classifier=sources
+- pkg:maven/tech.mhuang.pacebox/pacebox-sms-jd@1.0.7-jdk24?classifier=sources

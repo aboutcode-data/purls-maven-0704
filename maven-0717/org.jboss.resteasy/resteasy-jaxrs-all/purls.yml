@@ -39,6 +39,8 @@
 - pkg:maven/org.jboss.resteasy/resteasy-jaxrs-all@6.2.10.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.resteasy/resteasy-jaxrs-all@6.2.11.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.resteasy/resteasy-jaxrs-all@6.2.12.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.resteasy/resteasy-jaxrs-all@6.2.14.Beta1?classifier=source-release&type=zip
+- pkg:maven/org.jboss.resteasy/resteasy-jaxrs-all@6.2.14.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.resteasy/resteasy-jaxrs-all@6.2.3.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.resteasy/resteasy-jaxrs-all@6.2.4.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.resteasy/resteasy-jaxrs-all@6.2.5.Final?classifier=source-release&type=zip
@@ -51,3 +53,5 @@
 - pkg:maven/org.jboss.resteasy/resteasy-jaxrs-all@7.0.0.Alpha3?classifier=source-release&type=zip
 - pkg:maven/org.jboss.resteasy/resteasy-jaxrs-all@7.0.0.Alpha4?classifier=source-release&type=zip
 - pkg:maven/org.jboss.resteasy/resteasy-jaxrs-all@7.0.0.Beta1?classifier=source-release&type=zip
+- pkg:maven/org.jboss.resteasy/resteasy-jaxrs-all@7.0.0.Beta5?classifier=source-release&type=zip
+- pkg:maven/org.jboss.resteasy/resteasy-jaxrs-all@7.0.0.Final?classifier=source-release&type=zip

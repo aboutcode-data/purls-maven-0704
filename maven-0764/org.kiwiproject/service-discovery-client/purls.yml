@@ -91,3 +91,4 @@
 - pkg:maven/org.kiwiproject/service-discovery-client@2.1.7
 - pkg:maven/org.kiwiproject/service-discovery-client@2.1.7?classifier=sources
 - pkg:maven/org.kiwiproject/service-discovery-client@2.1.8?classifier=sources
+- pkg:maven/org.kiwiproject/service-discovery-client@2.1.9?classifier=sources

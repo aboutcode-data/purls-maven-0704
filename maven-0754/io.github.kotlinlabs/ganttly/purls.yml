@@ -5,3 +5,4 @@
 - pkg:maven/io.github.kotlinlabs/ganttly@1.0.0-rc3?classifier=sources
 - pkg:maven/io.github.kotlinlabs/ganttly@1.0.0?classifier=sources
 - pkg:maven/io.github.kotlinlabs/ganttly@1.1.0?classifier=sources
+- pkg:maven/io.github.kotlinlabs/ganttly@1.2.0?classifier=sources

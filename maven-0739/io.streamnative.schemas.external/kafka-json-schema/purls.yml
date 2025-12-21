@@ -1,0 +1,1 @@
+- pkg:maven/io.streamnative.schemas.external/kafka-json-schema@1.0?classifier=sources

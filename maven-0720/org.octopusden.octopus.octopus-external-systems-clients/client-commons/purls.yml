@@ -59,4 +59,5 @@
 - pkg:maven/org.octopusden.octopus.octopus-external-systems-clients/client-commons@2.0.6?classifier=sources
 - pkg:maven/org.octopusden.octopus.octopus-external-systems-clients/client-commons@2.0.70?classifier=sources
 - pkg:maven/org.octopusden.octopus.octopus-external-systems-clients/client-commons@2.0.71?classifier=sources
+- pkg:maven/org.octopusden.octopus.octopus-external-systems-clients/client-commons@2.0.72?classifier=sources
 - pkg:maven/org.octopusden.octopus.octopus-external-systems-clients/client-commons@2.0.7?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/eu.virtualparadox/bandage-layout-jni@1.0.0?classifier=sources
+- pkg:maven/eu.virtualparadox/bandage-layout-jni@1.1.0?classifier=sources
+- pkg:maven/eu.virtualparadox/bandage-layout-jni@1.1.1?classifier=sources

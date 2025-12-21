@@ -6,3 +6,4 @@
 - pkg:maven/zone.cogni.asquare/async-indexing@0.6.22?classifier=sources
 - pkg:maven/zone.cogni.asquare/async-indexing@0.6.9-f?classifier=sources
 - pkg:maven/zone.cogni.asquare/async-indexing@0.7.0?classifier=sources
+- pkg:maven/zone.cogni.asquare/async-indexing@0.8.3?classifier=sources

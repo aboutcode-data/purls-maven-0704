@@ -1,0 +1,3 @@
+- pkg:maven/dev.ivk/ivk-skill-sdk@1.0.3?classifier=sources
+- pkg:maven/dev.ivk/ivk-skill-sdk@1.1.0?classifier=sources
+- pkg:maven/dev.ivk/ivk-skill-sdk@1.2.0?classifier=sources

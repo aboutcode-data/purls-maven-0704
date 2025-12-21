@@ -11,6 +11,8 @@
 - pkg:maven/com.digy4/digy-runner-cucumber-7-selenium-3@0.0.107?classifier=sources
 - pkg:maven/com.digy4/digy-runner-cucumber-7-selenium-3@0.0.108?classifier=sources
 - pkg:maven/com.digy4/digy-runner-cucumber-7-selenium-3@0.0.109?classifier=sources
+- pkg:maven/com.digy4/digy-runner-cucumber-7-selenium-3@0.0.110?classifier=sources
+- pkg:maven/com.digy4/digy-runner-cucumber-7-selenium-3@0.0.111?classifier=sources
 - pkg:maven/com.digy4/digy-runner-cucumber-7-selenium-3@0.0.45
 - pkg:maven/com.digy4/digy-runner-cucumber-7-selenium-3@0.0.45?classifier=sources
 - pkg:maven/com.digy4/digy-runner-cucumber-7-selenium-3@0.0.53

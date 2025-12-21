@@ -2798,6 +2798,10 @@
 - pkg:maven/org.sdase.commons/sda-commons-server-testing@7.7.0
 - pkg:maven/org.sdase.commons/sda-commons-server-testing@7.7.0?classifier=sources
 - pkg:maven/org.sdase.commons/sda-commons-server-testing@7.7.1
+- pkg:maven/org.sdase.commons/sda-commons-server-testing@7.7.10
+- pkg:maven/org.sdase.commons/sda-commons-server-testing@7.7.10?classifier=sources
+- pkg:maven/org.sdase.commons/sda-commons-server-testing@7.7.11
+- pkg:maven/org.sdase.commons/sda-commons-server-testing@7.7.11?classifier=sources
 - pkg:maven/org.sdase.commons/sda-commons-server-testing@7.7.1?classifier=sources
 - pkg:maven/org.sdase.commons/sda-commons-server-testing@7.7.2
 - pkg:maven/org.sdase.commons/sda-commons-server-testing@7.7.2?classifier=sources
@@ -2815,3 +2819,13 @@
 - pkg:maven/org.sdase.commons/sda-commons-server-testing@7.7.8?classifier=sources
 - pkg:maven/org.sdase.commons/sda-commons-server-testing@7.7.9
 - pkg:maven/org.sdase.commons/sda-commons-server-testing@7.7.9?classifier=sources
+- pkg:maven/org.sdase.commons/sda-commons-server-testing@8.0.0
+- pkg:maven/org.sdase.commons/sda-commons-server-testing@8.0.0?classifier=sources
+- pkg:maven/org.sdase.commons/sda-commons-server-testing@8.0.1
+- pkg:maven/org.sdase.commons/sda-commons-server-testing@8.0.1?classifier=sources
+- pkg:maven/org.sdase.commons/sda-commons-server-testing@8.0.2
+- pkg:maven/org.sdase.commons/sda-commons-server-testing@8.0.2?classifier=sources
+- pkg:maven/org.sdase.commons/sda-commons-server-testing@8.0.4
+- pkg:maven/org.sdase.commons/sda-commons-server-testing@8.0.4?classifier=sources
+- pkg:maven/org.sdase.commons/sda-commons-server-testing@8.0.5
+- pkg:maven/org.sdase.commons/sda-commons-server-testing@8.0.5?classifier=sources
