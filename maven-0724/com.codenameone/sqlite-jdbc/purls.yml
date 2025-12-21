@@ -56,3 +56,5 @@
 - pkg:maven/com.codenameone/sqlite-jdbc@7.0.209?classifier=sources
 - pkg:maven/com.codenameone/sqlite-jdbc@7.0.210?classifier=sources
 - pkg:maven/com.codenameone/sqlite-jdbc@7.0.211?classifier=sources
+- pkg:maven/com.codenameone/sqlite-jdbc@7.0.212?classifier=sources
+- pkg:maven/com.codenameone/sqlite-jdbc@7.0.213?classifier=sources

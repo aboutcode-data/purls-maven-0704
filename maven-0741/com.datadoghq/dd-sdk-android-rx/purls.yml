@@ -73,6 +73,7 @@
 - pkg:maven/com.datadoghq/dd-sdk-android-rx@2.26.0?classifier=sources
 - pkg:maven/com.datadoghq/dd-sdk-android-rx@2.26.1?classifier=sources
 - pkg:maven/com.datadoghq/dd-sdk-android-rx@2.26.2?classifier=sources
+- pkg:maven/com.datadoghq/dd-sdk-android-rx@2.26.3?classifier=sources
 - pkg:maven/com.datadoghq/dd-sdk-android-rx@2.3.0?classifier=sources
 - pkg:maven/com.datadoghq/dd-sdk-android-rx@2.4.0?classifier=sources
 - pkg:maven/com.datadoghq/dd-sdk-android-rx@2.5.0?classifier=sources
@@ -87,3 +88,4 @@
 - pkg:maven/com.datadoghq/dd-sdk-android-rx@3.0.0?classifier=sources
 - pkg:maven/com.datadoghq/dd-sdk-android-rx@3.1.0?classifier=sources
 - pkg:maven/com.datadoghq/dd-sdk-android-rx@3.2.0?classifier=sources
+- pkg:maven/com.datadoghq/dd-sdk-android-rx@3.3.0?classifier=sources

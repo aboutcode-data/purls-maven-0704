@@ -32,3 +32,4 @@
 - pkg:maven/com.github.vhall.android.library/vhallyun-upload@2.2.4?type=aar
 - pkg:maven/com.github.vhall.android.library/vhallyun-upload@2.2.6?classifier=sources
 - pkg:maven/com.github.vhall.android.library/vhallyun-upload@2.2.6?type=aar
+- pkg:maven/com.github.vhall.android.library/vhallyun-upload@2.2.7?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.revivebird.finagle/finatra-kafka-streams-prerestore_2.13@25.11.0
+- pkg:maven/com.revivebird.finagle/finatra-kafka-streams-prerestore_2.13@25.11.0?classifier=sources

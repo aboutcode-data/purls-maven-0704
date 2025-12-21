@@ -1,0 +1,2 @@
+- pkg:maven/io.github.lindaprotocol/leveldb-api@1.18.2
+- pkg:maven/io.github.lindaprotocol/leveldb-api@1.18.2?classifier=sources

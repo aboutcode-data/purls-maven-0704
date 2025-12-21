@@ -39,3 +39,5 @@
 - pkg:maven/ch.postfinance/postfinancecheckout-java-sdk@8.7.0?classifier=sources
 - pkg:maven/ch.postfinance/postfinancecheckout-java-sdk@8.8.3?classifier=sources
 - pkg:maven/ch.postfinance/postfinancecheckout-java-sdk@9.0.0?classifier=sources
+- pkg:maven/ch.postfinance/postfinancecheckout-java-sdk@9.1.0?classifier=sources
+- pkg:maven/ch.postfinance/postfinancecheckout-java-sdk@9.2.0?classifier=sources

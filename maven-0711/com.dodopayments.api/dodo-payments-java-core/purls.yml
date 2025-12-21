@@ -19,3 +19,5 @@
 - pkg:maven/com.dodopayments.api/dodo-payments-java-core@1.34.2?classifier=sources
 - pkg:maven/com.dodopayments.api/dodo-payments-java-core@1.37.0?classifier=sources
 - pkg:maven/com.dodopayments.api/dodo-payments-java-core@1.56.6?classifier=sources
+- pkg:maven/com.dodopayments.api/dodo-payments-java-core@1.60.0?classifier=sources
+- pkg:maven/com.dodopayments.api/dodo-payments-java-core@1.61.5?classifier=sources

@@ -109,3 +109,4 @@
 - pkg:maven/org.testingisdocumenting.znai/znai-cli@1.81.1?classifier=sources
 - pkg:maven/org.testingisdocumenting.znai/znai-cli@1.81?classifier=sources
 - pkg:maven/org.testingisdocumenting.znai/znai-cli@1.82?classifier=sources
+- pkg:maven/org.testingisdocumenting.znai/znai-cli@1.83?classifier=sources

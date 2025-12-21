@@ -83,3 +83,4 @@
 - pkg:maven/software.amazon.lambda/powertools-validation@2.5.0?classifier=sources
 - pkg:maven/software.amazon.lambda/powertools-validation@2.6.0?classifier=sources
 - pkg:maven/software.amazon.lambda/powertools-validation@2.7.0?classifier=sources
+- pkg:maven/software.amazon.lambda/powertools-validation@2.8.0?classifier=sources

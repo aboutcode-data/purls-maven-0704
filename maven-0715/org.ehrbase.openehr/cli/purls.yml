@@ -25,6 +25,7 @@
 - pkg:maven/org.ehrbase.openehr/cli@2.22.0?classifier=sources
 - pkg:maven/org.ehrbase.openehr/cli@2.23.0?classifier=sources
 - pkg:maven/org.ehrbase.openehr/cli@2.24.0?classifier=sources
+- pkg:maven/org.ehrbase.openehr/cli@2.25.0?classifier=sources
 - pkg:maven/org.ehrbase.openehr/cli@2.7.0
 - pkg:maven/org.ehrbase.openehr/cli@2.7.0?classifier=sources
 - pkg:maven/org.ehrbase.openehr/cli@2.8.0

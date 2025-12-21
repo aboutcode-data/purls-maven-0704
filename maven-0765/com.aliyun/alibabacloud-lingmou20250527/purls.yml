@@ -1,3 +1,6 @@
 - pkg:maven/com.aliyun/alibabacloud-lingmou20250527@1.0.0?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-lingmou20250527@1.0.1?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-lingmou20250527@1.0.2?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-lingmou20250527@1.0.3?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-lingmou20250527@1.0.4?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-lingmou20250527@1.0.5?classifier=sources

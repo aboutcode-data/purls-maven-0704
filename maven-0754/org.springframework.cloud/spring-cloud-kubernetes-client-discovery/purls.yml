@@ -69,3 +69,4 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-kubernetes-client-discovery@5.0.0-M3?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-kubernetes-client-discovery@5.0.0-M4?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-kubernetes-client-discovery@5.0.0-RC1?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-kubernetes-client-discovery@5.0.0?classifier=sources

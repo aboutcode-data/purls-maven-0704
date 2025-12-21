@@ -1,1 +1,8 @@
 - pkg:maven/org.noear/resilience4j-solon-cloud-plugin@3.7.2-M2?classifier=sources
+- pkg:maven/org.noear/resilience4j-solon-cloud-plugin@3.7.2-M3?classifier=sources
+- pkg:maven/org.noear/resilience4j-solon-cloud-plugin@3.7.2-M4?classifier=sources
+- pkg:maven/org.noear/resilience4j-solon-cloud-plugin@3.7.2-M5?classifier=sources
+- pkg:maven/org.noear/resilience4j-solon-cloud-plugin@3.7.2-M6?classifier=sources
+- pkg:maven/org.noear/resilience4j-solon-cloud-plugin@3.7.2-M7?classifier=sources
+- pkg:maven/org.noear/resilience4j-solon-cloud-plugin@3.7.2-RC?classifier=sources
+- pkg:maven/org.noear/resilience4j-solon-cloud-plugin@3.7.2?classifier=sources

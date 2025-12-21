@@ -7,3 +7,4 @@
 - pkg:maven/com.cognitect.aws/s3tables@871.2.31.64?classifier=sources
 - pkg:maven/com.cognitect.aws/s3tables@871.2.32.2?classifier=sources
 - pkg:maven/com.cognitect.aws/s3tables@871.2.38.3?classifier=sources
+- pkg:maven/com.cognitect.aws/s3tables@871.2.38.8?classifier=sources

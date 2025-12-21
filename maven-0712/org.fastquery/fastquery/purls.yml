@@ -92,6 +92,10 @@
 - pkg:maven/org.fastquery/fastquery@1.0.145?classifier=sources
 - pkg:maven/org.fastquery/fastquery@1.0.146
 - pkg:maven/org.fastquery/fastquery@1.0.146?classifier=sources
+- pkg:maven/org.fastquery/fastquery@1.0.147
+- pkg:maven/org.fastquery/fastquery@1.0.147?classifier=sources
+- pkg:maven/org.fastquery/fastquery@1.0.148
+- pkg:maven/org.fastquery/fastquery@1.0.148?classifier=sources
 - pkg:maven/org.fastquery/fastquery@1.0.20
 - pkg:maven/org.fastquery/fastquery@1.0.20?classifier=sources
 - pkg:maven/org.fastquery/fastquery@1.0.21.M1

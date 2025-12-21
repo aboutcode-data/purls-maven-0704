@@ -20,6 +20,8 @@
 - pkg:maven/org.mvnpm/webpack@5.102.0?classifier=sources
 - pkg:maven/org.mvnpm/webpack@5.102.1
 - pkg:maven/org.mvnpm/webpack@5.102.1?classifier=sources
+- pkg:maven/org.mvnpm/webpack@5.103.0
+- pkg:maven/org.mvnpm/webpack@5.103.0?classifier=sources
 - pkg:maven/org.mvnpm/webpack@5.93.0?classifier=sources
 - pkg:maven/org.mvnpm/webpack@5.97.1?classifier=sources
 - pkg:maven/org.mvnpm/webpack@5.98.0?classifier=sources

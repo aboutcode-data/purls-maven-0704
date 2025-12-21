@@ -42,6 +42,9 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-error-handling-service@14.1.1?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-error-handling-service@14.2.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-error-handling-service@15.0.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-error-handling-service@15.1.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-error-handling-service@15.2.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-error-handling-service@15.4.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-error-handling-service@9.10.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-error-handling-service@9.7.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-error-handling-service@9.8.0?classifier=sources

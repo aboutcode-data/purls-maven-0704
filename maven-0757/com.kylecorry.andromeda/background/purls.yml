@@ -33,3 +33,5 @@
 - pkg:maven/com.kylecorry.andromeda/background@17.0.0?classifier=sources
 - pkg:maven/com.kylecorry.andromeda/background@17.1.0?classifier=sources
 - pkg:maven/com.kylecorry.andromeda/background@17.2.0?classifier=sources
+- pkg:maven/com.kylecorry.andromeda/background@18.0.0?classifier=sources
+- pkg:maven/com.kylecorry.andromeda/background@18.1.0?classifier=sources

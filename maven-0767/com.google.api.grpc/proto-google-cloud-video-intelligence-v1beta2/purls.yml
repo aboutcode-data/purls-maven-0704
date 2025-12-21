@@ -168,6 +168,10 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-video-intelligence-v1beta2@0.166.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-video-intelligence-v1beta2@0.167.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-video-intelligence-v1beta2@0.167.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-video-intelligence-v1beta2@0.168.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-video-intelligence-v1beta2@0.168.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-video-intelligence-v1beta2@0.169.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-video-intelligence-v1beta2@0.169.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-video-intelligence-v1beta2@0.17.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-video-intelligence-v1beta2@0.17.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-video-intelligence-v1beta2@0.18.0

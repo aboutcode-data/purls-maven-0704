@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.firebase/installations@0.6.19
+- pkg:maven/org.mvnpm.at.firebase/installations@0.6.19?classifier=sources

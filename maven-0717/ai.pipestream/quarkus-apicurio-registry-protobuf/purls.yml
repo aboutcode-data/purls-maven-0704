@@ -1,0 +1,2 @@
+- pkg:maven/ai.pipestream/quarkus-apicurio-registry-protobuf@0.0.1?classifier=sources
+- pkg:maven/ai.pipestream/quarkus-apicurio-registry-protobuf@0.0.2?classifier=sources

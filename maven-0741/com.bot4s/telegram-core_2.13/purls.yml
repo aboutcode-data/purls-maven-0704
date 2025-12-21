@@ -46,3 +46,5 @@
 - pkg:maven/com.bot4s/telegram-core_2.13@5.8.4?classifier=sources
 - pkg:maven/com.bot4s/telegram-core_2.13@6.0.0
 - pkg:maven/com.bot4s/telegram-core_2.13@6.0.0?classifier=sources
+- pkg:maven/com.bot4s/telegram-core_2.13@6.0.1
+- pkg:maven/com.bot4s/telegram-core_2.13@6.0.1?classifier=sources

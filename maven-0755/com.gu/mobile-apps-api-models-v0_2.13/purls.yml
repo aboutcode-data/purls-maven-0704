@@ -315,6 +315,14 @@
 - pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.64-PREVIEW.amladd-description-html-to-header.2025-10-22T0739.f4674d72
 - pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.64-PREVIEW.amladd-description-html-to-header.2025-10-22T0739.f4674d72?classifier=sources
 - pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.64?classifier=sources
+- pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.65
+- pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.65-PREVIEW.amlupdate-branding-optionality.2025-11-18T1134.b561103a
+- pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.65-PREVIEW.amlupdate-branding-optionality.2025-11-18T1134.b561103a?classifier=sources
+- pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.65?classifier=sources
+- pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.66
+- pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.66-PREVIEW.amladd-new-fields-to-video-object.2025-11-20T1000.3c644edd
+- pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.66-PREVIEW.amladd-new-fields-to-video-object.2025-11-20T1000.3c644edd?classifier=sources
+- pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.66?classifier=sources
 - pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.6?classifier=sources
 - pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.7
 - pkg:maven/com.gu/mobile-apps-api-models-v0_2.13@1.0.7?classifier=sources

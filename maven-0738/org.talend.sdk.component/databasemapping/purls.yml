@@ -5,3 +5,4 @@
 - pkg:maven/org.talend.sdk.component/databasemapping@1.84.3?classifier=sources
 - pkg:maven/org.talend.sdk.component/databasemapping@1.84.4?classifier=sources
 - pkg:maven/org.talend.sdk.component/databasemapping@1.85.0?classifier=sources
+- pkg:maven/org.talend.sdk.component/databasemapping@1.87.0?classifier=sources

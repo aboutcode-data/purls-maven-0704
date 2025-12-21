@@ -1,0 +1,5 @@
+- pkg:maven/com.ekino.oss/metalastic-processor@1.0.0-rc.1?classifier=sources
+- pkg:maven/com.ekino.oss/metalastic-processor@1.0.1?classifier=sources
+- pkg:maven/com.ekino.oss/metalastic-processor@1.1.0?classifier=sources
+- pkg:maven/com.ekino.oss/metalastic-processor@elasticsearch-dsl-5.3-v1.0.0-rc.1?classifier=sources
+- pkg:maven/com.ekino.oss/metalastic-processor@elasticsearch-dsl-v1.0.0-rc.1?classifier=sources

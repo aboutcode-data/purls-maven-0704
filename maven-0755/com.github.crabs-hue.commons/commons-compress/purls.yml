@@ -35,3 +35,4 @@
 - pkg:maven/com.github.crabs-hue.commons/commons-compress@1.1.0
 - pkg:maven/com.github.crabs-hue.commons/commons-compress@1.1.0?classifier=sources
 - pkg:maven/com.github.crabs-hue.commons/commons-compress@2.0.0?classifier=sources
+- pkg:maven/com.github.crabs-hue.commons/commons-compress@2.1.0?classifier=sources

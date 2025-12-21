@@ -320,3 +320,10 @@
 - pkg:maven/io.airlift/security@375?classifier=sources
 - pkg:maven/io.airlift/security@376?classifier=sources
 - pkg:maven/io.airlift/security@377?classifier=sources
+- pkg:maven/io.airlift/security@378?classifier=sources
+- pkg:maven/io.airlift/security@379?classifier=sources
+- pkg:maven/io.airlift/security@380?classifier=sources
+- pkg:maven/io.airlift/security@381?classifier=sources
+- pkg:maven/io.airlift/security@382?classifier=sources
+- pkg:maven/io.airlift/security@383?classifier=sources
+- pkg:maven/io.airlift/security@384?classifier=sources

@@ -15,3 +15,5 @@
 - pkg:maven/com.boldsign/boldsign-java@2.0.0?classifier=sources
 - pkg:maven/com.boldsign/boldsign-java@2.0.1?classifier=sources
 - pkg:maven/com.boldsign/boldsign-java@2.0.2?classifier=sources
+- pkg:maven/com.boldsign/boldsign-java@3.0.0-beta.0?classifier=sources
+- pkg:maven/com.boldsign/boldsign-java@3.0.0?classifier=sources

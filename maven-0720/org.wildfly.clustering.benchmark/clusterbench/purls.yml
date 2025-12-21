@@ -3,3 +3,4 @@
 - pkg:maven/org.wildfly.clustering.benchmark/clusterbench@14.0.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.clustering.benchmark/clusterbench@14.0.1.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.clustering.benchmark/clusterbench@15.0.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.clustering.benchmark/clusterbench@15.0.1.Final?classifier=source-release&type=zip

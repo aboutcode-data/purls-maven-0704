@@ -364,6 +364,9 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-node-js@2025.10.9-24.7.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-node-js@2025.11.0-24.7.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-node-js@2025.11.1-24.7.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-node-js@2025.11.10-24.7.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-node-js@2025.11.11-24.7.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-node-js@2025.11.12-24.7.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-node-js@2025.11.2-24.7.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-node-js@2025.11.3-24.7.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-node-js@2025.11.4-24.7.1?classifier=sources

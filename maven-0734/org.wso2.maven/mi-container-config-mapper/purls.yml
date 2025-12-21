@@ -88,3 +88,5 @@
 - pkg:maven/org.wso2.maven/mi-container-config-mapper@5.2.98?classifier=sources
 - pkg:maven/org.wso2.maven/mi-container-config-mapper@5.2.99
 - pkg:maven/org.wso2.maven/mi-container-config-mapper@5.2.99?classifier=sources
+- pkg:maven/org.wso2.maven/mi-container-config-mapper@5.4.12
+- pkg:maven/org.wso2.maven/mi-container-config-mapper@5.4.12?classifier=sources

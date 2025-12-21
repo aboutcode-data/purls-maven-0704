@@ -1,1 +1,2 @@
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-cel-sampler@1.51.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.contrib/opentelemetry-cel-sampler@1.52.0-alpha?classifier=sources

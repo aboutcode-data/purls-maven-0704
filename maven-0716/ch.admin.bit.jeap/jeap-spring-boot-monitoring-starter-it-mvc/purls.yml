@@ -37,3 +37,6 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-spring-boot-monitoring-starter-it-mvc@18.0.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-spring-boot-monitoring-starter-it-mvc@18.1.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-spring-boot-monitoring-starter-it-mvc@18.2.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-spring-boot-monitoring-starter-it-mvc@18.3.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-spring-boot-monitoring-starter-it-mvc@18.4.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-spring-boot-monitoring-starter-it-mvc@18.5.0?classifier=sources

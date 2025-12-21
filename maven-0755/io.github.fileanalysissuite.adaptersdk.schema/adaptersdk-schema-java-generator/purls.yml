@@ -1,0 +1,2 @@
+- pkg:maven/io.github.fileanalysissuite.adaptersdk.schema/adaptersdk-schema-java-generator@1.5.0-377
+- pkg:maven/io.github.fileanalysissuite.adaptersdk.schema/adaptersdk-schema-java-generator@1.5.0-377?classifier=sources

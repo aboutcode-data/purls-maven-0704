@@ -8,3 +8,9 @@
 - pkg:maven/com.gu/janus-config-tools_3@5.0.1-PREVIEW.dependabotgithubactionsguardiangha-scala-library-release-workflow-2.2025-06-09T0903.1fa3010e?classifier=sources
 - pkg:maven/com.gu/janus-config-tools_3@5.0.1-PREVIEW.kcrelease.2025-06-03T1326.46134642
 - pkg:maven/com.gu/janus-config-tools_3@5.0.1-PREVIEW.kcrelease.2025-06-03T1326.46134642?classifier=sources
+- pkg:maven/com.gu/janus-config-tools_3@5.1.0-PREVIEW.kcno-scala2.2025-11-26T1327.a3564a3d
+- pkg:maven/com.gu/janus-config-tools_3@5.1.0-PREVIEW.kcno-scala2.2025-11-26T1327.a3564a3d?classifier=sources
+- pkg:maven/com.gu/janus-config-tools_3@6.0.0
+- pkg:maven/com.gu/janus-config-tools_3@6.0.0-PREVIEW.kcprovisioned.2025-11-18T1532.d6939a2c
+- pkg:maven/com.gu/janus-config-tools_3@6.0.0-PREVIEW.kcprovisioned.2025-11-18T1532.d6939a2c?classifier=sources
+- pkg:maven/com.gu/janus-config-tools_3@6.0.0?classifier=sources

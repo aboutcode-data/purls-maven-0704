@@ -1,3 +1,8 @@
+- pkg:maven/io.mvnpm/esbuild-java-plugin-sass@2.0.0-CR1?classifier=sources
+- pkg:maven/io.mvnpm/esbuild-java-plugin-sass@2.0.0-CR2?classifier=sources
+- pkg:maven/io.mvnpm/esbuild-java-plugin-sass@2.0.0-CR3?classifier=sources
 - pkg:maven/io.mvnpm/esbuild-java-plugin-sass@2.0.0-beta-1?classifier=sources
 - pkg:maven/io.mvnpm/esbuild-java-plugin-sass@2.0.0-beta-2?classifier=sources
 - pkg:maven/io.mvnpm/esbuild-java-plugin-sass@2.0.0-beta-3?classifier=sources
+- pkg:maven/io.mvnpm/esbuild-java-plugin-sass@2.0.0.CR4?classifier=sources
+- pkg:maven/io.mvnpm/esbuild-java-plugin-sass@2.0.0.CR5?classifier=sources

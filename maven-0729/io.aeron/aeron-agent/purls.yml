@@ -161,6 +161,8 @@
 - pkg:maven/io.aeron/aeron-agent@1.48.0
 - pkg:maven/io.aeron/aeron-agent@1.48.0?classifier=sources
 - pkg:maven/io.aeron/aeron-agent@1.48.1
+- pkg:maven/io.aeron/aeron-agent@1.48.10
+- pkg:maven/io.aeron/aeron-agent@1.48.10?classifier=sources
 - pkg:maven/io.aeron/aeron-agent@1.48.1?classifier=sources
 - pkg:maven/io.aeron/aeron-agent@1.48.2
 - pkg:maven/io.aeron/aeron-agent@1.48.2?classifier=sources
@@ -182,6 +184,8 @@
 - pkg:maven/io.aeron/aeron-agent@1.49.0?classifier=sources
 - pkg:maven/io.aeron/aeron-agent@1.49.1
 - pkg:maven/io.aeron/aeron-agent@1.49.1?classifier=sources
+- pkg:maven/io.aeron/aeron-agent@1.49.2
+- pkg:maven/io.aeron/aeron-agent@1.49.2?classifier=sources
 - pkg:maven/io.aeron/aeron-agent@1.5.0?classifier=sources
 - pkg:maven/io.aeron/aeron-agent@1.5.1?classifier=sources
 - pkg:maven/io.aeron/aeron-agent@1.5.2?classifier=sources

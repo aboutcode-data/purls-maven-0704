@@ -1,0 +1,2 @@
+- pkg:maven/net.optionfactory.spring/upstream-interceptor-jws@23.2?classifier=sources
+- pkg:maven/net.optionfactory.spring/upstream-interceptor-jws@23.3?classifier=sources

@@ -7,3 +7,4 @@
 - pkg:maven/app.cash.sqldelight/r2dbc-driver@2.0.1?classifier=sources
 - pkg:maven/app.cash.sqldelight/r2dbc-driver@2.0.2?classifier=sources
 - pkg:maven/app.cash.sqldelight/r2dbc-driver@2.1.0?classifier=sources
+- pkg:maven/app.cash.sqldelight/r2dbc-driver@2.2.1?classifier=sources

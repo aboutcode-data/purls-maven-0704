@@ -27,3 +27,6 @@
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/tme_remote@1065_fixed?classifier=sources
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/tme_remote@1066?classifier=sources
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/tme_remote@1067?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/tme_remote@1068?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/tme_remote@1069?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/tme_remote@1070?classifier=sources

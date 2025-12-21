@@ -1,2 +1,3 @@
 - pkg:maven/com.navercorp.pinpoint/pinpoint-aws-sdk-s3-plugin@3.0.3
 - pkg:maven/com.navercorp.pinpoint/pinpoint-aws-sdk-s3-plugin@3.0.3?classifier=sources
+- pkg:maven/com.navercorp.pinpoint/pinpoint-aws-sdk-s3-plugin@3.0.4?classifier=sources

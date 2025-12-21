@@ -34,3 +34,5 @@
 - pkg:maven/dev.langchain4j/langchain4j-google-ai-gemini@1.7.0?classifier=sources
 - pkg:maven/dev.langchain4j/langchain4j-google-ai-gemini@1.7.1?classifier=sources
 - pkg:maven/dev.langchain4j/langchain4j-google-ai-gemini@1.8.0?classifier=sources
+- pkg:maven/dev.langchain4j/langchain4j-google-ai-gemini@1.9.0?classifier=sources
+- pkg:maven/dev.langchain4j/langchain4j-google-ai-gemini@1.9.1?classifier=sources

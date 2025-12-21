@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.gravitino/gravitino-mcp-server@1.0.0?classifier=sources
+- pkg:maven/org.apache.gravitino/gravitino-mcp-server@1.0.1?classifier=sources

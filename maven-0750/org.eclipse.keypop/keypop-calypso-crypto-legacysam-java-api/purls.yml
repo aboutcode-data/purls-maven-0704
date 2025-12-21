@@ -3,3 +3,4 @@
 - pkg:maven/org.eclipse.keypop/keypop-calypso-crypto-legacysam-java-api@0.5.0?classifier=sources
 - pkg:maven/org.eclipse.keypop/keypop-calypso-crypto-legacysam-java-api@0.6.0?classifier=sources
 - pkg:maven/org.eclipse.keypop/keypop-calypso-crypto-legacysam-java-api@0.7.0?classifier=sources
+- pkg:maven/org.eclipse.keypop/keypop-calypso-crypto-legacysam-java-api@1.0.0?classifier=sources

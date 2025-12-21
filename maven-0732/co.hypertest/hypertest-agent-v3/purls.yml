@@ -1,0 +1,2 @@
+- pkg:maven/co.hypertest/hypertest-agent-v3@0.0.1-beta?classifier=sources
+- pkg:maven/co.hypertest/hypertest-agent-v3@0.0.1?classifier=sources

@@ -7,3 +7,4 @@
 - pkg:maven/dev.forkhandles/ropes4k@2.22.4.0?classifier=sources
 - pkg:maven/dev.forkhandles/ropes4k@2.22.5.0?classifier=sources
 - pkg:maven/dev.forkhandles/ropes4k@2.23.0.0?classifier=sources
+- pkg:maven/dev.forkhandles/ropes4k@2.24.0.0?classifier=sources

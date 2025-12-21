@@ -8,3 +8,4 @@
 - pkg:maven/io.github.joshaghani/composeScreen-js@1.0.0-beta50?classifier=sources
 - pkg:maven/io.github.joshaghani/composeScreen-js@1.0.0-beta51?classifier=sources
 - pkg:maven/io.github.joshaghani/composeScreen-js@1.0.0-beta52?classifier=sources
+- pkg:maven/io.github.joshaghani/composeScreen-js@1.0.0-beta55?classifier=sources

@@ -8,3 +8,4 @@
 - pkg:maven/org.qubership.atp.mia/atp-mia-distribution@2.0.69?classifier=sources
 - pkg:maven/org.qubership.atp.mia/atp-mia-distribution@2.0.70?classifier=sources
 - pkg:maven/org.qubership.atp.mia/atp-mia-distribution@2.0.71?classifier=sources
+- pkg:maven/org.qubership.atp.mia/atp-mia-distribution@2.0.72?classifier=sources

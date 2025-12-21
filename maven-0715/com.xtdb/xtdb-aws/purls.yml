@@ -14,3 +14,5 @@
 - pkg:maven/com.xtdb/xtdb-aws@2.0.0-beta8?classifier=sources
 - pkg:maven/com.xtdb/xtdb-aws@2.0.0-beta9?classifier=sources
 - pkg:maven/com.xtdb/xtdb-aws@2.0.0?classifier=sources
+- pkg:maven/com.xtdb/xtdb-aws@2.1.0-rc0?classifier=sources
+- pkg:maven/com.xtdb/xtdb-aws@2.1.0?classifier=sources

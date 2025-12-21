@@ -27,6 +27,9 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-query-js@2025.10.9-5.90.5?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-query-js@2025.11.0-5.90.5?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-query-js@2025.11.1-5.90.5?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-query-js@2025.11.10-5.90.8?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-query-js@2025.11.11-5.90.8?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-query-js@2025.11.12-5.90.10?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-query-js@2025.11.2-5.90.6?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-query-js@2025.11.3-5.90.6?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-query-js@2025.11.4-5.90.6?classifier=sources

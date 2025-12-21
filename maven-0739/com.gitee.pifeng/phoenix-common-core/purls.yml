@@ -47,4 +47,5 @@
 - pkg:maven/com.gitee.pifeng/phoenix-common-core@2.0.3.RELEASE?classifier=sources
 - pkg:maven/com.gitee.pifeng/phoenix-common-core@2.0.4.RELEASE-CR1?classifier=sources
 - pkg:maven/com.gitee.pifeng/phoenix-common-core@2.0.4.RELEASE-CR2?classifier=sources
+- pkg:maven/com.gitee.pifeng/phoenix-common-core@2.0.4.RELEASE-CR3?classifier=sources
 - pkg:maven/com.gitee.pifeng/phoenix-common-core@2.0.4.RELEASE?classifier=sources

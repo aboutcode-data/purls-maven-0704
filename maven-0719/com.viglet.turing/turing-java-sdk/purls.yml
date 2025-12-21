@@ -3,3 +3,4 @@
 - pkg:maven/com.viglet.turing/turing-java-sdk@2025.3.61?classifier=sources
 - pkg:maven/com.viglet.turing/turing-java-sdk@2025.3.64?classifier=sources
 - pkg:maven/com.viglet.turing/turing-java-sdk@2025.3.65?classifier=sources
+- pkg:maven/com.viglet.turing/turing-java-sdk@2025.4.3?classifier=sources

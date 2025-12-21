@@ -48,3 +48,4 @@
 - pkg:maven/io.kubernetes/e2e-tests@23.0.0-legacy
 - pkg:maven/io.kubernetes/e2e-tests@24.0.0
 - pkg:maven/io.kubernetes/e2e-tests@24.0.0-legacy
+- pkg:maven/io.kubernetes/e2e-tests@25.0.0-legacy

@@ -70,3 +70,4 @@
 - pkg:maven/me.proton.core/user-recovery@35.0.0?classifier=sources
 - pkg:maven/me.proton.core/user-recovery@35.1.0?classifier=sources
 - pkg:maven/me.proton.core/user-recovery@35.2.0?classifier=sources
+- pkg:maven/me.proton.core/user-recovery@36.0.0?classifier=sources

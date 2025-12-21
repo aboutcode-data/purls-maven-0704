@@ -95,6 +95,9 @@
 - pkg:maven/com.appmattus.certificatetransparency/certificatetransparency@2.8.12?classifier=sources
 - pkg:maven/com.appmattus.certificatetransparency/certificatetransparency@2.8.13?classifier=sources
 - pkg:maven/com.appmattus.certificatetransparency/certificatetransparency@2.8.14?classifier=sources
+- pkg:maven/com.appmattus.certificatetransparency/certificatetransparency@2.8.15?classifier=sources
+- pkg:maven/com.appmattus.certificatetransparency/certificatetransparency@2.8.16?classifier=sources
+- pkg:maven/com.appmattus.certificatetransparency/certificatetransparency@2.8.17?classifier=sources
 - pkg:maven/com.appmattus.certificatetransparency/certificatetransparency@2.8.1?classifier=sources
 - pkg:maven/com.appmattus.certificatetransparency/certificatetransparency@2.8.2?classifier=sources
 - pkg:maven/com.appmattus.certificatetransparency/certificatetransparency@2.8.3?classifier=sources

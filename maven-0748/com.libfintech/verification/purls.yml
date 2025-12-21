@@ -18,3 +18,4 @@
 - pkg:maven/com.libfintech/verification@2.2?classifier=sources
 - pkg:maven/com.libfintech/verification@2.3
 - pkg:maven/com.libfintech/verification@2.3?classifier=sources
+- pkg:maven/com.libfintech/verification@2.4?classifier=sources

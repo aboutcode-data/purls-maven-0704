@@ -1,0 +1,2 @@
+- pkg:maven/software.amazon.opentelemetry.android/ui-loading@0.0.0?classifier=sources
+- pkg:maven/software.amazon.opentelemetry.android/ui-loading@1.0.0?classifier=sources

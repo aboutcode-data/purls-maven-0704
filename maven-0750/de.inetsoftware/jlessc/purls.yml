@@ -7,6 +7,7 @@
 - pkg:maven/de.inetsoftware/jlessc@1.12?classifier=sources
 - pkg:maven/de.inetsoftware/jlessc@1.13?classifier=sources
 - pkg:maven/de.inetsoftware/jlessc@1.14?classifier=sources
+- pkg:maven/de.inetsoftware/jlessc@1.15?classifier=sources
 - pkg:maven/de.inetsoftware/jlessc@1.1?classifier=sources
 - pkg:maven/de.inetsoftware/jlessc@1.2
 - pkg:maven/de.inetsoftware/jlessc@1.2?classifier=sources

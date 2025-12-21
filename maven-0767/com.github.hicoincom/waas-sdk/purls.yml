@@ -25,3 +25,5 @@
 - pkg:maven/com.github.hicoincom/waas-sdk@2.0.7?classifier=sources
 - pkg:maven/com.github.hicoincom/waas-sdk@2.0.8?classifier=sources
 - pkg:maven/com.github.hicoincom/waas-sdk@2.0.9?classifier=sources
+- pkg:maven/com.github.hicoincom/waas-sdk@2.1.0?classifier=sources
+- pkg:maven/com.github.hicoincom/waas-sdk@2.1.1?classifier=sources

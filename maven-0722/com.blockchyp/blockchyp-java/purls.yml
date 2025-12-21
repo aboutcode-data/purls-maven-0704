@@ -133,6 +133,7 @@
 - pkg:maven/com.blockchyp/blockchyp-java@2.24.11?classifier=sources
 - pkg:maven/com.blockchyp/blockchyp-java@2.24.12?classifier=sources
 - pkg:maven/com.blockchyp/blockchyp-java@2.24.14?classifier=sources
+- pkg:maven/com.blockchyp/blockchyp-java@2.25.0?classifier=sources
 - pkg:maven/com.blockchyp/blockchyp-java@2.3.0
 - pkg:maven/com.blockchyp/blockchyp-java@2.3.0?classifier=sources
 - pkg:maven/com.blockchyp/blockchyp-java@2.3.1

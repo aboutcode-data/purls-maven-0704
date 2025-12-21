@@ -16,6 +16,8 @@
 - pkg:maven/org.scala-sbt/librarymanagement-coursier_3@2.0.0-RC5?classifier=sources
 - pkg:maven/org.scala-sbt/librarymanagement-coursier_3@2.0.0-RC6
 - pkg:maven/org.scala-sbt/librarymanagement-coursier_3@2.0.0-RC6?classifier=sources
+- pkg:maven/org.scala-sbt/librarymanagement-coursier_3@2.0.0-RC7
+- pkg:maven/org.scala-sbt/librarymanagement-coursier_3@2.0.0-RC7?classifier=sources
 - pkg:maven/org.scala-sbt/librarymanagement-coursier_3@2.0.0-alpha1
 - pkg:maven/org.scala-sbt/librarymanagement-coursier_3@2.0.0-alpha1?classifier=sources
 - pkg:maven/org.scala-sbt/librarymanagement-coursier_3@2.0.0-alpha2

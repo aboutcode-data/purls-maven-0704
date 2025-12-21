@@ -42,3 +42,7 @@
 - pkg:maven/org.mvnpm.at.typescript-eslint/tsconfig-utils@8.46.2?classifier=sources
 - pkg:maven/org.mvnpm.at.typescript-eslint/tsconfig-utils@8.46.3
 - pkg:maven/org.mvnpm.at.typescript-eslint/tsconfig-utils@8.46.3?classifier=sources
+- pkg:maven/org.mvnpm.at.typescript-eslint/tsconfig-utils@8.47.0
+- pkg:maven/org.mvnpm.at.typescript-eslint/tsconfig-utils@8.47.0?classifier=sources
+- pkg:maven/org.mvnpm.at.typescript-eslint/tsconfig-utils@8.48.0
+- pkg:maven/org.mvnpm.at.typescript-eslint/tsconfig-utils@8.48.0?classifier=sources

@@ -146,6 +146,7 @@
 - pkg:maven/org.openrewrite.recipe/rewrite-testing-frameworks@3.21.1?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-testing-frameworks@3.21.2?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-testing-frameworks@3.21.3?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-testing-frameworks@3.22.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-testing-frameworks@3.3.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-testing-frameworks@3.4.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-testing-frameworks@3.5.0?classifier=sources

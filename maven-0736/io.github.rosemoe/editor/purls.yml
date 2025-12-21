@@ -1,1 +1,4 @@
 - pkg:maven/io.github.rosemoe/editor@0.23.7?classifier=sources
+- pkg:maven/io.github.rosemoe/editor@0.24.0?classifier=sources
+- pkg:maven/io.github.rosemoe/editor@0.24.1?classifier=sources
+- pkg:maven/io.github.rosemoe/editor@0.24.2?classifier=sources

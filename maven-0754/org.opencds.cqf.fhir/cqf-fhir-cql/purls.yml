@@ -90,3 +90,4 @@
 - pkg:maven/org.opencds.cqf.fhir/cqf-fhir-cql@3.8.0?classifier=sources
 - pkg:maven/org.opencds.cqf.fhir/cqf-fhir-cql@3.9.0
 - pkg:maven/org.opencds.cqf.fhir/cqf-fhir-cql@3.9.0?classifier=sources
+- pkg:maven/org.opencds.cqf.fhir/cqf-fhir-cql@4.0.0?classifier=sources

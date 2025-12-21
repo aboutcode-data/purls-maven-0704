@@ -15,6 +15,9 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vscode@2025.10.9-1.105.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vscode@2025.11.0-1.105.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vscode@2025.11.1-1.105.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vscode@2025.11.10-1.106.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vscode@2025.11.11-1.106.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vscode@2025.11.12-1.106.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vscode@2025.11.2-1.105.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vscode@2025.11.3-1.105.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vscode@2025.11.4-1.105.0?classifier=sources

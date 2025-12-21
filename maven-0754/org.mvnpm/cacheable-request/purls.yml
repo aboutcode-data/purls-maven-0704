@@ -11,6 +11,8 @@
 - pkg:maven/org.mvnpm/cacheable-request@13.0.13?classifier=sources
 - pkg:maven/org.mvnpm/cacheable-request@13.0.14
 - pkg:maven/org.mvnpm/cacheable-request@13.0.14?classifier=sources
+- pkg:maven/org.mvnpm/cacheable-request@13.0.15
+- pkg:maven/org.mvnpm/cacheable-request@13.0.15?classifier=sources
 - pkg:maven/org.mvnpm/cacheable-request@13.0.4?classifier=sources
 - pkg:maven/org.mvnpm/cacheable-request@13.0.5?classifier=sources
 - pkg:maven/org.mvnpm/cacheable-request@13.0.6

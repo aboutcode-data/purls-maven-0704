@@ -1,0 +1,2 @@
+- pkg:maven/com.github.sbt/sbt-jacoco_sbt2_3@3.6.0
+- pkg:maven/com.github.sbt/sbt-jacoco_sbt2_3@3.6.0?classifier=sources

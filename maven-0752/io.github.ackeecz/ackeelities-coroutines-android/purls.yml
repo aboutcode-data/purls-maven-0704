@@ -1,1 +1,2 @@
 - pkg:maven/io.github.ackeecz/ackeelities-coroutines-android@1.0.0?classifier=sources
+- pkg:maven/io.github.ackeecz/ackeelities-coroutines-android@1.1.0?classifier=sources

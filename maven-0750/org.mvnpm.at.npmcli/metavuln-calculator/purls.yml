@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm.at.npmcli/metavuln-calculator@9.0.2
 - pkg:maven/org.mvnpm.at.npmcli/metavuln-calculator@9.0.2?classifier=sources
+- pkg:maven/org.mvnpm.at.npmcli/metavuln-calculator@9.0.3
+- pkg:maven/org.mvnpm.at.npmcli/metavuln-calculator@9.0.3?classifier=sources

@@ -143,3 +143,7 @@
 - pkg:maven/com.easypost/easypost-api-client@8.2.0?classifier=sources
 - pkg:maven/com.easypost/easypost-api-client@8.3.0
 - pkg:maven/com.easypost/easypost-api-client@8.3.0?classifier=sources
+- pkg:maven/com.easypost/easypost-api-client@8.4.0
+- pkg:maven/com.easypost/easypost-api-client@8.4.0?classifier=sources
+- pkg:maven/com.easypost/easypost-api-client@8.4.1
+- pkg:maven/com.easypost/easypost-api-client@8.4.1?classifier=sources

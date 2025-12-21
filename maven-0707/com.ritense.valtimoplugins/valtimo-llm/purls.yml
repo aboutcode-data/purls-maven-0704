@@ -1,3 +1,4 @@
 - pkg:maven/com.ritense.valtimoplugins/valtimo-llm@5.4.0?classifier=sources
 - pkg:maven/com.ritense.valtimoplugins/valtimo-llm@5.4.1?classifier=sources
 - pkg:maven/com.ritense.valtimoplugins/valtimo-llm@5.4.4?classifier=sources
+- pkg:maven/com.ritense.valtimoplugins/valtimo-llm@6.0.0?classifier=sources
